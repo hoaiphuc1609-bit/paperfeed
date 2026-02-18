@@ -22,10 +22,10 @@ It is designed to be simple:
 ## What is shown for each paper
 - Title
 - Authors
-- Publication date
-- Abstract
-- Methods (if detected in abstract sections)
+- Publication date (human-readable + ISO date when available)
+- Structured abstract blocks: Objective/Aims, Study and Methods, Results, Conclusion
 - Limitations (if detected in abstract sections)
+- Figures link (opens the PubMed figures section)
 - Link to PubMed
 
 > Note: The script uses PubMed metadata/abstract. Full-text extraction is not guaranteed.
