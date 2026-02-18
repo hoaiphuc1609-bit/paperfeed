@@ -1,0 +1,166 @@
+:root {
+  --paper-bg: #f4efe4;
+  --ink: #1e1c18;
+  --muted: #5d5851;
+  --line: #d0c7b6;
+  --active: #8b1e1e;
+  --card-bg: #fffcf5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--paper-bg);
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+.masthead {
+  border-bottom: 2px solid var(--line);
+  background: #f8f3e7;
+}
+
+.masthead-inner,
+main,
+.topics-bar {
+  width: min(1200px, 95vw);
+  margin: 0 auto;
+}
+
+.masthead-inner {
+  text-align: center;
+  padding: 18px 0 14px;
+}
+
+.masthead h1 {
+  margin: 0;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.masthead p {
+  margin: 6px 0 0;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.topics-bar {
+  border-bottom: 1px solid var(--line);
+  padding: 8px 0;
+}
+
+.topic-tabs {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding-bottom: 2px;
+}
+
+.topic-tab {
+  border: 1px solid var(--line);
+  background: #fffdf8;
+  color: var(--ink);
+  padding: 8px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  white-space: nowrap;
+  font-size: 0.9rem;
+}
+
+.topic-tab:hover {
+  background: #f9f2e3;
+}
+
+.topic-tab.active {
+  border-color: var(--active);
+  color: #fff;
+  background: var(--active);
+}
+
+main {
+  padding: 14px 0 24px;
+}
+
+.news-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+.story-card {
+  border: 1px solid var(--line);
+  background: var(--card-bg);
+  padding: 12px;
+}
+
+.story-card.featured {
+  grid-column: 1 / -1;
+  border-width: 2px;
+}
+
+.title {
+  margin: 0 0 8px;
+  font-size: 1.35rem;
+  line-height: 1.25;
+}
+
+.story-card.featured .title {
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+.authors,
+.date {
+  margin: 4px 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.abstract {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+
+.detail h3 {
+  margin: 10px 0 4px;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.link {
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: 700;
+  color: var(--active);
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.hidden {
+  display: none;
+}
+
+.empty {
+  grid-column: 1 / -1;
+  margin: 0;
+  padding: 14px;
+  border: 1px dashed var(--line);
+  background: #fffdf8;
+}
+
+@media (max-width: 960px) {
+  .story-card.featured .title {
+    font-size: 1.6rem;
+  }
+}

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PaperFeed</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="masthead">
+      <div class="masthead-inner">
+        <h1>PaperFeed Daily</h1>
+        <p>PubMed digest for maxillofacial and related surgery topics</p>
+        <p class="meta" id="last-updated">Loading latest update…</p>
+      </div>
+    </header>
+
+    <nav class="topics-bar" aria-label="Paper topics">
+      <div id="topic-tabs" class="topic-tabs"></div>
+    </nav>
+
+    <main>
+      <section id="feed" class="news-layout" aria-live="polite"></section>
+    </main>
+
+    <template id="paper-template">
+      <article class="story-card">
+        <h2 class="title"></h2>
+        <p class="authors"></p>
+        <p class="date"></p>
+        <p class="abstract"></p>
+        <div class="detail methods-wrap hidden">
+          <h3>Methods</h3>
+          <p class="methods"></p>
+        </div>
+        <div class="detail limitations-wrap hidden">
+          <h3>Limitations</h3>
+          <p class="limitations"></p>
+        </div>
+        <a class="link" target="_blank" rel="noopener noreferrer">Read on PubMed</a>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>
