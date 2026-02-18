@@ -50,9 +50,15 @@ def request_text(url: str, params: dict[str, str]) -> str:
     request_url = f"{url}?{query}"
     last_error: Exception | None = None
 
+    headers = {
+        "User-Agent": "paperfeed-bot/1.0 (https://pubmed.ncbi.nlm.nih.gov/)",
+        "Accept": "text/html,application/xml,application/json;q=0.9,*/*;q=0.8",
+    }
+
     for attempt in range(3):
         try:
-            with urllib.request.urlopen(request_url, timeout=30) as response:
+            req = urllib.request.Request(request_url, headers=headers)
+            with urllib.request.urlopen(req, timeout=30) as response:
                 return response.read().decode("utf-8", errors="replace")
         except Exception as err:  # noqa: BLE001
             last_error = err
@@ -142,6 +148,34 @@ def extract_abstract_sections(article: ET.Element) -> tuple[str, str, str]:
     return full_abstract, " ".join(methods_parts).strip(), " ".join(limitations_parts).strip()
 
 
+
+
+def extract_core_sections(abstract_text: str) -> tuple[str, str, str]:
+    text = " ".join((abstract_text or "").split())
+    if not text:
+        return "", "", ""
+
+    def find(patterns: list[str]) -> str:
+        for pat in patterns:
+            match = re.search(pat, text, flags=re.IGNORECASE | re.DOTALL)
+            if match:
+                return " ".join(match.group(1).split()).strip()
+        return ""
+
+    objective = find([
+        r"(?:^|\b)(?:objectives?|aims?|purpose)\b\s*[:.-]?\s*(.*?)(?=\b(?:methods?|materials? and methods?|results?|conclusions?)\b|$)",
+    ])
+
+    results = find([
+        r"\bresults?\s*[:.-]?\s*(.*?)(?=\b(?:conclusions?)\b|$)",
+    ])
+
+    conclusion = find([
+        r"\bconclusions?\s*[:.-]?\s*(.*)$",
+    ])
+
+    return objective, results, conclusion
+
 def parse_pub_date(article: ET.Element) -> str:
     pub_date = article.find(".//Journal/JournalIssue/PubDate")
     if pub_date is None:
@@ -162,6 +196,46 @@ def parse_pub_date(article: ET.Element) -> str:
 
     return medline_date
 
+
+
+
+def extract_pmcid(pubmed_article: ET.Element) -> str:
+    for elem in pubmed_article.findall('.//PubmedData/ArticleIdList/ArticleId'):
+        if (elem.attrib.get('IdType') or '').lower() == 'pmc':
+            return (elem.text or '').strip()
+    return ''
+
+
+def fetch_pmc_figure_urls(pmcid: str, max_figures: int = 4) -> list[str]:
+    if not pmcid:
+        return []
+
+    xml_url = f'https://www.ebi.ac.uk/europepmc/webservices/rest/{pmcid}/fullTextXML'
+    try:
+        fulltext_xml = request_text(xml_url, {})
+    except Exception:  # noqa: BLE001
+        return []
+
+    hrefs = re.findall(r'<graphic[^>]+xlink:href="([^"]+)"', fulltext_xml, flags=re.IGNORECASE)
+    figure_urls: list[str] = []
+
+    for href in hrefs:
+        cleaned = href.strip()
+        if not re.search(r'\.(jpg|jpeg|png|gif|webp)$', cleaned, flags=re.IGNORECASE):
+            continue
+
+        if cleaned.lower().startswith('http://') or cleaned.lower().startswith('https://'):
+            url = cleaned
+        else:
+            url = f'https://pmc.ncbi.nlm.nih.gov/articles/{pmcid}/bin/{cleaned}'
+
+        if url not in figure_urls:
+            figure_urls.append(url)
+
+        if len(figure_urls) >= max_figures:
+            break
+
+    return figure_urls
 
 def fetch_pmids_by_topic() -> dict[str, list[str]]:
     results: dict[str, list[str]] = {}
@@ -225,6 +299,9 @@ def fetch_details(pmids: list[str], pmid_topics: dict[str, set[str]]) -> list[di
                 authors.append(f"{fore} {last}".strip())
 
         abstract, methods, limitations = extract_abstract_sections(article)
+        objective, results, conclusion = extract_core_sections(abstract)
+        pmcid = extract_pmcid(pubmed_article)
+        figure_urls = fetch_pmc_figure_urls(pmcid)
 
         papers.append(
             {
@@ -234,10 +311,16 @@ def fetch_details(pmids: list[str], pmid_topics: dict[str, set[str]]) -> list[di
                 "publication_date": pub_date_raw,
                 "publication_date_iso": publication_date_iso,
                 "abstract": abstract,
+                "objective": objective,
+                "study_methods": methods,
                 "methods": methods,
+                "results": results,
+                "conclusion": conclusion,
                 "limitations": limitations,
                 "topics": sorted(pmid_topics.get(pmid, [])),
                 "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
+                "pmcid": pmcid,
+                "figure_urls": figure_urls,
             }
         )
 

@@ -123,8 +123,8 @@ main {
   font-size: 0.95rem;
 }
 
-.abstract {
-  margin: 10px 0;
+.detail p {
+  margin: 6px 0;
   line-height: 1.5;
 }
 
@@ -163,4 +163,35 @@ main {
   .story-card.featured .title {
     font-size: 1.6rem;
   }
+}
+
+.figures-link {
+  color: var(--active);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.figures-link:hover {
+  text-decoration: underline;
+}
+
+.figures-grid {
+  margin-top: 6px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 8px;
+}
+
+.figure-item {
+  display: block;
+  border: 1px solid var(--line);
+  background: #fff;
+  overflow: hidden;
+}
+
+.figure-item img {
+  display: block;
+  width: 100%;
+  height: 90px;
+  object-fit: cover;
 }
