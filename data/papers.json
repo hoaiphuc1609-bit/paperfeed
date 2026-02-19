@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-18T14:47:46Z",
+  "updated_at": "2026-02-19T04:25:15Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -309,6 +309,64 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41205278/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41705027",
+      "title": "Differential expression of CD74 and C1QB in jaw versus long bone osteosarcoma: Insights from animal models, public datasets and clinical cohorts.",
+      "authors": [
+        "Lalan Zhang",
+        "Jiaoyan Liu",
+        "Shengjie Shao",
+        "Xiang Liu",
+        "Liqin Zhang",
+        "Weihong Wang"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "This study aimed to investigate the differential expression of macrophage-related factors between jaw and long bone osteosarcoma, thereby providing potential candidates for future functional and mechanistic research. Twenty-four Sprague-Dawley (SD) rats were randomly divided into control, jaw osteosarcoma, and long bone osteosarcoma groups. UMR106 cells were implanted subcutaneously in nude mice, then tumors were transplanted into rat jaw and tibial bone marrow to establish osteosarcoma models. Bone changes were observed using Micro-CT, while histological changes were examined with H&E and Masson's trichrome staining. Transcriptome sequencing identified differentially expressed genes (DEGs), with the top three genes selected using Cytohubba software. Survival analysis was performed using the GEPIA database. A retrospective analysis was conducted on jaw osteosarcoma patients and long bone osteosarcoma patients from November 2014 to June 2023. Finally, immunohistochemical staining validated the expression levels of relevant proteins in both animal and clinical tissue samples. Micro-CT revealed significant bone destruction in both osteosarcoma models. Histological analysis revealed high pleomorphism in osteosarcoma cells, predominantly spindle and polygonal shapes, with evident pathological mitosis. Transcriptome sequencing identified 414 DEGs, including the top three: RT1-Da, CD74, and C1QB. Survival analysis showed high expression of CD74 and C1QB correlated positively with overall survival in patients with osteosarcoma. Immunohistochemistry demonstrated higher CD74 and C1QB expression in jaw osteosarcoma compared to long bone osteosarcoma in both rats and humans (P < 0.05). The expression levels of CD74 and C1QB were significantly higher in jaw osteosarcoma than in long bone osteosarcoma, suggesting that this differential expression may have clinical relevance for patient survival and warrants further investigation.",
+      "objective": "",
+      "study_methods": "Twenty-four Sprague-Dawley (SD) rats were randomly divided into control, jaw osteosarcoma, and long bone osteosarcoma groups. UMR106 cells were implanted subcutaneously in nude mice, then tumors were transplanted into rat jaw and tibial bone marrow to establish osteosarcoma models. Bone changes were observed using Micro-CT, while histological changes were examined with H&E and Masson's trichrome staining. Transcriptome sequencing identified differentially expressed genes (DEGs), with the top three genes selected using Cytohubba software. Survival analysis was performed using the GEPIA database. A retrospective analysis was conducted on jaw osteosarcoma patients and long bone osteosarcoma patients from November 2014 to June 2023. Finally, immunohistochemical staining validated the expression levels of relevant proteins in both animal and clinical tissue samples.",
+      "methods": "Twenty-four Sprague-Dawley (SD) rats were randomly divided into control, jaw osteosarcoma, and long bone osteosarcoma groups. UMR106 cells were implanted subcutaneously in nude mice, then tumors were transplanted into rat jaw and tibial bone marrow to establish osteosarcoma models. Bone changes were observed using Micro-CT, while histological changes were examined with H&E and Masson's trichrome staining. Transcriptome sequencing identified differentially expressed genes (DEGs), with the top three genes selected using Cytohubba software. Survival analysis was performed using the GEPIA database. A retrospective analysis was conducted on jaw osteosarcoma patients and long bone osteosarcoma patients from November 2014 to June 2023. Finally, immunohistochemical staining validated the expression levels of relevant proteins in both animal and clinical tissue samples.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41705027/",
+      "pmcid": "PMC12907127",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907127/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907127/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907127/bin/gr3.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907127/bin/gr4.jpg"
+      ]
+    },
+    {
+      "pmid": "41704077",
+      "title": "Is Accurate Dental Implant Placement Feasible Using a Novel Dynamic Computer-Assisted Surgery System Without Patient Optical Markers or Registration? A Preliminary Retrospective Cohort Study.",
+      "authors": [
+        "Gang He",
+        "Hongbing Liao",
+        "Hong Sheng",
+        "Eduard Valmaseda-Castellón",
+        "Rui Figueiredo"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "To evaluate the accuracy and surgery time of dental implant placement using a novel dynamic computer-assisted implant surgery (dCAIS) system that eliminates the need for patient registration and optical tracking markers. The secondary objective was to compare these outcomes with those obtained using a conventional dCAIS system. A preliminary retrospective cohort study was conducted involving 33 participants (33 implants). Eleven implants were placed using the novel dCAIS system that determines patient positioning based on anterior tooth anatomy (Prototype group), while 22 implants were placed using a conventional dCAIS system requiring standard registration and an optical tracking marker (Control group). Pre- and postoperative cone-beam computed tomography (CBCT) scans were superimposed to assess implant placement accuracy. Descriptive and bivariate analyses were performed to compare accuracy and surgery time between the two groups. Mean angular deviations were similar between groups (p = 0.924): 1.95° (SD 1.38) in the prototype group and 2.38° (SD 2.30) in the control group. No significant differences were observed in platform global deviation (mean difference [MD]: -0.33 mm; 95% CI: -0.75 to 0.09), apex global deviation (MD: -0.43 mm; 95% CI: -0.94 to 0.08), or apex depth deviation (MD: 0.28 mm; 95% CI: -0.30 to 0.86). Surgical procedures were significantly faster in the prototype group (p = 0.002; MD: 3.0 min; 95% CI: 0.56-5.45). The findings of this preliminary study seem to suggest that the tested prototype dCAIS system may be feasible to accurately place implants without conventional registration or optical tracking, potentially reducing surgical time. However, these findings should be interpreted with caution due to the study limitations.",
+      "objective": "was to compare these outcomes with those obtained using a conventional dCAIS system. A preliminary retrospective cohort study was conducted involving 33 participants (33 implants). Eleven implants were placed using the novel dCAIS system that determines patient positioning based on anterior tooth anatomy (Prototype group), while 22 implants were placed using a conventional dCAIS system requiring standard registration and an optical tracking marker (Control group). Pre- and postoperative cone-beam computed tomography (CBCT) scans were superimposed to assess implant placement accuracy. Descriptive and bivariate analyses were performed to compare accuracy and surgery time between the two groups. Mean angular deviations were similar between groups (p = 0.924): 1.95° (SD 1.38) in the prototype group and 2.38° (SD 2.30) in the control group. No significant differences were observed in platform global deviation (mean difference [MD]: -0.33 mm; 95% CI: -0.75 to 0.09), apex global deviation (MD: -0.43 mm; 95% CI: -0.94 to 0.08), or apex depth deviation (MD: 0.28 mm; 95% CI: -0.30 to 0.86). Surgical procedures were significantly faster in the prototype group (p = 0.002; MD: 3.0 min; 95% CI: 0.56-5.45). The findings of this preliminary study seem to suggest that the tested prototype dCAIS system may be feasible to accurately place implants without conventional registration or optical tracking, potentially reducing surgical time. However, these findings should be interpreted with caution due to the study limitations.",
+      "study_methods": "A preliminary retrospective cohort study was conducted involving 33 participants (33 implants). Eleven implants were placed using the novel dCAIS system that determines patient positioning based on anterior tooth anatomy (Prototype group), while 22 implants were placed using a conventional dCAIS system requiring standard registration and an optical tracking marker (Control group). Pre- and postoperative cone-beam computed tomography (CBCT) scans were superimposed to assess implant placement accuracy. Descriptive and bivariate analyses were performed to compare accuracy and surgery time between the two groups.",
+      "methods": "A preliminary retrospective cohort study was conducted involving 33 participants (33 implants). Eleven implants were placed using the novel dCAIS system that determines patient positioning based on anterior tooth anatomy (Prototype group), while 22 implants were placed using a conventional dCAIS system requiring standard registration and an optical tracking marker (Control group). Pre- and postoperative cone-beam computed tomography (CBCT) scans were superimposed to assess implant placement accuracy. Descriptive and bivariate analyses were performed to compare accuracy and surgery time between the two groups.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41704077/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1471,61 +1529,6 @@
       ]
     },
     {
-      "pmid": "41564474",
-      "title": "MAP3K19 promotes the progression of hypopharyngeal cancer by suppressing dendritic cell maturation through mediating NF-κB activation and PD-L1 expression.",
-      "authors": [
-        "Weidong Wang",
-        "Fangyu Yao",
-        "Mingqin Zeng",
-        "Xiaoyu Tuo",
-        "Zi Lei",
-        "Runjia Liu",
-        "Junyao Chen",
-        "Zhaoming Zhong",
-        "Jin Liang"
-      ],
-      "publication_date": "2026-Mar-01",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Dendritic cells (DCs) infiltration in head and neck tumor tissues correlates with survival, recurrence and metastasis of hypopharyngeal cancer patients. The high expression of programmed death ligand-1 (PD-L1) in DCs activate the PD-L1/PD-1 pathway, leading to the decrease of immune function of effector T cells (CD8+ T cells). This study aims to investigate the role and mechanism of the novel molecule Mitogen-activated protein three kinase 19 (MAP3K19) in regulating DCs function and PD-L1 regulation during hypopharyngeal cancer progression. Clinical samples from patients with hypopharyngeal cancer were analyzed. Recombinant adenovirus or siRNA was used to regulate MAP3K19 in DCs from healthy donors. DC function makers (CD83, CD80, CD86), cytokine release (IL-6, TNF-α, IL-1β, IL-12p70), and their capacity to activate CD8+ T cells (CD107a, Ki67, IFN-γ, granzyme B) were assessed via flow cytometry, ELISA, and qRT-PCR. Key signaling molecules, including phosphorylated glycogen synthase kinase 3β (GSK3β) and NF-κB pathway components, were evaluated by Western blot. The in vivo role of MAP3K19 was validated using a xenograft tumor model in nude mice. MAP3K19 expression was markedly up-regulated in tumor tissue and peripheral blood mononuclear cells of hypopharyngeal cancer patients. In vitro and in vivo, MAP3K19 overexpression in DCs potently suppressed their activation, maturation, and cytokine production. Consequently, these DCs exhibited a diminished ability to stimulate CD8+ T cell cytotoxicity. Mechanistically, MAP3K19 overexpression promoted inhibitory phosphorylation of GSK3β. This led to a dual effect: suppression of NF-κB signaling activation and enhancement of PD-L1 protein stability (without affecting its mRNA level), thereby increasing PD-L1 surface expression. The critical role of GSK3β was confirmed, as the GSK3β inhibitor AR-A014418 largely rescued the suppressive effects of MAP3K19 on both NF-κB activation and PD-L1 expression. In vivo, overexpressing MAP3K19 significantly promoted tumor growth and reduced intratumoral DC activation and CD8+ T cell cytotoxic function. Our findings demonstrate that MAP3K19 drives hypopharyngeal cancer progression by crippling DC activation, maturation, and function. MAP3K19 orchestrates DC dysfunction by phosphorylating and inactivating GSK3β, which simultaneously suppresses the NF-κB pathway and enhances PD-L1 protein stability. Targeting the MAP3K19/GSK3β axis may represent a novel therapeutic strategy to reverse immunosuppression in hypopharyngeal cancer.",
-      "objective": "to investigate the role and mechanism of the novel molecule Mitogen-activated protein three kinase 19 (MAP3K19) in regulating DCs function and PD-L1 regulation during hypopharyngeal cancer progression. Clinical samples from patients with hypopharyngeal cancer were analyzed. Recombinant adenovirus or siRNA was used to regulate MAP3K19 in DCs from healthy donors. DC function makers (CD83, CD80, CD86), cytokine release (IL-6, TNF-α, IL-1β, IL-12p70), and their capacity to activate CD8+ T cells (CD107a, Ki67, IFN-γ, granzyme B) were assessed via flow cytometry, ELISA, and qRT-PCR. Key signaling molecules, including phosphorylated glycogen synthase kinase 3β (GSK3β) and NF-κB pathway components, were evaluated by Western blot. The in vivo role of MAP3K19 was validated using a xenograft tumor model in nude mice. MAP3K19 expression was markedly up-regulated in tumor tissue and peripheral blood mononuclear cells of hypopharyngeal cancer patients. In vitro and in vivo, MAP3K19 overexpression in DCs potently suppressed their activation, maturation, and cytokine production. Consequently, these DCs exhibited a diminished ability to stimulate CD8+ T cell cytotoxicity. Mechanistically, MAP3K19 overexpression promoted inhibitory phosphorylation of GSK3β. This led to a dual effect: suppression of NF-κB signaling activation and enhancement of PD-L1 protein stability (without affecting its mRNA level), thereby increasing PD-L1 surface expression. The critical role of GSK3β was confirmed, as the GSK3β inhibitor AR-A014418 largely rescued the suppressive effects of MAP3K19 on both NF-κB activation and PD-L1 expression. In vivo, overexpressing MAP3K19 significantly promoted tumor growth and reduced intratumoral DC activation and CD8+ T cell cytotoxic function. Our findings demonstrate that MAP3K19 drives hypopharyngeal cancer progression by crippling DC activation, maturation, and function. MAP3K19 orchestrates DC dysfunction by phosphorylating and inactivating GSK3β, which simultaneously suppresses the NF-κB pathway and enhances PD-L1 protein stability. Targeting the MAP3K19/GSK3β axis may represent a novel therapeutic strategy to reverse immunosuppression in hypopharyngeal cancer.",
-      "study_methods": "Clinical samples from patients with hypopharyngeal cancer were analyzed. Recombinant adenovirus or siRNA was used to regulate MAP3K19 in DCs from healthy donors. DC function makers (CD83, CD80, CD86), cytokine release (IL-6, TNF-α, IL-1β, IL-12p70), and their capacity to activate CD8+ T cells (CD107a, Ki67, IFN-γ, granzyme B) were assessed via flow cytometry, ELISA, and qRT-PCR. Key signaling molecules, including phosphorylated glycogen synthase kinase 3β (GSK3β) and NF-κB pathway components, were evaluated by Western blot. The in vivo role of MAP3K19 was validated using a xenograft tumor model in nude mice.",
-      "methods": "Clinical samples from patients with hypopharyngeal cancer were analyzed. Recombinant adenovirus or siRNA was used to regulate MAP3K19 in DCs from healthy donors. DC function makers (CD83, CD80, CD86), cytokine release (IL-6, TNF-α, IL-1β, IL-12p70), and their capacity to activate CD8+ T cells (CD107a, Ki67, IFN-γ, granzyme B) were assessed via flow cytometry, ELISA, and qRT-PCR. Key signaling molecules, including phosphorylated glycogen synthase kinase 3β (GSK3β) and NF-κB pathway components, were evaluated by Western blot. The in vivo role of MAP3K19 was validated using a xenograft tumor model in nude mice.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41564474/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41554216",
-      "title": "Contemporary management of the clinically N0 neck in oral squamous cell carcinoma.",
-      "authors": [
-        "Makoto Adachi",
-        "Shinsuke Ohta",
-        "Ayaka Ishii",
-        "Masayuki Motohashi"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "The management of the clinically negative neck (N0) in oral squamous cell carcinoma (OSCC) remains a challenging clinical dilemma. Although imaging techniques have advanced, occult metastases are present in approximately 20-30% of patients with early-stage oral cancer and clinically negative necks. This review examines current evidence on optimal strategies for managing the N0 neck in oral cancer patients. We discuss diagnostic modalities for detecting occult metastases, including clinical examination, conventional imaging (ultrasonography, computed tomography, magnetic resonance imaging), functional imaging (positron emission tomography), and sentinel lymph node biopsy. The review evaluates the main management approaches---elective neck dissection, watchful waiting, and sentinel lymph node biopsy---analyzing current evidence from randomized controlled trials and meta-analyses. We examine patient and tumor factors that influence decision-making, including tumor thickness, location, differentiation, and pattern of invasion. Special considerations for specific subsites and clinical scenarios are discussed. Finally, we explore emerging technologies and future directions in the management of the N0 neck, including molecular biomarkers, liquid biopsy techniques, and personalized approaches to treatment. This review provides evidence-based recommendations to support clinical decision-making for managing patients with oral cancer and clinically negative necks.",
-      "objective": "",
-      "study_methods": "We discuss diagnostic modalities for detecting occult metastases, including clinical examination, conventional imaging (ultrasonography, computed tomography, magnetic resonance imaging), functional imaging (positron emission tomography), and sentinel lymph node biopsy. The review evaluates the main management approaches---elective neck dissection, watchful waiting, and sentinel lymph node biopsy---analyzing current evidence from randomized controlled trials and meta-analyses.",
-      "methods": "We discuss diagnostic modalities for detecting occult metastases, including clinical examination, conventional imaging (ultrasonography, computed tomography, magnetic resonance imaging), functional imaging (positron emission tomography), and sentinel lymph node biopsy. The review evaluates the main management approaches---elective neck dissection, watchful waiting, and sentinel lymph node biopsy---analyzing current evidence from randomized controlled trials and meta-analyses.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41554216/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41546919",
       "title": "Comparative analysis of soft tissue response after orthognathic surgery in patients with and without cleft using 3D imaging: A preliminary study.",
       "authors": [
@@ -2070,6 +2073,65 @@
       "figure_urls": []
     },
     {
+      "pmid": "41705699",
+      "title": "Modified Osteotomies for Wing and Mini-Wing Genioplasty.",
+      "authors": [
+        "Gustavo M Albuquerque",
+        "Nicholas J Iglesias",
+        "Sara E Munkwitz",
+        "Hana Shah",
+        "Vasudev Vivekanand Nayak",
+        "Seth R Thaller",
+        "Paulo G Coelho",
+        "Joao L Carlini"
+      ],
+      "publication_date": "2026-Feb-18",
+      "publication_date_iso": "2026-02-18",
+      "abstract": "Patients with chin deficiency secondary to dentofacial deformity often present with aesthetic and functional complaints. Treatment of such deficiencies with conventional genioplasty may be limited when broader modification of the mandibular basilar contour is required. This retrospective case series reports the clinical and radiographic outcomes of 9 patients treated with wing (n = 8) or mini-wing (n = 1) genioplasty for anteroposterior and/or vertical chin deficiency, mandibular asymmetry, syndromic deformities, post-traumatic sequelae, or airway-related complaints. Wing osteotomy was indicated for the correction of the mandibular body and angle, whereas mini-wing osteotomy was reserved for deformities confined to the chin. Procedures were performed in combination with orthognathic surgery when indicated (n = 6). All patients demonstrated improved chin projection, mandibular contour, and lower facial harmony, with the additional benefits of transverse widening of the mandibular body, enhanced cervicomandibular angle definition, and improved symmetry. In one patient with obstructive sleep apnea, postoperative imaging showed enlargement of the pharyngeal airway space. Stable outcomes were maintained over the follow-up period (mean: 4.3 years; range: 1-9 years). Wing and mini-wing osteotomies represent reliable extensions of conventional genioplasty, allowing comprehensive modification of the mandibular basilar contour.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41705699/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41703923",
+      "title": "MSX1 and PAX9 Polymorphisms and Their Association With Lateral Incisor Morphology in Patients With Maxillary Canine Impaction.",
+      "authors": [
+        "Ana Todorović",
+        "Gordana Filipović",
+        "Nikola Stefanović",
+        "Stevan Vujić",
+        "Kosta Todorović",
+        "Vladimir Mitić",
+        "Predrag Janošević",
+        "Julija Radojičić",
+        "Ivana Šćepan"
+      ],
+      "publication_date": "2026-Feb-18",
+      "publication_date_iso": "2026-02-18",
+      "abstract": "BACKGROUND Maxillary canine impaction is a common dental anomaly. Research suggests that genetics and the shape of lateral incisors are significant factors in the etiology of this anomaly. This study aimed to compare PAX9 (rs2073247) and MSX1 (rs12532) gene polymorphisms in buccal swabs of participants with and without maxillary canine impaction using real-time polymerase chain reaction (RT-PCR), and to analyze lateral incisor morphology on cone-beam computed tomography (CBCT). MATERIAL AND METHODS The study included 130 patients (50 males, 80 females; mean age 17.3 years), divided into an experimental group (EG, n=65) with maxillary canine impaction and a control group (CG, n=65) without impaction. Buccal swab samples were collected to perform RT-PCR analysis on the PAX9 and MSX1 genotypes. CBCT scans were assessed using Sidexis 4 and Galileos Viewer software to measure crown length, root length, total tooth length, and mesio-distal crown width. RESULTS All morphological parameters of the lateral incisors were significantly smaller in the EG than in the CG (P<0.001). Chi-square analysis revealed no significant difference in genotype distribution for PAX9 (P=0.130) or MSX1 (P=0.291). However, individuals carrying at least 1 mutant allele in both genes had a higher prevalence of canine impaction (P=0.019) and a significant reduction in lateral incisor crown width (P=0.038). CONCLUSIONS The presence of mutant alleles in the PAX9 (rs2073247) and MSX1 (rs12532) genes, combined with altered lateral incisor morphology, increases the risk of maxillary canine impaction.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "All morphological parameters of the lateral incisors were significantly smaller in the EG than in the CG (P<0.001). Chi-square analysis revealed no significant difference in genotype distribution for PAX9 (P=0.130) or MSX1 (P=0.291). However, individuals carrying at least 1 mutant allele in both genes had a higher prevalence of canine impaction (P=0.019) and a significant reduction in lateral incisor crown width (P=0.038).",
+      "conclusion": "The presence of mutant alleles in the PAX9 (rs2073247) and MSX1 (rs12532) genes, combined with altered lateral incisor morphology, increases the risk of maxillary canine impaction.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41703923/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41633597",
       "title": "[Feasibility study of a surgical planning protocol for orthognathic surgery utilizing similarity retrieval from database: A randomized controlled trial].",
       "authors": [
@@ -2513,107 +2575,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41686229/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41673753",
-      "title": "Enhanced nerve regeneration after transplantation of NCAM-positive neural crest-like cells derived from human iPSC.",
-      "authors": [
-        "Tsuyoshi Amemiya",
-        "Takehito Ouchi",
-        "Hiroo Kimura",
-        "Kentaro Okuyama",
-        "Thinh Quang Phan",
-        "Takuji Iwamoto",
-        "Taneaki Nakagawa",
-        "Morio Matsumoto",
-        "Masaya Nakamura",
-        "Hideyuki Okano",
-        "Narihito Nagoshi",
-        "Shinsuke Shibata"
-      ],
-      "publication_date": "2026-Feb-11",
-      "publication_date_iso": "2026-02-11",
-      "abstract": "Peripheral nerve injuries often cause persistent sensory and motor deficits, and autologous nerve grafting, the current standard, is limited by donor site morbidity and tissue availability. Human induced pluripotent stem cells (hiPSCs)-derived neural crest-like cells (NCLCs) have shown potential for nerve regeneration, but achieving high purity and safety remains a challenge. Using a mouse model of large sciatic nerve defects, we evaluated the efficacy of transplanting NCLCs triple-positive for low-affinity nerve growth factor receptor (LNGFR), thymocyte antigen 1 (THY-1), and neural cell adhesion molecule (NCAM). Purified triple-positive cells induced from hiPSC-derived neural crest lineage were seeded in the conduit with collagen gel in the transplantation group and compared the regeneration with the autograft group and the negative control group without cells. NCAM-positive NCLCs promoted robust angiogenesis and recruited host Schwann cells, thereby establishing a supportive regenerative microenvironment. This facilitated axonal regrowth, thick myelination, and organized nerve architecture comparable to that of autografts. Functional recovery, assessed by electrophysiological conduction and motor performance, eventually matched autografts, with earlier improvement observed in the transplantation group. No tumor formation was detected, and the proliferative activity of transplanted cells declined over time. Selective marker-based purification likely contributed to the favorable safety profile. NCAM-positive NCLCs derived from hiPSCs enhance peripheral nerve regeneration through vascularization and Schwann cell-mediated remyelination, resulting in structural and functional recovery equivalent to autografts. This strategy offers a safe, scalable alternative to donor nerve harvest, and integration with bioengineered conduits could further expand clinical applicability in peripheral nerve reconstruction.",
-      "objective": "",
-      "study_methods": "Using a mouse model of large sciatic nerve defects, we evaluated the efficacy of transplanting NCLCs triple-positive for low-affinity nerve growth factor receptor (LNGFR), thymocyte antigen 1 (THY-1), and neural cell adhesion molecule (NCAM). Purified triple-positive cells induced from hiPSC-derived neural crest lineage were seeded in the conduit with collagen gel in the transplantation group and compared the regeneration with the autograft group and the negative control group without cells.",
-      "methods": "Using a mouse model of large sciatic nerve defects, we evaluated the efficacy of transplanting NCLCs triple-positive for low-affinity nerve growth factor receptor (LNGFR), thymocyte antigen 1 (THY-1), and neural cell adhesion molecule (NCAM). Purified triple-positive cells induced from hiPSC-derived neural crest lineage were seeded in the conduit with collagen gel in the transplantation group and compared the regeneration with the autograft group and the negative control group without cells.",
-      "results": "ing in structural and functional recovery equivalent to autografts. This strategy offers a safe, scalable alternative to donor nerve harvest, and integration with bioengineered conduits could further expand clinical applicability in peripheral nerve reconstruction.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41673753/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41673566",
-      "title": "The promoting roles of GLP1R and GIPR in stemness maintenance and multiple lineage-specific differentiation of PDLSCs.",
-      "authors": [
-        "Yifen Shen",
-        "Mengjie Zhang",
-        "Tao Yang",
-        "Yuxiang Wu",
-        "Yinfeng Qiu",
-        "Le Zhang",
-        "Fei Li",
-        "Minjie Chen",
-        "Qili Chen",
-        "Wenbin Wei",
-        "Hua Li",
-        "Yihang Shen"
-      ],
-      "publication_date": "2026-Feb-11",
-      "publication_date_iso": "2026-02-11",
-      "abstract": "Periodontal ligament stem cells (PDLSCs) hold great promise for periodontal regeneration therapy. However, their self-renewal and multilineage differentiation capabilities are often compromised by adverse factors in the periodontal microenvironment. Therefore, identifying novel therapeutic targets and elucidating the underlying molecular mechanisms to protect the proliferative and differentiation potential of PDLSCs is of significant importance. PDLSCs were exposed to electronic cigarette extract and various common oral stressors to evaluate the expression of glucagon such as peptide 1 receptor (GLP1R) and gastric inhibitory polypeptide receptor (GIPR). PDLSCs isolated from patients with periodontitis and PDLSCs from a mouse periodontitis model were also analyzed. Functional studies were performed by GLP1R or GIPR knockdown, overexpression, and treatment with single or dual receptor agonists, followed by assessment of cell proliferation and multilineage differentiation capacities. Transcriptome (RNA-seq), chromatin immunoprecipitation sequencing (ChIP-seq), and RNA immunoprecipitation sequencing (RIP-seq) were applied to delineate downstream signaling pathways and RNA–protein interactions. Protein synthesis regulation was further investigated by immunoprecipitation of interferon induced protein with tetratricopeptide repeats (IFIT)-associated translation initiation factors. For in vivo validation, wild-type and GLP1R/GIPR double-knockout periodontitis mice were transplanted with CRISPR-Cas9 mCherry-labeled PDLSCs and treated with receptor agonists. Disease severity and PDLSC fate were evaluated by histology and lineage tracing. Finally, a questionnaire-based survey was conducted in 150 patients with periodontitis, including 74 individuals with long-term use (> 1 month) of GLP1R or GLP1R/GIPR dual agonists (e.g., semaglutide, liraglutide, tirzepatide), to assess their periodontal outcomes. GLP1R and GIPR expression were markedly downregulated in PDLSCs exposed to multiple stressors and in PDLSCs isolated from periodontitis specimens. RNA-seq, ChIP-seq, and RIP-seq identified downstream pathways and RNA–protein interactions implicated in receptor-mediated regulation. Functionally, GIPR agonism promoted PDLSC proliferation via activation of the mitogen-activated protein kinase (MAPK)/extracellular signal-regulated kinase (ERK) pathway, whereas GLP1R agonist enhanced multilineage differentiation capacity in vitro. Mechanistically, GLP1R knockdown induced robust upregulation of IFIT1/2/3, while GLP1R agonist suppressed IFIT expression. IFIT1/2/3 were shown to interact with eIF3C and to inhibit translation of differentiation-related mRNAs, linking GLP1R signaling to translational control of PDLSC fate. In vivo, transplantation experiments in both wild-type and GLP1R/GIPR double-knockout periodontitis mice demonstrated that single and dual receptor agonists significantly improved endogenous and exogenous PDLSC-mediated periodontal regeneration. Consistently, a clinical survey of 150 patients with periodontitis (74 receiving GLP1R or dual agonists) revealed significantly better periodontal staging and grading in treated individuals, with longer agonist exposure associated with greater improvement. Our findings uncover the different molecular roles of GIPR and GLP1R in self-renewal capacity and multipotency of PDLSCs, and open new avenues for developing therapeutic targets and strategies in oral tissue engineering and regenerative medicine. The online version contains supplementary material available at 10.1186/s11658-026-00867-2.",
-      "objective": "",
-      "study_methods": "PDLSCs were exposed to electronic cigarette extract and various common oral stressors to evaluate the expression of glucagon such as peptide 1 receptor (GLP1R) and gastric inhibitory polypeptide receptor (GIPR). PDLSCs isolated from patients with periodontitis and PDLSCs from a mouse periodontitis model were also analyzed. Functional studies were performed by GLP1R or GIPR knockdown, overexpression, and treatment with single or dual receptor agonists, followed by assessment of cell proliferation and multilineage differentiation capacities. Transcriptome (RNA-seq), chromatin immunoprecipitation sequencing (ChIP-seq), and RNA immunoprecipitation sequencing (RIP-seq) were applied to delineate downstream signaling pathways and RNA–protein interactions. Protein synthesis regulation was further investigated by immunoprecipitation of interferon induced protein with tetratricopeptide repeats (IFIT)-associated translation initiation factors. For in vivo validation, wild-type and GLP1R/GIPR double-knockout periodontitis mice were transplanted with CRISPR-Cas9 mCherry-labeled PDLSCs and treated with receptor agonists. Disease severity and PDLSC fate were evaluated by histology and lineage tracing. Finally, a questionnaire-based survey was conducted in 150 patients with periodontitis, including 74 individuals with long-term use (> 1 month) of GLP1R or GLP1R/GIPR dual agonists (e.g., semaglutide, liraglutide, tirzepatide), to assess their periodontal outcomes.",
-      "methods": "PDLSCs were exposed to electronic cigarette extract and various common oral stressors to evaluate the expression of glucagon such as peptide 1 receptor (GLP1R) and gastric inhibitory polypeptide receptor (GIPR). PDLSCs isolated from patients with periodontitis and PDLSCs from a mouse periodontitis model were also analyzed. Functional studies were performed by GLP1R or GIPR knockdown, overexpression, and treatment with single or dual receptor agonists, followed by assessment of cell proliferation and multilineage differentiation capacities. Transcriptome (RNA-seq), chromatin immunoprecipitation sequencing (ChIP-seq), and RNA immunoprecipitation sequencing (RIP-seq) were applied to delineate downstream signaling pathways and RNA–protein interactions. Protein synthesis regulation was further investigated by immunoprecipitation of interferon induced protein with tetratricopeptide repeats (IFIT)-associated translation initiation factors. For in vivo validation, wild-type and GLP1R/GIPR double-knockout periodontitis mice were transplanted with CRISPR-Cas9 mCherry-labeled PDLSCs and treated with receptor agonists. Disease severity and PDLSC fate were evaluated by histology and lineage tracing. Finally, a questionnaire-based survey was conducted in 150 patients with periodontitis, including 74 individuals with long-term use (> 1 month) of GLP1R or GLP1R/GIPR dual agonists (e.g., semaglutide, liraglutide, tirzepatide), to assess their periodontal outcomes.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41673566/",
-      "pmcid": "PMC12903609",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12903609/bin/11658_2026_867_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12903609/bin/11658_2026_867_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12903609/bin/11658_2026_867_Fig3_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12903609/bin/11658_2026_867_Fig4_HTML.jpg"
-      ]
-    },
-    {
-      "pmid": "41673538",
-      "title": "Oral Pain and Alzheimer's Disease: Prospective Cohort and Cross-Sectional Analyses.",
-      "authors": [
-        "W Li",
-        "X Hu",
-        "Y Zhang",
-        "J Liao",
-        "S Lin",
-        "X Chen",
-        "H Lan",
-        "H Zhao",
-        "H Xu"
-      ],
-      "publication_date": "2026-Feb-11",
-      "publication_date_iso": "2026-02-11",
-      "abstract": "Given the limited effectiveness of Alzheimer's disease (AD) treatments, modifiable risk factors warrant attention. Oral pain (OP), a common inflammatory symptom, may be linked to neurodegeneration. This study aimed to investigate associations between OP and AD risk, cognitive performance, and brain structure. Data from 490,035 UK Biobank participants free of AD at baseline and with complete OP records were analyzed, while other dementias were excluded. Participants were categorized into an OP group (n = 33,697; defined as self-reported toothache or painful gums via touchscreen questionnaire) and an oral pain-free group (n = 456,338). AD diagnoses were ascertained using ICD-10 codes from linked electronic health records and analyzed in a cohort design using multivariable Cox proportional hazards models. A cross-sectional analysis method of cognitive and brain outcomes was performed using multivariable generalized linear models. Over an average follow-up period of 14.1 ± 1.7 y, OP was associated with a 30.7% increased risk of AD (hazard ratio [HR] = 1.307, 95% confidence interval [CI]: 1.165 to 1.466, P < 0.001). Individuals with OP also demonstrated poorer cognitive functions and reduced gray matter volumes in the left parahippocampal gyrus (Padj = 0.014, β = -27.383, SE = 7.728). Among those whose oral pain resolved, the occurrence of AD was lower (HR = 0.360, 95% CI: 0.197 to 0.660, P = 0.011), along with improved cognitive functions and brain structures as compared with those with persistent OP. Proteomic analyses identified potential mediators, including GDF15, BCAN, and PLAUR, which are involved in pathways related to wound healing and immune regulation. Emerging evidence suggested a possible association between OP and AD through neuroimmune pathways, including potential Tau-related changes in the hippocampus. These findings suggested a potential association between maintaining oral health and reduced risk of AD and cognitive impairment. This study addresses a critical gap in understanding how OP may associate with the development of AD.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41673538/",
       "pmcid": "",
       "figure_urls": []
     }
