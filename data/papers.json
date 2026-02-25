@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-24T04:23:52Z",
+  "updated_at": "2026-02-25T04:25:06Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1023,6 +1023,64 @@
       "figure_urls": []
     },
     {
+      "pmid": "41732418",
+      "title": "The emerging role of machine learning-based methods in cancer classification using microRNA.",
+      "authors": [
+        "Zeinab Tariri",
+        "Mehdi Goodarzi",
+        "Atieh Nouralishahi",
+        "Malihe Sagheb Ray Shirazi",
+        "Meysam Mohammadikhah",
+        "Azita Sadeghzade",
+        "Hossein Gandomkar",
+        "Ehsan Maghrebi-Ghojogh"
+      ],
+      "publication_date": "2026-Mar",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "Early detection and accurate classification of cancer are crucial to improving patient outcomes. Diagnosis and classification of tumors using conventional methods remains challenging. MicroRNAs (miRNAs) are potential biomarkers for accurate tumor classification and differentiation of tumor subtypes. In cancer progression, miRNAs act as oncogenes or tumor suppressors to regulate gene expression. As a result of their stability in bodily fluids such as blood, urine, and saliva, they are ideal for non-invasive diagnostic procedures. Machine learning (ML) models can identify discriminative miRNAs for various cancers, such as breast, lung, colorectal, and kidney cancers. The integration of ML with miRNA data has demonstrated significant potential for differentiating cancerous tissues from normal tissues and identifying clinically relevant biomarkers. For instance, techniques such as feature engineering and selection, including recursive ensemble selection and miRNA-mRNA network analysis, have been shown to enhance both model accuracy and interpretability. Methods based on Random Forest (RF) and Support Vector Machines (SVM) have successfully classified breast cancer subtypes, and miRNA signatures from fecal samples have been highly effective in diagnosing colorectal cancer. Furthermore, deep learning and neuro-fuzzy systems support kidney cancer analysis, highlighting miRNA-driven ML's role in cancer diagnostics and personalized treatment. This review illustrates the transformative potential of miRNA-driven ML models for advancing cancer diagnostics and enabling personalized treatment strategies.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "of their stability in bodily fluids such as blood, urine, and saliva, they are ideal for non-invasive diagnostic procedures. Machine learning (ML) models can identify discriminative miRNAs for various cancers, such as breast, lung, colorectal, and kidney cancers. The integration of ML with miRNA data has demonstrated significant potential for differentiating cancerous tissues from normal tissues and identifying clinically relevant biomarkers. For instance, techniques such as feature engineering and selection, including recursive ensemble selection and miRNA-mRNA network analysis, have been shown to enhance both model accuracy and interpretability. Methods based on Random Forest (RF) and Support Vector Machines (SVM) have successfully classified breast cancer subtypes, and miRNA signatures from fecal samples have been highly effective in diagnosing colorectal cancer. Furthermore, deep learning and neuro-fuzzy systems support kidney cancer analysis, highlighting miRNA-driven ML's role in cancer diagnostics and personalized treatment. This review illustrates the transformative potential of miRNA-driven ML models for advancing cancer diagnostics and enabling personalized treatment strategies.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41732418/",
+      "pmcid": "PMC12925464",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12925464/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12925464/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12925464/bin/gr3.jpg"
+      ]
+    },
+    {
+      "pmid": "41731334",
+      "title": "The Bullhorn and Beyond: Evidence-Based Review and Clinical Recommendations for Lip Lift Techniques.",
+      "authors": [
+        "Oskar Komisarek",
+        "Łukasz Banasiak",
+        "Vanessa Olichwer",
+        "Paweł Burduk"
+      ],
+      "publication_date": "2026-Mar",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "The upper lip plays a central role in facial harmony and youthful appearance. Aging-related changes include elongation of the philtrum, thinning of the vermilion, and reduced maxillary incisor show. Surgical lip lift shortens the cutaneous upper lip and enhances vermilion exposure, yet patient selection and outcome assessment remain non-standardized. To critically evaluate current evidence on surgical lip lift techniques, including the classical subnasal bullhorn approach and its modifications, and to provide evidence-based recommendations for anatomy-driven technique selection. A PRISMA 2020-compliant systematic review was conducted, with protocol registration in PROSPERO. Studies included adult patients (≥ 18 years) undergoing lip lift for aesthetic or aesthetic-functional indications. Prospective and retrospective clinical studies and case series (≥ 5 patients) published between 2017 and 2025 were identified through database searches. Data extraction focused on surgical technique, morphometric outcomes, patient satisfaction, and complications. Meta-analysis was not feasible due to heterogeneity. Methodological quality was assessed using the MINORS instrument and JBI checklists. Seven studies comprising 1754 patients were included. Subnasal bullhorn techniques and their modifications reduced philtral length from 14.0-14.5 mm to 10.8-12.0 mm, increased vermilion height from 5.0-6.0 mm to 7.0-9.0 mm, and improved maxillary incisor show from 1.5-2.0 mm to 3.5-5.0 mm. Patient satisfaction was high (mean GAIS score 4.4/5). Complications were predominantly mild and transient, with revision rates of 0.6%-6.7%. Overall study quality was moderate. Surgical lip lift is a safe and effective procedure for restoring upper-lip proportions. Technique selection should be individualized, and further prospective studies with standardized outcome measures are needed. CRD420251232005.",
+      "objective": "",
+      "study_methods": "A PRISMA 2020-compliant systematic review was conducted, with protocol registration in PROSPERO. Studies included adult patients (≥ 18 years) undergoing lip lift for aesthetic or aesthetic-functional indications. Prospective and retrospective clinical studies and case series (≥ 5 patients) published between 2017 and 2025 were identified through database searches. Data extraction focused on surgical technique, morphometric outcomes, patient satisfaction, and complications. Meta-analysis was not feasible due to heterogeneity. Methodological quality was assessed using the MINORS instrument and JBI checklists.",
+      "methods": "A PRISMA 2020-compliant systematic review was conducted, with protocol registration in PROSPERO. Studies included adult patients (≥ 18 years) undergoing lip lift for aesthetic or aesthetic-functional indications. Prospective and retrospective clinical studies and case series (≥ 5 patients) published between 2017 and 2025 were identified through database searches. Data extraction focused on surgical technique, morphometric outcomes, patient satisfaction, and complications. Meta-analysis was not feasible due to heterogeneity. Methodological quality was assessed using the MINORS instrument and JBI checklists.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41731334/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41725916",
       "title": "Over a Decade of Maxillofacial PEEK Patient-Specific Innovation: A Retrospective Review of the Evolution from In-House Craft to Virtual Design and Remote Manufacturing.",
       "authors": [
@@ -1287,87 +1345,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12878673/bin/gr2.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12878673/bin/gr2.gif"
       ]
-    },
-    {
-      "pmid": "41653694",
-      "title": "Analysis of osteotomy distance and other predictors of osseous union following mandibular reconstruction with fibula free flap.",
-      "authors": [
-        "Maged Ali Al-Aroomi",
-        "Yiheng Feng",
-        "Naseem Ali Al-Worafi",
-        "Jie Chen",
-        "Ning Li",
-        "Canhua Jiang",
-        "Ye Liang"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Optimal contouring of fibula free flaps (FFF) for mandibulectomy often requires osteotomies. This study aimed to define criteria for initial gap width by evaluating whether postoperative gap size and other factors influence long-term osseous union on CBCT, and to identify key determinants of bone healing. This retrospective study included 75 patients who underwent segmental mandibulectomy with FFF reconstruction from 2017 to 2024. Initial osteotomy gaps were measured at four points on postoperative CBCT scans. Osseous union was assessed using a callus scale. Demographic, anatomical, and surgical variables-including 3D-assisted planning, fibula morphology, osteotomy location, systemic comorbidities, and segment number -were analyzed using uni- and multivariate regression models. A total of 202 osteotomy sites were evaluated. The mean initial gap was 1.68 ± 0.97 mm, and gap size did not significantly predict long-term union. Complete union occurred in 50.0% of sites, partial union in 36.6%, and nonunion in 13.4%. Fibula-fibula interfaces showed significantly better healing than fibula-mandible interfaces (p < 0.001). Symphyseal osteotomies demonstrated superior union compared with body and angle regions. Systemic vascular comorbidities were strong negative predictors of union, whereas reconstructions using more than two segments showed improved outcomes (p < 0.001). Alcohol consumption negatively affected both initial gap formation and union. Long-term osseous union after FFF reconstruction is influenced mainly by systemic vascular health, osteotomy location, interface type, and fibula morphology rather than initial gap width.",
-      "objective": "",
-      "study_methods": "This retrospective study included 75 patients who underwent segmental mandibulectomy with FFF reconstruction from 2017 to 2024. Initial osteotomy gaps were measured at four points on postoperative CBCT scans. Osseous union was assessed using a callus scale. Demographic, anatomical, and surgical variables-including 3D-assisted planning, fibula morphology, osteotomy location, systemic comorbidities, and segment number -were analyzed using uni- and multivariate regression models.",
-      "methods": "This retrospective study included 75 patients who underwent segmental mandibulectomy with FFF reconstruction from 2017 to 2024. Initial osteotomy gaps were measured at four points on postoperative CBCT scans. Osseous union was assessed using a callus scale. Demographic, anatomical, and surgical variables-including 3D-assisted planning, fibula morphology, osteotomy location, systemic comorbidities, and segment number -were analyzed using uni- and multivariate regression models.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41653694/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41650647",
-      "title": "Factors influencing the incidence of cervical spine/cord injury and severe injury caused by falls.",
-      "authors": [
-        "Masaki Inoue",
-        "Takahiro Tomioka",
-        "Takato Murai",
-        "Marin Takaso",
-        "Mami Nakamura",
-        "Kazuki Takaoka",
-        "Masahito Hitosugi"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Falls are major causes of trauma in older people, often resulting in cervical spine/cord injury, and may even be fatal. We aimed to identify factors associated with cervical spine/cord injury and severe injury caused by falls to aid forensic evaluation. We retrospectively analyzed data for 83 individuals who fell between 2011 and 2023 at Shiga University of Medical Science. The characteristics of the victim, cause of death, presence of cervical spine/cord injury, injury severity, part of the body making contact with the impact surface, properties of the impact surface, and fall height were evaluated. Injury severity was assessed using the Abbreviated Injury Severity score and Injury Severity Score (ISS). Severe injury with ISS ≥ 16 occurred in 39.8% of victims and cervical spine/cord injury in 21.7%. Logistic regression analyses revealed that body mass (odds ratio [OR] 1.063, 95% confidence interval [CI] 1.003-1.126) and the part of the body making contact with the impact surface (chest/abdomen vs. head/face, OR 0.074, CI 0.007-0.723) significantly influenced the incidence of cervical spine/cord injury, and fall height >3 m was significantly associated with severe injury (OR 11.473, CI 2.163-60.868). These findings demonstrate that the severity of injury depends on the fall height, whereas cervical spine/cord injury is influenced by body mass and the part of the body making contact with the impact surface. Therefore, the collection of scene information, including the fall height, and body mass and posture are critical for postmortem examinations. Autopsy should be considered when cervical spine/cord injury is suspected.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in cervical spine/cord injury, and may even be fatal. We aimed to identify factors associated with cervical spine/cord injury and severe injury caused by falls to aid forensic evaluation. We retrospectively analyzed data for 83 individuals who fell between 2011 and 2023 at Shiga University of Medical Science. The characteristics of the victim, cause of death, presence of cervical spine/cord injury, injury severity, part of the body making contact with the impact surface, properties of the impact surface, and fall height were evaluated. Injury severity was assessed using the Abbreviated Injury Severity score and Injury Severity Score (ISS). Severe injury with ISS ≥ 16 occurred in 39.8% of victims and cervical spine/cord injury in 21.7%. Logistic regression analyses revealed that body mass (odds ratio [OR] 1.063, 95% confidence interval [CI] 1.003-1.126) and the part of the body making contact with the impact surface (chest/abdomen vs. head/face, OR 0.074, CI 0.007-0.723) significantly influenced the incidence of cervical spine/cord injury, and fall height >3 m was significantly associated with severe injury (OR 11.473, CI 2.163-60.868). These findings demonstrate that the severity of injury depends on the fall height, whereas cervical spine/cord injury is influenced by body mass and the part of the body making contact with the impact surface. Therefore, the collection of scene information, including the fall height, and body mass and posture are critical for postmortem examinations. Autopsy should be considered when cervical spine/cord injury is suspected.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41650647/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41644214",
-      "title": "In Regard to Moon et al.",
-      "authors": [
-        "Xiaole Wang",
-        "Yixi Zhong",
-        "Xin Nie",
-        "Qiang Xu"
-      ],
-      "publication_date": "2026-Mar-01",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41644214/",
-      "pmcid": "",
-      "figure_urls": []
     },
     {
       "pmid": "41591939",
@@ -2240,6 +2217,69 @@
       "figure_urls": []
     },
     {
+      "pmid": "41733774",
+      "title": "Caries imaging using T1 StarVIBE and PETRA sequences compared to normal dental work-up: a proof-of-concept study.",
+      "authors": [
+        "Gintare Burian",
+        "Jonas Stief",
+        "Tobias Greve",
+        "Ulrich Grosse",
+        "Adib Al-Haj Husain",
+        "Gustav Andreisek",
+        "Monika Probst",
+        "Egon Burian"
+      ],
+      "publication_date": "2026-Feb-24",
+      "publication_date_iso": "2026-02-24",
+      "abstract": "To compare caries detection using T1-based Free-breathing 3D Stack of Stars GRE (StarVIBE) and T1-weighted pointwise encoding time reduction with radial acquisition (PETRA) MRI sequences with the gold standard consisting of a combination of clinical evaluation and bitewing radiography. Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions. 80 teeth were analyzed. Among these, 10 showed caries during clinical assessments and bitewing imaging, all of which were also detected on MRI. Furthermore, 5 additional lesions were identified exclusively on MRI. Overall image quality and diagnostic confidence were significantly higher in PETRA than in StarVIBE (4.7 vs. 3.9, p = 0.006). The SI for caries lesions was significantly higher in the PETRA sequence (-0.5 a.u. ± 1.5 a.u. vs. -4.2 a.u. ± 4.0 a.u., p = 0.002). Caries lesion volume was also significantly larger in PETRA (18 mm3± 14.8 mm3) compared to StarVIBE (11 mm3± 14.8 mm3, p = 0.003). CONCLUSION : MRI identified all caries lesions that were detected both clinically and through bitewing imaging, along with additional lesions exclusive to MRI. The PETRA sequence outperformed StarVIBE in quantitative caries visualization.",
+      "objective": "",
+      "study_methods": "Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions.",
+      "methods": "Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions.",
+      "results": "",
+      "conclusion": "MRI identified all caries lesions that were detected both clinically and through bitewing imaging, along with additional lesions exclusive to MRI. The PETRA sequence outperformed StarVIBE in quantitative caries visualization.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41733774/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41733187",
+      "title": "Ameloblastoma Displays Primary Cilia Maintenance and CEP164 Overexpression.",
+      "authors": [
+        "R Miyazaki",
+        "H Kawasaki",
+        "H Kato",
+        "I Ohta",
+        "R Ishikawa",
+        "K Yoshimura",
+        "H Yamada",
+        "Y Sakai",
+        "H Suzuki",
+        "M Sugita",
+        "Y Watanabe",
+        "K Masumoto",
+        "K Shinmura"
+      ],
+      "publication_date": "2026-Feb-24",
+      "publication_date_iso": "2026-02-24",
+      "abstract": "Ameloblastoma (AB) is a benign yet locally aggressive odontogenic epithelial tumor, characterized by frequent recurrence and a potential for distant metastasis. The primary cilium (PC), a microtubule-based organelle that serves as a signaling hub for multiple oncogenic pathways, is typically reduced or absent in most human malignancies; however, its status in AB remains poorly defined. In this retrospective, tissue-based observational study, we investigated the presence of PC in 42 AB cases, encompassing all major histological subtypes, using immunohistochemistry, immunofluorescence, and ultrastructural techniques. As a comparator, 41 cases of oral squamous cell carcinoma (OSCC), a tumor originating from the same oral cavity region, were also analyzed. PC were consistently detected in all ABs but were absent in OSCCs. In ABs, the presence of PC was validated by multiple markers and imaging modalities. In conventional AB, the density of PC varies significantly among the histological patterns. Notably, the cilia frequently exhibited a polarized orientation in the peripheral columnar cells of the follicular subtype. PC were also present in recurrent and metastatic lesions, although their significance in disease progression remains uncertain. Elevated GLI1 mRNA expression, nuclear accumulation of GLI1, and elevated SHH mRNA and protein expression indicated the activation of the Hh signaling pathway in ABs. Transcriptomic screening of early ciliogenesis-related genes revealed selective upregulation of CEP164 in ABs but not in OSCCs or other PC-deficient carcinomas. CEP164 protein was significantly overexpressed and localized closely apposed to but only partially overlapped with γ-tubulin signals, consistent with its role at the distal appendages of the basal body. Functional analyses demonstrated that CEP164 overexpression promoted PC formation, whereas its knockdown suppressed ciliogenesis. These findings indicate that ABs uniquely preserve functional PC and implicate CEP164 as a key mediator of this phenotype, offering novel insights into AB biology and highlighting its potential as a diagnostic and therapeutic target.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41733187/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "40966312",
       "title": "Analysis of orthodontic aligner biocompatibility: leachable compounds of different aligner materials.",
       "authors": [
@@ -2337,6 +2377,68 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41729134/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41730408",
+      "title": "SOCS2 deficiency drives sex-specific remodeling of mineralized tissues.",
+      "authors": [
+        "Rose Vieira Toyama",
+        "João Pacheco Colares",
+        "Natalia de Abreu Refaxo",
+        "José Alcides Almeida de Arruda",
+        "Carolina Bosso André",
+        "Amanda Leal Rocha",
+        "Letícia Fernanda Duffles",
+        "Ana Clara Campideli-Santana",
+        "Izabela Galvão",
+        "Virgínia Tereza Morais Lima",
+        "Raphael Escorsim Szawka",
+        "David Ross Grattan",
+        "Fabiana Simão Machado",
+        "Flávio Almeida Amaral",
+        "Tarcília Aparecida Silva",
+        "Allyson Nogueira Moreira",
+        "Soraia Macari"
+      ],
+      "publication_date": "2026-Feb-21",
+      "publication_date_iso": "2026-02-21",
+      "abstract": "Sex-specific differences in bone development and remodeling are increasingly recognized as critical determinants in skeletal biology. We investigated the impact of SOCS2 deficiency on craniofacial and long bone structures in female and male mice. C57BL/6 wild-type (WT) and SOCS2 knockout (SOCS2-/-) mice underwent orthodontic tooth movement (OTM) on the right side, while the contralateral side served as control. Maxillae, dental roots, femur, adipose tissue, and serum were collected for histomorphometry, micro-computed tomography (microCT), biomechanical testing, adiposity index assessment, qPCR, Western blot, and ELISA. SOCS2-/- males exhibited greater alveolar bone loss and increased OTM than SOCS2-/- females. Whereas SOCS2-/- females showed reduced OTM compared with WT females. MicroCT revealed higher maxillary bone mineral density (BMD) in SOCS2-/- females, but lower BMD, bone volume/total volume, and trabecular thickness, with increased trabecular separation, in SOCS2-/- males. These phenotypes were associated with increased Howship's lacunae and c-Jun N-terminal kinase activity in SOCS2-/- males, sex-divergent Pparγ, Il6, and Runx2 expression, and unchanged Rankl/Opg ratio in maxillary bone. Femoral evaluations showed sex-specific changes in growth, bone structure, and mechanical strength. Root analyses revealed compromised architecture in SOCS2-/- males and increased odontoclast activity in both sexes. SOCS2-/- males displayed increased serum testosterone and adiposity, despite reduced adipocyte area, whereas SOCS2-/- females exhibited higher prolactin levels and enlarged adipocytes. SOCS2 influences skeletal remodeling in a sex-dependent manner, with underlying mechanisms involving metabolic and hormonal alterations, as well as local imbalances in the regulation of osteoblast and osteoclast activity.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41730408/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41730350",
+      "title": "A Bibliometric Approach to Understanding Trends and Major Topics in Cone Beam Computed Tomography Research.",
+      "authors": [
+        "Yuh-Shan Ho",
+        "Anastasia Fardi",
+        "Konstantinos Kodonas"
+      ],
+      "publication_date": "2026-Feb-21",
+      "publication_date_iso": "2026-02-21",
+      "abstract": "This bibliometric analysis aimed to map the existing knowledge landscape and identify emerging research trends in the field of cone-beam computed tomography (CBCT). A search was performed in the Web of Science (Wos) Database from 1991 to 2024 using predefined criteria, focusing primarily on documents-related to CBCT. Citation-based metrics were applied to assess total and annual publication counts, document types, languages, Wos categories, journals, and countries. The search strategy yielded 16,058 original articles, published in 1,034 journals, authored from 113 countries. The United States was the most prolific contributor, leading in all six publication indicators. Notably, 43% of the publications fell under the 'Dentistry, Oral surgery and Medicine' category. Most articles were single-country publications. The research primarily focused on two main areas: clinical applications of CBCT and the optimization and quantitative evaluation of CBCT imaging. Clinical applications were further divided into subcategories including oral surgery and, implantology, dentistry, endodontology, radiation therapy, CBCT-guided technologies, and innovations driven by artificial intelligence. This bibliometric analysis offers an in-depth look at the evolution of CBCT in radiology, and provides valuable insights for future studies and opportunities to improve clinical decision-making through the advanced capabilities of CBCT technology.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41730350/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2550,123 +2652,54 @@
       "figure_urls": []
     },
     {
-      "pmid": "41711199",
-      "title": "Systemic cachexia and muscle-bone crosstalk drive depression-related joint remodeling and pain.",
+      "pmid": "41213519",
+      "title": "Facial esthetic perception between skeletal Class III patients treated with conventional and surgery-first orthognathic approaches.",
       "authors": [
-        "Chen Zhao",
-        "Pengcheng Liu",
-        "Jialong Wu",
-        "Ran Duan",
-        "Weiqi Li",
-        "Jianfei Zhang",
-        "Xuzhuo Chen"
+        "Arthur Cunha",
+        "Tainá Manso",
+        "Jorge Faber",
+        "Flavia Artese",
+        "José Augusto M Miguel"
       ],
       "publication_date": "2026-Feb-19",
       "publication_date_iso": "2026-02-19",
-      "abstract": "Joint pain is common in patients with depression, but its structural basis and molecular mechanisms remain unclear. This study aimed to investigate the underlying pathological changes and signaling pathways contributing to depression-related joint pain. Using inflammatory and chronic stress-induced mouse models of depression, we evaluated osteoclast activation, subchondral bone remodeling, and associated behavioral alterations. Molecular and genetic analyses were conducted to examine the role of the Lbp-Tlr4-Netrin-1 signaling axis and key metabolic genes including Gdf-15, LepR, and PPARγ, specifically in adipose tissue, bone marrow, and osteoclasts. Additionally, we assessed the impact of muscle degeneration on joint pathology, and conditionally deleted TGF-β1 in muscle satellite cells to determine its role in joint preservation. Depression-induced joint pain was associated with increased osteoclast activity and extensive subchondral bone remodeling. The Lbp-Tlr4-Netrin-1 axis was highly upregulated in depressed subchondral bone, and its inhibition alleviated both pain-like behaviors and excessive bone resorption while mitigating depression-related weight loss. Deletion of Gdf-15, LepR, and PPARγ revealed that lipid metabolism genes significantly affect both depressive behavior and pain. Depression promoted TGF-β-mediated mesenchymal stem cell senescence and adipogenic differentiation, resembling pathological changes seen in aging and obesity. Notably, simple weight gain without metabolic correction worsened joint damage. Muscle wasting due to depression also contributed to joint pathology, and deletion of TGF-β1 in satellite cells improved joint integrity. Depression-related joint pain is not merely a psychological phenomenon but a complex organic disorder with defined structural and molecular underpinnings. It involves dysregulated lipid metabolism, aging-associated pathways, and multi-organ interactions between fat, muscle, bone, and the nervous system.",
+      "abstract": "To compare the profile attractiveness of skeletal Class III patients treated with either a surgery-first approach (SFA) or a conventional surgery approach (CSA), as perceived by surgeons, orthodontists, and laypersons. Thirty-four patients were assigned to either the SFA or CSA group retrospectively based on the surgical protocol performed and were evaluated by three distinct groups: oral and maxillofacial surgeons, orthodontists, and laypersons (n = 23 per group). Profile images before (T1) and after orthodontic-surgical treatment (T2) were analyzed using a 5-point Likert scale. Then participants answered the following question: \"Which surgical technique was used, CSA or SFA?\" Statistical analyses including the Spearman correlation coefficient, the Friedman test, the κ test, independent t-tests, and one-way analysis of variance were conducted to assess correlations and comparisons among evaluator groups (P < .05). A high and positive correlation (r = 0.86, P < .001) was demonstrated for scores between surgeons and orthodontists, and a low correlation was demonstrated between laypeople and specialists (r = 0.55, P = .01 and r = 0.48, P = .03). No statistically significant relationships were found between esthetic perceptions and the surgical approach regardless of the level of expertise of the evaluators, and it was also not possible to differentiate between the surgical approaches used. In this study, we indicate that the choice of orthognathic surgical protocol, whether surgery-first or conventional, did not significantly influence the perceived facial profile attractiveness of skeletal Class III patients. These findings support the clinical viability of the SFA protocol, particularly in cases where treatment time or patient preference are factors in decision-making.",
       "objective": "",
-      "study_methods": "Using inflammatory and chronic stress-induced mouse models of depression, we evaluated osteoclast activation, subchondral bone remodeling, and associated behavioral alterations. Molecular and genetic analyses were conducted to examine the role of the Lbp-Tlr4-Netrin-1 signaling axis and key metabolic genes including Gdf-15, LepR, and PPARγ, specifically in adipose tissue, bone marrow, and osteoclasts. Additionally, we assessed the impact of muscle degeneration on joint pathology, and conditionally deleted TGF-β1 in muscle satellite cells to determine its role in joint preservation.",
-      "methods": "Using inflammatory and chronic stress-induced mouse models of depression, we evaluated osteoclast activation, subchondral bone remodeling, and associated behavioral alterations. Molecular and genetic analyses were conducted to examine the role of the Lbp-Tlr4-Netrin-1 signaling axis and key metabolic genes including Gdf-15, LepR, and PPARγ, specifically in adipose tissue, bone marrow, and osteoclasts. Additionally, we assessed the impact of muscle degeneration on joint pathology, and conditionally deleted TGF-β1 in muscle satellite cells to determine its role in joint preservation.",
+      "study_methods": "Thirty-four patients were assigned to either the SFA or CSA group retrospectively based on the surgical protocol performed and were evaluated by three distinct groups: oral and maxillofacial surgeons, orthodontists, and laypersons (n = 23 per group). Profile images before (T1) and after orthodontic-surgical treatment (T2) were analyzed using a 5-point Likert scale. Then participants answered the following question: \"Which surgical technique was used, CSA or SFA?\" Statistical analyses including the Spearman correlation coefficient, the Friedman test, the κ test, independent t-tests, and one-way analysis of variance were conducted to assess correlations and comparisons among evaluator groups (P < .05).",
+      "methods": "Thirty-four patients were assigned to either the SFA or CSA group retrospectively based on the surgical protocol performed and were evaluated by three distinct groups: oral and maxillofacial surgeons, orthodontists, and laypersons (n = 23 per group). Profile images before (T1) and after orthodontic-surgical treatment (T2) were analyzed using a 5-point Likert scale. Then participants answered the following question: \"Which surgical technique was used, CSA or SFA?\" Statistical analyses including the Spearman correlation coefficient, the Friedman test, the κ test, independent t-tests, and one-way analysis of variance were conducted to assess correlations and comparisons among evaluator groups (P < .05).",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41711199/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41213519/",
       "pmcid": "",
       "figure_urls": []
     },
     {
-      "pmid": "41709673",
-      "title": "Sclerosing Odontogenic Carcinoma: A Review of a Challenging Entity in Malignant Odontogenic Classification With a Focus on Perineural Invasion and Cellular Proliferation.",
+      "pmid": "41015412",
+      "title": "Lip incompetence resolved by active vertical control in nonsurgical treatment of a protrusion case with vertical maxillary excess.",
       "authors": [
-        "Merva Soluk-Tekkesin",
-        "Keith David Hunter",
-        "Ronell Bologna-Molina",
-        "Kelly Magliocca",
-        "Liam Robinson",
-        "Akinyele Olumuyiwa Adisa",
-        "Jiang Li",
-        "Elizabeth Ann Bilodeau",
-        "Haizal Mohd Hussaini",
-        "Madhu Shrestha",
-        "Ricardo Santiago Gomez",
-        "Willie van Heerden",
-        "Wanninayake Mudiyanselage Tilakaratne"
+        "Johnny Jl Liaw",
+        "Jae Hyun Park",
+        "Fang Fang Tsai",
+        "Betty My Tsai",
+        "Wendy Wt Liao"
       ],
-      "publication_date": "2026-Feb-18",
-      "publication_date_iso": "2026-02-18",
-      "abstract": "Sclerosing odontogenic carcinoma (SOC) is a rare intraosseous neoplasm defined by the World Health Organization as a locally aggressive tumor with \"no metastatic potential\". This review provides a critical evaluation of the biological behavior, clinicopathologic features, and clinical management of SOC cases, with a particular focus on neural invasion and cellular proliferation scores. A comprehensive literature was performed using the Pubmed and Scopus databases to identify all published English-language reports of SOC. The analysis of 22 reported cases revealed that SOC predominantly affects the mandible in middle-aged adults, typically presenting as a radiolucent lesion associated with cortical resorption. Histopathologically, perineural invasion was identified in 77.3% of cases and revealed a wide range of Ki-67 expression (1%-%30). This challenging entity exhibits a spectrum of malignant potential, and the current classification standard of \"no metastatic potential\" requires revision. In cases exhibiting diverse biological behaviors, the Ki-67 proliferation score can be used an ancillary marker for risk stratification; higher rates (e.g., > 10%-15%) may be associated with aggressive local invasion and metastatic events. Further molecular studies on aggressive \"metastatic\" cases are imperative to allow for identification of definitive markers that can establish SOC as a distinct entity and provide a rational basis for risk assessment and treatment.",
-      "objective": "",
-      "study_methods": "A comprehensive literature was performed using the Pubmed and Scopus databases to identify all published English-language reports of SOC.",
-      "methods": "A comprehensive literature was performed using the Pubmed and Scopus databases to identify all published English-language reports of SOC.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41709673/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41708704",
-      "title": "Comparative evaluation of MRI-based bone-targeted sequences and computed tomography for preoperative assessment of midfacial trauma.",
-      "authors": [
-        "Adib Al-Haj Husain",
-        "Peter Kessler",
-        "Suen An Nynke Lie",
-        "Sameena Sandhu",
-        "Maximilian Eberhard Hermann Wagner",
-        "Egon Burian",
-        "Daniel Zedler",
-        "Marc M Precht",
-        "Stefan Sommer",
-        "Thomas Frauenfelder",
-        "Harald Essig"
-      ],
-      "publication_date": "2026-Feb-18",
-      "publication_date_iso": "2026-02-18",
-      "abstract": "This prospective study aimed to compare computed tomography (CT) and magnetic resonance imaging (MRI) in the preoperative assessment of acute midfacial trauma. Twenty patients received posttraumatic CT and MRI scans using a 3T scanner with a dedicated 15-channel dentomaxillofacial coil. Five MRI protocols were evaluated: UTE, DESS, Dark Bone, StarVIBE, and STIR. Three observers qualitatively assessed fracture detection, image quality, fracture line visibility, cortical delineation, and bone-to-soft-tissue contrast using a five-point scale. Descriptive statistics and inter-observer reliability (Krippendorff's α) were calculated. Forty-two fractures were analyzed. CT achieved excellent fracture detection (98% of fractures detected; α = 1.0) with the fastest evaluation times (30-82 s vs. 42-145 s). Among MRI protocols, UTE and StarVIBE performed best, detecting 88-89% of fractures, with excellent image quality and high inter-observer reliability (α = 0.80-0.91). Darkbone, DESS, and STIR consistently showed lower detection rates (up to 43%). UTE and StarVIBE were particularly effective for orbital, zygomaticomaxillary, and nasal bone fractures. Optimized gradient-echo-based MRI protocols provide radiation-free, CT-like imaging of midfacial fractures with superior soft-tissue contrast. While CT remains essential for emergency situations, a patient-, protocol-, and pathology-specific MR-based diagnostic approach offers a clinically feasible preoperative alternative in trauma management.Trial registration number: Swiss National Clinical Trials Portal: SNCTP000006343, ClinicalTrials.gov ID: NCT07012850 (trial registration date: May 9, 2025).",
+      "publication_date": "2026-Feb-19",
+      "publication_date_iso": "2026-02-19",
+      "abstract": "In this case report, we present the treatment of a 28-year-old patient with lip incompetence and vertical maxillary excess (VME), using a combination of a midpalatal miniscrew-anchored cantilever clip appliance and submerged buccal shelf miniscrews. The patient exhibited a convex profile, long face, gummy smile, and protrusion, with a Class II skeletal relationship and mentalis strain. The patient declined conventional orthognathic surgery, leading to an orthodontic camouflage treatment plan involving extraction of four first premolars, maximum retraction, and active vertical control with skeletal anchorage devices. Treatment included the use of infrazygomatic crest miniscrews, anterior subapical miniscrews, and a cantilever clip appliance for molar intrusion, resulting in significant improvement in facial profile, reduction of gummy smile, resolution of lip incompetence, and alleviation of mentalis strain. This case demonstrates the effectiveness of a nonsurgical orthodontic intervention in managing a complex case of VME and lip incompetence.",
       "objective": "",
       "study_methods": "",
       "methods": "",
-      "results": "",
+      "results": "ing in significant improvement in facial profile, reduction of gummy smile, resolution of lip incompetence, and alleviation of mentalis strain. This case demonstrates the effectiveness of a nonsurgical orthodontic intervention in managing a complex case of VME and lip incompetence.",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41708704/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41708581",
-      "title": "Comment on: \"Apremilast for Oral Mucosal-Predominant Resistant Pemphigus Vulgaris: A Promising Adjunctive Treatment\".",
-      "authors": [
-        "Rajiv Gandhi Gopalsamy",
-        "Lucas Alves da Mota Santana",
-        "Virgínia Kelma Dos Santos Silva",
-        "Eduardo Morato de Oliveira",
-        "Juliana Batista Melo da Fonte",
-        "Lysandro Pinto Borges"
-      ],
-      "publication_date": "2026-Feb-18",
-      "publication_date_iso": "2026-02-18",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41708581/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41015412/",
       "pmcid": "",
       "figure_urls": []
     },
