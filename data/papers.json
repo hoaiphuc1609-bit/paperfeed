@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-25T04:25:06Z",
+  "updated_at": "2026-02-26T04:22:16Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -132,6 +132,34 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_PB.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_OC.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_PB.jpg"
+      ]
+    },
+    {
+      "pmid": "41737505",
+      "title": "A propensity score-matched study including 250,000 patients with Factor V Leiden shows significantly increased mortality in comparison with individuals without thrombophilia.",
+      "authors": [
+        "Moritz Hertel",
+        "Max Heiland",
+        "Susanne Nahles",
+        "Saskia Preissner",
+        "Robert Preissner"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Factor V Leiden (FVL) is a common inherited thrombophilia that increases the risk of venous thromboembolism (VTE). However, its effect on all-cause mortality remains uncertain, and previous studies yielded conflicting results. To assess the association between FVL and all-cause mortality using a large international database, including age- and sex-stratified analyses. Retrospective propensity score-matched cohort study using real-world electronic health records. We analyzed electronic health records from the TriNetX Global Health Research Network, comparing 241,572 patients with FVL to 20,779,115 patients without thrombophilia. One-to-one propensity score matching for age was applied. Incidences of VTE and all-cause mortality were compared over a 19-year follow-up. Subgroup analyses were performed for female patients and three age categories: <20, 20-50, and >50 years. FVL was significantly associated with both VTE (OR: 9.325; 95% CI: 9.109-9.546) and all-cause mortality (OR: 1.423; 95% CI: 1.396-1.451). The mortality risk was particularly elevated in young females (<20 years: OR: 9.681; 20-50 years: OR: 2.345) and attenuated in older females (>50 years: OR: 1.432). Kaplan-Meier analyses showed significantly reduced survival probabilities in FVL-positive patients across all subgroups. This large-scale real-world study indicates that FVL is not only a major risk factor for thrombosis but also associated with increased all-cause mortality-particularly among young women. These findings may have implications for screening and risk stratification in selected populations.",
+      "objective": "",
+      "study_methods": "We analyzed electronic health records from the TriNetX Global Health Research Network, comparing 241,572 patients with FVL to 20,779,115 patients without thrombophilia. One-to-one propensity score matching for age was applied. Incidences of VTE and all-cause mortality were compared over a 19-year follow-up. Subgroup analyses were performed for female patients and three age categories: <20, 20-50, and >50 years.",
+      "methods": "We analyzed electronic health records from the TriNetX Global Health Research Network, comparing 241,572 patients with FVL to 20,779,115 patients without thrombophilia. One-to-one propensity score matching for age was applied. Incidences of VTE and all-cause mortality were compared over a 19-year follow-up. Subgroup analyses were performed for female patients and three age categories: <20, 20-50, and >50 years.",
+      "results": "To assess the association between FVL and all-cause mortality using a large international database, including age- and sex-stratified analyses. Retrospective propensity score-matched cohort study using real-world electronic health records. We analyzed electronic health records from the TriNetX Global Health Research Network, comparing 241,572 patients with FVL to 20,779,115 patients without thrombophilia. One-to-one propensity score matching for age was applied. Incidences of VTE and all-cause mortality were compared over a 19-year follow-up. Subgroup analyses were performed for female patients and three age categories: <20, 20-50, and >50 years. FVL was significantly associated with both VTE (OR: 9.325; 95% CI: 9.109-9.546) and all-cause mortality (OR: 1.423; 95% CI: 1.396-1.451). The mortality risk was particularly elevated in young females (<20 years: OR: 9.681; 20-50 years: OR: 2.345) and attenuated in older females (>50 years: OR: 1.432). Kaplan-Meier analyses showed significantly reduced survival probabilities in FVL-positive patients across all subgroups. This large-scale real-world study indicates that FVL is not only a major risk factor for thrombosis but also associated with increased all-cause mortality-particularly among young women. These findings may have implications for screening and risk stratification in selected populations.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41737505/",
+      "pmcid": "PMC12926590",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12926590/bin/gr1.jpg"
       ]
     },
     {
@@ -1023,6 +1051,30 @@
       "figure_urls": []
     },
     {
+      "pmid": "41739891",
+      "title": "Discussion: Demystifying Maxillomandibular Fibrous Dysplasia and Its Impact on Dental Development.",
+      "authors": [
+        "Daniella M Cordero",
+        "Andrea Burke",
+        "Srinivas M Susarla"
+      ],
+      "publication_date": "2026-Mar-01",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41739891/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41732418",
       "title": "The emerging role of machine learning-based methods in cancer classification using microRNA.",
       "authors": [
@@ -1077,8 +1129,10 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41731334/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC12929697",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929697/bin/JOCD-25-e70703-g001.jpg"
+      ]
     },
     {
       "pmid": "41725916",
@@ -1224,7 +1278,7 @@
         "Emanuela Palmerini",
         "Leo Kager",
         "Marinka L F Hol",
-        "Roel Of van Ewijk",
+        "Roelof van Ewijk",
         "Joseph Lopez",
         "Leighton A Elliott",
         "Dale R Shepard",
@@ -1271,80 +1325,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41670359/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "41668712",
-      "title": "Exploratory transcriptomics and",
-      "authors": [
-        "Wataru Kakuguchi",
-        "Masahiro Morimoto",
-        "Kenta Takahashi",
-        "Nako Maishi",
-        "Kyoko Hida",
-        "Takao Nomura",
-        "Satoko Otsuguro",
-        "Katsumi Maenaka",
-        "Yoichi Ohiro"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Suramin, an anti-trypanosomal agent, has gained attention for its potential anticancer activity, partly through the modulation of RNA-binding proteins such as HuR. However, its genome-wide transcriptomic effects in oral squamous cell carcinoma remain unclear. In the present study, RNA-sequencing was performed on suramin-treated HSC-3 cells, followed by enrichment, network and transcription factor analyses. In vivo validation was conducted in an orthotopic xenograft model using luciferase-labeled HSC-3 cells. Suramin was administered intraperitoneally at a dose of 20 mg/kg, twice weekly. Transcriptomic profiling revealed broad downregulation of genes governing cell cycle progression, chromatin organization and DNA damage response, including mitotic regulators such as G2/M regulators CCNB1, CDC20 and AURKA, and their upstream transcription factors FOXM1 and MYBL2. By contrast, genes associated with extracellular matrix remodeling (the MMP family and TIMP3) and stress or immune responses (TXNIP and TNFSF10) were upregulated. Functional enrichment confirmed the suppression of proliferative programs with the concurrent activation of tumor-suppressive microenvironmental responses. In vivo, suramin-treated mice exhibited lower tumor growth compared with that in the control group, although the difference was not statistically significant (P=0.18). Effect size estimates were relatively large for both the group effect (partial η2=0.20) and the time x group interaction (partial η2=0.24), suggesting that the study may have been underpowered to detect this difference statistically. In conclusion, the present exploratory study suggests that suramin exerts a dual antitumor effect on tongue squamous cell carcinoma by suppressing proliferative transcriptional programs, and modulating extracellular and stress response pathways, providing a basis for future studies to further elucidate its therapeutic relevance.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": ", the present exploratory study suggests that suramin exerts a dual antitumor effect on tongue squamous cell carcinoma by suppressing proliferative transcriptional programs, and modulating extracellular and stress response pathways, providing a basis for future studies to further elucidate its therapeutic relevance.",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41668712/",
-      "pmcid": "PMC12884683",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12884683/bin/br-24-03-02112-g00.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12884683/bin/br-24-03-02112-g00.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12884683/bin/br-24-03-02112-g01.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12884683/bin/br-24-03-02112-g01.gif"
-      ]
-    },
-    {
-      "pmid": "41660581",
-      "title": "Osteogenesis Imperfecta with a gross deletion including the",
-      "authors": [
-        "Kenichi Yamamoto",
-        "Hirofumi Nakayama",
-        "Yusaku Ito",
-        "Masaya Hattori",
-        "Takaaki Shimada",
-        "Ikumi Ueda",
-        "Takeshi Ishimi",
-        "Chieko Yamada",
-        "Yukako Nakano",
-        "Makoto Fujiwara",
-        "Takuo Kubota",
-        "Yasuhisa Ohata",
-        "Yasuji Kitabatake"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Osteogenesis Imperfecta (OI) is a rare hereditary brittle bone disorder typically caused by COL1A1 and COL1A2 variants impairing type I collagen. However, gross deletions involving COL1A1 are uncommon. Here, we report a family with type I OI harboring a 101-kbp deletion encompassing COL1A1, identified through whole genome analysis. Affected individuals presented mild phenotypes. Breakpoint analysis revealed a 5-bp microhomology-mediated end joining involving an Alu element. This report expands the understanding of genetic mechanisms underlying OI.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41660581/",
-      "pmcid": "PMC12878673",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12878673/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12878673/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12878673/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12878673/bin/gr2.gif"
-      ]
     },
     {
       "pmid": "41591939",
@@ -2085,6 +2065,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "40801375",
+      "title": "Skeletal Stability of Occlusal Plane Rotational Orthognathic Surgery: A Cephalometric Analysis.",
+      "authors": [
+        "Young Chul Kim",
+        "Soon Man Kwon",
+        "Jang Yeol Lee",
+        "Jong Woo Choi"
+      ],
+      "publication_date": "2026-Mar-01",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "This study describes the long-term skeletal outcomes of occlusal plane rotational orthognathic surgery, shifting from traditional maxillomandibular complex advancement or setback by tailoring the direction and magnitude of rotation based on clinical and occlusal characteristics. Patients undergoing maxillomandibular complex rotation by means of Le Fort I osteotomy and bilateral sagittal split ramus osteotomy were divided into 4 groups reflecting distinct occlusal and clinical characteristics: group A (class III malocclusion, posterior impaction with clockwise rotation); group B (cleft-related class III malocclusion, anterior lengthening with clockwise rotation); group C (class II malocclusion with sleep apnea, posterior lengthening with counterclockwise rotation); and group D (class II malocclusion with vertical maxillary excess, anterior impaction with counterclockwise rotation). Cephalometric landmarks were analyzed preoperatively, immediately postoperatively, and 3 years postoperatively. Postsurgical relapse was categorized as clinically insignificant (<2 mm/<2 degrees), potentially significant (2 to 4 mm/2 to 4 degrees), and highly significant (>4 mm/>4 degrees). The study included 76 patients (group A, 29 patients; group B, 22 patients; group C, 15 patients; and group D, 10 patients), with a mean evaluation period of 5.03 days immediately postoperatively and 36.5 months at 3 years postoperatively. Group B exhibited significant horizontal and vertical relapse at the cephalometric A point, with 54.5% showing potentially significant horizontal relapse and 45.5% showing vertical relapse. At the cephalometric B point, 3.4% of group A, 31.8% of group B, and 13.3% of group C demonstrated potentially significant vertical changes. Occlusal plane rotational orthognathic surgery provides reliable skeletal stability when tailored to distinct clinical contexts, offering a versatile approach for aesthetic and functional correction.",
+      "objective": "",
+      "study_methods": "Patients undergoing maxillomandibular complex rotation by means of Le Fort I osteotomy and bilateral sagittal split ramus osteotomy were divided into 4 groups reflecting distinct occlusal and clinical characteristics: group A (class III malocclusion, posterior impaction with clockwise rotation); group B (cleft-related class III malocclusion, anterior lengthening with clockwise rotation); group C (class II malocclusion with sleep apnea, posterior lengthening with counterclockwise rotation); and group D (class II malocclusion with vertical maxillary excess, anterior impaction with counterclockwise rotation). Cephalometric landmarks were analyzed preoperatively, immediately postoperatively, and 3 years postoperatively. Postsurgical relapse was categorized as clinically insignificant (<2 mm/<2 degrees), potentially significant (2 to 4 mm/2 to 4 degrees), and highly significant (>4 mm/>4 degrees).",
+      "methods": "Patients undergoing maxillomandibular complex rotation by means of Le Fort I osteotomy and bilateral sagittal split ramus osteotomy were divided into 4 groups reflecting distinct occlusal and clinical characteristics: group A (class III malocclusion, posterior impaction with clockwise rotation); group B (cleft-related class III malocclusion, anterior lengthening with clockwise rotation); group C (class II malocclusion with sleep apnea, posterior lengthening with counterclockwise rotation); and group D (class II malocclusion with vertical maxillary excess, anterior impaction with counterclockwise rotation). Cephalometric landmarks were analyzed preoperatively, immediately postoperatively, and 3 years postoperatively. Postsurgical relapse was categorized as clinically insignificant (<2 mm/<2 degrees), potentially significant (2 to 4 mm/2 to 4 degrees), and highly significant (>4 mm/>4 degrees).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40801375/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "40774873",
       "title": "Photon-counting detector computed tomography meets orthopantomography: a cinematic rendering solution for superior structural visualization.",
       "authors": [
@@ -2106,6 +2111,37 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40774873/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40737365",
+      "title": "Demystifying Maxillomandibular Fibrous Dysplasia and Its Impact on Dental Development.",
+      "authors": [
+        "Nicholas A Han",
+        "Philip D Tolley",
+        "Theodor B Lenz",
+        "Isabel A Ryan",
+        "Allison C Hu",
+        "Hyun-Duck Nah",
+        "Eric C Liao",
+        "Jordan W Swanson",
+        "Jesse A Taylor",
+        "Scott P Bartlett"
+      ],
+      "publication_date": "2026-Mar-01",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "Fibrous dysplasia of the jaw (FDJ) is a rare fibroosseous skeletal disorder that affects the maxilla and/or mandible, often resulting in significant dental complications. However, its impact on dentition and occlusion remains poorly characterized. This study aims to analyze the dental and orthodontic sequelae of FDJ to enhance clinical management and improve patient care. A retrospective cohort study was conducted on patients with FDJ seen at the authors' institution from 2015 to 2023. Medical records and computed tomographic imaging were reviewed to assess disease distribution, dental abnormality, occlusion, and orthodontic treatment outcomes. Among 39 patients with FDJ, 30 (76.9%) had direct dentoalveolar involvement. Malocclusion was documented in 29 patients (74.4%), with Angle class 1 in 26 (66.7%), Angle class 2 in 10 (25.6%), and Angle class 3 in 3 patients (7.7%). Dental abnormalities included retained primary teeth ( n = 5 [12.8%]), dental caries ( n = 8 [20.5%]), enamel hypoplasia ( n = 1 [2.6%]), and loss of permanent dentition ( n = 3 [7.7%]). Of 15 patients with long-term follow-up after initiation of orthodontics, 12 (80%) experienced long-term stability of occlusion without requiring repeated orthodontic intervention. FDJ presents significant dental challenges, with high rates of dentoalveolar involvement and malocclusion. Although some patients experienced tooth pain and rapid disease progression resulting in need for surgical intervention, most patients achieved stable occlusion into adulthood, suggesting that orthodontic treatment is generally successful with appropriate follow-up and multidisciplinary management. Despite concerns about disease progression, adult dentition is typically preserved, and early intervention can be effective when closely monitored.",
+      "objective": "to analyze the dental and orthodontic sequelae of FDJ to enhance clinical management and improve patient care. A retrospective cohort study was conducted on patients with FDJ seen at the authors' institution from 2015 to 2023. Medical records and computed tomographic imaging were reviewed to assess disease distribution, dental abnormality, occlusion, and orthodontic treatment outcomes. Among 39 patients with FDJ, 30 (76.9%) had direct dentoalveolar involvement. Malocclusion was documented in 29 patients (74.4%), with Angle class 1 in 26 (66.7%), Angle class 2 in 10 (25.6%), and Angle class 3 in 3 patients (7.7%). Dental abnormalities included retained primary teeth ( n = 5 [12.8%]), dental caries ( n = 8 [20.5%]), enamel hypoplasia ( n = 1 [2.6%]), and loss of permanent dentition ( n = 3 [7.7%]). Of 15 patients with long-term follow-up after initiation of orthodontics, 12 (80%) experienced long-term stability of occlusion without requiring repeated orthodontic intervention. FDJ presents significant dental challenges, with high rates of dentoalveolar involvement and malocclusion. Although some patients experienced tooth pain and rapid disease progression resulting in need for surgical intervention, most patients achieved stable occlusion into adulthood, suggesting that orthodontic treatment is generally successful with appropriate follow-up and multidisciplinary management. Despite concerns about disease progression, adult dentition is typically preserved, and early intervention can be effective when closely monitored.",
+      "study_methods": "A retrospective cohort study was conducted on patients with FDJ seen at the authors' institution from 2015 to 2023. Medical records and computed tomographic imaging were reviewed to assess disease distribution, dental abnormality, occlusion, and orthodontic treatment outcomes.",
+      "methods": "A retrospective cohort study was conducted on patients with FDJ seen at the authors' institution from 2015 to 2023. Medical records and computed tomographic imaging were reviewed to assess disease distribution, dental abnormality, occlusion, and orthodontic treatment outcomes.",
+      "results": "ing in significant dental complications. However, its impact on dentition and occlusion remains poorly characterized. This study aims to analyze the dental and orthodontic sequelae of FDJ to enhance clinical management and improve patient care. A retrospective cohort study was conducted on patients with FDJ seen at the authors' institution from 2015 to 2023. Medical records and computed tomographic imaging were reviewed to assess disease distribution, dental abnormality, occlusion, and orthodontic treatment outcomes. Among 39 patients with FDJ, 30 (76.9%) had direct dentoalveolar involvement. Malocclusion was documented in 29 patients (74.4%), with Angle class 1 in 26 (66.7%), Angle class 2 in 10 (25.6%), and Angle class 3 in 3 patients (7.7%). Dental abnormalities included retained primary teeth ( n = 5 [12.8%]), dental caries ( n = 8 [20.5%]), enamel hypoplasia ( n = 1 [2.6%]), and loss of permanent dentition ( n = 3 [7.7%]). Of 15 patients with long-term follow-up after initiation of orthodontics, 12 (80%) experienced long-term stability of occlusion without requiring repeated orthodontic intervention. FDJ presents significant dental challenges, with high rates of dentoalveolar involvement and malocclusion. Although some patients experienced tooth pain and rapid disease progression resulting in need for surgical intervention, most patients achieved stable occlusion into adulthood, suggesting that orthodontic treatment is generally successful with appropriate follow-up and multidisciplinary management. Despite concerns about disease progression, adult dentition is typically preserved, and early intervention can be effective when closely monitored.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40737365/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2213,6 +2249,87 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/37551771/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41739549",
+      "title": "Cephalometric Comparison of Le Fort I Osteotomy in Growing and Non-Growing Patients With Clefts: A Retrospective Study.",
+      "authors": [
+        "Minna Merta",
+        "Roni Harjunpää",
+        "Junnu Leikola",
+        "Juho Suojanen",
+        "Nora Holmberg",
+        "Arja Heliövaara"
+      ],
+      "publication_date": "2026-Feb-25",
+      "publication_date_iso": "2026-02-25",
+      "abstract": "ObjectiveTo cephalometrically compare craniofacial morphology and maxillary advancement in growing versus non-growing patients with clefts undergoing Le Fort I osteotomy.DesignRetrospective cohort study.SettingAll patients underwent maxillary osteotomy at a single tertiary hospital.PatientsThe Pre-Growth-Completion group (PreGC) comprised 28 growing patients (18 males, 10 females; 9 BCLP, 18 UCLP, 1 CP) with a mean age at surgery of 13.5 years (SD = 1.22; range, 11.5-16.7). The Post-Growth-Completion group (PostGC) comprised 59 patients (28 males, 31 females; 15 BCLP, 23 UCLP, 21 CP) with a mean age at surgery of 18.3 years (SD = 4.38; range, 14.5-45.3). Patients with syndromes and those undergoing bimaxillary osteotomies were excluded.InterventionsEach patient underwent Le Fort I osteotomy. Osteotomies were fixed with patient-specific implants or miniplates.Main Outcome MeasuresCephalometric analysis was performed comparing preoperative lateral cephalometric radiographs or CT scans and immediate postoperative lateral cephalometric radiographs.ResultsPatients in PreGC group had more severe preoperative maxillary hypoplasia (SNA 74.2° vs 77.0°, P = .007; ANB -5.2° vs -1.9°, P = .0001), but no significant differences were observed postoperatively (SNA 80.7° vs 78.9°, ANB 2.7° vs 3.9°). Maxillary horizontal advancement was greater in the PreGC group (point A 6.4 mm vs 3.2 mm; P = .00002).ConclusionsPatients undergoing early Le Fort I osteotomy had more severe preoperative maxillary hypoplasia, required greater horizontal advancements, yet achieved significant corrections comparable to patients treated later. However, early osteotomy in growing patients may be considered a 2-stage approach as secondary correction is often required after growth is complete.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Patients in PreGC group had more severe preoperative maxillary hypoplasia (SNA 74.2° vs 77.0°, P = .007; ANB -5.2° vs -1.9°, P = .0001), but no significant differences were observed postoperatively (SNA 80.7° vs 78.9°, ANB 2.7° vs 3.9°). Maxillary horizontal advancement was greater in the PreGC group (point A 6.4 mm vs 3.2 mm; P = .00002).ConclusionsPatients undergoing early Le Fort I osteotomy had more severe preoperative maxillary hypoplasia, required greater horizontal advancements, yet achieved significant corrections comparable to patients treated later. However, early osteotomy in growing patients may be considered a 2-stage approach as secondary correction is often required after growth is complete.",
+      "conclusion": "Patients undergoing early Le Fort I osteotomy had more severe preoperative maxillary hypoplasia, required greater horizontal advancements, yet achieved significant corrections comparable to patients treated later. However, early osteotomy in growing patients may be considered a 2-stage approach as secondary correction is often required after growth is complete.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41739549/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41736240",
+      "title": "Prevalence of Buccal Ridge Concavities Following Implant Placement With Contour Bone Augmentation: A Cross-Sectional Study.",
+      "authors": [
+        "Sophia E Vollath",
+        "Giorgina M Wiedmer",
+        "Clemens Raabe",
+        "Manrique Fonseca",
+        "Vivianne Chappuis",
+        "Maria B Asparuhova",
+        "Ningbo Zhao",
+        "Emilio Couso-Queiruga"
+      ],
+      "publication_date": "2026-Feb-24",
+      "publication_date_iso": "2026-02-24",
+      "abstract": "To evaluate the long-term prevalence of buccal ridge concavity (BRC) following implant placement with simultaneous contour bone augmentation (CBA). Adult patients with at least one single-tooth non-molar implant-supported prosthesis and no diagnosis of peri-implantitis were included in this exploratory cross-sectional study. Clinical, digital, and patient-reported outcomes measures (PROMs) were collected. Intra-oral scans were analyzed at multiple apico-coronal levels with dedicated software to assess the presence of BRC. A total of 186 patients (211 implants) were analyzed over a mean follow-up of 11.4 ± 1.4 years. BRC was observed in 100% of sites and patients, with a mean value of -0.83 ± 0.45 mm at the mucosal margin, -0.62 ± 0.39 mm at 3 mm apical, and -0.47 ± 0.32 mm at 5 mm apical. Multivariate analysis at 3 mm apical showed greater BRC in males (+0.165 mm, p = 0.003), premolar sites (+0.110 mm, p = 0.03), and when implants ≥ 12 mm were placed (+0.141 mm, p = 0.008). The greater the keratinized mucosa, the smaller the BRC, and the greater the crestal bone loss, the higher the BRC. PROMs indicated high satisfaction with esthetics, function, treatment expectations, tolerability of the overall procedure, and oral hygiene; OHIP-14 scores were low (2 ± 4). Implant placement with CBA does not fully restore alveolar ridge volume in non-molar sites, with all cases showing BRC, particularly at the most coronal aspect. However, patient-reported satisfaction remained high.",
+      "objective": "",
+      "study_methods": "Adult patients with at least one single-tooth non-molar implant-supported prosthesis and no diagnosis of peri-implantitis were included in this exploratory cross-sectional study. Clinical, digital, and patient-reported outcomes measures (PROMs) were collected. Intra-oral scans were analyzed at multiple apico-coronal levels with dedicated software to assess the presence of BRC.",
+      "methods": "Adult patients with at least one single-tooth non-molar implant-supported prosthesis and no diagnosis of peri-implantitis were included in this exploratory cross-sectional study. Clinical, digital, and patient-reported outcomes measures (PROMs) were collected. Intra-oral scans were analyzed at multiple apico-coronal levels with dedicated software to assess the presence of BRC.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41736240/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41735422",
+      "title": "Principal component analysis of 3-dimensional facial soft-tissue morphology in three adult populations.",
+      "authors": [
+        "Chung H Kau",
+        "Peter Borbely",
+        "Alexei Zhurov",
+        "Jolaiya Oguntoba"
+      ],
+      "publication_date": "2026-Feb-24",
+      "publication_date_iso": "2026-02-24",
+      "abstract": "This preliminary study aims to identify soft tissue facial morphological features that vary among ethnically diverse, facially balanced adults using Principal Component Analysis (PCA) of 3D facial scans. A total of 210 3D facial scans (35 per subgroup: Chinese, Hungarian, and Hispanic; stratified by sex) were selected from a database at the University of Alabama. Facial scans were captured using 3D-laser scanning and stereophotogrammetry (3dMD). A total of 57 landmarks were manually placed on each scan. The landmark coordinates were analyzed using Generalized Procrustes Analysis and PCA (conducted in R) to identify principal components contributing most significantly to shape variation. PCA identified four principal components (PCs) accounting for 77.72% of the total variance in soft tissue morphology. PC1 (49.13%) was associated with upper facial height. PC2 (17.70%) reflected the spatial relationship between nose protrusion and eye position. PC3 (6.31%) corresponded to interocular distance and vertical eye placement. PC4 (4.14%) represented upper lip protrusion. These PCs showed that the greatest morphological variability was in the upper facial region. Observed differences were interpreted within clinical and aesthetic contexts and were consistent with findings from prior literature on facial development and attractiveness. Significant variations in upper facial soft tissue morphology exist among normal adult subjects from different ethnic backgrounds. This study demonstrates the utility of PCA in revealing clinically relevant patterns in facial morphology and highlights the importance of individualized, ethnically sensitive treatment planning in orthodontics and orthognathic surgery. Future longitudinal and AI-driven studies are recommended to refine personalized diagnostics and develop inclusive aesthetic standards.",
+      "objective": "to identify soft tissue facial morphological features that vary among ethnically diverse, facially balanced adults using Principal Component Analysis (PCA) of 3D facial scans. A total of 210 3D facial scans (35 per subgroup: Chinese, Hungarian, and Hispanic; stratified by sex) were selected from a database at the University of Alabama. Facial scans were captured using 3D-laser scanning and stereophotogrammetry (3dMD). A total of 57 landmarks were manually placed on each scan. The landmark coordinates were analyzed using Generalized Procrustes Analysis and PCA (conducted in R) to identify principal components contributing most significantly to shape variation. PCA identified four principal components (PCs) accounting for 77.72% of the total variance in soft tissue morphology. PC1 (49.13%) was associated with upper facial height. PC2 (17.70%) reflected the spatial relationship between nose protrusion and eye position. PC3 (6.31%) corresponded to interocular distance and vertical eye placement. PC4 (4.14%) represented upper lip protrusion. These PCs showed that the greatest morphological variability was in the upper facial region. Observed differences were interpreted within clinical and aesthetic contexts and were consistent with findings from prior literature on facial development and attractiveness. Significant variations in upper facial soft tissue morphology exist among normal adult subjects from different ethnic backgrounds. This study demonstrates the utility of PCA in revealing clinically relevant patterns in facial morphology and highlights the importance of individualized, ethnically sensitive treatment planning in orthodontics and orthognathic surgery. Future longitudinal and AI-driven studies are recommended to refine personalized diagnostics and develop inclusive aesthetic standards.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41735422/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2329,8 +2446,13 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41729359/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC12929735",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929735/bin/40729_2026_668_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929735/bin/40729_2026_668_Fig2_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929735/bin/40729_2026_668_Fig3_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929735/bin/40729_2026_668_Fig4_HTML.jpg"
+      ]
     },
     {
       "pmid": "41729299",
@@ -2342,10 +2464,10 @@
       ],
       "publication_date": "2026-Feb-23",
       "publication_date_iso": "2026-02-23",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
+      "abstract": "Maxillofacial fractures are common in polytrauma, and these patients often require intensive care unit (ICU) admission until delayed definitive surgical management. This review aims to evaluate the scientific evidence on timing of definitive internal fracture fixation of maxillofacial fractures in polytrauma. We hypothesise that delayed definitive surgery is associated with better outcomes. This systematic review was conducted in accordance with the PRISMA protocol. MEDLINE, EMBASE, Scopus, CINAHL and PubMed were searched from inception to July 2025 for articles in English reporting timing of facial fracture fixation in polytrauma cohorts. Two reviewers independently screened studies and extracted data on patient characteristics, injury severity, fixation timing, and patient outcomes. Risk of bias was assessed using the Newcastle-Ottawa Scale. 359 studies were initially identified. After applying inclusion and exclusion criteria, three retrospective studies (total 365 patients) were included. Timing definitions of fixation varied, with early fixation intervals ranging from ≤ 24 h to ≤ 72 h. Surgical-site infection rates ranged from 0 to 12.7% (early) and 4.8–14.4% (delayed). No significant differences emerged in anatomical reduction, reoperation rates, or complications between groups. Hospital and ICU length of stay, ventilator days and mortality rates were comparable. Studies were heterogeneous and subject to high risk of bias. The available low-quality evidence does not support a clear advantage of the current practice of delayed fixation of facial fractures in polytrauma patients. Quality prospective studies with predefined inclusion criteria, clear consensus about the cut-off for early timing of surgery and standardised outcome measures are required. The online version contains supplementary material available at 10.1007/s00068-026-03127-2.",
+      "objective": "to evaluate the scientific evidence on timing of definitive internal fracture fixation of maxillofacial fractures in polytrauma. We hypothesise that delayed definitive surgery is associated with better outcomes. This systematic review was conducted in accordance with the PRISMA protocol. MEDLINE, EMBASE, Scopus, CINAHL and PubMed were searched from inception to July 2025 for articles in English reporting timing of facial fracture fixation in polytrauma cohorts. Two reviewers independently screened studies and extracted data on patient characteristics, injury severity, fixation timing, and patient outcomes. Risk of bias was assessed using the Newcastle-Ottawa Scale. 359 studies were initially identified. After applying inclusion and exclusion criteria, three retrospective studies (total 365 patients) were included. Timing definitions of fixation varied, with early fixation intervals ranging from ≤ 24 h to ≤ 72 h. Surgical-site infection rates ranged from 0 to 12.7% (early) and 4.8–14.4% (delayed). No significant differences emerged in anatomical reduction, reoperation rates, or complications between groups. Hospital and ICU length of stay, ventilator days and mortality rates were comparable. Studies were heterogeneous and subject to high risk of bias. The available low-quality evidence does not support a clear advantage of the current practice of delayed fixation of facial fractures in polytrauma patients. Quality prospective studies with predefined inclusion criteria, clear consensus about the cut-off for early timing of surgery and standardised outcome measures are required. The online version contains supplementary material available at 10.1007/s00068-026-03127-2.",
+      "study_methods": "This systematic review was conducted in accordance with the PRISMA protocol. MEDLINE, EMBASE, Scopus, CINAHL and PubMed were searched from inception to July 2025 for articles in English reporting timing of facial fracture fixation in polytrauma cohorts. Two reviewers independently screened studies and extracted data on patient characteristics, injury severity, fixation timing, and patient outcomes. Risk of bias was assessed using the Newcastle-Ottawa Scale.",
+      "methods": "This systematic review was conducted in accordance with the PRISMA protocol. MEDLINE, EMBASE, Scopus, CINAHL and PubMed were searched from inception to July 2025 for articles in English reporting timing of facial fracture fixation in polytrauma cohorts. Two reviewers independently screened studies and extracted data on patient characteristics, injury severity, fixation timing, and patient outcomes. Risk of bias was assessed using the Newcastle-Ottawa Scale.",
       "results": "",
       "conclusion": "",
       "limitations": "",
@@ -2353,8 +2475,11 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41729299/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC12929254",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929254/bin/68_2026_3127_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929254/bin/68_2026_3127_Fig1_HTML.gif"
+      ]
     },
     {
       "pmid": "41729134",
@@ -2536,122 +2661,6 @@
       ]
     },
     {
-      "pmid": "41722651",
-      "title": "H3K18 Lactylation in Salivary Gland Epithelial Cells Regulates Autophagy and Is Associated With the Progression of Sjögren's Syndrome.",
-      "authors": [
-        "Changyu Chen",
-        "Junhao Yin",
-        "Jiabao Xu",
-        "Lei Ye",
-        "Hanyi Zhu",
-        "Xijun Wang",
-        "Yimin Liu",
-        "Xinyi Ma",
-        "Haonan Zhou",
-        "Ruowen Zhao",
-        "Jiayao Fu",
-        "Lingyan Zheng"
-      ],
-      "publication_date": "2026-Feb-19",
-      "publication_date_iso": "2026-02-19",
-      "abstract": "Abnormal signal transduction within glandular epithelial cells is a pathological feature of advanced Sjögren's syndrome (SS). Preliminary investigations have demonstrated that the progression of SS is marked by a substantial accumulation of metabolic byproducts, notably lactate, in the salivary glands. This study corroborated the accumulation of lactate within the salivary glands by analyzing peripheral blood and lip gland tissues samples from SS patients in addition to constructing an experimental Sjögren's syndrome (ESS) mouse model. Lactate exacerbates the severity of xerostomia and the extent of immune cell infiltration in the salivary glands. Moreover, the ability of lactate transport proteins, including MCT1 and SLC5A12, to regulate the transport of lactate in and out of cells, thereby facilitating the process of histone lactylation, was confirmed via experimental methodologies such as Western blotting. Preliminary findings derived from chromatin immunoprecipitation sequencing (ChIP-seq) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis indicated that H3K18la directly influences the downstream autophagy signaling pathway. Subsequent validation by Western blot analysis revealed associations between various key regulatory and autophagy-related proteins and the lactate microenvironment. Moreover, the relationship between apoptosis and autophagy levels was elucidated through Annexin/propidium iodide (PI) staining. Flow cytometry confirmed that lactate levels regulate the level of the autophagy marker protein LC3B-II. Transmission electron microscopy confirmed an increase in the number of autophagosomes in a high-lactate environment. These findings indicate that lactate exacerbates SS symptoms and the degree of immune cell infiltration and that H3K18la directly regulates the autophagy signaling pathway within glandular epithelial cells, thus contributing to the progression of SS.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41722651/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41715128",
-      "title": "Correction to: Xanthogranulomatous osteomyelitis of the jaw in a young boy: a case report.",
-      "authors": [
-        "Kevin Bloch-Maier",
-        "Sophie-Myriam Dridi",
-        "Arek Sulukdjian",
-        "Anne-Laure Ejeil"
-      ],
-      "publication_date": "2026-Feb-19",
-      "publication_date_iso": "2026-02-19",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41715128/",
-      "pmcid": "PMC12918376",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41711647",
-      "title": "Management Strategies for Isolated Medial Orbital Wall Fractures: A Literature Review of Surgical and Conservative Approaches.",
-      "authors": [
-        "David J Mann",
-        "Brennan R Leininger",
-        "Jane N Ewing",
-        "Jessica Lee",
-        "Brooke French",
-        "David Khechoyan",
-        "Mark Greyson",
-        "Jason W Yu"
-      ],
-      "publication_date": "2026-Feb-19",
-      "publication_date_iso": "2026-02-19",
-      "abstract": "We reviewed the literature on the management of isolated medial orbital wall fractures to understand when patients are treated surgically or conservatively, and their postoperative complications. A comprehensive search was conducted in Cochrane, Medline, and Embase databases on 11/1/2020 with the date range of January 1960 to July 2019 to find published systematic reviews, case series, and clinical research articles. A total of 1321 articles were reviewed, of which 55 papers met our inclusion criteria, and the analyzed papers included 44 case series and 11 case reports. All statistical analyses were performed using R open-access statistical software with a P-value of <0.05. Medial rectus involvement upon initial presentation was statistically different between surgical and conservatively managed groups (1±0.4 versus 0±0, P=0.008). When analyzing postoperative symptom differences among 738 surgically treated patients and 214 conservatively treated patients, most experienced no symptoms (79.1% versus 85.0%, ns). Diplopia was the most common postoperative complaint for the surgically treated group (10.3%), whereas enophthalmos was the most common in the conservatively treated group (8.4%). Surgically managed patients had a higher incidence of diplopia (29.8%±6.7% versus 3.7%±2.3%, P<0.01) and concomitant injuries (15.2%±5.6% versus 0.0%±0%, P=0.01). Although surgical and conservative groups had similar postoperative courses, the initial presentation of these groups differed from each other. These differences in the presentation can help guide practitioners in making clinical decisions on whether to treat their patients surgically or conservatively.",
-      "objective": "",
-      "study_methods": "A comprehensive search was conducted in Cochrane, Medline, and Embase databases on 11/1/2020 with the date range of January 1960 to July 2019 to find published systematic reviews, case series, and clinical research articles. A total of 1321 articles were reviewed, of which 55 papers met our inclusion criteria, and the analyzed papers included 44 case series and 11 case reports. All statistical analyses were performed using R open-access statistical software with a P-value of <0.05.",
-      "methods": "A comprehensive search was conducted in Cochrane, Medline, and Embase databases on 11/1/2020 with the date range of January 1960 to July 2019 to find published systematic reviews, case series, and clinical research articles. A total of 1321 articles were reviewed, of which 55 papers met our inclusion criteria, and the analyzed papers included 44 case series and 11 case reports. All statistical analyses were performed using R open-access statistical software with a P-value of <0.05.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41711647/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41711575",
-      "title": "Jaw-in-a Day: Process Improvement and Outcomes.",
-      "authors": [
-        "Cristina Benites",
-        "Christian E Davila",
-        "Dustin J Conrad",
-        "Austin Lam",
-        "William Reschly",
-        "Richard Nessif",
-        "Kartik Motwani",
-        "Peter T Dziegielewski"
-      ],
-      "publication_date": "2026-Feb-19",
-      "publication_date_iso": "2026-02-19",
-      "abstract": "Describe the evolving institutional experience with Jaw-in-a-Day reconstruction and evaluate the functional, oncologic, and surgical outcomes of an efficient and reproducible model that can be used for both benign and malignant cases. Retrospective case series. Tertiary academic referral center and an affiliated private practice. A retrospective review of Jaw-in-a-Day reconstructions performed between January 2023 and January 2024 was conducted. All patients undergoing fibula or scapula free flap reconstruction with immediate dental implantation and provisional prosthesis were included. Operative times and prosthetic workflows were compared by prosthesis capture method (in situ vs at the head) and team composition (single vs integrated two-surgeon teams). Outcomes measured were operative time, flap and implant survival, perioperative complications, Functional Oral Intake Scale (FOIS) scores, and prosthesis use. 33 patients (median age 66; range 13-83) underwent Jaw-in-a-Day reconstruction, 20 malignant disease cases, and 13 benign or traumatic cases. Fibula free flaps were used in 32 cases and scapula in one. Median operative time was 12h19m. Prosthesis capture in situ trended toward shorter operative and prosthetic times but did not reach significance. The two-surgeon approach significantly reduced operative time by 4h24m (P < .001) and prosthodontic time by 2 hours (P = .01). All flaps survived. Implant survival was 97%, with three failures in 2 patients. At 12 months, 32 patients used definitive prostheses and median FOIS was 7. The Jaw-in-a-Day surgical approach is feasible for benign and malignant reconstruction with high flap and implant survival. Early institutional adoption shows a learning curve, but efficiency improves with process refinements, particularly a two-surgeon workflow.",
-      "objective": "",
-      "study_methods": "A retrospective review of Jaw-in-a-Day reconstructions performed between January 2023 and January 2024 was conducted. All patients undergoing fibula or scapula free flap reconstruction with immediate dental implantation and provisional prosthesis were included. Operative times and prosthetic workflows were compared by prosthesis capture method (in situ vs at the head) and team composition (single vs integrated two-surgeon teams). Outcomes measured were operative time, flap and implant survival, perioperative complications, Functional Oral Intake Scale (FOIS) scores, and prosthesis use.",
-      "methods": "A retrospective review of Jaw-in-a-Day reconstructions performed between January 2023 and January 2024 was conducted. All patients undergoing fibula or scapula free flap reconstruction with immediate dental implantation and provisional prosthesis were included. Operative times and prosthetic workflows were compared by prosthesis capture method (in situ vs at the head) and team composition (single vs integrated two-surgeon teams). Outcomes measured were operative time, flap and implant survival, perioperative complications, Functional Oral Intake Scale (FOIS) scores, and prosthesis use.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41711575/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41213519",
       "title": "Facial esthetic perception between skeletal Class III patients treated with conventional and surgery-first orthognathic approaches.",
       "authors": [
@@ -2701,60 +2710,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41015412/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41705699",
-      "title": "Modified Osteotomies for Wing and Mini-Wing Genioplasty.",
-      "authors": [
-        "Gustavo M Albuquerque",
-        "Nicholas J Iglesias",
-        "Sara E Munkwitz",
-        "Hana Shah",
-        "Vasudev Vivekanand Nayak",
-        "Seth R Thaller",
-        "Paulo G Coelho",
-        "Joao L Carlini"
-      ],
-      "publication_date": "2026-Feb-18",
-      "publication_date_iso": "2026-02-18",
-      "abstract": "Patients with chin deficiency secondary to dentofacial deformity often present with aesthetic and functional complaints. Treatment of such deficiencies with conventional genioplasty may be limited when broader modification of the mandibular basilar contour is required. This retrospective case series reports the clinical and radiographic outcomes of 9 patients treated with wing (n = 8) or mini-wing (n = 1) genioplasty for anteroposterior and/or vertical chin deficiency, mandibular asymmetry, syndromic deformities, post-traumatic sequelae, or airway-related complaints. Wing osteotomy was indicated for the correction of the mandibular body and angle, whereas mini-wing osteotomy was reserved for deformities confined to the chin. Procedures were performed in combination with orthognathic surgery when indicated (n = 6). All patients demonstrated improved chin projection, mandibular contour, and lower facial harmony, with the additional benefits of transverse widening of the mandibular body, enhanced cervicomandibular angle definition, and improved symmetry. In one patient with obstructive sleep apnea, postoperative imaging showed enlargement of the pharyngeal airway space. Stable outcomes were maintained over the follow-up period (mean: 4.3 years; range: 1-9 years). Wing and mini-wing osteotomies represent reliable extensions of conventional genioplasty, allowing comprehensive modification of the mandibular basilar contour.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41705699/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41633597",
-      "title": "[Feasibility study of a surgical planning protocol for orthognathic surgery utilizing similarity retrieval from database: A randomized controlled trial].",
-      "authors": [
-        "L Yu",
-        "L Wu",
-        "X Liu",
-        "Z Li"
-      ],
-      "publication_date": "2026-Feb-18",
-      "publication_date_iso": "2026-02-18",
-      "abstract": "To establish a surgical planning workflow for orthognathic surgery based on similarity retrieval from a historical patient database and to evaluate its non-inferiority with the expert's surgical plan through a randomized controlled trial. A prospective randomized controlled trial was conducted involving 60 patients (19 males, 41 females; aged 18-35 years) scheduled for orthognathic surgery in the Department of Oral and Maxillofacial Surgery at Peking University School of Stomatology between June 2023 and June 2024. Participants were randomly assigned to a test group (n=30) or a control group (n=30). In the test group, surgical plans were generated using a database-driven similarity retrieval process while in the control group plans were developed by the expert based on clinical expe-rience. All surgeries were performed by the same expert. Outcome measures assessed at 6 months post-operatively included both subjective and objective indicators. Subjective evaluations comprised patient and surgeon visual analogue scale (VAS) scores, and FACE questionnaire (FACE-Q) scores, with surgeon assessments conducted by five independent senior surgeons. Objective measures included cephalometric angles [sella-nasion-A point (SNA), sella-nasion-B point (SNB), A point-nasion-B point (ANB)] and root mean square error (RMSE) of facial symmetry regions. Postoperative subjective assessments demonstrated significant improvements from baseline in both groups (all P < 0.05). Specifically, the VAS scores increased by 30.10±19.67 in the test group versus 25.43±24.48 in the control group as rated by the patients, and by 28.19±10.21 versus 26.71±7.90 as evaluated by the surgeons. Similarly, the FACE-Q scores showed marked enhancements, with patient-reported scores increasing by 33.41±17.75 in the test group and 32.97±17.65 in the control group, and surgeon-assessed scores improving by 37.75±11.60 versus 38.63±10.23, respectively. However, the magnitude of improvement in all these subjective measures did not differ significantly between the test and control groups (all P>0.05 for intergroup comparisons of the change scores). Analysis of postoperative objective measurements revealed that cephalometric values were within the normal range for both groups: SNA angle was 84.06°±3.73° in the test group compared with 85.23°±3.71° in the control group; SNB angle was 81.78°±3.63° versus 83.51°±3.66°; and ANB angle was 2.28°±1.09° versus 1.72°± 1.25°. No statistically significant differences were observed between the two groups for these cephalometric parameters (all P>0.05). Furthermore, three-dimensional facial symmetry, quantified by the average RMSE value, exhibited significant improvement postoperatively compared with preoperative levels [Test group: from (10.39±2.83) mm to (8.35±2.72) mm; Control group: from (8.55±4.95) mm to (7.59±3.56) mm; P < 0.05 for within-group comparisons]. The postoperative average RMSE values between the test and control groups were not statistically different (P>0.05). Surgical planning based on similarity retrieval from a historical database demonstrated non-inferiority when compared with the conventional expert-driven approach, as evidenced by the absence of statistically significant diffe-rences in both subjective and objective postoperative outcome measures.",
-      "objective": "indicators. Subjective evaluations comprised patient and surgeon visual analogue scale (VAS) scores, and FACE questionnaire (FACE-Q) scores, with surgeon assessments conducted by five independent senior surgeons. Objective measures included cephalometric angles [sella-nasion-A point (SNA), sella-nasion-B point (SNB), A point-nasion-B point (ANB)] and root mean square error (RMSE) of facial symmetry regions. Postoperative subjective assessments demonstrated significant improvements from baseline in both groups (all P < 0.05). Specifically, the VAS scores increased by 30.10±19.67 in the test group versus 25.43±24.48 in the control group as rated by the patients, and by 28.19±10.21 versus 26.71±7.90 as evaluated by the surgeons. Similarly, the FACE-Q scores showed marked enhancements, with patient-reported scores increasing by 33.41±17.75 in the test group and 32.97±17.65 in the control group, and surgeon-assessed scores improving by 37.75±11.60 versus 38.63±10.23, respectively. However, the magnitude of improvement in all these subjective measures did not differ significantly between the test and control groups (all P>0.05 for intergroup comparisons of the change scores). Analysis of postoperative objective measurements revealed that cephalometric values were within the normal range for both groups: SNA angle was 84.06°±3.73° in the test group compared with 85.23°±3.71° in the control group; SNB angle was 81.78°±3.63° versus 83.51°±3.66°; and ANB angle was 2.28°±1.09° versus 1.72°± 1.25°. No statistically significant differences were observed between the two groups for these cephalometric parameters (all P>0.05). Furthermore, three-dimensional facial symmetry, quantified by the average RMSE value, exhibited significant improvement postoperatively compared with preoperative levels [Test group: from (10.39±2.83) mm to (8.35±2.72) mm; Control group: from (8.55±4.95) mm to (7.59±3.56) mm; P < 0.05 for within-group comparisons]. The postoperative average RMSE values between the test and control groups were not statistically different (P>0.05). Surgical planning based on similarity retrieval from a historical database demonstrated non-inferiority when compared with the conventional expert-driven approach, as evidenced by the absence of statistically significant diffe-rences in both subjective and objective postoperative outcome measures.",
-      "study_methods": "A prospective randomized controlled trial was conducted involving 60 patients (19 males, 41 females; aged 18-35 years) scheduled for orthognathic surgery in the Department of Oral and Maxillofacial Surgery at Peking University School of Stomatology between June 2023 and June 2024. Participants were randomly assigned to a test group (n=30) or a control group (n=30). In the test group, surgical plans were generated using a database-driven similarity retrieval process while in the control group plans were developed by the expert based on clinical expe-rience. All surgeries were performed by the same expert. Outcome measures assessed at 6 months post-operatively included both subjective and objective indicators. Subjective evaluations comprised patient and surgeon visual analogue scale (VAS) scores, and FACE questionnaire (FACE-Q) scores, with surgeon assessments conducted by five independent senior surgeons. Objective measures included cephalometric angles [sella-nasion-A point (SNA), sella-nasion-B point (SNB), A point-nasion-B point (ANB)] and root mean square error (RMSE) of facial symmetry regions.",
-      "methods": "A prospective randomized controlled trial was conducted involving 60 patients (19 males, 41 females; aged 18-35 years) scheduled for orthognathic surgery in the Department of Oral and Maxillofacial Surgery at Peking University School of Stomatology between June 2023 and June 2024. Participants were randomly assigned to a test group (n=30) or a control group (n=30). In the test group, surgical plans were generated using a database-driven similarity retrieval process while in the control group plans were developed by the expert based on clinical expe-rience. All surgeries were performed by the same expert. Outcome measures assessed at 6 months post-operatively included both subjective and objective indicators. Subjective evaluations comprised patient and surgeon visual analogue scale (VAS) scores, and FACE questionnaire (FACE-Q) scores, with surgeon assessments conducted by five independent senior surgeons. Objective measures included cephalometric angles [sella-nasion-A point (SNA), sella-nasion-B point (SNB), A point-nasion-B point (ANB)] and root mean square error (RMSE) of facial symmetry regions.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41633597/",
-      "pmcid": "PMC12872304",
       "figure_urls": []
     }
   ]
