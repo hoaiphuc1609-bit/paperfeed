@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-26T04:22:16Z",
+  "updated_at": "2026-02-27T04:18:07Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -10,6 +10,31 @@
     "cleft lip and palate surgery"
   ],
   "papers": [
+    {
+      "pmid": "41742445",
+      "title": "Unlocking the \"undruggable\": current landscape and emerging frontiers in lysosomal receptor-mediated protein degradation.",
+      "authors": [
+        "Yi-Meng Ma",
+        "Hou-Fu Xia",
+        "Yi-Lei Xiao",
+        "Zi-Li Yu"
+      ],
+      "publication_date": "2026-Dec-31",
+      "publication_date_iso": "2026-12-31",
+      "abstract": "Extracellular and membrane-associated proteins are essential in signal transmission, immunological control, and disease pathogenesis; nonetheless, their 'undruggable' characteristics have historically impeded drug discovery. The targeted protein degradation (TPD) technologies provide innovative solutions to address this dilemma. Despite the rapid advancement of techniques such as Proteolysis-targeting chimera (PROTACs) that utilize the Ubiquitin-proteasome system (UPS), their applicability is limited to intracellular proteins. Lysosome-targeting chimeras (LYTACs), utilizing the endocytosis-lysosomal route, facilitate the selective degradation of secreted and transmembrane proteins, thereby considerably broadening the target spectrum of TPD. Since its inception in 2020, the LYTAC platform has consistently progressed, incorporating several Lysosome-targeting receptor (LTR) targeting techniques and innovative delivery vehicles, including aptamers, peptides, and nanoparticles. It has exhibited promise in oncology, neurological conditions, and immune-mediated disorders. Nevertheless, LYTAC encounters several obstacles, such as intricate ligand design, potential immunogenicity, inadequate tissue selectivity, and restricted clinical validation. Platforms and tactics designed to improve degrading efficiency, broaden disease applicability, and facilitate clinical translation signify interesting research avenues in this domain. This paper presents a thorough evaluation of the research advancements and application potential of LYTAC technology, while examining significant limitations and future direction of development.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
+      "pmcid": "",
+      "figure_urls": []
+    },
     {
       "pmid": "41582805",
       "title": "Gender-neutral prevention: HPV vaccination willingness and related cancer awareness among Chinese parents of boys and girls.",
@@ -194,6 +219,46 @@
       "figure_urls": []
     },
     {
+      "pmid": "41743370",
+      "title": "Motion-based tissue",
+      "authors": [
+        "Katrin S Pachler",
+        "Iris Lauwers",
+        "Nicole S Verkaik",
+        "Marta Rovituso",
+        "Hetty Mast",
+        "Brend P Jonker",
+        "Bernd Kremer",
+        "Sjors A Koppes",
+        "Thierry P P van den Bosch",
+        "Gerda M Verduijn",
+        "Steven Petit",
+        "Brita S Sørensen",
+        "Dik C van Gent",
+        "Marta E Capala"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Proton radiotherapy is applied for various tumor sites, offering better dose distribution resulting in decreased excess radiation of healthy tissue. Furthermore, the biological effects of proton irradiation may be different from X-ray irradiation, depending on tumor characteristics. This is particularly relevant for head and neck squamous cell carcinoma (HNSCC), which displays high biological heterogeneity. However, this heterogeneous response to various radiation modalities is currently not included in clinical decision making due to lack of response prediction models. Nine oral cavity tumor specimens were obtained after surgical resection, cut into thin slices, irradiated with both X-ray and protons, and cultured ex vivo for up to five days. We subsequently analyzed proliferation, apoptosis, DNA repair and immune cell infiltration. Most tumors (five out of nine) showed similar response to proton and X-ray irradiation. However, in three tumors a significantly larger decrease in viability was measured upon proton irradiation. One of those tumors was homologous recombination deficient (HRD). The other two proton-sensitive tumors showed low numbers of infiltrating immune cells, including tumor infiltrating lymphocytes, while the most X-ray sensitive tumor had a particularly high immune cell infiltration. The ex vivo assay revealed heterogeneous response of HNSCC tumors to proton and X-ray irradiation. The tumors with increased sensitivity to proton irradiation either showed HR deficiency or low immune cell infiltration. However, not all immune-deserted tumors showed this skewing towards X-ray resistance. These findings require validation in a larger cohort of patients.",
+      "objective": "",
+      "study_methods": "Nine oral cavity tumor specimens were obtained after surgical resection, cut into thin slices, irradiated with both X-ray and protons, and cultured ex vivo for up to five days. We subsequently analyzed proliferation, apoptosis, DNA repair and immune cell infiltration.",
+      "methods": "Nine oral cavity tumor specimens were obtained after surgical resection, cut into thin slices, irradiated with both X-ray and protons, and cultured ex vivo for up to five days. We subsequently analyzed proliferation, apoptosis, DNA repair and immune cell infiltration.",
+      "results": "ing in decreased excess radiation of healthy tissue. Furthermore, the biological effects of proton irradiation may be different from X-ray irradiation, depending on tumor characteristics. This is particularly relevant for head and neck squamous cell carcinoma (HNSCC), which displays high biological heterogeneity. However, this heterogeneous response to various radiation modalities is currently not included in clinical decision making due to lack of response prediction models. Nine oral cavity tumor specimens were obtained after surgical resection, cut into thin slices, irradiated with both X-ray and protons, and cultured ex vivo for up to five days. We subsequently analyzed proliferation, apoptosis, DNA repair and immune cell infiltration. Most tumors (five out of nine) showed similar response to proton and X-ray irradiation. However, in three tumors a significantly larger decrease in viability was measured upon proton irradiation. One of those tumors was homologous recombination deficient (HRD). The other two proton-sensitive tumors showed low numbers of infiltrating immune cells, including tumor infiltrating lymphocytes, while the most X-ray sensitive tumor had a particularly high immune cell infiltration. The ex vivo assay revealed heterogeneous response of HNSCC tumors to proton and X-ray irradiation. The tumors with increased sensitivity to proton irradiation either showed HR deficiency or low immune cell infiltration. However, not all immune-deserted tumors showed this skewing towards X-ray resistance. These findings require validation in a larger cohort of patients.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41743370/",
+      "pmcid": "PMC12930084",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930084/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930084/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930084/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930084/bin/gr3.jpg"
+      ]
+    },
+    {
       "pmid": "41468698",
       "title": "Enzyme-triggered peptide assembly boosts dental stem cell osteogenic differentiation by enhancing osteogenic pentapeptide accumulation.",
       "authors": [
@@ -341,6 +406,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "41687982",
+      "title": "Advances in genetic mechanisms and precision medicine research for cleft lip and palate.",
+      "authors": [
+        "Zhong Yu",
+        "Chenhui Feng",
+        "Tianhua Li",
+        "Han Duan",
+        "Haofuzi Zhang"
+      ],
+      "publication_date": "2026-Apr-20",
+      "publication_date_iso": "2026-04-20",
+      "abstract": "Cleft Lip and Palate (CL/P) is the most common congenital craniofacial malformation. However, a central challenge remains in understanding how this multi-layered, dynamically interactive gene network is precisely modulated across specific cell lineages and developmental time windows, and how environmental factors integrate with genetic susceptibilities to drive phenotypic outcomes. Its etiology originates from an imbalance in a multi-layered, dynamically interactive gene network composed of core transcription factors (the p63-IRF6-GRHL3 axis), key signaling pathways (Wnt, BMP/TGF-β, FGF, Shh), and epigenetic regulation. This network precisely controls epithelial integrity, mesenchymal patterning, and epithelial-mesenchymal crosstalk. Variations at its key nodes (such as IRF6, SATB2, MSX1, PAX9, etc.) disrupt the developmental program, leading to the malformation. Single-cell and multi-omics technologies have revealed the cell-type specificity and spatiotemporal dynamics of disease-causing genes. Animal models (mice, zebrafish) provide essential tools for functional validation and mechanistic studies. These advances are driving CL/P research towards molecular subtype-based precise risk assessment, targeted intervention, and personalized treatment.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687982/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41409034",
       "title": "Reply to 'Comment on \"Toxicities in long-term survivors of head and neck cancer-A multi-national cross-sectional analysis\"'.",
       "authors": [
@@ -420,6 +511,99 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41396789/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41747006",
+      "title": "The Regenerative Effect of Various Barrier Membranes With and Without Bone Grafting in Critical Size Defects in Rabbit Calvaria.",
+      "authors": [
+        "Abdelsalam Elaskary",
+        "Rola Al Habashneh",
+        "Tasneem Sharairi",
+        "Moataz Meabed",
+        "Mahmoud Akram Khodir",
+        "Ahmed Zaki",
+        "Mohammed Alorjani",
+        "Bassem Elfahl",
+        "Malek Hudieb",
+        "Alhassan Diab",
+        "Mihad Ibrahim"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "This multicentre randomized controlled clinical trial aims to investigate the regenerative effects of various thicknesses and types of barrier materials with and without bone grafting in a rabbit calvaria model. One hundred male rabbits were partitioned into two groups: one without bone graft (NB) and one with bone grafting (BG). The groups were further divided into five subgroups, n = 10 each: C (control); SC (0.3 mm single-layered collagen); DC (0.6 mm double-layered collagen); L1 (0.5 mm cortical collagenated bone barrier); and L2 (1.0 mm cortical collagenated bone barrier). In all experimental groups, each distinct type of barrier was applied following the creation of a 10 mm circular defect in the calvaria of each rabbit. After 24 weeks, the calvariae were examined by histologic and histomorphometric analyses. The utilization of cortical bone barriers increased bone formation in all experimental groups. For Group NB, the histological score significantly differed among subgroups (p < 0.001). L1 and L2 subgroups had more favorable histological scores than the control groups (p < 0.001). Furthermore, the L2 subgroup had a higher histological score than the SC subgroup (p < 0.001). In Group BG, histological score significantly differed among subgroups (p < 0.001). DC, L1, and L2 subgroups had higher histological scores than the controls (p < 0.02), (p < 0.001), and (p < 0.001), respectively. The L2 subgroup had a higher histological score than the SC subgroup (p < 0.01). The BG group had significantly higher histological scores overall compared to the NB group based on barriers (p < 0.05). Within the limits of this model, the 1.0 mm cortical lamina barrier demonstrated the most favorable regenerative performance, consistently achieving higher histologic scores and more advanced tissue maturation than thinner cortical lamina or collagen membranes. These findings indicate that barrier architecture, particularly thickness and mechanical stability, plays an important role in promoting predictable bone regeneration.",
+      "objective": "to investigate the regenerative effects of various thicknesses and types of barrier materials with and without bone grafting in a rabbit calvaria model. One hundred male rabbits were partitioned into two groups: one without bone graft (NB) and one with bone grafting (BG). The groups were further divided into five subgroups, n = 10 each: C (control); SC (0.3 mm single-layered collagen); DC (0.6 mm double-layered collagen); L1 (0.5 mm cortical collagenated bone barrier); and L2 (1.0 mm cortical collagenated bone barrier). In all experimental groups, each distinct type of barrier was applied following the creation of a 10 mm circular defect in the calvaria of each rabbit. After 24 weeks, the calvariae were examined by histologic and histomorphometric analyses. The utilization of cortical bone barriers increased bone formation in all experimental groups. For Group NB, the histological score significantly differed among subgroups (p < 0.001). L1 and L2 subgroups had more favorable histological scores than the control groups (p < 0.001). Furthermore, the L2 subgroup had a higher histological score than the SC subgroup (p < 0.001). In Group BG, histological score significantly differed among subgroups (p < 0.001). DC, L1, and L2 subgroups had higher histological scores than the controls (p < 0.02), (p < 0.001), and (p < 0.001), respectively. The L2 subgroup had a higher histological score than the SC subgroup (p < 0.01). The BG group had significantly higher histological scores overall compared to the NB group based on barriers (p < 0.05). Within the limits of this model, the 1.0 mm cortical lamina barrier demonstrated the most favorable regenerative performance, consistently achieving higher histologic scores and more advanced tissue maturation than thinner cortical lamina or collagen membranes. These findings indicate that barrier architecture, particularly thickness and mechanical stability, plays an important role in promoting predictable bone regeneration.",
+      "study_methods": "One hundred male rabbits were partitioned into two groups: one without bone graft (NB) and one with bone grafting (BG). The groups were further divided into five subgroups, n = 10 each: C (control); SC (0.3 mm single-layered collagen); DC (0.6 mm double-layered collagen); L1 (0.5 mm cortical collagenated bone barrier); and L2 (1.0 mm cortical collagenated bone barrier). In all experimental groups, each distinct type of barrier was applied following the creation of a 10 mm circular defect in the calvaria of each rabbit. After 24 weeks, the calvariae were examined by histologic and histomorphometric analyses.",
+      "methods": "One hundred male rabbits were partitioned into two groups: one without bone graft (NB) and one with bone grafting (BG). The groups were further divided into five subgroups, n = 10 each: C (control); SC (0.3 mm single-layered collagen); DC (0.6 mm double-layered collagen); L1 (0.5 mm cortical collagenated bone barrier); and L2 (1.0 mm cortical collagenated bone barrier). In all experimental groups, each distinct type of barrier was applied following the creation of a 10 mm circular defect in the calvaria of each rabbit. After 24 weeks, the calvariae were examined by histologic and histomorphometric analyses.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41747006/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41743013",
+      "title": "METTL5-mediated m6A modification of 18S rRNA drives oral squamous cell carcinoma progression by enhancing CCND3 translation.",
+      "authors": [
+        "Lianlian Liu",
+        "Surui Sheng",
+        "Xin Zheng",
+        "Shuojin Huang",
+        "Lu Wang",
+        "Dalong Shu",
+        "Leile Tang",
+        "Qianting He"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is a predominant head and neck malignancy with epigenetic alterations key to its development; however, the role and mechanisms of methyltransferase 5, N6-adenosine (METTL5) in OSCC remain to be elucidated. This study aimed to investigate the functional role and underlying mechanism of METTL5 in OSCC progression. Western blotting analyzed METTL5 expression in OSCC cell lines and tissues, whilst Cell Counting Kit-8, Transwell, colony formation and wound healing assays, as well as cell cycle analysis and nude mouse xenografts were used to assess its functional effects. Moreover, ribosome nascent-chain complex-bound messenger RNA sequencing (RNC-seq) was used to assess gene translation efficiency (TE). Western blotting, Transwell and colony formation assays, and cell cycle analysis were employed for downstream studies. Bioinformatics analyses were conducted to complement mechanistic exploration. The Cancer Genome Atlas data demonstrated that higher METTL5 expression in metastatic head and neck squamous cell carcinoma tissues was significantly associated with poor prognosis. Furthermore, METTL5 knockout significantly inhibited OSCC tumorigenesis and metastasis in vitro and in vivo. Finally, RNC-seq identified 3,391 genes with reduced TE, with cyclin D3 (CCND3) shown to be a downstream target. In conclusion, METTL5 may promote OSCC progression by regulating CCND3 via N6-methyladenosine-mediated ribosomal methylation, positioning it as a potential therapeutic target in the future.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": ", METTL5 may promote OSCC progression by regulating CCND3 via N6-methyladenosine-mediated ribosomal methylation, positioning it as a potential therapeutic target in the future.",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41743013/",
+      "pmcid": "PMC12930511",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930511/bin/ol-31-04-15490-g00.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930511/bin/ol-31-04-15490-g01.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930511/bin/ol-31-04-15490-g02.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930511/bin/ol-31-04-15490-g03.jpg"
+      ]
+    },
+    {
+      "pmid": "41741963",
+      "title": "Predictors of Acute Postoperative Pain in Cancer Patients Undergoing Elective Video-Assisted Thoracoscopic Surgery.",
+      "authors": [
+        "Phillip Kaasgaard Sperling",
+        "Kristian Kjær-Staal Petersen",
+        "Rocco Giordano",
+        "Allan Vestergaard Danielsen",
+        "Bodil Steen Rasmussen",
+        "Jannie Bisgaard"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Postoperative pain after video-assisted thoracoscopic surgery affects 43%-99% of patients and is associated with prolonged hospital stay. Pre- and intraoperative risk factors can help identify patients at higher risk of postoperative pain. This study aimed to assess if quantitative sensory testing, psychological factors, and patient characteristics can predict postoperative pain. Patients undergoing elective video-assisted thoracoscopic surgery for confirmed or suspected lung cancer were included. Pain sensitivity was evaluated by quantitative sensory testing using cuff algometry, and psychological factors were assessed by the pain catastrophizing scale, and the hospital anxiety and depression scale. Clinical pain was assessed bidaily and summarized as time-weighted pain and opioid consumption was measured as cumulative dose, both within 48 h of surgery. Prediction models using pre- and intra-operative variables were established, and backward elimination was applied to identify independent predictors. Domain-specific models were constructed within five domains of predictors (i.e., quantitative sensory testing, psychological factors, demographics, perioperative, and tumour pathology). Subsequently, independent variables from the five domain-specific models were combined into a multifactorial model. Domain-specific models explained between 5.1%-12.8% of variance except the demographics model which explained 39.5% of opioid consumption. The multifactorial models for pain intensity and opioid consumption explained 20.3% and 40.4%, respectively. This study suggests that pre- and intra-operative factors contribute to the prediction of postoperative pain intensity and opioid consumption with varying precision. Demographic variables proved to be best and predicted 39.5% of postoperative opioid consumption. The multimodal models explained 20.3% of postoperative pain and 40.4% of postoperative opioid consumption. This assessment and analysis presents factors that are associated with how patients who have undergone video-assisted thoracosopic surgery as a group report post-operative pain. Both patient-specific factors and perioperative management details appear to contribute.",
+      "objective": "",
+      "study_methods": "Patients undergoing elective video-assisted thoracoscopic surgery for confirmed or suspected lung cancer were included. Pain sensitivity was evaluated by quantitative sensory testing using cuff algometry, and psychological factors were assessed by the pain catastrophizing scale, and the hospital anxiety and depression scale. Clinical pain was assessed bidaily and summarized as time-weighted pain and opioid consumption was measured as cumulative dose, both within 48 h of surgery. Prediction models using pre- and intra-operative variables were established, and backward elimination was applied to identify independent predictors. Domain-specific models were constructed within five domains of predictors (i.e., quantitative sensory testing, psychological factors, demographics, perioperative, and tumour pathology). Subsequently, independent variables from the five domain-specific models were combined into a multifactorial model.",
+      "methods": "Patients undergoing elective video-assisted thoracoscopic surgery for confirmed or suspected lung cancer were included. Pain sensitivity was evaluated by quantitative sensory testing using cuff algometry, and psychological factors were assessed by the pain catastrophizing scale, and the hospital anxiety and depression scale. Clinical pain was assessed bidaily and summarized as time-weighted pain and opioid consumption was measured as cumulative dose, both within 48 h of surgery. Prediction models using pre- and intra-operative variables were established, and backward elimination was applied to identify independent predictors. Domain-specific models were constructed within five domains of predictors (i.e., quantitative sensory testing, psychological factors, demographics, perioperative, and tumour pathology). Subsequently, independent variables from the five domain-specific models were combined into a multifactorial model.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41741963/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1166,167 +1350,6 @@
       ]
     },
     {
-      "pmid": "41725913",
-      "title": "Finite Element Analysis of Low-Profile Reconstruction Plates for Atrophic Mandibles-Part II: A Comparison of Customized Plates with 3D Grid-Type and Conventional Designs.",
-      "authors": [
-        "Bianca Pulino",
-        "Robert Sader",
-        "Guilherme Louzada",
-        "Majeed Rana",
-        "Gabriele Millesi",
-        "Geraldo Prestes de Camargo Filho",
-        "Raphael Capelli Guerra"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "The aim of this study was to compare the stiffness-related mechanical response and peak von Mises stress distribution of low-profile 2.4 mm mandibular reconstruction systems (a conventional reconstruction plate, a 3D grid-type plate, and a customized plate) in a virtual atrophic mandible model with a 5 cm segmental defect. A CT-based three-dimensional mandible model was created and instrumented with three plate configurations (G1-G3). Linear static finite element analyses were performed under a 300-N masticatory load combined with literature-based muscle force vectors. Peak von Mises stresses were recorded for plates and screws, and the locations of maximum stress concentration were identified. Peak plate stress was highest in the conventional reconstruction plate (G1: 695.5 MPa), followed by the 3D grid-type plate (G2: 595.6 MPa), and lowest in the customized plate (G3: 185.2 MPa). The peak screw stress was 692.9 MPa (G1), 898.0 MPa (G2), and 595.6 MPa (G3). The 3D grid-type plate increased construct stiffness but shifted stress concentration toward the mandibular angle and adjacent screws, whereas the customized plate reduced the peak plate stress and limited the extent of the high-stress region across the defect. Within the limitations of a linear static FEA (stiffness/stress distribution rather than failure load or fatigue resistance), the customized plate (G3) demonstrated the most favorable biomechanical performance (lowest peak plate stress). The 3D grid-type plate (G2) reduced peak plate stress compared with the conventional design (G1) but produced the highest peak screw stress. Practical considerations such as manufacturing lead time and resource requirements may favor off-the-shelf plates; however, a formal cost or operative-time analysis was not performed.",
-      "objective": "of this study was to compare the stiffness-related mechanical response and peak von Mises stress distribution of low-profile 2.4 mm mandibular reconstruction systems (a conventional reconstruction plate, a 3D grid-type plate, and a customized plate) in a virtual atrophic mandible model with a 5 cm segmental defect. A CT-based three-dimensional mandible model was created and instrumented with three plate configurations (G1-G3). Linear static finite element analyses were performed under a 300-N masticatory load combined with literature-based muscle force vectors. Peak von Mises stresses were recorded for plates and screws, and the locations of maximum stress concentration were identified. Peak plate stress was highest in the conventional reconstruction plate (G1: 695.5 MPa), followed by the 3D grid-type plate (G2: 595.6 MPa), and lowest in the customized plate (G3: 185.2 MPa). The peak screw stress was 692.9 MPa (G1), 898.0 MPa (G2), and 595.6 MPa (G3). The 3D grid-type plate increased construct stiffness but shifted stress concentration toward the mandibular angle and adjacent screws, whereas the customized plate reduced the peak plate stress and limited the extent of the high-stress region across the defect. Within the limitations of a linear static FEA (stiffness/stress distribution rather than failure load or fatigue resistance), the customized plate (G3) demonstrated the most favorable biomechanical performance (lowest peak plate stress). The 3D grid-type plate (G2) reduced peak plate stress compared with the conventional design (G1) but produced the highest peak screw stress. Practical considerations such as manufacturing lead time and resource requirements may favor off-the-shelf plates; however, a formal cost or operative-time analysis was not performed.",
-      "study_methods": "A CT-based three-dimensional mandible model was created and instrumented with three plate configurations (G1-G3). Linear static finite element analyses were performed under a 300-N masticatory load combined with literature-based muscle force vectors. Peak von Mises stresses were recorded for plates and screws, and the locations of maximum stress concentration were identified.",
-      "methods": "A CT-based three-dimensional mandible model was created and instrumented with three plate configurations (G1-G3). Linear static finite element analyses were performed under a 300-N masticatory load combined with literature-based muscle force vectors. Peak von Mises stresses were recorded for plates and screws, and the locations of maximum stress concentration were identified.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41725913/",
-      "pmcid": "PMC12921934",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921934/bin/cmtr-19-00009-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921934/bin/cmtr-19-00009-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921934/bin/cmtr-19-00009-g003.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921934/bin/cmtr-19-00009-g004.jpg"
-      ]
-    },
-    {
-      "pmid": "41725912",
-      "title": "Minne Ties Hybrid Arch Bar System vs. Erich Arch Bars: A Cadaveric Comparison Study.",
-      "authors": [
-        "Jeffrey Mella",
-        "François E Proulx",
-        "Alan W Johnson"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Jaw fracture management significantly advanced with the introduction of Erich Arch Bars (EABs) during World War II, becoming the gold standard for maxillomandibular fixation (MMF). EABs, however, are time-consuming, pose risks of sharps injuries, and hinder oral hygiene and patient comfort. This study tested the Minne Ties Hybrid Arch Bar System (MTHAB), a novel MMF technology. This cadaveric study used specimens with near-complete dentition to compare MTHAB and EABs. The technologies were applied by trained surgeons to measure occlusal forces, increasing elastic loads, and application and removal times. Surgeons completed structured usability surveys. The results indicated that MTHAB significantly reduced application time (19.8 ± 4.1 min versus 35.2 ± 5.7 min, p = 0.0027) and removal time (1.6 ± 0.4 min versus 5.1 ± 2.1 min, p = 0.0465) compared to EABs, while also being rated higher for ease of use and safety. Both technologies achieved acceptable occlusion forces, although MTHAB needed more elastics to achieve comparable forces to EABs. While MTHAB appears promising, future clinical trials are needed to evaluate long-term outcomes, fixation stability, and patient selection. MTHAB represents a potential advancement in MMF technology, balancing surgical efficiency, safety, and fixation strength.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "indicated that MTHAB significantly reduced application time (19.8 ± 4.1 min versus 35.2 ± 5.7 min, p = 0.0027) and removal time (1.6 ± 0.4 min versus 5.1 ± 2.1 min, p = 0.0465) compared to EABs, while also being rated higher for ease of use and safety. Both technologies achieved acceptable occlusion forces, although MTHAB needed more elastics to achieve comparable forces to EABs. While MTHAB appears promising, future clinical trials are needed to evaluate long-term outcomes, fixation stability, and patient selection. MTHAB represents a potential advancement in MMF technology, balancing surgical efficiency, safety, and fixation strength.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41725912/",
-      "pmcid": "PMC12922075",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12922075/bin/cmtr-19-00007-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12922075/bin/cmtr-19-00007-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12922075/bin/cmtr-19-00007-g003.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12922075/bin/cmtr-19-00007-g004.jpg"
-      ]
-    },
-    {
-      "pmid": "41725910",
-      "title": "Sterile Versus Non-Sterile Gloves in Dental Extractions: A Systematic Review and Meta-Analysis.",
-      "authors": [
-        "Mustafa Mohammad Ali Saffar",
-        "E Krabbendam",
-        "E B Wolvius",
-        "J T van der Tas"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Healthcare-associated infections remain an ongoing concern across medical and dental practice, prompting continuous evaluation of infection prevention measures. In dental extractions, the necessity of sterile gloves is debated, as the oral cavity represents an inherently contaminated environment. This systematic review and meta-analysis evaluated whether the use of sterile gloves reduces postoperative socket infections compared with non-sterile gloves. A search of MEDLINE, Embase, Web of Science, Cochrane CENTRAL, and Google Scholar identified randomized controlled trials, clinically controlled trials, and observational trials directly comparing sterile versus non-sterile glove use during dental extractions. The primary outcome of this study was extraction socket infection at day 7 post-surgery. A meta-analysis using relative risk (RR) was performed for dichotomous data. Of the initial 7170 publications found, seven articles met inclusion criteria. Infection rates ranged from 0% to 3.9%, with an overall infection rate of 0.3% in the sterile glove group (672 patients) and 1.3% in the non-sterile glove group (758 patients). Three studies qualified for meta-analysis, resulting in an RR of 0.30 (95% CI 0.07-1.24), indicating no significant difference in postoperative infections between sterile and non-sterile glove usage. Given the limitations of small sample sizes, low event rates, incomplete reporting, and lack of subgroup data for surgical versus non-surgical extractions, no difference in postoperative infection was found between sterile and non-sterile glove use. Additional research is needed to determine whether glove sterility influences infection risk, particularly in surgical procedures.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in an RR of 0.30 (95% CI 0.07-1.24), indicating no significant difference in postoperative infections between sterile and non-sterile glove usage. Given the limitations of small sample sizes, low event rates, incomplete reporting, and lack of subgroup data for surgical versus non-surgical extractions, no difference in postoperative infection was found between sterile and non-sterile glove use. Additional research is needed to determine whether glove sterility influences infection risk, particularly in surgical procedures.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41725910/",
-      "pmcid": "PMC12921942",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921942/bin/cmtr-19-00006-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921942/bin/cmtr-19-00006-g001.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921942/bin/cmtr-19-00006-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921942/bin/cmtr-19-00006-g002.gif"
-      ]
-    },
-    {
-      "pmid": "41717876",
-      "title": "Consensus recommendations in the management of jaw (gnathic) osteosarcoma.",
-      "authors": [
-        "Matthew S Dietz",
-        "Lara E Davis",
-        "Pinki K Prasad",
-        "Shauna R Campbell",
-        "John D Reith",
-        "Mallery R Olsen",
-        "Scott E Kilpatrick",
-        "Jamie A Ku",
-        "Natalie L Silver",
-        "Earl P Park",
-        "Elisa Tirtei",
-        "Cristina Meazza",
-        "Erin S Murphy",
-        "Nicole C Mallory",
-        "Emanuela Palmerini",
-        "Leo Kager",
-        "Marinka L F Hol",
-        "Roelof van Ewijk",
-        "Joseph Lopez",
-        "Leighton A Elliott",
-        "Dale R Shepard",
-        "Ajay Gupta",
-        "Matteo M Trucco"
-      ],
-      "publication_date": "2026-Mar-01",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Gnathic osteosarcoma (OS), which includes mandibular and maxillary jaw OSs, account for 6%-9% of OS. Single-institutional and multi-institutional retrospective studies, as well as population-level databases, suggest that clinical differences exist among gnathic OS and OS of other sides, including other craniofacial OS. To date, no specific prospective studies of gnathic OS have been reported, and aspects of clinical management are controversial. Some elements of care are aligned with extragnathic OS, e.g., margin negative (R0) surgery, whereas others, such as chemotherapy and radiation, are not clearly defined. The authors reviewed the available literature for the diagnosis, treatment, and supportive/survivorship care patients with gnathic OS and offer consensus statements for the comprehensive management of this rare disease.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41717876/",
-      "pmcid": "PMC12921839",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921839/bin/CNCR-132-e70273-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921839/bin/CNCR-132-e70273-g001.jpg"
-      ]
-    },
-    {
-      "pmid": "41670359",
-      "title": "Reply to Alcántara Montero.",
-      "authors": [
-        "Frederic Van der Cruyssen"
-      ],
-      "publication_date": "2026-Mar-01",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41670359/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41591939",
       "title": "Comparative analysis of convolutional neural network models for the histopathological differentiation of acinic cell carcinoma and secretory carcinoma.",
       "authors": [
@@ -1935,6 +1958,32 @@
       ]
     },
     {
+      "pmid": "41124919",
+      "title": "Tridimensional analysis of the normal upper airways in non-dentofacial deformity patients.",
+      "authors": [
+        "S M Costa",
+        "B C Ribeiro",
+        "P F Bertelli Trivellato",
+        "C E Sverzut",
+        "A E Trivellato"
+      ],
+      "publication_date": "2026-Mar",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "To establish normative three-dimensional airway measurements in patients without dentofacial deformities (DDFs) or obstructive sleep apnea (OSA), and to identify anatomical and epidemiological factors associated with airway volume. This retrospective cross-sectional study analyzed 200 CT scans from patients aged 18-80 years, with no diagnosis of DDF, OSA, or craniofacial syndromes. Scans were processed using artificial intelligence software (NEMOFAB) for automatic segmentation and volumetric analysis. Variables assessed included age, sex, neck circumference, and craniofacial linear distances (Menton-Hyoid, Menton-3rd Vertebrae, PNS-Hyoid, Soft Palate-Hyoid). Airway volume and Minimum Axial Area (MAA) were measured and compared using ANOVA. The mean airway volume was 24,724.8mm3. Younger individuals exhibited greater airway volumes, especially among males. Patients with a neck circumference <40cm had a 28.04% reduction in airway volume. Longer PNS-Hyoid, SPH, and M3V distances were positively associated with increased airway volume, while Menton-Hyoid showed minimal impact. A low MAA (<110mm2) correlated with a significant volume decrease. Key predictors identified were age, neck circumference, PNS-Hyoid, SPH, and M3V distances. In patients without DDF or OSA, airway volume is significantly influenced by demographic and anatomical variables. These normative data provide a baseline for comparison in orthognathic surgical planning and respiratory risk assessment. Understanding normal airway morphology and its anatomical determinants enhances screening for patients at risk of airway compromise and may guide individualized treatment strategies in oral and maxillofacial surgery.",
+      "objective": "",
+      "study_methods": "This retrospective cross-sectional study analyzed 200 CT scans from patients aged 18-80 years, with no diagnosis of DDF, OSA, or craniofacial syndromes. Scans were processed using artificial intelligence software (NEMOFAB) for automatic segmentation and volumetric analysis. Variables assessed included age, sex, neck circumference, and craniofacial linear distances (Menton-Hyoid, Menton-3rd Vertebrae, PNS-Hyoid, Soft Palate-Hyoid). Airway volume and Minimum Axial Area (MAA) were measured and compared using ANOVA.",
+      "methods": "This retrospective cross-sectional study analyzed 200 CT scans from patients aged 18-80 years, with no diagnosis of DDF, OSA, or craniofacial syndromes. Scans were processed using artificial intelligence software (NEMOFAB) for automatic segmentation and volumetric analysis. Variables assessed included age, sex, neck circumference, and craniofacial linear distances (Menton-Hyoid, Menton-3rd Vertebrae, PNS-Hyoid, Soft Palate-Hyoid). Airway volume and Minimum Axial Area (MAA) were measured and compared using ANOVA.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41124919/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41107074",
       "title": "Giant dedifferentiated liposarcoma of the mandible.",
       "authors": [
@@ -2253,6 +2302,178 @@
       "figure_urls": []
     },
     {
+      "pmid": "41746418",
+      "title": "Mapping the landscape of OSA research: a scientometric comparison between otolaryngology and stomatology contributions.",
+      "authors": [
+        "Liang Xia",
+        "Jiali Bao",
+        "Kan Yao",
+        "Jianfei Zhang"
+      ],
+      "publication_date": "2026-Feb-26",
+      "publication_date_iso": "2026-02-26",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41746418/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41746400",
+      "title": "Pedicled myofascial temporalis flap for closure of large maxillary defects after medication-related osteonecrosis of the jaws. A case series.",
+      "authors": [
+        "Sanne Werner Moeller Andersen",
+        "Liezl Dawson",
+        "Iben Poulsen",
+        "Simon Storgaard Jensen",
+        "Thomas Kofod"
+      ],
+      "publication_date": "2026-Feb-26",
+      "publication_date_iso": "2026-02-26",
+      "abstract": "Medication-related osteonecrosis of the jaws (MRONJ) located in the maxilla may lead to challenging oro-antral and oro-nasal defects too extensive to be predictably closed with local soft tissue flaps. The use of a pedicled myofascial temporalis flap (PMTF) is, however, well-established for closing large maxillary defects following ablative craniomaxillofacial surgery. The purpose of the present study was to evaluate the use of PMTF for maxillary defect closure in patients with stage 3 MRONJ. A retrospective cohort study was conducted based on data from the Copenhagen ONJ cohort from 1 January 2005 to 31 December 2024. The inclusion criteria were consecutive patients with extensive maxillary defects after surgical treatment of MRONJ and reconstruction with PMTF. Seven patients met the inclusion criteria (three with cancer, two with osteoporosis, and two with both conditions). All defects were successfully closed using the PMTF. Healing was uneventful in all patients at the recipient site, with complete mucosal closure achieved. Postoperative pain was reduced in all cases. One patient developed a late donor-site complication requiring removal of the temporal implant; no flap-related failures occurred. The removal of necrotic bone combined with radical sinusotomy and closure of the defect with PMTF appears to be a feasible approach for managing extensive maxillary MRONJ lesions, with favourable outcomes observed in this limited cohort.",
+      "objective": "of the present study was to evaluate the use of PMTF for maxillary defect closure in patients with stage 3 MRONJ. A retrospective cohort study was conducted based on data from the Copenhagen ONJ cohort from 1 January 2005 to 31 December 2024. The inclusion criteria were consecutive patients with extensive maxillary defects after surgical treatment of MRONJ and reconstruction with PMTF. Seven patients met the inclusion criteria (three with cancer, two with osteoporosis, and two with both conditions). All defects were successfully closed using the PMTF. Healing was uneventful in all patients at the recipient site, with complete mucosal closure achieved. Postoperative pain was reduced in all cases. One patient developed a late donor-site complication requiring removal of the temporal implant; no flap-related failures occurred. The removal of necrotic bone combined with radical sinusotomy and closure of the defect with PMTF appears to be a feasible approach for managing extensive maxillary MRONJ lesions, with favourable outcomes observed in this limited cohort.",
+      "study_methods": "A retrospective cohort study was conducted based on data from the Copenhagen ONJ cohort from 1 January 2005 to 31 December 2024. The inclusion criteria were consecutive patients with extensive maxillary defects after surgical treatment of MRONJ and reconstruction with PMTF.",
+      "methods": "A retrospective cohort study was conducted based on data from the Copenhagen ONJ cohort from 1 January 2005 to 31 December 2024. The inclusion criteria were consecutive patients with extensive maxillary defects after surgical treatment of MRONJ and reconstruction with PMTF.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41746400/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41741812",
+      "title": "Does hyaluronic acid affect hard tissue healing in alveolar bone augmentation procedures? A systematic review of controlled clinical trials.",
+      "authors": [
+        "Lukas Bayyigit",
+        "Danijel Domic",
+        "Christian Ulm",
+        "Kristina Bertl",
+        "Andreas Stavropoulos"
+      ],
+      "publication_date": "2026-Feb-26",
+      "publication_date_iso": "2026-02-26",
+      "abstract": "To provide an overview on the effect of hyaluronic acid (HyA) on hard tissue healing in alveolar bone augmentation procedures in humans (PROSPERO registration: CRD42023464863). Three databases were searched until April 2025. Studies using HyA in any form and in any alveolar bone augmentation procedure were included, if a control group allowing to assess the effect of HyA was available; studies addressing periodontal regeneration or using HyA coated implants were not included. Primary outcome parameters, summarized descriptively, were histologic/radiographic new bone formation (NBF), alveolar ridge width (ARW) and height (ARH). The Cochrane Collaborations RoB 2.0 and ROBINS-I tool were used to assess the risk of bias. Fourteen studies with a follow-up of 3-12 months were included, which contributed with 229 patients and 317 sites allowing to assess the effect of HyA. HyA was assessed as adjunct to maxillary sinus floor augmentation (MSFA), guided bone regeneration (GBR), and alveolar ridge preservation (ARP). The addition of HyA significantly improved NBF in 50 and 66% of the MSFA and ARP studies, respectively; however, a significant clinical improvement was not consistently observed. Advantages for NBF as well as ARW or ARH gain have been reported in GBR procedures, but the available data are limited and mostly descriptive. No differences were observed regarding reported post-operative complication rates. Due to the heterogeneity in treatments and outcome measures, as well as the limited number of studies, a meta-analysis was not feasible for any of the outcomes. In the original studies, positive and occasionally significant results have been reported for the adjunct use of HyA in alveolar bone augmentation; however, the effect size and clinical relevance is unclear, and further clinical research is needed. HyA in alveolar bone augmentation is safe, but it remains unclear in which indication and in which application form it may enhance quality and/or quantity of NBF and at what extent.",
+      "objective": "",
+      "study_methods": "Three databases were searched until April 2025. Studies using HyA in any form and in any alveolar bone augmentation procedure were included, if a control group allowing to assess the effect of HyA was available; studies addressing periodontal regeneration or using HyA coated implants were not included. Primary outcome parameters, summarized descriptively, were histologic/radiographic new bone formation (NBF), alveolar ridge width (ARW) and height (ARH). The Cochrane Collaborations RoB 2.0 and ROBINS-I tool were used to assess the risk of bias.",
+      "methods": "Three databases were searched until April 2025. Studies using HyA in any form and in any alveolar bone augmentation procedure were included, if a control group allowing to assess the effect of HyA was available; studies addressing periodontal regeneration or using HyA coated implants were not included. Primary outcome parameters, summarized descriptively, were histologic/radiographic new bone formation (NBF), alveolar ridge width (ARW) and height (ARH). The Cochrane Collaborations RoB 2.0 and ROBINS-I tool were used to assess the risk of bias.",
+      "results": "have been reported for the adjunct use of HyA in alveolar bone augmentation; however, the effect size and clinical relevance is unclear, and further clinical research is needed. HyA in alveolar bone augmentation is safe, but it remains unclear in which indication and in which application form it may enhance quality and/or quantity of NBF and at what extent.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41741812/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41741798",
+      "title": "Diagnostic significance of salivary and glandular siglec-5 in Sjögren disease and non-Sjögren sicca.",
+      "authors": [
+        "Fernanda Luiza Araújo de Lima Castro",
+        "Laiz Fernandes Mendes Nunes",
+        "Fernanda Aragão Felix",
+        "Sicília Rezende Oliveira",
+        "José Alcides Almeida de Arruda",
+        "Victor Zanetti Drumond",
+        "Lucas Guimarães Abreu",
+        "Anna Christina Higino Rocha",
+        "Camila Munayer Lara",
+        "Harim Tavares Dos Santos",
+        "Maurício Augusto Aquino de Castro",
+        "Gilda Aparecida Ferreira",
+        "Leandro Augusto Tanure",
+        "Débora Cerqueira Calderaro",
+        "Tarcília Aparecida Silva",
+        "Sílvia Ferreira de Sousa"
+      ],
+      "publication_date": "2026-Feb-26",
+      "publication_date_iso": "2026-02-26",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41741798/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41742397",
+      "title": "Effect of Early Radiographic Bone Loss Before Loading on Implant-Related Outcomes: A Long-Term Retrospective Study.",
+      "authors": [
+        "Dominick Moser",
+        "Engin Ozgur",
+        "Jennifer Tjokro",
+        "Clemens Raabe",
+        "Vivianne Chappuis",
+        "Gustavo Avila-Ortiz",
+        "Pablo Galindo-Moreno",
+        "Miguel Padial-Molina",
+        "Emilio Couso-Queiruga"
+      ],
+      "publication_date": "2026-Feb-25",
+      "publication_date_iso": "2026-02-25",
+      "abstract": "This retrospective study primarily evaluated whether early radiographic bone loss (ERBL) predicts progressive bone loss (PBL), and secondarily assessed its association with implant survival and peri-implant diseases. Adults with dental implants who were followed for at least 5 years were included. Implants presenting ERBL, defined as apical migration of the interproximal marginal bone involving exposure of the implant rough surface before insertion of the final prosthesis, were classified as ERBL+; non-exposure group was defined as implants without evidence of ERBL (ERBL-). Regression analyses were performed to evaluate associations with PBL. A total of 259 implants, 87 ERBL+, and 172 ERBL- were included. Mean follow-up periods were 8.8 ± 3.0 years for the ERBL+ and 11.5 ± 1.7 years for the ERBL-. ERBL+ exhibited significantly greater PBL than ERBL- (-1.6 ± 1.0 mm to -2.3 ± 1.7 mm vs. -0.4 ± 1.2 mm to -0.5 ± 1.2 mm; p < 0.001). Implant survival was lower in ERBL+ (67.8%) compared with ERBL- (98.3%; p < 0.001). Peri-implantitis was diagnosed in 63.2% of implants in the ERBL- group versus 5.2% in ERBL- (p < 0.001), and 68.4% of patients versus 6.1% of ERBL- (p < 0.001). ERBL was the strongest predictor of greater PBL (+1.46 mm; p < 0.0001). Male sex (+0.40 mm; p = 0.02), smoking (+0.61 mm; p = 0.004), each additional implant (+0.17 mm; p < 0.0001), single-crown restorations (+0.66 mm; p = 0.005), and bone-level implants (+0.32 mm; p = 0.005) were associated with increased PBL. ERBL is a strong predictor of PBL and is associated with a higher risk of implant loss and peri-implantitis onset.",
+      "objective": "",
+      "study_methods": "Adults with dental implants who were followed for at least 5 years were included. Implants presenting ERBL, defined as apical migration of the interproximal marginal bone involving exposure of the implant rough surface before insertion of the final prosthesis, were classified as ERBL+; non-exposure group was defined as implants without evidence of ERBL (ERBL-). Regression analyses were performed to evaluate associations with PBL.",
+      "methods": "Adults with dental implants who were followed for at least 5 years were included. Implants presenting ERBL, defined as apical migration of the interproximal marginal bone involving exposure of the implant rough surface before insertion of the final prosthesis, were classified as ERBL+; non-exposure group was defined as implants without evidence of ERBL (ERBL-). Regression analyses were performed to evaluate associations with PBL.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41742397/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41741146",
+      "title": "Masticatory Efficiency and Quality of Life in Maxillectomized Older Adults Rehabilitated With Obturator Prostheses.",
+      "authors": [
+        "Daniel Silva Soares",
+        "Isadora França Vieira-Silva",
+        "José Alcides Almeida de Arruda",
+        "Ricardo de Oliveira Corrêa",
+        "Allyson Nogueira Moreira",
+        "Emerson Gomes Dos Santos",
+        "Amália Moreno"
+      ],
+      "publication_date": "2026-Feb-25",
+      "publication_date_iso": "2026-02-25",
+      "abstract": "This study evaluated muscle electrical activity, bite force, quality of life, and satisfaction in individuals with maxillectomy rehabilitated with complete obturator prostheses (COP). Most patients undergoing maxillectomy and rehabilitated with COP experience masticatory and functional limitations. This pre-post interventional study included 11 individuals (mean age: 64 years) who had undergone maxillectomy and were rehabilitated with COP designed to prosthetically restore the palate and improve oropharyngeal function. Electromyography, mouth opening angle, and bite force were assessed at 60, 120, and 180 days after COP installation. The University of Washington Quality of Life (UWQOL) questionnaire and the Obturator Functional Scale (OFS) were administered at baseline and at the same follow-up intervals. Electromyography of facial muscles was performed at rest and during mastication of hard and soft foods. Maximum bite force was recorded at the central incisors and first molars. Data were analysed descriptively and analytically. Bite force values increased significantly over the 180-day period, while muscle electrical activity remained stable throughout COP wear. The appearance, swallowing, speech, and chewing domains significantly influenced COP performance. The OFS indicated improvements in liquid swallowing, reduction of nasal speech, and greater voice clarity in public settings. Most significant changes were accompanied by moderate to large effect sizes, supporting their practical relevance. COP effectively improved patients' quality of life and functional outcomes following maxillectomy.",
+      "objective": "",
+      "study_methods": "This pre-post interventional study included 11 individuals (mean age: 64 years) who had undergone maxillectomy and were rehabilitated with COP designed to prosthetically restore the palate and improve oropharyngeal function. Electromyography, mouth opening angle, and bite force were assessed at 60, 120, and 180 days after COP installation. The University of Washington Quality of Life (UWQOL) questionnaire and the Obturator Functional Scale (OFS) were administered at baseline and at the same follow-up intervals. Electromyography of facial muscles was performed at rest and during mastication of hard and soft foods. Maximum bite force was recorded at the central incisors and first molars. Data were analysed descriptively and analytically.",
+      "methods": "This pre-post interventional study included 11 individuals (mean age: 64 years) who had undergone maxillectomy and were rehabilitated with COP designed to prosthetically restore the palate and improve oropharyngeal function. Electromyography, mouth opening angle, and bite force were assessed at 60, 120, and 180 days after COP installation. The University of Washington Quality of Life (UWQOL) questionnaire and the Obturator Functional Scale (OFS) were administered at baseline and at the same follow-up intervals. Electromyography of facial muscles was performed at rest and during mastication of hard and soft foods. Maximum bite force was recorded at the central incisors and first molars. Data were analysed descriptively and analytically.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41741146/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41739549",
       "title": "Cephalometric Comparison of Le Fort I Osteotomy in Growing and Non-Growing Patients With Clefts: A Retrospective Study.",
       "authors": [
@@ -2276,6 +2497,65 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41739549/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41740530",
+      "title": "Immunological Functions of Th17 cells in Colon Cancer: From Pathogenic Mechanisms to Emerging Treatments.",
+      "authors": [
+        "Qamar Abuhassan",
+        "Ali M Atoom",
+        "M M Rekha",
+        "Jaya Bhanu Kanwar",
+        "M Bavanilatha",
+        "Vimal Arora",
+        "Aashna Sinha",
+        "Alisher Khazratov"
+      ],
+      "publication_date": "2026-Feb-24",
+      "publication_date_iso": "2026-02-24",
+      "abstract": "Colon cancer (CC) constitutes a significant global health challenge, characterized by increasing incidence and mortality rates that underscore the necessity for continued investigative efforts. Inflammation-driven cellular and molecular processes are fundamentally implicated in the CC development, progression and pathogenesis. Among these immune effectors, T helper 17 (Th17) cells, a distinct subset of CD4+ T lymphocytes, are integral to inflammatory and autoimmune responses and modulate antitumor immunity. In CC, Th17 cells exhibit a dualistic function; they may promote tumorigenesis by sustaining chronic inflammation or exert antitumor effects by enhancing cytotoxic immune response. Notably, critical gaps persist in understanding how Th17 plasticity dynamically governs the balance between immune surveillance and tumor immune evasion, representing a central unresolved controversy in CC progression. Furthermore, while extensive research has shown that Th17 cells interact with the tumor microenvironment (TME) and cancer stem cells (CSCs), the specific mechanisms behind these interactions that facilitate metastasis, invasion, and cellular proliferation are still not fully understood. Several studies have documented an increased proportion of Th17 cells in the peripheral circulation of CC patients. However, conflicting clinical evidence regarding their prognostic significance highlights a major translational challenge for patient stratification and targeted intervention. This review consolidates novel perspectives on the multifaceted contributions of Th17 to CC initiation, progression, and therapy, emphasizing targeted interventions to disrupt inflammatory axes and improve outcomes.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41740530/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41740298",
+      "title": "Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective comparative pilot study on artifact reduction.",
+      "authors": [
+        "Adib Al-Haj Husain",
+        "Sameena Sandhu",
+        "Maximilian Eberhard Hermann Wagner",
+        "Suen An Nynke Lie",
+        "Egon Burian",
+        "Daniel Zedler",
+        "Bernd Stadlinger",
+        "Peter Kessler",
+        "Harald Essig"
+      ],
+      "publication_date": "2026-Feb-24",
+      "publication_date_iso": "2026-02-24",
+      "abstract": "To assess, in a prospective pilot study, five magnetic resonance imaging (MRI) artifact reduction protocols (UTE, SEMAC, Dark Bone, DESS, and STIR) using a 15-channel dentomaxillofacial coil in trauma patients undergoing cranio-maxillofacial and oral reconstruction. Eighteen patients (15 M/3 F, 37.9 ± 17.5 years) underwent MRI within 48 h after surgery. Image quality, artifact extent, and visualization of peri-osteosynthesis tissues were qualitatively evaluated on a 5-point scale (5 = best, 1 = worst). Quantitative analysis assessed protocol-specific artifact-induced signal voids in relation to the dimensions of manufacturer-specific implants. Descriptive statistics and inter- and intra-observer reliability were evaluated using weighted kappa statistics. UTE and SEMAC consistently demonstrated highest image quality and minimal artifacts, accurately depicting peri-osteosynthesis tissues, with mean artifact deviations below 2 mm relative to ground-truth implant dimensions. STIR showed intermediate performance, providing robust fat suppression and soft-tissue contrast, whereas Dark Bone and DESS exhibited higher artifact prevalence and lower diagnostic confidence. Subgroup analysis confirmed these trends across fracture location and implant type. Inter- and intra-observer agreement ranged from substantial to perfect (κ = 0.71-1.0, p < 0.001). Modern MRI techniques like UTE and SEMAC with specialized coils improve postoperative imaging by balancing artifact suppression, image quality, and diagnostic confidence, potentially enhancing assessment of perioperative complications, reconstructive outcomes, and oncological follow-up in cranio-maxillofacial surgery.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41740298/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2397,62 +2677,26 @@
       "figure_urls": []
     },
     {
-      "pmid": "40966312",
-      "title": "Analysis of orthodontic aligner biocompatibility: leachable compounds of different aligner materials.",
+      "pmid": "41743495",
+      "title": "Commentary: Concussions in Facial Trauma Patients: A Retrospective Study.",
       "authors": [
-        "Thomas Wendl",
-        "Erich Leitner",
-        "Brigitte Wendl",
-        "Peter Proff"
+        "Dino Zammit"
       ],
-      "publication_date": "2026-Feb-24",
-      "publication_date_iso": "2026-02-24",
-      "abstract": "the aim of this study was to clarify the biocompatibility of different tooth repositioning splints (aligners). This included the characterization of the volatile fraction by headspace solid phase microextraction coupled to gas chromatography mass spectrometry, simulation of leachable organic compounds using artificial saliva and the quantitation of bisphenol A and bisphenol S after extraction. Four different aligners were characterized in this study, these included two splints with novel shape memory properties: a printable aligner made of the resin Tera Harz TC-85 DAC (Graphy Inc., South Korea) and a self-manufactured SMP-Aligner consisting of the components polypropylene carbonate and thermoplastic polyurethane. The other two aligners were conventional, thermoformable aligners: CA® Pro Clear Aligner (Scheu Dental GmbH, Germany) and Erkodur-al (Erkodent Erich Kopp GmbH, Germany). no BPA was found in all four samples after 72 h. BPS was found in one Aligner. The most leachable compounds were found in the samples of the SMP- and the direct printed Graphy-Aligner. Most of the compound release occurred during the first 24 h. the cumulative exposure effect from aligner wear should be carefully considered, although the current research indicates that the levels of leachable compounds are generally low.",
-      "objective": "of this study was to clarify the biocompatibility of different tooth repositioning splints (aligners). This included the characterization of the volatile fraction by headspace solid phase microextraction coupled to gas chromatography mass spectrometry, simulation of leachable organic compounds using artificial saliva and the quantitation of bisphenol A and bisphenol S after extraction. Four different aligners were characterized in this study, these included two splints with novel shape memory properties: a printable aligner made of the resin Tera Harz TC-85 DAC (Graphy Inc., South Korea) and a self-manufactured SMP-Aligner consisting of the components polypropylene carbonate and thermoplastic polyurethane. The other two aligners were conventional, thermoformable aligners: CA® Pro Clear Aligner (Scheu Dental GmbH, Germany) and Erkodur-al (Erkodent Erich Kopp GmbH, Germany). no BPA was found in all four samples after 72 h. BPS was found in one Aligner. The most leachable compounds were found in the samples of the SMP- and the direct printed Graphy-Aligner. Most of the compound release occurred during the first 24 h. the cumulative exposure effect from aligner wear should be carefully considered, although the current research indicates that the levels of leachable compounds are generally low.",
-      "study_methods": "Four different aligners were characterized in this study, these included two splints with novel shape memory properties: a printable aligner made of the resin Tera Harz TC-85 DAC (Graphy Inc., South Korea) and a self-manufactured SMP-Aligner consisting of the components polypropylene carbonate and thermoplastic polyurethane. The other two aligners were conventional, thermoformable aligners: CA® Pro Clear Aligner (Scheu Dental GmbH, Germany) and Erkodur-al (Erkodent Erich Kopp GmbH, Germany).",
-      "methods": "Four different aligners were characterized in this study, these included two splints with novel shape memory properties: a printable aligner made of the resin Tera Harz TC-85 DAC (Graphy Inc., South Korea) and a self-manufactured SMP-Aligner consisting of the components polypropylene carbonate and thermoplastic polyurethane. The other two aligners were conventional, thermoformable aligners: CA® Pro Clear Aligner (Scheu Dental GmbH, Germany) and Erkodur-al (Erkodent Erich Kopp GmbH, Germany).",
+      "publication_date": "2026-Feb-23",
+      "publication_date_iso": "2026-02-23",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "facial trauma"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40966312/",
-      "pmcid": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41743495/",
+      "pmcid": "PMC12929072",
       "figure_urls": []
-    },
-    {
-      "pmid": "41729359",
-      "title": "Current treatment concepts in implantology in oral and maxillofacial surgery in Germany.",
-      "authors": [
-        "Andreas Pabst",
-        "Jörg Wiegner",
-        "Matthias Schneider",
-        "Nils Weyer",
-        "Alexander Bartella",
-        "Philipp Becker",
-        "Alexander-N Zeller"
-      ],
-      "publication_date": "2026-Feb-23",
-      "publication_date_iso": "2026-02-23",
-      "abstract": "Dental implantology is a core competency of Oral and Maxillofacial Surgery (OMFS). However, detailed data on the current treatment concepts in implantology in OMFS in Germany are limited. This study analyzed current treatment concepts, clinical practices, decision-making factors, and the adoption of advanced technologies in implantology in OMFS in Germany. A dynamic online questionnaire with up to 38 questions was sent to 1391 OMFS members of the German Association of Oral and Maxillofacial Surgery (DGMKG). The questionnaire collected general and specific data, such as implantological experience, time points of implant placement (immediate vs. delayed), implant systems and designs, imaging modalities, digital planning, guided surgery, healing, (immediate) prosthetic restorations, follow-up, pre- and postoperative management, and the use of platelet-rich fibrin (PRF). Data analysis was descriptive and anonymous. 276 OMF surgeons participated in the study, with an average of 20 years of experience in implantology. Most worked in private practices without inpatient facilities (66.3%). Most placed 201-500 implants per year (34.78%). 78.99% performed immediate implant placement, mainly to shorten treatment time and preserve alveolar bone. Cone beam CT (88.42%) and panoramic radiographs (68.34%) were the most common imaging modalities. Virtual planning was used by 73.08%, and guided surgery was used by 66.54%, mainly with externally produced guides. Most participants preferred closed implant healing (83.53%). Immediate prosthetic restorations (PR) were rarely performed (57.83% never), and 70.92% did not carry out definitive PR. Risk factors for implant failure were poor oral hygiene (84.72%), limited surgical experience (76.39%), and smoking (75%). PRF was used routinely by 9.72%, and selectively by 45.83% CONCLUSION: The results indicate high implantological standards and heterogeneity in current treatment concepts in OMFS implantology in Germany. Possible reasons may include the surgeon's training and experience, the private practices' and clinics' organizational and structural features, and the referral network. This study underscores the importance of implantological education and training, interdisciplinary communication, and the further implementation of guidelines.",
-      "objective": "",
-      "study_methods": "A dynamic online questionnaire with up to 38 questions was sent to 1391 OMFS members of the German Association of Oral and Maxillofacial Surgery (DGMKG). The questionnaire collected general and specific data, such as implantological experience, time points of implant placement (immediate vs. delayed), implant systems and designs, imaging modalities, digital planning, guided surgery, healing, (immediate) prosthetic restorations, follow-up, pre- and postoperative management, and the use of platelet-rich fibrin (PRF). Data analysis was descriptive and anonymous.",
-      "methods": "A dynamic online questionnaire with up to 38 questions was sent to 1391 OMFS members of the German Association of Oral and Maxillofacial Surgery (DGMKG). The questionnaire collected general and specific data, such as implantological experience, time points of implant placement (immediate vs. delayed), implant systems and designs, imaging modalities, digital planning, guided surgery, healing, (immediate) prosthetic restorations, follow-up, pre- and postoperative management, and the use of platelet-rich fibrin (PRF). Data analysis was descriptive and anonymous.",
-      "results": "indicate high implantological standards and heterogeneity in current treatment concepts in OMFS implantology in Germany. Possible reasons may include the surgeon's training and experience, the private practices' and clinics' organizational and structural features, and the referral network. This study underscores the importance of implantological education and training, interdisciplinary communication, and the further implementation of guidelines.",
-      "conclusion": "The results indicate high implantological standards and heterogeneity in current treatment concepts in OMFS implantology in Germany. Possible reasons may include the surgeon's training and experience, the private practices' and clinics' organizational and structural features, and the referral network. This study underscores the importance of implantological education and training, interdisciplinary communication, and the further implementation of guidelines.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41729359/",
-      "pmcid": "PMC12929735",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929735/bin/40729_2026_668_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929735/bin/40729_2026_668_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929735/bin/40729_2026_668_Fig3_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929735/bin/40729_2026_668_Fig4_HTML.jpg"
-      ]
     },
     {
       "pmid": "41729299",
@@ -2480,92 +2724,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929254/bin/68_2026_3127_Fig1_HTML.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929254/bin/68_2026_3127_Fig1_HTML.gif"
       ]
-    },
-    {
-      "pmid": "41729134",
-      "title": "\"GLP-1 Agonists vs. Bariatric Surgery: A Global Health Network Analysis of Panniculectomy Outcomes\".",
-      "authors": [
-        "Savannah C Braud",
-        "Peyton Terry",
-        "Said Azoury"
-      ],
-      "publication_date": "2026-Feb-23",
-      "publication_date_iso": "2026-02-23",
-      "abstract": "With the rise in medically assisted weight loss, procedures like panniculectomy are increasingly common. The surgical impact of glucagon-like peptide-1 (GLP-1) receptor agonists remains unclear, particularly compared to bariatric surgery. To compare panniculectomy outcomes and perioperative lab values in patients with prior GLP-1 use versus bariatric surgery. TriNetX Global Research Network was queried to identify patients who underwent panniculectomy following either GLP-1 use or bariatric surgery. Cohorts were formed using codes such as CPT and ICD-10 and perioperative laboratory values were compared between groups, including hemoglobin A1c (HgA1c), body mass index (BMI), low-density lipoprotein (LDL), triglycerides, and albumin. Propensity score matching for age, sex, race, HbA1c, BMI, and triglyceride levels was performed to stabilize baseline metabolic profiles and allow balanced comparison of postoperative outcomes, including cellulitis, hematoma, seroma, hemorrhage, wound dehiscence, surgical site infection, and abscess formation. Data from 177,467,699 patients across 150 healthcare organizations (2020-2025) were analyzed. Among all patients who underwent panniculectomy (n=24,645), 6,060 had preoperative GLP-1 use and 4,142 had prior bariatric surgery. GLP-1 users exhibited higher perioperative triglycerides, HbA1c, BMI, and LDL (all p < 0.05). Multivariable regression demonstrated lower odds of cellulitis (OR 0.62, 95% CI 0.47-0.83, p=0.0015), seroma (OR 0.77, 95% CI 0.59-0.89, p=0.026), and hemorrhage (OR 0.51, 95% CI 0.30-0.89, p=0.016) in the GLP-1 cohort. Despite initial concerns, preoperative patients who achieve weight loss via GLP-1 receptor agonists, as opposed to bariatric surgery, may experience fewer postoperative complications following panniculectomy.",
-      "objective": "",
-      "study_methods": "TriNetX Global Research Network was queried to identify patients who underwent panniculectomy following either GLP-1 use or bariatric surgery. Cohorts were formed using codes such as CPT and ICD-10 and perioperative laboratory values were compared between groups, including hemoglobin A1c (HgA1c), body mass index (BMI), low-density lipoprotein (LDL), triglycerides, and albumin. Propensity score matching for age, sex, race, HbA1c, BMI, and triglyceride levels was performed to stabilize baseline metabolic profiles and allow balanced comparison of postoperative outcomes, including cellulitis, hematoma, seroma, hemorrhage, wound dehiscence, surgical site infection, and abscess formation.",
-      "methods": "TriNetX Global Research Network was queried to identify patients who underwent panniculectomy following either GLP-1 use or bariatric surgery. Cohorts were formed using codes such as CPT and ICD-10 and perioperative laboratory values were compared between groups, including hemoglobin A1c (HgA1c), body mass index (BMI), low-density lipoprotein (LDL), triglycerides, and albumin. Propensity score matching for age, sex, race, HbA1c, BMI, and triglyceride levels was performed to stabilize baseline metabolic profiles and allow balanced comparison of postoperative outcomes, including cellulitis, hematoma, seroma, hemorrhage, wound dehiscence, surgical site infection, and abscess formation.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41729134/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41730408",
-      "title": "SOCS2 deficiency drives sex-specific remodeling of mineralized tissues.",
-      "authors": [
-        "Rose Vieira Toyama",
-        "João Pacheco Colares",
-        "Natalia de Abreu Refaxo",
-        "José Alcides Almeida de Arruda",
-        "Carolina Bosso André",
-        "Amanda Leal Rocha",
-        "Letícia Fernanda Duffles",
-        "Ana Clara Campideli-Santana",
-        "Izabela Galvão",
-        "Virgínia Tereza Morais Lima",
-        "Raphael Escorsim Szawka",
-        "David Ross Grattan",
-        "Fabiana Simão Machado",
-        "Flávio Almeida Amaral",
-        "Tarcília Aparecida Silva",
-        "Allyson Nogueira Moreira",
-        "Soraia Macari"
-      ],
-      "publication_date": "2026-Feb-21",
-      "publication_date_iso": "2026-02-21",
-      "abstract": "Sex-specific differences in bone development and remodeling are increasingly recognized as critical determinants in skeletal biology. We investigated the impact of SOCS2 deficiency on craniofacial and long bone structures in female and male mice. C57BL/6 wild-type (WT) and SOCS2 knockout (SOCS2-/-) mice underwent orthodontic tooth movement (OTM) on the right side, while the contralateral side served as control. Maxillae, dental roots, femur, adipose tissue, and serum were collected for histomorphometry, micro-computed tomography (microCT), biomechanical testing, adiposity index assessment, qPCR, Western blot, and ELISA. SOCS2-/- males exhibited greater alveolar bone loss and increased OTM than SOCS2-/- females. Whereas SOCS2-/- females showed reduced OTM compared with WT females. MicroCT revealed higher maxillary bone mineral density (BMD) in SOCS2-/- females, but lower BMD, bone volume/total volume, and trabecular thickness, with increased trabecular separation, in SOCS2-/- males. These phenotypes were associated with increased Howship's lacunae and c-Jun N-terminal kinase activity in SOCS2-/- males, sex-divergent Pparγ, Il6, and Runx2 expression, and unchanged Rankl/Opg ratio in maxillary bone. Femoral evaluations showed sex-specific changes in growth, bone structure, and mechanical strength. Root analyses revealed compromised architecture in SOCS2-/- males and increased odontoclast activity in both sexes. SOCS2-/- males displayed increased serum testosterone and adiposity, despite reduced adipocyte area, whereas SOCS2-/- females exhibited higher prolactin levels and enlarged adipocytes. SOCS2 influences skeletal remodeling in a sex-dependent manner, with underlying mechanisms involving metabolic and hormonal alterations, as well as local imbalances in the regulation of osteoblast and osteoclast activity.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41730408/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41730350",
-      "title": "A Bibliometric Approach to Understanding Trends and Major Topics in Cone Beam Computed Tomography Research.",
-      "authors": [
-        "Yuh-Shan Ho",
-        "Anastasia Fardi",
-        "Konstantinos Kodonas"
-      ],
-      "publication_date": "2026-Feb-21",
-      "publication_date_iso": "2026-02-21",
-      "abstract": "This bibliometric analysis aimed to map the existing knowledge landscape and identify emerging research trends in the field of cone-beam computed tomography (CBCT). A search was performed in the Web of Science (Wos) Database from 1991 to 2024 using predefined criteria, focusing primarily on documents-related to CBCT. Citation-based metrics were applied to assess total and annual publication counts, document types, languages, Wos categories, journals, and countries. The search strategy yielded 16,058 original articles, published in 1,034 journals, authored from 113 countries. The United States was the most prolific contributor, leading in all six publication indicators. Notably, 43% of the publications fell under the 'Dentistry, Oral surgery and Medicine' category. Most articles were single-country publications. The research primarily focused on two main areas: clinical applications of CBCT and the optimization and quantitative evaluation of CBCT imaging. Clinical applications were further divided into subcategories including oral surgery and, implantology, dentistry, endodontology, radiation therapy, CBCT-guided technologies, and innovations driven by artificial intelligence. This bibliometric analysis offers an in-depth look at the evolution of CBCT in radiology, and provides valuable insights for future studies and opportunities to improve clinical decision-making through the advanced capabilities of CBCT technology.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41730350/",
-      "pmcid": "",
-      "figure_urls": []
     },
     {
       "pmid": "41721142",
@@ -2602,36 +2760,6 @@
       ]
     },
     {
-      "pmid": "41718800",
-      "title": "Higher Serum Levels of Propionylcarnitine and Methionine are Associated with Reduced Cortical Amyloid Burden in Alzheimer's Disease.",
-      "authors": [
-        "Qamar Abuhassan",
-        "Ghaleb Oriquat",
-        "Soumya V Menon",
-        "Laxmidhar Maharana",
-        "L Inbathamizh",
-        "Gunjan Mukherjee",
-        "Aashna Sinha",
-        "Shokhjakhon Furkatov",
-        "Alzheimer’s Disease Neuroimaging Initiative (ADNI) and the Alzheimer Disease Metabolomics Consortium (ADMC)"
-      ],
-      "publication_date": "2026-Feb-20",
-      "publication_date_iso": "2026-02-20",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41718800/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41714441",
       "title": "Virtual planning in orthognathic surgery among Swedish maxillofacial surgeons: a retrospective register-based cohort study.",
       "authors": [
@@ -2659,58 +2787,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12920412/bin/10006_2026_1524_Fig2_HTML.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12920412/bin/10006_2026_1524_Fig3_HTML.jpg"
       ]
-    },
-    {
-      "pmid": "41213519",
-      "title": "Facial esthetic perception between skeletal Class III patients treated with conventional and surgery-first orthognathic approaches.",
-      "authors": [
-        "Arthur Cunha",
-        "Tainá Manso",
-        "Jorge Faber",
-        "Flavia Artese",
-        "José Augusto M Miguel"
-      ],
-      "publication_date": "2026-Feb-19",
-      "publication_date_iso": "2026-02-19",
-      "abstract": "To compare the profile attractiveness of skeletal Class III patients treated with either a surgery-first approach (SFA) or a conventional surgery approach (CSA), as perceived by surgeons, orthodontists, and laypersons. Thirty-four patients were assigned to either the SFA or CSA group retrospectively based on the surgical protocol performed and were evaluated by three distinct groups: oral and maxillofacial surgeons, orthodontists, and laypersons (n = 23 per group). Profile images before (T1) and after orthodontic-surgical treatment (T2) were analyzed using a 5-point Likert scale. Then participants answered the following question: \"Which surgical technique was used, CSA or SFA?\" Statistical analyses including the Spearman correlation coefficient, the Friedman test, the κ test, independent t-tests, and one-way analysis of variance were conducted to assess correlations and comparisons among evaluator groups (P < .05). A high and positive correlation (r = 0.86, P < .001) was demonstrated for scores between surgeons and orthodontists, and a low correlation was demonstrated between laypeople and specialists (r = 0.55, P = .01 and r = 0.48, P = .03). No statistically significant relationships were found between esthetic perceptions and the surgical approach regardless of the level of expertise of the evaluators, and it was also not possible to differentiate between the surgical approaches used. In this study, we indicate that the choice of orthognathic surgical protocol, whether surgery-first or conventional, did not significantly influence the perceived facial profile attractiveness of skeletal Class III patients. These findings support the clinical viability of the SFA protocol, particularly in cases where treatment time or patient preference are factors in decision-making.",
-      "objective": "",
-      "study_methods": "Thirty-four patients were assigned to either the SFA or CSA group retrospectively based on the surgical protocol performed and were evaluated by three distinct groups: oral and maxillofacial surgeons, orthodontists, and laypersons (n = 23 per group). Profile images before (T1) and after orthodontic-surgical treatment (T2) were analyzed using a 5-point Likert scale. Then participants answered the following question: \"Which surgical technique was used, CSA or SFA?\" Statistical analyses including the Spearman correlation coefficient, the Friedman test, the κ test, independent t-tests, and one-way analysis of variance were conducted to assess correlations and comparisons among evaluator groups (P < .05).",
-      "methods": "Thirty-four patients were assigned to either the SFA or CSA group retrospectively based on the surgical protocol performed and were evaluated by three distinct groups: oral and maxillofacial surgeons, orthodontists, and laypersons (n = 23 per group). Profile images before (T1) and after orthodontic-surgical treatment (T2) were analyzed using a 5-point Likert scale. Then participants answered the following question: \"Which surgical technique was used, CSA or SFA?\" Statistical analyses including the Spearman correlation coefficient, the Friedman test, the κ test, independent t-tests, and one-way analysis of variance were conducted to assess correlations and comparisons among evaluator groups (P < .05).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41213519/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41015412",
-      "title": "Lip incompetence resolved by active vertical control in nonsurgical treatment of a protrusion case with vertical maxillary excess.",
-      "authors": [
-        "Johnny Jl Liaw",
-        "Jae Hyun Park",
-        "Fang Fang Tsai",
-        "Betty My Tsai",
-        "Wendy Wt Liao"
-      ],
-      "publication_date": "2026-Feb-19",
-      "publication_date_iso": "2026-02-19",
-      "abstract": "In this case report, we present the treatment of a 28-year-old patient with lip incompetence and vertical maxillary excess (VME), using a combination of a midpalatal miniscrew-anchored cantilever clip appliance and submerged buccal shelf miniscrews. The patient exhibited a convex profile, long face, gummy smile, and protrusion, with a Class II skeletal relationship and mentalis strain. The patient declined conventional orthognathic surgery, leading to an orthodontic camouflage treatment plan involving extraction of four first premolars, maximum retraction, and active vertical control with skeletal anchorage devices. Treatment included the use of infrazygomatic crest miniscrews, anterior subapical miniscrews, and a cantilever clip appliance for molar intrusion, resulting in significant improvement in facial profile, reduction of gummy smile, resolution of lip incompetence, and alleviation of mentalis strain. This case demonstrates the effectiveness of a nonsurgical orthodontic intervention in managing a complex case of VME and lip incompetence.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in significant improvement in facial profile, reduction of gummy smile, resolution of lip incompetence, and alleviation of mentalis strain. This case demonstrates the effectiveness of a nonsurgical orthodontic intervention in managing a complex case of VME and lip incompetence.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41015412/",
-      "pmcid": "",
-      "figure_urls": []
     }
   ]
 }
