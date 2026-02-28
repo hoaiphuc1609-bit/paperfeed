@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-27T04:18:07Z",
+  "updated_at": "2026-02-28T03:59:29Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -32,7 +32,7 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
-      "pmcid": "",
+      "pmcid": "PMC12943813",
       "figure_urls": []
     },
     {
@@ -60,12 +60,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41582805/",
       "pmcid": "PMC12851390",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41563872",
@@ -117,11 +112,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41431197/",
       "pmcid": "PMC12777812",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0002_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0003_C.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41379645",
@@ -543,8 +534,13 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41747006/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC12944741",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12944741/bin/CRE2-12-e70306-g003.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12944741/bin/CRE2-12-e70306-g004.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12944741/bin/CRE2-12-e70306-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12944741/bin/CRE2-12-e70306-g002.jpg"
+      ]
     },
     {
       "pmid": "41743013",
@@ -1235,6 +1231,73 @@
       "figure_urls": []
     },
     {
+      "pmid": "41758071",
+      "title": "Postoperative Adjuvant Chemoradiotherapy ± PD-1 Inhibitor for Locally Advanced Head and Neck Squamous Cell Carcinoma.",
+      "authors": [
+        "Zhiqiang Wang",
+        "Qingqing He",
+        "Donghui Jiang",
+        "Sheng Cheng",
+        "Jingyu Gao",
+        "Yan Wang",
+        "Shuai Fu",
+        "Qing Ying Cui",
+        "Yanli Yang",
+        "Li Lv",
+        "Yuchuan Xu",
+        "Yan Li",
+        "Rui Tian",
+        "Chunlei Ge",
+        "Rongqing Li"
+      ],
+      "publication_date": "2026-Mar",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "Postsurgical immunotherapy for patients with locally advanced head and neck squamous cell carcinoma (HNSCC) remains elusive. This study assesses the value and significance of postoperative immunotherapy in the treatment of locally advanced HNSCC. In total, 212 patients with locally advanced HNSCC who underwent radical surgery were stratified into three treatment groups: adjuvant radiotherapy alone, adjuvant chemoradiotherapy (CRT), and adjuvant chemoradiotherapy plus immunotherapy (PD-1 Ab). A comprehensive analysis was conducted to assess survival outcomes and prognostic factors across diverse patient cohorts. Four patients were lost to follow-up, with a follow-up rate of 98.1% and a median follow-up time of 41 months (IQR 24-68). A total of 64/212 individuals died, with cancer being the cause of 62 cases and noncancer causes accounting for the remaining two deaths; 62/212 (29.2%) patients experienced relapse and/or metastasis. The 3-year OS rates for the radiotherapy group, CRT group, and CRT plus PD-1 Ab group were 54.8%, 75.4%, and 82.2%, respectively. However, no statistically significant difference in OS or PFS was observed between the CRT and CRT + PD-1 Ab groups (pall > 0.05), although both were superior to radiotherapy alone (pall < 0.05). Multivariate analysis indicated that age, smoking history, TNM stage and treatment method were independent prognostic factors for OS (pall < 0.05). Smoking history and treatment methods were independent prognostic factors for PFS and DMFS (pall < 0.05). PD-1 Ab may contribute less to tumors with better treatment outcomes from concurrent chemoradiotherapy.",
+      "objective": "",
+      "study_methods": "In total, 212 patients with locally advanced HNSCC who underwent radical surgery were stratified into three treatment groups: adjuvant radiotherapy alone, adjuvant chemoradiotherapy (CRT), and adjuvant chemoradiotherapy plus immunotherapy (PD-1 Ab). A comprehensive analysis was conducted to assess survival outcomes and prognostic factors across diverse patient cohorts.",
+      "methods": "In total, 212 patients with locally advanced HNSCC who underwent radical surgery were stratified into three treatment groups: adjuvant radiotherapy alone, adjuvant chemoradiotherapy (CRT), and adjuvant chemoradiotherapy plus immunotherapy (PD-1 Ab). A comprehensive analysis was conducted to assess survival outcomes and prognostic factors across diverse patient cohorts.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41758071/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41756707",
+      "title": "Vaginal Ulcers Secondary to Stage Iv Uterine Prolapse Treated With L-PRF.",
+      "authors": [
+        "Alberta Greco Lucchina",
+        "Enrico Rescigno",
+        "Canata Alessandra",
+        "Gianluca Nicolai",
+        "Antonio Scarano"
+      ],
+      "publication_date": "2026-Mar",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "Pelvic organs prolapse (POP) is usually used to describe the pelvic organs' descent into or through the vagina. The related common complications are bleeding, extrusion, vaginal discharge, pain, and constipation; only older women and those with comorbidities seem to be most prone to persist with their use. Surgery is preferred, instead, by younger active women with advanced prolapse symptoms. The uterus lowers and slides into the vagina. Treatment varies by stage and severity. The purpose of this article was to evaluate the efficacy of LPRP in the treatment ofuterine ulcers in an old 93 years' obese patient with UP stage IV non-surgically treatable. Obese 93-year-old woman with medical history of left hip replacement, bilateral knee replacement COPD with chronic pulmonary heart disease, renal failure, chronic heart failure, one hospitalization for acute heart failure, suffering from umbilical hernia, hypertension, hyperuricemia, polyhydric arthrosis, has had a complete uterine prolapse (grade IV) for 5 years. The patient has multiple vaginal ulcers as a consequence of urinary and fecal incontinence fluid in continuous contact with the occasionally inflamed everted vaginal mucosa. The ulcer area was infiltrated with L-PRF membranes and covered with PRF, which were sutured and protected with an inverted glove. The results of the present case report show the positive effect of L-PRF on the uterine ulcers that is a promising treatment for vaginal ulcers in case of prolapse. In conclusion, L-PRF has shown significant potential as an effective treatment for chronic non-healing uterine ulcers, offering advantages over conventional dressings in terms of efficacy, safety, and cost-effectiveness.",
+      "objective": "of this article was to evaluate the efficacy of LPRP in the treatment ofuterine ulcers in an old 93 years' obese patient with UP stage IV non-surgically treatable. Obese 93-year-old woman with medical history of left hip replacement, bilateral knee replacement COPD with chronic pulmonary heart disease, renal failure, chronic heart failure, one hospitalization for acute heart failure, suffering from umbilical hernia, hypertension, hyperuricemia, polyhydric arthrosis, has had a complete uterine prolapse (grade IV) for 5 years. The patient has multiple vaginal ulcers as a consequence of urinary and fecal incontinence fluid in continuous contact with the occasionally inflamed everted vaginal mucosa. The ulcer area was infiltrated with L-PRF membranes and covered with PRF, which were sutured and protected with an inverted glove. The",
+      "study_methods": "",
+      "methods": "",
+      "results": "of the present case report show the positive effect of L-PRF on the uterine ulcers that is a promising treatment for vaginal ulcers in case of prolapse. In",
+      "conclusion": ", L-PRF has shown significant potential as an effective treatment for chronic non-healing uterine ulcers, offering advantages over conventional dressings in terms of efficacy, safety, and cost-effectiveness.",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41756707/",
+      "pmcid": "PMC12932307",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12932307/bin/CCR3-14-e72098-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12932307/bin/CCR3-14-e72098-g001.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12932307/bin/CCR3-14-e72098-g006.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12932307/bin/CCR3-14-e72098-g006.gif"
+      ]
+    },
+    {
       "pmid": "41739891",
       "title": "Discussion: Demystifying Maxillomandibular Fibrous Dysplasia and Its Impact on Dental Development.",
       "authors": [
@@ -1316,37 +1379,6 @@
       "pmcid": "PMC12929697",
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929697/bin/JOCD-25-e70703-g001.jpg"
-      ]
-    },
-    {
-      "pmid": "41725916",
-      "title": "Over a Decade of Maxillofacial PEEK Patient-Specific Innovation: A Retrospective Review of the Evolution from In-House Craft to Virtual Design and Remote Manufacturing.",
-      "authors": [
-        "Nicholas J Lee",
-        "Gareth Honeybone",
-        "Mohammed Anabtawi",
-        "Mathew Thomas",
-        "Sachin M Salvi"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Maxillofacial skeletal reconstruction presents significant challenges due to anatomical complexity, functional requirements, and aesthetic demands. Traditional materials such as titanium and autogenous bone grafts have limitations, prompting interest in Polyetheretherketone (PEEK), a versatile thermoplastic polymer with advantages like biocompatibility, radiolucency, and elasticity similar to human bone. This multi-year case series evaluates the clinical outcomes of PEEK implants used in 56 cases on 53 patients for maxillofacial reconstruction, primarily for trauma (44 patients) and deformity (9 patients). PEEK implants were applied to various facial regions including the orbit, zygoma, mandible, and maxilla. The majority of surgeries utilised virtual surgical planning. Patient-specific implants were fabricated using 3D imaging technologies, allowing customisation for optimal fit and functionality. The mean patient age was 37 years with a split of 37 to 16 females. Some complications were noted such as infection and paraesthesia. However, the majority of patients experienced positive outcomes. The findings support PEEK implants as a safe, effective, and adaptable material for maxillofacial surgery, with potential for further advancements in material properties and surgical technologies to improve long-term outcomes.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41725916/",
-      "pmcid": "PMC12922131",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12922131/bin/cmtr-19-00008-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12922131/bin/cmtr-19-00008-g001.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12922131/bin/cmtr-19-00008-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12922131/bin/cmtr-19-00008-g002.gif"
       ]
     },
     {
@@ -2302,6 +2334,139 @@
       "figure_urls": []
     },
     {
+      "pmid": "41755378",
+      "title": "To do or not to do extraction in temporomandibular joint pain: a systematic review background and rationale.",
+      "authors": [
+        "Pratish Aggarwal",
+        "Bhushan Bhagat",
+        "Kadambari Ambildhok",
+        "Kalyani Bhate",
+        "Ritvi Desai",
+        "Shubhangi B Bhagat"
+      ],
+      "publication_date": "2026-Feb-28",
+      "publication_date_iso": "2026-02-28",
+      "abstract": "The effect of dental extraction on temporomandibular joint (TMJ) pain remains controversial in oral surgery practice and has important implications for treatment planning in patients with temporomandibular disorders (TMDs). This systematic review evaluated whether third molar or other dental extractions are associated with changes in TMJ pain or TMD symptoms compared with non-extraction or pre-extraction controls. A protocol-registered review was conducted in accordance with PRISMA 2020 guidelines. PubMed/MEDLINE, Cochrane Library, Scopus, Web of Science, ScienceDirect, Google Scholar, ClinicalTrials.gov, and Clinical Trials Registry-India were searched up to August 2025. Human studies enrolling patients with clinically diagnosed TMD and comparing extraction with non-extraction approaches were included. Primary outcomes were TMJ pain, function, and patient-reported quality of life. Risk of bias was assessed using RoB 2.0 and ROBINS-I/NOS, and random-effects meta-analysis with GRADE certainty assessment was performed when appropriate. Eight studies met inclusion criteria, of which six were included in quantitative synthesis. Dental extraction was associated with a significant reduction in TMJ pain or symptoms (pooled risk ratio/odds ratio=0.49; 95% confidence interval 0.31-0.66; P<0.00001; I2=34%) with low-to-moderate certainty of evidence. Dental extraction may reduce TMJ pain in selected patients; however, individualized clinical judgment and further high-quality randomized controlled trials are required.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41755378/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41748964",
+      "title": "Management of craniofacial fibrous dysplasia: conservative or radical approach?",
+      "authors": [
+        "Mariam Titinchi",
+        "Jean Morkel",
+        "Johan Opperman",
+        "Fadi Titinchi"
+      ],
+      "publication_date": "2026-Feb-27",
+      "publication_date_iso": "2026-02-27",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41748964/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41758077",
+      "title": "Referral Gaps and Risk Factors for Long-Term Headaches in Patients with Craniofacial Fractures.",
+      "authors": [
+        "Bashar A Hassan",
+        "Grishma Patel",
+        "Eric Resnick",
+        "Seray Er",
+        "Jeison De Guzman",
+        "Apanjit Sahi",
+        "Nawal Shams",
+        "Michael P Grant",
+        "Sashank K Reddy"
+      ],
+      "publication_date": "2026-Feb-26",
+      "publication_date_iso": "2026-02-26",
+      "abstract": "Post-traumatic headache (PTH) affects up to 80% of patients with mild-to-moderate traumatic brain injury (TBI), contributing to significant morbidity and healthcare burden. While early diagnosis and treatment can help prevent persistent headaches, neurology referral rates remain low. This study aims to (1) identify risk factors for PTH >1 year and (2) assess the frequency of neurology referrals in patients with craniofacial trauma. We retrospectively reviewed adult trauma patients who presented with frontal sinus, orbital, and mandibular fractures between (2018-2019). Our primary outcome was the frequency of persistent and new-onset PTH assessed >1 year of injury. Multivariable logistic regression was performed to identify risk factors for long-term PTH. Among 622 patients with craniofacial fractures, 166 (27%) presented with PTH, and 310 (50%) exhibited signs or symptoms related to TBI. Despite this, 248 (80%) of these patients were not referred to neurology/neurosurgery. Among 81 patients who were not referred and had follow-up >1 year, 10 (12%) reported persistent or new-onset PTH. Among 229 patients with follow-up >1 year, 9 (3.9%) developed new-onset migraines, and 34 (14.8%) experienced persistent or new-onset PTH. Significant risk factors for persistent or new-onset PTH >1 year included a history of pre-trauma headaches (aOR [95% CI] 5 [2-15], P=0.004) and abnormal head CT findings on presentation (aOR [95% CI] 4 [1-14], P=0.03). Patients with craniofacial fractures, particularly those with pre-trauma headaches and abnormal head CT findings on presentation, should be vigilantly monitored for PTH, and referred early to neurology to prevent long-term morbidity.",
+      "objective": "to (1) identify risk factors for PTH >1 year and (2) assess the frequency of neurology referrals in patients with craniofacial trauma. We retrospectively reviewed adult trauma patients who presented with frontal sinus, orbital, and mandibular fractures between (2018-2019). Our primary outcome was the frequency of persistent and new-onset PTH assessed >1 year of injury. Multivariable logistic regression was performed to identify risk factors for long-term PTH. Among 622 patients with craniofacial fractures, 166 (27%) presented with PTH, and 310 (50%) exhibited signs or symptoms related to TBI. Despite this, 248 (80%) of these patients were not referred to neurology/neurosurgery. Among 81 patients who were not referred and had follow-up >1 year, 10 (12%) reported persistent or new-onset PTH. Among 229 patients with follow-up >1 year, 9 (3.9%) developed new-onset migraines, and 34 (14.8%) experienced persistent or new-onset PTH. Significant risk factors for persistent or new-onset PTH >1 year included a history of pre-trauma headaches (aOR [95% CI] 5 [2-15], P=0.004) and abnormal head CT findings on presentation (aOR [95% CI] 4 [1-14], P=0.03). Patients with craniofacial fractures, particularly those with pre-trauma headaches and abnormal head CT findings on presentation, should be vigilantly monitored for PTH, and referred early to neurology to prevent long-term morbidity.",
+      "study_methods": "We retrospectively reviewed adult trauma patients who presented with frontal sinus, orbital, and mandibular fractures between (2018-2019). Our primary outcome was the frequency of persistent and new-onset PTH assessed >1 year of injury. Multivariable logistic regression was performed to identify risk factors for long-term PTH.",
+      "methods": "We retrospectively reviewed adult trauma patients who presented with frontal sinus, orbital, and mandibular fractures between (2018-2019). Our primary outcome was the frequency of persistent and new-onset PTH assessed >1 year of injury. Multivariable logistic regression was performed to identify risk factors for long-term PTH.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41758077/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41755480",
+      "title": "Advertising of orthodontic appliances on websites in the UK: Do they comply with advertising standards? A cross-sectional study.",
+      "authors": [
+        "Arunika Nehra",
+        "Adam Jones",
+        "Trevor Hodge"
+      ],
+      "publication_date": "2026-Feb-26",
+      "publication_date_iso": "2026-02-26",
+      "abstract": "To evaluate the compliance of websites promoting proprietary orthodontic appliances available in the UK against advertising standards outlined by the Advertising Standards Authority Committee of Advertising Practice (ASA CAP) Code. Cross-sectional study. Websites promoting proprietary orthodontic appliances available in the UK, including fixed, removable and aligner systems sold as a complete system under a brand name. A comprehensive, systematic approach was adopted, beginning with a 2020 scoping search on Google and social media platforms (Instagram and Facebook) to identify keywords. Keyword searches were conducted on Google in 2020, 2023 and 2025 to identify relevant websites. To ensure contemporary relevance, only websites identified in the final 2025 search were included for analysis. Raters underwent training and calibration before independently evaluating websites for compliance with advertising standards using bespoke judgement criteria derived from the ASA CAP Code, across four domains: comprehensiveness of treatment information; presentation of treatment information; objectivity of treatment information; and substantiation of claims. Discrepancies were resolved through group discussion to determine agreed scores. Data were analysed using descriptive and inferential statistics (Fleiss' kappa and Kruskal-Wallis tests). The 2025 search identified 970 websites, of which 39 met the inclusion criteria. Inter-rater reliability showed almost perfect agreement (kappa >0.9). Compliance varied significantly across domains: 45% of all claims provided comprehensive information, 54% had clear presentation, 38% maintained objectivity and only 4% of claims were substantiated with evidence. Nearly all websites (95%) omitted common risks and 92% failed to mention alternative treatments. Direct-to-consumer and tele-dentistry websites showed poorer compliance than dentist-delivered systems. Orthodontic appliance websites showed poor compliance with ASA CAP Code standards. The majority used descriptive language and words in place of numbers to quantify magnitude, alongside subjective content and unsubstantiated claims, with omissions of treatment risks. These findings raise significant concerns about online orthodontic advertising and its potential impact on informed patient decision-making.",
+      "objective": "",
+      "study_methods": "A comprehensive, systematic approach was adopted, beginning with a 2020 scoping search on Google and social media platforms (Instagram and Facebook) to identify keywords. Keyword searches were conducted on Google in 2020, 2023 and 2025 to identify relevant websites. To ensure contemporary relevance, only websites identified in the final 2025 search were included for analysis. Raters underwent training and calibration before independently evaluating websites for compliance with advertising standards using bespoke judgement criteria derived from the ASA CAP Code, across four domains: comprehensiveness of treatment information; presentation of treatment information; objectivity of treatment information; and substantiation of claims. Discrepancies were resolved through group discussion to determine agreed scores. Data were analysed using descriptive and inferential statistics (Fleiss' kappa and Kruskal-Wallis tests).",
+      "methods": "A comprehensive, systematic approach was adopted, beginning with a 2020 scoping search on Google and social media platforms (Instagram and Facebook) to identify keywords. Keyword searches were conducted on Google in 2020, 2023 and 2025 to identify relevant websites. To ensure contemporary relevance, only websites identified in the final 2025 search were included for analysis. Raters underwent training and calibration before independently evaluating websites for compliance with advertising standards using bespoke judgement criteria derived from the ASA CAP Code, across four domains: comprehensiveness of treatment information; presentation of treatment information; objectivity of treatment information; and substantiation of claims. Discrepancies were resolved through group discussion to determine agreed scores. Data were analysed using descriptive and inferential statistics (Fleiss' kappa and Kruskal-Wallis tests).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41755480/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41755451",
+      "title": "Spongiotic Gingival Hyperplasia Treated With an 808-nm High-Power Diode Laser: A Case Report and Literature Review.",
+      "authors": [
+        "José Alcides Almeida de Arruda",
+        "Gerhilde Callou Sampaio",
+        "Victor Zanetti Drumond",
+        "Lucas Guimarães Abreu",
+        "Bruno Augusto Benevenuto de Andrade",
+        "Ricardo Alves Mesquita"
+      ],
+      "publication_date": "2026-Feb-26",
+      "publication_date_iso": "2026-02-26",
+      "abstract": "Spongiotic gingival hyperplasia (SGH) is an uncommon benign, non-plaque-induced epithelial proliferation for which optimal management remains undefined. We describe the case of SGH treated by ablative therapy with a high-power diode laser and summarize previously reported laser-treated cases from the literature. An 11-year-old boy presented with a bright-red, granular enlargement of the marginal and attached gingiva adjacent to the mandibular left canine and first premolar. Electronic search was performed in PubMed/MEDLINE, Scopus, Embase, Web of Science, and LILACS to identify studies reporting laser management of SGH. The lesion was irradiated using an indium-gallium-arsenide diode laser (808 nm, continuous-wave mode, 1.5 W, 748 J, 499 s). Postoperative evaluation revealed excellent hemostasis, preservation of gingival contour, and complete clinical healing without recurrence at 4 months. Five articles comprising eight cases were retrieved. Reported modalities included CO2 and Nd:YAG lasers and photodynamic therapy with a diode laser. All achieved favorable outcomes, with complete or near-complete remission and no recurrence during 5-24 months of follow-up. This is the first documented case of SGH managed with high-power diode laser ablation, demonstrating both safety and favorable esthetic outcomes, thereby expanding current therapeutic perspectives for this condition.",
+      "objective": "",
+      "study_methods": "An 11-year-old boy presented with a bright-red, granular enlargement of the marginal and attached gingiva adjacent to the mandibular left canine and first premolar. Electronic search was performed in PubMed/MEDLINE, Scopus, Embase, Web of Science, and LILACS to identify studies reporting laser management of SGH.",
+      "methods": "An 11-year-old boy presented with a bright-red, granular enlargement of the marginal and attached gingiva adjacent to the mandibular left canine and first premolar. Electronic search was performed in PubMed/MEDLINE, Scopus, Embase, Web of Science, and LILACS to identify studies reporting laser management of SGH.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41755451/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41746418",
       "title": "Mapping the landscape of OSA research: a scientometric comparison between otolaryngology and stomatology contributions.",
       "authors": [
@@ -2375,8 +2540,13 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41741812/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC12935739",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935739/bin/784_2025_6674_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935739/bin/784_2025_6674_Tab1a_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935739/bin/784_2025_6674_Tab1b_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935739/bin/784_2025_6674_Tab1c_HTML.jpg"
+      ]
     },
     {
       "pmid": "41741798",
@@ -2401,10 +2571,10 @@
       ],
       "publication_date": "2026-Feb-26",
       "publication_date_iso": "2026-02-26",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
+      "abstract": "Sjögren disease (SjD) has a multifactorial pathogenesis that is not fully understood. Perceptions of disease severity shape healthcare-seeking behavior and engagement with diagnostic assessments, underscoring the need for objective biomarkers. Sialic acid-binding immunoglobulin-like lectins (siglecs) have emerged as relevant mediators in SjD immunopathology. To investigate the diagnostic performance of siglec-5 expression in minor salivary gland (MSG) tissue and saliva samples from individuals with SjD and non-Sjögren sicca (nSS). A total of 109 participants with SjD and 41 with nSS were included. Salivary concentrations of siglec-5/siglec-14, inflammatory markers (IL-6, IL-8, IFN-γ, IgA, IgG, nitric oxide [NO]), and neutrophil extracellular traps (NETs) were measured. Immunohistochemical analyses of siglec-5, CD20, and CD3 were performed on MSG specimens. The data were analyzed descriptively and analytically. Salivary levels of siglec-5/siglec-14, IgA, IgG, NO, and NETs were significantly higher in the SjD group compared to the nSS group. Elevated salivary levels of siglec-5/siglec-14, IL-6, and IgG were found among individuals with severe dryness scores. Immunohistochemical staining for siglec-5 was more pronounced in SjD samples and significantly associated with CD20 and CD3 positivity as well as the presence of xerophthalmia. Tissue infiltration by siglec-5 had greater diagnostic accuracy for SjD (area under the curve: 73.1% [95% confidence interval: 58.2–85]) than both salivary and ocular sicca tests. Siglec-5 expression was increased in individuals with SjD, supporting its involvement in disease pathogenesis as well as its potential usefulness as a biomarker. The availability of objective salivary and tissue markers may improve diagnostic pathways for SjD, thereby facilitating patient engagement. The online version contains supplementary material available at 10.1007/s00011-026-02188-8.",
+      "objective": "biomarkers. Sialic acid-binding immunoglobulin-like lectins (siglecs) have emerged as relevant mediators in SjD immunopathology. To investigate the diagnostic performance of siglec-5 expression in minor salivary gland (MSG) tissue and saliva samples from individuals with SjD and non-Sjögren sicca (nSS). A total of 109 participants with SjD and 41 with nSS were included. Salivary concentrations of siglec-5/siglec-14, inflammatory markers (IL-6, IL-8, IFN-γ, IgA, IgG, nitric oxide [NO]), and neutrophil extracellular traps (NETs) were measured. Immunohistochemical analyses of siglec-5, CD20, and CD3 were performed on MSG specimens. The data were analyzed descriptively and analytically. Salivary levels of siglec-5/siglec-14, IgA, IgG, NO, and NETs were significantly higher in the SjD group compared to the nSS group. Elevated salivary levels of siglec-5/siglec-14, IL-6, and IgG were found among individuals with severe dryness scores. Immunohistochemical staining for siglec-5 was more pronounced in SjD samples and significantly associated with CD20 and CD3 positivity as well as the presence of xerophthalmia. Tissue infiltration by siglec-5 had greater diagnostic accuracy for SjD (area under the curve: 73.1% [95% confidence interval: 58.2–85]) than both salivary and ocular sicca tests. Siglec-5 expression was increased in individuals with SjD, supporting its involvement in disease pathogenesis as well as its potential usefulness as a biomarker. The availability of objective salivary and tissue markers may improve diagnostic pathways for SjD, thereby facilitating patient engagement. The online version contains supplementary material available at 10.1007/s00011-026-02188-8.",
+      "study_methods": "A total of 109 participants with SjD and 41 with nSS were included. Salivary concentrations of siglec-5/siglec-14, inflammatory markers (IL-6, IL-8, IFN-γ, IgA, IgG, nitric oxide [NO]), and neutrophil extracellular traps (NETs) were measured. Immunohistochemical analyses of siglec-5, CD20, and CD3 were performed on MSG specimens. The data were analyzed descriptively and analytically.",
+      "methods": "A total of 109 participants with SjD and 41 with nSS were included. Salivary concentrations of siglec-5/siglec-14, inflammatory markers (IL-6, IL-8, IFN-γ, IgA, IgG, nitric oxide [NO]), and neutrophil extracellular traps (NETs) were measured. Immunohistochemical analyses of siglec-5, CD20, and CD3 were performed on MSG specimens. The data were analyzed descriptively and analytically.",
       "results": "",
       "conclusion": "",
       "limitations": "",
@@ -2412,6 +2582,61 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41741798/",
+      "pmcid": "PMC12935824",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935824/bin/11_2026_2188_Fig3_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935824/bin/11_2026_2188_Fig2_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935824/bin/11_2026_2188_Fig1_HTML.jpg"
+      ]
+    },
+    {
+      "pmid": "41747660",
+      "title": "Functional and psychosocial outcomes of simultaneous condylectomy and bimaxillary orthognathic surgery for unilateral condylar hyperplasia: Retrospective study.",
+      "authors": [
+        "Melis Haydarpasa-Yalcin",
+        "Canseda Avağ",
+        "Altan Varol"
+      ],
+      "publication_date": "2026-Feb-25",
+      "publication_date_iso": "2026-02-25",
+      "abstract": "Unilateral condylar hyperplasia (UCH) is a pathological growth disorder frequently associated with marked facial asymmetry. The objective of this study was to evaluate the functional and psychosocial outcomes of simultaneous high level or proportional condylectomy performed in conjunction with bimaxillary orthognathic surgery in individuals presenting with hemimandibular elongation or hyperplasia. Patient-reported outcomes were measured using the Orthognathic Quality of Life Questionnaire (OQLQ) and the Mandibular Function Impairment Questionnaire (MFIQ). Secondary outcomes included facial symmetry, aesthetic satisfaction, visibility of preauricular scars, limitation of mouth opening, temporomandibular joint (TMJ) pain and clicking, lower lip paresthesia (LLP), and facial nerve dysfunction. This retrospective analysis included 25 patients (19 females, 6 males; mean age 25.5 ± 5.41 years) who underwent simultaneous condylectomy (high level: n = 18; proportional: n = 2; with disc repositioning in 7 cases) and bimaxillary orthognathic surgery. Clinical and functional outcomes were assessed over a mean follow-up period of 3.5 ± 0.8 years. Statistically significant improvements were observed in both OQLQ and MFIQ scores following surgery (p < 0.001 for both). The majority of patients reported high satisfaction regarding facial symmetry and expressed minimal concern about preauricular scarring. TMJ pain and clicking, and LLP showed notable reduction or complete resolution. No major complications, including persistent facial paralysis, were encountered. Simultaneous condylectomy with bimaxillary orthognathic surgery demonstrates predictable and stable long-term outcomes in the management of unilateral condylar hyperplasia. This single stage approach effectively addresses both functional impairment and aesthetic concerns, eliminating the requirement for staged surgical procedures.",
+      "objective": "of this study was to evaluate the functional and psychosocial outcomes of simultaneous high level or proportional condylectomy performed in conjunction with bimaxillary orthognathic surgery in individuals presenting with hemimandibular elongation or hyperplasia. Patient-reported outcomes were measured using the Orthognathic Quality of Life Questionnaire (OQLQ) and the Mandibular Function Impairment Questionnaire (MFIQ). Secondary outcomes included facial symmetry, aesthetic satisfaction, visibility of preauricular scars, limitation of mouth opening, temporomandibular joint (TMJ) pain and clicking, lower lip paresthesia (LLP), and facial nerve dysfunction. This retrospective analysis included 25 patients (19 females, 6 males; mean age 25.5 ± 5.41 years) who underwent simultaneous condylectomy (high level: n = 18; proportional: n = 2; with disc repositioning in 7 cases) and bimaxillary orthognathic surgery. Clinical and functional outcomes were assessed over a mean follow-up period of 3.5 ± 0.8 years. Statistically significant improvements were observed in both OQLQ and MFIQ scores following surgery (p < 0.001 for both). The majority of patients reported high satisfaction regarding facial symmetry and expressed minimal concern about preauricular scarring. TMJ pain and clicking, and LLP showed notable reduction or complete resolution. No major complications, including persistent facial paralysis, were encountered. Simultaneous condylectomy with bimaxillary orthognathic surgery demonstrates predictable and stable long-term outcomes in the management of unilateral condylar hyperplasia. This single stage approach effectively addresses both functional impairment and aesthetic concerns, eliminating the requirement for staged surgical procedures.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41747660/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41747654",
+      "title": "Comparison of dentofacial changes after orthognathic surgery in adults with unilateral cleft lip and palate and isolated cleft palate.",
+      "authors": [
+        "Tiago Turri de Castro Ribeiro",
+        "Renata Carvalho Sathler",
+        "Adriano Porto Peixoto",
+        "Bhárbara Marinho Barcellos",
+        "Isabela Toledo Teixeira da Silveira",
+        "Renato Yassutaka Faria Yaedú"
+      ],
+      "publication_date": "2026-Feb-25",
+      "publication_date_iso": "2026-02-25",
+      "abstract": "The aim of this retrospective cohort study was to assess dentofacial changes in patients with unilateral cleft lip and palate (UCLP) and isolated cleft palate (ICP) who underwent bimaxillary orthognathic surgery (Le Fort I and bilateral sagittal split osteotomy) for Class III correction. Cephalometric measurements were obtained from lateral reconstructions derived from computed tomography scans taken one week preoperatively (T1) and six months postoperatively (T2). The experimental group (UCLP) showed greater maxillary vertical height, less sagittal projection of the subnasal point, and increased protrusion, thickness, and eversion of the lower lip compared to the control group (ICP) at both time points. The repeatability test demonstrated high reliability (intraclass correlation coefficient >0.90), and the study achieved 80% power with a minimum detectable difference of 4.0°. Statistically significant differences (p < 0.05) were observed between groups. While skeletal stability was not directly assessed, the measurements at T2 suggest that, at six months, there was soft tissue adaptation consistent with the surgical movements performed. Patients with UCLP exhibited greater skeletal and soft tissue changes than those with ICP following orthognathic surgery, highlighting the potential need for cleft-type-specific considerations during surgical planning.",
+      "objective": "of this retrospective cohort study was to assess dentofacial changes in patients with unilateral cleft lip and palate (UCLP) and isolated cleft palate (ICP) who underwent bimaxillary orthognathic surgery (Le Fort I and bilateral sagittal split osteotomy) for Class III correction. Cephalometric measurements were obtained from lateral reconstructions derived from computed tomography scans taken one week preoperatively (T1) and six months postoperatively (T2). The experimental group (UCLP) showed greater maxillary vertical height, less sagittal projection of the subnasal point, and increased protrusion, thickness, and eversion of the lower lip compared to the control group (ICP) at both time points. The repeatability test demonstrated high reliability (intraclass correlation coefficient >0.90), and the study achieved 80% power with a minimum detectable difference of 4.0°. Statistically significant differences (p < 0.05) were observed between groups. While skeletal stability was not directly assessed, the measurements at T2 suggest that, at six months, there was soft tissue adaptation consistent with the surgical movements performed. Patients with UCLP exhibited greater skeletal and soft tissue changes than those with ICP following orthognathic surgery, highlighting the potential need for cleft-type-specific considerations during surgical planning.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41747654/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2530,65 +2755,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41740298",
-      "title": "Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective comparative pilot study on artifact reduction.",
-      "authors": [
-        "Adib Al-Haj Husain",
-        "Sameena Sandhu",
-        "Maximilian Eberhard Hermann Wagner",
-        "Suen An Nynke Lie",
-        "Egon Burian",
-        "Daniel Zedler",
-        "Bernd Stadlinger",
-        "Peter Kessler",
-        "Harald Essig"
-      ],
-      "publication_date": "2026-Feb-24",
-      "publication_date_iso": "2026-02-24",
-      "abstract": "To assess, in a prospective pilot study, five magnetic resonance imaging (MRI) artifact reduction protocols (UTE, SEMAC, Dark Bone, DESS, and STIR) using a 15-channel dentomaxillofacial coil in trauma patients undergoing cranio-maxillofacial and oral reconstruction. Eighteen patients (15 M/3 F, 37.9 ± 17.5 years) underwent MRI within 48 h after surgery. Image quality, artifact extent, and visualization of peri-osteosynthesis tissues were qualitatively evaluated on a 5-point scale (5 = best, 1 = worst). Quantitative analysis assessed protocol-specific artifact-induced signal voids in relation to the dimensions of manufacturer-specific implants. Descriptive statistics and inter- and intra-observer reliability were evaluated using weighted kappa statistics. UTE and SEMAC consistently demonstrated highest image quality and minimal artifacts, accurately depicting peri-osteosynthesis tissues, with mean artifact deviations below 2 mm relative to ground-truth implant dimensions. STIR showed intermediate performance, providing robust fat suppression and soft-tissue contrast, whereas Dark Bone and DESS exhibited higher artifact prevalence and lower diagnostic confidence. Subgroup analysis confirmed these trends across fracture location and implant type. Inter- and intra-observer agreement ranged from substantial to perfect (κ = 0.71-1.0, p < 0.001). Modern MRI techniques like UTE and SEMAC with specialized coils improve postoperative imaging by balancing artifact suppression, image quality, and diagnostic confidence, potentially enhancing assessment of perioperative complications, reconstructive outcomes, and oncological follow-up in cranio-maxillofacial surgery.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41740298/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41736240",
-      "title": "Prevalence of Buccal Ridge Concavities Following Implant Placement With Contour Bone Augmentation: A Cross-Sectional Study.",
-      "authors": [
-        "Sophia E Vollath",
-        "Giorgina M Wiedmer",
-        "Clemens Raabe",
-        "Manrique Fonseca",
-        "Vivianne Chappuis",
-        "Maria B Asparuhova",
-        "Ningbo Zhao",
-        "Emilio Couso-Queiruga"
-      ],
-      "publication_date": "2026-Feb-24",
-      "publication_date_iso": "2026-02-24",
-      "abstract": "To evaluate the long-term prevalence of buccal ridge concavity (BRC) following implant placement with simultaneous contour bone augmentation (CBA). Adult patients with at least one single-tooth non-molar implant-supported prosthesis and no diagnosis of peri-implantitis were included in this exploratory cross-sectional study. Clinical, digital, and patient-reported outcomes measures (PROMs) were collected. Intra-oral scans were analyzed at multiple apico-coronal levels with dedicated software to assess the presence of BRC. A total of 186 patients (211 implants) were analyzed over a mean follow-up of 11.4 ± 1.4 years. BRC was observed in 100% of sites and patients, with a mean value of -0.83 ± 0.45 mm at the mucosal margin, -0.62 ± 0.39 mm at 3 mm apical, and -0.47 ± 0.32 mm at 5 mm apical. Multivariate analysis at 3 mm apical showed greater BRC in males (+0.165 mm, p = 0.003), premolar sites (+0.110 mm, p = 0.03), and when implants ≥ 12 mm were placed (+0.141 mm, p = 0.008). The greater the keratinized mucosa, the smaller the BRC, and the greater the crestal bone loss, the higher the BRC. PROMs indicated high satisfaction with esthetics, function, treatment expectations, tolerability of the overall procedure, and oral hygiene; OHIP-14 scores were low (2 ± 4). Implant placement with CBA does not fully restore alveolar ridge volume in non-molar sites, with all cases showing BRC, particularly at the most coronal aspect. However, patient-reported satisfaction remained high.",
-      "objective": "",
-      "study_methods": "Adult patients with at least one single-tooth non-molar implant-supported prosthesis and no diagnosis of peri-implantitis were included in this exploratory cross-sectional study. Clinical, digital, and patient-reported outcomes measures (PROMs) were collected. Intra-oral scans were analyzed at multiple apico-coronal levels with dedicated software to assess the presence of BRC.",
-      "methods": "Adult patients with at least one single-tooth non-molar implant-supported prosthesis and no diagnosis of peri-implantitis were included in this exploratory cross-sectional study. Clinical, digital, and patient-reported outcomes measures (PROMs) were collected. Intra-oral scans were analyzed at multiple apico-coronal levels with dedicated software to assess the presence of BRC.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41736240/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41735422",
       "title": "Principal component analysis of 3-dimensional facial soft-tissue morphology in three adult populations.",
       "authors": [
@@ -2610,69 +2776,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41735422/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41733774",
-      "title": "Caries imaging using T1 StarVIBE and PETRA sequences compared to normal dental work-up: a proof-of-concept study.",
-      "authors": [
-        "Gintare Burian",
-        "Jonas Stief",
-        "Tobias Greve",
-        "Ulrich Grosse",
-        "Adib Al-Haj Husain",
-        "Gustav Andreisek",
-        "Monika Probst",
-        "Egon Burian"
-      ],
-      "publication_date": "2026-Feb-24",
-      "publication_date_iso": "2026-02-24",
-      "abstract": "To compare caries detection using T1-based Free-breathing 3D Stack of Stars GRE (StarVIBE) and T1-weighted pointwise encoding time reduction with radial acquisition (PETRA) MRI sequences with the gold standard consisting of a combination of clinical evaluation and bitewing radiography. Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions. 80 teeth were analyzed. Among these, 10 showed caries during clinical assessments and bitewing imaging, all of which were also detected on MRI. Furthermore, 5 additional lesions were identified exclusively on MRI. Overall image quality and diagnostic confidence were significantly higher in PETRA than in StarVIBE (4.7 vs. 3.9, p = 0.006). The SI for caries lesions was significantly higher in the PETRA sequence (-0.5 a.u. ± 1.5 a.u. vs. -4.2 a.u. ± 4.0 a.u., p = 0.002). Caries lesion volume was also significantly larger in PETRA (18 mm3± 14.8 mm3) compared to StarVIBE (11 mm3± 14.8 mm3, p = 0.003). CONCLUSION : MRI identified all caries lesions that were detected both clinically and through bitewing imaging, along with additional lesions exclusive to MRI. The PETRA sequence outperformed StarVIBE in quantitative caries visualization.",
-      "objective": "",
-      "study_methods": "Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions.",
-      "methods": "Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions.",
-      "results": "",
-      "conclusion": "MRI identified all caries lesions that were detected both clinically and through bitewing imaging, along with additional lesions exclusive to MRI. The PETRA sequence outperformed StarVIBE in quantitative caries visualization.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41733774/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41733187",
-      "title": "Ameloblastoma Displays Primary Cilia Maintenance and CEP164 Overexpression.",
-      "authors": [
-        "R Miyazaki",
-        "H Kawasaki",
-        "H Kato",
-        "I Ohta",
-        "R Ishikawa",
-        "K Yoshimura",
-        "H Yamada",
-        "Y Sakai",
-        "H Suzuki",
-        "M Sugita",
-        "Y Watanabe",
-        "K Masumoto",
-        "K Shinmura"
-      ],
-      "publication_date": "2026-Feb-24",
-      "publication_date_iso": "2026-02-24",
-      "abstract": "Ameloblastoma (AB) is a benign yet locally aggressive odontogenic epithelial tumor, characterized by frequent recurrence and a potential for distant metastasis. The primary cilium (PC), a microtubule-based organelle that serves as a signaling hub for multiple oncogenic pathways, is typically reduced or absent in most human malignancies; however, its status in AB remains poorly defined. In this retrospective, tissue-based observational study, we investigated the presence of PC in 42 AB cases, encompassing all major histological subtypes, using immunohistochemistry, immunofluorescence, and ultrastructural techniques. As a comparator, 41 cases of oral squamous cell carcinoma (OSCC), a tumor originating from the same oral cavity region, were also analyzed. PC were consistently detected in all ABs but were absent in OSCCs. In ABs, the presence of PC was validated by multiple markers and imaging modalities. In conventional AB, the density of PC varies significantly among the histological patterns. Notably, the cilia frequently exhibited a polarized orientation in the peripheral columnar cells of the follicular subtype. PC were also present in recurrent and metastatic lesions, although their significance in disease progression remains uncertain. Elevated GLI1 mRNA expression, nuclear accumulation of GLI1, and elevated SHH mRNA and protein expression indicated the activation of the Hh signaling pathway in ABs. Transcriptomic screening of early ciliogenesis-related genes revealed selective upregulation of CEP164 in ABs but not in OSCCs or other PC-deficient carcinomas. CEP164 protein was significantly overexpressed and localized closely apposed to but only partially overlapped with γ-tubulin signals, consistent with its role at the distal appendages of the basal body. Functional analyses demonstrated that CEP164 overexpression promoted PC formation, whereas its knockdown suppressed ciliogenesis. These findings indicate that ABs uniquely preserve functional PC and implicate CEP164 as a key mediator of this phenotype, offering novel insights into AB biology and highlighting its potential as a diagnostic and therapeutic target.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41733187/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2757,35 +2860,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12923434/bin/10006_2026_1526_Fig1_HTML.gif",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12923434/bin/10006_2026_1526_Fig2_HTML.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12923434/bin/10006_2026_1526_Fig2_HTML.gif"
-      ]
-    },
-    {
-      "pmid": "41714441",
-      "title": "Virtual planning in orthognathic surgery among Swedish maxillofacial surgeons: a retrospective register-based cohort study.",
-      "authors": [
-        "Maria Spändbåge",
-        "Helena Stureson",
-        "Esmeralda Bäckström",
-        "Mats Sjöström"
-      ],
-      "publication_date": "2026-Feb-20",
-      "publication_date_iso": "2026-02-20",
-      "abstract": "The integration of virtual surgical planning (VSP) into orthognathic surgery has improved preoperative visualization, surgical precision, and patient-specific outcomes. However, limited information is available regarding the utilization of VSP in Swedish maxillofacial clinics. This study primarily aimed to provide statistical analysis and descriptive statistics on orthognathic surgical parameters in Sweden between 2017 and 2024 and focused on comparing utilization between VSP and conventional surgical planning (CSP). In this retrospective register-based cohort study, statistical analyses were carried out using anonymized data from 2 386 non-syndrome associated patients registered in the Swedish National Registry for Orthognathic Surgery during the years 2017 to 2024. The use of VSP among Swedish oral and maxillofacial surgeons significantly increased during the study period. A significant difference was found (p < 0.001) between VSP and CSP regarding surgery type, intraoperative blood loss for bimaxillary surgery, and surgery time for bimaxillary surgery. VSP is predominantly used in bimaxillary surgery, whereas CSP is more commonly used in single-jaw surgery. The findings of this study demonstrate a significant increase in the adoption of VSP among Swedish maxillofacial surgical units between 2017 and 2024, particularly in planning bimaxillary surgeries compared to single-jaw surgeries. In addition, VSP may reduce intraoperative bleeding and shorten surgery time in bimaxillary surgeries compared with CSP.",
-      "objective": "",
-      "study_methods": "In this retrospective register-based cohort study, statistical analyses were carried out using anonymized data from 2 386 non-syndrome associated patients registered in the Swedish National Registry for Orthognathic Surgery during the years 2017 to 2024.",
-      "methods": "In this retrospective register-based cohort study, statistical analyses were carried out using anonymized data from 2 386 non-syndrome associated patients registered in the Swedish National Registry for Orthognathic Surgery during the years 2017 to 2024.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41714441/",
-      "pmcid": "PMC12920412",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12920412/bin/10006_2026_1524_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12920412/bin/10006_2026_1524_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12920412/bin/10006_2026_1524_Fig3_HTML.jpg"
       ]
     }
   ]
