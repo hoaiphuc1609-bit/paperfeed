@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-28T03:59:29Z",
+  "updated_at": "2026-03-01T04:26:45Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -33,7 +33,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
       "pmcid": "PMC12943813",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
+      ]
     },
     {
       "pmid": "41582805",
@@ -60,7 +65,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41582805/",
       "pmcid": "PMC12851390",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.gif"
+      ]
     },
     {
       "pmid": "41563872",
@@ -112,7 +122,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41431197/",
       "pmcid": "PMC12777812",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0002_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0003_C.jpg"
+      ]
     },
     {
       "pmid": "41379645",
@@ -882,6 +896,32 @@
       ]
     },
     {
+      "pmid": "41547639",
+      "title": "Response to \"Explicit dynamics\".",
+      "authors": [
+        "Eduardo Santana Jacob",
+        "Luma Caroline Vendrame",
+        "Milena Gomes Melo Leite",
+        "Marcelo Silva Monnazzi",
+        "Eduardo Hochuli-Vieira"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41547639/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41544880",
       "title": "Combined antiresorptive and antiangiogenic therapy versus antiresorptive monotherapy: Impact on the surgical prognosis of MRONJ patients with advanced malignancies.",
       "authors": [
@@ -936,6 +976,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "41539873",
+      "title": "Artificial intelligence-assisted detection of soft tissue calcifications and ossifications in CBCT.",
+      "authors": [
+        "Lokman Cin",
+        "Rabia Duman Tepe",
+        "Erol Cansız",
+        "Ilknur Ozcan",
+        "Ibrahim Sevki Bayrakdar",
+        "Hulya Cakir Karabas"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "This study aimed to integrate soft tissue calcifications and ossifications (STCO) detected on cone beam computed tomography (CBCT) into an artificial intelligence (AI) system and assess its diagnostic accuracy in both single-class and multi-class classification. CBCT images from 287 patients were retrospectively reviewed. STCOs were identified in axial, coronal, and sagittal planes, with segmentation performed in the axial plane. The AI model was trained to detect arterial calcifications, phleboliths, tonsilloliths, styloid ligament ossification, osteoma cutis, antroliths, laryngeal cartilage calcifications, sialoliths, lymph node calcifications, and rhinoliths as well as a single combined class. Data were split into training (80%), testing (10%), and validation (10%) sets, and performance was evaluated using sensitivity, precision, and F1-score. In the single-class model, sensitivity, precision, and F1-score were 0.98, 0.91, and 0.94, respectively. In the multi-class model, these values were 0.88, 0.80, and 0.84. The AI system achieved high accuracy in detecting STCOs, with superior results in single-class classification. AI-assisted CBCT evaluation may improve diagnostic efficiency, facilitate multidisciplinary collaboration, and support clinical decision-making.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "in single-class classification. AI-assisted CBCT evaluation may improve diagnostic efficiency, facilitate multidisciplinary collaboration, and support clinical decision-making.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41539873/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41525838",
       "title": "Quantitative analysis of osseointegration of glass fiber-reinforced composite-bioactive glass cranial implants.",
       "authors": [
@@ -959,6 +1026,33 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41525838/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41478786",
+      "title": "Nodular mass on the gingiva.",
+      "authors": [
+        "Vindhya Savithri",
+        "Rakesh Suresh",
+        "Mahija Janardhanan",
+        "Ravi Veeraraghavan",
+        "Renju Jose",
+        "Thara Aravind"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41478786/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1016,6 +1110,63 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41411722/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41407647",
+      "title": "The effectiveness of virtual reality in relieving anxiety and pain for adult oral surgical procedures patients: a systematic review and meta-analysis.",
+      "authors": [
+        "Xu Liu",
+        "Haiyan Wang",
+        "Quantong Zhao",
+        "Ran Wang",
+        "Hongshi Cao"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "The objective of this systematic review and meta-analysis was to assess the effectiveness of virtual reality interventions in alleviating intraoperative pain and anxiety among adult patients undergoing oral surgical procedures. From the database's creation until Feb 2, 2025, a thorough search was carried out across 13 electronic databases. Anxiety and pain throughout the procedure were important outcomes. The combined impacts were assessed using a random-effects model, with subgroup analyses looking into possible contributing variables. The risk of bias was evaluated using the Cochrane Risk of Bias 2 method. A total of 9 articles were eventually included in the study selection. Results of the meta-analysis reveal a statistically significant effect of virtual reality in reducing intraoperative anxiety in adults undergoing oral surgery (SMD = -0.26, 95% CI: (-0.48, -0.03), P < .05). Statistically significant effect in reducing intraoperative pain in adult oral surgery (SMD= -0.67, 95% CI: (-1.08, -0.26), P < .01). This meta-analysis confirms the value of virtual reality in terms of oral surgery by distracting adult patients from intraoperative anxiety and pain. However, more high-quality, multicenter, and large-sample randomized controlled trials are needed to further assess its clinical value in the future.",
+      "objective": "of this systematic review and meta-analysis was to assess the effectiveness of virtual reality interventions in alleviating intraoperative pain and anxiety among adult patients undergoing oral surgical procedures. From the database's creation until Feb 2, 2025, a thorough search was carried out across 13 electronic databases. Anxiety and pain throughout the procedure were important outcomes. The combined impacts were assessed using a random-effects model, with subgroup analyses looking into possible contributing variables. The risk of bias was evaluated using the Cochrane Risk of Bias 2",
+      "study_methods": "",
+      "methods": "",
+      "results": "of the meta-analysis reveal a statistically significant effect of virtual reality in reducing intraoperative anxiety in adults undergoing oral surgery (SMD = -0.26, 95% CI: (-0.48, -0.03), P < .05). Statistically significant effect in reducing intraoperative pain in adult oral surgery (SMD= -0.67, 95% CI: (-1.08, -0.26), P < .01). This meta-analysis confirms the value of virtual reality in terms of oral surgery by distracting adult patients from intraoperative anxiety and pain. However, more high-quality, multicenter, and large-sample randomized controlled trials are needed to further assess its clinical value in the future.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41407647/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41198518",
+      "title": "Risk profile for recurrence after interdisciplinary treatment of odontogenic maxillary sinusitis: experience of a single centre.",
+      "authors": [
+        "Andreas Sakkas",
+        "Thomas Lins",
+        "Majeed Rana",
+        "Mario Scheurer",
+        "Marcel Ebeling",
+        "Alexander Schramm",
+        "Frank Wilde",
+        "Matthias Tisch",
+        "Alisa Schramm",
+        "Guido Mühlmeier"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Odontogenic maxillary sinusitis remains a clinical challenge with incompletely understood recurrence patterns. This study aimed to determine the incidence of recurrence and identify associated risk factors following interdisciplinary surgical treatment involving oral and maxillofacial surgery and otorhinolaryngology. A retrospective cohort of 203 patients treated for OMS over a 10-year period was analyzed. Data included demographic, clinical, radiological, and procedural variables. The primary outcome was OMS recurrence within 12 months after initial surgery. Univariable and multivariable analyses assessed associations between recurrence and defined risk factors. Among 203 patients (mean age 53.7 ± 18.4 years), the most common etiology was odontogenic cysts (44.3%). OMS recurrence occurred in 15.7% (n = 32) of cases. No significant association was found between recurrence and patient-specific factors (age, smoking, antiresorptive therapy, chemotherapy, sinusitis symptoms), anatomical variables (nasal septum deviation, congested maxillary sinus natural ostium), or procedural aspects (surgical removal of the intraoral cause with or without simultaneous FESS, surgical access route, multilayer soft tissue closure) (P > .05). Despite a moderate recurrence rate, no significant patient-specific, anatomical, or procedure-specific predictors of recurrence were identified. These findings emphasize the importance of individualized treatment planning and interdisciplinary management. Prospective studies are needed to validate risk stratification tools for recurrence prevention in high-risk OMS patients.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41198518/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1231,6 +1382,72 @@
       "figure_urls": []
     },
     {
+      "pmid": "41760253",
+      "title": "Expression of YME1 Like 1 ATPase Increases With the Stage of Adrenocortical Carcinoma Tissue and Is Associated With Poor Patient Prognosis.",
+      "authors": [
+        "Shin-Nosuke Yamashita",
+        "Yoshiatsu Tanaka",
+        "Shajedul Islam",
+        "Takao Kitagawa",
+        "Kazuhiro Tokuda",
+        "Durga Paudel",
+        "Sarita Giri",
+        "Tohru Ohta",
+        "Fumiya Harada",
+        "Hiroki Nagayasu",
+        "Yasuhiro Kuramitsu"
+      ],
+      "publication_date": "2026-Mar",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "Adrenocortical carcinoma (ACC) is an endocrine tumor arising in the adrenal cortex. Although its incidence is extremely low, it is highly malignant, rapidly proliferating, and infiltrating surrounding organs, resulting in a poor prognosis. YME1 Like 1 ATPase (YME1L1) is an ATP-dependent metalloprotease that regulates mitochondrial proteostasis. Recently, a correlation between YME1L1 expression and the prognosis of several cancers has been reported. However, no studies have examined the expression level of YME1L1 mRNA in ACC tissues or the relationship between YME1L1 expression and the prognosis of ACC patients. Therefore, there is a need to investigate the relationship between YME1L1 expression and the prognosis of ACC patients. YME1L1 mRNA expression and survival in ACC patients were analyzed using the TCGA database with the UALCAN and GEPIA platforms. YME1L1 mRNA expression was significantly increased in ACC tissues from stage IV patients compared with stage I, II, and III patients (p<0.0005, p<0.05, and p<0.05, respectively). Furthermore, increased YME1L1 mRNA expression was inversely correlated with survival and disease-free interval in ACC patients (p<0.01). YME1L1 is highly expressed in ACC tissues and inversely correlated with patient prognosis, suggesting its potential as a prognostic biomarker for ACC patients and providing new insights into its role in tumor biology. Further studies are needed to elucidate its therapeutic significance and mechanistic contribution to the malignant progression of ACC.",
+      "objective": "",
+      "study_methods": "YME1L1 mRNA expression and survival in ACC patients were analyzed using the TCGA database with the UALCAN and GEPIA platforms.",
+      "methods": "YME1L1 mRNA expression and survival in ACC patients were analyzed using the TCGA database with the UALCAN and GEPIA platforms.",
+      "results": "ing in a poor prognosis. YME1 Like 1 ATPase (YME1L1) is an ATP-dependent metalloprotease that regulates mitochondrial proteostasis. Recently, a correlation between YME1L1 expression and the prognosis of several cancers has been reported. However, no studies have examined the expression level of YME1L1 mRNA in ACC tissues or the relationship between YME1L1 expression and the prognosis of ACC patients. Therefore, there is a need to investigate the relationship between YME1L1 expression and the prognosis of ACC patients. YME1L1 mRNA expression and survival in ACC patients were analyzed using the TCGA database with the UALCAN and GEPIA platforms. YME1L1 mRNA expression was significantly increased in ACC tissues from stage IV patients compared with stage I, II, and III patients (p<0.0005, p<0.05, and p<0.05, respectively). Furthermore, increased YME1L1 mRNA expression was inversely correlated with survival and disease-free interval in ACC patients (p<0.01). YME1L1 is highly expressed in ACC tissues and inversely correlated with patient prognosis, suggesting its potential as a prognostic biomarker for ACC patients and providing new insights into its role in tumor biology. Further studies are needed to elucidate its therapeutic significance and mechanistic contribution to the malignant progression of ACC.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41760253/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41760232",
+      "title": "FAS/FAS-ligand Apoptotic Complex Deregulation in Laryngeal Squamous Cell Carcinomas.",
+      "authors": [
+        "Michail Athanasopoulos",
+        "Vasileios Papanikolaou",
+        "Dimitrios Roukas",
+        "Aristeidis Chrysovergis",
+        "Georgios Papanastasiou",
+        "Maria Adamopoulou",
+        "Ioanna E Metaxas",
+        "Evangelos Tsiambas",
+        "Georgios Tsouvelas",
+        "Nicholas Mastronikolis",
+        "Eythimios Kyrodimos",
+        "Nikolaos Kavantzas",
+        "Georgios Agrogiannis"
+      ],
+      "publication_date": "2026-Mar",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "FAS/FAS-ligand (FAS-L) complex is implicated in critical cell functions including programmed cell death (apoptosis) and immune response regulation. FAS and FAS-ligand are members of the tumor necrosis factor (TNF) superfamily. Their activation triggers the caspase-mediated apoptotic cataract. The aim of this study was to investigate the role of their altered co-expression in a series of laryngeal squamous cell carcinomas (LSCCs). A set of fifty (n=50) LSCC archival tissue sections was analyzed by performing a combination of immunohistochemistry (IHC) and digital image analysis (DIA) assays for determining the expression of FAS/FAS-L expression. A broad spectrum of FAS/FAS-L expression values were detected across the examined cases. A significant negative correlation was found between FAS and FAS-L overall expression (p<0.001) indicating that higher FAS expression is associated with lower FAS-L expression. Furthermore, the expression of FAS was highest in stage IV carcinomas, whereas FAS-L was higher in stage III tumors, however, the differences were not statistically significant (p=0.260, p=0.101, respectively). Concerning the size of the examined malignancies (max diameter), the FAS/FAS-L expression showed a statistically significant difference in both (p=0.001, p=0.011, respectively). According to their expression status, larger tumors tend to demonstrate higher levels of FAS protein, whereas smaller tumors exhibit overexpression of FAS-L. FAS/FAS-L apoptotic system deregulation is a relatively frequent event in LSCCs. Dysregulation of the system - due to altered FAS and FAS-L co-expression levels - negatively affects the normal apoptotic mechanism. Additionally, this abnormality is clearly observed in aggressive phenotypes (advanced stage, enlarged tumor volume).",
+      "objective": "of this study was to investigate the role of their altered co-expression in a series of laryngeal squamous cell carcinomas (LSCCs). A set of fifty (n=50) LSCC archival tissue sections was analyzed by performing a combination of immunohistochemistry (IHC) and digital image analysis (DIA) assays for determining the expression of FAS/FAS-L expression. A broad spectrum of FAS/FAS-L expression values were detected across the examined cases. A significant negative correlation was found between FAS and FAS-L overall expression (p<0.001) indicating that higher FAS expression is associated with lower FAS-L expression. Furthermore, the expression of FAS was highest in stage IV carcinomas, whereas FAS-L was higher in stage III tumors, however, the differences were not statistically significant (p=0.260, p=0.101, respectively). Concerning the size of the examined malignancies (max diameter), the FAS/FAS-L expression showed a statistically significant difference in both (p=0.001, p=0.011, respectively). According to their expression status, larger tumors tend to demonstrate higher levels of FAS protein, whereas smaller tumors exhibit overexpression of FAS-L. FAS/FAS-L apoptotic system deregulation is a relatively frequent event in LSCCs. Dysregulation of the system - due to altered FAS and FAS-L co-expression levels - negatively affects the normal apoptotic mechanism. Additionally, this abnormality is clearly observed in aggressive phenotypes (advanced stage, enlarged tumor volume).",
+      "study_methods": "A set of fifty (n=50) LSCC archival tissue sections was analyzed by performing a combination of immunohistochemistry (IHC) and digital image analysis (DIA) assays for determining the expression of FAS/FAS-L expression.",
+      "methods": "A set of fifty (n=50) LSCC archival tissue sections was analyzed by performing a combination of immunohistochemistry (IHC) and digital image analysis (DIA) assays for determining the expression of FAS/FAS-L expression.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41760232/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41758071",
       "title": "Postoperative Adjuvant Chemoradiotherapy ± PD-1 Inhibitor for Locally Advanced Head and Neck Squamous Cell Carcinoma.",
       "authors": [
@@ -1263,122 +1480,12 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41758071/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41756707",
-      "title": "Vaginal Ulcers Secondary to Stage Iv Uterine Prolapse Treated With L-PRF.",
-      "authors": [
-        "Alberta Greco Lucchina",
-        "Enrico Rescigno",
-        "Canata Alessandra",
-        "Gianluca Nicolai",
-        "Antonio Scarano"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Pelvic organs prolapse (POP) is usually used to describe the pelvic organs' descent into or through the vagina. The related common complications are bleeding, extrusion, vaginal discharge, pain, and constipation; only older women and those with comorbidities seem to be most prone to persist with their use. Surgery is preferred, instead, by younger active women with advanced prolapse symptoms. The uterus lowers and slides into the vagina. Treatment varies by stage and severity. The purpose of this article was to evaluate the efficacy of LPRP in the treatment ofuterine ulcers in an old 93 years' obese patient with UP stage IV non-surgically treatable. Obese 93-year-old woman with medical history of left hip replacement, bilateral knee replacement COPD with chronic pulmonary heart disease, renal failure, chronic heart failure, one hospitalization for acute heart failure, suffering from umbilical hernia, hypertension, hyperuricemia, polyhydric arthrosis, has had a complete uterine prolapse (grade IV) for 5 years. The patient has multiple vaginal ulcers as a consequence of urinary and fecal incontinence fluid in continuous contact with the occasionally inflamed everted vaginal mucosa. The ulcer area was infiltrated with L-PRF membranes and covered with PRF, which were sutured and protected with an inverted glove. The results of the present case report show the positive effect of L-PRF on the uterine ulcers that is a promising treatment for vaginal ulcers in case of prolapse. In conclusion, L-PRF has shown significant potential as an effective treatment for chronic non-healing uterine ulcers, offering advantages over conventional dressings in terms of efficacy, safety, and cost-effectiveness.",
-      "objective": "of this article was to evaluate the efficacy of LPRP in the treatment ofuterine ulcers in an old 93 years' obese patient with UP stage IV non-surgically treatable. Obese 93-year-old woman with medical history of left hip replacement, bilateral knee replacement COPD with chronic pulmonary heart disease, renal failure, chronic heart failure, one hospitalization for acute heart failure, suffering from umbilical hernia, hypertension, hyperuricemia, polyhydric arthrosis, has had a complete uterine prolapse (grade IV) for 5 years. The patient has multiple vaginal ulcers as a consequence of urinary and fecal incontinence fluid in continuous contact with the occasionally inflamed everted vaginal mucosa. The ulcer area was infiltrated with L-PRF membranes and covered with PRF, which were sutured and protected with an inverted glove. The",
-      "study_methods": "",
-      "methods": "",
-      "results": "of the present case report show the positive effect of L-PRF on the uterine ulcers that is a promising treatment for vaginal ulcers in case of prolapse. In",
-      "conclusion": ", L-PRF has shown significant potential as an effective treatment for chronic non-healing uterine ulcers, offering advantages over conventional dressings in terms of efficacy, safety, and cost-effectiveness.",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41756707/",
-      "pmcid": "PMC12932307",
+      "pmcid": "PMC12947766",
       "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12932307/bin/CCR3-14-e72098-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12932307/bin/CCR3-14-e72098-g001.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12932307/bin/CCR3-14-e72098-g006.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12932307/bin/CCR3-14-e72098-g006.gif"
-      ]
-    },
-    {
-      "pmid": "41739891",
-      "title": "Discussion: Demystifying Maxillomandibular Fibrous Dysplasia and Its Impact on Dental Development.",
-      "authors": [
-        "Daniella M Cordero",
-        "Andrea Burke",
-        "Srinivas M Susarla"
-      ],
-      "publication_date": "2026-Mar-01",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41739891/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41732418",
-      "title": "The emerging role of machine learning-based methods in cancer classification using microRNA.",
-      "authors": [
-        "Zeinab Tariri",
-        "Mehdi Goodarzi",
-        "Atieh Nouralishahi",
-        "Malihe Sagheb Ray Shirazi",
-        "Meysam Mohammadikhah",
-        "Azita Sadeghzade",
-        "Hossein Gandomkar",
-        "Ehsan Maghrebi-Ghojogh"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Early detection and accurate classification of cancer are crucial to improving patient outcomes. Diagnosis and classification of tumors using conventional methods remains challenging. MicroRNAs (miRNAs) are potential biomarkers for accurate tumor classification and differentiation of tumor subtypes. In cancer progression, miRNAs act as oncogenes or tumor suppressors to regulate gene expression. As a result of their stability in bodily fluids such as blood, urine, and saliva, they are ideal for non-invasive diagnostic procedures. Machine learning (ML) models can identify discriminative miRNAs for various cancers, such as breast, lung, colorectal, and kidney cancers. The integration of ML with miRNA data has demonstrated significant potential for differentiating cancerous tissues from normal tissues and identifying clinically relevant biomarkers. For instance, techniques such as feature engineering and selection, including recursive ensemble selection and miRNA-mRNA network analysis, have been shown to enhance both model accuracy and interpretability. Methods based on Random Forest (RF) and Support Vector Machines (SVM) have successfully classified breast cancer subtypes, and miRNA signatures from fecal samples have been highly effective in diagnosing colorectal cancer. Furthermore, deep learning and neuro-fuzzy systems support kidney cancer analysis, highlighting miRNA-driven ML's role in cancer diagnostics and personalized treatment. This review illustrates the transformative potential of miRNA-driven ML models for advancing cancer diagnostics and enabling personalized treatment strategies.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "of their stability in bodily fluids such as blood, urine, and saliva, they are ideal for non-invasive diagnostic procedures. Machine learning (ML) models can identify discriminative miRNAs for various cancers, such as breast, lung, colorectal, and kidney cancers. The integration of ML with miRNA data has demonstrated significant potential for differentiating cancerous tissues from normal tissues and identifying clinically relevant biomarkers. For instance, techniques such as feature engineering and selection, including recursive ensemble selection and miRNA-mRNA network analysis, have been shown to enhance both model accuracy and interpretability. Methods based on Random Forest (RF) and Support Vector Machines (SVM) have successfully classified breast cancer subtypes, and miRNA signatures from fecal samples have been highly effective in diagnosing colorectal cancer. Furthermore, deep learning and neuro-fuzzy systems support kidney cancer analysis, highlighting miRNA-driven ML's role in cancer diagnostics and personalized treatment. This review illustrates the transformative potential of miRNA-driven ML models for advancing cancer diagnostics and enabling personalized treatment strategies.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41732418/",
-      "pmcid": "PMC12925464",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12925464/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12925464/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12925464/bin/gr3.jpg"
-      ]
-    },
-    {
-      "pmid": "41731334",
-      "title": "The Bullhorn and Beyond: Evidence-Based Review and Clinical Recommendations for Lip Lift Techniques.",
-      "authors": [
-        "Oskar Komisarek",
-        "Łukasz Banasiak",
-        "Vanessa Olichwer",
-        "Paweł Burduk"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "The upper lip plays a central role in facial harmony and youthful appearance. Aging-related changes include elongation of the philtrum, thinning of the vermilion, and reduced maxillary incisor show. Surgical lip lift shortens the cutaneous upper lip and enhances vermilion exposure, yet patient selection and outcome assessment remain non-standardized. To critically evaluate current evidence on surgical lip lift techniques, including the classical subnasal bullhorn approach and its modifications, and to provide evidence-based recommendations for anatomy-driven technique selection. A PRISMA 2020-compliant systematic review was conducted, with protocol registration in PROSPERO. Studies included adult patients (≥ 18 years) undergoing lip lift for aesthetic or aesthetic-functional indications. Prospective and retrospective clinical studies and case series (≥ 5 patients) published between 2017 and 2025 were identified through database searches. Data extraction focused on surgical technique, morphometric outcomes, patient satisfaction, and complications. Meta-analysis was not feasible due to heterogeneity. Methodological quality was assessed using the MINORS instrument and JBI checklists. Seven studies comprising 1754 patients were included. Subnasal bullhorn techniques and their modifications reduced philtral length from 14.0-14.5 mm to 10.8-12.0 mm, increased vermilion height from 5.0-6.0 mm to 7.0-9.0 mm, and improved maxillary incisor show from 1.5-2.0 mm to 3.5-5.0 mm. Patient satisfaction was high (mean GAIS score 4.4/5). Complications were predominantly mild and transient, with revision rates of 0.6%-6.7%. Overall study quality was moderate. Surgical lip lift is a safe and effective procedure for restoring upper-lip proportions. Technique selection should be individualized, and further prospective studies with standardized outcome measures are needed. CRD420251232005.",
-      "objective": "",
-      "study_methods": "A PRISMA 2020-compliant systematic review was conducted, with protocol registration in PROSPERO. Studies included adult patients (≥ 18 years) undergoing lip lift for aesthetic or aesthetic-functional indications. Prospective and retrospective clinical studies and case series (≥ 5 patients) published between 2017 and 2025 were identified through database searches. Data extraction focused on surgical technique, morphometric outcomes, patient satisfaction, and complications. Meta-analysis was not feasible due to heterogeneity. Methodological quality was assessed using the MINORS instrument and JBI checklists.",
-      "methods": "A PRISMA 2020-compliant systematic review was conducted, with protocol registration in PROSPERO. Studies included adult patients (≥ 18 years) undergoing lip lift for aesthetic or aesthetic-functional indications. Prospective and retrospective clinical studies and case series (≥ 5 patients) published between 2017 and 2025 were identified through database searches. Data extraction focused on surgical technique, morphometric outcomes, patient satisfaction, and complications. Meta-analysis was not feasible due to heterogeneity. Methodological quality was assessed using the MINORS instrument and JBI checklists.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41731334/",
-      "pmcid": "PMC12929697",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929697/bin/JOCD-25-e70703-g001.jpg"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12947766/bin/CNR2-9-e70488-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12947766/bin/CNR2-9-e70488-g001.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12947766/bin/CNR2-9-e70488-g002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12947766/bin/CNR2-9-e70488-g002.gif"
       ]
     },
     {
@@ -1927,6 +2034,80 @@
       ]
     },
     {
+      "pmid": "41273741",
+      "title": "Clinical study on hemorrhagic complications in antiplatelet and anticoagulated patients undergoing dental treatment.",
+      "authors": [
+        "C López-Carriches",
+        "R Taheri",
+        "C Madrigal-Martínez-Pereda"
+      ],
+      "publication_date": "2026-Mar-01",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "Patients undergoing treatment with antiplatelet or anticoagulant drugs are attending dental consultations. Therefore, it has become essential to evaluate the patient before treatment and to conduct a thorough medical history. The goal of this study is to analyze the patients attending a dental clinic over a period of 6 months to determine how many are taking antiplatelet or anticoagulant medications, what dental treatment they seek, what hemostatic measures are taken, and whether they suffer hemorrhagic complications as a result of the treatment. This will help to prevent such complications by applying appropriate protocols, especially in the field of oral surgery. Over a six-month period, 867 patients attended a dental clinic in Madrid. Of these, 43 were taking antiplatelet agents or anticoagulants. A descriptive statistical analysis was conducted to gather data on age, gender, medication, dental treatment received, and hemorrhagic complications. Only 4.9% of the patients attending the dental clinic were taking antiplatelet or anticoagulant medications. Specifically, 53.48% were taking antiplatelet agents, 34.8% were taking direct oral anticoagulants, and 11.62% were on vitamin K antagonist anticoagulants. After applying the appropriate clinical protocol in each case, only one patient experienced postoperative bleeding, which was not severe. Based on the results, it may not be necessary to withdraw antiplatelet or anticoagulant therapy due to the low incidence and non-severity of complications in simple dental procedures.",
+      "objective": "",
+      "study_methods": "Over a six-month period, 867 patients attended a dental clinic in Madrid. Of these, 43 were taking antiplatelet agents or anticoagulants. A descriptive statistical analysis was conducted to gather data on age, gender, medication, dental treatment received, and hemorrhagic complications.",
+      "methods": "Over a six-month period, 867 patients attended a dental clinic in Madrid. Of these, 43 were taking antiplatelet agents or anticoagulants. A descriptive statistical analysis was conducted to gather data on age, gender, medication, dental treatment received, and hemorrhagic complications.",
+      "results": "of the treatment. This will help to prevent such complications by applying appropriate protocols, especially in the field of oral surgery. Over a six-month period, 867 patients attended a dental clinic in Madrid. Of these, 43 were taking antiplatelet agents or anticoagulants. A descriptive statistical analysis was conducted to gather data on age, gender, medication, dental treatment received, and hemorrhagic complications. Only 4.9% of the patients attending the dental clinic were taking antiplatelet or anticoagulant medications. Specifically, 53.48% were taking antiplatelet agents, 34.8% were taking direct oral anticoagulants, and 11.62% were on vitamin K antagonist anticoagulants. After applying the appropriate clinical protocol in each case, only one patient experienced postoperative bleeding, which was not severe. Based on the results, it may not be necessary to withdraw antiplatelet or anticoagulant therapy due to the low incidence and non-severity of complications in simple dental procedures.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41273741/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41273737",
+      "title": "Comparison of the superimposition accuracy in the integration of different digital dental models into the cone-beam computed tomography: An ex vivo study.",
+      "authors": [
+        "D-A-A Marlière",
+        "M-J Calori",
+        "L Asprino"
+      ],
+      "publication_date": "2026-Mar-01",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "Accurate virtual planning for orthognathic surgery and dental implants requires integrating cone-beam computed tomography (CBCT) images into digital dental models, but the impact of different scanning methods on the superimposition accuracy remains unclear. The aim of this study was to compare the superimposition accuracy of dental models obtained from two scanning methods using CBCT scans of dental surfaces. The maxilla (MX) and mandible (MD) of 4 dry skulls were scanned using CBCT and converted into 3D meshes. Dental arches were obtained using intraoral devices (IS) and by digitizing plaster models using an extraoral scanner (PM). Sixty-four digital models were produced per group. Each 3D mesh and corresponding model were imported into the Geomagic software for alignment and deviation analysis. Registration errors and mean deviations (MD+ and MD-) were assessed quantitatively, and the qualitative evaluation was performed through color maps. Deviations ranged from -0.4 to 0.3mm in both groups, with 80% of the values distributed between -0.5 and 0.5mm. In both groups, Registration error, MD+ and 3D Error were below 0.5mm, and MD- was higher than -0.5mm. Statistically significant differences were found between IS and PM models for MD+, as well as for registration error and MD+ in mandibular comparisons. Superimpositions were not affected by the model acquisition method, and both were clinically acceptable. However, PM superimpositions showed greater deviation magnitudes, suggesting an inclination for IS to produce more accurate alignments, especially in the mandible.",
+      "objective": "of this study was to compare the superimposition accuracy of dental models obtained from two scanning",
+      "study_methods": "The maxilla (MX) and mandible (MD) of 4 dry skulls were scanned using CBCT and converted into 3D meshes. Dental arches were obtained using intraoral devices (IS) and by digitizing plaster models using an extraoral scanner (PM). Sixty-four digital models were produced per group. Each 3D mesh and corresponding model were imported into the Geomagic software for alignment and deviation analysis. Registration errors and mean deviations (MD+ and MD-) were assessed quantitatively, and the qualitative evaluation was performed through color maps.",
+      "methods": "The maxilla (MX) and mandible (MD) of 4 dry skulls were scanned using CBCT and converted into 3D meshes. Dental arches were obtained using intraoral devices (IS) and by digitizing plaster models using an extraoral scanner (PM). Sixty-four digital models were produced per group. Each 3D mesh and corresponding model were imported into the Geomagic software for alignment and deviation analysis. Registration errors and mean deviations (MD+ and MD-) were assessed quantitatively, and the qualitative evaluation was performed through color maps.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41273737/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41273734",
+      "title": "Somatic and psychiatric aspects of complications outside the surgical area in orthognathic surgery: A retrospective study of 429 patients.",
+      "authors": [
+        "S Kettunen",
+        "E Metsäranta",
+        "O Lappalainen",
+        "J Furuholm",
+        "J Snäll"
+      ],
+      "publication_date": "2026-Mar-01",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "We explored postoperative non-surgical site complications in orthognathic surgery (OS) and investigated associations between outcome and patient- and surgery-related variables. This single-centre (Department of Oral and Maxillofacial Diseases, Helsinki University Hospital, Helsinki, Finland) retrospective study included patients ≥18 years undergoing OS between January 2016 and December 2022. Data were manually reviewed from the hospital database. Associations with the outcome were analysed using SPSS software (IBM Corporation, 28.0.0.0). Of 429 patients, 16 (3.7%) had a non-surgical site complication, and a total of 19 complications were recognized. A potentially life-threatening somatic complication occurred in 0.7% of patients. The most common complication was severe psychiatric morbidity, constituting 37% of all recognized complications. In the univariate and multivariable regression model, preoperative long-term disease (aOR 4.729; 95% CI 1.510-14.812; p=.008) and alcohol/substance abuse (p=.027) predicted the outcome independently. No other evaluated variables were associated with the outcome. The results suggest that severe general complications are rare and are associated with patients' long-term diseases. Severe psychiatric complications comprised a significant proportion of all recognized complications. Attention should be paid to patients' somatic and psychiatric status at all stages of treatment.",
+      "objective": "",
+      "study_methods": "This single-centre (Department of Oral and Maxillofacial Diseases, Helsinki University Hospital, Helsinki, Finland) retrospective study included patients ≥18 years undergoing OS between January 2016 and December 2022. Data were manually reviewed from the hospital database. Associations with the outcome were analysed using SPSS software (IBM Corporation, 28.0.0.0).",
+      "methods": "This single-centre (Department of Oral and Maxillofacial Diseases, Helsinki University Hospital, Helsinki, Finland) retrospective study included patients ≥18 years undergoing OS between January 2016 and December 2022. Data were manually reviewed from the hospital database. Associations with the outcome were analysed using SPSS software (IBM Corporation, 28.0.0.0).",
+      "results": "suggest that severe general complications are rare and are associated with patients' long-term diseases. Severe psychiatric complications comprised a significant proportion of all recognized complications. Attention should be paid to patients' somatic and psychiatric status at all stages of treatment.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41273734/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41220101",
       "title": "Mandibular Fracture in a 3-Month-Old Infant: Conservative Management and Diagnostic Considerations.",
       "authors": [
@@ -2012,6 +2193,58 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41124919/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41108777",
+      "title": "Multimodal physiotherapeutic management of postoperative complications in orthognathic surgery: A literature review and institutional protocol proposal.",
+      "authors": [
+        "A Fernández-de-la-Reguera",
+        "A Muñoz",
+        "O Sotelo",
+        "X Toledo"
+      ],
+      "publication_date": "2026-Mar-01",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "Orthognathic surgery (OS) corrects skeletal and dental discrepancies in the maxillofacial region, improving occlusion, masticatory function, respiration, and facial aesthetics. However, the immediate and intermediate postoperative periods are frequently associated with acute pain, facial edema, neurosensory disturbances (e.g., paresthesia of the inferior alveolar and/or infraorbital nerves), and restricted mandibular mobility (trismus), which may prolong recovery and impair quality of life. Physiotherapeutic rehabilitation has emerged as a key component of postoperative care, yet standardized guidance remains limited. The objective is to present a standardized, evidence-based physiotherapeutic protocol for managing common postoperative complications after OS, aiming to optimize functional recovery and reduce morbidity. A narrative review of the literature on postoperative physiotherapeutic rehabilitation in OS was conducted, focusing on interventions for pain, edema, neurosensory disturbances, trismus, and bone healing. The protocol was developed within the Postgraduate Program in Orthodontics and Dentofacial Orthopedics, Faculty of Dentistry, University of Chile, integrating current evidence and clinical experience. The protocol proposes multimodal strategies-including photobiomodulation, manual therapy, and therapeutic exercises-to address the most frequent postoperative complications. Evidence supports early, structured, and systematic intervention to improve analgesia, accelerate edema resolution, enhance neurosensory recovery, increase mandibular mobility, and promote bone healing. Early, structured physiotherapeutic management is fundamental to postoperative care in OS. The proposed protocol offers a replicable, evidence-based framework to facilitate optimal recovery and functional reintegration.",
+      "objective": "is to present a standardized, evidence-based physiotherapeutic protocol for managing common postoperative complications after OS, aiming to optimize functional recovery and reduce morbidity. A narrative review of the literature on postoperative physiotherapeutic rehabilitation in OS was conducted, focusing on interventions for pain, edema, neurosensory disturbances, trismus, and bone healing. The protocol was developed within the Postgraduate Program in Orthodontics and Dentofacial Orthopedics, Faculty of Dentistry, University of Chile, integrating current evidence and clinical experience. The protocol proposes multimodal strategies-including photobiomodulation, manual therapy, and therapeutic exercises-to address the most frequent postoperative complications. Evidence supports early, structured, and systematic intervention to improve analgesia, accelerate edema resolution, enhance neurosensory recovery, increase mandibular mobility, and promote bone healing. Early, structured physiotherapeutic management is fundamental to postoperative care in OS. The proposed protocol offers a replicable, evidence-based framework to facilitate optimal recovery and functional reintegration.",
+      "study_methods": "A narrative review of the literature on postoperative physiotherapeutic rehabilitation in OS was conducted, focusing on interventions for pain, edema, neurosensory disturbances, trismus, and bone healing. The protocol was developed within the Postgraduate Program in Orthodontics and Dentofacial Orthopedics, Faculty of Dentistry, University of Chile, integrating current evidence and clinical experience.",
+      "methods": "A narrative review of the literature on postoperative physiotherapeutic rehabilitation in OS was conducted, focusing on interventions for pain, edema, neurosensory disturbances, trismus, and bone healing. The protocol was developed within the Postgraduate Program in Orthodontics and Dentofacial Orthopedics, Faculty of Dentistry, University of Chile, integrating current evidence and clinical experience.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41108777/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41108770",
+      "title": "A simplified sagittal split osteotomy of the mandibular ramus: A single-cut approach for orthognathic surgery.",
+      "authors": [
+        "S-M Costa",
+        "M-S Bahia",
+        "M-Y Kadooka",
+        "P-F Trivellato",
+        "C-E Sverzut",
+        "A-E Trivellato"
+      ],
+      "publication_date": "2026-Mar-01",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "This study aims to evaluate the feasibility, and reliability of a novel simplified sagittal osteotomy (SSO) technique for mandibular repositioning in orthognathic surgery. The research question focuses on whether this approach can reduce technical complexity and complication rates, especially in a residency training environment. A prospective observational study was conducted involving 118 patients (62 females, 56 males) diagnosed with Angle Class II or III malocclusions and indicated for orthognathic surgery. All patients underwent a novel mandibular osteotomy as part of a Double-jaw surgery. Exclusion criteria included patients under 18 years of age, third molar presence, mandibular pathologies, and incomplete follow-up. The primary outcomes included feasibility, complication rates, and the need for conversion to the conventional BSSO. Statistical analysis was performed using the Chi-square test. A total of 236 osteotomies were performed. The technique was considered feasible in 98.7% of cases, with no conversions to traditional BSSO. No bad splits occurred. IAN injury was observed in 0.8% of cases, and long-term paresthesia (>1 year) occurred in 1.2%. No cases of hemorrhage or dental injury were reported. No significant associations were found between complications and patient gender or deformity type (p>0.05). The SSO technique demonstrated high feasibility and a low complication profile, supporting its use as a reliable alternative to BSSO.",
+      "objective": "to evaluate the feasibility, and reliability of a novel simplified sagittal osteotomy (SSO) technique for mandibular repositioning in orthognathic surgery. The research question focuses on whether this approach can reduce technical complexity and complication rates, especially in a residency training environment. A prospective observational study was conducted involving 118 patients (62 females, 56 males) diagnosed with Angle Class II or III malocclusions and indicated for orthognathic surgery. All patients underwent a novel mandibular osteotomy as part of a Double-jaw surgery. Exclusion criteria included patients under 18 years of age, third molar presence, mandibular pathologies, and incomplete follow-up. The primary outcomes included feasibility, complication rates, and the need for conversion to the conventional BSSO. Statistical analysis was performed using the Chi-square test. A total of 236 osteotomies were performed. The technique was considered feasible in 98.7% of cases, with no conversions to traditional BSSO. No bad splits occurred. IAN injury was observed in 0.8% of cases, and long-term paresthesia (>1 year) occurred in 1.2%. No cases of hemorrhage or dental injury were reported. No significant associations were found between complications and patient gender or deformity type (p>0.05). The SSO technique demonstrated high feasibility and a low complication profile, supporting its use as a reliable alternative to BSSO.",
+      "study_methods": "A prospective observational study was conducted involving 118 patients (62 females, 56 males) diagnosed with Angle Class II or III malocclusions and indicated for orthognathic surgery. All patients underwent a novel mandibular osteotomy as part of a Double-jaw surgery. Exclusion criteria included patients under 18 years of age, third molar presence, mandibular pathologies, and incomplete follow-up. The primary outcomes included feasibility, complication rates, and the need for conversion to the conventional BSSO. Statistical analysis was performed using the Chi-square test.",
+      "methods": "A prospective observational study was conducted involving 118 patients (62 females, 56 males) diagnosed with Angle Class II or III malocclusions and indicated for orthognathic surgery. All patients underwent a novel mandibular osteotomy as part of a Double-jaw surgery. Exclusion criteria included patients under 18 years of age, third molar presence, mandibular pathologies, and incomplete follow-up. The primary outcomes included feasibility, complication rates, and the need for conversion to the conventional BSSO. Statistical analysis was performed using the Chi-square test.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41108770/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2334,6 +2567,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "41762340",
+      "title": "Global prevalence of odontogenic cysts: a systematic review.",
+      "authors": [
+        "Besir Salihu",
+        "Jehona Ahmedi",
+        "Resmije Ademi Abdyli",
+        "Bylbyl Reçica",
+        "Mirsad Shkreta",
+        "Naim Jerliu"
+      ],
+      "publication_date": "2026-Feb-28",
+      "publication_date_iso": "2026-02-28",
+      "abstract": "Odontogenic cysts constitute a common group of lesions affecting the jaws and represent a relevant clinical and epidemiological burden in oral and maxillofacial practice. Their occurrence varies across populations, and understanding global prevalence patterns is essential for improving diagnosis, treatment planning, and public health strategies. However, an updated synthesis of prevalence data across different regions remains limited. A systematic review was conducted following a predefined methodology, with a comprehensive search of PubMed, EBSCOhost, and Web of Science for studies published between 2000 and 2024. Eligible studies included observational designs (retrospective and and cross-sectional studies) that reported the prevalence of odontogenic cysts according to the WHO classification, with sufficient demographic and diagnostic data. Case reports, narrative reviews, and studies with small sample sizes or incomplete datasets were excluded. The PRISMA 2020 guidelines were applied to ensure transparent and complete reporting of the review process. Risk of bias was independently assessed using the Newcastle-Ottawa Scale (NOS) tailored for prevalence and frequency studies. Of 445 records initially identified, 17 studies comprising large institutional and population-based samples met the inclusion criteria after screening and quality assessment. The studies originated from multiple continents, with retrospective designs predominating. The calculated global prevalence of odontogenic cysts was 13.8%. Radicular cysts were the most prevalent subtype, followed by dentigerous cysts. Risk of bias assessment indicated that most studies demonstrated low to moderate risk, primarily related to retrospective design and variability in diagnostic reporting. The findings demonstrate marked geographic variability in the prevalence and distribution of odontogenic cysts, underscoring the influence of diagnostic practices and reporting standards. These results highlight the need for standardized classification, uniform reporting protocols, and high-quality epidemiological studies to enhance comparability across regions and support evidence-based clinical and public health decision-making.",
+      "objective": "",
+      "study_methods": "A systematic review was conducted following a predefined methodology, with a comprehensive search of PubMed, EBSCOhost, and Web of Science for studies published between 2000 and 2024. Eligible studies included observational designs (retrospective and and cross-sectional studies) that reported the prevalence of odontogenic cysts according to the WHO classification, with sufficient demographic and diagnostic data. Case reports, narrative reviews, and studies with small sample sizes or incomplete datasets were excluded. The PRISMA 2020 guidelines were applied to ensure transparent and complete reporting of the review process. Risk of bias was independently assessed using the Newcastle-Ottawa Scale (NOS) tailored for prevalence and frequency studies.",
+      "methods": "A systematic review was conducted following a predefined methodology, with a comprehensive search of PubMed, EBSCOhost, and Web of Science for studies published between 2000 and 2024. Eligible studies included observational designs (retrospective and and cross-sectional studies) that reported the prevalence of odontogenic cysts according to the WHO classification, with sufficient demographic and diagnostic data. Case reports, narrative reviews, and studies with small sample sizes or incomplete datasets were excluded. The PRISMA 2020 guidelines were applied to ensure transparent and complete reporting of the review process. Risk of bias was independently assessed using the Newcastle-Ottawa Scale (NOS) tailored for prevalence and frequency studies.",
+      "results": "highlight the need for standardized classification, uniform reporting protocols, and high-quality epidemiological studies to enhance comparability across regions and support evidence-based clinical and public health decision-making.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41762340/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41755378",
       "title": "To do or not to do extraction in temporomandibular joint pain: a systematic review background and rationale.",
       "authors": [
@@ -2382,6 +2642,85 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41748964/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41760476",
+      "title": "[Guided correction of maxillo-mandibular asymmetries, precision and long-term stability: Use of 3D digital planning combined with custom guides].",
+      "authors": [
+        "J T Bachelet",
+        "C Demange"
+      ],
+      "publication_date": "2026-Feb-26",
+      "publication_date_iso": "2026-02-26",
+      "abstract": "To evaluate the accuracy and long-term stability of guided surgical correction of maxillo-mandibular asymmetry using 3D virtual planning combined with patient-specific guides. A single-center retrospective study was conducted on ten female patients with maxillomandibular facial asymmetry, treated between 2019 and 2023 with a protocol combining orthodontic preparation, 3D surgical planning, and guided bimaxillary surgery. Accuracy was assessed by comparing one-year postoperative outcomes with the virtual plan, using seven standardized anatomical landmarks. Clinical and radiological follow-up was performed for five years. The mean deviation between virtual planning and postoperative outcomes was 0.79mm for the maxilla and 1.33mm for the mandible. No recurrence was observed after five years. The technique reduced intraoperative adjustments and optimized postoperative occlusal stability. 3D virtual planning combined with patient-specific guides is a reliable and accurate approach for the correction of complex facial asymmetries, providing stable long-term outcomes with reduced morbidity. Multicenter studies with longer follow-up are warranted to confirm these findings.",
+      "objective": "",
+      "study_methods": "A single-center retrospective study was conducted on ten female patients with maxillomandibular facial asymmetry, treated between 2019 and 2023 with a protocol combining orthodontic preparation, 3D surgical planning, and guided bimaxillary surgery. Accuracy was assessed by comparing one-year postoperative outcomes with the virtual plan, using seven standardized anatomical landmarks. Clinical and radiological follow-up was performed for five years.",
+      "methods": "A single-center retrospective study was conducted on ten female patients with maxillomandibular facial asymmetry, treated between 2019 and 2023 with a protocol combining orthodontic preparation, 3D surgical planning, and guided bimaxillary surgery. Accuracy was assessed by comparing one-year postoperative outcomes with the virtual plan, using seven standardized anatomical landmarks. Clinical and radiological follow-up was performed for five years.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41760476/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41759522",
+      "title": "Development of a high-efficiency induction system for embryonic oral epithelium from human pluripotent stem cells.",
+      "authors": [
+        "Kazuki Nakashima",
+        "Junichi Tanaka",
+        "Erika Matsuno",
+        "Yuri Wada",
+        "Shintaro Ohnuma",
+        "Tatsuo Shirota",
+        "Seigo Ohba",
+        "Kenji Mishima"
+      ],
+      "publication_date": "2026-Feb-26",
+      "publication_date_iso": "2026-02-26",
+      "abstract": "Embryonic oral epithelium is a multipotent, ectodermal tissue that gives rise to various organs, including salivary glands, tooth germs, taste buds, and anterior pituitary glands. Although oral epithelium is contiguous posteriorly with endodermal epithelium and anteriorly with surface ectoderm, it exhibits distinct gene expression profiles during development. However, the molecular mechanisms that govern fate specification between oral epithelium and surface ectoderm remain poorly understood. Here, we present a highly efficient protocol for the PITX2-positive oral epithelium induction from human induced pluripotent stem cells (hiPSCs) using a reporter system. Sonic Hedgehog (SHH) signaling activation is essential for the efficient PITX2-positive epithelial cell generation. The induced cells exhibited gene expression profiles resembling those of embryonic oral epithelium and formed epithelial spheres that replicated features of human oral epithelium. This study established a robust platform for investigating human oral epithelial development and provided a valuable foundation for organoid-based research on oral organs.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41759522/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41759394",
+      "title": "Orthognathic surgery biomechanics revisited: Simple machine concepts, force distribution, and surgical predictability.",
+      "authors": [
+        "Ricardo Grillo",
+        "Fernando de Oliveira Andriola",
+        "Richard Gravalos",
+        "Wagner Calais",
+        "Lázaro da Silva Caixeta Neto",
+        "Fernando Melhem-Elias"
+      ],
+      "publication_date": "2026-Feb-26",
+      "publication_date_iso": "2026-02-26",
+      "abstract": "Orthognathic surgery outcomes are fundamentally governed by biomechanical principles derived from classical physics. Despite their critical importance, these determinants of long-term stability remain understudied. This review synthesizes key biomechanical principles to clarify their role in orthognathic procedures. A narrative evidence synthesis methodology was employed, searching databases for relevant studies up to July 2025. Inclusion criteria encompassed clinical trials, biomechanical analyses, and reviews. Data were qualitatively analyzed and appraised. The synthesis identified lever systems, inclined plane mechanics, and screw fixation biomechanics as pivotal. Deviations in cephalometric landmarks correlate with increased relapse risk due to altered torque dynamics. Key trends indicate that L-pattern fixation and perpendicular screw insertion are associated with superior stability, while condylar malposition is a consistent risk factor. Crucially, temporomandibular joint health is paramount, especially when planning complex movements like counterclockwise rotation. Stability requires restoring biomechanical equilibrium, where lever mechanics dominate masticatory function. Planning must therefore account for force distribution, with virtual surgical simulations offering a powerful tool to predict and mitigate instability. Ultimately, integrating these biomechanical principles into surgical planning is essential for achieving stable, functional, and predictable long-term outcomes.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41759394/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2514,8 +2853,13 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41746400/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC12945897",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig1a_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig1a_HTML.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig1b_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig1b_HTML.gif"
+      ]
     },
     {
       "pmid": "41741812",
@@ -2546,47 +2890,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935739/bin/784_2025_6674_Tab1a_HTML.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935739/bin/784_2025_6674_Tab1b_HTML.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935739/bin/784_2025_6674_Tab1c_HTML.jpg"
-      ]
-    },
-    {
-      "pmid": "41741798",
-      "title": "Diagnostic significance of salivary and glandular siglec-5 in Sjögren disease and non-Sjögren sicca.",
-      "authors": [
-        "Fernanda Luiza Araújo de Lima Castro",
-        "Laiz Fernandes Mendes Nunes",
-        "Fernanda Aragão Felix",
-        "Sicília Rezende Oliveira",
-        "José Alcides Almeida de Arruda",
-        "Victor Zanetti Drumond",
-        "Lucas Guimarães Abreu",
-        "Anna Christina Higino Rocha",
-        "Camila Munayer Lara",
-        "Harim Tavares Dos Santos",
-        "Maurício Augusto Aquino de Castro",
-        "Gilda Aparecida Ferreira",
-        "Leandro Augusto Tanure",
-        "Débora Cerqueira Calderaro",
-        "Tarcília Aparecida Silva",
-        "Sílvia Ferreira de Sousa"
-      ],
-      "publication_date": "2026-Feb-26",
-      "publication_date_iso": "2026-02-26",
-      "abstract": "Sjögren disease (SjD) has a multifactorial pathogenesis that is not fully understood. Perceptions of disease severity shape healthcare-seeking behavior and engagement with diagnostic assessments, underscoring the need for objective biomarkers. Sialic acid-binding immunoglobulin-like lectins (siglecs) have emerged as relevant mediators in SjD immunopathology. To investigate the diagnostic performance of siglec-5 expression in minor salivary gland (MSG) tissue and saliva samples from individuals with SjD and non-Sjögren sicca (nSS). A total of 109 participants with SjD and 41 with nSS were included. Salivary concentrations of siglec-5/siglec-14, inflammatory markers (IL-6, IL-8, IFN-γ, IgA, IgG, nitric oxide [NO]), and neutrophil extracellular traps (NETs) were measured. Immunohistochemical analyses of siglec-5, CD20, and CD3 were performed on MSG specimens. The data were analyzed descriptively and analytically. Salivary levels of siglec-5/siglec-14, IgA, IgG, NO, and NETs were significantly higher in the SjD group compared to the nSS group. Elevated salivary levels of siglec-5/siglec-14, IL-6, and IgG were found among individuals with severe dryness scores. Immunohistochemical staining for siglec-5 was more pronounced in SjD samples and significantly associated with CD20 and CD3 positivity as well as the presence of xerophthalmia. Tissue infiltration by siglec-5 had greater diagnostic accuracy for SjD (area under the curve: 73.1% [95% confidence interval: 58.2–85]) than both salivary and ocular sicca tests. Siglec-5 expression was increased in individuals with SjD, supporting its involvement in disease pathogenesis as well as its potential usefulness as a biomarker. The availability of objective salivary and tissue markers may improve diagnostic pathways for SjD, thereby facilitating patient engagement. The online version contains supplementary material available at 10.1007/s00011-026-02188-8.",
-      "objective": "biomarkers. Sialic acid-binding immunoglobulin-like lectins (siglecs) have emerged as relevant mediators in SjD immunopathology. To investigate the diagnostic performance of siglec-5 expression in minor salivary gland (MSG) tissue and saliva samples from individuals with SjD and non-Sjögren sicca (nSS). A total of 109 participants with SjD and 41 with nSS were included. Salivary concentrations of siglec-5/siglec-14, inflammatory markers (IL-6, IL-8, IFN-γ, IgA, IgG, nitric oxide [NO]), and neutrophil extracellular traps (NETs) were measured. Immunohistochemical analyses of siglec-5, CD20, and CD3 were performed on MSG specimens. The data were analyzed descriptively and analytically. Salivary levels of siglec-5/siglec-14, IgA, IgG, NO, and NETs were significantly higher in the SjD group compared to the nSS group. Elevated salivary levels of siglec-5/siglec-14, IL-6, and IgG were found among individuals with severe dryness scores. Immunohistochemical staining for siglec-5 was more pronounced in SjD samples and significantly associated with CD20 and CD3 positivity as well as the presence of xerophthalmia. Tissue infiltration by siglec-5 had greater diagnostic accuracy for SjD (area under the curve: 73.1% [95% confidence interval: 58.2–85]) than both salivary and ocular sicca tests. Siglec-5 expression was increased in individuals with SjD, supporting its involvement in disease pathogenesis as well as its potential usefulness as a biomarker. The availability of objective salivary and tissue markers may improve diagnostic pathways for SjD, thereby facilitating patient engagement. The online version contains supplementary material available at 10.1007/s00011-026-02188-8.",
-      "study_methods": "A total of 109 participants with SjD and 41 with nSS were included. Salivary concentrations of siglec-5/siglec-14, inflammatory markers (IL-6, IL-8, IFN-γ, IgA, IgG, nitric oxide [NO]), and neutrophil extracellular traps (NETs) were measured. Immunohistochemical analyses of siglec-5, CD20, and CD3 were performed on MSG specimens. The data were analyzed descriptively and analytically.",
-      "methods": "A total of 109 participants with SjD and 41 with nSS were included. Salivary concentrations of siglec-5/siglec-14, inflammatory markers (IL-6, IL-8, IFN-γ, IgA, IgG, nitric oxide [NO]), and neutrophil extracellular traps (NETs) were measured. Immunohistochemical analyses of siglec-5, CD20, and CD3 were performed on MSG specimens. The data were analyzed descriptively and analytically.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41741798/",
-      "pmcid": "PMC12935824",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935824/bin/11_2026_2188_Fig3_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935824/bin/11_2026_2188_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935824/bin/11_2026_2188_Fig1_HTML.jpg"
       ]
     },
     {
@@ -2641,64 +2944,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41742397",
-      "title": "Effect of Early Radiographic Bone Loss Before Loading on Implant-Related Outcomes: A Long-Term Retrospective Study.",
-      "authors": [
-        "Dominick Moser",
-        "Engin Ozgur",
-        "Jennifer Tjokro",
-        "Clemens Raabe",
-        "Vivianne Chappuis",
-        "Gustavo Avila-Ortiz",
-        "Pablo Galindo-Moreno",
-        "Miguel Padial-Molina",
-        "Emilio Couso-Queiruga"
-      ],
-      "publication_date": "2026-Feb-25",
-      "publication_date_iso": "2026-02-25",
-      "abstract": "This retrospective study primarily evaluated whether early radiographic bone loss (ERBL) predicts progressive bone loss (PBL), and secondarily assessed its association with implant survival and peri-implant diseases. Adults with dental implants who were followed for at least 5 years were included. Implants presenting ERBL, defined as apical migration of the interproximal marginal bone involving exposure of the implant rough surface before insertion of the final prosthesis, were classified as ERBL+; non-exposure group was defined as implants without evidence of ERBL (ERBL-). Regression analyses were performed to evaluate associations with PBL. A total of 259 implants, 87 ERBL+, and 172 ERBL- were included. Mean follow-up periods were 8.8 ± 3.0 years for the ERBL+ and 11.5 ± 1.7 years for the ERBL-. ERBL+ exhibited significantly greater PBL than ERBL- (-1.6 ± 1.0 mm to -2.3 ± 1.7 mm vs. -0.4 ± 1.2 mm to -0.5 ± 1.2 mm; p < 0.001). Implant survival was lower in ERBL+ (67.8%) compared with ERBL- (98.3%; p < 0.001). Peri-implantitis was diagnosed in 63.2% of implants in the ERBL- group versus 5.2% in ERBL- (p < 0.001), and 68.4% of patients versus 6.1% of ERBL- (p < 0.001). ERBL was the strongest predictor of greater PBL (+1.46 mm; p < 0.0001). Male sex (+0.40 mm; p = 0.02), smoking (+0.61 mm; p = 0.004), each additional implant (+0.17 mm; p < 0.0001), single-crown restorations (+0.66 mm; p = 0.005), and bone-level implants (+0.32 mm; p = 0.005) were associated with increased PBL. ERBL is a strong predictor of PBL and is associated with a higher risk of implant loss and peri-implantitis onset.",
-      "objective": "",
-      "study_methods": "Adults with dental implants who were followed for at least 5 years were included. Implants presenting ERBL, defined as apical migration of the interproximal marginal bone involving exposure of the implant rough surface before insertion of the final prosthesis, were classified as ERBL+; non-exposure group was defined as implants without evidence of ERBL (ERBL-). Regression analyses were performed to evaluate associations with PBL.",
-      "methods": "Adults with dental implants who were followed for at least 5 years were included. Implants presenting ERBL, defined as apical migration of the interproximal marginal bone involving exposure of the implant rough surface before insertion of the final prosthesis, were classified as ERBL+; non-exposure group was defined as implants without evidence of ERBL (ERBL-). Regression analyses were performed to evaluate associations with PBL.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41742397/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41741146",
-      "title": "Masticatory Efficiency and Quality of Life in Maxillectomized Older Adults Rehabilitated With Obturator Prostheses.",
-      "authors": [
-        "Daniel Silva Soares",
-        "Isadora França Vieira-Silva",
-        "José Alcides Almeida de Arruda",
-        "Ricardo de Oliveira Corrêa",
-        "Allyson Nogueira Moreira",
-        "Emerson Gomes Dos Santos",
-        "Amália Moreno"
-      ],
-      "publication_date": "2026-Feb-25",
-      "publication_date_iso": "2026-02-25",
-      "abstract": "This study evaluated muscle electrical activity, bite force, quality of life, and satisfaction in individuals with maxillectomy rehabilitated with complete obturator prostheses (COP). Most patients undergoing maxillectomy and rehabilitated with COP experience masticatory and functional limitations. This pre-post interventional study included 11 individuals (mean age: 64 years) who had undergone maxillectomy and were rehabilitated with COP designed to prosthetically restore the palate and improve oropharyngeal function. Electromyography, mouth opening angle, and bite force were assessed at 60, 120, and 180 days after COP installation. The University of Washington Quality of Life (UWQOL) questionnaire and the Obturator Functional Scale (OFS) were administered at baseline and at the same follow-up intervals. Electromyography of facial muscles was performed at rest and during mastication of hard and soft foods. Maximum bite force was recorded at the central incisors and first molars. Data were analysed descriptively and analytically. Bite force values increased significantly over the 180-day period, while muscle electrical activity remained stable throughout COP wear. The appearance, swallowing, speech, and chewing domains significantly influenced COP performance. The OFS indicated improvements in liquid swallowing, reduction of nasal speech, and greater voice clarity in public settings. Most significant changes were accompanied by moderate to large effect sizes, supporting their practical relevance. COP effectively improved patients' quality of life and functional outcomes following maxillectomy.",
-      "objective": "",
-      "study_methods": "This pre-post interventional study included 11 individuals (mean age: 64 years) who had undergone maxillectomy and were rehabilitated with COP designed to prosthetically restore the palate and improve oropharyngeal function. Electromyography, mouth opening angle, and bite force were assessed at 60, 120, and 180 days after COP installation. The University of Washington Quality of Life (UWQOL) questionnaire and the Obturator Functional Scale (OFS) were administered at baseline and at the same follow-up intervals. Electromyography of facial muscles was performed at rest and during mastication of hard and soft foods. Maximum bite force was recorded at the central incisors and first molars. Data were analysed descriptively and analytically.",
-      "methods": "This pre-post interventional study included 11 individuals (mean age: 64 years) who had undergone maxillectomy and were rehabilitated with COP designed to prosthetically restore the palate and improve oropharyngeal function. Electromyography, mouth opening angle, and bite force were assessed at 60, 120, and 180 days after COP installation. The University of Washington Quality of Life (UWQOL) questionnaire and the Obturator Functional Scale (OFS) were administered at baseline and at the same follow-up intervals. Electromyography of facial muscles was performed at rest and during mastication of hard and soft foods. Maximum bite force was recorded at the central incisors and first molars. Data were analysed descriptively and analytically.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41741146/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41739549",
       "title": "Cephalometric Comparison of Le Fort I Osteotomy in Growing and Non-Growing Patients With Clefts: A Retrospective Study.",
       "authors": [
@@ -2722,35 +2967,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41739549/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41740530",
-      "title": "Immunological Functions of Th17 cells in Colon Cancer: From Pathogenic Mechanisms to Emerging Treatments.",
-      "authors": [
-        "Qamar Abuhassan",
-        "Ali M Atoom",
-        "M M Rekha",
-        "Jaya Bhanu Kanwar",
-        "M Bavanilatha",
-        "Vimal Arora",
-        "Aashna Sinha",
-        "Alisher Khazratov"
-      ],
-      "publication_date": "2026-Feb-24",
-      "publication_date_iso": "2026-02-24",
-      "abstract": "Colon cancer (CC) constitutes a significant global health challenge, characterized by increasing incidence and mortality rates that underscore the necessity for continued investigative efforts. Inflammation-driven cellular and molecular processes are fundamentally implicated in the CC development, progression and pathogenesis. Among these immune effectors, T helper 17 (Th17) cells, a distinct subset of CD4+ T lymphocytes, are integral to inflammatory and autoimmune responses and modulate antitumor immunity. In CC, Th17 cells exhibit a dualistic function; they may promote tumorigenesis by sustaining chronic inflammation or exert antitumor effects by enhancing cytotoxic immune response. Notably, critical gaps persist in understanding how Th17 plasticity dynamically governs the balance between immune surveillance and tumor immune evasion, representing a central unresolved controversy in CC progression. Furthermore, while extensive research has shown that Th17 cells interact with the tumor microenvironment (TME) and cancer stem cells (CSCs), the specific mechanisms behind these interactions that facilitate metastasis, invasion, and cellular proliferation are still not fully understood. Several studies have documented an increased proportion of Th17 cells in the peripheral circulation of CC patients. However, conflicting clinical evidence regarding their prognostic significance highlights a major translational challenge for patient stratification and targeted intervention. This review consolidates novel perspectives on the multifaceted contributions of Th17 to CC initiation, progression, and therapy, emphasizing targeted interventions to disrupt inflammatory axes and improve outcomes.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41740530/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2826,40 +3042,6 @@
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929254/bin/68_2026_3127_Fig1_HTML.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929254/bin/68_2026_3127_Fig1_HTML.gif"
-      ]
-    },
-    {
-      "pmid": "41721142",
-      "title": "What is the influence of occlusal plane rotation in orthognathic surgery on upper airway volume?",
-      "authors": [
-        "Fábio Marzullo Zaroni",
-        "Nayara de Oliveira Dos Reis",
-        "Halina Grossmann Pereira",
-        "Fernanda Aparecida Stresser",
-        "Bernardo Olsson",
-        "Delson João da Costa",
-        "José Vinicius Bolognesi Maciel",
-        "Rafaela Scariot"
-      ],
-      "publication_date": "2026-Feb-21",
-      "publication_date_iso": "2026-02-21",
-      "abstract": "This prospective observational study investigates whether changes in the direction and magnitude of occlusal plane angulation influence upper airway volume in adult patients undergoing orthognathic surgery. Data were collected preoperatively and 7 days and 6 months postoperatively. Cone beam computed tomography (CBCT) was used to measure occlusal plane angulation and upper airway volume. All measurements were performed by a single, calibrated researcher trained by a gold standard specialist. Statistical significance was set at p < 0.05. Forty-eight patients were included: 27 women (56,25%) and 21 men (43,75%), with a median age of 29 years (range 18-52). Skeletal classifications were as follows: 19 class II (39,58%), and 29 class III (60,42%). Occlusal plane rotation was counterclockwise in 24 patients (50%) and clockwise in 24 patients (52%). Rotational changes were minor (0-2°) in 24 cases (50%) and major (> 2°) in the remaining 24 cases. No significant differences were observed in rotation direction or magnitude between class II and III patients (p > 0.05). Class II patients showed a significant increase in oropharyngeal volume (p = 0.026), while class III patients showed an increase in nasopharyngeal volume (p = 0.003), regardless of occlusal plane changes. Additionally, nasopharyngeal volume increased significantly in class III patients with clockwise (p = 0.035) and counterclockwise (p = 0.037) rotations.",
-      "objective": "",
-      "study_methods": "Data were collected preoperatively and 7 days and 6 months postoperatively. Cone beam computed tomography (CBCT) was used to measure occlusal plane angulation and upper airway volume. All measurements were performed by a single, calibrated researcher trained by a gold standard specialist. Statistical significance was set at p < 0.05.",
-      "methods": "Data were collected preoperatively and 7 days and 6 months postoperatively. Cone beam computed tomography (CBCT) was used to measure occlusal plane angulation and upper airway volume. All measurements were performed by a single, calibrated researcher trained by a gold standard specialist. Statistical significance was set at p < 0.05.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41721142/",
-      "pmcid": "PMC12923434",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12923434/bin/10006_2026_1526_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12923434/bin/10006_2026_1526_Fig1_HTML.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12923434/bin/10006_2026_1526_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12923434/bin/10006_2026_1526_Fig2_HTML.gif"
       ]
     }
   ]
