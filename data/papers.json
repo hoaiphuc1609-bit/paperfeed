@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-01T04:26:45Z",
+  "updated_at": "2026-03-02T04:19:46Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1382,6 +1382,39 @@
       "figure_urls": []
     },
     {
+      "pmid": "41764774",
+      "title": "Evaluation of Epidermal Growth Factor Receptor and Its Inducible Feedback Inhibitor Leucine Rich Repeats and Immunoglobulin Like Domains 1 as Prognostic Marker in Oral Cancer.",
+      "authors": [
+        "Deepika Verma",
+        "S S Chauhan",
+        "Joginder Kumar",
+        "Mohit Arora",
+        "Qulsum Akhtar",
+        "Lokesh Kadian",
+        "Prerna Jain",
+        "Vivek Nayyar",
+        "Ajoy Roychaudhury",
+        "Deepika Mishra",
+        "Alok Thakar",
+        "Riyaz A Mir"
+      ],
+      "publication_date": "2026-Mar-01",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is a life-threatening disease that ranks sixth amongst the most common human cancers worldwide. In most cases, OSCC development is preceded by oral premalignant disorders (OPMDs). There is an urgent need for more biomarker studies that will aid in early detection, diagnosis, and treatment of OPMD to prevent their transformation to OSCC. Leucine rich repeats and immunoglobulin like domains 1 (LRIG1) are known to negatively regulate EGFR expression. Little is known about the significance of LRIG1 in oral cancer pathogenesis. In a retrospective study, immunohistochemical analysis of EGFR and LRIG1 was carried out in 212 archival oral tissues (100 OSCC, 87 OPMD, and 25 normal), correlated with clinicopathological parameters and disease outcome over 62 months for OSCC patients. Further, gene expression for EGFR and LRIG1 was also evaluated in 160 tissue samples. Significant increase in EGFR in OSCC tissue was observed compared to controls, while LRIG1 levels were found to be downregulated in OSCC and OPMD cases compared to normal tissues (p < 0.05). Kaplan-Meier analysis of patients stratified to high and low LRIG1 expression showed significantly different overall survival (p < 0.05, median survival 1397 and 561 days, respectively). A unique translational impact of our study is that it provides clinical evidence for the potential of LRIG1 downregulation as predictor of poor prognosis in OSCC. These preliminary findings support further research to validate LRIG1 based prognostic tools for oral cancers.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41764774/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41760253",
       "title": "Expression of YME1 Like 1 ATPase Increases With the Stage of Adrenocortical Carcinoma Tissue and Is Associated With Poor Patient Prognosis.",
       "authors": [
@@ -1446,47 +1479,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41760232/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "41758071",
-      "title": "Postoperative Adjuvant Chemoradiotherapy ± PD-1 Inhibitor for Locally Advanced Head and Neck Squamous Cell Carcinoma.",
-      "authors": [
-        "Zhiqiang Wang",
-        "Qingqing He",
-        "Donghui Jiang",
-        "Sheng Cheng",
-        "Jingyu Gao",
-        "Yan Wang",
-        "Shuai Fu",
-        "Qing Ying Cui",
-        "Yanli Yang",
-        "Li Lv",
-        "Yuchuan Xu",
-        "Yan Li",
-        "Rui Tian",
-        "Chunlei Ge",
-        "Rongqing Li"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Postsurgical immunotherapy for patients with locally advanced head and neck squamous cell carcinoma (HNSCC) remains elusive. This study assesses the value and significance of postoperative immunotherapy in the treatment of locally advanced HNSCC. In total, 212 patients with locally advanced HNSCC who underwent radical surgery were stratified into three treatment groups: adjuvant radiotherapy alone, adjuvant chemoradiotherapy (CRT), and adjuvant chemoradiotherapy plus immunotherapy (PD-1 Ab). A comprehensive analysis was conducted to assess survival outcomes and prognostic factors across diverse patient cohorts. Four patients were lost to follow-up, with a follow-up rate of 98.1% and a median follow-up time of 41 months (IQR 24-68). A total of 64/212 individuals died, with cancer being the cause of 62 cases and noncancer causes accounting for the remaining two deaths; 62/212 (29.2%) patients experienced relapse and/or metastasis. The 3-year OS rates for the radiotherapy group, CRT group, and CRT plus PD-1 Ab group were 54.8%, 75.4%, and 82.2%, respectively. However, no statistically significant difference in OS or PFS was observed between the CRT and CRT + PD-1 Ab groups (pall > 0.05), although both were superior to radiotherapy alone (pall < 0.05). Multivariate analysis indicated that age, smoking history, TNM stage and treatment method were independent prognostic factors for OS (pall < 0.05). Smoking history and treatment methods were independent prognostic factors for PFS and DMFS (pall < 0.05). PD-1 Ab may contribute less to tumors with better treatment outcomes from concurrent chemoradiotherapy.",
-      "objective": "",
-      "study_methods": "In total, 212 patients with locally advanced HNSCC who underwent radical surgery were stratified into three treatment groups: adjuvant radiotherapy alone, adjuvant chemoradiotherapy (CRT), and adjuvant chemoradiotherapy plus immunotherapy (PD-1 Ab). A comprehensive analysis was conducted to assess survival outcomes and prognostic factors across diverse patient cohorts.",
-      "methods": "In total, 212 patients with locally advanced HNSCC who underwent radical surgery were stratified into three treatment groups: adjuvant radiotherapy alone, adjuvant chemoradiotherapy (CRT), and adjuvant chemoradiotherapy plus immunotherapy (PD-1 Ab). A comprehensive analysis was conducted to assess survival outcomes and prognostic factors across diverse patient cohorts.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41758071/",
-      "pmcid": "PMC12947766",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12947766/bin/CNR2-9-e70488-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12947766/bin/CNR2-9-e70488-g001.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12947766/bin/CNR2-9-e70488-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12947766/bin/CNR2-9-e70488-g002.gif"
-      ]
     },
     {
       "pmid": "41591939",
@@ -2856,9 +2848,9 @@
       "pmcid": "PMC12945897",
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig1a_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig1a_HTML.gif",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig1b_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig1b_HTML.gif"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig2a_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig2b_HTML.jpg"
       ]
     },
     {
