@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-02T04:19:46Z",
+  "updated_at": "2026-03-03T04:20:16Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1268,6 +1268,37 @@
       "figure_urls": []
     },
     {
+      "pmid": "41767265",
+      "title": "Differentiation of mesenchymal stem/stromal cells into CD45",
+      "authors": [
+        "Robert M Rusch",
+        "Yo Mabuchi",
+        "Satoru Morikawa",
+        "Yoko Ogawa",
+        "Shigeto Shimmura"
+      ],
+      "publication_date": "2026-Mar-20",
+      "publication_date_iso": "2026-03-20",
+      "abstract": "Mesenchymal stem/stromal cells (MSCs) are notable for their differentiation potential and immunomodulatory properties. They share several features with macrophages as well as fibrocytes. This study aimed to investigate the relationship between MSCs, fibrocytes, and macrophages, focusing on the hypothesis of a possible direct lineage. Particularly, the focus lies on a freshly isolated murine MSC population known as PαS cells, which were transplanted into irradiated recipients, resulting in cells expressing a macrophage-like phenotype with CD45, CD68, and CSF1R (also known as CD115) expression. Further analysis showed that PαS cells cultured in macrophage differentiation media acquired characteristics of M2 macrophages (CD45, CD68, and CD206) through interaction with CSF1R. These results were confirmed in several mouse strains and human MSCs. Single-cell RNA sequencing revealed macrophage-like populations among the PαS cells, demonstrating the phenotypic plasticity of non-cultured MSCs, giving into MSC potential roles in immune regulation and tissue repair.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing in cells expressing a macrophage-like phenotype with CD45, CD68, and CSF1R (also known as CD115) expression. Further analysis showed that PαS cells cultured in macrophage differentiation media acquired characteristics of M2 macrophages (CD45, CD68, and CD206) through interaction with CSF1R. These results were confirmed in several mouse strains and human MSCs. Single-cell RNA sequencing revealed macrophage-like populations among the PαS cells, demonstrating the phenotypic plasticity of non-cultured MSCs, giving into MSC potential roles in immune regulation and tissue repair.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41767265/",
+      "pmcid": "PMC12936835",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12936835/bin/fx1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12936835/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12936835/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12936835/bin/gr3.jpg"
+      ]
+    },
+    {
       "pmid": "41510212",
       "title": "Mesenchymal stem cell-derived extracellular vesicle therapy in breast cancer: A systematic review and meta-analysis of",
       "authors": [
@@ -1382,25 +1413,88 @@
       "figure_urls": []
     },
     {
-      "pmid": "41764774",
-      "title": "Evaluation of Epidermal Growth Factor Receptor and Its Inducible Feedback Inhibitor Leucine Rich Repeats and Immunoglobulin Like Domains 1 as Prognostic Marker in Oral Cancer.",
+      "pmid": "41770475",
+      "title": "Deep learning-based identification and maturation assessment of the zygomaticomaxillary suture in cone-beam computed tomography images.",
       "authors": [
-        "Deepika Verma",
-        "S S Chauhan",
-        "Joginder Kumar",
-        "Mohit Arora",
-        "Qulsum Akhtar",
-        "Lokesh Kadian",
-        "Prerna Jain",
-        "Vivek Nayyar",
-        "Ajoy Roychaudhury",
-        "Deepika Mishra",
-        "Alok Thakar",
-        "Riyaz A Mir"
+        "Zehua Jin",
+        "Yuhua Shan",
+        "Jianxing Feng",
+        "Jingtao Li",
+        "Zhelin Shi",
+        "Haotian Wu",
+        "Xiaochen Fan",
+        "Ruomei Li",
+        "Zhenqi Chen"
       ],
-      "publication_date": "2026-Mar-01",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Oral squamous cell carcinoma (OSCC) is a life-threatening disease that ranks sixth amongst the most common human cancers worldwide. In most cases, OSCC development is preceded by oral premalignant disorders (OPMDs). There is an urgent need for more biomarker studies that will aid in early detection, diagnosis, and treatment of OPMD to prevent their transformation to OSCC. Leucine rich repeats and immunoglobulin like domains 1 (LRIG1) are known to negatively regulate EGFR expression. Little is known about the significance of LRIG1 in oral cancer pathogenesis. In a retrospective study, immunohistochemical analysis of EGFR and LRIG1 was carried out in 212 archival oral tissues (100 OSCC, 87 OPMD, and 25 normal), correlated with clinicopathological parameters and disease outcome over 62 months for OSCC patients. Further, gene expression for EGFR and LRIG1 was also evaluated in 160 tissue samples. Significant increase in EGFR in OSCC tissue was observed compared to controls, while LRIG1 levels were found to be downregulated in OSCC and OPMD cases compared to normal tissues (p < 0.05). Kaplan-Meier analysis of patients stratified to high and low LRIG1 expression showed significantly different overall survival (p < 0.05, median survival 1397 and 561 days, respectively). A unique translational impact of our study is that it provides clinical evidence for the potential of LRIG1 downregulation as predictor of poor prognosis in OSCC. These preliminary findings support further research to validate LRIG1 based prognostic tools for oral cancers.",
+      "publication_date": "2026-Mar-02",
+      "publication_date_iso": "2026-03-02",
+      "abstract": "This study addresses maxillary deficiency management by developing a deep learning-based system for zygomaticomaxillary suture assessment. As the maturation status serves as a pivotal indicator for optimal maxillary protraction timing, its accurate evaluation is crucial for treatment success. The proposed cone-beam computed tomography-based system overcomes current limitations of subjective manual staging, offering quantitative and reproducible maturation analysis to guide clinically critical decisions in maxillary protraction therapy. A dataset of 505 cone-beam computed tomography scans was collected and annotated by three orthodontists to locate and stage the suture. Data augmentation and various loss functions were applied to optimize the model. The framework employs dual-network architecture: (1) 3D U-Net for precise suture identification, followed by (2) 3D ResNet50-based classification network for maturation stage prediction. Model performance was validated using multi-dimensional metrics including classification accuracy, precision, recall, F1-score, and area under the curve values from the receiver operating characteristic curve, with benchmark comparisons against expert evaluators' assessments. The model assessment took about 46 s for two tasks. 3D U-Net showed an average Euclidean distance of 2.31 ± 1.57 mm between the located and annotated zygomaticomaxillary suture centers. For classification tasks, the two-stage (ABC/DE) task had an accuracy of 0.922 and an F1-score of 0.921; the three-stage (A/BC/DE) task had an accuracy of 0.833 and an F1-score of 0.838; and the five-stage (A/B/C/D/E) task had an accuracy of 0.611 and an F1-score of 0.604. The dual-network deep learning system can automatically locate and assess the maturation of the zygomaticomaxillary suture in three dimensions from CBCT files, providing a critical foundation for clinical decision-making in maxillary protraction therapy. This deep learning-model improves diagnostic workflow by reducing assessment time and minimizing inter-observer variability, providing clinicians with a reliable and reproducible reference for optimal maxillary protraction timing-avoiding over-treatment of the very young (stage A) while ensuring timely intervention before sutural closure (stages D and E).",
+      "objective": "",
+      "study_methods": "A dataset of 505 cone-beam computed tomography scans was collected and annotated by three orthodontists to locate and stage the suture. Data augmentation and various loss functions were applied to optimize the model. The framework employs dual-network architecture: (1) 3D U-Net for precise suture identification, followed by (2) 3D ResNet50-based classification network for maturation stage prediction. Model performance was validated using multi-dimensional metrics including classification accuracy, precision, recall, F1-score, and area under the curve values from the receiver operating characteristic curve, with benchmark comparisons against expert evaluators' assessments.",
+      "methods": "A dataset of 505 cone-beam computed tomography scans was collected and annotated by three orthodontists to locate and stage the suture. Data augmentation and various loss functions were applied to optimize the model. The framework employs dual-network architecture: (1) 3D U-Net for precise suture identification, followed by (2) 3D ResNet50-based classification network for maturation stage prediction. Model performance was validated using multi-dimensional metrics including classification accuracy, precision, recall, F1-score, and area under the curve values from the receiver operating characteristic curve, with benchmark comparisons against expert evaluators' assessments.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "cleft lip and palate surgery",
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41770475/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41770438",
+      "title": "A Computational Framework for Simulating Patient-Specific TMJ Biomechanics Using a Combined Multibody Dynamics and Finite Element Approach.",
+      "authors": [
+        "Farhad Ahmadi",
+        "Shuchun Sun",
+        "Jichao Zhao",
+        "Jian Chen",
+        "Marshall B Wilson",
+        "Brooke Damon",
+        "Yongren Wu",
+        "Konstantinia Almpani",
+        "Rachel Chung",
+        "Priyam Jani",
+        "Peng Chen",
+        "Elizabeth H Slate",
+        "Janice S Lee",
+        "Benedikt Sagl",
+        "Hai Yao"
+      ],
+      "publication_date": "2026-Mar-02",
+      "publication_date_iso": "2026-03-02",
+      "abstract": "Biomechanical parameters of the temporomandibular joint (TMJ), such as joint contact forces and intra-articular stresses, are suggested to contribute to the development of temporomandibular joint disorders, but are impractical to measure. In this study, we present a computational framework for evaluating these parameters by integrating a function assessment system and a patient-specific modeling approach. The pipeline consists of acquiring patients' functional and morphological data and developing combined multibody dynamics and finite-element (MBD-FE) models for simulating their specific biting tasks. We demonstrate the approach in a pre-/post-orthognathic surgery scenario and present the measured and simulated outputs. In a three-patient cohort of one Class I control and two surgical patients (one Class II and one Class III patient), surgery was accompanied by functional changes such as increased bite force capacity and shifts in muscle-usage during unilateral first premolar clenching that brought the surgical cases closer to the control case. Also, morphological measurements showed postoperative adaptations in condylar size and joint space. Simulations demonstrated that contralateral joint forces exceeded ipsilateral forces during unilateral biting and predicted regions of concentrated disc stress that coincided with regions of reduced joint gap and poorer articular congruency, highlighting how morphology-function interactions shape local mechanics. By unifying individualized functional inputs and subject-specific geometries, the framework provides a practical basis for patient-tailored assessment of biomechanical parameters and decision support in TMJ care.",
+      "objective": "",
+      "study_methods": "The pipeline consists of acquiring patients' functional and morphological data and developing combined multibody dynamics and finite-element (MBD-FE) models for simulating their specific biting tasks. We demonstrate the approach in a pre-/post-orthognathic surgery scenario and present the measured and simulated outputs.",
+      "methods": "The pipeline consists of acquiring patients' functional and morphological data and developing combined multibody dynamics and finite-element (MBD-FE) models for simulating their specific biting tasks. We demonstrate the approach in a pre-/post-orthognathic surgery scenario and present the measured and simulated outputs.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41770438/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41770371",
+      "title": "Pulling teeth: access to dental clearance in patients with cancer eligible for bone-modifying agents.",
+      "authors": [
+        "Grace M Ferri",
+        "Meredith Young",
+        "Jack M Hensien",
+        "Mina Paul",
+        "Armando Uribe-Rivera",
+        "Amit Sethi",
+        "Harpreet Singh",
+        "Lauren J Oshry"
+      ],
+      "publication_date": "2026-Mar-02",
+      "publication_date_iso": "2026-03-02",
+      "abstract": "",
       "objective": "",
       "study_methods": "",
       "methods": "",
@@ -1410,73 +1504,60 @@
       "topics": [
         "maxillofacial surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41764774/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41770371/",
       "pmcid": "",
       "figure_urls": []
     },
     {
-      "pmid": "41760253",
-      "title": "Expression of YME1 Like 1 ATPase Increases With the Stage of Adrenocortical Carcinoma Tissue and Is Associated With Poor Patient Prognosis.",
+      "pmid": "41771190",
+      "title": "Evaluation of the Effectiveness of an AI-assisted, Dual-Template Workflow in Improving the Accuracy of Tooth Autotransplantation.",
       "authors": [
-        "Shin-Nosuke Yamashita",
-        "Yoshiatsu Tanaka",
-        "Shajedul Islam",
-        "Takao Kitagawa",
-        "Kazuhiro Tokuda",
-        "Durga Paudel",
-        "Sarita Giri",
-        "Tohru Ohta",
-        "Fumiya Harada",
-        "Hiroki Nagayasu",
-        "Yasuhiro Kuramitsu"
+        "Guangwei Chen",
+        "Zuwen Ma",
+        "Yudong Liu",
+        "Xuelian Wang",
+        "Weifa Li",
+        "Libin Zhou"
       ],
-      "publication_date": "2026-Mar",
+      "publication_date": "2026-Mar-01",
       "publication_date_iso": "2026-03-01",
-      "abstract": "Adrenocortical carcinoma (ACC) is an endocrine tumor arising in the adrenal cortex. Although its incidence is extremely low, it is highly malignant, rapidly proliferating, and infiltrating surrounding organs, resulting in a poor prognosis. YME1 Like 1 ATPase (YME1L1) is an ATP-dependent metalloprotease that regulates mitochondrial proteostasis. Recently, a correlation between YME1L1 expression and the prognosis of several cancers has been reported. However, no studies have examined the expression level of YME1L1 mRNA in ACC tissues or the relationship between YME1L1 expression and the prognosis of ACC patients. Therefore, there is a need to investigate the relationship between YME1L1 expression and the prognosis of ACC patients. YME1L1 mRNA expression and survival in ACC patients were analyzed using the TCGA database with the UALCAN and GEPIA platforms. YME1L1 mRNA expression was significantly increased in ACC tissues from stage IV patients compared with stage I, II, and III patients (p<0.0005, p<0.05, and p<0.05, respectively). Furthermore, increased YME1L1 mRNA expression was inversely correlated with survival and disease-free interval in ACC patients (p<0.01). YME1L1 is highly expressed in ACC tissues and inversely correlated with patient prognosis, suggesting its potential as a prognostic biomarker for ACC patients and providing new insights into its role in tumor biology. Further studies are needed to elucidate its therapeutic significance and mechanistic contribution to the malignant progression of ACC.",
+      "abstract": "To test whether an AI-assisted, dual-template workflow improves plan-delivery accuracy in tooth autotransplantation versus a replica-only freehand approach. Twenty-four consecutive cases were assigned to a guided workflow (n = 12) or freehand (n = 12). In the guided group, AI-driven CBCT segmentation informed a socket-preparation guide, a socket-margin guide, and a printed donor-tooth replica; the freehand group used the replica alone. Immediate postoperative CBCT was rigidly registered to the plan. The prespecified primary endpoint was buccolingual angular deviation (BLAD). Secondary, exploratory endpoints included centre deviation distance (CDD), index-point distances at crown and root (IPDD-C/IPDD-R), long-axis (LAD), mesiodistal (MDAD) and rotational (RAD) deviations, and Dice similarity coefficient (DSC). Group differences were tested with t-tests or Mann-Whitney U tests. The guided workflow yielded significantly lower BLAD than the freehand approach. Secondary analyses showed concordant reductions in rotational deviation and linear centring errors, with greater volumetric plan-achievement overlap. Long-axis deviation showed a modest, non-significant improvement, and mesiodistal deviation did not differ between groups. An AI-assisted dual-template workflow improves plan-delivery fidelity in tooth autotransplantation, with the largest gains in buccolingual orientation and rotational control, alongside better coronal centring and increased volumetric concordance. Apical deviation was also reduced, whereas mesiodistal alignment was unchanged. By constraining trajectory and socket margins, the guided workflow standardizes preparation and supports more predictable positioning of the transplanted tooth.",
       "objective": "",
-      "study_methods": "YME1L1 mRNA expression and survival in ACC patients were analyzed using the TCGA database with the UALCAN and GEPIA platforms.",
-      "methods": "YME1L1 mRNA expression and survival in ACC patients were analyzed using the TCGA database with the UALCAN and GEPIA platforms.",
-      "results": "ing in a poor prognosis. YME1 Like 1 ATPase (YME1L1) is an ATP-dependent metalloprotease that regulates mitochondrial proteostasis. Recently, a correlation between YME1L1 expression and the prognosis of several cancers has been reported. However, no studies have examined the expression level of YME1L1 mRNA in ACC tissues or the relationship between YME1L1 expression and the prognosis of ACC patients. Therefore, there is a need to investigate the relationship between YME1L1 expression and the prognosis of ACC patients. YME1L1 mRNA expression and survival in ACC patients were analyzed using the TCGA database with the UALCAN and GEPIA platforms. YME1L1 mRNA expression was significantly increased in ACC tissues from stage IV patients compared with stage I, II, and III patients (p<0.0005, p<0.05, and p<0.05, respectively). Furthermore, increased YME1L1 mRNA expression was inversely correlated with survival and disease-free interval in ACC patients (p<0.01). YME1L1 is highly expressed in ACC tissues and inversely correlated with patient prognosis, suggesting its potential as a prognostic biomarker for ACC patients and providing new insights into its role in tumor biology. Further studies are needed to elucidate its therapeutic significance and mechanistic contribution to the malignant progression of ACC.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41760253/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41760232",
-      "title": "FAS/FAS-ligand Apoptotic Complex Deregulation in Laryngeal Squamous Cell Carcinomas.",
-      "authors": [
-        "Michail Athanasopoulos",
-        "Vasileios Papanikolaou",
-        "Dimitrios Roukas",
-        "Aristeidis Chrysovergis",
-        "Georgios Papanastasiou",
-        "Maria Adamopoulou",
-        "Ioanna E Metaxas",
-        "Evangelos Tsiambas",
-        "Georgios Tsouvelas",
-        "Nicholas Mastronikolis",
-        "Eythimios Kyrodimos",
-        "Nikolaos Kavantzas",
-        "Georgios Agrogiannis"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "FAS/FAS-ligand (FAS-L) complex is implicated in critical cell functions including programmed cell death (apoptosis) and immune response regulation. FAS and FAS-ligand are members of the tumor necrosis factor (TNF) superfamily. Their activation triggers the caspase-mediated apoptotic cataract. The aim of this study was to investigate the role of their altered co-expression in a series of laryngeal squamous cell carcinomas (LSCCs). A set of fifty (n=50) LSCC archival tissue sections was analyzed by performing a combination of immunohistochemistry (IHC) and digital image analysis (DIA) assays for determining the expression of FAS/FAS-L expression. A broad spectrum of FAS/FAS-L expression values were detected across the examined cases. A significant negative correlation was found between FAS and FAS-L overall expression (p<0.001) indicating that higher FAS expression is associated with lower FAS-L expression. Furthermore, the expression of FAS was highest in stage IV carcinomas, whereas FAS-L was higher in stage III tumors, however, the differences were not statistically significant (p=0.260, p=0.101, respectively). Concerning the size of the examined malignancies (max diameter), the FAS/FAS-L expression showed a statistically significant difference in both (p=0.001, p=0.011, respectively). According to their expression status, larger tumors tend to demonstrate higher levels of FAS protein, whereas smaller tumors exhibit overexpression of FAS-L. FAS/FAS-L apoptotic system deregulation is a relatively frequent event in LSCCs. Dysregulation of the system - due to altered FAS and FAS-L co-expression levels - negatively affects the normal apoptotic mechanism. Additionally, this abnormality is clearly observed in aggressive phenotypes (advanced stage, enlarged tumor volume).",
-      "objective": "of this study was to investigate the role of their altered co-expression in a series of laryngeal squamous cell carcinomas (LSCCs). A set of fifty (n=50) LSCC archival tissue sections was analyzed by performing a combination of immunohistochemistry (IHC) and digital image analysis (DIA) assays for determining the expression of FAS/FAS-L expression. A broad spectrum of FAS/FAS-L expression values were detected across the examined cases. A significant negative correlation was found between FAS and FAS-L overall expression (p<0.001) indicating that higher FAS expression is associated with lower FAS-L expression. Furthermore, the expression of FAS was highest in stage IV carcinomas, whereas FAS-L was higher in stage III tumors, however, the differences were not statistically significant (p=0.260, p=0.101, respectively). Concerning the size of the examined malignancies (max diameter), the FAS/FAS-L expression showed a statistically significant difference in both (p=0.001, p=0.011, respectively). According to their expression status, larger tumors tend to demonstrate higher levels of FAS protein, whereas smaller tumors exhibit overexpression of FAS-L. FAS/FAS-L apoptotic system deregulation is a relatively frequent event in LSCCs. Dysregulation of the system - due to altered FAS and FAS-L co-expression levels - negatively affects the normal apoptotic mechanism. Additionally, this abnormality is clearly observed in aggressive phenotypes (advanced stage, enlarged tumor volume).",
-      "study_methods": "A set of fifty (n=50) LSCC archival tissue sections was analyzed by performing a combination of immunohistochemistry (IHC) and digital image analysis (DIA) assays for determining the expression of FAS/FAS-L expression.",
-      "methods": "A set of fifty (n=50) LSCC archival tissue sections was analyzed by performing a combination of immunohistochemistry (IHC) and digital image analysis (DIA) assays for determining the expression of FAS/FAS-L expression.",
+      "study_methods": "Twenty-four consecutive cases were assigned to a guided workflow (n = 12) or freehand (n = 12). In the guided group, AI-driven CBCT segmentation informed a socket-preparation guide, a socket-margin guide, and a printed donor-tooth replica; the freehand group used the replica alone. Immediate postoperative CBCT was rigidly registered to the plan. The prespecified primary endpoint was buccolingual angular deviation (BLAD). Secondary, exploratory endpoints included centre deviation distance (CDD), index-point distances at crown and root (IPDD-C/IPDD-R), long-axis (LAD), mesiodistal (MDAD) and rotational (RAD) deviations, and Dice similarity coefficient (DSC). Group differences were tested with t-tests or Mann-Whitney U tests.",
+      "methods": "Twenty-four consecutive cases were assigned to a guided workflow (n = 12) or freehand (n = 12). In the guided group, AI-driven CBCT segmentation informed a socket-preparation guide, a socket-margin guide, and a printed donor-tooth replica; the freehand group used the replica alone. Immediate postoperative CBCT was rigidly registered to the plan. The prespecified primary endpoint was buccolingual angular deviation (BLAD). Secondary, exploratory endpoints included centre deviation distance (CDD), index-point distances at crown and root (IPDD-C/IPDD-R), long-axis (LAD), mesiodistal (MDAD) and rotational (RAD) deviations, and Dice similarity coefficient (DSC). Group differences were tested with t-tests or Mann-Whitney U tests.",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
         "maxillofacial surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41760232/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41771190/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41686721",
+      "title": "Impact of Medicaid Expansion on State-Level Medicaid Reimbursement for Orthodontia in Patients With Cleft Lip and Palate: A Cost Analysis.",
+      "authors": [
+        "Ronald Rae McCall",
+        "Ashlie A Elver",
+        "Kendall C Pitre",
+        "Ian C Hoppe",
+        "Laura S Humphries"
+      ],
+      "publication_date": "2026-Mar",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "ObjectiveExamine state-level Medicaid reimbursement rates after Medicaid expansion for Phase I and II orthodontia relevant to patients with cleft lip and palate.DesignCross-sectional study of publicly available 2024 state Medicaid reimbursement rates associated with Phase I and II orthodontia. One-Way ANOVA and independent t-tests compared regional and Medicaid expansion groups.SettingNational sample of Medicaid reimbursement fee schedules.PatientsFifty US states, including DC, utilizing fee-for-service reimbursement for Medicaid enrollees.Main Outcome Measure(s)Reimbursement Rates for CPT Code D8020 (Phase I: Limited Orthodontia, Transitional Dentition) and D8080 (Phase II: Comprehensive Orthodontia, Adolescent Dentition) were compared between regions and by Medicaid expansion status.ResultsTen states did not adopt Medicaid Expansion (19.6%: AL, FL, GA, KS, MS, SC, TN, TX, WI, and WY). Coverage of Phase I care was low overall (58.5% of expanded and 55.6% of non-expanded states), with average reimbursement of $1080.13. More states offered Phase II coverage (87.8% of expanded and 77.8% of non-expanded states). Phase II reimbursement was higher in expansion states ($2596.73 ± $2252.59 vs non-expansion: $1266.78 ± $314.19; P = .001). The South trended toward higher reimbursement for Phase II ($3224.95; P = .093), followed by the West ($2902.88 ± 1327.40 vs $1413.26-$1699.10).ConclusionsProvider reimbursement influences access to orthodontia. Although Medicaid expansion aims to improve access for low-income families, gaps in orthodontic coverage persist. Despite higher Phase II reimbursement in Southern and expansion states, inadequate Phase I coverage and low reimbursement schedules limit provider participation, leaving low-income patients with clefts at risk for delayed or absent orthodontia and thus suboptimal outcomes.",
+      "objective": "to improve access for low-income families, gaps in orthodontic coverage persist. Despite higher Phase II reimbursement in Southern and expansion states, inadequate Phase I coverage and low reimbursement schedules limit provider participation, leaving low-income patients with clefts at risk for delayed or absent orthodontia and thus suboptimal outcomes.",
+      "study_methods": "",
+      "methods": "",
+      "results": "Ten states did not adopt Medicaid Expansion (19.6%: AL, FL, GA, KS, MS, SC, TN, TX, WI, and WY). Coverage of Phase I care was low overall (58.5% of expanded and 55.6% of non-expanded states), with average reimbursement of $1080.13. More states offered Phase II coverage (87.8% of expanded and 77.8% of non-expanded states). Phase II reimbursement was higher in expansion states ($2596.73 ± $2252.59 vs non-expansion: $1266.78 ± $314.19; P = .001). The South trended toward higher reimbursement for Phase II ($3224.95; P = .093), followed by the West ($2902.88 ± 1327.40 vs $1413.26-$1699.10).ConclusionsProvider reimbursement influences access to orthodontia. Although Medicaid expansion aims to improve access for low-income families, gaps in orthodontic coverage persist. Despite higher Phase II reimbursement in Southern and expansion states, inadequate Phase I coverage and low reimbursement schedules limit provider participation, leaving low-income patients with clefts at risk for delayed or absent orthodontia and thus suboptimal outcomes.",
+      "conclusion": "Provider reimbursement influences access to orthodontia. Although Medicaid expansion aims to improve access for low-income families, gaps in orthodontic coverage persist. Despite higher Phase II reimbursement in Southern and expansion states, inadequate Phase I coverage and low reimbursement schedules limit provider participation, leaving low-income patients with clefts at risk for delayed or absent orthodontia and thus suboptimal outcomes.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41686721/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2582,8 +2663,11 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41762340/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC12950138",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12950138/bin/44445_2026_127_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12950138/bin/44445_2026_127_Fig1_HTML.gif"
+      ]
     },
     {
       "pmid": "41755378",
@@ -2798,93 +2882,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41746418",
-      "title": "Mapping the landscape of OSA research: a scientometric comparison between otolaryngology and stomatology contributions.",
-      "authors": [
-        "Liang Xia",
-        "Jiali Bao",
-        "Kan Yao",
-        "Jianfei Zhang"
-      ],
-      "publication_date": "2026-Feb-26",
-      "publication_date_iso": "2026-02-26",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41746418/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41746400",
-      "title": "Pedicled myofascial temporalis flap for closure of large maxillary defects after medication-related osteonecrosis of the jaws. A case series.",
-      "authors": [
-        "Sanne Werner Moeller Andersen",
-        "Liezl Dawson",
-        "Iben Poulsen",
-        "Simon Storgaard Jensen",
-        "Thomas Kofod"
-      ],
-      "publication_date": "2026-Feb-26",
-      "publication_date_iso": "2026-02-26",
-      "abstract": "Medication-related osteonecrosis of the jaws (MRONJ) located in the maxilla may lead to challenging oro-antral and oro-nasal defects too extensive to be predictably closed with local soft tissue flaps. The use of a pedicled myofascial temporalis flap (PMTF) is, however, well-established for closing large maxillary defects following ablative craniomaxillofacial surgery. The purpose of the present study was to evaluate the use of PMTF for maxillary defect closure in patients with stage 3 MRONJ. A retrospective cohort study was conducted based on data from the Copenhagen ONJ cohort from 1 January 2005 to 31 December 2024. The inclusion criteria were consecutive patients with extensive maxillary defects after surgical treatment of MRONJ and reconstruction with PMTF. Seven patients met the inclusion criteria (three with cancer, two with osteoporosis, and two with both conditions). All defects were successfully closed using the PMTF. Healing was uneventful in all patients at the recipient site, with complete mucosal closure achieved. Postoperative pain was reduced in all cases. One patient developed a late donor-site complication requiring removal of the temporal implant; no flap-related failures occurred. The removal of necrotic bone combined with radical sinusotomy and closure of the defect with PMTF appears to be a feasible approach for managing extensive maxillary MRONJ lesions, with favourable outcomes observed in this limited cohort.",
-      "objective": "of the present study was to evaluate the use of PMTF for maxillary defect closure in patients with stage 3 MRONJ. A retrospective cohort study was conducted based on data from the Copenhagen ONJ cohort from 1 January 2005 to 31 December 2024. The inclusion criteria were consecutive patients with extensive maxillary defects after surgical treatment of MRONJ and reconstruction with PMTF. Seven patients met the inclusion criteria (three with cancer, two with osteoporosis, and two with both conditions). All defects were successfully closed using the PMTF. Healing was uneventful in all patients at the recipient site, with complete mucosal closure achieved. Postoperative pain was reduced in all cases. One patient developed a late donor-site complication requiring removal of the temporal implant; no flap-related failures occurred. The removal of necrotic bone combined with radical sinusotomy and closure of the defect with PMTF appears to be a feasible approach for managing extensive maxillary MRONJ lesions, with favourable outcomes observed in this limited cohort.",
-      "study_methods": "A retrospective cohort study was conducted based on data from the Copenhagen ONJ cohort from 1 January 2005 to 31 December 2024. The inclusion criteria were consecutive patients with extensive maxillary defects after surgical treatment of MRONJ and reconstruction with PMTF.",
-      "methods": "A retrospective cohort study was conducted based on data from the Copenhagen ONJ cohort from 1 January 2005 to 31 December 2024. The inclusion criteria were consecutive patients with extensive maxillary defects after surgical treatment of MRONJ and reconstruction with PMTF.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41746400/",
-      "pmcid": "PMC12945897",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig1a_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig1b_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig2a_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945897/bin/10006_2026_1532_Fig2b_HTML.jpg"
-      ]
-    },
-    {
-      "pmid": "41741812",
-      "title": "Does hyaluronic acid affect hard tissue healing in alveolar bone augmentation procedures? A systematic review of controlled clinical trials.",
-      "authors": [
-        "Lukas Bayyigit",
-        "Danijel Domic",
-        "Christian Ulm",
-        "Kristina Bertl",
-        "Andreas Stavropoulos"
-      ],
-      "publication_date": "2026-Feb-26",
-      "publication_date_iso": "2026-02-26",
-      "abstract": "To provide an overview on the effect of hyaluronic acid (HyA) on hard tissue healing in alveolar bone augmentation procedures in humans (PROSPERO registration: CRD42023464863). Three databases were searched until April 2025. Studies using HyA in any form and in any alveolar bone augmentation procedure were included, if a control group allowing to assess the effect of HyA was available; studies addressing periodontal regeneration or using HyA coated implants were not included. Primary outcome parameters, summarized descriptively, were histologic/radiographic new bone formation (NBF), alveolar ridge width (ARW) and height (ARH). The Cochrane Collaborations RoB 2.0 and ROBINS-I tool were used to assess the risk of bias. Fourteen studies with a follow-up of 3-12 months were included, which contributed with 229 patients and 317 sites allowing to assess the effect of HyA. HyA was assessed as adjunct to maxillary sinus floor augmentation (MSFA), guided bone regeneration (GBR), and alveolar ridge preservation (ARP). The addition of HyA significantly improved NBF in 50 and 66% of the MSFA and ARP studies, respectively; however, a significant clinical improvement was not consistently observed. Advantages for NBF as well as ARW or ARH gain have been reported in GBR procedures, but the available data are limited and mostly descriptive. No differences were observed regarding reported post-operative complication rates. Due to the heterogeneity in treatments and outcome measures, as well as the limited number of studies, a meta-analysis was not feasible for any of the outcomes. In the original studies, positive and occasionally significant results have been reported for the adjunct use of HyA in alveolar bone augmentation; however, the effect size and clinical relevance is unclear, and further clinical research is needed. HyA in alveolar bone augmentation is safe, but it remains unclear in which indication and in which application form it may enhance quality and/or quantity of NBF and at what extent.",
-      "objective": "",
-      "study_methods": "Three databases were searched until April 2025. Studies using HyA in any form and in any alveolar bone augmentation procedure were included, if a control group allowing to assess the effect of HyA was available; studies addressing periodontal regeneration or using HyA coated implants were not included. Primary outcome parameters, summarized descriptively, were histologic/radiographic new bone formation (NBF), alveolar ridge width (ARW) and height (ARH). The Cochrane Collaborations RoB 2.0 and ROBINS-I tool were used to assess the risk of bias.",
-      "methods": "Three databases were searched until April 2025. Studies using HyA in any form and in any alveolar bone augmentation procedure were included, if a control group allowing to assess the effect of HyA was available; studies addressing periodontal regeneration or using HyA coated implants were not included. Primary outcome parameters, summarized descriptively, were histologic/radiographic new bone formation (NBF), alveolar ridge width (ARW) and height (ARH). The Cochrane Collaborations RoB 2.0 and ROBINS-I tool were used to assess the risk of bias.",
-      "results": "have been reported for the adjunct use of HyA in alveolar bone augmentation; however, the effect size and clinical relevance is unclear, and further clinical research is needed. HyA in alveolar bone augmentation is safe, but it remains unclear in which indication and in which application form it may enhance quality and/or quantity of NBF and at what extent.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41741812/",
-      "pmcid": "PMC12935739",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935739/bin/784_2025_6674_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935739/bin/784_2025_6674_Tab1a_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935739/bin/784_2025_6674_Tab1b_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935739/bin/784_2025_6674_Tab1c_HTML.jpg"
-      ]
-    },
-    {
       "pmid": "41747660",
       "title": "Functional and psychosocial outcomes of simultaneous condylectomy and bimaxillary orthognathic surgery for unilateral condylar hyperplasia: Retrospective study.",
       "authors": [
@@ -2986,55 +2983,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41735422/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "41743495",
-      "title": "Commentary: Concussions in Facial Trauma Patients: A Retrospective Study.",
-      "authors": [
-        "Dino Zammit"
-      ],
-      "publication_date": "2026-Feb-23",
-      "publication_date_iso": "2026-02-23",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41743495/",
-      "pmcid": "PMC12929072",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41729299",
-      "title": "Early versus delayed fixation of maxillofacial fractures in polytrauma: a systematic review.",
-      "authors": [
-        "Jane Chen",
-        "Karen Vuong",
-        "Zsolt J Balogh"
-      ],
-      "publication_date": "2026-Feb-23",
-      "publication_date_iso": "2026-02-23",
-      "abstract": "Maxillofacial fractures are common in polytrauma, and these patients often require intensive care unit (ICU) admission until delayed definitive surgical management. This review aims to evaluate the scientific evidence on timing of definitive internal fracture fixation of maxillofacial fractures in polytrauma. We hypothesise that delayed definitive surgery is associated with better outcomes. This systematic review was conducted in accordance with the PRISMA protocol. MEDLINE, EMBASE, Scopus, CINAHL and PubMed were searched from inception to July 2025 for articles in English reporting timing of facial fracture fixation in polytrauma cohorts. Two reviewers independently screened studies and extracted data on patient characteristics, injury severity, fixation timing, and patient outcomes. Risk of bias was assessed using the Newcastle-Ottawa Scale. 359 studies were initially identified. After applying inclusion and exclusion criteria, three retrospective studies (total 365 patients) were included. Timing definitions of fixation varied, with early fixation intervals ranging from ≤ 24 h to ≤ 72 h. Surgical-site infection rates ranged from 0 to 12.7% (early) and 4.8–14.4% (delayed). No significant differences emerged in anatomical reduction, reoperation rates, or complications between groups. Hospital and ICU length of stay, ventilator days and mortality rates were comparable. Studies were heterogeneous and subject to high risk of bias. The available low-quality evidence does not support a clear advantage of the current practice of delayed fixation of facial fractures in polytrauma patients. Quality prospective studies with predefined inclusion criteria, clear consensus about the cut-off for early timing of surgery and standardised outcome measures are required. The online version contains supplementary material available at 10.1007/s00068-026-03127-2.",
-      "objective": "to evaluate the scientific evidence on timing of definitive internal fracture fixation of maxillofacial fractures in polytrauma. We hypothesise that delayed definitive surgery is associated with better outcomes. This systematic review was conducted in accordance with the PRISMA protocol. MEDLINE, EMBASE, Scopus, CINAHL and PubMed were searched from inception to July 2025 for articles in English reporting timing of facial fracture fixation in polytrauma cohorts. Two reviewers independently screened studies and extracted data on patient characteristics, injury severity, fixation timing, and patient outcomes. Risk of bias was assessed using the Newcastle-Ottawa Scale. 359 studies were initially identified. After applying inclusion and exclusion criteria, three retrospective studies (total 365 patients) were included. Timing definitions of fixation varied, with early fixation intervals ranging from ≤ 24 h to ≤ 72 h. Surgical-site infection rates ranged from 0 to 12.7% (early) and 4.8–14.4% (delayed). No significant differences emerged in anatomical reduction, reoperation rates, or complications between groups. Hospital and ICU length of stay, ventilator days and mortality rates were comparable. Studies were heterogeneous and subject to high risk of bias. The available low-quality evidence does not support a clear advantage of the current practice of delayed fixation of facial fractures in polytrauma patients. Quality prospective studies with predefined inclusion criteria, clear consensus about the cut-off for early timing of surgery and standardised outcome measures are required. The online version contains supplementary material available at 10.1007/s00068-026-03127-2.",
-      "study_methods": "This systematic review was conducted in accordance with the PRISMA protocol. MEDLINE, EMBASE, Scopus, CINAHL and PubMed were searched from inception to July 2025 for articles in English reporting timing of facial fracture fixation in polytrauma cohorts. Two reviewers independently screened studies and extracted data on patient characteristics, injury severity, fixation timing, and patient outcomes. Risk of bias was assessed using the Newcastle-Ottawa Scale.",
-      "methods": "This systematic review was conducted in accordance with the PRISMA protocol. MEDLINE, EMBASE, Scopus, CINAHL and PubMed were searched from inception to July 2025 for articles in English reporting timing of facial fracture fixation in polytrauma cohorts. Two reviewers independently screened studies and extracted data on patient characteristics, injury severity, fixation timing, and patient outcomes. Risk of bias was assessed using the Newcastle-Ottawa Scale.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41729299/",
-      "pmcid": "PMC12929254",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929254/bin/68_2026_3127_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12929254/bin/68_2026_3127_Fig1_HTML.gif"
-      ]
     }
   ]
 }
