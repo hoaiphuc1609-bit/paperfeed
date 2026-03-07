@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-06T04:13:23Z",
+  "updated_at": "2026-03-07T04:04:58Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -165,6 +165,132 @@
       ]
     },
     {
+      "pmid": "41713052",
+      "title": "DNA tetrahedron-mediated vascular targeted delivery of astragaloside IV enhances distraction osteogenesis via PI3K/AKT/FOXO pathway.",
+      "authors": [
+        "Yisheng Feng",
+        "Haojie Fu",
+        "Peiqi Zhu",
+        "Shebin Hong",
+        "Yinyu Shang",
+        "Yanchu Chen",
+        "Hongpu Wei",
+        "Hao Wu",
+        "Xuanping Huang",
+        "Weidong Jiang",
+        "Xudong Wang"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Bone regeneration during distraction osteogenesis (DO) remains limited by insufficient vascularization, which delays consolidation and compromises clinical outcomes. Here, we developed a vascular-targeted DNA nanoplatform (TDN@Ast-AptCD34) for the delivery of Astragaloside IV (Ast), a natural compound with pro-angiogenic and osteogenic properties. The nanoplatform integrated a DNA tetrahedron carrier with a vascular-targeting aptamer (AptCD34) and was further incorporated into a biocompatible mHA-PVA hydrogel for localized and sustained release. Physicochemical analyses confirmed its stable structure, efficient Ast encapsulation, and enhanced uptake by endothelial progenitor cells (EPCs). Functionally, TDN@Ast-AptCD34 significantly promoted EPC migration, tube formation, and paracrine-mediated osteogenesis of jaw bone mesenchymal stem cells (JBMSCs), thereby reinforcing angiogenesis-osteogenesis coupling. Integrated network pharmacology, RNA sequencing, and molecular dynamics simulations identified PI3K/AKT/FOXO signaling as the central downstream axis. Mechanistically, TDN@Ast-AptCD34 activated PI3K/AKT signaling and relieved FOXO1-mediated repression of angiogenic genes, which was validated by rescue experiments under PI3K inhibition. In vivo, the hydrogel-delivered nanoplatform markedly enhanced early vascularization and robust bone regeneration in a mandibular DO model, whereas these effects were significantly attenuated upon PI3K inhibition by LY294002. Collectively, this study establishes TDN@Ast-AptCD34 as a multifunctional nanoplatform that couples angiogenesis with osteogenesis via PI3K/AKT/FOXO signaling, providing a promising strategy for vascularized bone regeneration in challenging clinical settings.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41713052/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41713051",
+      "title": "Hydrogels in head and neck cancer: Innovations and translational advances in research and therapy.",
+      "authors": [
+        "Zongliang Wu",
+        "Yeung Wu",
+        "Jahedul Alam",
+        "Chi T Viet",
+        "Neeraja Dharmaraj",
+        "Andrea Molina",
+        "Gemalene Sunga",
+        "Simon Young",
+        "Moran Amit",
+        "Xin Li",
+        "Daniel Bernabe",
+        "Haogang Cai",
+        "Dong Meng",
+        "Yi Ye"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Head and neck cancer (HNC) presents significant clinical challenges due to its complex tumor biology, heterogeneous microenvironment, and limited therapeutic outcomes. Hydrogels, an innovative biopolymeric material, have gained considerable attention in both basic and translational oncology owing to their biocompatibility, biodegradability, tunable physicochemical properties, and ability to recapitulate the native tissue environment. This review provides a comprehensive overview of HNC epidemiology, molecular and cellular mechanisms, current and emerging therapeutic approaches, and the defining features of the tumor microenvironment. We then highlight diverse hydrogel systems under development, detailing their structural characteristics and biomedical applications. Hydrogel-based platforms have advanced tumor modeling by enabling three-dimensional (3D) culture systems that more accurately reflect in vivo conditions compared to conventional two-dimensional (2D) models. Cutting-edge technologies, including 3D bioprinting and tumor-on-a-chip microfluidic systems, offer new opportunities for precision modeling and drug testing in HNC. In addition, hydrogels are being engineered for therapeutic applications, such as localized and sustained drug delivery, immunomodulation, and tissue regeneration following tumor resection. Finally, we critically examine the challenges and limitations of current hydrogel-based approaches and outline future directions for their integration into HNC research and clinical practice.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41713051/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41707374",
+      "title": "Emerging functionalized artificial periostea: Diverse origins, multifaceted roles and therapeutic frontiers.",
+      "authors": [
+        "Yankun Luo",
+        "Weidong Jiang",
+        "Hao Wu",
+        "Cancan Zhao",
+        "Hongpu Wei",
+        "Xudong Wang"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "The periosteum, a specialized connective tissue layer enveloping bone surfaces, serves as a critical regulator of bone healing through its integrated neurovascular architecture, stem cell niche properties, and mechanical barrier function. Clinically, traumatic injuries or pathological conditions frequently result in periosteal tearing, avulsion, or complete loss, fundamentally disrupting its biological integrity. In practice, repairing a torn or absent periosteum is difficult, because existing options rarely recreate its coordinated biological cues and protective function. The limited availability of viable autologous periosteal grafts has propelled the engineering of artificial periosteum (AP) - bioinspired constructs designed to replicate native tissue hierarchy and functional complexity for optimized osseous regeneration. Contemporary breakthroughs in multifunctional AP have substantially elevated their therapeutic relevance, demonstrating efficacy in resolving intricate bone repair challenges. This review systematically examines biomaterial fabrication approaches for AP. It is framed around three core mechanisms that define AP function: blocking external threats, rebalancing endogenous physiology, and enabling the hierarchical coupling of osteogenesis with angiogenesis and neurogenesis. Furthermore, we evaluate emerging functionalization strategies that enhance this therapeutic precision and critically analyze the practical challenges hindering clinical translation.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "in periosteal tearing, avulsion, or complete loss, fundamentally disrupting its biological integrity. In practice, repairing a torn or absent periosteum is difficult, because existing options rarely recreate its coordinated biological cues and protective function. The limited availability of viable autologous periosteal grafts has propelled the engineering of artificial periosteum (AP) - bioinspired constructs designed to replicate native tissue hierarchy and functional complexity for optimized osseous regeneration. Contemporary breakthroughs in multifunctional AP have substantially elevated their therapeutic relevance, demonstrating efficacy in resolving intricate bone repair challenges. This review systematically examines biomaterial fabrication approaches for AP. It is framed around three core mechanisms that define AP function: blocking external threats, rebalancing endogenous physiology, and enabling the hierarchical coupling of osteogenesis with angiogenesis and neurogenesis. Furthermore, we evaluate emerging functionalization strategies that enhance this therapeutic precision and critically analyze the practical challenges hindering clinical translation.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41707374/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41691797",
+      "title": "Artificial intelligence in biomaterials for oral oncology.",
+      "authors": [
+        "Xiao-Yu Miao",
+        "Lei Chen",
+        "Shu-Han Zhang",
+        "Jing Li",
+        "Yue Feng",
+        "Xiang Li",
+        "Jian-Hua Wei",
+        "Yang Xue",
+        "Shi-Zhu Bai",
+        "Franklin R Tay",
+        "Li-Na Niu"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Oral cancer and oral potentially malignant disorders (OPMDs) remain a significant challenge in diagnosis and therapy, primarily due to inherent limitations in early detection, targeted treatment, and postoperative rehabilitation. Conventional diagnostic and therapeutic modalities often lack sufficient sensitivity, specificity, and effectiveness in restoring oral function. Biomaterials including nanoparticles, hydrogels, and scaffolds, offer versatile solutions by virtue of their tuneable properties, biocompatibility, and versatility in drug delivery and tissue engineering. However, their clinical translation is limited by the need for personalisation and lingering efficacy concerns. Artificial intelligence (AI) has emerged as a transformative approach to advance the design, optimisation, and application of biomaterials in oral oncology. By integrating machine learning (ML) and data-driven modelling, AI enhances diagnostic accuracy through biosensing and radiomic analysis, guides the rational design of drug carriers and dosing regimens, and facilitates computer-aided scaffold fabrication for maxillofacial reconstruction. This review summarises recent advances at the intersection of AI and biomaterials in the context of oral cancer and OPMDs, highlighting innovations in early detection, targeted therapy, and postoperative repair. It also discusses current barriers, including data quality, model generalizability, and regulatory oversight, and outlines future directions for interdisciplinary research. When properly integrated, AI-enabled biomaterials hold considerable potential to deliver more precise, efficient, and patient-tailored solutions for oral cancer management.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41691797/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41773293",
       "title": "Human induced pluripotent stem cell-derived inner ear organoids reveal hair cell damage and plasticity after cisplatin and gentamicin exposure.",
       "authors": [
@@ -250,6 +376,37 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41456504/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41789672",
+      "title": "Platycodin D sensitizes head and neck squamous cell carcinoma to cisplatin by inducing autophagy arrest.",
+      "authors": [
+        "Minji Bae",
+        "Min Kyeong Lee",
+        "Mi Gyeong Jeong",
+        "Yeonseo Lee",
+        "Harim Joo",
+        "Young Chan Lee",
+        "Jung Woo Lee",
+        "Su Il Kim",
+        "Seong-Gyu Ko",
+        "Young-Gyu Eun"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Head and neck squamous cell carcinoma (HNSCC) is one of the most common malignancies worldwide. Cisplatin, a widely used chemotherapeutic agent, exerts its anticancer effect by inducing DNA damage, and inhibiting transcription and replication. However, its repeated administration can lead to severe side effects and the development of drug resistance, thereby limiting its clinical efficacy. Thus, novel combination strategies are urgently needed to enhance the anticancer effects of cisplatin. The present study aimed to investigate the potential of Platycodin D (PD), a natural saponin extracted from Platycodon grandiflorus, to enhance cisplatin sensitivity in HNSCC cells. The results demonstrated that combination treatment with PD and cisplatin synergistically reduced cell viability and markedly suppressed colony formation compared with either agent alone. Furthermore, the combination treatment markedly increased intracellular reactive oxygen species (ROS) levels, and markedly downregulated the expression levels of antioxidant genes, including heme oxygenase‑1, NAD(P)H quinone dehydrogenase 1, superoxide dismutase 1 and sulfiredoxin 1. Additionally, the combination treatment excessively activated autophagy, whereas PD inhibited autophagic flux, as determined by LC3A/B and p62 accumulation following Bafilomycin A1 treatment, ultimately promoting apoptosis. These findings suggested that PD may serve as a potential cisplatin sensitizer by enhancing ROS accumulation and disrupting autophagy, thereby presenting a promising combination therapeutic strategy for the treatment of HNSCC.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "demonstrated that combination treatment with PD and cisplatin synergistically reduced cell viability and markedly suppressed colony formation compared with either agent alone. Furthermore, the combination treatment markedly increased intracellular reactive oxygen species (ROS) levels, and markedly downregulated the expression levels of antioxidant genes, including heme oxygenase‑1, NAD(P)H quinone dehydrogenase 1, superoxide dismutase 1 and sulfiredoxin 1. Additionally, the combination treatment excessively activated autophagy, whereas PD inhibited autophagic flux, as determined by LC3A/B and p62 accumulation following Bafilomycin A1 treatment, ultimately promoting apoptosis. These findings suggested that PD may serve as a potential cisplatin sensitizer by enhancing ROS accumulation and disrupting autophagy, thereby presenting a promising combination therapeutic strategy for the treatment of HNSCC.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41789672/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -875,6 +1032,90 @@
       "figure_urls": []
     },
     {
+      "pmid": "41638297",
+      "title": "Clinical acceptability and repeatability of three-dimensional maxillary positioning following orthognathic surgical wafer placement: An in vitro study.",
+      "authors": [
+        "Eun-Hack Andrew Choi",
+        "Yunji Shin",
+        "Jae-Hun Yu",
+        "Jeenyoung Kim",
+        "Utkarsh Mangal",
+        "Jun-Young Kim",
+        "Sung-Hwan Choi"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "To quantify the three-dimensional (3D) deviation between planned and achieved maxillary positions after transfer using a surgical wafer under in vitro conditions, and assess clinical acceptability and repeatability for each workflow. A bracketed typodont mounted on a mannequin was used to define three groups-Conventional (alginate impressions/plaster casts/laboratory scanning), Trios (Trios 3 intraoral scanner (IOS)), and Prime (Primescan IOS)-each with 10 technical replicates. For each replicate, virtual surgical planning was performed, a wafer was designed and 3D-printed, and the maxilla was positioned; 3D deviation was quantified as: (1) point-based 3D positional deviation (three landmarks) and (2) matrix-based 3D translational and rotational deviations. Clinical acceptability was defined as the proportion of the 10 replicates per group with 3D deviation within predefined clinical tolerance limits (0.5 mm for positional/translational; 1.0° for rotational). Repeatability was summarized by the repeatability standard deviation (sr) as specified in ISO 5725. The Trios and Prime groups achieved 100% clinical acceptability across all 3D deviations. In the Conventional group, acceptability was 90% for the anterior landmark's positional and translational deviation, with all others achieving 100%. The sr was 0.13-0.20 mm (positional), 0.23 mm (translational), and 0.22° (rotational) for the Conventional group; 0.04-0.13 mm, 0.06 mm, and 0.24° for the Trios group; 0.04-0.10 mm, 0.11 mm, and 0.17° for the Prime group. Under in vitro conditions, the demonstrated clinical acceptability and repeatability provide preliminary evidence supporting the clinical feasibility of a fully digital IOS-based workflow for wafer-mediated maxillary positioning. An IOS-based workflow can be considered clinically feasible for wafer-mediated maxillary positioning without compromising accuracy, as evaluated in terms of clinical acceptability and repeatability, while potentially eliminating impression-taking and cast fabrication steps.",
+      "objective": "",
+      "study_methods": "A bracketed typodont mounted on a mannequin was used to define three groups-Conventional (alginate impressions/plaster casts/laboratory scanning), Trios (Trios 3 intraoral scanner (IOS)), and Prime (Primescan IOS)-each with 10 technical replicates. For each replicate, virtual surgical planning was performed, a wafer was designed and 3D-printed, and the maxilla was positioned; 3D deviation was quantified as: (1) point-based 3D positional deviation (three landmarks) and (2) matrix-based 3D translational and rotational deviations. Clinical acceptability was defined as the proportion of the 10 replicates per group with 3D deviation within predefined clinical tolerance limits (0.5 mm for positional/translational; 1.0° for rotational). Repeatability was summarized by the repeatability standard deviation (sr) as specified in ISO 5725.",
+      "methods": "A bracketed typodont mounted on a mannequin was used to define three groups-Conventional (alginate impressions/plaster casts/laboratory scanning), Trios (Trios 3 intraoral scanner (IOS)), and Prime (Primescan IOS)-each with 10 technical replicates. For each replicate, virtual surgical planning was performed, a wafer was designed and 3D-printed, and the maxilla was positioned; 3D deviation was quantified as: (1) point-based 3D positional deviation (three landmarks) and (2) matrix-based 3D translational and rotational deviations. Clinical acceptability was defined as the proportion of the 10 replicates per group with 3D deviation within predefined clinical tolerance limits (0.5 mm for positional/translational; 1.0° for rotational). Repeatability was summarized by the repeatability standard deviation (sr) as specified in ISO 5725.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41638297/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41633472",
+      "title": "Feasibility and accuracy of a partial point cloud registration method for transoral robot-assisted surgery of zygoma fracture: A phantom study.",
+      "authors": [
+        "Hangyu Liu",
+        "Bimeng Jie",
+        "Chunheng Lu",
+        "Haoliang Chen",
+        "Junchen Wang",
+        "Yang He"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "To propose a novel registration method based on partial point cloud registration for transoral robot-assisted zygoma fracture surgery and validate its accuracy via a phantom study. This study comprised two validation phases. 1) Feasibility of partial zygomatic surface point cloud registration. Forty sets of normal CT data were selected from an established normative database. After segmentation and 3D reconstruction of zygoma, point clouds from different exposure ranges on the zygomatic bone surface (Group A: Full Zygomatic Bone Outer Surface; Group B: Area Below Infraorbital Margin; and Group C: Area Below Infraorbital Foramen.) were extracted and registered to the intact zygoma using the Iterative Closest Point (ICP) algorithm. The Fiducial Registration Error (FRE) was computed for each group. 2) Accuracy of partial point cloud registration: 10 pre-operative CT scans of zygomatic fractures were selected. Registration using fiducial markers served as the control (Group A). Using a self-developed and previously validated binocular vision camera and probe, point clouds of different exposure range (Group B1, B2, and B3) on the zygomatic bone surface were collected and registered using ICP algorithm. The accuracy of partial point cloud registration for different zygomatic bone surface areas was comparatively evaluated using both FRE and Target Registration Error (TRE). Feasibility of partial zygomatic surface point cloud registration: The FRE for Group A, B, and C was 0.16 ± 0.16 mm, 0.18 ± 0.14 mm and 0.22 ± 0.13 mm (P > 0.05). Accuracy of partial point cloud registration: The TRE for Group A, B1, B2, and B3 was 0.47 ± 0.17 mm, 0.70 ± 0.17 mm, 0.70 ± 0.17 mm, 0.86 ± 0.24 mm. (P < 0.001) CONCLUSION: The proposed method, based on partial point cloud registration, demonstrated both accuracy and feasibility, offering a foundation for future advancements in transoral robot-assisted surgery of zygoma fracture. For transoral robotic-assisted zygoma reduction, the most crucial part is to enable the robot to accurately localize bone fragments following limited surgical exposure. The innovative registration approach based on partial point cloud registration has been proven to possess both accuracy and feasibility, which lays a solid foundation for the future development of transoral robot-assisted surgical techniques in the treatment of zygomatic fractures.",
+      "objective": "",
+      "study_methods": "This study comprised two validation phases. 1) Feasibility of partial zygomatic surface point cloud registration. Forty sets of normal CT data were selected from an established normative database. After segmentation and 3D reconstruction of zygoma, point clouds from different exposure ranges on the zygomatic bone surface (Group A: Full Zygomatic Bone Outer Surface; Group B: Area Below Infraorbital Margin; and Group C: Area Below Infraorbital Foramen.) were extracted and registered to the intact zygoma using the Iterative Closest Point (ICP) algorithm. The Fiducial Registration Error (FRE) was computed for each group. 2) Accuracy of partial point cloud registration: 10 pre-operative CT scans of zygomatic fractures were selected. Registration using fiducial markers served as the control (Group A). Using a self-developed and previously validated binocular vision camera and probe, point clouds of different exposure range (Group B1, B2, and B3) on the zygomatic bone surface were collected and registered using ICP algorithm. The accuracy of partial point cloud registration for different zygomatic bone surface areas was comparatively evaluated using both FRE and Target Registration Error (TRE).",
+      "methods": "This study comprised two validation phases. 1) Feasibility of partial zygomatic surface point cloud registration. Forty sets of normal CT data were selected from an established normative database. After segmentation and 3D reconstruction of zygoma, point clouds from different exposure ranges on the zygomatic bone surface (Group A: Full Zygomatic Bone Outer Surface; Group B: Area Below Infraorbital Margin; and Group C: Area Below Infraorbital Foramen.) were extracted and registered to the intact zygoma using the Iterative Closest Point (ICP) algorithm. The Fiducial Registration Error (FRE) was computed for each group. 2) Accuracy of partial point cloud registration: 10 pre-operative CT scans of zygomatic fractures were selected. Registration using fiducial markers served as the control (Group A). Using a self-developed and previously validated binocular vision camera and probe, point clouds of different exposure range (Group B1, B2, and B3) on the zygomatic bone surface were collected and registered using ICP algorithm. The accuracy of partial point cloud registration for different zygomatic bone surface areas was comparatively evaluated using both FRE and Target Registration Error (TRE).",
+      "results": "",
+      "conclusion": "The proposed method, based on partial point cloud registration, demonstrated both accuracy and feasibility, offering a foundation for future advancements in transoral robot-assisted surgery of zygoma fracture. For transoral robotic-assisted zygoma reduction, the most crucial part is to enable the robot to accurately localize bone fragments following limited surgical exposure. The innovative registration approach based on partial point cloud registration has been proven to possess both accuracy and feasibility, which lays a solid foundation for the future development of transoral robot-assisted surgical techniques in the treatment of zygomatic fractures.",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41633472/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41633471",
+      "title": "Clinical validation of an automated zygomatic implant planning system: An international multicenter study.",
+      "authors": [
+        "Wenying Wang",
+        "Haitao Li",
+        "Feng Wang",
+        "James Chow",
+        "Rubén Davó",
+        "Xiaojun Chen",
+        "Baoxin Tao",
+        "Yiqun Wu"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "To validate the performance of a novel automated zygomatic implant (ZI) planning tool (Zygoplanner) in an international multicenter cohort. Preoperative computed tomography (CT) scans from 69 patients (276 ZIs) who underwent quad zygomatic implant surgery were retrospectively analyzed using Zygoplanner. Automated ZI plans generated by Zygoplanner were compared with the corresponding clinically placed implants. The comparison metrics included three-dimensional bone-to-implant contact (3D-BIC), Zygoma Anatomy-Guided Approach (ZAGA) classification, safety distances to the orbital rim and the inferior border of the zygoma, inter-implant spacing, surgeon subjective assessments, and a blinded Turing test. Compared with clinically-proved manual plans, Zygoplanner-based automated ZI plans achieved significantly higher 3D-BIC values (p < 0.001). In the internal dataset, automated plans showed slightly shorter orbital rim distances (4.51 vs 5.71 mm, p = 0.022) but significantly greater distances to the inferior zygomatic border (8.21 vs 7.20 mm, p = 0.015). In the external dataset, Zygoplanner demonstrated significantly larger inter-implant spacing (3.01 vs 1.18 mm, p < 0.001). Despite these differences, ZAGA classifications remained consistent between both groups. Subjective evaluations by experienced surgeons yielded high scores for stability (4.63/5), feasibility (4.51/5), and safety (4.25/5). In the blinded Turing test, Zygoplanner-generated plans were identified as human expert in 65.2 % of cases, significantly exceeds the 50 % random guessing threshold (p = 0.0075). Zygoplanner automatically generates clinically acceptable quad ZI plans with improved 3D-BIC, which effectively reduces the planning complexity and facilitates better preoperative ZI planning. Zygoplanner shows strong potential to automate and standardize quad zygomatic implant planning, thereby improving surgical predictability and safety while simplifying the planning workflow. Its automated workflow supports more consistent outcomes and may broaden access to advanced zygomatic implant rehabilitation for patients with edentulous maxillae.",
+      "objective": "",
+      "study_methods": "Preoperative computed tomography (CT) scans from 69 patients (276 ZIs) who underwent quad zygomatic implant surgery were retrospectively analyzed using Zygoplanner. Automated ZI plans generated by Zygoplanner were compared with the corresponding clinically placed implants. The comparison metrics included three-dimensional bone-to-implant contact (3D-BIC), Zygoma Anatomy-Guided Approach (ZAGA) classification, safety distances to the orbital rim and the inferior border of the zygoma, inter-implant spacing, surgeon subjective assessments, and a blinded Turing test.",
+      "methods": "Preoperative computed tomography (CT) scans from 69 patients (276 ZIs) who underwent quad zygomatic implant surgery were retrospectively analyzed using Zygoplanner. Automated ZI plans generated by Zygoplanner were compared with the corresponding clinically placed implants. The comparison metrics included three-dimensional bone-to-implant contact (3D-BIC), Zygoma Anatomy-Guided Approach (ZAGA) classification, safety distances to the orbital rim and the inferior border of the zygoma, inter-implant spacing, surgeon subjective assessments, and a blinded Turing test.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41633471/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41624391",
       "title": "Global research trends, evolution, and future directions on platelet-rich plasma in surgery: A bibliometric analysis.",
       "authors": [
@@ -919,6 +1160,32 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41621195/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41616922",
+      "title": "Comparison of the accuracy of Robotic arm and Dynamic Navigation in the placement of mandibular dental implants: An in-vitro study.",
+      "authors": [
+        "Bander N Al-Meshary",
+        "Mohammed Y Al-Jarsha",
+        "Kurt B Naudi",
+        "Ashraf Ayoub"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "To compare the spatial accuracy between Robotic Computer-Assisted implant Surgery (R-CAIS) and Dynamic Computer-Assisted Implant Surgery (D-CAIS) for placement of dental implants. The study was carried out on twelve polyurethane mandibular models which were randomly divided into two groups (n = 6): D-CAIS (group 1) and R-CAIS (group 2). In group 1 the placement of two mandibular implants was carried out manually guided by dynamic navigation. In group 2, the placement of the two mandibular implants was achieved using a robotic arm. The postoperative Cone Beam Computed Tomography (CBCT) scans were superimposed on the predication planning to calculate the errors of the placement of the implants at entry point and at the apex as well as any angulation deviation. The statistical significance of the placement errors was assessed using Student t-tests and Mann-Whitney U tests (p < 0.05) for parametric and non-parametric measurements, respectively. D-CAIS group cases showed significantly lower entry and apex deviations (0.99 ± 0.33 mm; 0.77 ± 0.34 mm) compared to the R-CAIS group (1.82 ± 0.50 mm; 1.30 ± 0.51 mm). Angular deviation was comparable between the two groups (3.97 ± 2.40° vs 4.33 ± 1.83°; p = 0.51). The standard deviations of the linear placement errors (entry and apex) were smaller in the D-CAIS group, whereas the standard deviation of the angular deviation was smaller in the R-CAIS group. Although the angular deviation differed slightly between the two approaches, the results showed no statistically significant difference. The measured implant placement errors of the two approaches were clinically acceptable (< 2 mm; < 5°). The measured errors are likely to be secondary to the registration process which was more complex with the application of the robotic arm for the placement of the implants. D-CAIS demonstrated higher accuracy in mandibular implant placement, particularly in terms of linear deviations, while R-CAIS showed greater consistency in angular measurements despite no significant difference between groups. Overall, the observed deviations were small and are of limited clinical significance. These findings reflect system-level performance in a controlled laboratory setting, further clinical studies are required to validate these results. The study investigated the challenges and opportunities of the clinical application of dynamic navigation and robotic arm for the placement of dental implants. It informs the reader with the related technical details and the digital workflow for each of these two innovative techniques.",
+      "objective": "",
+      "study_methods": "The study was carried out on twelve polyurethane mandibular models which were randomly divided into two groups (n = 6): D-CAIS (group 1) and R-CAIS (group 2). In group 1 the placement of two mandibular implants was carried out manually guided by dynamic navigation. In group 2, the placement of the two mandibular implants was achieved using a robotic arm. The postoperative Cone Beam Computed Tomography (CBCT) scans were superimposed on the predication planning to calculate the errors of the placement of the implants at entry point and at the apex as well as any angulation deviation. The statistical significance of the placement errors was assessed using Student t-tests and Mann-Whitney U tests (p < 0.05) for parametric and non-parametric measurements, respectively.",
+      "methods": "The study was carried out on twelve polyurethane mandibular models which were randomly divided into two groups (n = 6): D-CAIS (group 1) and R-CAIS (group 2). In group 1 the placement of two mandibular implants was carried out manually guided by dynamic navigation. In group 2, the placement of the two mandibular implants was achieved using a robotic arm. The postoperative Cone Beam Computed Tomography (CBCT) scans were superimposed on the predication planning to calculate the errors of the placement of the implants at entry point and at the apex as well as any angulation deviation. The statistical significance of the placement errors was assessed using Student t-tests and Mann-Whitney U tests (p < 0.05) for parametric and non-parametric measurements, respectively.",
+      "results": "showed no statistically significant difference. The measured implant placement errors of the two approaches were clinically acceptable (< 2 mm; < 5°). The measured errors are likely to be secondary to the registration process which was more complex with the application of the robotic arm for the placement of the implants. D-CAIS demonstrated higher accuracy in mandibular implant placement, particularly in terms of linear deviations, while R-CAIS showed greater consistency in angular measurements despite no significant difference between groups. Overall, the observed deviations were small and are of limited clinical significance. These findings reflect system-level performance in a controlled laboratory setting, further clinical studies are required to validate these results. The study investigated the challenges and opportunities of the clinical application of dynamic navigation and robotic arm for the placement of dental implants. It informs the reader with the related technical details and the digital workflow for each of these two innovative techniques.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery",
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41616922/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -973,6 +1240,33 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41604812/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41581748",
+      "title": "An alternative radiation-free method for assessing the accuracy of robotic computer-assisted implant surgery: a cross-sectional study.",
+      "authors": [
+        "Rongrong Zhu",
+        "Longlong He",
+        "Qin Zhou",
+        "Meng Zhang",
+        "Xiaofeng Chang",
+        "Ningbo Zhao"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "This study aimed to assess the accuracy of implant placement performed using robotic computer-assisted implant surgery (r-CAIS) by comparing postoperative measurements obtained via intraoral scanning (IOS) with those derived from cone-beam computed tomography (CBCT). The study employed a cross-sectional design. All patients received a preoperative CBCT and IOS for surgical planning and registration. All the surgeries were performed using r-CAIS. Postoperative CBCT and IOS datasets were acquired for each patient and superimposed on the preoperative datasets to assess deviations between planned and actual implant positions. Paired t-tests were used to analyze differences between the two assessment modalities, with statistical significance defined as P < 0.05. Agreement between the two methods was evaluated using intra-class correlation coefficients (ICCs) and Bland-Altman analyses. Thirty-four implants in twenty-seven patients were included. Global coronal, global apical, and angular deviations measured using the IOS method were 0.59 ± 0.23 mm, 0.66 ± 0.24 mm, and 1.28 ± 0.69°, respectively, compared with 0.59 ± 0.24 mm, 0.63 ± 0.25 mm, and 1.19 ± 0.70° measured by the CBCT method. No statistically significant differences were observed between the two modalities (P > 0.05, respectively). ICCs for global coronal, global apical, and angular deviations were 0.911, 0.886, and 0.856, respectively. Bland-Altman analyses further confirmed excellent agreement between the two methods. Both IOS and CBCT methods demonstrated comparable accuracy and good agreement in r-CAIS. Postoperative IOS method may serve as a reliable and radiation-free alternative to CBCT for assessing implant placement accuracy in r-CAIS in patients with a single missing tooth or two consecutive missing teeth. In future, multicenter randomized controlled trials with larger sample sizes are warranted to further validate these findings.",
+      "objective": "",
+      "study_methods": "The study employed a cross-sectional design. All patients received a preoperative CBCT and IOS for surgical planning and registration. All the surgeries were performed using r-CAIS. Postoperative CBCT and IOS datasets were acquired for each patient and superimposed on the preoperative datasets to assess deviations between planned and actual implant positions. Paired t-tests were used to analyze differences between the two assessment modalities, with statistical significance defined as P < 0.05. Agreement between the two methods was evaluated using intra-class correlation coefficients (ICCs) and Bland-Altman analyses.",
+      "methods": "The study employed a cross-sectional design. All patients received a preoperative CBCT and IOS for surgical planning and registration. All the surgeries were performed using r-CAIS. Postoperative CBCT and IOS datasets were acquired for each patient and superimposed on the preoperative datasets to assess deviations between planned and actual implant positions. Paired t-tests were used to analyze differences between the two assessment modalities, with statistical significance defined as P < 0.05. Agreement between the two methods was evaluated using intra-class correlation coefficients (ICCs) and Bland-Altman analyses.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41581748/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1171,240 +1465,27 @@
       "figure_urls": []
     },
     {
-      "pmid": "41478786",
-      "title": "Nodular mass on the gingiva.",
+      "pmid": "41215733",
+      "title": "Defense Systems and Prophage Detection in Streptococcus mutans Strains.",
       "authors": [
-        "Vindhya Savithri",
-        "Rakesh Suresh",
-        "Mahija Janardhanan",
-        "Ravi Veeraraghavan",
-        "Renju Jose",
-        "Thara Aravind"
+        "Olivier Claisse",
+        "Cas Mosterd",
+        "Claire Le Marrec",
+        "Johan Samot"
       ],
       "publication_date": "2026-Apr",
       "publication_date_iso": "2026-04-01",
-      "abstract": "",
+      "abstract": "Although the species is extensively studied, limited data are available on antiphage defense systems (APDSs) in Streptococcus mutans. The present study aimed to explore the diversity and the occurrence of APDSs and to search for prophages in the genomes of clinical isolates of S. mutans using bioinformatics tools. Forty-four clinical isolates of S. mutans were obtained from saliva samples of people with Parkinson's disease. Genomic DNA was extracted, sequenced using Illumina MiSeq technology, and analyzed for the presence of defense systems using DefenseFinder and PADLOC. CRISPR-Cas systems were characterized using CRISPRCasFinder, and prophages were detected by the PhiSpy pipeline from RAST. AcrFinder and AcrHub were used to identify anti-CRISPR proteins. Each strain harbored between 6 and 12 APDS, with restriction-modification systems being the most prevalent, followed by the MazEF toxin-antitoxin system and CRISPR-Cas systems. Type II-C CRISPR-Cas systems were not identified here in S. mutans. Novel variations in type II-A signature protein Cas9 were identified, allowing their classification into four distinct groups. Variability in direct repeat sequences within the same CRISPR array was also observed, and 80% of the spacers were classified as targeting \"dark matter\". A unique prophage, phi_37bPJ2, was detected, showing high similarity with previously described phages. The AcrIIA5 protein encoded by phi_37bPJ2 was conserved and suggested to remain functionally active. This study reveals the diversity of APDSs in S. mutans and the limited presence of prophages. The findings provide a foundation for future research on the evolutionary dynamics of these systems and their role in S. mutans adaptation to phage pressure.",
       "objective": "",
       "study_methods": "",
       "methods": "",
       "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41478786/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41422573",
-      "title": "5-Aza-CdR increases expression of the tight junction protein ZO-1 via upregulation of miR-126 through promoter hypomethylation in HMEC-1 cells.",
-      "authors": [
-        "Xi Zhang",
-        "Shaohan Zhang",
-        "Yuzhi Shao",
-        "You Liu",
-        "Kerui Gong",
-        "Chunyang Zhang",
-        "Zhijun Zhao",
-        "Xuguo Ma",
-        "Gang Fu",
-        "Guo Shao"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Cellular junctions are vital for endothelial cell (EC) function, with ZO-1 being a key tight junction protein influenced by miR-126. This study examines how 5-Aza-2'-deoxycytidine (5-Aza-CdR), a DNMT inhibitor, affects ZO-1 and miR-126 levels in HMEC-1 cells in vitro. HMEC-1 cells were treated with 5-Aza-CdR. ZO-1 expression was measured by real-time PCR and western blot. The expression level of miR-126 and its promoter DNA methylation level were determined by real-time PCR and MS-PCR. The mRNA and protein expression levels of DNMTs were detected by real-time PCR and western blot. The global methylation level was detected by 5-mC-positive signal using laser confocal microscopy and by combined bisulfite restriction analysis (COBRA) for Alu and Long interspersed element-1 (LINE-1) methylation patterns. Cell apoptotic and cell cycle were analyzed using cytometry. The expression of ZO-1 was enhanced with the upregulation of miR-126 via its promoter DNA hypomethylation. The DNMT1 and DNMT3A as well as global methylation levels were decreased with the S-phase cell cycle arrested in HMEC-1 cells which were treated with 5-Aza-CdR. This study indicated that 5-Aza-CdR can induce the ZO-1 expression related to the up-regulation of miR-126 through the DNA methylation mechanism in ECs.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41422573/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41411722",
-      "title": "Multi-omics profiling of ACOX3 unveils pan-cancer clinical biomarker potential.",
-      "authors": [
-        "Wan-Li Wang",
-        "Qiao Xiong",
-        "Bo Ma",
-        "Xin-Hua Liang",
-        "Ya-Ling Tang"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "This study aims to comprehensively characterize ACOX3 as a novel pan-cancer biomarker by assessing its expression heterogeneity, clinical relevance, tumor-immune interactions and therapeutic potential across multiple cancer types. The multi-omics analyses of the ACOX3 expression pattern were performed. Prognostic and diagnostic significance was evaluated by Cox regression, Kaplan-Meier survival and ROC analyses. Immune correlates were assessed in terms of immune cell infiltration, checkpoint and immunomodulatory activity. Drug sensitivity was predicted through molecular docking and molecular dynamics simulations to evaluate binding affinity and complex stability. Experimental validation was conducted in HNSCC cell lines. ACOX3 was significantly upregulated in KICH, PRAD and THCA, and downregulated in COAD, HNSCC, KIRP, LIHC and STAD. The OS Cox regression showed high ACOX3 expression was associated with a favorable prognosis in HNSCC but poor outcomes in LGG and UVM. The ROC curves showed that the AUC for ESCA, GBM, OV, PAAD, STES and WT exceeded 0.8. ACOX3 expression positively correlated with CD4⁺T, CD8⁺T and NK cells in HNSCC. Single-cell and spatial transcriptomics revealed ACOX3 enrichment in malignant regions, particularly in CD4⁺T, CD8⁺T and CD8⁺Tex cells. Drug screening prioritized AZD6482 and TGX-221 as high-affinity ACOX3 inhibitors, and the AZD6482 showed stable binding in MD simulations. Functional experiments confirmed that ACOX3 overexpression suppressed HNSCC cell proliferation, invasion and migration. ACOX3 represents a dual diagnostic and prognostic biomarker with broad pan-cancer relevance, exhibiting distinct immune correlates and therapeutic potential.",
-      "objective": "to comprehensively characterize ACOX3 as a novel pan-cancer biomarker by assessing its expression heterogeneity, clinical relevance, tumor-immune interactions and therapeutic potential across multiple cancer types. The multi-omics analyses of the ACOX3 expression pattern were performed. Prognostic and diagnostic significance was evaluated by Cox regression, Kaplan-Meier survival and ROC analyses. Immune correlates were assessed in terms of immune cell infiltration, checkpoint and immunomodulatory activity. Drug sensitivity was predicted through molecular docking and molecular dynamics simulations to evaluate binding affinity and complex stability. Experimental validation was conducted in HNSCC cell lines. ACOX3 was significantly upregulated in KICH, PRAD and THCA, and downregulated in COAD, HNSCC, KIRP, LIHC and STAD. The OS Cox regression showed high ACOX3 expression was associated with a favorable prognosis in HNSCC but poor outcomes in LGG and UVM. The ROC curves showed that the AUC for ESCA, GBM, OV, PAAD, STES and WT exceeded 0.8. ACOX3 expression positively correlated with CD4⁺T, CD8⁺T and NK cells in HNSCC. Single-cell and spatial transcriptomics revealed ACOX3 enrichment in malignant regions, particularly in CD4⁺T, CD8⁺T and CD8⁺Tex cells. Drug screening prioritized AZD6482 and TGX-221 as high-affinity ACOX3 inhibitors, and the AZD6482 showed stable binding in MD simulations. Functional experiments confirmed that ACOX3 overexpression suppressed HNSCC cell proliferation, invasion and migration. ACOX3 represents a dual diagnostic and prognostic biomarker with broad pan-cancer relevance, exhibiting distinct immune correlates and therapeutic potential.",
-      "study_methods": "The multi-omics analyses of the ACOX3 expression pattern were performed. Prognostic and diagnostic significance was evaluated by Cox regression, Kaplan-Meier survival and ROC analyses. Immune correlates were assessed in terms of immune cell infiltration, checkpoint and immunomodulatory activity. Drug sensitivity was predicted through molecular docking and molecular dynamics simulations to evaluate binding affinity and complex stability. Experimental validation was conducted in HNSCC cell lines.",
-      "methods": "The multi-omics analyses of the ACOX3 expression pattern were performed. Prognostic and diagnostic significance was evaluated by Cox regression, Kaplan-Meier survival and ROC analyses. Immune correlates were assessed in terms of immune cell infiltration, checkpoint and immunomodulatory activity. Drug sensitivity was predicted through molecular docking and molecular dynamics simulations to evaluate binding affinity and complex stability. Experimental validation was conducted in HNSCC cell lines.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41411722/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41407647",
-      "title": "The effectiveness of virtual reality in relieving anxiety and pain for adult oral surgical procedures patients: a systematic review and meta-analysis.",
-      "authors": [
-        "Xu Liu",
-        "Haiyan Wang",
-        "Quantong Zhao",
-        "Ran Wang",
-        "Hongshi Cao"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "The objective of this systematic review and meta-analysis was to assess the effectiveness of virtual reality interventions in alleviating intraoperative pain and anxiety among adult patients undergoing oral surgical procedures. From the database's creation until Feb 2, 2025, a thorough search was carried out across 13 electronic databases. Anxiety and pain throughout the procedure were important outcomes. The combined impacts were assessed using a random-effects model, with subgroup analyses looking into possible contributing variables. The risk of bias was evaluated using the Cochrane Risk of Bias 2 method. A total of 9 articles were eventually included in the study selection. Results of the meta-analysis reveal a statistically significant effect of virtual reality in reducing intraoperative anxiety in adults undergoing oral surgery (SMD = -0.26, 95% CI: (-0.48, -0.03), P < .05). Statistically significant effect in reducing intraoperative pain in adult oral surgery (SMD= -0.67, 95% CI: (-1.08, -0.26), P < .01). This meta-analysis confirms the value of virtual reality in terms of oral surgery by distracting adult patients from intraoperative anxiety and pain. However, more high-quality, multicenter, and large-sample randomized controlled trials are needed to further assess its clinical value in the future.",
-      "objective": "of this systematic review and meta-analysis was to assess the effectiveness of virtual reality interventions in alleviating intraoperative pain and anxiety among adult patients undergoing oral surgical procedures. From the database's creation until Feb 2, 2025, a thorough search was carried out across 13 electronic databases. Anxiety and pain throughout the procedure were important outcomes. The combined impacts were assessed using a random-effects model, with subgroup analyses looking into possible contributing variables. The risk of bias was evaluated using the Cochrane Risk of Bias 2",
-      "study_methods": "",
-      "methods": "",
-      "results": "of the meta-analysis reveal a statistically significant effect of virtual reality in reducing intraoperative anxiety in adults undergoing oral surgery (SMD = -0.26, 95% CI: (-0.48, -0.03), P < .05). Statistically significant effect in reducing intraoperative pain in adult oral surgery (SMD= -0.67, 95% CI: (-1.08, -0.26), P < .01). This meta-analysis confirms the value of virtual reality in terms of oral surgery by distracting adult patients from intraoperative anxiety and pain. However, more high-quality, multicenter, and large-sample randomized controlled trials are needed to further assess its clinical value in the future.",
       "conclusion": "",
       "limitations": "",
       "topics": [
         "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41407647/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41198518",
-      "title": "Risk profile for recurrence after interdisciplinary treatment of odontogenic maxillary sinusitis: experience of a single centre.",
-      "authors": [
-        "Andreas Sakkas",
-        "Thomas Lins",
-        "Majeed Rana",
-        "Mario Scheurer",
-        "Marcel Ebeling",
-        "Alexander Schramm",
-        "Frank Wilde",
-        "Matthias Tisch",
-        "Alisa Schramm",
-        "Guido Mühlmeier"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Odontogenic maxillary sinusitis remains a clinical challenge with incompletely understood recurrence patterns. This study aimed to determine the incidence of recurrence and identify associated risk factors following interdisciplinary surgical treatment involving oral and maxillofacial surgery and otorhinolaryngology. A retrospective cohort of 203 patients treated for OMS over a 10-year period was analyzed. Data included demographic, clinical, radiological, and procedural variables. The primary outcome was OMS recurrence within 12 months after initial surgery. Univariable and multivariable analyses assessed associations between recurrence and defined risk factors. Among 203 patients (mean age 53.7 ± 18.4 years), the most common etiology was odontogenic cysts (44.3%). OMS recurrence occurred in 15.7% (n = 32) of cases. No significant association was found between recurrence and patient-specific factors (age, smoking, antiresorptive therapy, chemotherapy, sinusitis symptoms), anatomical variables (nasal septum deviation, congested maxillary sinus natural ostium), or procedural aspects (surgical removal of the intraoral cause with or without simultaneous FESS, surgical access route, multilayer soft tissue closure) (P > .05). Despite a moderate recurrence rate, no significant patient-specific, anatomical, or procedure-specific predictors of recurrence were identified. These findings emphasize the importance of individualized treatment planning and interdisciplinary management. Prospective studies are needed to validate risk stratification tools for recurrence prevention in high-risk OMS patients.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41198518/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41086705",
-      "title": "3D perfusable minichannels stented with matrix bound vesicles derived from gingival mesenchymal stem cells ameliorated granuloma-related stenosis and improved survival in a rabbit tracheal replacement model.",
-      "authors": [
-        "Bing Liu",
-        "Xinchi Zhang",
-        "Na Wei",
-        "Xiaopeng Wu",
-        "Pingping Yuan",
-        "Tian Zeng",
-        "Lirong Liang",
-        "Hui Zhang",
-        "Wei Wu"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Successful tracheal regeneration remains a significant challenge in tracheal replacement, with tracheal stenosis posing a major obstacle. Decellularized extracellular matrices (dECMs) are emerging as promising alternatives for tissue engineering applications related to the trachea. However, preserving the bioactivity of ECM during the decellularization process presents a significant challenge that compromises its utility in tissue repair, particularly for tracheas that are continuously exposed to pollutants. To address these limitations, we developed a perfusable minichannel scaffold enriched with cartilaginous acellular extracellular matrix-bound vesicles derived from gingival mesenchymal stem cells (gMVs-cACM). Through controlled porosity optimization and the integration of melt electrospinning writing (MEW), this novel perfusable minichannel scaffold facilitates the oriented deposition of the extracellular matrix and the preservation of gMVs via the perfusion decellularization process. In vitro and in vivo functional analyses demonstrated that gMV-cACM generated from perfused decellularization exhibits potent immunomodulatory effects. This was evidenced by tracheal transplantation models, which showed a 54.0 ± 8 % reduction in postoperative granuloma-related stenosis compared to cACM generated from dynamic decellularization, along with an improved survival rate. Mechanistically, proteomic sequencing revealed the downregulation of Interleukin-1β (IL-1β) in response to modulation of the immune microenvironment. In conclusion, this study presents a novel perfusable minichannel scaffold that enhances the bioactivity of dECMs and highlights the potential of gMV-cACM-based scaffolds to advance the field of tracheal tissue engineering.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": ", this study presents a novel perfusable minichannel scaffold that enhances the bioactivity of dECMs and highlights the potential of gMV-cACM-based scaffolds to advance the field of tracheal tissue engineering.",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41086705/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41086703",
-      "title": "Biomaterial-based strategies for cell-free nucleic acids scavenging and macrophage modulation in oral diseases: Mechanisms and therapeutic potential.",
-      "authors": [
-        "Jiali Chen",
-        "Xu Cheng",
-        "Shiming Zhang",
-        "Hao Sui",
-        "Kun Fang",
-        "Shili Li",
-        "Renjie Yang",
-        "Chao Yang",
-        "Dan Shao",
-        "Qian Zheng",
-        "Bing Shi",
-        "Kam W Leong",
-        "Hanyao Huang"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Cell-free nucleic acids (cfNAs), including cfDNA and cfRNA, have emerged as potent drivers of inflammation and immune dysregulation in oral diseases by activating nucleic acid-sensing pathways and inducing macrophage polarization. These processes disrupt immune homeostasis and impair tissue regeneration, positioning cfNAs not only as biomarkers but also as active immunological effectors. Recent advances highlight the therapeutic potential of biomaterial-based strategies for scavenging cfNAs and modulating macrophage phenotypes. These include cationic polymers, nanoparticles, hydrogels, micro/nanogels, nano/microfibers, microneedles, and enzymatic or artificial nuclease systems. This review systematically outlines cfNA-sensing mechanisms and the resulting macrophage-mediated immune responses that drive oral pathologies, and discusses emerging biomaterial platforms designed to restore immune balance and facilitate tissue repair. These insights underscore the translational promise of cfNA-scavenging immunotherapies across a broad spectrum of oral diseases.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing macrophage-mediated immune responses that drive oral pathologies, and discusses emerging biomaterial platforms designed to restore immune balance and facilitate tissue repair. These insights underscore the translational promise of cfNA-scavenging immunotherapies across a broad spectrum of oral diseases.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41086703/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41021767",
-      "title": "Gravity, microgravity, and artificial gravity: physiological effects, implementation, and applications.",
-      "authors": [
-        "Nandu Goswami",
-        "Andrew Philip Blaber",
-        "Giovanna Valenti",
-        "Helmut Hinghofer-Szalkay",
-        "Joyce Evans",
-        "Damian Miles Bailey",
-        "Joan Vernikos",
-        "Alexander Choukér",
-        "David Andrew Green",
-        "Olivier White",
-        "Jack J W A van Loon",
-        "Victor A Convertino"
-      ],
-      "publication_date": "2026-Apr-01",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Gravity, the force that structures the cosmos, also shapes human physiology. It influences skeletal, muscular, cardiovascular, respiratory, and neurological systems, sustaining balance, blood circulation, and functional capacity. Unlike other senses, the brain lacks a dedicated gravity-sensing region and instead relies on a distributed vestibular network, graviception, to interpret gravitational cues. On Earth, gravity-driven blood pooling in the legs triggers compensatory responses that preserve cerebral perfusion. In microgravity, these mechanisms are altered, leading to fluid shifts toward the head, visual disturbances, cerebral changes, and increased thrombosis risk. Prolonged spaceflight induces muscle atrophy, bone demineralization, cardiovascular deconditioning, and orthostatic intolerance upon return to Earth. Whether these changes represent \"adaptation\" or \"deconditioning\" remains debated, but the outcomes resemble the physiological decline of frailty and aging. Earth-based analogs, including bed rest, dry immersion, and parabolic flights, reproduce many of these effects, linking gravitational unloading to postural instability, orthostatic hypotension, falls, and fractures. Such complications often fuel a vicious cycle of immobility and functional decline, central to both chronic illness and geriatric care. Viewing spaceflight as a model of accelerated aging offers new opportunities for clinical innovation. Research in altered gravity environments provides insights into countermeasures that preserve muscle mass, cardiovascular stability, and postural control. Strategies such as targeted exercise, optimized fluid management, and even hypergravity interventions may not only safeguard astronaut health but also translate into novel therapies for older adults. By bridging space medicine and aging research, these approaches can help mitigate frailty, reduce health care burdens, and enhance quality of life.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41021767/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41215733/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1474,38 +1555,6 @@
       ]
     },
     {
-      "pmid": "41510212",
-      "title": "Mesenchymal stem cell-derived extracellular vesicle therapy in breast cancer: A systematic review and meta-analysis of",
-      "authors": [
-        "Nadiar M Mussin",
-        "Kulyash R Zhilisbayeva",
-        "Akmaral Baspakova",
-        "Lunara A Ishimova",
-        "Madina A Kurmanalina",
-        "Amin Tamadon"
-      ],
-      "publication_date": "2026-Mar-19",
-      "publication_date_iso": "2026-03-19",
-      "abstract": "Mesenchymal stem/stromal cell-derived extracellular vesicles (MSC-EVs) have emerged as promising cell-free therapeutics for breast cancer due to their innate tumor tropism and molecular delivery capacity. This systematic review and meta-analysis evaluated the in vitro therapeutic potential and safety of MSC-EVs. A comprehensive search up to July 2025 identified 58 eligible studies. Quantitative data were extracted on cell viability, apoptosis, and migration, along with EV source, cargo, and engineering strategy. Random-effects meta-analyses showed that MSC-EV treatment significantly reduced cancer cell viability (standardized mean difference [SMD] = -4.79), inhibited migration (SMD = -4.70), and increased apoptosis (SMD = +4.16). Effects were consistent across major cell lines (MCF-7, MDA-MB-231, and 4T1) and MSC sources (bone marrow, adipose, and umbilical cord), despite moderate heterogeneity (I2 = 50%-70%). Notably, unmodified bone marrow MSC-EVs carrying miR-23b were associated with dormancy induction in vivo, whereas engineered EVs loaded with therapeutic miRNAs or drugs and modified with targeting ligands demonstrated improved specificity and efficacy. Precision engineering of MSC-EVs can enhance antitumor activity but requires stringent cargo control to avoid dormancy risks. Only in vitro data were quantitatively analyzed, while in vivo findings were discussed for mechanistic context, providing a methodological foundation for future translational research.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41510212/",
-      "pmcid": "PMC12775850",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775850/bin/fx1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775850/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775850/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775850/bin/gr3.jpg"
-      ]
-    },
-    {
       "pmid": "41633014",
       "title": "Fibroblast-derived CCL2 driven by MIF promotes joint capsule fibrosis via macrophage polarization regulation.",
       "authors": [
@@ -1533,18 +1582,19 @@
       "figure_urls": []
     },
     {
-      "pmid": "41587513",
-      "title": "Exosome-mediated radioprotection: multimodal mechanisms and therapeutic innovations.",
+      "pmid": "41790271",
+      "title": "The true benefit of the regional block in orthognathic surgery lies in the preemptive effect.",
       "authors": [
-        "Rongfan Xu",
-        "Yi Qiu",
-        "Teng Xu",
-        "Chenfei Wang",
-        "Guijuan Feng"
+        "David Harmicar",
+        "Margita Belušić",
+        "Ana Goleš Juriša",
+        "Željko Župan",
+        "Arijan Zubović",
+        "Robert Cerović"
       ],
-      "publication_date": "2026-Mar-15",
-      "publication_date_iso": "2026-03-15",
-      "abstract": "Although there are already treatments for radiation damage, including stem cell transplantation, standard cancer treatments that may impair the growth and development of healthy cells have a number of disadvantages, such as severe immunological rejection and numerous side effects. With their cell-free properties, exosomes have demonstrated significant therapeutic potential as a novel treatment approach for radiation-induced tissue damage. Because of their effective tissue penetration, targeting specificity, and the protective nature of their natural phospholipid bilayer structure, exosomes have the potential to become a drug-targeted delivery system for radiation therapy and a biomarker for radiation damage in addition to influencing the damaged tissues by controlling DNA damage, oxidative stress, immune response, and inflammatory response to lessen the negative effects of radiation damage on patients. Exosomes are anticipated to play a major role in the prevention and treatment of radiation damage, leading to new advancements in cancer treatment and nuclear disaster response, provided that technological advancements and related challenges, such as the diversity of contents, the lack of quality control, and safety issues, are resolved.",
+      "publication_date": "2026-Mar-06",
+      "publication_date_iso": "2026-03-06",
+      "abstract": "",
       "objective": "",
       "study_methods": "",
       "methods": "",
@@ -1552,9 +1602,39 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41587513/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41790271/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41790058",
+      "title": "Three-dimensional analysis of the horizontal condylar angle in the temporomandibular joint: Morphology and surgical implications.",
+      "authors": [
+        "Mingqi Ma",
+        "Yi Mao",
+        "Xuzhuo Chen",
+        "Tianhao Wan",
+        "Baoting Fan",
+        "Yating Qiu",
+        "Shanyong Zhang",
+        "Shaoyi Wang"
+      ],
+      "publication_date": "2026-Mar-06",
+      "publication_date_iso": "2026-03-06",
+      "abstract": "To develop a 3D measurement for horizontal condylar angle (HCA) and investigate its distribution across skeletal patterns and changes following orthognathic and disc repositioning sur-geries. Using a 3D reconstruction approach, 90 non-surgical patients were analyzed for HCA distribution. Surgical effects were evaluated in 50 orthognathic patients (preoperative, post-operative, and follow-up) and 30 disc repositioning patients (preoperative and >1 year postoperative). HCA differed significantly among skeletal patterns (Class II: 23.97±11.81°; Class I: 19.05±11.03°; Class III: 13.61±7.35°). Mandibular advancement caused no immediate change but showed a reduction at follow-up, whereas mandibular setback resulted in a significant immediate increase that remained stable over time. In the disc repositioning group, HCA decreased significantly after surgery. HCA exhibits a skeletal pattern-specific distribution and adaptive changes following surgery. HCA serves as a simple and reproducible imaging descriptor for documenting morphological adaptation.",
+      "objective": "",
+      "study_methods": "Using a 3D reconstruction approach, 90 non-surgical patients were analyzed for HCA distribution. Surgical effects were evaluated in 50 orthognathic patients (preoperative, post-operative, and follow-up) and 30 disc repositioning patients (preoperative and >1 year postoperative).",
+      "methods": "Using a 3D reconstruction approach, 90 non-surgical patients were analyzed for HCA distribution. Surgical effects were evaluated in 50 orthognathic patients (preoperative, post-operative, and follow-up) and 30 disc repositioning patients (preoperative and >1 year postoperative).",
+      "results": "ed in a significant immediate increase that remained stable over time. In the disc repositioning group, HCA decreased significantly after surgery. HCA exhibits a skeletal pattern-specific distribution and adaptive changes following surgery. HCA serves as a simple and reproducible imaging descriptor for documenting morphological adaptation.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41790058/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1733,33 +1813,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41775512",
-      "title": "Fifteen-minute consultation: Paediatric facial fractures.",
-      "authors": [
-        "Erin Flaherty",
-        "Shrina Patel",
-        "Jordan Evans",
-        "Thomas Micic",
-        "Dylan Murray",
-        "Caroline Fox"
-      ],
-      "publication_date": "2026-Mar-03",
-      "publication_date_iso": "2026-03-03",
-      "abstract": "Facial trauma is commonly encountered in the paediatric population, with its prevalence and severity influenced by age, the unique characteristics of developing facial anatomy and injury mechanism. A thorough yet targeted history, along with a detailed clinical examination during the initial evaluation in the emergency department (ED), is essential for effective management. This article provides an overview of facial fractures; mandibular, nasal, orbital, zygomatic and maxillary-with a specific focus on their assessment and management in the ED setting.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41775512/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41773628",
       "title": "Simultaneous Orthognathic Surgery and Costal Bone Grafting in Hemifacial Microsomia: A Rare Case Report and Literature Review.",
       "authors": [
@@ -1836,8 +1889,7 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery",
-        "orthognathic surgery"
+        "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41775013/",
       "pmcid": "",
@@ -1981,30 +2033,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41781059/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41775420",
-      "title": "The Value of Orthognathic Surgery Fellowships.",
-      "authors": [
-        "Collin A Ritchie",
-        "Jeffery C Posnick",
-        "Brian E Kinard"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41775420/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2757,58 +2785,64 @@
       "figure_urls": []
     },
     {
-      "pmid": "41319178",
-      "title": "Effect of Alveolar Process and Basal Bone Features on Post-Extraction Dimensional Changes.",
+      "pmid": "41350118",
+      "title": "Differences in the Oral Microbiome Between Patients With and Without Oral Squamous Cell Carcinoma.",
       "authors": [
-        "Emilio Couso-Queiruga",
-        "Miguel Padial-Molina",
-        "Pablo Galindo-Moreno",
-        "Carlos Garaicoa-Pazmino",
-        "Nicolly Oliveira-Santos",
-        "Giuseppe Troiano",
-        "Vivianne Chappuis",
-        "Gustavo Avila-Ortiz"
+        "Satoshi Fukase",
+        "Atsumu Kouketsu",
+        "Toru Tamahara",
+        "Tatsuru Saito",
+        "Akiko Ito",
+        "Yutaro Higashi",
+        "Tomonari Kajita",
+        "Tsuyoshi Kurobane",
+        "Masaaki Miyakoshi",
+        "Masahiro Iikubo",
+        "Ritsuko Shimizu",
+        "Tetsu Takahashi",
+        "Kensuke Yamauchi",
+        "Tsuyoshi Sugiura"
       ],
       "publication_date": "2026-Mar",
       "publication_date_iso": "2026-03-01",
-      "abstract": "To evaluate the effect of specific phenotypical and anatomical features of the alveolar process and basal bone on post-extraction dimensional changes. Patients requiring the extraction of a single maxillary non-molar tooth were enrolled. A comprehensive panel of baseline anatomical characteristics, including sagittal root position (SRP) class, was recorded. Linear and volumetric bone changes and the need for ancillary bone augmentation (NBA) were assessed after a 14-week healing period. Records from 65 patients were included. Facial bone thickness (FBT) ≤ 1 mm was associated with significantly greater dimensional changes and greater NBA compared to sites presenting FBT > 1 mm (88.46% vs. 35.13%; p < 0.002). Bone remodelling and NBA were highest in SRP Class IV (100%), with lower frequencies in Class I (60%) and Class II (43.5%). Sites with roots outside the bony housing showed significantly more remodelling and NBA (89.47% vs. 43.18%; p < 0.001). Sites with a basal bone width narrower than the alveolar processes exhibited significantly greater bone remodelling and a higher prevalence of NBA compared to sites where the basal bone was wider (88.89% vs. 50%; p = 0.09). Socket entrance dimensions, distance from the coronal aspect of the facial bone to adjacent boundaries and root volume showed a comparable trend towards increased dimensional changes and grafting. Certain site-specific features appear to significantly affect post-extraction alveolar ridge remodelling and the subsequent NBA to facilitate implant therapy.",
+      "abstract": "Although studies have demonstrated a relationship between pathogenic microorganisms and oral cancer, no study has demonstrated a relationship between changes in bacterial flora and oral squamous cell carcinoma (OSCC). Therefore, we investigated the association between oral microbiota and oral squamous cell carcinoma using metagenomic analysis. Saliva samples from 64 patients with OSCC and 50 healthy controls who visited the Department of Oral Surgery, Tohoku University Hospital, were collected, and bacterial genomic DNA was extracted using polymerase chain reaction amplification. Single-end sequencing was performed using the Illumina MiSeq platform, and sequence data were analyzed using the Quantitative Insights Into Microbial Ecology 2 platform. The Steel-Dwass test was used for between-group comparisons, and Analysis of Compositions of Microbiomes with Bias Correction was used to detect significant differences in microbiome composition. Significant differences were observed in alpha-diversity indices of bacterial flora (richness, Faith- phylogenetic diversity, Shannon index) in the OSCC group compared to those in the control group. Among the OSCC group, patients with larger tumor diameters and lymph node metastases (T3/T4, N1 or greater) formed independent clusters in the beta diversity analysis of the bacterial flora. Bacteria of the Actinomycetia phylum, such as Actinomyces and Rothia, were significantly reduced in patients with higher stage and pathological grade. Conversely, bacteria of the phylum Spirochaetia and Proteobacteria, particularly those of the genus Treponema, were significantly elevated in advanced cancer cases. Our results suggest that changes in the oral microbiota may play a role in OSCC development and progression.",
       "objective": "",
-      "study_methods": "Patients requiring the extraction of a single maxillary non-molar tooth were enrolled. A comprehensive panel of baseline anatomical characteristics, including sagittal root position (SRP) class, was recorded. Linear and volumetric bone changes and the need for ancillary bone augmentation (NBA) were assessed after a 14-week healing period.",
-      "methods": "Patients requiring the extraction of a single maxillary non-molar tooth were enrolled. A comprehensive panel of baseline anatomical characteristics, including sagittal root position (SRP) class, was recorded. Linear and volumetric bone changes and the need for ancillary bone augmentation (NBA) were assessed after a 14-week healing period.",
+      "study_methods": "Saliva samples from 64 patients with OSCC and 50 healthy controls who visited the Department of Oral Surgery, Tohoku University Hospital, were collected, and bacterial genomic DNA was extracted using polymerase chain reaction amplification. Single-end sequencing was performed using the Illumina MiSeq platform, and sequence data were analyzed using the Quantitative Insights Into Microbial Ecology 2 platform. The Steel-Dwass test was used for between-group comparisons, and Analysis of Compositions of Microbiomes with Bias Correction was used to detect significant differences in microbiome composition.",
+      "methods": "Saliva samples from 64 patients with OSCC and 50 healthy controls who visited the Department of Oral Surgery, Tohoku University Hospital, were collected, and bacterial genomic DNA was extracted using polymerase chain reaction amplification. Single-end sequencing was performed using the Illumina MiSeq platform, and sequence data were analyzed using the Quantitative Insights Into Microbial Ecology 2 platform. The Steel-Dwass test was used for between-group comparisons, and Analysis of Compositions of Microbiomes with Bias Correction was used to detect significant differences in microbiome composition.",
+      "results": "suggest that changes in the oral microbiota may play a role in OSCC development and progression.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41350118/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41320992",
+      "title": "Bioinformatics and In Vitro/In Vivo Experiments Identify MAD2L1 as an m6A-Associated Biomarker Promoting Oral Squamous Cell Carcinoma Progression.",
+      "authors": [
+        "Jilun Liu",
+        "Yongle Qiu",
+        "Song Li",
+        "Xin Zhang",
+        "Xiaojing Zhang",
+        "Jiahong Zhao"
+      ],
+      "publication_date": "2026-Mar",
+      "publication_date_iso": "2026-03-01",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is a common malignant tumor of the head and neck, and its therapeutic efficacy critically depends on the identification of reliable biomarkers. This study investigates the interplay between m6A methylation-related biomarkers and OSCC progression biomarkers, aiming to enhance the understanding of pathogenic mechanisms and facilitate personalized treatment strategies. Based on multi-dimensional bioinformatics analyses-including differential expression, enrichment, prognostic modeling, and immune infiltration analyses-of GEO and TCGA datasets, potential biomarkers that promote malignant progression in OSCC and their association with m6A-related molecules were identified. The effect of MAD2L1 on OSCC in vitro was assessed using CCK-8, RT-qPCR, colony formation, wound healing, and TUNEL assays, while Western blotting was employed to explore the underlying mechanisms by which MAD2L1 influences OSCC progression. Additionally, RT-qPCR was used to examine the impact of MAD2L1 on m6A-related biomarkers. Finally, a xenograft tumor model was utilized to evaluate the effect of MAD2L1 on tumor growth in vivo. Our findings demonstrate that MAD2L1 serves as a biomarker associated with the progression of oral squamous cell carcinoma (OSCC). Specifically, MAD2L1 expression was significantly upregulated in OSCC patients and positively correlated with increasing histopathological grade. Elevated MAD2L1 expression was linked to poor prognosis in OSCC patients and enabled the construction of an effective prognostic model. Furthermore, MAD2L1 expression showed significant positive correlations with multiple m6A-related biomarkers. Knockdown of MAD2L1 reduced the mRNA expression of THDC1, WTAP, and RBMX. In addition, MAD2L1 expression was significantly associated with tumor microenvironment (TME) dysregulation. Finally, both in vitro and in vivo experiments confirmed that MAD2L1 knockdown markedly suppressed OSCC cell growth. Collectively, our study identifies MAD2L1 as a promising oncogenic biomarker and therapeutic target in OSCC, whose upregulation drives tumor progression, impairs patient prognosis, and disrupts m6A modification.",
+      "objective": "",
+      "study_methods": "Based on multi-dimensional bioinformatics analyses-including differential expression, enrichment, prognostic modeling, and immune infiltration analyses-of GEO and TCGA datasets, potential biomarkers that promote malignant progression in OSCC and their association with m6A-related molecules were identified. The effect of MAD2L1 on OSCC in vitro was assessed using CCK-8, RT-qPCR, colony formation, wound healing, and TUNEL assays, while Western blotting was employed to explore the underlying mechanisms by which MAD2L1 influences OSCC progression. Additionally, RT-qPCR was used to examine the impact of MAD2L1 on m6A-related biomarkers. Finally, a xenograft tumor model was utilized to evaluate the effect of MAD2L1 on tumor growth in vivo.",
+      "methods": "Based on multi-dimensional bioinformatics analyses-including differential expression, enrichment, prognostic modeling, and immune infiltration analyses-of GEO and TCGA datasets, potential biomarkers that promote malignant progression in OSCC and their association with m6A-related molecules were identified. The effect of MAD2L1 on OSCC in vitro was assessed using CCK-8, RT-qPCR, colony formation, wound healing, and TUNEL assays, while Western blotting was employed to explore the underlying mechanisms by which MAD2L1 influences OSCC progression. Additionally, RT-qPCR was used to examine the impact of MAD2L1 on m6A-related biomarkers. Finally, a xenograft tumor model was utilized to evaluate the effect of MAD2L1 on tumor growth in vivo.",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
         "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41319178/",
-      "pmcid": "PMC12890456",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12890456/bin/JCPE-53-384-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12890456/bin/JCPE-53-384-g001.gif"
-      ]
-    },
-    {
-      "pmid": "41273741",
-      "title": "Clinical study on hemorrhagic complications in antiplatelet and anticoagulated patients undergoing dental treatment.",
-      "authors": [
-        "C López-Carriches",
-        "R Taheri",
-        "C Madrigal-Martínez-Pereda"
-      ],
-      "publication_date": "2026-Mar-01",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Patients undergoing treatment with antiplatelet or anticoagulant drugs are attending dental consultations. Therefore, it has become essential to evaluate the patient before treatment and to conduct a thorough medical history. The goal of this study is to analyze the patients attending a dental clinic over a period of 6 months to determine how many are taking antiplatelet or anticoagulant medications, what dental treatment they seek, what hemostatic measures are taken, and whether they suffer hemorrhagic complications as a result of the treatment. This will help to prevent such complications by applying appropriate protocols, especially in the field of oral surgery. Over a six-month period, 867 patients attended a dental clinic in Madrid. Of these, 43 were taking antiplatelet agents or anticoagulants. A descriptive statistical analysis was conducted to gather data on age, gender, medication, dental treatment received, and hemorrhagic complications. Only 4.9% of the patients attending the dental clinic were taking antiplatelet or anticoagulant medications. Specifically, 53.48% were taking antiplatelet agents, 34.8% were taking direct oral anticoagulants, and 11.62% were on vitamin K antagonist anticoagulants. After applying the appropriate clinical protocol in each case, only one patient experienced postoperative bleeding, which was not severe. Based on the results, it may not be necessary to withdraw antiplatelet or anticoagulant therapy due to the low incidence and non-severity of complications in simple dental procedures.",
-      "objective": "",
-      "study_methods": "Over a six-month period, 867 patients attended a dental clinic in Madrid. Of these, 43 were taking antiplatelet agents or anticoagulants. A descriptive statistical analysis was conducted to gather data on age, gender, medication, dental treatment received, and hemorrhagic complications.",
-      "methods": "Over a six-month period, 867 patients attended a dental clinic in Madrid. Of these, 43 were taking antiplatelet agents or anticoagulants. A descriptive statistical analysis was conducted to gather data on age, gender, medication, dental treatment received, and hemorrhagic complications.",
-      "results": "of the treatment. This will help to prevent such complications by applying appropriate protocols, especially in the field of oral surgery. Over a six-month period, 867 patients attended a dental clinic in Madrid. Of these, 43 were taking antiplatelet agents or anticoagulants. A descriptive statistical analysis was conducted to gather data on age, gender, medication, dental treatment received, and hemorrhagic complications. Only 4.9% of the patients attending the dental clinic were taking antiplatelet or anticoagulant medications. Specifically, 53.48% were taking antiplatelet agents, 34.8% were taking direct oral anticoagulants, and 11.62% were on vitamin K antagonist anticoagulants. After applying the appropriate clinical protocol in each case, only one patient experienced postoperative bleeding, which was not severe. Based on the results, it may not be necessary to withdraw antiplatelet or anticoagulant therapy due to the low incidence and non-severity of complications in simple dental procedures.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41273741/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41320992/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2863,25 +2897,18 @@
       "figure_urls": []
     },
     {
-      "pmid": "41264004",
-      "title": "Correction to: Assessing observer-dependent dental age estimation procedures: intra- and inter-observer reliability across four well established radiographic systems for dental analysis.",
+      "pmid": "41265837",
+      "title": "Simplifying intermaxillary fixation in orthognathic surgery using customized surgical archwire with clear aligners: a technical note and exemplifying case.",
       "authors": [
-        "Nikolaos Angelakopoulos",
-        "Rizky Merdietio Boedi",
-        "Ademir Franco",
-        "Nikita Polukhin",
-        "Akiko Kumagai",
-        "Ivan Galic",
-        "Jeta Kelmendi",
-        "Israel Soriano Vázquez",
-        "Sang-Seob Lee",
-        "Galina Zolotenkova",
-        "Roberto Scendoni",
-        "Stefano De Luca"
+        "Solène Chanteux",
+        "Cyril Debortoli",
+        "Frédérique Bally-Genet",
+        "Barbara Lerhe",
+        "Charles Savoldelli"
       ],
       "publication_date": "2026-Mar",
       "publication_date_iso": "2026-03-01",
-      "abstract": "",
+      "abstract": "Clear aligners are increasingly integrated into orthognathic surgery workflows. However, the lack of rigid intraoperative anchorage limits their use to mild or moderate cases, as aligners alone cannot ensure stable intermaxillary fixation. To describe a simplified, reproducible, and cost-effective technique using a customized cobalt-chromium surgical archwire that enables stable intermaxillary fixation in patients treated with clear aligners. A 47-year-old woman with skeletal Class III malocclusion underwent bimaxillary orthognathic surgery under aligner treatment. A CAD-designed cobalt-chromium archwire with interdental posts was bonded using a conventional three-step adhesive protocol. The procedure required approximately 25 min and allowed precise intraoperative traction without detachment or deformation. The optional use of a silicone positioning key improved bonding accuracy and reproducibility. This technique provides rigid and evenly distributed anchorage without removing aligner attachments or adding brackets or screws. By enabling stable intra- and postoperative fixation, it removes a key limitation of aligner-based surgical planning. This expands the applicability of clear aligners to more complex orthognathic cases, such as segmental osteotomies or asymmetrical corrections, and improves the integration of aligners into modern surgical workflows.",
       "objective": "",
       "study_methods": "",
       "methods": "",
@@ -2889,10 +2916,10 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41264004/",
-      "pmcid": "PMC12956906",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41265837/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2920,7 +2947,6 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41248445/",
@@ -2977,34 +3003,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41231609/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "41220101",
-      "title": "Mandibular Fracture in a 3-Month-Old Infant: Conservative Management and Diagnostic Considerations.",
-      "authors": [
-        "Solbin Yang",
-        "Hyunmi Jo"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Mandibular fractures are rare in infants under one year of age, accounting for only 0.9%-2.6% of pediatric mandibular injuries. Their infrequency is due to the unique anatomical and developmental features of the infant mandible, including increased bone elasticity and minimal exposure to high-impact trauma. Diagnosis and management are often challenging, particularly given the difficulty in symptom communication, presence of unfused skeletal structures, and developing tooth buds. We described a case of a 3-month-old infant who sustained concurrent fractures of the mandibular symphysis and left condylar head following an accidental fall from a diaper-changing table. Computed tomography revealed a greenstick fracture at the symphysis and a minimally displaced condylar fracture. In consideration of the patient's age, fracture type, and high remodeling capacity, conservative management was selected. Clinical and radiographic follow-up over three months demonstrated excellent bony remodeling without any surgical intervention. There was no functional impairment or developmental delay. This case highlights the substantial remodeling potential of the infant mandible and supports the efficacy of conservative treatment in selected cases. It also underscores the importance of distinguishing true fractures from developmental non-union in the symphyseal region. Long-term follow-up until the completion of mandibular growth remains crucial to detect potential growth disturbances.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41220101/",
-      "pmcid": "PMC12916458",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12916458/bin/IPD-36-307-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12916458/bin/IPD-36-307-g002.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12916458/bin/IPD-36-307-g003.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12916458/bin/IPD-36-307-g003.gif"
-      ]
     },
     {
       "pmid": "41129206",
@@ -3193,29 +3191,29 @@
       "figure_urls": []
     },
     {
-      "pmid": "41108770",
-      "title": "A simplified sagittal split osteotomy of the mandibular ramus: A single-cut approach for orthognathic surgery.",
+      "pmid": "41067415",
+      "title": "Impact of intraoperative hypotension on postoperative nausea and vomiting in patients undergoing orthognathic surgery.",
       "authors": [
-        "S-M Costa",
-        "M-S Bahia",
-        "M-Y Kadooka",
-        "P-F Trivellato",
-        "C-E Sverzut",
-        "A-E Trivellato"
+        "Sulin Tang",
+        "Rongrong Huang",
+        "Lili Guo",
+        "Liwei Jin",
+        "Yanli Zhang",
+        "Xia Zhang"
       ],
-      "publication_date": "2026-Mar-01",
+      "publication_date": "2026-Mar",
       "publication_date_iso": "2026-03-01",
-      "abstract": "This study aims to evaluate the feasibility, and reliability of a novel simplified sagittal osteotomy (SSO) technique for mandibular repositioning in orthognathic surgery. The research question focuses on whether this approach can reduce technical complexity and complication rates, especially in a residency training environment. A prospective observational study was conducted involving 118 patients (62 females, 56 males) diagnosed with Angle Class II or III malocclusions and indicated for orthognathic surgery. All patients underwent a novel mandibular osteotomy as part of a Double-jaw surgery. Exclusion criteria included patients under 18 years of age, third molar presence, mandibular pathologies, and incomplete follow-up. The primary outcomes included feasibility, complication rates, and the need for conversion to the conventional BSSO. Statistical analysis was performed using the Chi-square test. A total of 236 osteotomies were performed. The technique was considered feasible in 98.7% of cases, with no conversions to traditional BSSO. No bad splits occurred. IAN injury was observed in 0.8% of cases, and long-term paresthesia (>1 year) occurred in 1.2%. No cases of hemorrhage or dental injury were reported. No significant associations were found between complications and patient gender or deformity type (p>0.05). The SSO technique demonstrated high feasibility and a low complication profile, supporting its use as a reliable alternative to BSSO.",
-      "objective": "to evaluate the feasibility, and reliability of a novel simplified sagittal osteotomy (SSO) technique for mandibular repositioning in orthognathic surgery. The research question focuses on whether this approach can reduce technical complexity and complication rates, especially in a residency training environment. A prospective observational study was conducted involving 118 patients (62 females, 56 males) diagnosed with Angle Class II or III malocclusions and indicated for orthognathic surgery. All patients underwent a novel mandibular osteotomy as part of a Double-jaw surgery. Exclusion criteria included patients under 18 years of age, third molar presence, mandibular pathologies, and incomplete follow-up. The primary outcomes included feasibility, complication rates, and the need for conversion to the conventional BSSO. Statistical analysis was performed using the Chi-square test. A total of 236 osteotomies were performed. The technique was considered feasible in 98.7% of cases, with no conversions to traditional BSSO. No bad splits occurred. IAN injury was observed in 0.8% of cases, and long-term paresthesia (>1 year) occurred in 1.2%. No cases of hemorrhage or dental injury were reported. No significant associations were found between complications and patient gender or deformity type (p>0.05). The SSO technique demonstrated high feasibility and a low complication profile, supporting its use as a reliable alternative to BSSO.",
-      "study_methods": "A prospective observational study was conducted involving 118 patients (62 females, 56 males) diagnosed with Angle Class II or III malocclusions and indicated for orthognathic surgery. All patients underwent a novel mandibular osteotomy as part of a Double-jaw surgery. Exclusion criteria included patients under 18 years of age, third molar presence, mandibular pathologies, and incomplete follow-up. The primary outcomes included feasibility, complication rates, and the need for conversion to the conventional BSSO. Statistical analysis was performed using the Chi-square test.",
-      "methods": "A prospective observational study was conducted involving 118 patients (62 females, 56 males) diagnosed with Angle Class II or III malocclusions and indicated for orthognathic surgery. All patients underwent a novel mandibular osteotomy as part of a Double-jaw surgery. Exclusion criteria included patients under 18 years of age, third molar presence, mandibular pathologies, and incomplete follow-up. The primary outcomes included feasibility, complication rates, and the need for conversion to the conventional BSSO. Statistical analysis was performed using the Chi-square test.",
+      "abstract": "To evaluate the risk factors for postoperative nausea and vomiting (PONV) in patients undergoing orthognathic surgery, with particular emphasis on elucidating the potential relationship between PONV and the depth and duration of intraoperative hypotension (IOH). We conducted a retrospective cohort study of patients who underwent orthognathic surgery between November 2022 and August 2024. Mean arterial pressure (MAP) was extracted from electronic medical records. Methods to evaluate IOH: 1. total area under curve (AUC); 2. time-weighted average (TWA) MAP; 3. cumulative time below absolute threshold values; 4. cumulative time in the lowest MAP categories. MAP thresholds were defined by absolute limits (≤ 65, ≤ 60, ≤ 55 mmHg). Of the 287 patients enrolled, five patients were excluded. At all absolute thresholds, patients experiencing PONV demonstrated significantly greater AUC and TWA than non-PONV patients (p < 0.05). Furthermore, at ≤ 60 and ≤ 55 mmHg threshold, PONV patients also exhibited significantly longer cumulative time of hypotensive (p < 0.05). When MAP is in 50-60 mmHg range for > 10 min (OR: 6.00, 95 % CI: 1.02-35.37), and when MAP is in ≤ 55 mmHg range for ≥ 5 min (OR: 0.42, 95 % CI: 0.20-0.90), were significantly associated with PONV (p < 0.05). IOH may represent an additional important risk factor for PONV in patients undergoing orthognathic surgery, especially when MAP is in 50-60 mmHg range for > 10 min, or ≤ 55 mmHg range for ≥ 5 min.",
+      "objective": "",
+      "study_methods": "We conducted a retrospective cohort study of patients who underwent orthognathic surgery between November 2022 and August 2024. Mean arterial pressure (MAP) was extracted from electronic medical records. Methods to evaluate IOH: 1. total area under curve (AUC); 2. time-weighted average (TWA) MAP; 3. cumulative time below absolute threshold values; 4. cumulative time in the lowest MAP categories. MAP thresholds were defined by absolute limits (≤ 65, ≤ 60, ≤ 55 mmHg).",
+      "methods": "We conducted a retrospective cohort study of patients who underwent orthognathic surgery between November 2022 and August 2024. Mean arterial pressure (MAP) was extracted from electronic medical records. Methods to evaluate IOH: 1. total area under curve (AUC); 2. time-weighted average (TWA) MAP; 3. cumulative time below absolute threshold values; 4. cumulative time in the lowest MAP categories. MAP thresholds were defined by absolute limits (≤ 65, ≤ 60, ≤ 55 mmHg).",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
         "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41108770/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41067415/",
       "pmcid": "",
       "figure_urls": []
     },
