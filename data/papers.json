@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-07T04:04:58Z",
+  "updated_at": "2026-03-08T04:15:53Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1486,7 +1486,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41215733/",
-      "pmcid": "",
+      "pmcid": "PMC12964521",
       "figure_urls": []
     },
     {
@@ -1578,6 +1578,142 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41633014/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41793727",
+      "title": "Emotional regulation, empathy and surgical performance inundergraduate dental students: A prospective cohort study.",
+      "authors": [
+        "A-B Pérez",
+        "I-M Mayoral",
+        "C de-la-Rosa-Gay",
+        "M-G García",
+        "M Aguilera",
+        "R Figueiredo",
+        "E Valmaseda-Castellón",
+        "A Sánchez-Torres"
+      ],
+      "publication_date": "2026-Mar-07",
+      "publication_date_iso": "2026-03-07",
+      "abstract": "Dental students experience high stress from academic and clinical demands, which may affect performance and well-being. Surgical procedures often increase patient anxiety, adding complexity for students. This study explored the relationship between perceived difficulty, emotional regulation, and empathy, and their impact on clinical outcomes and patient satisfaction. A prospective cohort study included fourth-year dental students in the Clinical Oral Surgery and Implantology subject at the University of Barcelona Dental Hospital. Data collected comprised demographics, emotional regulation difficulties, and preoperative anxiety, using validated questionnaires. Procedure-related variables (perceived difficulty, operative time, complications) and patient data (anxiety, perceived empathy, satisfaction) were recorded. Thirty-six students performed 108 extractions on 72 patients, with a mean operative time of 38.2±19.9 minutes. Emotional regulation difficulties were not associated with surgical difficulty, empathy, operative time, or complications. Interestingly, patient state anxiety was significantly related to higher difficulty on emotional regulation by the undergraduate. No significant correlation was found between patient anxiety and number of visits. Perceived empathy positively correlated to patient satisfaction. Empathy and emotional regulation are essential for enhancing patient experience and outcomes. Our findings suggest that students' emotional regulation difficulties are related to situational anxiety during clinical encounters. These results support integrating interpersonal skills into dental education to improve clinical practice and patient-centered care.",
+      "objective": "",
+      "study_methods": "A prospective cohort study included fourth-year dental students in the Clinical Oral Surgery and Implantology subject at the University of Barcelona Dental Hospital. Data collected comprised demographics, emotional regulation difficulties, and preoperative anxiety, using validated questionnaires. Procedure-related variables (perceived difficulty, operative time, complications) and patient data (anxiety, perceived empathy, satisfaction) were recorded.",
+      "methods": "A prospective cohort study included fourth-year dental students in the Clinical Oral Surgery and Implantology subject at the University of Barcelona Dental Hospital. Data collected comprised demographics, emotional regulation difficulties, and preoperative anxiety, using validated questionnaires. Procedure-related variables (perceived difficulty, operative time, complications) and patient data (anxiety, perceived empathy, satisfaction) were recorded.",
+      "results": "support integrating interpersonal skills into dental education to improve clinical practice and patient-centered care.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41793727/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41793483",
+      "title": "Excessive intraoperative hemorrhage during orthognathic surgery in a patient with neurofibromatosis type 1: a case report and literature review.",
+      "authors": [
+        "Nobuyuki Sasahara",
+        "Kazuyuki Yusa",
+        "Mao Nishikawa",
+        "Satoshi Kasuya",
+        "Masaru Satomi",
+        "Shigeo Ishikawa"
+      ],
+      "publication_date": "2026-Mar-07",
+      "publication_date_iso": "2026-03-07",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41793483/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41792566",
+      "title": "An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Application.",
+      "authors": [
+        "Chenyao Li",
+        "Yan Guo",
+        "Rong Yang",
+        "Xiaojun Chen",
+        "Shanyong Zhang"
+      ],
+      "publication_date": "2026-Mar-06",
+      "publication_date_iso": "2026-03-06",
+      "abstract": "Mandibular reconstruction suffers from limitations in automation and objectivity. This study aimed to develop an automated framework to address these challenges. A novel approach combining statistical shape modeling and 3D deep learning was developed. Trained on 200 CT scans and validated in 80 clinical cases, its performance was compared to expert manual planning by evaluating reconstruction accuracy, bone contact area, and planning time. Finally, design experiments were performed in five clinical cases. The automated method demonstrated high accuracy (DSC: 0.874) and real-time efficiency. It significantly outperformed manual planning in bone contact area (106.2 vs. 94.6 mm2) and reduced planning time by 85%. Postoperative results showed excellent implant alignment (2.1 mm deviation) and high patient satisfaction. The proposed automated framework successfully enhances the efficiency and quality of mandibular reconstruction, meeting clinical needs. Future work will integrate more complex biomechanical considerations.",
+      "objective": "",
+      "study_methods": "A novel approach combining statistical shape modeling and 3D deep learning was developed. Trained on 200 CT scans and validated in 80 clinical cases, its performance was compared to expert manual planning by evaluating reconstruction accuracy, bone contact area, and planning time. Finally, design experiments were performed in five clinical cases.",
+      "methods": "A novel approach combining statistical shape modeling and 3D deep learning was developed. Trained on 200 CT scans and validated in 80 clinical cases, its performance was compared to expert manual planning by evaluating reconstruction accuracy, bone contact area, and planning time. Finally, design experiments were performed in five clinical cases.",
+      "results": "showed excellent implant alignment (2.1 mm deviation) and high patient satisfaction. The proposed automated framework successfully enhances the efficiency and quality of mandibular reconstruction, meeting clinical needs. Future work will integrate more complex biomechanical considerations.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41792566/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41792292",
+      "title": "Mapping support for systems clinical leadership in North West Local Dental Networks.",
+      "authors": [
+        "Francesca Hilton",
+        "Deborah Moore",
+        "Emma Hall-Scullin",
+        "Yvonne Dailey"
+      ],
+      "publication_date": "2026-Mar-06",
+      "publication_date_iso": "2026-03-06",
+      "abstract": "Aims Local Dental Networks (LDNs) and Managed Clinical Networks (MCNs) were created to strengthen clinical leadership within dental commissioning in England. This project aims to map the current system structures and governance of such clinical leadership networks within the North West.Methods An online survey was developed, informed by national guidance on LDNs and MCNs. Snowball sampling was used to identify all LDN and MCN chairs in the North West.Results All three LDNs had a funded chair, current terms of reference, a defined conflict of interest process, met at least quarterly, reported outcomes, and all chairs had received role-specific training. There was greater variation in availability of: annual workplans, longer-term strategic plans, funding for MCN chairs, having MCNs for orthodontics, oral surgery, paediatrics, restorative and special care dentistry, and patient representatives. No MCN chairs had received role-specific training. Guidance for LDNs and MCNs is dispersed and has not been updated recently.Conclusion LDNs have more complete MCNs in some areas than others. This may be due to differences in their structure, governance, and investment. Funding or protected time for network chairs, role-specific training, and updated national guidance on minimum expectations were highlighted as potential system enablers for clinical leadership.",
+      "objective": "Local Dental Networks (LDNs) and Managed Clinical Networks (MCNs) were created to strengthen clinical leadership within dental commissioning in England. This project aims to map the current system structures and governance of such clinical leadership networks within the North West.",
+      "study_methods": "",
+      "methods": "",
+      "results": "All three LDNs had a funded chair, current terms of reference, a defined conflict of interest process, met at least quarterly, reported outcomes, and all chairs had received role-specific training. There was greater variation in availability of: annual workplans, longer-term strategic plans, funding for MCN chairs, having MCNs for orthodontics, oral surgery, paediatrics, restorative and special care dentistry, and patient representatives. No MCN chairs had received role-specific training. Guidance for LDNs and MCNs is dispersed and has not been updated recently.",
+      "conclusion": "LDNs have more complete MCNs in some areas than others. This may be due to differences in their structure, governance, and investment. Funding or protected time for network chairs, role-specific training, and updated national guidance on minimum expectations were highlighted as potential system enablers for clinical leadership.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41792292/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41791720",
+      "title": "Ondansetron Prevents Nausea and Vomiting After Orthognathic Surgery.",
+      "authors": [
+        "Emi Fujioka",
+        "Hiroshi Hanamoto",
+        "Fumi Kozu",
+        "Yayoi Morita",
+        "Risa Kimura",
+        "Hiromu Nagira",
+        "Hitoshi Niwa"
+      ],
+      "publication_date": "2026-Mar-06",
+      "publication_date_iso": "2026-03-06",
+      "abstract": "We compared the incidence of postoperative nausea and vomiting (PONV) in patients undergoing orthognathic surgery under total intravenous anesthesia using propofol with and without ondansetron. Data on PONV within 24 hours after surgery, fentanyl and ondansetron dosing, demographic parameters, smoking history, and prior PONV were retrospectively extracted from the medical records of 291 patients. After propensity score matching, 78 patients were included in the ondansetron and control groups. The incidence of PONV was significantly lower in the ondansetron group (21%) than in the control group (36%; P = .033), whereas the incidence of postoperative headache was comparable. Ondansetron effectively reduced PONV without increasing headaches.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41791720/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2734,29 +2870,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41429112",
-      "title": "Retrospective analysis of cats referred for suspected temporomandibular joint luxation.",
-      "authors": [
-        "Izzie Yi-Chin Tsai",
-        "Ya-Ting Wu"
-      ],
-      "publication_date": "2026-Mar-01",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "This study aimed to determine the proportion of cats referred for suspected temporomandibular joint (TMJ) luxation that were confirmed as true cases and to identify their final diagnoses. The objective was to highlight potential differential diagnoses to improve diagnostic accuracy and case management. A total of 42 cats that were referred to our hospital for suspected TMJ luxation as a chief complaint from April 2020 to February 2025 were included in the study. According to owner reports, these patients commonly exhibited an inability to close the mouth, apparent mandibular deviation, and, in most cases, signs suggestive of oral pain. Of the 42 cats studied, only 6 had isolated TMJ luxation. The rest had other diagnoses: 19 with end-stage periodontal disease, 5 with malocclusion, 4 with symphyseal separation, and 3 with open-mouth jaw locking resulting from other causes. Two had mandibular fractures, 2 had no significant findings, and 1 had TMJ ankylosis. End-stage periodontal disease was the most common diagnosis among cats referred for suspected TMJ luxation. Other final diagnoses included TMJ luxation, malocclusion, fractures, mandibular symphyseal instability, open-mouth jaw locking resulting from other causes, and TMJ ankylosis. Diagnosis is challenging due to nonspecific signs that mimic other oral diseases and are often linked to complex maxillofacial injuries, requiring thorough exams and advanced imaging. This study emphasizes the importance of considering differential diagnoses in cats presenting with signs resembling TMJ luxation and provides references to guide future clinical evaluation and decision-making.",
-      "objective": "was to highlight potential differential diagnoses to improve diagnostic accuracy and case management. A total of 42 cats that were referred to our hospital for suspected TMJ luxation as a chief complaint from April 2020 to February 2025 were included in the study. According to owner reports, these patients commonly exhibited an inability to close the mouth, apparent mandibular deviation, and, in most cases, signs suggestive of oral pain. Of the 42 cats studied, only 6 had isolated TMJ luxation. The rest had other diagnoses: 19 with end-stage periodontal disease, 5 with malocclusion, 4 with symphyseal separation, and 3 with open-mouth jaw locking resulting from other causes. Two had mandibular fractures, 2 had no significant findings, and 1 had TMJ ankylosis. End-stage periodontal disease was the most common diagnosis among cats referred for suspected TMJ luxation. Other final diagnoses included TMJ luxation, malocclusion, fractures, mandibular symphyseal instability, open-mouth jaw locking resulting from other causes, and TMJ ankylosis. Diagnosis is challenging due to nonspecific signs that mimic other oral diseases and are often linked to complex maxillofacial injuries, requiring thorough exams and advanced imaging. This study emphasizes the importance of considering differential diagnoses in cats presenting with signs resembling TMJ luxation and provides references to guide future clinical evaluation and decision-making.",
-      "study_methods": "A total of 42 cats that were referred to our hospital for suspected TMJ luxation as a chief complaint from April 2020 to February 2025 were included in the study. According to owner reports, these patients commonly exhibited an inability to close the mouth, apparent mandibular deviation, and, in most cases, signs suggestive of oral pain.",
-      "methods": "A total of 42 cats that were referred to our hospital for suspected TMJ luxation as a chief complaint from April 2020 to February 2025 were included in the study. According to owner reports, these patients commonly exhibited an inability to close the mouth, apparent mandibular deviation, and, in most cases, signs suggestive of oral pain.",
-      "results": "ing from other causes. Two had mandibular fractures, 2 had no significant findings, and 1 had TMJ ankylosis. End-stage periodontal disease was the most common diagnosis among cats referred for suspected TMJ luxation. Other final diagnoses included TMJ luxation, malocclusion, fractures, mandibular symphyseal instability, open-mouth jaw locking resulting from other causes, and TMJ ankylosis. Diagnosis is challenging due to nonspecific signs that mimic other oral diseases and are often linked to complex maxillofacial injuries, requiring thorough exams and advanced imaging. This study emphasizes the importance of considering differential diagnoses in cats presenting with signs resembling TMJ luxation and provides references to guide future clinical evaluation and decision-making.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41429112/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41397351",
       "title": "Biomechanical evaluation of two plating systems for fixation of mandibular condylar process fractures in dogs demonstrates sustainability under bite forces.",
       "authors": [
@@ -2777,72 +2890,9 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "facial trauma",
-        "oral surgery"
+        "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41397351/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41350118",
-      "title": "Differences in the Oral Microbiome Between Patients With and Without Oral Squamous Cell Carcinoma.",
-      "authors": [
-        "Satoshi Fukase",
-        "Atsumu Kouketsu",
-        "Toru Tamahara",
-        "Tatsuru Saito",
-        "Akiko Ito",
-        "Yutaro Higashi",
-        "Tomonari Kajita",
-        "Tsuyoshi Kurobane",
-        "Masaaki Miyakoshi",
-        "Masahiro Iikubo",
-        "Ritsuko Shimizu",
-        "Tetsu Takahashi",
-        "Kensuke Yamauchi",
-        "Tsuyoshi Sugiura"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Although studies have demonstrated a relationship between pathogenic microorganisms and oral cancer, no study has demonstrated a relationship between changes in bacterial flora and oral squamous cell carcinoma (OSCC). Therefore, we investigated the association between oral microbiota and oral squamous cell carcinoma using metagenomic analysis. Saliva samples from 64 patients with OSCC and 50 healthy controls who visited the Department of Oral Surgery, Tohoku University Hospital, were collected, and bacterial genomic DNA was extracted using polymerase chain reaction amplification. Single-end sequencing was performed using the Illumina MiSeq platform, and sequence data were analyzed using the Quantitative Insights Into Microbial Ecology 2 platform. The Steel-Dwass test was used for between-group comparisons, and Analysis of Compositions of Microbiomes with Bias Correction was used to detect significant differences in microbiome composition. Significant differences were observed in alpha-diversity indices of bacterial flora (richness, Faith- phylogenetic diversity, Shannon index) in the OSCC group compared to those in the control group. Among the OSCC group, patients with larger tumor diameters and lymph node metastases (T3/T4, N1 or greater) formed independent clusters in the beta diversity analysis of the bacterial flora. Bacteria of the Actinomycetia phylum, such as Actinomyces and Rothia, were significantly reduced in patients with higher stage and pathological grade. Conversely, bacteria of the phylum Spirochaetia and Proteobacteria, particularly those of the genus Treponema, were significantly elevated in advanced cancer cases. Our results suggest that changes in the oral microbiota may play a role in OSCC development and progression.",
-      "objective": "",
-      "study_methods": "Saliva samples from 64 patients with OSCC and 50 healthy controls who visited the Department of Oral Surgery, Tohoku University Hospital, were collected, and bacterial genomic DNA was extracted using polymerase chain reaction amplification. Single-end sequencing was performed using the Illumina MiSeq platform, and sequence data were analyzed using the Quantitative Insights Into Microbial Ecology 2 platform. The Steel-Dwass test was used for between-group comparisons, and Analysis of Compositions of Microbiomes with Bias Correction was used to detect significant differences in microbiome composition.",
-      "methods": "Saliva samples from 64 patients with OSCC and 50 healthy controls who visited the Department of Oral Surgery, Tohoku University Hospital, were collected, and bacterial genomic DNA was extracted using polymerase chain reaction amplification. Single-end sequencing was performed using the Illumina MiSeq platform, and sequence data were analyzed using the Quantitative Insights Into Microbial Ecology 2 platform. The Steel-Dwass test was used for between-group comparisons, and Analysis of Compositions of Microbiomes with Bias Correction was used to detect significant differences in microbiome composition.",
-      "results": "suggest that changes in the oral microbiota may play a role in OSCC development and progression.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41350118/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41320992",
-      "title": "Bioinformatics and In Vitro/In Vivo Experiments Identify MAD2L1 as an m6A-Associated Biomarker Promoting Oral Squamous Cell Carcinoma Progression.",
-      "authors": [
-        "Jilun Liu",
-        "Yongle Qiu",
-        "Song Li",
-        "Xin Zhang",
-        "Xiaojing Zhang",
-        "Jiahong Zhao"
-      ],
-      "publication_date": "2026-Mar",
-      "publication_date_iso": "2026-03-01",
-      "abstract": "Oral squamous cell carcinoma (OSCC) is a common malignant tumor of the head and neck, and its therapeutic efficacy critically depends on the identification of reliable biomarkers. This study investigates the interplay between m6A methylation-related biomarkers and OSCC progression biomarkers, aiming to enhance the understanding of pathogenic mechanisms and facilitate personalized treatment strategies. Based on multi-dimensional bioinformatics analyses-including differential expression, enrichment, prognostic modeling, and immune infiltration analyses-of GEO and TCGA datasets, potential biomarkers that promote malignant progression in OSCC and their association with m6A-related molecules were identified. The effect of MAD2L1 on OSCC in vitro was assessed using CCK-8, RT-qPCR, colony formation, wound healing, and TUNEL assays, while Western blotting was employed to explore the underlying mechanisms by which MAD2L1 influences OSCC progression. Additionally, RT-qPCR was used to examine the impact of MAD2L1 on m6A-related biomarkers. Finally, a xenograft tumor model was utilized to evaluate the effect of MAD2L1 on tumor growth in vivo. Our findings demonstrate that MAD2L1 serves as a biomarker associated with the progression of oral squamous cell carcinoma (OSCC). Specifically, MAD2L1 expression was significantly upregulated in OSCC patients and positively correlated with increasing histopathological grade. Elevated MAD2L1 expression was linked to poor prognosis in OSCC patients and enabled the construction of an effective prognostic model. Furthermore, MAD2L1 expression showed significant positive correlations with multiple m6A-related biomarkers. Knockdown of MAD2L1 reduced the mRNA expression of THDC1, WTAP, and RBMX. In addition, MAD2L1 expression was significantly associated with tumor microenvironment (TME) dysregulation. Finally, both in vitro and in vivo experiments confirmed that MAD2L1 knockdown markedly suppressed OSCC cell growth. Collectively, our study identifies MAD2L1 as a promising oncogenic biomarker and therapeutic target in OSCC, whose upregulation drives tumor progression, impairs patient prognosis, and disrupts m6A modification.",
-      "objective": "",
-      "study_methods": "Based on multi-dimensional bioinformatics analyses-including differential expression, enrichment, prognostic modeling, and immune infiltration analyses-of GEO and TCGA datasets, potential biomarkers that promote malignant progression in OSCC and their association with m6A-related molecules were identified. The effect of MAD2L1 on OSCC in vitro was assessed using CCK-8, RT-qPCR, colony formation, wound healing, and TUNEL assays, while Western blotting was employed to explore the underlying mechanisms by which MAD2L1 influences OSCC progression. Additionally, RT-qPCR was used to examine the impact of MAD2L1 on m6A-related biomarkers. Finally, a xenograft tumor model was utilized to evaluate the effect of MAD2L1 on tumor growth in vivo.",
-      "methods": "Based on multi-dimensional bioinformatics analyses-including differential expression, enrichment, prognostic modeling, and immune infiltration analyses-of GEO and TCGA datasets, potential biomarkers that promote malignant progression in OSCC and their association with m6A-related molecules were identified. The effect of MAD2L1 on OSCC in vitro was assessed using CCK-8, RT-qPCR, colony formation, wound healing, and TUNEL assays, while Western blotting was employed to explore the underlying mechanisms by which MAD2L1 influences OSCC progression. Additionally, RT-qPCR was used to examine the impact of MAD2L1 on m6A-related biomarkers. Finally, a xenograft tumor model was utilized to evaluate the effect of MAD2L1 on tumor growth in vivo.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41320992/",
       "pmcid": "",
       "figure_urls": []
     },
