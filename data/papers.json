@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-09T04:22:44Z",
+  "updated_at": "2026-03-10T04:13:24Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -291,6 +291,39 @@
       "figure_urls": []
     },
     {
+      "pmid": "41800119",
+      "title": "Transferrin-dependent uptake and distribution of iron in osteoclast-like cells.",
+      "authors": [
+        "Silvia Dolder",
+        "Romina Cabra",
+        "Jonas Zaugg",
+        "Giuseppe Albano",
+        "Daniel G Fuster",
+        "Christiane Albrecht",
+        "Willy Hofstetter"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Iron is an essential micro component and is involved in numerous critical cellular processes and in energy production. While its roles in oxygen transport and in oxidative phosphorylation are well documented, it remains to be elucidated, whether iron modulates specific cellular processes in different organs. Iron deficiency has been found to lead to a decrease in the capacity of osteoclasts to dissolve amorphous calcium phosphate. Furthermore, levels of iron in the cellular environment led to significant changes in the levels of transcripts encoding iron transport proteins. Within the present study, the uptake of iron by osteoclasts and the kinetics of intracellular transport were analyzed. For this purpose, M-CSF (Macrophage-Colony Stimulating Factor) dependent non-adherent osteoclast progenitor cells were differentiated to osteoclasts in media containing M-CSF and RANKL (Receptor Activator of NF-κB Ligand). For the upregulation of iron transport capacity, media were supplemented with Deferoxamine, an iron complexor, rendering the cultures virtually iron-free. To analyze iron uptake by osteoclast like cells, holo-transferrin, loaded with 55Fe was added to the cells and iron uptake was quantitated in whole cell lysates and in fractionated cells. The data demonstrates that Deferoxamine-treated osteoclasts absorb higher quantities of iron as compared to untreated control cells. By density gradient centrifugation, cell associated iron can be separated into two major pools. Pool I represents non-transferrin associated iron in cytoplasmic fractions, while pool II contains transferrin/ transferrin receptor associated iron. Within 4 h of incubation in iron-deficient medium, pool I disappears, as does transferrin. Pool II iron and transferrin receptor, however, remain detectable. Furthermore, iron peaks did not associate with ferritin nor with mitochondria, demonstrating that these two mechanisms of iron storage did not become activated during the course of the study. The data thus demonstrates that iron uptake by osteoclasts can be modulated by exogenous iron and that cell associated iron forms either a labile iron pool of free iron that is lost within a short period of time or a vesicular pool of non-transferrin bound iron that remains stable over the experimental period. No further trafficking of iron into ferritin particles or mitochondria was detected.",
+      "objective": ", M-CSF (Macrophage-Colony Stimulating Factor) dependent non-adherent osteoclast progenitor cells were differentiated to osteoclasts in media containing M-CSF and RANKL (Receptor Activator of NF-κB Ligand). For the upregulation of iron transport capacity, media were supplemented with Deferoxamine, an iron complexor, rendering the cultures virtually iron-free. To analyze iron uptake by osteoclast like cells, holo-transferrin, loaded with 55Fe was added to the cells and iron uptake was quantitated in whole cell lysates and in fractionated cells. The data demonstrates that Deferoxamine-treated osteoclasts absorb higher quantities of iron as compared to untreated control cells. By density gradient centrifugation, cell associated iron can be separated into two major pools. Pool I represents non-transferrin associated iron in cytoplasmic fractions, while pool II contains transferrin/ transferrin receptor associated iron. Within 4 h of incubation in iron-deficient medium, pool I disappears, as does transferrin. Pool II iron and transferrin receptor, however, remain detectable. Furthermore, iron peaks did not associate with ferritin nor with mitochondria, demonstrating that these two mechanisms of iron storage did not become activated during the course of the study. The data thus demonstrates that iron uptake by osteoclasts can be modulated by exogenous iron and that cell associated iron forms either a labile iron pool of free iron that is lost within a short period of time or a vesicular pool of non-transferrin bound iron that remains stable over the experimental period. No further trafficking of iron into ferritin particles or mitochondria was detected.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41800119/",
+      "pmcid": "PMC12966646",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12966646/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12966646/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12966646/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12966646/bin/gr2.gif"
+      ]
+    },
+    {
       "pmid": "41773293",
       "title": "Human induced pluripotent stem cell-derived inner ear organoids reveal hair cell damage and plasticity after cisplatin and gentamicin exposure.",
       "authors": [
@@ -449,6 +482,36 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930084/bin/gr2.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930084/bin/gr3.jpg"
       ]
+    },
+    {
+      "pmid": "41655372",
+      "title": "Clinical phenotypes and predictors of adherence to continuous positive airway pressure therapy in obstructive sleep apnoea: A multicentre cohort study.",
+      "authors": [
+        "Karin Jeppesen",
+        "Poul Jørgen Jennum",
+        "Caroline Moos",
+        "Rikke Ibsen",
+        "Michael Ibsen",
+        "Asbjørn Kørvel-Hanquist",
+        "Preben Homøe",
+        "Eva Kirkegaard Kiaer",
+        "Helene Skjøt-Arkil"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Obstructive Sleep Apnoea (OSA) is a highly prevalent disease often treated with CPAP therapy, but long-term adherence remains a challenge. This study aimed to explore which phenotypes of OSA patients are more or less likely to achieve high adherence to CPAP therapy, based on pre-treatment characteristics. We analysed demographic, socioeconomic, and clinical characteristics across predefined CPAP adherence groups (high, low, and no adherence) in a multicentre cohort of newly diagnosed OSA patients. Multivariate logistic regression was used to assess predictive accuracy, and observed patterns were synthesised into rule-based clinical phenotypes. Among 2845 patients, 41% were highly adherent, 20% had low adherence, and 39% were non-adherent after one year. High adherence was associated with cohabitation, higher education, employment, and greater disease severity. Low or no adherence was linked to comorbidity burden and social vulnerability. The predictive model yielded an accuracy of 60%. Based on group-level differences and model outputs, three clinically reasoned phenotypes were identified: (1) Symptomatic severe OSA with social support, (2) Multimorbidity-dominated, and (3) Non-employed working-age adults. Distinct demographic, socioeconomic, and clinical profiles were associated with CPAP adherence. The identified phenotypes offer a practical framework for understanding adherence variation and may support more individualised approaches to treatment and follow-up.",
+      "objective": "",
+      "study_methods": "We analysed demographic, socioeconomic, and clinical characteristics across predefined CPAP adherence groups (high, low, and no adherence) in a multicentre cohort of newly diagnosed OSA patients. Multivariate logistic regression was used to assess predictive accuracy, and observed patterns were synthesised into rule-based clinical phenotypes.",
+      "methods": "We analysed demographic, socioeconomic, and clinical characteristics across predefined CPAP adherence groups (high, low, and no adherence) in a multicentre cohort of newly diagnosed OSA patients. Multivariate logistic regression was used to assess predictive accuracy, and observed patterns were synthesised into rule-based clinical phenotypes.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41655372/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41468698",
@@ -707,6 +770,95 @@
       "figure_urls": []
     },
     {
+      "pmid": "41702512",
+      "title": "A multidomain peptide hydrogel-liposome composite for controlled release of a cyclic dinucleotide in oral cancer.",
+      "authors": [
+        "Joseph W R Swain",
+        "Andrea H Molina",
+        "Gemalene M Sunga",
+        "Danielle Chew-Martinez",
+        "Neeraja Dharmaraj",
+        "Alejandra Cobos Perez",
+        "Arghadip Dey",
+        "Ephraim J Vázquez-Rosado",
+        "Simon Young",
+        "Jeffrey D Hartgerink"
+      ],
+      "publication_date": "2026-Apr-10",
+      "publication_date_iso": "2026-04-10",
+      "abstract": "While immunotherapy is a promising treatment strategy for cancer, the majority of head and neck squamous cell carcinoma (HNSCC) patients treated with single-agent immunotherapy do not respond. Therefore, researchers are investigating combination treatments with immunostimulatory molecules that can maximize anti-tumor responses. Cyclic dinucleotides (CDNs) are STING agonists that hold promise in combination approaches, but they require frequent intratumoral administration when used in both preclinical models of HNSCC and clinical trials. To reduce administration frequency, we have created a peptide hydrogel-liposome composite system, K2-Lip(CDN), for local and prolonged availability of CDN. We investigated the loading limits of cationic liposomes in both anionic (E2) and cationic (K2) peptide hydrogels and found that E2 caused aggregation to occur at the desired lipid:peptide molar ratio, which led to our use of K2 in the composite system. At a molar ratio of 8:1 lipid:peptide, K2-Lip(CDN) formed a self-healing composite hydrogel and resulted in prolonged release of CDN in vitro and indocyanine green (ICG) in vivo. This composite material resulted in cellular cytotoxicity in ROC1 oral cancer cells in vitro and extended survival in an aggressive ROC1 tumor-bearing murine model compared to a single CDN injection. The overall survival using only a single dose of K2-Lip(CDN) was equivalent to that achieved with six repeated doses of CDN. The material properties and extended-release capabilities displayed by peptide hydrogel-liposome composite systems could translate to broad treatment applications that require the delayed release of localized therapeutics.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ed in prolonged release of CDN in vitro and indocyanine green (ICG) in vivo. This composite material resulted in cellular cytotoxicity in ROC1 oral cancer cells in vitro and extended survival in an aggressive ROC1 tumor-bearing murine model compared to a single CDN injection. The overall survival using only a single dose of K2-Lip(CDN) was equivalent to that achieved with six repeated doses of CDN. The material properties and extended-release capabilities displayed by peptide hydrogel-liposome composite systems could translate to broad treatment applications that require the delayed release of localized therapeutics.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41702512/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41605382",
+      "title": "Macrophage membrane-biomimetic DNA nanocages deliver taurine to reprogram trained immunity for periodontitis therapy.",
+      "authors": [
+        "Ya Cui",
+        "Xiaojing Li",
+        "Shebin Hong",
+        "Kaili Lin",
+        "Lixia Mao",
+        "Xudong Wang"
+      ],
+      "publication_date": "2026-Apr-10",
+      "publication_date_iso": "2026-04-10",
+      "abstract": "As one of the most burdensome oral diseases, periodontitis frequently leads to tooth loss and heightens the risk of systemic diseases. A major clinical challenge is that current strategies often fail to resolve chronic inflammation and bone resorption characteristic of its refractory state. Recent research implicates maladaptive trained immunity (TRIM) as a core mechanism, which promotes myeloid cell skewing and amplifies inflammatory responses and bone loss. Single-cell sequencing of peripheral blood mononuclear cells from periodontitis patients identified an elevated inflammatory stress state. Taurine, a sulfur-containing amino acid with known anti-inflammatory properties, offers therapeutic potential, but its application is limited by low oral bioavailability and a lack of target specificity. To address these challenges, a novel therapeutic strategy based on precisely engineered DNA nanocages carrying taurine has been developed. These nanocages are camouflaged with hybrid cell membranes harvested from M2-polarized and trained-immunosuppressive macrophages for targeted monocytes. This biomimetic system is designed to therapeutically correct the dysregulated TRIM state in monocytes and macrophages, effectively inhibiting inflammation and bone destruction. Concurrently, it restores the osteogenic differentiation and mitochondrial function of periodontal ligament cells via immune modulation, establishing a novel strategy for the precise immunotherapy of chronic periodontitis.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41605382/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41747369",
+      "title": "Clinical Implications of Sterilization Methods Applied to 3D-Printed Implant Surgical Guides: An In Vitro Study.",
+      "authors": [
+        "Hye-Bin Go",
+        "Gi-Tae Kim",
+        "Jae-Hun Yu",
+        "Youngjae Yoon",
+        "Jae-Sung Kwon"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "This in vitro study evaluated how 3 sterilization methods-autoclaving, ethylene oxide (EO) gas, and hydrogen peroxide gas plasma-affect the mechanical, physical, and dimensional properties of 3-dimensional (3D) printed implant surgical guides. These techniques are widely used in dental practice but differ in mechanism and limitations. Twenty specimens were fabricated using a digital light processing printer and divided into 4 groups (n = 5): non-sterilized control, autoclaving (121 °C, 15 minutes), EO gas (55 °C, 60 minutes), and hydrogen peroxide gas plasma (<57 °C, 18 minutes). Mechanical tests evaluated flexural strength, modulus, and Shore D hardness while translucency and dimensional stability were also assessed. Shape deviation and implant positioning accuracy were compared before and after sterilization. Data were analyzed with one-way analysis of variance and Tukey's post hoc test. All sterilized groups maintained internal fit deviations within clinically acceptable tolerance (±120 μm), showing no significant differences in overall dimensional accuracy. Implant placement precision was preserved, with implant-tooth distances ≥2 mm. EO sterilization significantly increased the flexural strength (122.49 ± 10.10 MPa) and modulus (3477 ± 161 MPa) compared with controls whereas autoclaving showed the lowest strength (92.40 ± 15.06 MPa). Shore D hardness exceeded 90 HS in all groups, with autoclaving producing the highest values. Only EO treatment significantly reduced translucency. Sterilization method influenced the mechanical and optical properties of 3D-printed surgical guides without compromising dimensional accuracy. The findings provide evidence-based guidance for clinicians to select sterilization protocols that preserve the functionality of 3D-printed surgical guides and ensure precision in implant placement.",
+      "objective": "",
+      "study_methods": "Twenty specimens were fabricated using a digital light processing printer and divided into 4 groups (n = 5): non-sterilized control, autoclaving (121 °C, 15 minutes), EO gas (55 °C, 60 minutes), and hydrogen peroxide gas plasma (<57 °C, 18 minutes). Mechanical tests evaluated flexural strength, modulus, and Shore D hardness while translucency and dimensional stability were also assessed. Shape deviation and implant positioning accuracy were compared before and after sterilization. Data were analyzed with one-way analysis of variance and Tukey's post hoc test.",
+      "methods": "Twenty specimens were fabricated using a digital light processing printer and divided into 4 groups (n = 5): non-sterilized control, autoclaving (121 °C, 15 minutes), EO gas (55 °C, 60 minutes), and hydrogen peroxide gas plasma (<57 °C, 18 minutes). Mechanical tests evaluated flexural strength, modulus, and Shore D hardness while translucency and dimensional stability were also assessed. Shape deviation and implant positioning accuracy were compared before and after sterilization. Data were analyzed with one-way analysis of variance and Tukey's post hoc test.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41747369/",
+      "pmcid": "PMC12955157",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12955157/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12955157/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12955157/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12955157/bin/gr2.gif"
+      ]
+    },
+    {
       "pmid": "41747006",
       "title": "The Regenerative Effect of Various Barrier Membranes With and Without Bone Grafting in Critical Size Defects in Rabbit Calvaria.",
       "authors": [
@@ -803,6 +955,37 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41741963/",
       "pmcid": "",
       "figure_urls": []
+    },
+    {
+      "pmid": "41719953",
+      "title": "Research Trends in Autogenous Dentin Graft: A Bibliometric and Cluster Analysis (2006-2025).",
+      "authors": [
+        "Yang Guo",
+        "Chenghao Tong",
+        "Tian Wang",
+        "Lijuan Zhou",
+        "Meichao Wang"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Autogenous dentin graft (ADG) represents a promising autologous grafting material for bone reconstruction, owing to its low immunogenicity, inherent osteoinductive properties, and straightforward processing. This study employs bibliometric analysis to examine the research progress and emerging trends in ADG, assessing the scholarly contributions of institutions, journals, and authors from different countries and regions. Publications on ADG from 2006 to 2025 were retrieved from the Web of Science Core Collection database. Bibliometric and visual analyses were performed using VOSviewer, CiteSpace, and R package 'bibliometric'. A total of 559 publications on ADG were identified. China led in research output with 61 articles, and Seoul National University was the most prolific institution, contributing 67 publications. Kim Young-Kyun emerged as the leading author, with an H-index of 18 and 23 publications. The Clinical Oral Implants Research was the most influential journal contributing the most publications. Keywords cluster analysis showed 4 main clusters were identified, including ADG for implant placement, ADG for alveolar ridge augmentation, combination with other materials and advantages of ADG. Keywords burst analysis showed emerging interests in 'guided bone regeneration' (2022-2025) and 'growth factors' (2023-2025). This bibliometric analysis provides an overview of global research trends in ADG. The frontiers in this field may be validation of efficacy of the demineralized ADG-derived membrane and development of standardized protocol for demineralized ADG to further improve patient prognosis.",
+      "objective": "",
+      "study_methods": "Publications on ADG from 2006 to 2025 were retrieved from the Web of Science Core Collection database. Bibliometric and visual analyses were performed using VOSviewer, CiteSpace, and R package 'bibliometric'.",
+      "methods": "Publications on ADG from 2006 to 2025 were retrieved from the Web of Science Core Collection database. Bibliometric and visual analyses were performed using VOSviewer, CiteSpace, and R package 'bibliometric'.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41719953/",
+      "pmcid": "PMC12933813",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933813/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933813/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933813/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933813/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "41716351",
@@ -974,6 +1157,30 @@
       ]
     },
     {
+      "pmid": "41687343",
+      "title": "Bridging Dentistry and Nephrology in CKD: Evidence, Feasibility, and Equity Considerations.",
+      "authors": [
+        "Suhani Ghai",
+        "Kailash N Singh",
+        "Ankit Grover"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687343/",
+      "pmcid": "PMC12914781",
+      "figure_urls": []
+    },
+    {
       "pmid": "41662794",
       "title": "Financial toxicity in patients suffering from oral squamous cell carcinoma in Germany - A single centre survey.",
       "authors": [
@@ -1030,6 +1237,101 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41662793/",
       "pmcid": "",
       "figure_urls": []
+    },
+    {
+      "pmid": "41655402",
+      "title": "Dual Framework for Classification and Detection of Third Molar Impaction in Panoramic Radiographs.",
+      "authors": [
+        "Zohaib Khurshid",
+        "Mousa Haney Alsleem",
+        "Fahad Ahmed Aljubairah",
+        "Hussain Adel Alghafli",
+        "Abdullah Othman Alasafirah",
+        "Bassam Abbas Alibrahim",
+        "Abdullah Abdulrahman Alshamrani",
+        "Abdulelah Nasser Alsuhaymi"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "The surgical extraction of impacted mandibular third molars present significant clinical challenges, where accurate preoperative assessment is crucial to mitigate risks such as Inferior Alveolar Nerve injury. Although artificial intelligence shows promise in dental radiology, existing approaches are often limited to binary classification, affected by class imbalance, and lack standardized evaluation protocols, thereby restricting their clinical applicability. This study proposes two independent deep learning frameworks for comprehensive analysis of third molar impactions. The first framework is an end-to-end object detection pipeline employing modified YOLOv10 and YOLOv11n architectures enhanced with multihead self-attention. The second framework is a feature-based classification approach, where deep features extracted using ResNet50 and InceptionNetV3 are classified using traditional machine learning algorithms. Validated on a multinational dataset of 5796 expertly annotated orthopantomograms with high inter-rater agreement (κ = 0.92), the proposed frameworks demonstrated competitive performance. The Fine KNN classifier using ResNet50 features achieved the best classification performance, yielding 97.56% accuracy, 96.07% precision, 96.21% recall, and an F1-score of 96.10%, while InceptionNetV3-based classification achieved 97.33% accuracy with an F1-score of 95.30%. For object detection, YOLOv11n attained a mean average precision of 88.9% (mAP@0.5) and 85.7% (mAP@0.5:0.95), while maintaining substantially lower computational complexity (19.7 vs 28.4 GFLOPs). Ablation experiments confirmed that the integration of multihead self-attention modules and generative adversarial network-based augmentation improved detection performance by 6.4% mean average precision. The proposed frameworks enable accurate and automated multiclass assessment of third molar impactions, achieving high diagnostic performance while preserving computational efficiency suitable for clinical deployment. This work advances artificial intelligence-assisted surgical planning by providing reliable F1-score-based evaluation, reliable real-time detection, and enhanced preoperative risk stratification in oral and maxillofacial surgery.",
+      "objective": "",
+      "study_methods": "This study proposes two independent deep learning frameworks for comprehensive analysis of third molar impactions. The first framework is an end-to-end object detection pipeline employing modified YOLOv10 and YOLOv11n architectures enhanced with multihead self-attention. The second framework is a feature-based classification approach, where deep features extracted using ResNet50 and InceptionNetV3 are classified using traditional machine learning algorithms.",
+      "methods": "This study proposes two independent deep learning frameworks for comprehensive analysis of third molar impactions. The first framework is an end-to-end object detection pipeline employing modified YOLOv10 and YOLOv11n architectures enhanced with multihead self-attention. The second framework is a feature-based classification approach, where deep features extracted using ResNet50 and InceptionNetV3 are classified using traditional machine learning algorithms.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41655402/",
+      "pmcid": "PMC12907845",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907845/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907845/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907845/bin/gr3.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907845/bin/gr4.jpg"
+      ]
+    },
+    {
+      "pmid": "41655401",
+      "title": "Feasibility of Mandibular Distraction Osteogenesis Using Mixed Reality-based Dynamic Navigation: A Preclinical Study.",
+      "authors": [
+        "Cheng Ma",
+        "Shi-Xi He",
+        "Qian-Yu Liu",
+        "Yin-Yu Shang",
+        "Jian-Gu Gong",
+        "Xuan-Ping Huang"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Mandibular distraction osteogenesis (MDO) is critical for correcting mandibular hypoplasia. Mixed reality (MR) is an emerging surgical-navigation technology that can overcome the limitations of traditional methods. However, evidence regarding the benefits of MR navigation in MDO is limited. Herein, we developed a dynamic MR-based navigation system and compared its performance to techniques using surgical guides (SGs) as well as freehand (FH) and traditional navigation (TN) approaches. An adjacent-display MR navigation system integrating optical tracking and a patient-specific registration device was developed for real-time dynamic guidance. Thirty mandibular three-dimensional (3D)-printed models were allocated to three groups (n = 10 each): MR, SG, and FH. Thirty-two Beagle dogs were randomised into four groups (n = 8 each): MR, SG, FH, and TN. The feasibility of the MR system was evaluated in 10 human cadaver heads. All procedures were performed by the same surgical team. The outcomes included osteotomy accuracy, distraction-vector deviation, distractor placement precision, intraoperative corrections, and operative time. In the model experiments, the MR group showed significantly higher distractor and osteotomy accuracy than the FH group and similar precision as the SG group. In animal studies, the MR approach reduced errors in distractor placement, distraction vector, and osteotomy in comparison with the FH approach, and outperformed the SG-based approach in terms of distractor positioning and osteotomy accuracy. In comparison with TN, the MR approach excelled in distractor positioning, osteotomy accuracy, and reduced operative time. Cadaver experiments revealed sagittal and transverse distractor errors of 1.99° ± 0.67° and 1.63° ± 0.88°, respectively, distraction-vector deviation of 2.62° ± 0.38°, and osteotomy angle deviation of 1.74° ± 0.50°. The average operative time was 85.23 ± 13.04 min; distractor positioning required 54.08 ± 15.71 min and the number of intraoperative corrections was 6.80 ± 1.87. The dynamic MR navigation system achieved better accuracy than the FH approach and showed specific advantages over the TN and SG-based approaches, indicating its potential clinical applicability for precise MDO. This study was registered with the Chinese Clinical Trial Registry (ChiCTR2500098863).",
+      "objective": "",
+      "study_methods": "An adjacent-display MR navigation system integrating optical tracking and a patient-specific registration device was developed for real-time dynamic guidance. Thirty mandibular three-dimensional (3D)-printed models were allocated to three groups (n = 10 each): MR, SG, and FH. Thirty-two Beagle dogs were randomised into four groups (n = 8 each): MR, SG, FH, and TN. The feasibility of the MR system was evaluated in 10 human cadaver heads. All procedures were performed by the same surgical team. The outcomes included osteotomy accuracy, distraction-vector deviation, distractor placement precision, intraoperative corrections, and operative time.",
+      "methods": "An adjacent-display MR navigation system integrating optical tracking and a patient-specific registration device was developed for real-time dynamic guidance. Thirty mandibular three-dimensional (3D)-printed models were allocated to three groups (n = 10 each): MR, SG, and FH. Thirty-two Beagle dogs were randomised into four groups (n = 8 each): MR, SG, FH, and TN. The feasibility of the MR system was evaluated in 10 human cadaver heads. All procedures were performed by the same surgical team. The outcomes included osteotomy accuracy, distraction-vector deviation, distractor placement precision, intraoperative corrections, and operative time.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41655401/",
+      "pmcid": "PMC12907860",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907860/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907860/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907860/bin/gr3.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907860/bin/gr4.jpg"
+      ]
+    },
+    {
+      "pmid": "41650829",
+      "title": "Characteristics, Citation Analysis, and Altmetrics Impact of Retracted Papers in Dentistry (2001-2024).",
+      "authors": [
+        "Alireza Jafari",
+        "Shohreh SeyyedHosseini",
+        "Reza BasirianJahromi"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Retraction is a mechanism for correcting published scholarly literature and alerting readers to seriously flawed or erroneous content, or ethical issues, in the literature they are reading. The objectives of this study were to identify the reasons for retraction, analyse citations, and describe the scientific and Altmetrics impacts of retracted papers in dentistry, oral health, and medicine. The present study was an applied, descriptive-analytical investigation conducted using Scientometric methods and the Altmetrics index. The research population consisted of 231 retracted scientific articles in the subject areas of Dentistry, Oral Surgery, and Medicine, which were indexed in the Web of Science database between 2001 and 2024. Statistical methods, including frequency, mean, and Spearman's correlation, were employed for data analysis using R software. The findings showed that out of the 231 retracted articles, 156 articles collectively received 2271 citations. Q1 journals have hosted the most retracted articles. Spain has the highest number of retracted articles in the field of dentistry worldwide. Falsification/fabrication of data is the most important reason for the retraction of articles. Mendeley had the highest share of retracted papers in dentistry among the reference management tools. The correlation coefficient between Altmetrics impact and scientific impact was significant (P < .05). As dentistry and oral health are a pivotal field within the biomedical sciences, they exert a substantial influence on the health of the population. For the preceding decades, it has remained imperative for dentistry researchers to dedicate greater attention to all phases of their research process, encompassing the study design, review process, and publication stage.",
+      "objective": "of this study were to identify the reasons for retraction, analyse citations, and describe the scientific and Altmetrics impacts of retracted papers in dentistry, oral health, and medicine. The present study was an applied, descriptive-analytical investigation conducted using Scientometric",
+      "study_methods": "The present study was an applied, descriptive-analytical investigation conducted using Scientometric methods and the Altmetrics index. The research population consisted of 231 retracted scientific articles in the subject areas of Dentistry, Oral Surgery, and Medicine, which were indexed in the Web of Science database between 2001 and 2024. Statistical methods, including frequency, mean, and Spearman's correlation, were employed for data analysis using R software.",
+      "methods": "The present study was an applied, descriptive-analytical investigation conducted using Scientometric methods and the Altmetrics index. The research population consisted of 231 retracted scientific articles in the subject areas of Dentistry, Oral Surgery, and Medicine, which were indexed in the Web of Science database between 2001 and 2024. Statistical methods, including frequency, mean, and Spearman's correlation, were employed for data analysis using R software.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41650829/",
+      "pmcid": "PMC12905765",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12905765/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12905765/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12905765/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12905765/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "41638297",
@@ -1164,6 +1466,37 @@
       "figure_urls": []
     },
     {
+      "pmid": "41619646",
+      "title": "Bone Quality in Resorbed Posterior Maxilla Affects Osteogenesis After Sinus Floor Augmentation: A Retrospective Analysis.",
+      "authors": [
+        "Wenjie Zhou",
+        "Shengchi Fan",
+        "Emilio A Cafferata",
+        "Yihan Shen",
+        "Yiqun Wu"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Compromised bone quality and quantity in the posterior maxilla are widely recognised as significant risk factors for implant failures. This study aimed to (1) assess the bone quality of the resorbed posterior maxilla both radiographically and histologically and (2) evaluate the impact of native alveolar bone quality on osteogenesis following maxillary sinus floor augmentation (MSFA). Patients presenting advanced posterior maxillary atrophy (residual bone height ≤ 4 mm) underwent MSFA via a lateral window approach using deproteinised bovine bone matrix (DBBM). Bone core biopsies were collected during second-stage implant placement for histological analyses. Preoperative cone-beam computer tomography (CBCT) images were used to classify bone quality based on cortical bone configuration. Multiple linear regression was employed to identify factors influencing osteogenesis. A total of 190 sinuses from 176 patients (96 males/80 females, mean age: 45.77 ± 4.13 years) underwent MSFA and biopsy. Radiographic analysis revealed the presence of bicortical bone in 42.21% of the maxillary ridges, unicortical bone in 25.97%, no cortical bone in 19.48% and sinus floor-crestal bone fusion in 12.34%. Histologically, native bone comprised 40.01% ± 14.85% of mineralised trabeculae while newly formed bone accounted for 18.77% ± 5.69% in the DBBM grafted areas. A significant positive correlation was observed between native bone trabecula percentage and new bone formation (r = 0.23, P = .04). No significant associations were found with age, sex, healing time or radiographic alveolar type (P > .05). Greater density of native trabecular bone may contribute to enhanced osteogenesis following MSFA. This study enhances our understanding of the bone characteristics of the resorbed posterior maxilla. It emphasises the need to consider the bone quality of the recipient site before conducting a MSFA for determining the surgical procedure and predicting the prognosis.",
+      "objective": "",
+      "study_methods": "Patients presenting advanced posterior maxillary atrophy (residual bone height ≤ 4 mm) underwent MSFA via a lateral window approach using deproteinised bovine bone matrix (DBBM). Bone core biopsies were collected during second-stage implant placement for histological analyses. Preoperative cone-beam computer tomography (CBCT) images were used to classify bone quality based on cortical bone configuration. Multiple linear regression was employed to identify factors influencing osteogenesis.",
+      "methods": "Patients presenting advanced posterior maxillary atrophy (residual bone height ≤ 4 mm) underwent MSFA via a lateral window approach using deproteinised bovine bone matrix (DBBM). Bone core biopsies were collected during second-stage implant placement for histological analyses. Preoperative cone-beam computer tomography (CBCT) images were used to classify bone quality based on cortical bone configuration. Multiple linear regression was employed to identify factors influencing osteogenesis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41619646/",
+      "pmcid": "PMC12876791",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12876791/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12876791/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12876791/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12876791/bin/gr2.gif"
+      ]
+    },
+    {
       "pmid": "41616922",
       "title": "Comparison of the accuracy of Robotic arm and Dynamic Navigation in the placement of mandibular dental implants: An in-vitro study.",
       "authors": [
@@ -1182,64 +1515,9 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery",
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41616922/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41610735",
-      "title": "Genetic polymorphisms in headache attributed to temporomandibular disorder: A case-control study.",
-      "authors": [
-        "Camilla Porto Campello",
-        "Cleidiel Aparecido Araujo Lemos",
-        "Elker Lene Santos de Lima",
-        "Renata Silva Melo Fernandes",
-        "Maria Tereza Cartaxo Muniz"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "The aim of this study was to examine the relationship between three single nucleotide polymorphisms (SNPs): -308 G/A TNF-α, -174 G/C IL-6, and C677T MTHFR and the presence of headache attributed to temporomandibular disorder (HATMD). This case-control study included a total of 68 patients with HATMD and 200 controls, aged 18 years and older. Both sets of participants included both genders. The diagnosis followed the diagnostic criteria for temporomandibular disorders (DC/TMD). The temporomandibular disorder pain screen was also applied. The -308 G/A TNF-α and 677 C/T MTHFR SNPs were genotyped using polymerase chain reaction-restriction fragment polymorphism (PCR-RFLP), and -174 G/C IL-6 SNP was performed by PCR. Allele frequencies and logistic regression analysis were used to assess the association between HATMD and genotypes. The results revealed that the AA genotype of -308 G/A TNF-α SNP (ORGG/AA= 0.20, 95 % CI: 0.0568-0.7724,p = 0.0290) and the CT genotype of C677T MTHFR SNP (ORCC/CT = 0.40, 95 % CI: 0.2224-0.7350, p = 0.0042) were protective factors for HATMD risk. No significant association was found between -174G/C IL-6 SNP and the risk of HATMD (ORGG/CC = 0.58, 95 % CI: 0.2122-1.6367, p = 0.45). The -308 G/A TNF-α and C677T MTHFR SNPs were identified as protective factors against the development of HATMD.",
-      "objective": "of this study was to examine the relationship between three single nucleotide polymorphisms (SNPs): -308 G/A TNF-α, -174 G/C IL-6, and C677T MTHFR and the presence of headache attributed to temporomandibular disorder (HATMD). This case-control study included a total of 68 patients with HATMD and 200 controls, aged 18 years and older. Both sets of participants included both genders. The diagnosis followed the diagnostic criteria for temporomandibular disorders (DC/TMD). The temporomandibular disorder pain screen was also applied. The -308 G/A TNF-α and 677 C/T MTHFR SNPs were genotyped using polymerase chain reaction-restriction fragment polymorphism (PCR-RFLP), and -174 G/C IL-6 SNP was performed by PCR. Allele frequencies and logistic regression analysis were used to assess the association between HATMD and genotypes. The",
-      "study_methods": "",
-      "methods": "",
-      "results": "revealed that the AA genotype of -308 G/A TNF-α SNP (ORGG/AA= 0.20, 95 % CI: 0.0568-0.7724,p = 0.0290) and the CT genotype of C677T MTHFR SNP (ORCC/CT = 0.40, 95 % CI: 0.2224-0.7350, p = 0.0042) were protective factors for HATMD risk. No significant association was found between -174G/C IL-6 SNP and the risk of HATMD (ORGG/CC = 0.58, 95 % CI: 0.2122-1.6367, p = 0.45). The -308 G/A TNF-α and C677T MTHFR SNPs were identified as protective factors against the development of HATMD.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41610735/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41604812",
-      "title": "The Surgical Objective Structured Clinical Examination: A Literature Review.",
-      "authors": [
-        "Brynn Petras Charron",
-        "Carson Norkum",
-        "Parham Rasoulinejad",
-        "Supriya Singh",
-        "Tyler Beveridge",
-        "Kevin Morash",
-        "Andrew Deweyert"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "As competency-based medical education (CBME) gains prominence, assessment tools that integrate both theoretical knowledge and technical skill have become essential, particularly in surgical training. Traditional tools such as the objective structured clinical examination (OSCE) and the Objective Structured Assessment of Technical Skills (OSATS) are limited in scope, prompting the development of the Surgical Objective Structured Clinical Examination (S-OSCE). The S-OSCE integrates knowledge-based and technical assessments to align with competency-based medical education (CBME) goals, including those outlined in the CanMEDS and ACGME frameworks. This review examines S-OSCE implementation and highlights trends that can inform future assessment strategies in surgical curricula. A comprehensive literature search was conducted across PubMed, Web of Science, and Scopus using defined keywords. Inclusion criteria encompassed all surgical disciplines and study designs that employed both theoretical and technical assessments. After screening 1101 articles, 16 studies were identified that met the inclusion criteria for S-OSCEs. The 16 studies spanned 6 specialties: general surgery, orthopedics, obstetrics and gynecology, oral and maxillofacial surgery, otolaryngology, and thoracic surgery. Most employed multiple-choice or short-answer theoretical assessments (n=12) and practical evaluations using OSATS or global rating scales (n=9). Video-based assessments were increasingly incorporated to reduce evaluator bias and logistical barriers. Canadian programs conducted the highest proportion of studies (37.5%). S-OSCEs show strong potential to provide valid and reliable assessment of surgical competency. However, widespread adoption is limited by logistical, financial, and staffing constraints. Video-based formats offer a promising solution, allowing asynchronous review and enhanced feedback while reducing costs and time requirements. S-OSCEs offer a comprehensive framework for evaluating surgical trainees across theoretical and technical domains. Future research should focus on validating scalable models, particularly those incorporating video-based assessment, to support broader integration into surgical training programs.",
-      "objective": "structured clinical examination (OSCE) and the Objective Structured Assessment of Technical Skills (OSATS) are limited in scope, prompting the development of the Surgical Objective Structured Clinical Examination (S-OSCE). The S-OSCE integrates knowledge-based and technical assessments to align with competency-based medical education (CBME) goals, including those outlined in the CanMEDS and ACGME frameworks. This review examines S-OSCE implementation and highlights trends that can inform future assessment strategies in surgical curricula. A comprehensive literature search was conducted across PubMed, Web of Science, and Scopus using defined keywords. Inclusion criteria encompassed all surgical disciplines and study designs that employed both theoretical and technical assessments. After screening 1101 articles, 16 studies were identified that met the inclusion criteria for S-OSCEs. The 16 studies spanned 6 specialties: general surgery, orthopedics, obstetrics and gynecology, oral and maxillofacial surgery, otolaryngology, and thoracic surgery. Most employed multiple-choice or short-answer theoretical assessments (n=12) and practical evaluations using OSATS or global rating scales (n=9). Video-based assessments were increasingly incorporated to reduce evaluator bias and logistical barriers. Canadian programs conducted the highest proportion of studies (37.5%). S-OSCEs show strong potential to provide valid and reliable assessment of surgical competency. However, widespread adoption is limited by logistical, financial, and staffing constraints. Video-based formats offer a promising solution, allowing asynchronous review and enhanced feedback while reducing costs and time requirements. S-OSCEs offer a comprehensive framework for evaluating surgical trainees across theoretical and technical domains. Future research should focus on validating scalable models, particularly those incorporating video-based assessment, to support broader integration into surgical training programs.",
-      "study_methods": "A comprehensive literature search was conducted across PubMed, Web of Science, and Scopus using defined keywords. Inclusion criteria encompassed all surgical disciplines and study designs that employed both theoretical and technical assessments. After screening 1101 articles, 16 studies were identified that met the inclusion criteria for S-OSCEs.",
-      "methods": "A comprehensive literature search was conducted across PubMed, Web of Science, and Scopus using defined keywords. Inclusion criteria encompassed all surgical disciplines and study designs that employed both theoretical and technical assessments. After screening 1101 articles, 16 studies were identified that met the inclusion criteria for S-OSCEs.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41604812/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1271,95 +1549,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41567142",
-      "title": "Custom-made donut technique: An innovative approach to treating scalp arteriovenous fistula.",
-      "authors": [
-        "Paolo Gennaro",
-        "Flavia Cascino",
-        "Simone Benedetti",
-        "Sandra Bracco",
-        "Samuele Cioni",
-        "Linda Latini"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Scalp arteriovenous fistulas are rare, high-flow vascular anomalies, often of post-traumatic origin. Their management remains a subject of debate owing to the limited number of reported cases. This study presents a novel approach for the treatment of a post-traumatic right mastoid scalp arteriovenous fistula in a patient with a history of multiple unsuccessful treatments. A customized, in-house three-dimensional-printed device, designed in a donut shape, was used to enhance the precision of direct puncture embolization. This approach aimed to confine embolization exclusively to the fistula site, minimizing the risk of inadvertent occlusion of adjacent vessels and subsequent cutaneous necrosis. The treatment strategy combined endovascular embolization using precipitating hydrophobic injectable liquid with surgical resection in a single-stage procedure. The intervention was completed without intraoperative or postoperative complications. Follow-up assessments confirmed complete fistula occlusion with no recurrence and satisfactory functional and aesthetic outcomes. This innovative technique highlights the potential advantages of patient-specific three-dimensional-printed devices in optimizing embolization strategies for complex vascular malformations.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41567142/",
-      "pmcid": "PMC12816785",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12816785/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12816785/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12816785/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12816785/bin/gr2.gif"
-      ]
-    },
-    {
-      "pmid": "41547639",
-      "title": "Response to \"Explicit dynamics\".",
-      "authors": [
-        "Eduardo Santana Jacob",
-        "Luma Caroline Vendrame",
-        "Milena Gomes Melo Leite",
-        "Marcelo Silva Monnazzi",
-        "Eduardo Hochuli-Vieira"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41547639/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41544880",
-      "title": "Combined antiresorptive and antiangiogenic therapy versus antiresorptive monotherapy: Impact on the surgical prognosis of MRONJ patients with advanced malignancies.",
-      "authors": [
-        "Yiwen Zou",
-        "Ning Zhao",
-        "Hongyuan Huang",
-        "Ying Zhou",
-        "Yuanning Yang",
-        "Qiao Qiao",
-        "Qingxiang Li",
-        "Jianhua Zhu",
-        "Yifei Wang",
-        "Yuxing Guo"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "For patients with advanced cancer and bone metastasis, antiresorptive medications (ARMs) and antiangiogenic medications (AGMs) are commonly employed to manage tumor progression and skeletal complications. This study evaluates the effects of distinct pharmacotherapeutic strategies-ARM monotherapy versus ARM+AGM combined therapy on surgical outcomes of medication-related osteonecrosis of the jaw (MRONJ) in this population. A retrospective cohort analysis was conducted on 157 patients: 106 received ARM monotherapy, and 51 underwent combined ARM+AGM treatment. Demographic data, MRONJ clinical characteristics, and quality of life (QoL) metrics were systematically collected and analyzed using univariate and multivariate statistical methods. Univariate analysis revealed that the ARM group had a higher proportion of females, longer antiresorptive therapy duration, and more favorable outcomes, including reduced postoperative pain and improved QoL compared to the ARM+AGM group. Multivariate analysis demonstrated that the ARM+AGM group exhibited a 2.8-fold recurrence risk relative to the ARM group, with prognosis significantly influenced by medication strategy, disease stage, and surgical approach. These findings indicate that combined ARM+AGM therapy is associated with a poorer prognosis and heightened recurrence risk in MRONJ patients compared to ARM monotherapy.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41544880/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41544400",
       "title": "Modeling the mechanical anisotropy in the trabecular bone with the measurement and consideration of the structural anisotropy.",
       "authors": [
@@ -1379,88 +1568,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41544400/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41539873",
-      "title": "Artificial intelligence-assisted detection of soft tissue calcifications and ossifications in CBCT.",
-      "authors": [
-        "Lokman Cin",
-        "Rabia Duman Tepe",
-        "Erol Cansız",
-        "Ilknur Ozcan",
-        "Ibrahim Sevki Bayrakdar",
-        "Hulya Cakir Karabas"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "This study aimed to integrate soft tissue calcifications and ossifications (STCO) detected on cone beam computed tomography (CBCT) into an artificial intelligence (AI) system and assess its diagnostic accuracy in both single-class and multi-class classification. CBCT images from 287 patients were retrospectively reviewed. STCOs were identified in axial, coronal, and sagittal planes, with segmentation performed in the axial plane. The AI model was trained to detect arterial calcifications, phleboliths, tonsilloliths, styloid ligament ossification, osteoma cutis, antroliths, laryngeal cartilage calcifications, sialoliths, lymph node calcifications, and rhinoliths as well as a single combined class. Data were split into training (80%), testing (10%), and validation (10%) sets, and performance was evaluated using sensitivity, precision, and F1-score. In the single-class model, sensitivity, precision, and F1-score were 0.98, 0.91, and 0.94, respectively. In the multi-class model, these values were 0.88, 0.80, and 0.84. The AI system achieved high accuracy in detecting STCOs, with superior results in single-class classification. AI-assisted CBCT evaluation may improve diagnostic efficiency, facilitate multidisciplinary collaboration, and support clinical decision-making.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "in single-class classification. AI-assisted CBCT evaluation may improve diagnostic efficiency, facilitate multidisciplinary collaboration, and support clinical decision-making.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41539873/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41525838",
-      "title": "Quantitative analysis of osseointegration of glass fiber-reinforced composite-bioactive glass cranial implants.",
-      "authors": [
-        "Vita M Klieverik",
-        "Marvick S M Muradin",
-        "N Nicolai",
-        "J Kortes",
-        "Pierre A Robe",
-        "Peter A Woerdeman"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Glass fiber-reinforced composite-bioactive glass (FRC-BG) implants are emerging as an alternative to autologous bone grafts with the potential for new bone formation and ingrowth from the surrounding skull. However, clinical evidence of osseointegration remains to be demonstrated. To evaluate radiological measures of osseointegration of FRC-BG implants used for cranioplasty. A retrospective cohort study was conducted including adult patients who underwent cranioplasty with FRC-BG implants between 2016 and 2021. Sequential non-contrast head CT-scans were obtained within 24 h postoperatively and after one year of follow-up. Using three-dimensional (3D) segmentation and analysis software, changes in bone volume (in cm3) and bone density (in Hounsfield units [HU]) of a standardized one cm-wide region of skull bone surrounding the margins of the FRC-BG implants were quantified. Paired samples t-tests assessed differences between baseline and after one year of follow-up. A total of 38 patients were included (mean age 50.2 ± 18.4 years). After one year of follow-up, significant increases were observed in both skull bone volume (mean difference 6.04 cm3, 95% confidence interval [CI] 4.65-7.43, p < 0.001) and skull bone density (mean difference 45.84 HU, 95% CI 1.15-90.52, p = 0.045) surrounding the FRC-BG implants. The present study shows radiological signs of osseointegration of FRC-BG implants used for cranioplasty.",
-      "objective": "",
-      "study_methods": "A retrospective cohort study was conducted including adult patients who underwent cranioplasty with FRC-BG implants between 2016 and 2021. Sequential non-contrast head CT-scans were obtained within 24 h postoperatively and after one year of follow-up. Using three-dimensional (3D) segmentation and analysis software, changes in bone volume (in cm3) and bone density (in Hounsfield units [HU]) of a standardized one cm-wide region of skull bone surrounding the margins of the FRC-BG implants were quantified. Paired samples t-tests assessed differences between baseline and after one year of follow-up.",
-      "methods": "A retrospective cohort study was conducted including adult patients who underwent cranioplasty with FRC-BG implants between 2016 and 2021. Sequential non-contrast head CT-scans were obtained within 24 h postoperatively and after one year of follow-up. Using three-dimensional (3D) segmentation and analysis software, changes in bone volume (in cm3) and bone density (in Hounsfield units [HU]) of a standardized one cm-wide region of skull bone surrounding the margins of the FRC-BG implants were quantified. Paired samples t-tests assessed differences between baseline and after one year of follow-up.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41525838/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41499023",
-      "title": "Decoding Temporomandibular Disorders: Identifying Stage-Specific and Functional Patterns in the Articular Disc.",
-      "authors": [
-        "Pascal Eber",
-        "Ana M P Baggio",
-        "Yannick M Sillmann",
-        "Philippe Korn",
-        "David A Keith",
-        "Shruti Handa",
-        "Fernando P S Guastaldi"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Despite affecting approximately 30% of the population, the pathogenesis of temporomandibular disorders (TMD) remains poorly understood. Conditions such as disc displacement and joint degeneration are often associated with biomechanical dysfunction. Identifying and categorizing biomarkers in the articular disc may enhance our understanding of disease mechanisms and progression, potentially improving diagnostic accuracy and therapeutic outcomes. This review examines patterns among immunohistochemical biomarkers in the articular disc, with a focus on internal derangement and disc displacement. It also explores associations with clinical, radiological, and histological findings, defining the functional and stage-specific relevance of each marker. A systematic search of major databases and journals identified studies that used immunohistochemical methods and included control groups. Biomarker patterns were analyzed in isolation and in relation to clinical, radiological, and histological findings. Patient demographics were examined to determine their alignment with disease trends. Study selection followed PRISMA guidelines; bias was assessed using the Newcastle-Ottawa Scale. The review included 511 patients (579 samples) and 132 controls (158 samples). Analysis identified 24 biomarkers, providing valuable insights into their role in inflammatory progression, ECM remodeling, and tissue degeneration. Biomarkers were classified according to functional and stage-specific patterns, facilitating early detection, refining disease staging, and supporting individualized treatment strategies. Disc biopsy offers unique insights into the joint- and disc-specific mechanisms that drive TMD progression from disc displacement to degenerative findings. However, its clinical use remains limited by its invasive nature, ethical constraints, and the lack of standardized protocols for reliable study design and validated biomarker profiles.",
-      "objective": "",
-      "study_methods": "A systematic search of major databases and journals identified studies that used immunohistochemical methods and included control groups. Biomarker patterns were analyzed in isolation and in relation to clinical, radiological, and histological findings. Patient demographics were examined to determine their alignment with disease trends. Study selection followed PRISMA guidelines; bias was assessed using the Newcastle-Ottawa Scale.",
-      "methods": "A systematic search of major databases and journals identified studies that used immunohistochemical methods and included control groups. Biomarker patterns were analyzed in isolation and in relation to clinical, radiological, and histological findings. Patient demographics were examined to determine their alignment with disease trends. Study selection followed PRISMA guidelines; bias was assessed using the Newcastle-Ottawa Scale.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41499023/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1613,6 +1720,61 @@
       "figure_urls": []
     },
     {
+      "pmid": "41796356",
+      "title": "Automatic estimation of single-tooth width from standardized two-dimensional occlusal photographs using deep learning.",
+      "authors": [
+        "Litong Li",
+        "Yulin Shi",
+        "Duo Wang",
+        "Weixu Li",
+        "Tingting Liu",
+        "Yuanqing Ma",
+        "Meng Cao"
+      ],
+      "publication_date": "2026-Mar-09",
+      "publication_date_iso": "2026-03-09",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41796356/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41796188",
+      "title": "Sex and BMI as predictors of pill residue in dysphagia: a multivariate analysis.",
+      "authors": [
+        "Ayako Nakane",
+        "Mariko Ando",
+        "Yu Yoshizumi",
+        "Shinya Mikushi",
+        "Kazuo Motomura",
+        "Haruka Tohara"
+      ],
+      "publication_date": "2026-Mar-08",
+      "publication_date_iso": "2026-03-08",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41796188/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41793727",
       "title": "Emotional regulation, empathy and surgical performance inundergraduate dental students: A prospective cohort study.",
       "authors": [
@@ -1654,11 +1816,11 @@
       ],
       "publication_date": "2026-Mar-07",
       "publication_date_iso": "2026-03-07",
-      "abstract": "",
+      "abstract": "Neurofibromatosis type 1 (NF1) is an autosomal dominant disorder caused by NF1 gene mutations, resulting in neurofibromin deficiency and vascular fragility. Although excessive hemorrhage during surgery has been reported in patients with NF1, such complications during orthognathic surgery are extremely rare. A 26-year-old woman with NF1 presented with skeletal Class II malocclusion. Preoperative contrast-enhanced computed tomography and magnetic resonance imaging revealed no neurofibromas along the airway or near the surgical field. Le Fort I osteotomy and bilateral sagittal split ramus osteotomies were planned following orthodontic treatment. Considering the bleeding risk associated with NF1, 600 mL of autologous blood was collected preoperatively. During surgery, persistent diffuse microvascular bleeding occured without identifiable vessel injury. The total intraoperative estimated blood loss was 1,715 mL, approximately five times higher than the average value reported for combined Le Fort I osteotomy and bilateral sagittal split ramus osteotomies. Hemostasis was achieved using oxidized cellulose compression. The patient received autologous blood transfusion only and recovered without allogeneic transfusion. Postoperative hemoglobin improved gradually with oral iron therapy, and the patient was discharged on postoperative day 16 without further complications. This case highlights the potential for excessive hemorrhage during orthognathic surgery in a patient with NF1, even in the absence of apparent neurofibromas. Comprehensive preoperative vascular assessment and autologous blood preparation are essential. Surgeons should be prepared for prompt hemostatic management to ensure safe surgical outcomes in patients with NF1.",
       "objective": "",
       "study_methods": "",
       "methods": "",
-      "results": "",
+      "results": "ing in neurofibromin deficiency and vascular fragility. Although excessive hemorrhage during surgery has been reported in patients with NF1, such complications during orthognathic surgery are extremely rare. A 26-year-old woman with NF1 presented with skeletal Class II malocclusion. Preoperative contrast-enhanced computed tomography and magnetic resonance imaging revealed no neurofibromas along the airway or near the surgical field. Le Fort I osteotomy and bilateral sagittal split ramus osteotomies were planned following orthodontic treatment. Considering the bleeding risk associated with NF1, 600 mL of autologous blood was collected preoperatively. During surgery, persistent diffuse microvascular bleeding occured without identifiable vessel injury. The total intraoperative estimated blood loss was 1,715 mL, approximately five times higher than the average value reported for combined Le Fort I osteotomy and bilateral sagittal split ramus osteotomies. Hemostasis was achieved using oxidized cellulose compression. The patient received autologous blood transfusion only and recovered without allogeneic transfusion. Postoperative hemoglobin improved gradually with oral iron therapy, and the patient was discharged on postoperative day 16 without further complications. This case highlights the potential for excessive hemorrhage during orthognathic surgery in a patient with NF1, even in the absence of apparent neurofibromas. Comprehensive preoperative vascular assessment and autologous blood preparation are essential. Surgeons should be prepared for prompt hemostatic management to ensure safe surgical outcomes in patients with NF1.",
       "conclusion": "",
       "limitations": "",
       "topics": [
@@ -1666,8 +1828,13 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41793483/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC12967438",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967438/bin/10006_2026_1535_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967438/bin/10006_2026_1535_Fig2_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967438/bin/10006_2026_1535_Fig3_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967438/bin/10006_2026_1535_Fig4_HTML.jpg"
+      ]
     },
     {
       "pmid": "41792566",
@@ -1980,6 +2147,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "41775512",
+      "title": "Fifteen-minute consultation: Paediatric facial fractures.",
+      "authors": [
+        "Erin Flaherty",
+        "Shrina Patel",
+        "Jordan Evans",
+        "Thomas Micic",
+        "Dylan Murray",
+        "Caroline Fox"
+      ],
+      "publication_date": "2026-Mar-03",
+      "publication_date_iso": "2026-03-03",
+      "abstract": "Facial trauma is commonly encountered in the paediatric population, with its prevalence and severity influenced by age, the unique characteristics of developing facial anatomy and injury mechanism. A thorough yet targeted history, along with a detailed clinical examination during the initial evaluation in the emergency department (ED), is essential for effective management. This article provides an overview of facial fractures; mandibular, nasal, orbital, zygomatic and maxillary-with a specific focus on their assessment and management in the ED setting.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41775512/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41773628",
       "title": "Simultaneous Orthognathic Surgery and Costal Bone Grafting in Hemifacial Microsomia: A Rare Case Report and Literature Review.",
       "authors": [
@@ -2004,132 +2198,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41773628/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41775582",
-      "title": "Artificial intelligence in treatment prediction for skeletal Class III malocclusion: A systematic review.",
-      "authors": [
-        "R Hasbi",
-        "A Brotons",
-        "M Le Gall",
-        "D Dorison-Bachet",
-        "R Urena",
-        "C Philip-Alliez"
-      ],
-      "publication_date": "2026-Mar-02",
-      "publication_date_iso": "2026-03-02",
-      "abstract": "In skeletal Class III patients, treatment options range from orthodontics to orthognathic surgery. Choosing the optimal approach requires a comprehensive clinical evaluation, which may be supported by AI tools. The aim of this study was to assess the performance of AI models in predicting the need for orthognathic surgery and in identifying predictors influencing treatment decisions. A PRISMA-guided electronic database search (PubMed, Web of Science; 2009-2024; English/French) was performed to identify studies using machine learning (ML) or deep learning (DL) on cephalometric and clinical data. After screening and assessment for eligibility, 15 studies were critically appraised. Model performance was summarized using accuracy, sensitivity, specificity, and the area under the curve (AUC). ML algorithms (particularly Random Forest and XGBoost) and DL models (ResNet-based convolutional neural networks (CNNs)) achieved high accuracy for predicting surgical need. Frequently selected predictors included Wits appraisal, ANB angle, the maxillomandibular ratio (Mx/Md), overjet, and the divergence of the lower gonial angle. AI methods show promise for assisting treatment decisions in Class III malocclusion, with Random Forest and XGBoost performing well on tabular cephalometric data and CNNs on imaging. Larger, multicentre datasets and external validation are needed to improve reliability, address bias, and support clinical implementation.",
-      "objective": "of this study was to assess the performance of AI models in predicting the need for orthognathic surgery and in identifying predictors influencing treatment decisions. A PRISMA-guided electronic database search (PubMed, Web of Science; 2009-2024; English/French) was performed to identify studies using machine learning (ML) or deep learning (DL) on cephalometric and clinical data. After screening and assessment for eligibility, 15 studies were critically appraised. Model performance was summarized using accuracy, sensitivity, specificity, and the area under the curve (AUC). ML algorithms (particularly Random Forest and XGBoost) and DL models (ResNet-based convolutional neural networks (CNNs)) achieved high accuracy for predicting surgical need. Frequently selected predictors included Wits appraisal, ANB angle, the maxillomandibular ratio (Mx/Md), overjet, and the divergence of the lower gonial angle. AI",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41775582/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41775013",
-      "title": "Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bibliometric Analysis.",
-      "authors": [
-        "Yingzhao Huang",
-        "Yuhong Wang",
-        "Chen Hou",
-        "Fan Song",
-        "Yaoqi Jiang",
-        "Kunyi Chen",
-        "Jinsong Hou"
-      ],
-      "publication_date": "2026-Mar-02",
-      "publication_date_iso": "2026-03-02",
-      "abstract": "Oral and maxillofacial surgery (OMFS) produces complex clinical data, while artificial intelligence (AI) applications in this field remain limited despite great potential. This study aimed to map the current status, hotspots, and emerging trends of AI in OMFS. Publications on AI and OMFS before January 10, 2025, were retrieved from the Web of Science Core Collection and Scopus. Data were analysed using CiteSpace and Carrot2 to construct co-citation networks, perform structural variation analysis, and generate a decade-long term co-occurrence network. A total of 5267 articles were included. The co-citation network showed a research base dominated by AI-driven medical image analysis, with a shift from traditional machine learning to deep learning and transformer models. Carrot2 clustering highlighted transfer learning and emerging applications in prognostic modeling for head and neck cancer. Structural variation analysis emphasised radiomics and pathology imaging as pivotal domains, while term co-occurrence networks revealed broad applications in radiomics, head and neck cancer, pathway analysis, maxillofacial surgery, and, more recently, orthognathic surgery. AI research in OMFS is currently centered on medical image analysis, particularly radiomics and pathology imaging. Methodological advances have shifted toward deep learning and transformer-based approaches, with ChatGPT as a representative model. Non-imaging applications, including pathway and prognostic analyses, represent promising directions for future integration of AI into OMFS. AI applications, particularly imaging-driven models and transformer-based architectures, offer practical tools for diagnosis, surgical planning, and prognostic assessment in OMFS. Transfer learning enables effective adaptation of AI models to institution-specific datasets, facilitating personalised patient management. By highlighting emerging opportunities in pathway analysis and outcome prediction, this study informs clinicians of actionable AI strategies, supporting evidence-based integration into routine practice and guiding the adoption of novel computational approaches for improved patient care.",
-      "objective": "",
-      "study_methods": "Publications on AI and OMFS before January 10, 2025, were retrieved from the Web of Science Core Collection and Scopus. Data were analysed using CiteSpace and Carrot2 to construct co-citation networks, perform structural variation analysis, and generate a decade-long term co-occurrence network.",
-      "methods": "Publications on AI and OMFS before January 10, 2025, were retrieved from the Web of Science Core Collection and Scopus. Data were analysed using CiteSpace and Carrot2 to construct co-citation networks, perform structural variation analysis, and generate a decade-long term co-occurrence network.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41775013/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41770475",
-      "title": "Deep learning-based identification and maturation assessment of the zygomaticomaxillary suture in cone-beam computed tomography images.",
-      "authors": [
-        "Zehua Jin",
-        "Yuhua Shan",
-        "Jianxing Feng",
-        "Jingtao Li",
-        "Zhelin Shi",
-        "Haotian Wu",
-        "Xiaochen Fan",
-        "Ruomei Li",
-        "Zhenqi Chen"
-      ],
-      "publication_date": "2026-Mar-02",
-      "publication_date_iso": "2026-03-02",
-      "abstract": "This study addresses maxillary deficiency management by developing a deep learning-based system for zygomaticomaxillary suture assessment. As the maturation status serves as a pivotal indicator for optimal maxillary protraction timing, its accurate evaluation is crucial for treatment success. The proposed cone-beam computed tomography-based system overcomes current limitations of subjective manual staging, offering quantitative and reproducible maturation analysis to guide clinically critical decisions in maxillary protraction therapy. A dataset of 505 cone-beam computed tomography scans was collected and annotated by three orthodontists to locate and stage the suture. Data augmentation and various loss functions were applied to optimize the model. The framework employs dual-network architecture: (1) 3D U-Net for precise suture identification, followed by (2) 3D ResNet50-based classification network for maturation stage prediction. Model performance was validated using multi-dimensional metrics including classification accuracy, precision, recall, F1-score, and area under the curve values from the receiver operating characteristic curve, with benchmark comparisons against expert evaluators' assessments. The model assessment took about 46 s for two tasks. 3D U-Net showed an average Euclidean distance of 2.31 ± 1.57 mm between the located and annotated zygomaticomaxillary suture centers. For classification tasks, the two-stage (ABC/DE) task had an accuracy of 0.922 and an F1-score of 0.921; the three-stage (A/BC/DE) task had an accuracy of 0.833 and an F1-score of 0.838; and the five-stage (A/B/C/D/E) task had an accuracy of 0.611 and an F1-score of 0.604. The dual-network deep learning system can automatically locate and assess the maturation of the zygomaticomaxillary suture in three dimensions from CBCT files, providing a critical foundation for clinical decision-making in maxillary protraction therapy. This deep learning-model improves diagnostic workflow by reducing assessment time and minimizing inter-observer variability, providing clinicians with a reliable and reproducible reference for optimal maxillary protraction timing-avoiding over-treatment of the very young (stage A) while ensuring timely intervention before sutural closure (stages D and E).",
-      "objective": "",
-      "study_methods": "A dataset of 505 cone-beam computed tomography scans was collected and annotated by three orthodontists to locate and stage the suture. Data augmentation and various loss functions were applied to optimize the model. The framework employs dual-network architecture: (1) 3D U-Net for precise suture identification, followed by (2) 3D ResNet50-based classification network for maturation stage prediction. Model performance was validated using multi-dimensional metrics including classification accuracy, precision, recall, F1-score, and area under the curve values from the receiver operating characteristic curve, with benchmark comparisons against expert evaluators' assessments.",
-      "methods": "A dataset of 505 cone-beam computed tomography scans was collected and annotated by three orthodontists to locate and stage the suture. Data augmentation and various loss functions were applied to optimize the model. The framework employs dual-network architecture: (1) 3D U-Net for precise suture identification, followed by (2) 3D ResNet50-based classification network for maturation stage prediction. Model performance was validated using multi-dimensional metrics including classification accuracy, precision, recall, F1-score, and area under the curve values from the receiver operating characteristic curve, with benchmark comparisons against expert evaluators' assessments.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "cleft lip and palate surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41770475/",
-      "pmcid": "PMC12953909",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12953909/bin/40510_2026_614_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12953909/bin/40510_2026_614_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12953909/bin/40510_2026_614_Fig3_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12953909/bin/40510_2026_614_Fig4_HTML.jpg"
-      ]
-    },
-    {
-      "pmid": "41770438",
-      "title": "A Computational Framework for Simulating Patient-Specific TMJ Biomechanics Using a Combined Multibody Dynamics and Finite Element Approach.",
-      "authors": [
-        "Farhad Ahmadi",
-        "Shuchun Sun",
-        "Jichao Zhao",
-        "Jian Chen",
-        "Marshall B Wilson",
-        "Brooke Damon",
-        "Yongren Wu",
-        "Konstantinia Almpani",
-        "Rachel Chung",
-        "Priyam Jani",
-        "Peng Chen",
-        "Elizabeth H Slate",
-        "Janice S Lee",
-        "Benedikt Sagl",
-        "Hai Yao"
-      ],
-      "publication_date": "2026-Mar-02",
-      "publication_date_iso": "2026-03-02",
-      "abstract": "Biomechanical parameters of the temporomandibular joint (TMJ), such as joint contact forces and intra-articular stresses, are suggested to contribute to the development of temporomandibular joint disorders, but are impractical to measure. In this study, we present a computational framework for evaluating these parameters by integrating a function assessment system and a patient-specific modeling approach. The pipeline consists of acquiring patients' functional and morphological data and developing combined multibody dynamics and finite-element (MBD-FE) models for simulating their specific biting tasks. We demonstrate the approach in a pre-/post-orthognathic surgery scenario and present the measured and simulated outputs. In a three-patient cohort of one Class I control and two surgical patients (one Class II and one Class III patient), surgery was accompanied by functional changes such as increased bite force capacity and shifts in muscle-usage during unilateral first premolar clenching that brought the surgical cases closer to the control case. Also, morphological measurements showed postoperative adaptations in condylar size and joint space. Simulations demonstrated that contralateral joint forces exceeded ipsilateral forces during unilateral biting and predicted regions of concentrated disc stress that coincided with regions of reduced joint gap and poorer articular congruency, highlighting how morphology-function interactions shape local mechanics. By unifying individualized functional inputs and subject-specific geometries, the framework provides a practical basis for patient-tailored assessment of biomechanical parameters and decision support in TMJ care.",
-      "objective": "",
-      "study_methods": "The pipeline consists of acquiring patients' functional and morphological data and developing combined multibody dynamics and finite-element (MBD-FE) models for simulating their specific biting tasks. We demonstrate the approach in a pre-/post-orthognathic surgery scenario and present the measured and simulated outputs.",
-      "methods": "The pipeline consists of acquiring patients' functional and morphological data and developing combined multibody dynamics and finite-element (MBD-FE) models for simulating their specific biting tasks. We demonstrate the approach in a pre-/post-orthognathic surgery scenario and present the measured and simulated outputs.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41770438/",
       "pmcid": "",
       "figure_urls": []
     }
