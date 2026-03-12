@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11T04:13:58Z",
+  "updated_at": "2026-03-12T04:18:26Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -162,6 +162,91 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_PB.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_OC.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_PB.jpg"
+      ]
+    },
+    {
+      "pmid": "41810018",
+      "title": "Local periodontal injection, systemic heart repair: A dual-functional hydrogel for non-invasive concurrent treatment of periodontitis and myocardial infarction.",
+      "authors": [
+        "Qinfeng Ding",
+        "Yilong Teng",
+        "Hong Zhu",
+        "Zhitong Jia",
+        "Shuo Xu",
+        "Bin Hu",
+        "Boyan Chen",
+        "Jiewen Dai",
+        "Jian Sun",
+        "Ping Nie",
+        "Zhixiang Liu",
+        "Qijing Chen",
+        "Xudong Wang",
+        "Xiaoyang Xu",
+        "Xueqing Zhang",
+        "Shengzhong Duan"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Periodontitis and myocardial infarction (MI), the leading cause of mortality worldwide, represent globally prevalent inflammatory diseases with bidirectional pathophysiological links. Despite the urgent demand for non-invasive strategies capable of alleviating local periodontal destruction while mitigating associated systemic cardiovascular complications, no integrated treatment modality currently exists. To address this challenge, a protein-loaded antibacterial hydrogel, thiolated chitosan/AMP-PEG-maleimide (C1.5P4/BMP-2), with novel sustained protein release properties was developed. This hydrogel features an interconnected microporous architecture that: (1) enables high-efficiency BMP-2 protein encapsulation, (2) preserves protein bioactivity while ensuring sustained release, thereby addressing the recognized challenge of hydrogel-based protein delivery, (3) confers potent antibacterial properties, (4) facilitates remote cardiac function improvement by resolving periodontal inflammation. In murine models, locally, it attenuated alveolar bone loss (2-fold greater bone regeneration vs controls) while systemically improving post-MI cardiac function (75.6% higher ejection fraction). Mechanistically, the hydrogel's protein-protective microenvironment synergized with its antimicrobial action selectively inhibiting Gram-negative (G-) anaerobic pathogens (primary periodontal culprits) while enriching Gram-positive (G+) commensals, regulating biofilm G-/G+ ratio. Concomitantly, this dual action modulates the oral-cardiac inflammatory axis, specifically downregulating B2 cell/TNF-α signaling to mitigate systemic inflammation associated with MI. Collectively, this study presents a novel non-invasive protein-stabilizing hydrogel that addresses periodontitis-MI comorbidity through sustained osteogenic factor delivery coupled with microbiome-immune modulation.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41810018/",
+      "pmcid": "PMC12969335",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/sc1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/sc1.gif"
+      ]
+    },
+    {
+      "pmid": "41809095",
+      "title": "Dual-function thermoresponsive antibiotic-loaded hydrogel with antimicrobial and osteogenic properties for implant-related infection control.",
+      "authors": [
+        "Caroline Dini",
+        "Stéfany Barbosa Alves da Cruz",
+        "Rodolfo D Piazza",
+        "Bruna E Nagay",
+        "Rodrigo F C Marques",
+        "Renato C V Casarin",
+        "Fang Yang",
+        "Magda Feres",
+        "Jet Liu",
+        "Batbileg Bor",
+        "Edilson Ervolino",
+        "Liqun Xu",
+        "Erica D de Avila",
+        "Leonardo P Faverani",
+        "João Gabriel S Souza",
+        "Jeroen Jjp van den Beucken",
+        "Valentim A R Barão"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Implant-related infections demand advanced biomaterials capable of delivering localized, sustained antimicrobial activity while supporting tissue repair. Here, we present an engineered thermoresponsive hydrogel based on poly(N-vinylcaprolactam) (PNVCL), designed as a dual-function platform that enables temperature-triggered gelation, controlled tetracycline release, and osteogenic support. The PNVCL network was tailored to provide rapid sol-gel transition at physiological temperature, strong adhesion to moist surfaces, injectability into narrow implant geometries, high swelling capacity, slow degradation, and a stable drug-release profile-properties rarely combined within a single hydrogel system. To evaluate material performance, we employed a tiered biological framework comprising cytocompatibility assays, controlled physicochemical analyses, and antimicrobial testing against complex, polymicrobial biofilms, complemented by human in situ and in vivo multispecies infection models. The PNVCL-tetracycline hydrogel demonstrated potent antibacterial activity, preserved human gingival fibroblast viability, and sustained its structural integrity and release characteristics even under infection-associated inflammatory conditions. In vivo, the material simultaneously reduced bacterial burden, modulated pathogenic community structure, and promoted new bone formation with a higher degree of maturation, confirming its dual antimicrobial and osteogenic behavior. By integrating precisely engineered thermoresponsive behavior, controlled drug delivery, robust mechanical and interfacial properties, and validated biological functionality, this PNVCL-tetracycline hydrogel represents a material-driven, clinically relevant solution for treating implant-related infections.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41809095/",
+      "pmcid": "PMC12969315",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/gr1.gif"
       ]
     },
     {
@@ -828,6 +913,46 @@
       "figure_urls": []
     },
     {
+      "pmid": "41809384",
+      "title": "Hepatocyte growth factor in biosheets promotes autonomous regeneration of cutaneous tissue after transplantation onto a full-thickness skin defect.",
+      "authors": [
+        "Keisuke Suzuki",
+        "Hiroko Komura",
+        "Ryo Konno",
+        "Yusuke Kawashima",
+        "Eiichiro Watanabe",
+        "Hiroki Sato",
+        "Kunio Matsumoto",
+        "Ryoko Inaki",
+        "Sanshiro Kanazawa",
+        "Yukiyo Asawa",
+        "Atsuhiko Hikita",
+        "Kazuto Hoshi",
+        "Jun Fujishiro",
+        "Makoto Komura"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Biosheets and biotubes are collagenous connective tissue membranes that surround unabsorbable molds embedded in living tissues, and can regenerate damaged tissues in various organs following in-situ transplantation. However, the mechanisms underlying tissue regeneration are still unclear. In this study, we analyzed the histological features and cellular composition in the biosheets, and observed dramatic time-dependent changes. We transplanted biosheets into full-thickness wounds in a mouse model, and evaluated skin regeneration through histological analysis in comparison with subcutaneous fascia transplantation. Our findings confirm that biosheets can accelerate epithelialization of skin wounds of mouse more effectively than fascia. To elucidate the mechanism underlying skin regeneration by biosheets, we compared the protein expression in the biosheets and subcutaneous fascia. Proteomics analysis revealed significant differences in the protein profiles of the biosheets and fascia, with marked elevation of hepatocyte growth factor (HGF) in the biosheets. Addition of HGF in situ accelerated angiogenesis and epithelial regeneration in the fascia-transplanted full-thickness wounds in mice. On the other hand, neutralization of HGF impaired the wound healing process following biosheet transplantation. In conclusion, our findings suggest that HGF mediates biosheet-mediated regeneration of cutaneous tissues by contributing to re-epithelialization and angiogenesis.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": ", our findings suggest that HGF mediates biosheet-mediated regeneration of cutaneous tissues by contributing to re-epithelialization and angiogenesis.",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41809384/",
+      "pmcid": "PMC12969807",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969807/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969807/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969807/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969807/bin/gr1.gif"
+      ]
+    },
+    {
       "pmid": "41747369",
       "title": "Clinical Implications of Sterilization Methods Applied to 3D-Printed Implant Surgical Guides: An In Vitro Study.",
       "authors": [
@@ -1362,62 +1487,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41633472",
-      "title": "Feasibility and accuracy of a partial point cloud registration method for transoral robot-assisted surgery of zygoma fracture: A phantom study.",
-      "authors": [
-        "Hangyu Liu",
-        "Bimeng Jie",
-        "Chunheng Lu",
-        "Haoliang Chen",
-        "Junchen Wang",
-        "Yang He"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "To propose a novel registration method based on partial point cloud registration for transoral robot-assisted zygoma fracture surgery and validate its accuracy via a phantom study. This study comprised two validation phases. 1) Feasibility of partial zygomatic surface point cloud registration. Forty sets of normal CT data were selected from an established normative database. After segmentation and 3D reconstruction of zygoma, point clouds from different exposure ranges on the zygomatic bone surface (Group A: Full Zygomatic Bone Outer Surface; Group B: Area Below Infraorbital Margin; and Group C: Area Below Infraorbital Foramen.) were extracted and registered to the intact zygoma using the Iterative Closest Point (ICP) algorithm. The Fiducial Registration Error (FRE) was computed for each group. 2) Accuracy of partial point cloud registration: 10 pre-operative CT scans of zygomatic fractures were selected. Registration using fiducial markers served as the control (Group A). Using a self-developed and previously validated binocular vision camera and probe, point clouds of different exposure range (Group B1, B2, and B3) on the zygomatic bone surface were collected and registered using ICP algorithm. The accuracy of partial point cloud registration for different zygomatic bone surface areas was comparatively evaluated using both FRE and Target Registration Error (TRE). Feasibility of partial zygomatic surface point cloud registration: The FRE for Group A, B, and C was 0.16 ± 0.16 mm, 0.18 ± 0.14 mm and 0.22 ± 0.13 mm (P > 0.05). Accuracy of partial point cloud registration: The TRE for Group A, B1, B2, and B3 was 0.47 ± 0.17 mm, 0.70 ± 0.17 mm, 0.70 ± 0.17 mm, 0.86 ± 0.24 mm. (P < 0.001) CONCLUSION: The proposed method, based on partial point cloud registration, demonstrated both accuracy and feasibility, offering a foundation for future advancements in transoral robot-assisted surgery of zygoma fracture. For transoral robotic-assisted zygoma reduction, the most crucial part is to enable the robot to accurately localize bone fragments following limited surgical exposure. The innovative registration approach based on partial point cloud registration has been proven to possess both accuracy and feasibility, which lays a solid foundation for the future development of transoral robot-assisted surgical techniques in the treatment of zygomatic fractures.",
-      "objective": "",
-      "study_methods": "This study comprised two validation phases. 1) Feasibility of partial zygomatic surface point cloud registration. Forty sets of normal CT data were selected from an established normative database. After segmentation and 3D reconstruction of zygoma, point clouds from different exposure ranges on the zygomatic bone surface (Group A: Full Zygomatic Bone Outer Surface; Group B: Area Below Infraorbital Margin; and Group C: Area Below Infraorbital Foramen.) were extracted and registered to the intact zygoma using the Iterative Closest Point (ICP) algorithm. The Fiducial Registration Error (FRE) was computed for each group. 2) Accuracy of partial point cloud registration: 10 pre-operative CT scans of zygomatic fractures were selected. Registration using fiducial markers served as the control (Group A). Using a self-developed and previously validated binocular vision camera and probe, point clouds of different exposure range (Group B1, B2, and B3) on the zygomatic bone surface were collected and registered using ICP algorithm. The accuracy of partial point cloud registration for different zygomatic bone surface areas was comparatively evaluated using both FRE and Target Registration Error (TRE).",
-      "methods": "This study comprised two validation phases. 1) Feasibility of partial zygomatic surface point cloud registration. Forty sets of normal CT data were selected from an established normative database. After segmentation and 3D reconstruction of zygoma, point clouds from different exposure ranges on the zygomatic bone surface (Group A: Full Zygomatic Bone Outer Surface; Group B: Area Below Infraorbital Margin; and Group C: Area Below Infraorbital Foramen.) were extracted and registered to the intact zygoma using the Iterative Closest Point (ICP) algorithm. The Fiducial Registration Error (FRE) was computed for each group. 2) Accuracy of partial point cloud registration: 10 pre-operative CT scans of zygomatic fractures were selected. Registration using fiducial markers served as the control (Group A). Using a self-developed and previously validated binocular vision camera and probe, point clouds of different exposure range (Group B1, B2, and B3) on the zygomatic bone surface were collected and registered using ICP algorithm. The accuracy of partial point cloud registration for different zygomatic bone surface areas was comparatively evaluated using both FRE and Target Registration Error (TRE).",
-      "results": "",
-      "conclusion": "The proposed method, based on partial point cloud registration, demonstrated both accuracy and feasibility, offering a foundation for future advancements in transoral robot-assisted surgery of zygoma fracture. For transoral robotic-assisted zygoma reduction, the most crucial part is to enable the robot to accurately localize bone fragments following limited surgical exposure. The innovative registration approach based on partial point cloud registration has been proven to possess both accuracy and feasibility, which lays a solid foundation for the future development of transoral robot-assisted surgical techniques in the treatment of zygomatic fractures.",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41633472/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41633471",
-      "title": "Clinical validation of an automated zygomatic implant planning system: An international multicenter study.",
-      "authors": [
-        "Wenying Wang",
-        "Haitao Li",
-        "Feng Wang",
-        "James Chow",
-        "Rubén Davó",
-        "Xiaojun Chen",
-        "Baoxin Tao",
-        "Yiqun Wu"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "To validate the performance of a novel automated zygomatic implant (ZI) planning tool (Zygoplanner) in an international multicenter cohort. Preoperative computed tomography (CT) scans from 69 patients (276 ZIs) who underwent quad zygomatic implant surgery were retrospectively analyzed using Zygoplanner. Automated ZI plans generated by Zygoplanner were compared with the corresponding clinically placed implants. The comparison metrics included three-dimensional bone-to-implant contact (3D-BIC), Zygoma Anatomy-Guided Approach (ZAGA) classification, safety distances to the orbital rim and the inferior border of the zygoma, inter-implant spacing, surgeon subjective assessments, and a blinded Turing test. Compared with clinically-proved manual plans, Zygoplanner-based automated ZI plans achieved significantly higher 3D-BIC values (p < 0.001). In the internal dataset, automated plans showed slightly shorter orbital rim distances (4.51 vs 5.71 mm, p = 0.022) but significantly greater distances to the inferior zygomatic border (8.21 vs 7.20 mm, p = 0.015). In the external dataset, Zygoplanner demonstrated significantly larger inter-implant spacing (3.01 vs 1.18 mm, p < 0.001). Despite these differences, ZAGA classifications remained consistent between both groups. Subjective evaluations by experienced surgeons yielded high scores for stability (4.63/5), feasibility (4.51/5), and safety (4.25/5). In the blinded Turing test, Zygoplanner-generated plans were identified as human expert in 65.2 % of cases, significantly exceeds the 50 % random guessing threshold (p = 0.0075). Zygoplanner automatically generates clinically acceptable quad ZI plans with improved 3D-BIC, which effectively reduces the planning complexity and facilitates better preoperative ZI planning. Zygoplanner shows strong potential to automate and standardize quad zygomatic implant planning, thereby improving surgical predictability and safety while simplifying the planning workflow. Its automated workflow supports more consistent outcomes and may broaden access to advanced zygomatic implant rehabilitation for patients with edentulous maxillae.",
-      "objective": "",
-      "study_methods": "Preoperative computed tomography (CT) scans from 69 patients (276 ZIs) who underwent quad zygomatic implant surgery were retrospectively analyzed using Zygoplanner. Automated ZI plans generated by Zygoplanner were compared with the corresponding clinically placed implants. The comparison metrics included three-dimensional bone-to-implant contact (3D-BIC), Zygoma Anatomy-Guided Approach (ZAGA) classification, safety distances to the orbital rim and the inferior border of the zygoma, inter-implant spacing, surgeon subjective assessments, and a blinded Turing test.",
-      "methods": "Preoperative computed tomography (CT) scans from 69 patients (276 ZIs) who underwent quad zygomatic implant surgery were retrospectively analyzed using Zygoplanner. Automated ZI plans generated by Zygoplanner were compared with the corresponding clinically placed implants. The comparison metrics included three-dimensional bone-to-implant contact (3D-BIC), Zygoma Anatomy-Guided Approach (ZAGA) classification, safety distances to the orbital rim and the inferior border of the zygoma, inter-implant spacing, surgeon subjective assessments, and a blinded Turing test.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41633471/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41624391",
       "title": "Global research trends, evolution, and future directions on platelet-rich plasma in surgery: A bibliometric analysis.",
       "authors": [
@@ -1438,31 +1507,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41624391/",
       "pmcid": "PMC12860270",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41621195",
-      "title": "Root of Helix Inter Tragus Notch Incision (RHITNI) for open temporomandibular joint surgery: A five-year retrospective cohort study on safety and complications.",
-      "authors": [
-        "David Faustino Ângelo",
-        "Francesco Maffia",
-        "David Sanz",
-        "Henrique José Cardoso"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Open temporomandibular joint (TMJ) surgery must balance exposure, facial nerve preservation, and cosmesis. The Root of Helix Inter Tragus Notch Incision (RHITNI), an endaural modification with promising aesthetics and low morbidity, lacks systematic outcome data. A single-center retrospective cohort study of consecutive primary open TMJ procedures using RHITNI over five years was performed. Primary endpoint: branch-specific facial nerve dysfunction (temporary or permanent). Secondary endpoints: auriculotemporal sensory change, salivary complications, hematoma, infection, wound problems, and scar concerns. Outcomes were stratified by procedure type and calculated per surgical site (joint). Thirty-seven patients underwent surgery, for a total of 46 operated joints. Follow-up was completed for all patients over a five-year period. Temporary complications occurred in 6/46 joints (13.0 %). Specific events included: transient facial nerve weakness in 2/46 (4.3 %); auriculotemporal hypoesthesia/paresthesia in 2/46 (4.3 %); ear canal blood clot in 1/46 (2.2 %); and preauricular edema in 1/46 (2.2 %). All transient events resolved (median facial nerve recovery 322 days, range 300-344). No infections, salivary issues, dehiscence, or scar-related complaints were recorded. No permanent complications (>12 months persistence) were observed (0 %). RHITNI provided safe access for open TMJ surgery, with 4.3 %transient facial nerve weakness, no permanent deficits, and minimal locoregional morbidity regardless of the intra-articular procedure performed. Findings compare favorably with benchmarks and support RHITNI as an aesthetic, nerve-sparing option.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41621195/",
-      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -1596,8 +1640,11 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41431257/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC12972610",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12972610/bin/JCPE-53-529-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12972610/bin/JCPE-53-529-g002.jpg"
+      ]
     },
     {
       "pmid": "41407647",
@@ -1748,6 +1795,153 @@
       "figure_urls": []
     },
     {
+      "pmid": "41812059",
+      "title": "LARP7 Enhances the Potential of Dental Pulp Stem Cells to Promote Peripheral Nerve Repair.",
+      "authors": [
+        "Zihan Yang",
+        "Guanlin Qu",
+        "Xiping Wang",
+        "Li Wang",
+        "Lu Chen",
+        "Guiqiang Fu",
+        "Wenze Chen",
+        "Zitong Yang",
+        "Wenjing Li",
+        "Yuqiong Zhou",
+        "Jiacheng Jin",
+        "Linxi Zhou",
+        "Duohong Zou"
+      ],
+      "publication_date": "2026-Mar-11",
+      "publication_date_iso": "2026-03-11",
+      "abstract": "Peripheral nerve injuries (PNIs) present a persistent clinical challenge because of the intrinsically limited regenerative capacity of peripheral nerves. While dental pulp stem cells (DPSCs) exhibit significant neuroregenerative potential, their therapeutic efficacy is constrained by hostile microenvironments and inherent functional heterogeneity. Genetic modification may offer a promising strategy to enhance their therapeutic capabilities. DPSCs were induced toward neural lineage differentiation, and key gene candidates were identified through qRT-PCR. Lentiviral-mediated gene interference was performed to modulate target gene expression, followed by comprehensive analysis of differentiation outcomes using qRT-PCR, Western blotting, and immunofluorescence assays. RNA sequencing was employed to uncover associated signaling pathways, which were subsequently validated through pharmacological inhibition with specific inhibitors. The therapeutic efficacy of genetically engineered DPSCs was evaluated in a rat model of sciatic nerve crush injury, with neural regeneration quantitatively assessed via neuroelectrophysiological measurements and histological analyses. LARP7 positively regulated the Schwann cell-like differentiation of DPSCs, as well as their trophic and anti-inflammatory effects, thus enhancing its therapeutic effects on nerve repair and promoting functional recovery. Mechanistically, we found that LARP7 remodeled cytokine-cytokine receptor interactions, enhancing trophic support while attenuating proinflammatory responses, and activated the PI3K-Akt-mTOR signaling pathway, with ERBB4 serving as a critical downstream effector, promoting DPSC differentiation into Schwann cell-like phenotypes. Collectively, LARP7-mediated changes in DPSCs establish a new therapeutic paradigm that addresses the limitations of current stem cell-based interventions and enables the development of standardized biotherapeutics for peripheral nerve repair.",
+      "objective": "",
+      "study_methods": "DPSCs were induced toward neural lineage differentiation, and key gene candidates were identified through qRT-PCR. Lentiviral-mediated gene interference was performed to modulate target gene expression, followed by comprehensive analysis of differentiation outcomes using qRT-PCR, Western blotting, and immunofluorescence assays. RNA sequencing was employed to uncover associated signaling pathways, which were subsequently validated through pharmacological inhibition with specific inhibitors. The therapeutic efficacy of genetically engineered DPSCs was evaluated in a rat model of sciatic nerve crush injury, with neural regeneration quantitatively assessed via neuroelectrophysiological measurements and histological analyses.",
+      "methods": "DPSCs were induced toward neural lineage differentiation, and key gene candidates were identified through qRT-PCR. Lentiviral-mediated gene interference was performed to modulate target gene expression, followed by comprehensive analysis of differentiation outcomes using qRT-PCR, Western blotting, and immunofluorescence assays. RNA sequencing was employed to uncover associated signaling pathways, which were subsequently validated through pharmacological inhibition with specific inhibitors. The therapeutic efficacy of genetically engineered DPSCs was evaluated in a rat model of sciatic nerve crush injury, with neural regeneration quantitatively assessed via neuroelectrophysiological measurements and histological analyses.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41812059/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41811574",
+      "title": "Important learning points for setting up a dental-oncology service in Ireland.",
+      "authors": [
+        "Harriet Byrne",
+        "Claire Curtin",
+        "Catherine S Weadick",
+        "Rícheal Ní Riordáin",
+        "Seamus O'Reilly"
+      ],
+      "publication_date": "2026-Mar-11",
+      "publication_date_iso": "2026-03-11",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41811574/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41807969",
+      "title": "Evaluation of cephalometric landmarks using artificial intelligence compared to the manual method.",
+      "authors": [
+        "Alfonso Alvarado-Lorenzo",
+        "Laura Criado-Pérez",
+        "Daniele Garcovich",
+        "Sabina Romero",
+        "Giuseppe Scuzzo",
+        "Giacomo Scuzzo",
+        "Adrià Jorba-García",
+        "Adrián Curto"
+      ],
+      "publication_date": "2026-Mar-11",
+      "publication_date_iso": "2026-03-11",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41807969/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41807974",
+      "title": "M1 macrophage-derived migrasomes ameliorate temporomandibular joint osteoarthritis via autophagy.",
+      "authors": [
+        "Guoliang Sa",
+        "Zhongyang Zou",
+        "Haoyu Zhou",
+        "Guodong Sa",
+        "Jing Zhou",
+        "Hanlin Tu",
+        "Yingliang Shi",
+        "Yuyan He",
+        "Yi Guo",
+        "Zhan Liu",
+        "Xuewen Yang"
+      ],
+      "publication_date": "2026-Mar-10",
+      "publication_date_iso": "2026-03-10",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41807974/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41807492",
+      "title": "Punicalagin with anti-inflammatory activities affects Brd-4 mediated chromatin remodeling for attenuating inflammatory osteolysis.",
+      "authors": [
+        "Huiping Li",
+        "Qilin Li",
+        "Tianhao Wan",
+        "Yexin Wang",
+        "Shanyong Zhang"
+      ],
+      "publication_date": "2026-Mar-10",
+      "publication_date_iso": "2026-03-10",
+      "abstract": "Inflammatory osteolysis is primarily characterized by an extensive macrophage-mediated inflammatory response coupled with osteoclast (OC) formation, triggered by bacterial byproducts and/or environmental stressors. And Osteoarthritis (OA) is one of the most common degenerative diseases in clinical medicine. Currently, anti-inflammatory drugs and intra-articular drug injection are mainly used, but the treatments only relieve symptoms. Punicalagin (PUN), a hydrolyzable tannin derived from pomegranate extract, the suppression of pro-inflammatory cytokine production in macrophages. The therapeutic potential of PUN in alleviating inflammatory osteolysis remains inadequately elucidated. PUN demonstrated favourable biocompatibility and therapeutic potential in vitro, including potent anti-osteoclastic activity, ROS scavenging capacity, and epigenetic regulatory functions. PUN was found to inhibit bromodomain-containing protein 4 (Brd4)-mediated chromatin space remodeling, consequently upregulating the production of endogenous anti-inflammatory factors and antioxidant factors. This study reveals a new therapeutic mechanism that PUN exerts anti-inflammatory effects and regulates epigenetic regulation by influencing Brd4-mediated chromatin remodeling. These findings showed the therapeutic potential of PUN for inflammatory diseases, especially inflammatory osteolysis. Notably, our work identifies a new strategy that synergistically combines osteoclast inhibition with epigenetic regulation, providing a promising direction for the therapies for bone-related inflammatory diseases.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41807492/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41805692",
       "title": "Patient-Reported Speech Outcomes in Patients with Beckwith-Wiedemann Syndrome.",
       "authors": [
@@ -1775,6 +1969,87 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41805692/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41807241",
+      "title": "Orthognathic occlusal setups: a comparative analysis of in-house and industry-generated splints.",
+      "authors": [
+        "M F Caminiti",
+        "S A Zahavi",
+        "T Capucha"
+      ],
+      "publication_date": "2026-Mar-09",
+      "publication_date_iso": "2026-03-09",
+      "abstract": "Three-dimensional imaging, 3D printing, and computer-assisted planning have revolutionized craniofacial surgery, allowing surgeons to fabricate surgical splints in-house. While this shift enhances efficiency and data security, research comparing the quality of in-house versus industry-produced splints remains limited. This study evaluated 20 orthognathic surgery cases to compare industry-generated splints (IND) with in-house-fabricated splints (IHS). Using 3D-printed dental models and a modified American Board of Orthodontics Objective Grading System, two blinded orthodontists assessed the resulting occlusions. Higher scores indicated superior occlusal quality. The results demonstrated that in-house splints (mean score 29.70) yielded significantly better occlusal outcomes than industry splints (mean score 27.28) (P = 0.013). This suggests that, following an initial learning curve, oral and maxillofacial surgeons can produce in-house splints that meet or exceed the quality of third-party industry standards. In-house fabrication serves as a highly effective, viable alternative for orthognathic surgical planning, offering clinical advantages alongside logistical benefits.",
+      "objective": "Grading System, two blinded orthodontists assessed the resulting occlusions. Higher scores indicated superior occlusal quality. The",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing occlusions. Higher scores indicated superior occlusal quality. The results demonstrated that in-house splints (mean score 29.70) yielded significantly better occlusal outcomes than industry splints (mean score 27.28) (P = 0.013). This suggests that, following an initial learning curve, oral and maxillofacial surgeons can produce in-house splints that meet or exceed the quality of third-party industry standards. In-house fabrication serves as a highly effective, viable alternative for orthognathic surgical planning, offering clinical advantages alongside logistical benefits.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41807241/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41806568",
+      "title": "Machine learning-powered decoding of facial complexity: a diamond-and-triangle geometry for frontal facial analysis.",
+      "authors": [
+        "Peiqi Wang",
+        "Heng Zeng",
+        "Runyu Ma",
+        "Chenlu Rong",
+        "Chenghao Li",
+        "Yuanyuan Chen",
+        "Hui Xu"
+      ],
+      "publication_date": "2026-Mar-09",
+      "publication_date_iso": "2026-03-09",
+      "abstract": "Facial configuration is far more complicated and variable than the representations offered by a couple of conventionally used mathematic laws, necessitating development of a comprehensive and interracially comparable system for frontal facial analysis. In this study, based on morphological analysis of 33 Caucasian and 33 Asian female faces with high perceived facial attractiveness (i.e. facial esthetic appeal in frontal views), validated by independent layperson ratings, in contrast with 'ordinary' faces of 67 Caucasian and 67 Asian females, a machine learning-powered model, building on a diamond-and-triangle geometric framework, was constructed to decode the esthetic-determining facial traits and quantify the probability of a face conforming to the generally accepted attractiveness. The SVM models demonstrated excellent efficacy in this task, based on the input of 21 facial proportion indices derived from the diamond-and-triangle geometry. By interpreting the contribution of input features to each model's diagnosis, the Asian and Caucasian faces shared prioritization of proportional coordination of facial height with mid-facial width and outer canthal distance in determining facial harmony, and exhibited ethnicity-specific variations in hierarchical importance of other proportion indices. The highly coordinated diamond-and-triangle geometric framework distinguished the attractive faces from the ordinary, with cross-ethnic similarities between Caucasian and Asian females. The machine learning-powered model, integrated with the diamond-and-triangle geometry, provides references for cross-ethnic facial analysis and customized treatment planning.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "cleft lip and palate surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41806568/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41806541",
+      "title": "Patient satisfaction in orthognathic surgery and the role of expectations.",
+      "authors": [
+        "Giulio Cirignaco",
+        "Mariagrazia Paglianiti",
+        "Lisa Catarzi",
+        "Enrico Betti",
+        "Gabriele Monarchi",
+        "Massimiliano Gilli",
+        "Luigi Angelo Vaira",
+        "Giuseppe Consorti"
+      ],
+      "publication_date": "2026-Mar-09",
+      "publication_date_iso": "2026-03-09",
+      "abstract": "Orthognathic surgery (OGS) corrects dentofacial deformities and can substantially improve quality of life (QoL). How satisfaction relates to patients' preoperative expectations, surgical magnitude, and demographics remains a subject of debate. Our single-centre retrospective study included consecutive OGS patients with ≥ 6-month follow-up and completed PROMs. Validated instruments comprised the Orthognathic Quality of Life Questionnaire (OQLQ) and selected FACE-Q scales; global satisfaction was rated on a 0-10 VAS. Primary endpoints were postoperative satisfaction and change in QoL. The cohort comprised 290 patients (176 women, 114 men, mean age 23.4 years); 42% underwent single-jaw and 58% bimaxillary surgery. At a mean 12.2-month follow-up, satisfaction was high (VAS 9.1 ± 1.1), with 93.8% reporting that treatment met or exceeded expectations. OQLQ improved from 42.5 ± 17.3 preoperatively to 15.4 ± 12.1 postoperatively (p < 0.0001), with gains across domains; FACE-Q scores were similarly high. Satisfaction did not differ by surgery type (VAS 9.0 ± 1.2 vs 9.2 ± 1.0; p = 0.34), expectation focus (ANOVA p = 0.67), sex (p = 0.42), or age (ρ = -0.05; p = 0.37). OGS yields large QoL gains and very high satisfaction. When treatment plans address the patient's chief concern, satisfaction is independent of surgery magnitude, expectation focus, sex, and age. Structured preoperative counseling, paired with routine PROM monitoring, may help align expectations with achievable outcomes, and support optimal patient-centered results.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41806541/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2052,156 +2327,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41790058/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41780061",
-      "title": "First Repair is Best: The Facial Growth Consequences of Revision Cleft Surgeries.",
-      "authors": [
-        "Michael Edgar",
-        "Megan M Perez",
-        "Akriti Choudhary",
-        "Isabella Zorra",
-        "Kelsey M Green",
-        "Linping Zhao",
-        "Chad A Purnell"
-      ],
-      "publication_date": "2026-Mar-04",
-      "publication_date_iso": "2026-03-04",
-      "abstract": "Surgical scarring has long been hypothesized to contribute to maxillary hypoplasia in patients with cleft lip and palate (CLP), often leading to a need for orthognathic surgery (OGS). This study aimed to identify clinical and surgical factors associated with maxillary hypoplasia in skeletally mature patients with CLP using cephalometric analysis. A retrospective review was performed of CLP patients aged ≥16 years with available cone beam CT scans. Cephalometric measurements were obtained using Mimics software. Patient records were reviewed for cleft morphology, number and type of cleft-related surgeries (ages 0-16), surgical timing, demographics, and history of OGS. Linear and logistic regressions were used to evaluate predictors of maxillary hypoplasia and OGS. Among 106 patients, 47.2% had bilateral CLP and 49.1% underwent OGS. The average number of cleft-related surgeries was 4.28. BCLP patients demonstrated significantly reduced maxillary width compared to UCLP (-2.87 mm, p = 0.001). Increasing total number of surgeries was significantly associated with decreased SNA, ANB, and facial convexity angles (p < 0.001). Surgeries performed between ages 0-5 were significantly associated with decreased SNA, facial convexity angle, and alveolar length (p < 0.02). Linear regression showed that each surgery beyond three predicted a 1.94° reduction in SNA, 0.81° reduction in ANB, and 2.82° reduction in facial convexity angle. Surgical burden was not predictive of OGS. Greater number of cleft-related surgeries, particularly in early childhood, correlates directly with maxillary growth restriction. These findings highlight the importance of optimizing surgical timing and minimizing additional interventions when feasible.",
-      "objective": "",
-      "study_methods": "A retrospective review was performed of CLP patients aged ≥16 years with available cone beam CT scans. Cephalometric measurements were obtained using Mimics software. Patient records were reviewed for cleft morphology, number and type of cleft-related surgeries (ages 0-16), surgical timing, demographics, and history of OGS. Linear and logistic regressions were used to evaluate predictors of maxillary hypoplasia and OGS.",
-      "methods": "A retrospective review was performed of CLP patients aged ≥16 years with available cone beam CT scans. Cephalometric measurements were obtained using Mimics software. Patient records were reviewed for cleft morphology, number and type of cleft-related surgeries (ages 0-16), surgical timing, demographics, and history of OGS. Linear and logistic regressions were used to evaluate predictors of maxillary hypoplasia and OGS.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41780061/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41779633",
-      "title": "Systematic review of the Lancet Commission on Global Surgery indicators with quality assessment of modelled estimates.",
-      "authors": [
-        "Theophilus T K Anyomih",
-        "Anita E Agbeko",
-        "Alazar B Aregawi",
-        "Kathryn Chu",
-        "Richard Crawford",
-        "Ewen M Harrison",
-        "Sivesh Kamarajah",
-        "Elizabeth Li",
-        "John G Meara",
-        "Albane Mulliez",
-        "Soha Sobhy",
-        "Richard Sullivan",
-        "Elizabeth Tissingh",
-        "Thomas G Weiser",
-        "Aneel Bhangu",
-        "Dmitri Nepogodiev"
-      ],
-      "publication_date": "2026-Mar-04",
-      "publication_date_iso": "2026-03-04",
-      "abstract": "The Lancet Commission on Global Surgery (LCoGS) defined six indicators with 2030 targets to track national surgical system performance. The aim of this systematic review was to evaluate national reporting and attainment of benchmarks for each indicator and to assess the quality of modelling studies used to fill data gaps. Seven bibliographic databases (1 April 2015-24 July 2024) and government domains of 48 countries committed to National Surgical, Obstetric, and Anaesthesia Plans were searched. Records providing national estimates of any LCoGS indicator were eligible. The primary outcome was the proportion of World Bank-classified countries meeting indicator benchmarks and the secondary outcome was the quality of modelled national estimates. This systematic review was prospectively registered in PROSPERO, the international prospective register of systematic reviews (CRD420250650890). Of 4245 records retrieved, 44 studies were included (35 research articles and 9 policy documents). Among 217 World Bank-classified countries, access to timely essential surgery (indicator 1) was reported for 94 countries (39% meeting benchmark), specialist surgical workforce density (indicator 2) was reported for 167 countries (50.3% meeting benchmark), surgical volume (indicator 3) was reported for 124 countries (31.5% meeting benchmark), perioperative mortality (indicator 4) was reported for 74 countries (no benchmark was set at country level), and financial risk protection indicators (indicators 5 and 6) were reported for five countries, with none meeting either benchmark. Across indicators, high-income countries were more likely to meet benchmarks. Most modelled studies lacked transparency in data sources, statistical methods, or model validation. Reporting of LCoGS indicators remains sparse and uneven, particularly in low- and middle-income countries. Without standardized, routine measurement and minimum quality standards for modelled estimates, progress towards 2030 cannot be credibly tracked. Integrating surgical metrics into national health information systems should be a policy priority.",
-      "objective": "of this systematic review was to evaluate national reporting and attainment of benchmarks for each indicator and to assess the quality of modelling studies used to fill data gaps. Seven bibliographic databases (1 April 2015-24 July 2024) and government domains of 48 countries committed to National Surgical, Obstetric, and Anaesthesia Plans were searched. Records providing national estimates of any LCoGS indicator were eligible. The primary outcome was the proportion of World Bank-classified countries meeting indicator benchmarks and the secondary outcome was the quality of modelled national estimates. This systematic review was prospectively registered in PROSPERO, the international prospective register of systematic reviews (CRD420250650890). Of 4245 records retrieved, 44 studies were included (35 research articles and 9 policy documents). Among 217 World Bank-classified countries, access to timely essential surgery (indicator 1) was reported for 94 countries (39% meeting benchmark), specialist surgical workforce density (indicator 2) was reported for 167 countries (50.3% meeting benchmark), surgical volume (indicator 3) was reported for 124 countries (31.5% meeting benchmark), perioperative mortality (indicator 4) was reported for 74 countries (no benchmark was set at country level), and financial risk protection indicators (indicators 5 and 6) were reported for five countries, with none meeting either benchmark. Across indicators, high-income countries were more likely to meet benchmarks. Most modelled studies lacked transparency in data sources, statistical",
-      "study_methods": "Seven bibliographic databases (1 April 2015-24 July 2024) and government domains of 48 countries committed to National Surgical, Obstetric, and Anaesthesia Plans were searched. Records providing national estimates of any LCoGS indicator were eligible. The primary outcome was the proportion of World Bank-classified countries meeting indicator benchmarks and the secondary outcome was the quality of modelled national estimates. This systematic review was prospectively registered in PROSPERO, the international prospective register of systematic reviews (CRD420250650890).",
-      "methods": "Seven bibliographic databases (1 April 2015-24 July 2024) and government domains of 48 countries committed to National Surgical, Obstetric, and Anaesthesia Plans were searched. Records providing national estimates of any LCoGS indicator were eligible. The primary outcome was the proportion of World Bank-classified countries meeting indicator benchmarks and the secondary outcome was the quality of modelled national estimates. This systematic review was prospectively registered in PROSPERO, the international prospective register of systematic reviews (CRD420250650890).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41779633/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41779249",
-      "title": "Harmonized quantitative bone SPECT/CT parameters for risk assessment of medication-related osteonecrosis of the jaw: multicenter study.",
-      "authors": [
-        "Kazuhiro Kitajima",
-        "Yu Iwabuchi",
-        "Yoshitaka Inui",
-        "Takashi Norikane",
-        "Kimiteru Ito",
-        "Hiromitsu Kishimoto",
-        "Hidetaka Miyashita",
-        "Tetsuro Shiina",
-        "Yumiko Ohbayashi",
-        "Takao Ueno",
-        "Hiromitsu Daisaki"
-      ],
-      "publication_date": "2026-Mar-04",
-      "publication_date_iso": "2026-03-04",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41779249/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41779033",
-      "title": "New insights into immunoporosis: the impact of ovariectomy on immune cell population in lymph nodes and spleen.",
-      "authors": [
-        "Nicole Gabriele Sommer",
-        "Katharina Jandl",
-        "Begüm Okutan",
-        "Uwe Yacine Schwarze",
-        "Jan Eike Freudenthal-Siefkes",
-        "Valentin Herber",
-        "Annelie-Martina Weinberg"
-      ],
-      "publication_date": "2026-Mar-04",
-      "publication_date_iso": "2026-03-04",
-      "abstract": "It is increasingly appreciated that the immune cells and inflammatory mediators contribute to the impaired osteogenic potential under osteoporotic conditions. Previous studies in experimental animals focused on immune cells isolated from blood or bone marrow. Here we highlight the importance of unraveling the interactions between peripheral tissues, such as spleen and lymph nodes, and bone morphologic markers. OVX animals underwent bilateral ovariectomy at the age of 9 months. Four, 8, and 12 weeks post-ovariectomy, osteoporotic parameters and the immunoprofile were investigated by flow cytometric analysis of blood, lymph node, and spleen paired with immunohistochemistry. Ex vivo high resolution μCT and hard tissue histology was performed on the excised tibiae. We observed trabecular bone loss, with corresponding decreases in BV/TV, Tb.N, and Conn.D, as well as an increase in Tb.Sp in the OVX rats after 12 weeks. Quantitative FACS analysis revealed significantly decreased percentage of granulocytes in lymph nodes at 12 weeks in OVX. Correlation of distinct immune cell populations to bone morphologic markers showed that the percentage of granulocytes positively correlated with the Tb.N and Conn.Dn, and negatively with the Tb.Sp both in the lymph nodes and in the spleen at 8 weeks. At 12 weeks post-ovariectomy, however, the percentage of granulocytes correlated negatively with BV/TV, Tb.Th and Tb. N. There was no correlation between distinct immune cells in the blood and bone morphologic markers. Hence, the presented data highlights the unmet need to investigate other compartments rather than blood and bone marrow.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41779033/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41776079",
-      "title": "Biomechanical rationale for a hybrid mIVSRO-SSRO surgical strategy in mandibular asymmetry: a retrospective cohort study.",
-      "authors": [
-        "Nodoka Nagae",
-        "Shogo Kikuta",
-        "Joe Iwanaga",
-        "Jingo Kusukawa"
-      ],
-      "publication_date": "2026-Mar-04",
-      "publication_date_iso": "2026-03-04",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41776079/",
       "pmcid": "",
       "figure_urls": []
     }
