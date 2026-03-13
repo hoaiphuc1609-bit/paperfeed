@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-12T04:18:26Z",
+  "updated_at": "2026-03-13T04:17:02Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -376,6 +376,69 @@
       "figure_urls": []
     },
     {
+      "pmid": "41816090",
+      "title": "Identification of factors predictive of contralateral secondary hip fractures in patients after initial hip fracture - A prospective observational study.",
+      "authors": [
+        "Shu Takata",
+        "Yusuke Uehara",
+        "Masaru Uragami",
+        "Tatsuki Karasugi",
+        "Tetsuro Masuda",
+        "Takayuki Nakamura",
+        "Takuya Tokunaga",
+        "Masaki Yugami",
+        "Kazuki Sugimoto",
+        "Hironori Tanoue",
+        "Satoshi Hisanaga",
+        "Ryuji Yonemitsu",
+        "Kosei Takata",
+        "Naoto Yoshimura",
+        "Yuto Shibata",
+        "Shuntaro Tanimura",
+        "Hideto Matsunaga",
+        "Makoto Tateyama",
+        "Masaki Shimada",
+        "Yuki Kai",
+        "Xiao Tian",
+        "Hikaru Goshogawa",
+        "Mizuho Yumoto",
+        "Hiroshi Takaki",
+        "Yusuke Takashima",
+        "Soichiro Karata",
+        "Takaya Funada",
+        "Yuki Uchida",
+        "Keigo Matoba",
+        "Junnosuke Ide",
+        "Ryuta Kubo",
+        "Rui Tajiri",
+        "Hibiki Yamada",
+        "Minoru Takebayashi",
+        "Naoto Kajitani",
+        "Kumamoto Study for Osteoporotic-hip fracture prevention (K-STOP) group",
+        "Takeshi Miyamoto"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Hip fractures are the most serious osteoporotic fractures, and patients often develop contralateral hip fractures. Various factors are reported as risks for secondary hip fracture, but risk analysis is not yet standardized. We conducted a longitudinal prospective observational study of 1395 hip fracture patients followed for 345.2 ± 189.3 (3-795) days to identify risk factors for secondary hip fracture. Of the initial 1395 patients, we followed 1223 cases, excluding those who already had a contralateral hip fracture at time of enrollment. Univariate analysis using the log-rank test and Cox regression analysis of 51 factors such as age, BMI and living alone in relation to secondary hip fracture showed that four factors, namely, living alone, low grip strength (<18 kg), three or more existing vertebral fractures and hypertension, were significant risks for secondary fracture. Multivariate Cox regression analysis using factors identified as significant risks for secondary fracture in univariate analysis confirmed that living alone and the presence of three or more existing vertebral fractures could be useful in predicting risk for secondary hip fracture. Our results may provide important knowledge to prevent contralateral secondary hip fractures in patients after the first fracture.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "may provide important knowledge to prevent contralateral secondary hip fractures in patients after the first fracture.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41816090/",
+      "pmcid": "PMC12973514",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12973514/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12973514/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12973514/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12973514/bin/gr2.gif"
+      ]
+    },
+    {
       "pmid": "41800119",
       "title": "Transferrin-dependent uptake and distribution of iron in osteoclast-like cells.",
       "authors": [
@@ -529,6 +592,64 @@
       "figure_urls": []
     },
     {
+      "pmid": "41747404",
+      "title": "Construction of a DNA damage response-related signature for prognostication and therapeutic response prediction in head and neck squamous cell carcinoma.",
+      "authors": [
+        "Ruoyuan Li",
+        "Xiaoxuan Bu",
+        "Na Qi",
+        "Pengfei Diao",
+        "Yaping Wu",
+        "Jie Cheng"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "This study aimed to construct a novel signature utilizing DNA damage response-related genes (DRGs) for head and neck squamous cell carcinoma (HNSCC) prognostication and therapeutic prediction. A prognostic signature specific to HNSCC was developed using univariate Cox regression, Kaplan-Meier survival analysis, and least absolute shrinkage and selection operator (LASSO)-penalized multivariate Cox regression analyses. A nomogram incorporating this signature along with selected clinicopathological factors was obtained through multivariate Cox regression. The effectiveness of this DRG signature in predicting immune status and chemotherapeutic or immunotherapeutic responses was evaluated. Gene function was assessed via a pharmacological approach in vitro. The 10-gene DRG signature/nomogram demonstrated well prognostic performance across various independent cohorts. Pharmacological inhibition of PLK1 from the DRG signature led to cell death and apoptosis which were probably resulted from impaired DNA damage response. Higher DRG signature scores were negatively correlated with the abundance of tumor-infiltrating immune cells and linked to several chemotherapeutic drugs, radiotherapy, and immunotherapy sensitivities. Our findings indicated that this novel DRG-derived signature/nomogram serves as a robust prognostic biomarker and viable therapeutic response predictor in HNSCC.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ed from impaired DNA damage response. Higher DRG signature scores were negatively correlated with the abundance of tumor-infiltrating immune cells and linked to several chemotherapeutic drugs, radiotherapy, and immunotherapy sensitivities. Our findings indicated that this novel DRG-derived signature/nomogram serves as a robust prognostic biomarker and viable therapeutic response predictor in HNSCC.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41747404/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41747403",
+      "title": "Viral landscape in saliva: Polyomavirus and Herpesvirus detection in HIV-positive and HIV-negative.",
+      "authors": [
+        "Shahnawaz Khijmatgar",
+        "Niccolò Cenzato",
+        "Maria Dolci",
+        "Francesco Carlo Tartaglia",
+        "Amid Ismail",
+        "Marisol Tellez",
+        "Sara Casati",
+        "Evaldo Favi",
+        "Serena Delbue",
+        "Lucia Signorini"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Saliva is a non-invasive way to study oral viruses, but we lack specific data on Human Polyomaviruses (HPyVs) and Herpesviruses (HHVs) in HIV-positive patients. Currently, the co-infection patterns and viral loads in this population are not well understood compared to healthy individuals. Our study fills this gap by analyzing these viral profiles and microRNAs in saliva. This work helps establish saliva as a dependable diagnostic method for these infections. A cross-sectional study assessed the prevalence of six Human Polyomaviruses (HPyVs) and five Human Herpesviruses (HHVs) in saliva samples collected from two cohorts: 20 HIV-positive individuals undergoing antiretroviral therapy (ART) and 37 HIV-negative subjects. Molecular analyses were performed using quantitative PCR (Q-PCR), with absolute quantification of viral loads and detection of JCPyV and MCPyV microRNAs (miRNAs). The results showed higher overall prevalence of HPyVs (60 % vs. 32.4 %) and HHVs (75 % vs. 51.3 %) in the HIV-positive group compared to the HIV-negative group. MCPyV and EBV were the most frequently detected viruses in both cohorts, but their mean loads were significantly higher in the HIV-positive group. Viral co-infections were more common among HIV-positive individuals (40.0 % vs. 32.4 %), with a predominance of HPyV/HHV co-infections. Notably, HPyV miRNAs were detected also in samples negative for the corresponding viral genomes. Our findings confirm saliva's utility for detecting viral co-infections and highlight the need to determine if oral HPyVs and HHVs act as bystanders or pathogens in HIV-positive patients.",
+      "objective": "",
+      "study_methods": "A cross-sectional study assessed the prevalence of six Human Polyomaviruses (HPyVs) and five Human Herpesviruses (HHVs) in saliva samples collected from two cohorts: 20 HIV-positive individuals undergoing antiretroviral therapy (ART) and 37 HIV-negative subjects. Molecular analyses were performed using quantitative PCR (Q-PCR), with absolute quantification of viral loads and detection of JCPyV and MCPyV microRNAs (miRNAs).",
+      "methods": "A cross-sectional study assessed the prevalence of six Human Polyomaviruses (HPyVs) and five Human Herpesviruses (HHVs) in saliva samples collected from two cohorts: 20 HIV-positive individuals undergoing antiretroviral therapy (ART) and 37 HIV-negative subjects. Molecular analyses were performed using quantitative PCR (Q-PCR), with absolute quantification of viral loads and detection of JCPyV and MCPyV microRNAs (miRNAs).",
+      "results": "showed higher overall prevalence of HPyVs (60 % vs. 32.4 %) and HHVs (75 % vs. 51.3 %) in the HIV-positive group compared to the HIV-negative group. MCPyV and EBV were the most frequently detected viruses in both cohorts, but their mean loads were significantly higher in the HIV-positive group. Viral co-infections were more common among HIV-positive individuals (40.0 % vs. 32.4 %), with a predominance of HPyV/HHV co-infections. Notably, HPyV miRNAs were detected also in samples negative for the corresponding viral genomes. Our findings confirm saliva's utility for detecting viral co-infections and highlight the need to determine if oral HPyVs and HHVs act as bystanders or pathogens in HIV-positive patients.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41747403/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41743370",
       "title": "Motion-based tissue",
       "authors": [
@@ -567,6 +688,28 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930084/bin/gr2.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930084/bin/gr3.jpg"
       ]
+    },
+    {
+      "pmid": "41740348",
+      "title": "Age- and sex-related variations in jaw-opening and tongue functions in healthy adults.",
+      "authors": [
+        "Boosana Kaboosaya"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "To characterize age- and sex-related variations in jaw-opening performance and tongue function, and to establish physiological reference ranges in healthy adults. A cross-sectional study was conducted in 298 healthy participants (129 males, 169 females), aged 17-85 years. Maximum interincisal opening (MIO), tongue range of motion ratio (TRMR), maximum tongue strength, and tongue endurance were assessed using standardized protocols. Participants were stratified by age, and reference ranges were calculated as mean ± 2 SD. Associations across age groups, sex, and body mass index (BMI) were examined using correlation and regression analyses. Maximum tongue strength declined progressively across age groups in both sexes, decreasing by approximately 4.9 kPa per decade in females and 4.7 kPa in males, with substantially lower values in adults aged ≥ 65 years. Tongue endurance remained largely stable across age groups, showing only a mild upward trend in older females. MIO demonstrated an age-related reduction in males, whereas TRMR exhibited minimal age-dependent variation. Regression analysis identified age as a significant predictor of maximum tongue strength, while endurance and mobility were not significantly associated across age groups or BMI. Age-related reductions in tongue strength represent the most prominent physiological change in orofacial motor performance, whereas tongue mobility and endurance remain relatively preserved. The reference values established in this study provide clinically relevant benchmarks for future research on oral motor aging and craniofacial functional assessment.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41740348/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41655372",
@@ -953,6 +1096,34 @@
       ]
     },
     {
+      "pmid": "41771232",
+      "title": "Selective tracheostomy in oral cancer reconstruction with myomucosal flaps: Outcomes and an appraisal of published risk scores.",
+      "authors": [
+        "Alfonso Manfuso",
+        "Giulio Cirignaco",
+        "Stefan Cocis",
+        "Fabio Volpe",
+        "Saverio Capodiferro",
+        "Gianfranco Favia",
+        "Chiara Copelli"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Selective tracheostomy after resection of oral tongue cancer remains contentious, particularly when reconstruction uses intraoral myomucosal flaps whose bulk and edema are not well represented in existing airway risk scores. We retrospectively reviewed 62 consecutive patients who underwent partial glossectomy with myomucosal (buccinator/FAMM-type) flap reconstruction. Primary outcome was elective tracheostomy; secondary outcomes included airway events, ICU utilization, and length of stay (LOS). We compared clinical decisions with the Cameron and Gupta/CASST scores and fitted a multivariable logistic regression to evaluate associations with elective tracheostomy. Selective tracheostomy was performed in 43/62 patients (69%); no airway emergencies occurred among patients managed without tracheostomy. ICU admission occurred in 11% without tracheostomy versus 65% with tracheostomy, and median LOS was 8 versus 20 days, respectively. At prespecified thresholds, both scores showed high specificity, but low sensitivity compared with real-world decisions (Cameron ≥ 5: sensitivity 32.6%, specificity 94.7%; Gupta/CASST ≥ 7: sensitivity 4.7%, specificity 100%); agreement beyond chance was slight (κ≈0.19 and κ≈0.03). The multivariable model demonstrated acceptable discrimination (ROC-AUC 0.73); no individual covariate reached statistical significance, although advancing T stage showed a non-significant trend toward elective tracheostomy. All flaps survived, with only minor distal ischemia managed conservatively. These data suggest that, in the context of intraoral myomucosal reconstruction, institutional thresholds for elective tracheostomy exceed those implied by generic scores; conversely, carefully selected patients can safely avoid tracheostomy. Tailoring risk prediction to flap-specific mechanics may refine decision support and reduce unnecessary tracheostomies without compromising safety.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41771232/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41747369",
       "title": "Clinical Implications of Sterilization Methods Applied to 3D-Printed Implant Surgical Guides: An In Vitro Study.",
       "authors": [
@@ -1078,6 +1249,32 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41741963/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41734605",
+      "title": "Aberrant lateral position of external carotid artery, a surgical pitfall during neck dissection.",
+      "authors": [
+        "Muddasir Bhati",
+        "Pareeksit Bagchi",
+        "Prashant Pawar",
+        "Padmakar Baviskar",
+        "Swathi Yennemadi"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41734605/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1282,154 +1479,6 @@
       ]
     },
     {
-      "pmid": "41687343",
-      "title": "Bridging Dentistry and Nephrology in CKD: Evidence, Feasibility, and Equity Considerations.",
-      "authors": [
-        "Suhani Ghai",
-        "Kailash N Singh",
-        "Ankit Grover"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41687343/",
-      "pmcid": "PMC12914781",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41662794",
-      "title": "Financial toxicity in patients suffering from oral squamous cell carcinoma in Germany - A single centre survey.",
-      "authors": [
-        "Eugen Hecht",
-        "Thomas Rückschloss",
-        "Sonja Steen",
-        "Moritz Bleymehl",
-        "Michael Engel",
-        "Jürgen Hoffmann",
-        "Julius Moratin"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Cancer-related financial toxicity has been recognized as a growing survivorship issue, even in high income countries with established social welfare systems. However, data on the financial impact of head and neck cancers, particularly oral cavity carcinoma (OSCC), remain scarce in Germany. This study aims to quantify the financial burden experienced by OSCC patients following surgical and/or multimodal treatment within the German healthcare system. We conducted a prospective, cross-sectional study at a single university hospital. Patients with OSCC undergoing oncological follow-up were included. Financial toxicity was measured using the Financial Index of Toxicity (FIT) questionnaire along with 11 additional items addressing changes in income, employment, rehabilitation, and social participation. 101 patients with OSCC were included. The mean overall FIT score was 23.8 (SD 15.9), indicating a moderate financial burden. Subscores revealed a financial stress score of 10.8 (SD 16.9), a financial strain score of 33.6 (SD 19.5), and a lost productivity score of 22.8 (SD 31.2). Patients with advanced tumor stages (UICC III/IV) showed higher financial toxicity, particularly in the domains of lost productivity and strain. Additional socioeconomic items revealed reduced household income and significant difficulties in returning to work or accessing rehabilitation. Our study provides the first structured assessment of financial toxicity in OSCC patients within the German healthcare system. Even in a publicly funded health system, substantial financial distress occurs-particularly in patients with advanced-stage disease and impaired speech function. These findings underscore the need for systematic financial risk screening and the development of German-specific assessment tools to address the socioeconomic burden in cancer care.",
-      "objective": "to quantify the financial burden experienced by OSCC patients following surgical and/or multimodal treatment within the German healthcare system. We conducted a prospective, cross-sectional study at a single university hospital. Patients with OSCC undergoing oncological follow-up were included. Financial toxicity was measured using the Financial Index of Toxicity (FIT) questionnaire along with 11 additional items addressing changes in income, employment, rehabilitation, and social participation. 101 patients with OSCC were included. The mean overall FIT score was 23.8 (SD 15.9), indicating a moderate financial burden. Subscores revealed a financial stress score of 10.8 (SD 16.9), a financial strain score of 33.6 (SD 19.5), and a lost productivity score of 22.8 (SD 31.2). Patients with advanced tumor stages (UICC III/IV) showed higher financial toxicity, particularly in the domains of lost productivity and strain. Additional socioeconomic items revealed reduced household income and significant difficulties in returning to work or accessing rehabilitation. Our study provides the first structured assessment of financial toxicity in OSCC patients within the German healthcare system. Even in a publicly funded health system, substantial financial distress occurs-particularly in patients with advanced-stage disease and impaired speech function. These findings underscore the need for systematic financial risk screening and the development of German-specific assessment tools to address the socioeconomic burden in cancer care.",
-      "study_methods": "We conducted a prospective, cross-sectional study at a single university hospital. Patients with OSCC undergoing oncological follow-up were included. Financial toxicity was measured using the Financial Index of Toxicity (FIT) questionnaire along with 11 additional items addressing changes in income, employment, rehabilitation, and social participation.",
-      "methods": "We conducted a prospective, cross-sectional study at a single university hospital. Patients with OSCC undergoing oncological follow-up were included. Financial toxicity was measured using the Financial Index of Toxicity (FIT) questionnaire along with 11 additional items addressing changes in income, employment, rehabilitation, and social participation.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41662794/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41662793",
-      "title": "Assessment of the efficacy of 3D virtual surgical planning compared with traditional planning in maxillofacial reconstruction for facial traumatic deformity.",
-      "authors": [
-        "Hai Qing",
-        "Zhen Liu",
-        "Jing Yang",
-        "Zhi Tan",
-        "Li Shen",
-        "Jie Deng",
-        "Riyong Xiao",
-        "Hao Zhang",
-        "Song Qing"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Maxillofacial reconstruction is a critical surgical procedure aimed at restoring function and aesthetics following trauma. Traditional surgical planning methods have been widely used, but the adoption of 3D virtual surgical planning (VSP) systems has shown potential for improving clinical outcomes. Our study aimed to compare the effectiveness of traditional surgical planning with that of VSP in patients undergoing maxillofacial reconstruction. A retrospective cohort study was conducted involving patients treated from January 2020 to December 2023. Patients were divided into two groups: those who underwent traditional planning (TP), and those who utilized the 3D VSP system. Preoperative and postoperative data, including surgery duration, blood loss, complications, hospital stay, revision surgeries, bone healing, and functional outcomes, were collected and analyzed. In total, 142 patients were included, with 68 in the TP group and 74 in the VSP group. The VSP group showed shorter surgery duration and lower intraoperative blood loss. Postoperatively, the fit of bone segments was superior in the VSP group. Radiographic analysis indicated higher precision in bone fragments and increased airway volumes in the VSP group. Aesthetic and functional outcomes, including facial symmetry and maxillofacial function, were also significantly better in the VSP group. However, bone healing time was slightly longer for the VSP group. The VSP system demonstrated superior outcomes in terms of surgical precision, reduced intraoperative blood loss, and improved postoperative aesthetics and function compared with TP methods.",
-      "objective": "",
-      "study_methods": "A retrospective cohort study was conducted involving patients treated from January 2020 to December 2023. Patients were divided into two groups: those who underwent traditional planning (TP), and those who utilized the 3D VSP system. Preoperative and postoperative data, including surgery duration, blood loss, complications, hospital stay, revision surgeries, bone healing, and functional outcomes, were collected and analyzed.",
-      "methods": "A retrospective cohort study was conducted involving patients treated from January 2020 to December 2023. Patients were divided into two groups: those who underwent traditional planning (TP), and those who utilized the 3D VSP system. Preoperative and postoperative data, including surgery duration, blood loss, complications, hospital stay, revision surgeries, bone healing, and functional outcomes, were collected and analyzed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41662793/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41655402",
-      "title": "Dual Framework for Classification and Detection of Third Molar Impaction in Panoramic Radiographs.",
-      "authors": [
-        "Zohaib Khurshid",
-        "Mousa Haney Alsleem",
-        "Fahad Ahmed Aljubairah",
-        "Hussain Adel Alghafli",
-        "Abdullah Othman Alasafirah",
-        "Bassam Abbas Alibrahim",
-        "Abdullah Abdulrahman Alshamrani",
-        "Abdulelah Nasser Alsuhaymi"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "The surgical extraction of impacted mandibular third molars present significant clinical challenges, where accurate preoperative assessment is crucial to mitigate risks such as Inferior Alveolar Nerve injury. Although artificial intelligence shows promise in dental radiology, existing approaches are often limited to binary classification, affected by class imbalance, and lack standardized evaluation protocols, thereby restricting their clinical applicability. This study proposes two independent deep learning frameworks for comprehensive analysis of third molar impactions. The first framework is an end-to-end object detection pipeline employing modified YOLOv10 and YOLOv11n architectures enhanced with multihead self-attention. The second framework is a feature-based classification approach, where deep features extracted using ResNet50 and InceptionNetV3 are classified using traditional machine learning algorithms. Validated on a multinational dataset of 5796 expertly annotated orthopantomograms with high inter-rater agreement (κ = 0.92), the proposed frameworks demonstrated competitive performance. The Fine KNN classifier using ResNet50 features achieved the best classification performance, yielding 97.56% accuracy, 96.07% precision, 96.21% recall, and an F1-score of 96.10%, while InceptionNetV3-based classification achieved 97.33% accuracy with an F1-score of 95.30%. For object detection, YOLOv11n attained a mean average precision of 88.9% (mAP@0.5) and 85.7% (mAP@0.5:0.95), while maintaining substantially lower computational complexity (19.7 vs 28.4 GFLOPs). Ablation experiments confirmed that the integration of multihead self-attention modules and generative adversarial network-based augmentation improved detection performance by 6.4% mean average precision. The proposed frameworks enable accurate and automated multiclass assessment of third molar impactions, achieving high diagnostic performance while preserving computational efficiency suitable for clinical deployment. This work advances artificial intelligence-assisted surgical planning by providing reliable F1-score-based evaluation, reliable real-time detection, and enhanced preoperative risk stratification in oral and maxillofacial surgery.",
-      "objective": "",
-      "study_methods": "This study proposes two independent deep learning frameworks for comprehensive analysis of third molar impactions. The first framework is an end-to-end object detection pipeline employing modified YOLOv10 and YOLOv11n architectures enhanced with multihead self-attention. The second framework is a feature-based classification approach, where deep features extracted using ResNet50 and InceptionNetV3 are classified using traditional machine learning algorithms.",
-      "methods": "This study proposes two independent deep learning frameworks for comprehensive analysis of third molar impactions. The first framework is an end-to-end object detection pipeline employing modified YOLOv10 and YOLOv11n architectures enhanced with multihead self-attention. The second framework is a feature-based classification approach, where deep features extracted using ResNet50 and InceptionNetV3 are classified using traditional machine learning algorithms.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41655402/",
-      "pmcid": "PMC12907845",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907845/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907845/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907845/bin/gr3.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907845/bin/gr4.jpg"
-      ]
-    },
-    {
-      "pmid": "41655401",
-      "title": "Feasibility of Mandibular Distraction Osteogenesis Using Mixed Reality-based Dynamic Navigation: A Preclinical Study.",
-      "authors": [
-        "Cheng Ma",
-        "Shi-Xi He",
-        "Qian-Yu Liu",
-        "Yin-Yu Shang",
-        "Jian-Gu Gong",
-        "Xuan-Ping Huang"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Mandibular distraction osteogenesis (MDO) is critical for correcting mandibular hypoplasia. Mixed reality (MR) is an emerging surgical-navigation technology that can overcome the limitations of traditional methods. However, evidence regarding the benefits of MR navigation in MDO is limited. Herein, we developed a dynamic MR-based navigation system and compared its performance to techniques using surgical guides (SGs) as well as freehand (FH) and traditional navigation (TN) approaches. An adjacent-display MR navigation system integrating optical tracking and a patient-specific registration device was developed for real-time dynamic guidance. Thirty mandibular three-dimensional (3D)-printed models were allocated to three groups (n = 10 each): MR, SG, and FH. Thirty-two Beagle dogs were randomised into four groups (n = 8 each): MR, SG, FH, and TN. The feasibility of the MR system was evaluated in 10 human cadaver heads. All procedures were performed by the same surgical team. The outcomes included osteotomy accuracy, distraction-vector deviation, distractor placement precision, intraoperative corrections, and operative time. In the model experiments, the MR group showed significantly higher distractor and osteotomy accuracy than the FH group and similar precision as the SG group. In animal studies, the MR approach reduced errors in distractor placement, distraction vector, and osteotomy in comparison with the FH approach, and outperformed the SG-based approach in terms of distractor positioning and osteotomy accuracy. In comparison with TN, the MR approach excelled in distractor positioning, osteotomy accuracy, and reduced operative time. Cadaver experiments revealed sagittal and transverse distractor errors of 1.99° ± 0.67° and 1.63° ± 0.88°, respectively, distraction-vector deviation of 2.62° ± 0.38°, and osteotomy angle deviation of 1.74° ± 0.50°. The average operative time was 85.23 ± 13.04 min; distractor positioning required 54.08 ± 15.71 min and the number of intraoperative corrections was 6.80 ± 1.87. The dynamic MR navigation system achieved better accuracy than the FH approach and showed specific advantages over the TN and SG-based approaches, indicating its potential clinical applicability for precise MDO. This study was registered with the Chinese Clinical Trial Registry (ChiCTR2500098863).",
-      "objective": "",
-      "study_methods": "An adjacent-display MR navigation system integrating optical tracking and a patient-specific registration device was developed for real-time dynamic guidance. Thirty mandibular three-dimensional (3D)-printed models were allocated to three groups (n = 10 each): MR, SG, and FH. Thirty-two Beagle dogs were randomised into four groups (n = 8 each): MR, SG, FH, and TN. The feasibility of the MR system was evaluated in 10 human cadaver heads. All procedures were performed by the same surgical team. The outcomes included osteotomy accuracy, distraction-vector deviation, distractor placement precision, intraoperative corrections, and operative time.",
-      "methods": "An adjacent-display MR navigation system integrating optical tracking and a patient-specific registration device was developed for real-time dynamic guidance. Thirty mandibular three-dimensional (3D)-printed models were allocated to three groups (n = 10 each): MR, SG, and FH. Thirty-two Beagle dogs were randomised into four groups (n = 8 each): MR, SG, FH, and TN. The feasibility of the MR system was evaluated in 10 human cadaver heads. All procedures were performed by the same surgical team. The outcomes included osteotomy accuracy, distraction-vector deviation, distractor placement precision, intraoperative corrections, and operative time.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41655401/",
-      "pmcid": "PMC12907860",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907860/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907860/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907860/bin/gr3.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907860/bin/gr4.jpg"
-      ]
-    },
-    {
       "pmid": "41650829",
       "title": "Characteristics, Citation Analysis, and Altmetrics Impact of Retracted Papers in Dentistry (2001-2024).",
       "authors": [
@@ -1457,34 +1506,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12905765/bin/gr2.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12905765/bin/gr2.gif"
       ]
-    },
-    {
-      "pmid": "41638297",
-      "title": "Clinical acceptability and repeatability of three-dimensional maxillary positioning following orthognathic surgical wafer placement: An in vitro study.",
-      "authors": [
-        "Eun-Hack Andrew Choi",
-        "Yunji Shin",
-        "Jae-Hun Yu",
-        "Jeenyoung Kim",
-        "Utkarsh Mangal",
-        "Jun-Young Kim",
-        "Sung-Hwan Choi"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "To quantify the three-dimensional (3D) deviation between planned and achieved maxillary positions after transfer using a surgical wafer under in vitro conditions, and assess clinical acceptability and repeatability for each workflow. A bracketed typodont mounted on a mannequin was used to define three groups-Conventional (alginate impressions/plaster casts/laboratory scanning), Trios (Trios 3 intraoral scanner (IOS)), and Prime (Primescan IOS)-each with 10 technical replicates. For each replicate, virtual surgical planning was performed, a wafer was designed and 3D-printed, and the maxilla was positioned; 3D deviation was quantified as: (1) point-based 3D positional deviation (three landmarks) and (2) matrix-based 3D translational and rotational deviations. Clinical acceptability was defined as the proportion of the 10 replicates per group with 3D deviation within predefined clinical tolerance limits (0.5 mm for positional/translational; 1.0° for rotational). Repeatability was summarized by the repeatability standard deviation (sr) as specified in ISO 5725. The Trios and Prime groups achieved 100% clinical acceptability across all 3D deviations. In the Conventional group, acceptability was 90% for the anterior landmark's positional and translational deviation, with all others achieving 100%. The sr was 0.13-0.20 mm (positional), 0.23 mm (translational), and 0.22° (rotational) for the Conventional group; 0.04-0.13 mm, 0.06 mm, and 0.24° for the Trios group; 0.04-0.10 mm, 0.11 mm, and 0.17° for the Prime group. Under in vitro conditions, the demonstrated clinical acceptability and repeatability provide preliminary evidence supporting the clinical feasibility of a fully digital IOS-based workflow for wafer-mediated maxillary positioning. An IOS-based workflow can be considered clinically feasible for wafer-mediated maxillary positioning without compromising accuracy, as evaluated in terms of clinical acceptability and repeatability, while potentially eliminating impression-taking and cast fabrication steps.",
-      "objective": "",
-      "study_methods": "A bracketed typodont mounted on a mannequin was used to define three groups-Conventional (alginate impressions/plaster casts/laboratory scanning), Trios (Trios 3 intraoral scanner (IOS)), and Prime (Primescan IOS)-each with 10 technical replicates. For each replicate, virtual surgical planning was performed, a wafer was designed and 3D-printed, and the maxilla was positioned; 3D deviation was quantified as: (1) point-based 3D positional deviation (three landmarks) and (2) matrix-based 3D translational and rotational deviations. Clinical acceptability was defined as the proportion of the 10 replicates per group with 3D deviation within predefined clinical tolerance limits (0.5 mm for positional/translational; 1.0° for rotational). Repeatability was summarized by the repeatability standard deviation (sr) as specified in ISO 5725.",
-      "methods": "A bracketed typodont mounted on a mannequin was used to define three groups-Conventional (alginate impressions/plaster casts/laboratory scanning), Trios (Trios 3 intraoral scanner (IOS)), and Prime (Primescan IOS)-each with 10 technical replicates. For each replicate, virtual surgical planning was performed, a wafer was designed and 3D-printed, and the maxilla was positioned; 3D deviation was quantified as: (1) point-based 3D positional deviation (three landmarks) and (2) matrix-based 3D translational and rotational deviations. Clinical acceptability was defined as the proportion of the 10 replicates per group with 3D deviation within predefined clinical tolerance limits (0.5 mm for positional/translational; 1.0° for rotational). Repeatability was summarized by the repeatability standard deviation (sr) as specified in ISO 5725.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41638297/",
-      "pmcid": "",
-      "figure_urls": []
     },
     {
       "pmid": "41624391",
@@ -1612,6 +1633,50 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41544400/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41482746",
+      "title": "Effects of a Standardised Medical-Dental Collaborative Protocol on Acute Stroke Rehabilitation: A Multicentre Prospective Cohort Study.",
+      "authors": [
+        "Yu Yoshizumi",
+        "Yoshiyuki Sasaki",
+        "Motoki Inaji",
+        "Jun Karakama",
+        "Ayako Nakane",
+        "Chiaki Matsubara",
+        "Junichi Furuya",
+        "Shinsuke Irie",
+        "Shinichi Wakabayashi",
+        "Masateru Katayama",
+        "Katsuhiko Sakai",
+        "Takanori Hayakawa",
+        "Yoshihisa Kawano",
+        "Nobuhiro Inokuchi",
+        "Manabu Ishihara",
+        "Hideyuki Takano",
+        "Nobukazu Komoribayashi",
+        "Yasushi Tamada",
+        "George Umemoto",
+        "Kazuyuki Matsunaga",
+        "Junichi Yamazoe",
+        "Haruka Tohara",
+        "Taketoshi Maehara"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Acute stroke often causes complications such as aspiration pneumonia, which can be prevented through oral hygiene. However, evidence supporting individualised oral care remains limited. We developed a multidisciplinary oral function management protocol and evaluated its benefits in patients with acute stroke, including its impact on aspiration pneumonia. In this prospective multicentre cohort study, data from 1616 patients with acute stroke admitted to participating hospitals between 31 July 2017, and 27 January 2021 were analysed. Hospitals implemented our oral function management program (Protocol group) or provided conventional oral care (control group). To minimise confounding by baseline severity, propensity scores were estimated using stroke severity and initial complications; patients were matched 1:1 using nearest-neighbour matching with a calliper of 0.2, resulting in 313 matched pairs (n = 626). Primary outcome was the incidence of aspiration pneumonia; secondary outcomes were hospital stay length and oral function improvement. No significant differences in aspiration pneumonia onset rates were detected between the protocol and control groups (p = 0.7639). Compared to controls, the protocol group showed significant improvements in oral hygiene (p < 0.0001), tongue mobility (p = 0.0292), and FOIS scores (p = 0.0005). Time from admission to discharge evaluation (p < 0.0001) and total length of hospital stay (p = 0.0018) were significantly reduced. Compared to administration of conventional oral care, implementation of this Protocol facilitated earlier oral management and feeding/swallowing rehabilitation, potentially reducing hospital stays and enhancing oral functions. The protocol may enhance oral functionality and reduce hospitalisation duration by systematising multidisciplinary oral management and swallowing rehabilitation, alongside supporting conventional pneumonia prevention strategies.",
+      "objective": "",
+      "study_methods": "In this prospective multicentre cohort study, data from 1616 patients with acute stroke admitted to participating hospitals between 31 July 2017, and 27 January 2021 were analysed. Hospitals implemented our oral function management program (Protocol group) or provided conventional oral care (control group). To minimise confounding by baseline severity, propensity scores were estimated using stroke severity and initial complications; patients were matched 1:1 using nearest-neighbour matching with a calliper of 0.2, resulting in 313 matched pairs (n = 626). Primary outcome was the incidence of aspiration pneumonia; secondary outcomes were hospital stay length and oral function improvement.",
+      "methods": "In this prospective multicentre cohort study, data from 1616 patients with acute stroke admitted to participating hospitals between 31 July 2017, and 27 January 2021 were analysed. Hospitals implemented our oral function management program (Protocol group) or provided conventional oral care (control group). To minimise confounding by baseline severity, propensity scores were estimated using stroke severity and initial complications; patients were matched 1:1 using nearest-neighbour matching with a calliper of 0.2, resulting in 313 matched pairs (n = 626). Primary outcome was the incidence of aspiration pneumonia; secondary outcomes were hospital stay length and oral function improvement.",
+      "results": "ing in 313 matched pairs (n = 626). Primary outcome was the incidence of aspiration pneumonia; secondary outcomes were hospital stay length and oral function improvement. No significant differences in aspiration pneumonia onset rates were detected between the protocol and control groups (p = 0.7639). Compared to controls, the protocol group showed significant improvements in oral hygiene (p < 0.0001), tongue mobility (p = 0.0292), and FOIS scores (p = 0.0005). Time from admission to discharge evaluation (p < 0.0001) and total length of hospital stay (p = 0.0018) were significantly reduced. Compared to administration of conventional oral care, implementation of this Protocol facilitated earlier oral management and feeding/swallowing rehabilitation, potentially reducing hospital stays and enhancing oral functions. The protocol may enhance oral functionality and reduce hospitalisation duration by systematising multidisciplinary oral management and swallowing rehabilitation, alongside supporting conventional pneumonia prevention strategies.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41482746/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1795,6 +1860,90 @@
       "figure_urls": []
     },
     {
+      "pmid": "41817921",
+      "title": "Factors associated with single versus multiple supernumerary teeth in a paediatric population: a cross-sectional study.",
+      "authors": [
+        "C de O Gomes",
+        "L B Nogueira",
+        "P C Goulart",
+        "V Z Drumond",
+        "J A A de Arruda",
+        "L G Abreu",
+        "M L Ramos-Jorge",
+        "M H N G Abreu",
+        "R A Mesquita"
+      ],
+      "publication_date": "2026-Mar-12",
+      "publication_date_iso": "2026-03-12",
+      "abstract": "Supernumerary teeth (ST) are developmental anomalies. However, factors associated with ST have not been extensively reported in the literature. The aim of the present study was to identify factors associated with single supernumerary teeth (SST) and multiple supernumerary teeth (MST) in a non-syndromic Brazilian sample. A cross-sectional study was conducted with a convenience sample of 305 non-syndromic patients with ST seen over a 10-year period at a paediatric oral surgery service in Southeast Brazil. The outcome variable was the classification of ST as SST or MST. Covariates included age, race, sex, morphology, location, position, eruption status, orientation, associated complications, and treatment modality of ST. The Mann-Whitney test, chi-squared test, and both simple and multiple logistic regression analyses were performed. A total of 460 ST were identified among the 305 patients, with male predominance (68.2%). Mean age was 9.3 years. Most patients had SST (62.2%) and 37.8% had MST. ST were primarily located in the maxilla (93.1%), with fewer cases in the mandible or both arches. MST were strongly associated with specific position, eruption, orientation, clinical complication, morphological, and treatment characteristics (p < 0.001). Tuberculate and supplemental ST, palatal positioning, and eruption status were significantly associated with an increased likelihood of MST. Moreover, MST were associated with a greater risk of adjacent tooth displacement and greater need for combined orthodontic treatment and extraction.",
+      "objective": "of the present study was to identify factors associated with single supernumerary teeth (SST) and multiple supernumerary teeth (MST) in a non-syndromic Brazilian sample. A cross-sectional study was conducted with a convenience sample of 305 non-syndromic patients with ST seen over a 10-year period at a paediatric oral surgery service in Southeast Brazil. The outcome variable was the classification of ST as SST or MST. Covariates included age, race, sex, morphology, location, position, eruption status, orientation, associated complications, and treatment modality of ST. The Mann-Whitney test, chi-squared test, and both simple and multiple logistic regression analyses were performed. A total of 460 ST were identified among the 305 patients, with male predominance (68.2%). Mean age was 9.3 years. Most patients had SST (62.2%) and 37.8% had MST. ST were primarily located in the maxilla (93.1%), with fewer cases in the mandible or both arches. MST were strongly associated with specific position, eruption, orientation, clinical complication, morphological, and treatment characteristics (p < 0.001). Tuberculate and supplemental ST, palatal positioning, and eruption status were significantly associated with an increased likelihood of MST. Moreover, MST were associated with a greater risk of adjacent tooth displacement and greater need for combined orthodontic treatment and extraction.",
+      "study_methods": "A cross-sectional study was conducted with a convenience sample of 305 non-syndromic patients with ST seen over a 10-year period at a paediatric oral surgery service in Southeast Brazil. The outcome variable was the classification of ST as SST or MST. Covariates included age, race, sex, morphology, location, position, eruption status, orientation, associated complications, and treatment modality of ST. The Mann-Whitney test, chi-squared test, and both simple and multiple logistic regression analyses were performed.",
+      "methods": "A cross-sectional study was conducted with a convenience sample of 305 non-syndromic patients with ST seen over a 10-year period at a paediatric oral surgery service in Southeast Brazil. The outcome variable was the classification of ST as SST or MST. Covariates included age, race, sex, morphology, location, position, eruption status, orientation, associated complications, and treatment modality of ST. The Mann-Whitney test, chi-squared test, and both simple and multiple logistic regression analyses were performed.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41817921/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41816816",
+      "title": "Comparison of Dental Relationship and Craniofacial Development in Children With Unilateral Cleft Lip and Palate Treated With/Without Presurgical Nasoalveolar Molding.",
+      "authors": [
+        "Jie Zheng",
+        "Meiqing Ren",
+        "Zhengkun Yang",
+        "Yangqi Sun",
+        "Di Guo",
+        "Wenjun Yuan"
+      ],
+      "publication_date": "2026-Mar-12",
+      "publication_date_iso": "2026-03-12",
+      "abstract": "ObjectiveTo evaluate long-term effects of presurgical nasoalveolar molding (PNAM) on occlusal relationships and craniofacial development in children with unilateral cleft lip and palate (UCLP) using the 5-year-olds' index and cone-beam computed tomography (CBCT).DesignRetrospective cohort study.SettingTertiary-level Class A specialized stomatological hospital.ParticipantsSixty-four patients with complete UCLP.InterventionsThirty patients underwent PNAM treatment, and 34 patients did not.Main Outcome MeasureCBCT scans were used to assess dental occlusion via the 5-year-old index and to measure craniofacial variables. Intergroup differences were analyzed using the Mann-Whitney U test and the chi-square test, while the correlation between occlusion and craniofacial variables was examined using the Pearson correlation coefficient. A P value of less than .05 was considered statistically significant.ResultsA comparison of 5-year-olds' index scores in the two groups showed median scores of 3.0 (PNAM group) and 3.5 (non-PNAM group), respectively, with no significant difference found. For prognosis, no significant difference in orthognathic surgery need was found, but the PNAM group had a higher nonsurgery rate (60%) versus 50% in the non-PNAM group. In craniofacial development, the PNAM group had significantly longer maxillary length; favorable prognosis group showed smaller SNB angles, shorter mandibular body, larger ANB angles, and longer maxillary length. Correlation analysis showed 5-year-olds' index positively correlated with SNB/mandibular body length, and negatively with ANB/maxillary length.ConclusionsEarly childhood evaluations showed that treatment with/without PNAM in the neonatal period was not a major factor influencing occlusal relationships or craniofacial development in patients with UCLP. Furthermore, correlation between 5-year-olds' index and skeletal morphology in children with UCLP has been confirmed.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "A comparison of 5-year-olds' index scores in the two groups showed median scores of 3.0 (PNAM group) and 3.5 (non-PNAM group), respectively, with no significant difference found. For prognosis, no significant difference in orthognathic surgery need was found, but the PNAM group had a higher nonsurgery rate (60%) versus 50% in the non-PNAM group. In craniofacial development, the PNAM group had significantly longer maxillary length; favorable prognosis group showed smaller SNB angles, shorter mandibular body, larger ANB angles, and longer maxillary length. Correlation analysis showed 5-year-olds' index positively correlated with SNB/mandibular body length, and negatively with ANB/maxillary length.ConclusionsEarly childhood evaluations showed that treatment with/without PNAM in the neonatal period was not a major factor influencing occlusal relationships or craniofacial development in patients with UCLP. Furthermore, correlation between 5-year-olds' index and skeletal morphology in children with UCLP has been confirmed.",
+      "conclusion": "Early childhood evaluations showed that treatment with/without PNAM in the neonatal period was not a major factor influencing occlusal relationships or craniofacial development in patients with UCLP. Furthermore, correlation between 5-year-olds' index and skeletal morphology in children with UCLP has been confirmed.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41816816/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41814348",
+      "title": "Evaluation of psychological effects of orthodontic treatment vs. orthognathic surgery: a systematic review and meta-analysis.",
+      "authors": [
+        "Niccolò Cenzato",
+        "Francesca Alicchio",
+        "Antonino Manti",
+        "Benedetta Baldini",
+        "Massimo Del Fabbro",
+        "Cinzia Maspero"
+      ],
+      "publication_date": "2026-Mar-11",
+      "publication_date_iso": "2026-03-11",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41814348/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41812059",
       "title": "LARP7 Enhances the Potential of Dental Pulp Stem Cells to Promote Peripheral Nerve Repair.",
       "authors": [
@@ -1884,6 +2033,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "41692449",
+      "title": "Non-syndromic Bilateral Posterior Maxillary Supernumerary Teeth: Rare Combination of Paramolar and Distomolar.",
+      "authors": [
+        "Yunosuke Ikeda",
+        "Atsushi Ogawa",
+        "Noriaki Takahashi",
+        "Hiroyuki Yamada"
+      ],
+      "publication_date": "2026-Mar-11",
+      "publication_date_iso": "2026-03-11",
+      "abstract": "When teeth or odontogenic structures are present in excess of the normal number in the dental arch they are referred to as supernumerary. This paper describes a rare case of a maxillary right distomolar and left paramolar in an otherwise non-syndromic individual. The patient was a 23-year-old Japanese man who presented at our clinic seeking periodontal treatment. Intraoral examination revealed supernumerary teeth in the maxilla, and an extraction plan including the wisdom teeth was developed.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41692449/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41807974",
       "title": "M1 macrophage-derived migrasomes ameliorate temporomandibular joint osteoarthritis via autophagy.",
       "authors": [
@@ -1969,6 +2143,35 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41805692/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41759522",
+      "title": "Development of a high-efficiency induction system for embryonic oral epithelium from human pluripotent stem cells.",
+      "authors": [
+        "Kazuki Nakashima",
+        "Junichi Tanaka",
+        "Erika Matsuno",
+        "Yuri Wada",
+        "Shintaro Ohnuma",
+        "Tatsuo Shirota",
+        "Seigo Ohba",
+        "Kenji Mishima"
+      ],
+      "publication_date": "2026-Mar-10",
+      "publication_date_iso": "2026-03-10",
+      "abstract": "Embryonic oral epithelium is a multipotent, ectodermal tissue that gives rise to various organs, including salivary glands, tooth germs, taste buds, and anterior pituitary glands. Although oral epithelium is contiguous posteriorly with endodermal epithelium and anteriorly with surface ectoderm, it exhibits distinct gene expression profiles during development. However, the molecular mechanisms that govern fate specification between oral epithelium and surface ectoderm remain poorly understood. Here, we present a highly efficient protocol for the PITX2-positive oral epithelium induction from human induced pluripotent stem cells (hiPSCs) using a reporter system. Sonic Hedgehog (SHH) signaling activation is essential for the efficient PITX2-positive epithelial cell generation. The induced cells exhibited gene expression profiles resembling those of embryonic oral epithelium and formed epithelial spheres that replicated features of human oral epithelium. This study established a robust platform for investigating human oral epithelial development and provided a valuable foundation for organoid-based research on oral organs.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41759522/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2270,7 +2473,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41791720/",
-      "pmcid": "",
+      "pmcid": "PMC12976874",
       "figure_urls": []
     },
     {
