@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-13T04:17:02Z",
+  "updated_at": "2026-03-14T04:15:08Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -588,7 +588,7 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41789672/",
-      "pmcid": "",
+      "pmcid": "PMC12981022",
       "figure_urls": []
     },
     {
@@ -792,6 +792,39 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41468697/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41444092",
+      "title": "Evaluation of the fatigue behavior of implant-supported 3D-printed and milled resins for definitive crowns.",
+      "authors": [
+        "Ernesto B Benalcázar-Jalkh",
+        "Larissa M M Alves",
+        "Tiago M B Campos",
+        "Laura F Carvalho",
+        "Paulo E A Silveira",
+        "Petra C Gierthmuehlen",
+        "Nelson R F A Silva",
+        "Lukasz Witek",
+        "Paulo G Coelho",
+        "Satoshi Yamaguchi",
+        "Drauseo Speratti",
+        "Estevam A Bonfante"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "To evaluate the reliability and failure modes of 3D-printed crowns fabricated from different resin composites compared to a milled resin composite block, all indicated as definitive restorations. Four 3D-printing resins were evaluated: 1) CeramicCrown (CC; SprintRay), 2)VarseoSmile-Crown (VSC, Bego), 3) Crowntec (CRO, Saremco), and 4) Ceramage 3D-Printed (C3D, Shofu), along a milled resin-composite block: Shofu Block HC Super-Hard (SSH, Shofu). Eighteen implant-supported maxillary first-molar crowns were manufactured per group and tested under step-stress accelerated life testing. Weibull statistics were applied, and reliability was calculated for 100,000 cycles at different loads. Fractographic analysis was performed under scanning electron microscopy. All 3D-printed samples failed during fatigue testing, whereas SSH samples survived both the initial protocol and the extended cycling, in which the load profiles were modified to increase the number of cycles (up to 2400,000). Failures were related to material strength (C3D, CC, VSC) or fatigue damage accumulation (CRO). At a mission of 100,000 cycles at 300 N, all 3D printed groups presented high reliability (>99 %). Under higher loads (800-1000 N), CRO and VSC had lower reliability compared to C3D and CC. Characteristic fracture load was highest for C3D and CC, intermediate for CRO, and lowest for VSC. CRO showed the lowest Weibull modulus. Fractographic analysis indicated fracture initiation at the occlusal surface in printed crowns, propagating toward the margins and abutment. SSH crowns exhibited wear marks with no crack formation. While the milled composite demonstrated superior fatigue resistance, 3D-printed definitive crowns exhibited material-dependent fatigue behavior. Among printed groups, CC and C3D presented higher characteristic fracture load and reliability under higher loads compared to CRO and VSC.",
+      "objective": "",
+      "study_methods": "Four 3D-printing resins were evaluated: 1) CeramicCrown (CC; SprintRay), 2)VarseoSmile-Crown (VSC, Bego), 3) Crowntec (CRO, Saremco), and 4) Ceramage 3D-Printed (C3D, Shofu), along a milled resin-composite block: Shofu Block HC Super-Hard (SSH, Shofu). Eighteen implant-supported maxillary first-molar crowns were manufactured per group and tested under step-stress accelerated life testing. Weibull statistics were applied, and reliability was calculated for 100,000 cycles at different loads. Fractographic analysis was performed under scanning electron microscopy.",
+      "methods": "Four 3D-printing resins were evaluated: 1) CeramicCrown (CC; SprintRay), 2)VarseoSmile-Crown (VSC, Bego), 3) Crowntec (CRO, Saremco), and 4) Ceramage 3D-Printed (C3D, Shofu), along a milled resin-composite block: Shofu Block HC Super-Hard (SSH, Shofu). Eighteen implant-supported maxillary first-molar crowns were manufactured per group and tested under step-stress accelerated life testing. Weibull statistics were applied, and reliability was calculated for 100,000 cycles at different loads. Fractographic analysis was performed under scanning electron microscopy.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41444092/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1053,6 +1086,29 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41605382/",
       "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41821719",
+      "title": "Extranodal Marginal Zone B-cell Lymphoma Presenting as a Painless Buccal Mass in the Masticator Space.",
+      "authors": [
+        "Li Lin",
+        "Jiun-Sheng Lin"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Extranodal marginal zone B-cell lymphoma (EMZL, mucosa-associated lymphoid tissue type) is an indolent non-Hodgkin lymphoma that only rarely arises in deep facial spaces. Primary masticator-space involvement is particularly uncommon and can mimic benign buccal soft-tissue lesions. We report a 67-year-old woman with a 4-year history of a painless, slowly enlarging left cheek mass. Examination showed a soft, mobile 3-cm buccal swelling with normal overlying skin and no intraoral lesion. Contrast-enhanced computed tomography demonstrated an infiltrative soft-tissue mass measuring 3.1 × 1.5 × 3.5 cm, centered in the left masticator space, with effacement of fat planes between the masseter, pterygoid, and temporalis muscles. Intraoral incisional biopsy revealed a dense infiltrate of small-to-medium CD20-positive, Bcl-2-positive B cells, with a CD5, CD10, CD23, Bcl-6-negative immunophenotype and follicular colonization on CD21 staining, consistent with EMZL. A multidisciplinary tumor board recommended involved-site radiotherapy to the masticator space combined with rituximab-based immunotherapy. This case represents a rare example of primary EMZL arising in the masticator space, which highlights the need to include lymphoma in the differential diagnosis of persistent head and neck masses, to obtain tissue diagnosis for infiltrative head and neck lesions and to coordinate organ-preserving treatment through multidisciplinary care.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41821719/",
+      "pmcid": "PMC12978411",
       "figure_urls": []
     },
     {
@@ -1403,7 +1459,6 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery",
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41715989/",
@@ -1413,38 +1468,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921365/bin/CRE2-12-e70309-g009.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921365/bin/CRE2-12-e70309-g007.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921365/bin/CRE2-12-e70309-g002.jpg"
-      ]
-    },
-    {
-      "pmid": "41705027",
-      "title": "Differential expression of CD74 and C1QB in jaw versus long bone osteosarcoma: Insights from animal models, public datasets and clinical cohorts.",
-      "authors": [
-        "Lalan Zhang",
-        "Jiaoyan Liu",
-        "Shengjie Shao",
-        "Xiang Liu",
-        "Liqin Zhang",
-        "Weihong Wang"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "This study aimed to investigate the differential expression of macrophage-related factors between jaw and long bone osteosarcoma, thereby providing potential candidates for future functional and mechanistic research. Twenty-four Sprague-Dawley (SD) rats were randomly divided into control, jaw osteosarcoma, and long bone osteosarcoma groups. UMR106 cells were implanted subcutaneously in nude mice, then tumors were transplanted into rat jaw and tibial bone marrow to establish osteosarcoma models. Bone changes were observed using Micro-CT, while histological changes were examined with H&E and Masson's trichrome staining. Transcriptome sequencing identified differentially expressed genes (DEGs), with the top three genes selected using Cytohubba software. Survival analysis was performed using the GEPIA database. A retrospective analysis was conducted on jaw osteosarcoma patients and long bone osteosarcoma patients from November 2014 to June 2023. Finally, immunohistochemical staining validated the expression levels of relevant proteins in both animal and clinical tissue samples. Micro-CT revealed significant bone destruction in both osteosarcoma models. Histological analysis revealed high pleomorphism in osteosarcoma cells, predominantly spindle and polygonal shapes, with evident pathological mitosis. Transcriptome sequencing identified 414 DEGs, including the top three: RT1-Da, CD74, and C1QB. Survival analysis showed high expression of CD74 and C1QB correlated positively with overall survival in patients with osteosarcoma. Immunohistochemistry demonstrated higher CD74 and C1QB expression in jaw osteosarcoma compared to long bone osteosarcoma in both rats and humans (P < 0.05). The expression levels of CD74 and C1QB were significantly higher in jaw osteosarcoma than in long bone osteosarcoma, suggesting that this differential expression may have clinical relevance for patient survival and warrants further investigation.",
-      "objective": "",
-      "study_methods": "Twenty-four Sprague-Dawley (SD) rats were randomly divided into control, jaw osteosarcoma, and long bone osteosarcoma groups. UMR106 cells were implanted subcutaneously in nude mice, then tumors were transplanted into rat jaw and tibial bone marrow to establish osteosarcoma models. Bone changes were observed using Micro-CT, while histological changes were examined with H&E and Masson's trichrome staining. Transcriptome sequencing identified differentially expressed genes (DEGs), with the top three genes selected using Cytohubba software. Survival analysis was performed using the GEPIA database. A retrospective analysis was conducted on jaw osteosarcoma patients and long bone osteosarcoma patients from November 2014 to June 2023. Finally, immunohistochemical staining validated the expression levels of relevant proteins in both animal and clinical tissue samples.",
-      "methods": "Twenty-four Sprague-Dawley (SD) rats were randomly divided into control, jaw osteosarcoma, and long bone osteosarcoma groups. UMR106 cells were implanted subcutaneously in nude mice, then tumors were transplanted into rat jaw and tibial bone marrow to establish osteosarcoma models. Bone changes were observed using Micro-CT, while histological changes were examined with H&E and Masson's trichrome staining. Transcriptome sequencing identified differentially expressed genes (DEGs), with the top three genes selected using Cytohubba software. Survival analysis was performed using the GEPIA database. A retrospective analysis was conducted on jaw osteosarcoma patients and long bone osteosarcoma patients from November 2014 to June 2023. Finally, immunohistochemical staining validated the expression levels of relevant proteins in both animal and clinical tissue samples.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41705027/",
-      "pmcid": "PMC12907127",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907127/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907127/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907127/bin/gr3.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12907127/bin/gr4.jpg"
       ]
     },
     {
@@ -1677,7 +1700,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41482746/",
-      "pmcid": "",
+      "pmcid": "PMC12980049",
       "figure_urls": []
     },
     {
@@ -1860,6 +1883,87 @@
       "figure_urls": []
     },
     {
+      "pmid": "41824280",
+      "title": "Association Between Anticholinergic Burden and Dry Mouth Severity in Acutely Ill Older Adults.",
+      "authors": [
+        "Ingrid Beate Ringstad",
+        "Eva Skovlund",
+        "Leonor Roa Santervas",
+        "Hege Kersten",
+        "Katrine Gahre Fjeld",
+        "Lene Hystad Hove",
+        "Torgeir Bruun Wyller",
+        "Janicke Liaaen Jensen",
+        "Rita Romskaug"
+      ],
+      "publication_date": "2026-Mar-13",
+      "publication_date_iso": "2026-03-13",
+      "abstract": "Dry mouth is a common and burdensome condition in older adults and its severity may increase with use of anticholinergic medications. The aims were to describe anticholinergic medication use among acutely ill older adults, examine the association between anticholinergic burden and dry mouth severity using the composite Dry Mouth Severity Points (DMSP) measure and investigate whether the association differs by sex. Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression. Of 382 examined patients, 256 (mean age 84 ± 7 years, 70% women) had complete data. Mean [standard deviation (SD)] ACB score was 2.0 (1.7); 18% had ACB = 0, 50% had ACB = 1-2 and 32% had ACB = ≥ 3. DMSP scores of 0, 1, 2 and ≥ 3 were present in 29%, 36%, 23% and 12%, respectively. Compared with patients with ACB = 0, those with ACB = 1-2 [odds ratio (OR) = 2.06, 95% confidence interval (CI) 1.07-3.97) and ACB = ≥ 3 (OR = 2.25, 95% CI 1.09-4.63) had higher odds of more severe dry mouth. Women had significantly higher ACB and DMSP scores than men. Even lower anticholinergic burden was associated with greater dry mouth severity, highlighting the need for early recognition and proactive management in acutely ill older adults.",
+      "objective": "were to describe anticholinergic medication use among acutely ill older adults, examine the association between anticholinergic burden and dry mouth severity using the composite Dry Mouth Severity Points (DMSP) measure and investigate whether the association differs by sex. Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression. Of 382 examined patients, 256 (mean age 84 ± 7 years, 70% women) had complete data. Mean [standard deviation (SD)] ACB score was 2.0 (1.7); 18% had ACB = 0, 50% had ACB = 1-2 and 32% had ACB = ≥ 3. DMSP scores of 0, 1, 2 and ≥ 3 were present in 29%, 36%, 23% and 12%, respectively. Compared with patients with ACB = 0, those with ACB = 1-2 [odds ratio (OR) = 2.06, 95% confidence interval (CI) 1.07-3.97) and ACB = ≥ 3 (OR = 2.25, 95% CI 1.09-4.63) had higher odds of more severe dry mouth. Women had significantly higher ACB and DMSP scores than men. Even lower anticholinergic burden was associated with greater dry mouth severity, highlighting the need for early recognition and proactive management in acutely ill older adults.",
+      "study_methods": "Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression.",
+      "methods": "Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41824280/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41821369",
+      "title": "Different Hyaluronic Acid-Based Formulations Exert Composition-Dependent Effects on Human Fibroblasts and Osteoblasts.",
+      "authors": [
+        "Caroline Viola Busch",
+        "Giulia Brunello",
+        "Kathrin Becker",
+        "Jürgen Becker",
+        "Elena Calciolari",
+        "Benedetta Ghezzi"
+      ],
+      "publication_date": "2026-Mar-12",
+      "publication_date_iso": "2026-03-12",
+      "abstract": "Hyaluronic (HA)-based materials show composition- and concentration-dependent responses. Proper formulation and dosage selection are key for clinical application.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41821369/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41820871",
+      "title": "Tooth mobility revealing a brown tumor associated with normocalcemic hyperparathyroidism: case report and literature review.",
+      "authors": [
+        "Sara Boukssim",
+        "Amal Damiri",
+        "Bassima Chami"
+      ],
+      "publication_date": "2026-Mar-12",
+      "publication_date_iso": "2026-03-12",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41820871/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41817921",
       "title": "Factors associated with single versus multiple supernumerary teeth in a paediatric population: a cross-sectional study.",
       "authors": [
@@ -1913,6 +2017,29 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41816816/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41820093",
+      "title": "Alveolar Bone Grafting.",
+      "authors": [
+        "David L Best",
+        "Bonnie L Padwa"
+      ],
+      "publication_date": "2026-Mar-11",
+      "publication_date_iso": "2026-03-11",
+      "abstract": "Alveolar cleft bone grafting is a critical component in the comprehensive surgical management of patients with cleft lip and palate. This article highlights the essential aspects of preoperative evaluation, optimal timing, orthodontic and recipient site preparation, premaxillary osteotomy with repositioning, iliac crest harvest (anterior and posterior), alternative bone graft options, and postoperative management.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41820093/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2054,6 +2181,33 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41692449/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41819450",
+      "title": "Frontal facial analysis of male celebrities attractiveness standards through artificial intelligence.",
+      "authors": [
+        "Ricardo Grillo",
+        "Thiago José Domingues de Andrade",
+        "Luiz Augusto Rodrigues Dos Santos",
+        "Sahand Samieirad",
+        "Lais Albuquerque Fernandes",
+        "Fernando Melhem-Elias"
+      ],
+      "publication_date": "2026-Mar-10",
+      "publication_date_iso": "2026-03-10",
+      "abstract": "The modern emphasis on celebrities' facial features highlights their increasing role in defining beauty ideals. This retrospective study used artificial intelligence to examine how facial patterns influence attractiveness standards in the profile views of male celebrities. It aimed to compare different racial groups and establish potential benchmarks for appealing facial profiles. In this retrospective cohort study, a Python-based algorithm analyzed frontal facial patterns and their effect on aesthetic standards using publicly available images of male celebrities worldwide. Eight ideal angular or proportional measurements, identified from existing literature, were trained as a reference for assessing facial attractiveness. Demographic data were summarized statistically. A one-way ANOVA test was used to evaluate data distribution, and differences between group means were analyzed with nonparametric independent sample tests, considering results statistically significant at p<0.05. Facial analysis of 156 male celebrities across six ethnic groups revealed both universal patterns and subtle ethnic variations. A fundamental lower > superior > middle facial third hierarchy was confirmed across all groups with the lower third being dominant (p<0.001). The zygomatic-mandibular ratio showed remarkable stability (approx. 90%) and homogeneity across populations, despite significant differences in absolute dimensions (p<0.001). Key proportional relationships (e.g., nose-to-mouth ratio: 0.70-0.73) were more consistent than absolute measurements. Significant intergroup differences in morphological variability were identified (p=0.001), with Africans demonstrating the greatest amplitude in the lower third and highest Coefficient of Variation. Facial asymmetry patterns varied by ethnicity, with overall asymmetry significantly greater than ocular asymmetry in all groups (p<0.001). Cross-gender comparison revealed key dimorphic patterns: attractive male faces approximate a 90% zygomatic-mandibular ratio, favoring square/trapezoidal shapes, while attractive female faces cluster around 80% with greater chin projection. Irrespective of race background, an appealing male face is characterized by a zygomatic-to-mandibular width ratio nearing 90%, a low-facial third that is larger than the mid third, contributing to a trapezoidal or square facial shape. The findings contribute valuable insights into attractive standards and the impact of frontal patterns on esthetic canons in male celebrities.",
+      "objective": "",
+      "study_methods": "In this retrospective cohort study, a Python-based algorithm analyzed frontal facial patterns and their effect on aesthetic standards using publicly available images of male celebrities worldwide. Eight ideal angular or proportional measurements, identified from existing literature, were trained as a reference for assessing facial attractiveness. Demographic data were summarized statistically. A one-way ANOVA test was used to evaluate data distribution, and differences between group means were analyzed with nonparametric independent sample tests, considering results statistically significant at p<0.05.",
+      "methods": "In this retrospective cohort study, a Python-based algorithm analyzed frontal facial patterns and their effect on aesthetic standards using publicly available images of male celebrities worldwide. Eight ideal angular or proportional measurements, identified from existing literature, were trained as a reference for assessing facial attractiveness. Demographic data were summarized statistically. A one-way ANOVA test was used to evaluate data distribution, and differences between group means were analyzed with nonparametric independent sample tests, considering results statistically significant at p<0.05.",
+      "results": "statistically significant at p<0.05. Facial analysis of 156 male celebrities across six ethnic groups revealed both universal patterns and subtle ethnic variations. A fundamental lower > superior > middle facial third hierarchy was confirmed across all groups with the lower third being dominant (p<0.001). The zygomatic-mandibular ratio showed remarkable stability (approx. 90%) and homogeneity across populations, despite significant differences in absolute dimensions (p<0.001). Key proportional relationships (e.g., nose-to-mouth ratio: 0.70-0.73) were more consistent than absolute measurements. Significant intergroup differences in morphological variability were identified (p=0.001), with Africans demonstrating the greatest amplitude in the lower third and highest Coefficient of Variation. Facial asymmetry patterns varied by ethnicity, with overall asymmetry significantly greater than ocular asymmetry in all groups (p<0.001). Cross-gender comparison revealed key dimorphic patterns: attractive male faces approximate a 90% zygomatic-mandibular ratio, favoring square/trapezoidal shapes, while attractive female faces cluster around 80% with greater chin projection. Irrespective of race background, an appealing male face is characterized by a zygomatic-to-mandibular width ratio nearing 90%, a low-facial third that is larger than the mid third, contributing to a trapezoidal or square facial shape. The findings contribute valuable insights into attractive standards and the impact of frontal patterns on esthetic canons in male celebrities.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41819450/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2396,142 +2550,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967438/bin/10006_2026_1535_Fig3_HTML.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967438/bin/10006_2026_1535_Fig4_HTML.jpg"
       ]
-    },
-    {
-      "pmid": "41792566",
-      "title": "An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Application.",
-      "authors": [
-        "Chenyao Li",
-        "Yan Guo",
-        "Rong Yang",
-        "Xiaojun Chen",
-        "Shanyong Zhang"
-      ],
-      "publication_date": "2026-Mar-06",
-      "publication_date_iso": "2026-03-06",
-      "abstract": "Mandibular reconstruction suffers from limitations in automation and objectivity. This study aimed to develop an automated framework to address these challenges. A novel approach combining statistical shape modeling and 3D deep learning was developed. Trained on 200 CT scans and validated in 80 clinical cases, its performance was compared to expert manual planning by evaluating reconstruction accuracy, bone contact area, and planning time. Finally, design experiments were performed in five clinical cases. The automated method demonstrated high accuracy (DSC: 0.874) and real-time efficiency. It significantly outperformed manual planning in bone contact area (106.2 vs. 94.6 mm2) and reduced planning time by 85%. Postoperative results showed excellent implant alignment (2.1 mm deviation) and high patient satisfaction. The proposed automated framework successfully enhances the efficiency and quality of mandibular reconstruction, meeting clinical needs. Future work will integrate more complex biomechanical considerations.",
-      "objective": "",
-      "study_methods": "A novel approach combining statistical shape modeling and 3D deep learning was developed. Trained on 200 CT scans and validated in 80 clinical cases, its performance was compared to expert manual planning by evaluating reconstruction accuracy, bone contact area, and planning time. Finally, design experiments were performed in five clinical cases.",
-      "methods": "A novel approach combining statistical shape modeling and 3D deep learning was developed. Trained on 200 CT scans and validated in 80 clinical cases, its performance was compared to expert manual planning by evaluating reconstruction accuracy, bone contact area, and planning time. Finally, design experiments were performed in five clinical cases.",
-      "results": "showed excellent implant alignment (2.1 mm deviation) and high patient satisfaction. The proposed automated framework successfully enhances the efficiency and quality of mandibular reconstruction, meeting clinical needs. Future work will integrate more complex biomechanical considerations.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41792566/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41792292",
-      "title": "Mapping support for systems clinical leadership in North West Local Dental Networks.",
-      "authors": [
-        "Francesca Hilton",
-        "Deborah Moore",
-        "Emma Hall-Scullin",
-        "Yvonne Dailey"
-      ],
-      "publication_date": "2026-Mar-06",
-      "publication_date_iso": "2026-03-06",
-      "abstract": "Aims Local Dental Networks (LDNs) and Managed Clinical Networks (MCNs) were created to strengthen clinical leadership within dental commissioning in England. This project aims to map the current system structures and governance of such clinical leadership networks within the North West.Methods An online survey was developed, informed by national guidance on LDNs and MCNs. Snowball sampling was used to identify all LDN and MCN chairs in the North West.Results All three LDNs had a funded chair, current terms of reference, a defined conflict of interest process, met at least quarterly, reported outcomes, and all chairs had received role-specific training. There was greater variation in availability of: annual workplans, longer-term strategic plans, funding for MCN chairs, having MCNs for orthodontics, oral surgery, paediatrics, restorative and special care dentistry, and patient representatives. No MCN chairs had received role-specific training. Guidance for LDNs and MCNs is dispersed and has not been updated recently.Conclusion LDNs have more complete MCNs in some areas than others. This may be due to differences in their structure, governance, and investment. Funding or protected time for network chairs, role-specific training, and updated national guidance on minimum expectations were highlighted as potential system enablers for clinical leadership.",
-      "objective": "Local Dental Networks (LDNs) and Managed Clinical Networks (MCNs) were created to strengthen clinical leadership within dental commissioning in England. This project aims to map the current system structures and governance of such clinical leadership networks within the North West.",
-      "study_methods": "",
-      "methods": "",
-      "results": "All three LDNs had a funded chair, current terms of reference, a defined conflict of interest process, met at least quarterly, reported outcomes, and all chairs had received role-specific training. There was greater variation in availability of: annual workplans, longer-term strategic plans, funding for MCN chairs, having MCNs for orthodontics, oral surgery, paediatrics, restorative and special care dentistry, and patient representatives. No MCN chairs had received role-specific training. Guidance for LDNs and MCNs is dispersed and has not been updated recently.",
-      "conclusion": "LDNs have more complete MCNs in some areas than others. This may be due to differences in their structure, governance, and investment. Funding or protected time for network chairs, role-specific training, and updated national guidance on minimum expectations were highlighted as potential system enablers for clinical leadership.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41792292/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41791720",
-      "title": "Ondansetron Prevents Nausea and Vomiting After Orthognathic Surgery.",
-      "authors": [
-        "Emi Fujioka",
-        "Hiroshi Hanamoto",
-        "Fumi Kozu",
-        "Yayoi Morita",
-        "Risa Kimura",
-        "Hiromu Nagira",
-        "Hitoshi Niwa"
-      ],
-      "publication_date": "2026-Mar-06",
-      "publication_date_iso": "2026-03-06",
-      "abstract": "We compared the incidence of postoperative nausea and vomiting (PONV) in patients undergoing orthognathic surgery under total intravenous anesthesia using propofol with and without ondansetron. Data on PONV within 24 hours after surgery, fentanyl and ondansetron dosing, demographic parameters, smoking history, and prior PONV were retrospectively extracted from the medical records of 291 patients. After propensity score matching, 78 patients were included in the ondansetron and control groups. The incidence of PONV was significantly lower in the ondansetron group (21%) than in the control group (36%; P = .033), whereas the incidence of postoperative headache was comparable. Ondansetron effectively reduced PONV without increasing headaches.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41791720/",
-      "pmcid": "PMC12976874",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41790271",
-      "title": "The true benefit of the regional block in orthognathic surgery lies in the preemptive effect.",
-      "authors": [
-        "David Harmicar",
-        "Margita Belušić",
-        "Ana Goleš Juriša",
-        "Željko Župan",
-        "Arijan Zubović",
-        "Robert Cerović"
-      ],
-      "publication_date": "2026-Mar-06",
-      "publication_date_iso": "2026-03-06",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41790271/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41790058",
-      "title": "Three-dimensional analysis of the horizontal condylar angle in the temporomandibular joint: Morphology and surgical implications.",
-      "authors": [
-        "Mingqi Ma",
-        "Yi Mao",
-        "Xuzhuo Chen",
-        "Tianhao Wan",
-        "Baoting Fan",
-        "Yating Qiu",
-        "Shanyong Zhang",
-        "Shaoyi Wang"
-      ],
-      "publication_date": "2026-Mar-06",
-      "publication_date_iso": "2026-03-06",
-      "abstract": "To develop a 3D measurement for horizontal condylar angle (HCA) and investigate its distribution across skeletal patterns and changes following orthognathic and disc repositioning sur-geries. Using a 3D reconstruction approach, 90 non-surgical patients were analyzed for HCA distribution. Surgical effects were evaluated in 50 orthognathic patients (preoperative, post-operative, and follow-up) and 30 disc repositioning patients (preoperative and >1 year postoperative). HCA differed significantly among skeletal patterns (Class II: 23.97±11.81°; Class I: 19.05±11.03°; Class III: 13.61±7.35°). Mandibular advancement caused no immediate change but showed a reduction at follow-up, whereas mandibular setback resulted in a significant immediate increase that remained stable over time. In the disc repositioning group, HCA decreased significantly after surgery. HCA exhibits a skeletal pattern-specific distribution and adaptive changes following surgery. HCA serves as a simple and reproducible imaging descriptor for documenting morphological adaptation.",
-      "objective": "",
-      "study_methods": "Using a 3D reconstruction approach, 90 non-surgical patients were analyzed for HCA distribution. Surgical effects were evaluated in 50 orthognathic patients (preoperative, post-operative, and follow-up) and 30 disc repositioning patients (preoperative and >1 year postoperative).",
-      "methods": "Using a 3D reconstruction approach, 90 non-surgical patients were analyzed for HCA distribution. Surgical effects were evaluated in 50 orthognathic patients (preoperative, post-operative, and follow-up) and 30 disc repositioning patients (preoperative and >1 year postoperative).",
-      "results": "ed in a significant immediate increase that remained stable over time. In the disc repositioning group, HCA decreased significantly after surgery. HCA exhibits a skeletal pattern-specific distribution and adaptive changes following surgery. HCA serves as a simple and reproducible imaging descriptor for documenting morphological adaptation.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery",
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41790058/",
-      "pmcid": "",
-      "figure_urls": []
     }
   ]
 }
