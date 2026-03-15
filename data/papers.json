@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T04:15:08Z",
+  "updated_at": "2026-03-15T04:36:40Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -530,6 +530,32 @@
       ]
     },
     {
+      "pmid": "41579689",
+      "title": "A promising strategy to rapidly expand high-quality human limbal stem cells for tissue engineering and cornea reconstruction.",
+      "authors": [
+        "Keng-Liang Ou",
+        "Hsieh-Tsung Shen",
+        "Chi-Hsun Tsai",
+        "Takashi Saito",
+        "Chia-Yu Wu"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "The present study investigated a promising strategy for scaling up the expansion of high-quality human limbal stem cells (LSCs) in vitro. The LSCs isolated from human cornea biopsies were cultured with Mitomycin-C (MMC)-treated Swiss-3T3 feeder layers using three different methods: LSCs with MMC-treated Swiss-3T3 (L with MS), LSCs on MMC-treated Swiss-3T3 (L on MS), and LSCs on reverse MMC-treated Swiss-3T3 (L on RMS). Cell morphology, purity, and differentiation during culture were examined through light microscopy, flow cytometry, immunofluorescence staining, and reverse transcription-polymerase chain reaction (RT-PCR). Results showed that the LSCs continued to grow and exhibited the highest expression of p63 + cells (99.5 ± 0.5 %) in the L on RMS method. After 7 days of culture, the L on RMS method exhibited a significantly higher cell expansion rate than the L with MS method (**p < 0.01). Moreover, RT-PCR demonstrated that the cultured LSCs could naturally differentiate into epithelial cells, indicated by K3 expression. The cells could also efficiently form colonies while maintaining their stem cell markers. Therefore, the L on RMS method is promising for rapidly expanding high-quality LSCs and preserving their growth and stemness for corneal tissue engineering and reconstructive surgery.",
+      "objective": "",
+      "study_methods": "methods: LSCs with MMC-treated Swiss-3T3 (L with MS), LSCs on MMC-treated Swiss-3T3 (L on MS), and LSCs on reverse MMC-treated Swiss-3T3 (L on RMS). Cell morphology, purity, and differentiation during culture were examined through light microscopy, flow cytometry, immunofluorescence staining, and reverse transcription-polymerase chain reaction (RT-PCR). Results showed that the LSCs continued to grow and exhibited the highest expression of p63 + cells (99.5 ± 0.5 %) in the L on RMS method. After 7 days of culture, the L on RMS method exhibited a significantly higher cell expansion rate than the L with MS method (**p < 0.01). Moreover, RT-PCR demonstrated that the cultured LSCs could naturally differentiate into epithelial cells, indicated by K3 expression. The cells could also efficiently form colonies while maintaining their stem cell markers. Therefore, the L on RMS method is promising for rapidly expanding high-quality LSCs and preserving their growth and stemness for corneal tissue engineering and reconstructive surgery.",
+      "methods": "methods: LSCs with MMC-treated Swiss-3T3 (L with MS), LSCs on MMC-treated Swiss-3T3 (L on MS), and LSCs on reverse MMC-treated Swiss-3T3 (L on RMS). Cell morphology, purity, and differentiation during culture were examined through light microscopy, flow cytometry, immunofluorescence staining, and reverse transcription-polymerase chain reaction (RT-PCR). Results showed that the LSCs continued to grow and exhibited the highest expression of p63 + cells (99.5 ± 0.5 %) in the L on RMS method. After 7 days of culture, the L on RMS method exhibited a significantly higher cell expansion rate than the L with MS method (**p < 0.01). Moreover, RT-PCR demonstrated that the cultured LSCs could naturally differentiate into epithelial cells, indicated by K3 expression. The cells could also efficiently form colonies while maintaining their stem cell markers. Therefore, the L on RMS method is promising for rapidly expanding high-quality LSCs and preserving their growth and stemness for corneal tissue engineering and reconstructive surgery.",
+      "results": "showed that the LSCs continued to grow and exhibited the highest expression of p63 + cells (99.5 ± 0.5 %) in the L on RMS method. After 7 days of culture, the L on RMS method exhibited a significantly higher cell expansion rate than the L with MS method (**p < 0.01). Moreover, RT-PCR demonstrated that the cultured LSCs could naturally differentiate into epithelial cells, indicated by K3 expression. The cells could also efficiently form colonies while maintaining their stem cell markers. Therefore, the L on RMS method is promising for rapidly expanding high-quality LSCs and preserving their growth and stemness for corneal tissue engineering and reconstructive surgery.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41579689/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41456504",
       "title": "Plasmon-boosted titanium nitride-based nanoplatform for synergistic photothermal-chemodynamic cancer therapy with smart degradability.",
       "authors": [
@@ -589,7 +615,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41789672/",
       "pmcid": "PMC12981022",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12981022/bin/or-55-05-09088-g00.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12981022/bin/or-55-05-09088-g00.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12981022/bin/or-55-05-09088-g01.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12981022/bin/or-55-05-09088-g01.gif"
+      ]
     },
     {
       "pmid": "41747404",
@@ -1089,6 +1120,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "41826006",
+      "title": "Artificial Intelligence in Diagnostic Oral and Maxillofacial Imaging, Surgical Applications, and Teledentistry.",
+      "authors": [
+        "Mel Mupparapu",
+        "Neeraj Panchal",
+        "Irene H Kim",
+        "Steven R Singer",
+        "Andres Pinto"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "The article deals with the utilization of artificial intelligence (AI) and related technologies for the diagnosis of oral and maxillofacial anatomic variants and pathologic entities. The diagnosis of dental caries and periodontal disease is the most common aspect of dental diagnosis in a general dental setting and so, there was a subsection for this topic. There are dedicated portions within this article on applications of AI for oral and maxillofacial surgery.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery",
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41826006/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41821719",
       "title": "Extranodal Marginal Zone B-cell Lymphoma Presenting as a Painless Buccal Mass in the Masticator Space.",
       "authors": [
@@ -1109,7 +1167,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41821719/",
       "pmcid": "PMC12978411",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12978411/bin/jmc-17-04-170-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12978411/bin/jmc-17-04-170-g002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12978411/bin/jmc-17-04-170-g003.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12978411/bin/jmc-17-04-170-g004.jpg"
+      ]
     },
     {
       "pmid": "41809384",
@@ -1333,74 +1396,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41734605/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "41719953",
-      "title": "Research Trends in Autogenous Dentin Graft: A Bibliometric and Cluster Analysis (2006-2025).",
-      "authors": [
-        "Yang Guo",
-        "Chenghao Tong",
-        "Tian Wang",
-        "Lijuan Zhou",
-        "Meichao Wang"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Autogenous dentin graft (ADG) represents a promising autologous grafting material for bone reconstruction, owing to its low immunogenicity, inherent osteoinductive properties, and straightforward processing. This study employs bibliometric analysis to examine the research progress and emerging trends in ADG, assessing the scholarly contributions of institutions, journals, and authors from different countries and regions. Publications on ADG from 2006 to 2025 were retrieved from the Web of Science Core Collection database. Bibliometric and visual analyses were performed using VOSviewer, CiteSpace, and R package 'bibliometric'. A total of 559 publications on ADG were identified. China led in research output with 61 articles, and Seoul National University was the most prolific institution, contributing 67 publications. Kim Young-Kyun emerged as the leading author, with an H-index of 18 and 23 publications. The Clinical Oral Implants Research was the most influential journal contributing the most publications. Keywords cluster analysis showed 4 main clusters were identified, including ADG for implant placement, ADG for alveolar ridge augmentation, combination with other materials and advantages of ADG. Keywords burst analysis showed emerging interests in 'guided bone regeneration' (2022-2025) and 'growth factors' (2023-2025). This bibliometric analysis provides an overview of global research trends in ADG. The frontiers in this field may be validation of efficacy of the demineralized ADG-derived membrane and development of standardized protocol for demineralized ADG to further improve patient prognosis.",
-      "objective": "",
-      "study_methods": "Publications on ADG from 2006 to 2025 were retrieved from the Web of Science Core Collection database. Bibliometric and visual analyses were performed using VOSviewer, CiteSpace, and R package 'bibliometric'.",
-      "methods": "Publications on ADG from 2006 to 2025 were retrieved from the Web of Science Core Collection database. Bibliometric and visual analyses were performed using VOSviewer, CiteSpace, and R package 'bibliometric'.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41719953/",
-      "pmcid": "PMC12933813",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933813/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933813/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933813/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933813/bin/gr2.gif"
-      ]
-    },
-    {
-      "pmid": "41716351",
-      "title": "Intelligent nanoliposome ameliorate chronic intermittent hypoxia-mediated neuronal injury via a dual regulation microglial inflammation strategy.",
-      "authors": [
-        "Hongwei Wang",
-        "Xu Wang",
-        "Yun Zhu",
-        "Zhiyuan Niu",
-        "Xiwen Ou",
-        "Weiyu Zhang",
-        "Shuting Zhuang",
-        "Yun Ke",
-        "Fan Yang",
-        "Mingliang Pei",
-        "Song Liu"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "The etiology of obstructive sleep apnea syndrome (OSAS)-associated cognitive dysfunction is unclear and complex. There is growing evidence demonstrate that hyper-activated neuroinflammation, M1 phenotypic microglia polarization, and subsequent neuronal inflammatory damage induced by chronic intermittent hypoxia (CIH) pose a crucial role in OSAS-related cognitive dysfunction. However, the regulatory mechanisms remain unclear, and during treatment, there are inevitable issues with small molecule drugs such as hydrophobicity, lack of targeting, and uncontrolled dosages, especially their inability to cross the blood-brain barrier (BBB), which severely hinders the treatment of CIH related cognitive dysfunction. Herein, a \"dual regulation\" microglial inflammation strategy was proposed using intelligent nanoliposomes (Ang-Lip@BAY/GW1929), capable of simultaneously regulating PPARγ signaling and IκBα/p65 pathway to reverse the inflammatory microglia transformation. The cationic Ang-Lip@BAY/GW1929 was innovatively used for the dual-targeted identification of CIH-activated microglia that highly express LRP-1 and carry a negative surface charge, to achieve efficient delivery and release of drugs. Simultaneously, PPARγ agonist (GW1929), and IκBα phosphorylation inhibitor (BAY) were delivered from ROS-responsive Ang-Lip@BAY/GW1929 to coordinate the inhibition of NF-κB pathway through PPARγ and IκBα/p65 signaling to systemically regulate microglial polarization, neuroinflammation, neuronal damage, and cognitive dysfunction. Collectively, the study proposed strategies for building bio-targeted liposome-based nanovector to relieve CIH-induced neuron injury, and systematically described treatment mechanisms on CIH related impairment, opening a new path for the treatment of CIH related cognitive dysfunction.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41716351/",
-      "pmcid": "PMC12914687",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12914687/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12914687/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12914687/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12914687/bin/sc1.gif"
-      ]
     },
     {
       "pmid": "41716349",
@@ -1701,7 +1696,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41482746/",
       "pmcid": "PMC12980049",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12980049/bin/JOOR-53-866-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12980049/bin/JOOR-53-866-g002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12980049/bin/JOOR-53-866-g003.jpg"
+      ]
     },
     {
       "pmid": "41431257",
@@ -1879,6 +1878,33 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41633014/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41830126",
+      "title": "Evaluation of 4 Different Suture Threads in A Sample of Dentistry Suture-Naïve Students: A Randomised Controlled Trial.",
+      "authors": [
+        "Simeone Davide",
+        "Marcattili Domenico",
+        "Casalena Fabio",
+        "Tarallo Francesco",
+        "Liguori Margherita Giorgia",
+        "Marchetti Enrico"
+      ],
+      "publication_date": "2026-Mar-13",
+      "publication_date_iso": "2026-03-13",
+      "abstract": "Suturing is a crucial step in oral surgery, directly affecting wound healing quality. Simple interrupted suture is widely used in dentistry, often performed by novices using silk sutures due to their ease of use and low cost. However, several alternatives could also be suitable for less experienced practitioners. Dental students attending the University of L'Aquila with no prior suturing experience were assigned to use each of the four suture materials on pig hemi-mandibles in a random order. Silk, Polyamide, Polyglycolic acid and Polytetrafluoroethylene were tested. Subjective feedback was collected through Likert-scale questionnaires assessing handling, knot security and ease of removal from 101 subjects (study A). Objective performance was evaluated using a structured OSCE-based assessment, focusing on key suturing phases such as needle handling, suture passage, knot formation and flap approximation in a population of 60 students randomly selected among the considered subjects (study B). Statistically significant differences (p < 0.05) were found in specific aspects as tissue passage resistance, suture manoeuvrability, first knot execution and flap approximation, favouring some materials over silk. Although many other parameters did not reach statistical significance, the data consistently showed that silk did not outperform the alternative materials in any domain, suggesting that its common use is not supported by superior handling or performance. Silk does not provide superior handling compared to the other tested materials. Universities' training programmes should incorporate alternative suture materials to improve students' technical skills and the overall quality of suturing.",
+      "objective": "performance was evaluated using a structured OSCE-based assessment, focusing on key suturing phases such as needle handling, suture passage, knot formation and flap approximation in a population of 60 students randomly selected among the considered subjects (study B). Statistically significant differences (p < 0.05) were found in specific aspects as tissue passage resistance, suture manoeuvrability, first knot execution and flap approximation, favouring some materials over silk. Although many other parameters did not reach statistical significance, the data consistently showed that silk did not outperform the alternative materials in any domain, suggesting that its common use is not supported by superior handling or performance. Silk does not provide superior handling compared to the other tested materials. Universities' training programmes should incorporate alternative suture materials to improve students' technical skills and the overall quality of suturing.",
+      "study_methods": "Dental students attending the University of L'Aquila with no prior suturing experience were assigned to use each of the four suture materials on pig hemi-mandibles in a random order. Silk, Polyamide, Polyglycolic acid and Polytetrafluoroethylene were tested. Subjective feedback was collected through Likert-scale questionnaires assessing handling, knot security and ease of removal from 101 subjects (study A). Objective performance was evaluated using a structured OSCE-based assessment, focusing on key suturing phases such as needle handling, suture passage, knot formation and flap approximation in a population of 60 students randomly selected among the considered subjects (study B).",
+      "methods": "Dental students attending the University of L'Aquila with no prior suturing experience were assigned to use each of the four suture materials on pig hemi-mandibles in a random order. Silk, Polyamide, Polyglycolic acid and Polytetrafluoroethylene were tested. Subjective feedback was collected through Likert-scale questionnaires assessing handling, knot security and ease of removal from 101 subjects (study A). Objective performance was evaluated using a structured OSCE-based assessment, focusing on key suturing phases such as needle handling, suture passage, knot formation and flap approximation in a population of 60 students randomly selected among the considered subjects (study B).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41830126/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2330,6 +2356,38 @@
       "figure_urls": []
     },
     {
+      "pmid": "41828887",
+      "title": "",
+      "authors": [
+        "Nada Tawfig Hashim",
+        "Rasha Babiker",
+        "Riham Mohammed",
+        "Mariam Elsheikh",
+        "Vivek Padmanabhan",
+        "Md Sofiqul Islam",
+        "Malaz Gesm Elseed",
+        "Nallan C S K Chaitanya",
+        "Bogahawatte Samarakoon Mudiyanselage Samadarani Siriwardena",
+        "Muhammed Mustahsen Rahman",
+        "Bakri Gobara Gismalla"
+      ],
+      "publication_date": "2026-Mar-09",
+      "publication_date_iso": "2026-03-09",
+      "abstract": "Periodontal disease and oral squamous cell carcinoma (OSCC) are highly prevalent conditions that contribute substantially to global morbidity, as documented by recent Global Burden of Disease analyses. The growing epidemiologic and experimental literature has prompted interest in potential links between chronic periodontal dysbiosis-particularly infection with Porphyromonas gingivalis-and molecular pathways involved in oral carcinogenesis, including β-catenin signaling. This narrative review synthesizes epidemiologic, clinical, and experimental studies examining associations between periodontal disease, P. gingivalis, and OSCC, with focused evaluation of β-catenin as a context-dependent signaling component within broader inflammatory and metabolic networks. Population-based studies report heterogeneous associations between periodontitis and OSCC that are frequently confounded by tobacco use, alcohol consumption, and socioeconomic factors, supporting correlation rather than causal inference. Experimental investigations in vitro and in vivo demonstrate that P. gingivalis can influence β-catenin availability and transcriptional activity through noncanonical mechanisms, including junctional disruption, proteolytic interference with regulatory complexes, and interaction with inflammatory, immune, and metabolic pathways. However, these findings derive largely from simplified model systems and should be interpreted as biologically plausible rather than definitive for human disease. Rather than acting as a dominant oncogenic driver, β-catenin appears to function as an integrative signaling node within a complex network shaped by chronic microbial and inflammatory stress. The principal contribution of this review lies in critically integrating dispersed evidence across study types while explicitly distinguishing association, mechanistic plausibility, and causality. Future longitudinal human studies and mechanistically informed experimental models are required to clarify whether modulation of periodontal dysbiosis or associated signaling pathways has relevance for OSCC risk assessment or prevention.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41828887/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41807241",
       "title": "Orthognathic occlusal setups: a comparative analysis of in-house and industry-generated splints.",
       "authors": [
@@ -2488,68 +2546,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41796188/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "41793727",
-      "title": "Emotional regulation, empathy and surgical performance inundergraduate dental students: A prospective cohort study.",
-      "authors": [
-        "A-B Pérez",
-        "I-M Mayoral",
-        "C de-la-Rosa-Gay",
-        "M-G García",
-        "M Aguilera",
-        "R Figueiredo",
-        "E Valmaseda-Castellón",
-        "A Sánchez-Torres"
-      ],
-      "publication_date": "2026-Mar-07",
-      "publication_date_iso": "2026-03-07",
-      "abstract": "Dental students experience high stress from academic and clinical demands, which may affect performance and well-being. Surgical procedures often increase patient anxiety, adding complexity for students. This study explored the relationship between perceived difficulty, emotional regulation, and empathy, and their impact on clinical outcomes and patient satisfaction. A prospective cohort study included fourth-year dental students in the Clinical Oral Surgery and Implantology subject at the University of Barcelona Dental Hospital. Data collected comprised demographics, emotional regulation difficulties, and preoperative anxiety, using validated questionnaires. Procedure-related variables (perceived difficulty, operative time, complications) and patient data (anxiety, perceived empathy, satisfaction) were recorded. Thirty-six students performed 108 extractions on 72 patients, with a mean operative time of 38.2±19.9 minutes. Emotional regulation difficulties were not associated with surgical difficulty, empathy, operative time, or complications. Interestingly, patient state anxiety was significantly related to higher difficulty on emotional regulation by the undergraduate. No significant correlation was found between patient anxiety and number of visits. Perceived empathy positively correlated to patient satisfaction. Empathy and emotional regulation are essential for enhancing patient experience and outcomes. Our findings suggest that students' emotional regulation difficulties are related to situational anxiety during clinical encounters. These results support integrating interpersonal skills into dental education to improve clinical practice and patient-centered care.",
-      "objective": "",
-      "study_methods": "A prospective cohort study included fourth-year dental students in the Clinical Oral Surgery and Implantology subject at the University of Barcelona Dental Hospital. Data collected comprised demographics, emotional regulation difficulties, and preoperative anxiety, using validated questionnaires. Procedure-related variables (perceived difficulty, operative time, complications) and patient data (anxiety, perceived empathy, satisfaction) were recorded.",
-      "methods": "A prospective cohort study included fourth-year dental students in the Clinical Oral Surgery and Implantology subject at the University of Barcelona Dental Hospital. Data collected comprised demographics, emotional regulation difficulties, and preoperative anxiety, using validated questionnaires. Procedure-related variables (perceived difficulty, operative time, complications) and patient data (anxiety, perceived empathy, satisfaction) were recorded.",
-      "results": "support integrating interpersonal skills into dental education to improve clinical practice and patient-centered care.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41793727/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41793483",
-      "title": "Excessive intraoperative hemorrhage during orthognathic surgery in a patient with neurofibromatosis type 1: a case report and literature review.",
-      "authors": [
-        "Nobuyuki Sasahara",
-        "Kazuyuki Yusa",
-        "Mao Nishikawa",
-        "Satoshi Kasuya",
-        "Masaru Satomi",
-        "Shigeo Ishikawa"
-      ],
-      "publication_date": "2026-Mar-07",
-      "publication_date_iso": "2026-03-07",
-      "abstract": "Neurofibromatosis type 1 (NF1) is an autosomal dominant disorder caused by NF1 gene mutations, resulting in neurofibromin deficiency and vascular fragility. Although excessive hemorrhage during surgery has been reported in patients with NF1, such complications during orthognathic surgery are extremely rare. A 26-year-old woman with NF1 presented with skeletal Class II malocclusion. Preoperative contrast-enhanced computed tomography and magnetic resonance imaging revealed no neurofibromas along the airway or near the surgical field. Le Fort I osteotomy and bilateral sagittal split ramus osteotomies were planned following orthodontic treatment. Considering the bleeding risk associated with NF1, 600 mL of autologous blood was collected preoperatively. During surgery, persistent diffuse microvascular bleeding occured without identifiable vessel injury. The total intraoperative estimated blood loss was 1,715 mL, approximately five times higher than the average value reported for combined Le Fort I osteotomy and bilateral sagittal split ramus osteotomies. Hemostasis was achieved using oxidized cellulose compression. The patient received autologous blood transfusion only and recovered without allogeneic transfusion. Postoperative hemoglobin improved gradually with oral iron therapy, and the patient was discharged on postoperative day 16 without further complications. This case highlights the potential for excessive hemorrhage during orthognathic surgery in a patient with NF1, even in the absence of apparent neurofibromas. Comprehensive preoperative vascular assessment and autologous blood preparation are essential. Surgeons should be prepared for prompt hemostatic management to ensure safe surgical outcomes in patients with NF1.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in neurofibromin deficiency and vascular fragility. Although excessive hemorrhage during surgery has been reported in patients with NF1, such complications during orthognathic surgery are extremely rare. A 26-year-old woman with NF1 presented with skeletal Class II malocclusion. Preoperative contrast-enhanced computed tomography and magnetic resonance imaging revealed no neurofibromas along the airway or near the surgical field. Le Fort I osteotomy and bilateral sagittal split ramus osteotomies were planned following orthodontic treatment. Considering the bleeding risk associated with NF1, 600 mL of autologous blood was collected preoperatively. During surgery, persistent diffuse microvascular bleeding occured without identifiable vessel injury. The total intraoperative estimated blood loss was 1,715 mL, approximately five times higher than the average value reported for combined Le Fort I osteotomy and bilateral sagittal split ramus osteotomies. Hemostasis was achieved using oxidized cellulose compression. The patient received autologous blood transfusion only and recovered without allogeneic transfusion. Postoperative hemoglobin improved gradually with oral iron therapy, and the patient was discharged on postoperative day 16 without further complications. This case highlights the potential for excessive hemorrhage during orthognathic surgery in a patient with NF1, even in the absence of apparent neurofibromas. Comprehensive preoperative vascular assessment and autologous blood preparation are essential. Surgeons should be prepared for prompt hemostatic management to ensure safe surgical outcomes in patients with NF1.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery",
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41793483/",
-      "pmcid": "PMC12967438",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967438/bin/10006_2026_1535_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967438/bin/10006_2026_1535_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967438/bin/10006_2026_1535_Fig3_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967438/bin/10006_2026_1535_Fig4_HTML.jpg"
-      ]
     }
   ]
 }
