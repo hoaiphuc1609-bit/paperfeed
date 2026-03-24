@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T04:33:05Z",
+  "updated_at": "2026-03-24T04:24:22Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -672,6 +672,34 @@
       "figure_urls": []
     },
     {
+      "pmid": "41638003",
+      "title": "3D-printed PCL scaffolds functionalized with GelMA for sustained delivery of human dental follicle stem cell-derived conditioned medium in bone regeneration.",
+      "authors": [
+        "Xin Wei",
+        "Jiayu Shen",
+        "Huanyan Dai",
+        "Zhiyan Wu",
+        "Xiaoxue Zheng",
+        "Zhimin Xu",
+        "Bing Han"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Repairing large segmental bone defects remains a significant clinical challenge due to the limited self-healing capacity of bone tissue. Although autologous bone grafting is still the clinical standard, it is limited by donor-site complications and availability. Three-dimensional (3D) printed scaffolds offer customizable architectures but often lack bioactivity. Human dental follicle stem cell-derived conditioned medium (hDFSC-CM) is enriched in osteogenic factors but suffers from rapid clearance at defect sites. Here, we engineered a bioactive composite scaffold by integrating a 3D-printed polycaprolactone (PCL) framework with a gelatin methacrylate (GelMA) hydrogel loaded with hDFSC-CM (PCL/GelMA@hDFSC-CM). This design leverages the mechanical strength of PCL and the bio-interfacial properties of GelMA to achieve sustained release of bioactive factors. In vitro, PCL/GelMA@hDFSC-CM significantly enhanced cell adhesion, proliferation, and osteogenic differentiation compared with PCL or PCL/GelMA controls. In vivo, it promoted defect bridging, mineral deposition, and bone regeneration in a rat tibial defect model. Mechanistically, RNA sequencing and functional validation revealed that these pro-osteogenic effects were mediated, at least in part, by activation of the JAK2/STAT3 signaling pathway. These findings demonstrate that functionalizing polymeric scaffolds with a hydrogel-based delivery system effectively harnesses the regenerative potential of stem cell secretomes, offering a promising cell-free strategy for bone tissue engineering.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41638003/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41579689",
       "title": "A promising strategy to rapidly expand high-quality human limbal stem cells for tissue engineering and cornea reconstruction.",
       "authors": [
@@ -981,55 +1009,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41720709",
-      "title": "Reply to the Letter to the Editor: Artificial intelligence-assisted triage in dentistry: toward reliable, scalable, and clinically aligned front-door decision support.",
-      "authors": [
-        "Gilad Wasserman",
-        "Nadav Grinberg"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41720709/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41672805",
-      "title": "Oxygen-ozone therapy in the osteonecrosis of the jaw: some comments.",
-      "authors": [
-        "Marianno Franzini",
-        "Luigi Valdenassi",
-        "Dario Bertossi",
-        "Umberto Tirelli",
-        "Salvatore Chirumbolo"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41672805/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41672804",
       "title": "Prognosis of medication-related osteonecrosis of the jaw based on the immunonutritional biomarker.",
       "authors": [
@@ -1060,34 +1039,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41656150",
-      "title": "Reply to the Letter to the Editor on \"Ozone therapy for medication-related osteonecrosis of the jaw: a scoping review\".",
-      "authors": [
-        "Miguel Ruiz Rincón",
-        "Jorge Cortés-Bretón Brinkmann",
-        "Marko Granić",
-        "Luis Miguel Sáez-Alcaide",
-        "Luis Sánchez-Labrador",
-        "Carmen López-Carriches",
-        "Cristina Madrigal Martínez-Pereda"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41656150/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41655372",
       "title": "Clinical phenotypes and predictors of adherence to continuous positive airway pressure therapy in obstructive sleep apnoea: A multicentre cohort study.",
       "authors": [
@@ -1114,61 +1065,6 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41655372/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41622088",
-      "title": "Corrigendum to 'Cocamidopropyl betaine: another possible oral healthcare chemical associated with plasma cell lesions of the oral cavity'[Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology Volume 140, Issue 2, (2025), Pages 218-226].",
-      "authors": [
-        "Jay Saepoo",
-        "Nidhi Handoo",
-        "Sherry Timmons",
-        "Emily Lanzel",
-        "Kittiphoj Tikkhanarak",
-        "John William Hellstein"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41622088/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41622086",
-      "title": "Corrigendum to 'What's in your toothpaste? A review of toothpaste ingredients and rationale for their use or avoidance' [Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology Volume 140, Issue 6, (2025), Pages 807-812].",
-      "authors": [
-        "Gavin Soppe",
-        "Jay Saepoo",
-        "Emily Lanzel",
-        "Sherry Timmons",
-        "Nidhi Handoo",
-        "John Hellstein",
-        "Amy Greenwood"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41622086/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1488,6 +1384,35 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41205278/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41859808",
+      "title": "Oral Squamous Cell Carcinoma Secondary to Chronic Graft-versus-host Disease: Report of Three Cases.",
+      "authors": [
+        "Mebae Ichikawa",
+        "Takayuki Aoki",
+        "Yusuke Kondo",
+        "Yasutaka Hoshimoto",
+        "Shohei Seta",
+        "Masahiro Uchibori",
+        "Masashi Sasaki",
+        "Yoshihide Ota"
+      ],
+      "publication_date": "2026-Apr-20",
+      "publication_date_iso": "2026-04-20",
+      "abstract": "Recently, the use of hematopoietic stem cell transplantation (HSCT) for the treatment of hematological malignancies has increased because of its favorable therapeutic outcomes. The most common complication of HSCT is chronic graft-versus-host disease (GVHD). GVHD is an immune response caused by donor-derived cells that recognize the recipient as a foreign body (non-self) and attack the recipient's cells. GVHD manifests as lichen planus-like mucosal lesions in the oral cavity, and there have been reports of its malignant transformation to oral squamous cell carcinoma (OSCC). Chronic GVHD-associated OSCC may exhibit more aggressive behavior and a poorer prognosis than those of OSCC in patients who did not undergo HSCT. Here, we report three cases of GVHD after HSCT that transformed into OSCC during follow-up, in which early treatment achieved favorable outcomes. It is important to explain the risk of malignant transformation in patients with chronic GVHD and oral mucosal lesions and to monitor their progression.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41859808/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2157,29 +2082,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "40819992",
-      "title": "Response to comment on \"Dexmedetomidine infusion on blood loss in orthognathic surgery: A retrospective study on its efficacy\".",
-      "authors": [
-        "Yen-Chu Hsiao",
-        "Kai-Hua Lien"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40819992/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "40751606",
       "title": "Liquid biopsy in breast cancer management: From circulating biomarkers to clinical breakthroughs.",
       "authors": [
@@ -2210,29 +2112,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40751606/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "40527622",
-      "title": "Comment on \"Dexmedetomidine infusion on blood loss in orthognathic surgery: A retrospective study on its efficacy\".",
-      "authors": [
-        "Luyi Yu",
-        "Yuebing Li"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40527622/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2298,31 +2177,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967397/bin/10.1177_23800844251325532-fig2.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967397/bin/10.1177_23800844251325532-fig2.gif"
       ]
-    },
-    {
-      "pmid": "39952888",
-      "title": "Dexmedetomidine infusion on blood loss in orthognathic surgery: A retrospective study on its efficacy.",
-      "authors": [
-        "Yen-Chu Hsiao",
-        "Yi-Ting Chang",
-        "Chi-Sheng Cheng",
-        "Kai-Hua Lien"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39952888/",
-      "pmcid": "",
-      "figure_urls": []
     },
     {
       "pmid": "39834273",
@@ -2491,6 +2345,91 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/39782695/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41871302",
+      "title": "A Novel 3D-Printed Surgical Guide for Multiplanar Chin Reduction in Facial Feminization Surgery.",
+      "authors": [
+        "Sergio Olate",
+        "Víctor Ravelo",
+        "Alejandro Unibazo",
+        "Claudio Huentequeo",
+        "Márcio de Moraes"
+      ],
+      "publication_date": "2026-Mar-23",
+      "publication_date_iso": "2026-03-23",
+      "abstract": "Facial feminization surgery is becoming increasingly common, and its technical challenges remain significant. Precision surgery and minimally invasive techniques require new approaches to improve treatment options. The aim of this technical note is to present a surgical guide that enables accurate chin osteotomies in the vertical, transverse, and sagittal dimensions. A single guide is stabilized on the anterior teeth using maxillomandibular fixation, eliminating the need for screw anchorage. One central guide allows for both the superior and inferior horizontal osteotomies for chin volume reduction, as well as the midline vertical osteotomies for transverse chin narrowing, all with high precision. Its application strategy is presented alongside a comparison with other chin osteotomy guides recently described in the literature, including a critical analysis of their key features.",
+      "objective": "of this technical note is to present a surgical guide that enables accurate chin osteotomies in the vertical, transverse, and sagittal dimensions. A single guide is stabilized on the anterior teeth using maxillomandibular fixation, eliminating the need for screw anchorage. One central guide allows for both the superior and inferior horizontal osteotomies for chin volume reduction, as well as the midline vertical osteotomies for transverse chin narrowing, all with high precision. Its application strategy is presented alongside a comparison with other chin osteotomy guides recently described in the literature, including a critical analysis of their key features.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41871302/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41871297",
+      "title": "Safe Maxillary Segmentation in Le Fort I Osteotomy. A Technical Note.",
+      "authors": [
+        "Sergio Olate",
+        "Eduardo Messen",
+        "Juan Pablo Alister",
+        "Claudio Huentequeo",
+        "Felipe Martínez",
+        "Alejandro Unibazo"
+      ],
+      "publication_date": "2026-Mar-23",
+      "publication_date_iso": "2026-03-23",
+      "abstract": "Maxillary segmentation during Le Fort I osteotomy enables complex 3-dimensional repositioning, facilitating transverse expansion, vertical modification, and dentoalveolar torque adjustment. However, its execution remains controversial due to the risk of periodontal, dental, and vascular complications related to the location and design of the interradicular osteotomy. The aim of this technical note is to describe a standardized and safe protocol for maxillary segmentation based on the use of piezoelectric technology. The technique proposes bilateral segmentation between the canine and lateral incisor following orthodontic preparation to increase root divergence. An \"H-pattern\" osteotomy is used to define 2 lateral segments, an anterior segment (premaxilla), and an intermediate bony island, allowing independent mobilization. The surgical sequence includes controlled osteotomies performed with a piezoelectric device, direct visualization of the nasal floor, and progressive deepening toward the palatal cortex before completing the crestal separation. This protocol, systematically applied since 2014, has improved surgical control, preserved bone vascularization, and reduced the risk of periodontal injury. Protocolized maxillary segmentation using piezoelectric technology represents a safe, reproducible, and efficient approach to optimize outcomes in orthognathic surgery involving Le Fort I segmentation.",
+      "objective": "of this technical note is to describe a standardized and safe protocol for maxillary segmentation based on the use of piezoelectric technology. The technique proposes bilateral segmentation between the canine and lateral incisor following orthodontic preparation to increase root divergence. An \"H-pattern\" osteotomy is used to define 2 lateral segments, an anterior segment (premaxilla), and an intermediate bony island, allowing independent mobilization. The surgical sequence includes controlled osteotomies performed with a piezoelectric device, direct visualization of the nasal floor, and progressive deepening toward the palatal cortex before completing the crestal separation. This protocol, systematically applied since 2014, has improved surgical control, preserved bone vascularization, and reduced the risk of periodontal injury. Protocolized maxillary segmentation using piezoelectric technology represents a safe, reproducible, and efficient approach to optimize outcomes in orthognathic surgery involving Le Fort I segmentation.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41871297/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41870835",
+      "title": "Reduced cartilage matrix stiffness in temporomandibular joint osteoarthritis impairs the functions of superficial zone chondrocytes via downregulation of CREB5-PLPP3 signaling.",
+      "authors": [
+        "Yeke Yu",
+        "Dongsheng Wen",
+        "Luxiang Zou",
+        "Huimin Zhu",
+        "Xiaoyu Zhang",
+        "Chuandong Wang",
+        "Chuan Lu",
+        "Jieyun Zhao",
+        "Yifan Zhang",
+        "Dongmei He",
+        "Zhiyuan Zhang"
+      ],
+      "publication_date": "2026-Mar-23",
+      "publication_date_iso": "2026-03-23",
+      "abstract": "Temporomandibular joint (TMJ) plays critical roles in the movement of mandible. TMJ osteoarthritis (TMJOA) leads to pain and limited jaw function. Histologically, TMJOA causes cartilage degradation and a reduction in extracellular matrix (ECM) stiffness. The superficial zone chondrocytes (SZC) contribute in the regeneration of the condylar fibrocartilage in TMJ, while their responses to the softened ECM remains unclear. Here, we showed that the ECM stiffness was decreased in the superficial zone cartilage of TMJOA patients and rat models. Single-cell RNA sequencing demonstrated the diminished phospholipid phosphatase 3 (Plpp3) expression, impaired migration, and ECM secretion, as well as the down-regulated PI3K-AKT pathway of SZC in rat TMJOA. Such alternations were also revealed by mRNA sequencing of SZC cultured on the softened ECM. Further studies disclosed that reduced ECM stiffness induced decreased PLPP3 on the endoplasmic reticulum (ER), which inhibited mitochondrial fission and respiration via increasing phosphatidic acid (PA) in the mitochondria. Meanwhile, deactivated PI3K-AKT pathway reduced the intra-nuclear translocation of transcriptional factor Cyclic AMP responsive element binding protein 5 (CREB5), which limited PLPP3 expression. Overexpression of PLPP3 alleviated the functional damage of SZC in vitro and the cartilage ECM degradation in vivo. This work displayed the functional impairment of SZC on the softened ECM and the underlying mechanism, as well as suggested PLPP3 as a potential target in the regenerative treatments for TMJOA.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41870835/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2804,6 +2743,68 @@
       "figure_urls": []
     },
     {
+      "pmid": "41852036",
+      "title": "Bisphosphonate and statin: adverse effects of co-medication on wound healing in in vitro models of periodontal tissues.",
+      "authors": [
+        "Agnes Småland-Reksten",
+        "Anne E Agger",
+        "Aina M Lian",
+        "Janne E Reseland",
+        "Tormod B Krüger"
+      ],
+      "publication_date": "2026-Mar-18",
+      "publication_date_iso": "2026-03-18",
+      "abstract": "Bisphosphonates and statins may influence wound healing and are frequently prescribed to the same patient group. Bisphosphonates may induce osteonecrosis of the jaw; however, little information is available on the cellular mechanisms and biological effects of co-medication in oral tissues. The aim was to assess the effects of alendronate and simvastatin, both alone and combined, on osteoblasts and gingival fibroblasts in vitro. Primary human gingival fibroblasts and primary human osteoblasts were incubated with alendronate (5 µM) and simvastatin (1, 5 or 10 µM), alone or combined, for up to 14 days. Cells were assessed for viability by measuring lactate dehydrogenase activity and caspase-3 concentration in the cell culture media. Migration and proliferation potential was assessed by scratch-wound assay. Secreted levels of cytokines/chemokines were measured using Luminex 200 multianalytic profiling. High concentrations of simvastatin, both alone and combined with alendronate, affected the proliferation/migration potential and reduced scratch closure. The same exposure induced near abolishment of secreted levels of cytokines affecting angiogenesis, such as VEGF, IL-6, IL-8, and MCP-1, however little effect was found on cell viability. High concentrations of simvastatin, alone or combined with alendronate, may have a negative impact on angiogenetic markers and cell migration/proliferation, affecting wound healing and growth.",
+      "objective": "was to assess the effects of alendronate and simvastatin, both alone and combined, on osteoblasts and gingival fibroblasts in vitro. Primary human gingival fibroblasts and primary human osteoblasts were incubated with alendronate (5 µM) and simvastatin (1, 5 or 10 µM), alone or combined, for up to 14 days. Cells were assessed for viability by measuring lactate dehydrogenase activity and caspase-3 concentration in the cell culture media. Migration and proliferation potential was assessed by scratch-wound assay. Secreted levels of cytokines/chemokines were measured using Luminex 200 multianalytic profiling. High concentrations of simvastatin, both alone and combined with alendronate, affected the proliferation/migration potential and reduced scratch closure. The same exposure induced near abolishment of secreted levels of cytokines affecting angiogenesis, such as VEGF, IL-6, IL-8, and MCP-1, however little effect was found on cell viability. High concentrations of simvastatin, alone or combined with alendronate, may have a negative impact on angiogenetic markers and cell migration/proliferation, affecting wound healing and growth.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41852036/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41848802",
+      "title": "International Consensus Guidelines for Diagnostic Criteria and Checklist for Future Studies for Minimally Invasive Carcinoma ex Pleomorphic Adenoma: An HN CLEAR Initiative.",
+      "authors": [
+        "Beth M Beadle",
+        "Nazim Benzerdjeb",
+        "Junhun Cho",
+        "Valérie Costes-Martineau",
+        "William C Faquin",
+        "Ricardo Santiago Gomez",
+        "Ruta Gupta",
+        "Ivana Kholová",
+        "Toshitaka Nagao",
+        "Swapnil U Rane",
+        "Miguel Rito",
+        "Lester D R Thompson",
+        "Spinder Samra",
+        "Peter P Luk",
+        "Simion I Chiosea"
+      ],
+      "publication_date": "2026-Mar-18",
+      "publication_date_iso": "2026-03-18",
+      "abstract": "A variety of factors, including the extent of invasion, determine the clinical outcome in patients with carcinoma ex pleomorphic adenoma (Ca ex PA). A Head and Neck Consensus Language for Ease of Reproducibility (HN CLEAR) Steering Committee organized a working group (WG) to harmonize diagnostic and research approaches for assessing invasion in Ca ex PA.WG of head and neck pathologists and a radiation oncologist conducted 6 iterative rounds of online voting (Modified Delphi), using Google Forms, over an 8-month period on invasion in the setting of Ca ex PA. Agreement was defined by the same opinion of at least 50% of the responders. The list of parameters with predetermined options was developed.Minimally invasive Ca ex PA was defined as a pT1-2 pN0 carcinoma, resected en bloc with negative margins, with or without perineural invasion, without vascular invasion and without distant metastasis at presentation. Consensus was not reached on whether high grade histology is compatible with the concept of \"minimal invasion\". Diagnosis of minimal invasion is possible when tumor excision is complete (with negative margins), en bloc (without fragmentation), and requires sampling of the entire tumor capsule or tumor-normal interface. The consensus guidelines characterizing Ca ex PA and the list of challenging aspects are provided. The WG proposed a checklist for future research, aiming to refine the diagnosis of in situ and minimally invasive Ca ex PA.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41848802/",
+      "pmcid": "PMC13000011",
+      "figure_urls": []
+    },
+    {
       "pmid": "41848236",
       "title": "Opioid Dependency After Craniomaxillofacial Trauma Surgery.",
       "authors": [
@@ -2828,156 +2829,6 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41848236/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41850655",
-      "title": "The Odyssey of macrophages.",
-      "authors": [
-        "Aila Akosua Kattner"
-      ],
-      "publication_date": "2026-Mar-16",
-      "publication_date_iso": "2026-03-16",
-      "abstract": "This issue brings together reviews and original research addressing diverse aspects of immune regulation, disease mechanisms, and clinical management. Several reviews focus on macrophages as integrative regulators across physiological systems, including their circadian control of immune activity, their role in coordinating endocrine signaling within the hypothalamic-pituitary axes, and their functions in cardiac tissue homeostasis and repair. Additional contributions revisit the development of regulatory T cells as a central mechanism of peripheral immune tolerance, examine the potential of artificial intelligence for infectious disease surveillance, and discuss emerging roles of long non-coding RNAs in cardiac regeneration. Further reviews evaluate multidisciplinary care strategies for pelvic floor disorders and analyze the inflammatory consequences of photodynamic therapy. Original studies in this issue investigate areca nut-associated head and neck carcinogenesis, determinants of persistent carbapenem-resistant Klebsiella pneumoniae bacteremia, treatment outcomes in hepatocellular carcinoma with portal vein tumor thrombus, protective effects against gastric ulceration, machine-learning-assisted interpretation of syphilis serology, and relapse patterns following orthognathic surgery.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41850655/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41846208",
-      "title": "The impact of alcohol on fall-related maxillofacial fractures: a retrospective study.",
-      "authors": [
-        "K Virtanen",
-        "J Snäll",
-        "A Suominen",
-        "T Puolakkainen",
-        "H Thorén"
-      ],
-      "publication_date": "2026-Mar-16",
-      "publication_date_iso": "2026-03-16",
-      "abstract": "The aim of this retrospective study was to examine the characteristics of patients sustaining maxillofacial fractures due to falls at ground level. The specific aims were to analyse the severity of the fractures and the time interval between the accident and diagnosis (delay of diagnosis) in alcohol-intoxicated vs non-intoxicated patients. A total of 1200 consecutive adult patients diagnosed with maxillofacial fractures at a tertiary trauma centre over a 7-year period were included. Outcome variables were the delay of diagnosis and severity of the fracture; the latter was determined based on a facial injury severity score (FISS). The primary predictor variable was alcohol intoxication at the time of injury (yes/no). Overall, 360 patients (30%) were identified as being intoxicated by alcohol at the time of the injury. In the adjusted model, no association was found between alcohol intoxication and the severity of the maxillofacial fractures. However, the adjusted model showed that non-intoxicated patients had 2.0 times greater odds of a delay of diagnosis ≥3 days (95% confidence interval 1.3-3.0 , P < 0.001). The high occurrence of alcohol intoxication in facial trauma patients in general emphasizes the importance of screening patients for alcohol use and intervening when appropriate.",
-      "objective": "of this retrospective study was to examine the characteristics of patients sustaining maxillofacial fractures due to falls at ground level. The specific aims were to analyse the severity of the fractures and the time interval between the accident and diagnosis (delay of diagnosis) in alcohol-intoxicated vs non-intoxicated patients. A total of 1200 consecutive adult patients diagnosed with maxillofacial fractures at a tertiary trauma centre over a 7-year period were included. Outcome variables were the delay of diagnosis and severity of the fracture; the latter was determined based on a facial injury severity score (FISS). The primary predictor variable was alcohol intoxication at the time of injury (yes/no). Overall, 360 patients (30%) were identified as being intoxicated by alcohol at the time of the injury. In the adjusted model, no association was found between alcohol intoxication and the severity of the maxillofacial fractures. However, the adjusted model showed that non-intoxicated patients had 2.0 times greater odds of a delay of diagnosis ≥3 days (95% confidence interval 1.3-3.0 , P < 0.001). The high occurrence of alcohol intoxication in facial trauma patients in general emphasizes the importance of screening patients for alcohol use and intervening when appropriate.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41846208/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41842849",
-      "title": "Changes in the Geniohyoid Muscle Before and After Orthognathic Surgery: Retrospective Study.",
-      "authors": [
-        "Riku Kohara",
-        "Akinori Moroi",
-        "Karen Gomi",
-        "Kunio Yoshizawa",
-        "Koichiro Ueki"
-      ],
-      "publication_date": "2026-Mar-16",
-      "publication_date_iso": "2026-03-16",
-      "abstract": "Compare the changes in the geniohyoid muscle before and after orthognathic surgery. Ninety patients with jaw deformities who underwent orthognathic surgery, including sagittal split ramus osteotomy (SSRO), were included. Computed tomography (CT) and cephalometric analyses were performed before and 1 year after surgery. Changes in the position of the hyoid bone (H) were measured using cephalometric analysis. Computed tomography images were reconstructed using ProPlan CMF (Materialize), and the length, height, cross-sectional area, and CT values of the geniohyoid muscle were measured before and 1 year after surgery. In comparisons between preoperation and 1 year postoperation in the female SSRO advance group, the postoperative value was significantly larger than the preoperative value in the geniohyoid area (P = 0.020), length (P = 0.047), and CT value (P = 0.007). This study suggested that the morphology of the geniohyoid muscle varies with orthognathic surgery, including SSRO, which affects the CT values.",
-      "objective": "",
-      "study_methods": "Ninety patients with jaw deformities who underwent orthognathic surgery, including sagittal split ramus osteotomy (SSRO), were included. Computed tomography (CT) and cephalometric analyses were performed before and 1 year after surgery. Changes in the position of the hyoid bone (H) were measured using cephalometric analysis. Computed tomography images were reconstructed using ProPlan CMF (Materialize), and the length, height, cross-sectional area, and CT values of the geniohyoid muscle were measured before and 1 year after surgery.",
-      "methods": "Ninety patients with jaw deformities who underwent orthognathic surgery, including sagittal split ramus osteotomy (SSRO), were included. Computed tomography (CT) and cephalometric analyses were performed before and 1 year after surgery. Changes in the position of the hyoid bone (H) were measured using cephalometric analysis. Computed tomography images were reconstructed using ProPlan CMF (Materialize), and the length, height, cross-sectional area, and CT values of the geniohyoid muscle were measured before and 1 year after surgery.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41842849/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41842735",
-      "title": "Midfacial Structural Aging and Its Association With Fracture Distribution: Insights From CT Images.",
-      "authors": [
-        "Kou Fujisawa",
-        "Mutsumi Okazaki"
-      ],
-      "publication_date": "2026-Mar-16",
-      "publication_date_iso": "2026-03-16",
-      "abstract": "Facial structures and fracture patterns change with aging; however, the relationship between midfacial skeletal aging and fracture distribution remains unclear. We retrospectively analyzed clinical records and computed tomography scans of 186 patients with facial trauma (aged 1-90 years). Among patients with fractures (n = 117), nasal fractures were significantly and independently associated with younger age (P = 0.023), whereas zygomaticomaxillary complex fractures were significantly and independently associated with older age (P = 0.039). In patients without facial fractures (n = 69), the volumes of the maxillary sinus and orbit, as well as the sagittal and axial prominences of the midfacial bone, were measured on three-dimensional reconstructed computed tomography images. Bony orbital volume and sagittal prominence showed significantly positive correlations with age (r = 0.338, P < 0.01; r = 0.566; P < 0.01, respectively). These findings suggest that age-related increases in bony orbital volume and sagittal prominence may contribute to the higher prevalence of zygomaticomaxillary complex fractures in older individuals.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41842735/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41839030",
-      "title": "Accuracy of Facial Digitization Using a New Mobile Device-Compatible 3D Scanner for Malocclusion.",
-      "authors": [
-        "Mingjie Ge",
-        "Liheng Shen",
-        "Hui Pan",
-        "Zhijian Xie",
-        "Lingling Hu"
-      ],
-      "publication_date": "2026-Mar-16",
-      "publication_date_iso": "2026-03-16",
-      "abstract": "The three-dimensional (3D) facial scanning system plays a crucial role in orthognathic surgery, with significant advancements in related technologies. However, high costs and limited portability have restricted the accessibility of existing scanners, highlighting the need for a mobile device-based 3D facial scanning system. To address this, a new mobile device-compatible 3D facial scanning software (i3Dface) was developed, installed, and tested on mobile tablets. From August 2021 to December 2022, 50 volunteers participated in evaluating i3Dface's reproducibility and accuracy for facial digitization and orthognathic applications. i3Dface demonstrated strong reproducibility in environments with optimal light intensity (600-2100 lux) and shooting angles (-20 degrees-10 degrees). When comparing absolute deviations in facial measurements, i3Dface showed no significant difference from the established stereophotogrammetry system (3dMD), aligning closely with manual clinical measurements. In assessing 3D spatial deviation, i3Dface's accuracy varied by facial region, with the highest accuracy (0.59 ± 0.13 mm) in the chin area and the lowest (1.17±0.16 mm) in the midface. For clinical applications in orthognathic surgery, i3Dface facial images showed effective alignment with CBCT soft tissue images. In summary, i3Dface offers reproducibility in suitable environments and accuracy comparable to 3dMD, meeting essential clinical requirements and supporting digital technology use in orthognathic surgery.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41839030/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41839002",
-      "title": "Postoperative Pain Management in Orthognathic Surgery: Is There a Need for Opioids?",
-      "authors": [
-        "P D Stoll",
-        "F Thol",
-        "N Spuck",
-        "F-J Kramer",
-        "N Heim",
-        "F B Warwas"
-      ],
-      "publication_date": "2026-Mar-16",
-      "publication_date_iso": "2026-03-16",
-      "abstract": "Orthognathic surgery is traditionally considered painful, often prompting opioid use. In the context of rising opioid-related harm, this study assessed postoperative pain levels, factors influencing analgesic requirements, and the actual need for opioids after orthognathic procedures. A retrospective analysis of 122 patients undergoing Le-Fort-I osteotomy, bilateral sagittal split osteotomy (BSSO), or bimaxillary surgery was performed. Pain levels (Numeric Analog Scale) were recorded 3 times daily for 5 postoperative days. Analgesic use was documented according to the WHO analgesic ladder, and associations with surgical type, gender, maxillary impaction, and mandibular advancement were analyzed. Pain levels were mild overall and declined steadily over 5 days. BSSO patients reported the lowest pain and required fewer non-opioid analgesics. Le-Fort-I and bimaxillary procedures showed higher early analgesic demand. Only 5.7% of patients required opioid rescue medication, with no corresponding increase in pain scores. Gender, maxillary impaction, and mandibular advancement showed no significant impact on analgesic requirements. Non-opioid analgesics effectively controlled postoperative pain across procedures, and no subgroup demonstrated a consistent need for opioids. Routine opioid prescription after orthognathic surgery seems unnecessary. Opioid-sparing protocols provide adequate pain control and support safer postoperative recovery.",
-      "objective": "",
-      "study_methods": "A retrospective analysis of 122 patients undergoing Le-Fort-I osteotomy, bilateral sagittal split osteotomy (BSSO), or bimaxillary surgery was performed. Pain levels (Numeric Analog Scale) were recorded 3 times daily for 5 postoperative days. Analgesic use was documented according to the WHO analgesic ladder, and associations with surgical type, gender, maxillary impaction, and mandibular advancement were analyzed.",
-      "methods": "A retrospective analysis of 122 patients undergoing Le-Fort-I osteotomy, bilateral sagittal split osteotomy (BSSO), or bimaxillary surgery was performed. Pain levels (Numeric Analog Scale) were recorded 3 times daily for 5 postoperative days. Analgesic use was documented according to the WHO analgesic ladder, and associations with surgical type, gender, maxillary impaction, and mandibular advancement were analyzed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41839002/",
       "pmcid": "",
       "figure_urls": []
     }
