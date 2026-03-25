@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T04:24:22Z",
+  "updated_at": "2026-03-25T04:25:18Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -79,8 +79,13 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41858234/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC13007456",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_PB.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_PB.jpg"
+      ]
     },
     {
       "pmid": "41582805",
@@ -1009,6 +1014,55 @@
       "figure_urls": []
     },
     {
+      "pmid": "41720709",
+      "title": "Reply to the Letter to the Editor: Artificial intelligence-assisted triage in dentistry: toward reliable, scalable, and clinically aligned front-door decision support.",
+      "authors": [
+        "Gilad Wasserman",
+        "Nadav Grinberg"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41720709/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41672805",
+      "title": "Oxygen-ozone therapy in the osteonecrosis of the jaw: some comments.",
+      "authors": [
+        "Marianno Franzini",
+        "Luigi Valdenassi",
+        "Dario Bertossi",
+        "Umberto Tirelli",
+        "Salvatore Chirumbolo"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41672805/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41672804",
       "title": "Prognosis of medication-related osteonecrosis of the jaw based on the immunonutritional biomarker.",
       "authors": [
@@ -1039,6 +1093,34 @@
       "figure_urls": []
     },
     {
+      "pmid": "41656150",
+      "title": "Reply to the Letter to the Editor on \"Ozone therapy for medication-related osteonecrosis of the jaw: a scoping review\".",
+      "authors": [
+        "Miguel Ruiz Rincón",
+        "Jorge Cortés-Bretón Brinkmann",
+        "Marko Granić",
+        "Luis Miguel Sáez-Alcaide",
+        "Luis Sánchez-Labrador",
+        "Carmen López-Carriches",
+        "Cristina Madrigal Martínez-Pereda"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41656150/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41655372",
       "title": "Clinical phenotypes and predictors of adherence to continuous positive airway pressure therapy in obstructive sleep apnoea: A multicentre cohort study.",
       "authors": [
@@ -1065,6 +1147,61 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41655372/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41622088",
+      "title": "Corrigendum to 'Cocamidopropyl betaine: another possible oral healthcare chemical associated with plasma cell lesions of the oral cavity'[Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology Volume 140, Issue 2, (2025), Pages 218-226].",
+      "authors": [
+        "Jay Saepoo",
+        "Nidhi Handoo",
+        "Sherry Timmons",
+        "Emily Lanzel",
+        "Kittiphoj Tikkhanarak",
+        "John William Hellstein"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41622088/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41622086",
+      "title": "Corrigendum to 'What's in your toothpaste? A review of toothpaste ingredients and rationale for their use or avoidance' [Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology Volume 140, Issue 6, (2025), Pages 807-812].",
+      "authors": [
+        "Gavin Soppe",
+        "Jay Saepoo",
+        "Emily Lanzel",
+        "Sherry Timmons",
+        "Nidhi Handoo",
+        "John Hellstein",
+        "Amy Greenwood"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41622086/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1351,68 +1488,6 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41223716/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41205278",
-      "title": "Cationic nanoparticle targets cGAS-STING axis to drive functional orofacial muscle regeneration.",
-      "authors": [
-        "Hao Sui",
-        "Xu Cheng",
-        "Fangman Chen",
-        "Shiming Zhang",
-        "Jiali Chen",
-        "Renjie Yang",
-        "Dan Shao",
-        "Kam W Leong",
-        "Jian Song",
-        "Chao Yang",
-        "Bing Shi",
-        "Hanyao Huang"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "Post-injury orofacial muscle is highly prone to fibrosis, partly due to a dysregulated microenvironment shaped by cell-free DNA (cfDNA). Muscle stem cell, i.e., muscle satellite cell (MuSCs), are key mediators of regeneration and are highly sensitive to such changes, which can shift the repair process from regeneration toward fibrosis. We therefore hypothesize that microenvironment cfDNA modulation could preserve MuSC function and support effective muscle repair. In this study, cationic nanoparticles-polyethyleneimine-functionalized diselenide-bridged mesoporous silica nanoparticles (MSN-PEI)-were employed to capture cfDNA and modulate the dysregulated microenvironment, aiming to investigate how cfDNA clearance promotes orofacial muscle regeneration and influences the interplay between the microenvironment and MuSCs. A freezing-induced masseter muscle injury model in mice was established to mimic orofacial muscle fibrosis. MSN-PEI was delivered at different timepoints post-injury and a combination of histological, functional, molecular and transcriptomic analysis were carried out to examine the therapeutic effects. The results showed that MSN-PEI significantly reduced fibrotic area, enhanced functional recovery of the orofacial muscle, and suppressed cfDNA-associated TLR9 and cGAS-STING signaling, thereby promoting macrophage phenotypic switch and modulating macrophages-MuSCs crosstalk toward a regenerative microenvironment. Single-cell RNA sequencing further revealed that MSN-PEI enhanced IGF signaling while attenuating SPP1 and Galectin signaling in the macrophage to MuSC communication. This study provides solid evidence for the critical role of cfDNA and proper macrophages-MuSCs crosstalk in efficient orofacial muscle regeneration, and highlights cfDNA clearance as a promising strategy for functional orofacial muscle recovery.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "showed that MSN-PEI significantly reduced fibrotic area, enhanced functional recovery of the orofacial muscle, and suppressed cfDNA-associated TLR9 and cGAS-STING signaling, thereby promoting macrophage phenotypic switch and modulating macrophages-MuSCs crosstalk toward a regenerative microenvironment. Single-cell RNA sequencing further revealed that MSN-PEI enhanced IGF signaling while attenuating SPP1 and Galectin signaling in the macrophage to MuSC communication. This study provides solid evidence for the critical role of cfDNA and proper macrophages-MuSCs crosstalk in efficient orofacial muscle regeneration, and highlights cfDNA clearance as a promising strategy for functional orofacial muscle recovery.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41205278/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41859808",
-      "title": "Oral Squamous Cell Carcinoma Secondary to Chronic Graft-versus-host Disease: Report of Three Cases.",
-      "authors": [
-        "Mebae Ichikawa",
-        "Takayuki Aoki",
-        "Yusuke Kondo",
-        "Yasutaka Hoshimoto",
-        "Shohei Seta",
-        "Masahiro Uchibori",
-        "Masashi Sasaki",
-        "Yoshihide Ota"
-      ],
-      "publication_date": "2026-Apr-20",
-      "publication_date_iso": "2026-04-20",
-      "abstract": "Recently, the use of hematopoietic stem cell transplantation (HSCT) for the treatment of hematological malignancies has increased because of its favorable therapeutic outcomes. The most common complication of HSCT is chronic graft-versus-host disease (GVHD). GVHD is an immune response caused by donor-derived cells that recognize the recipient as a foreign body (non-self) and attack the recipient's cells. GVHD manifests as lichen planus-like mucosal lesions in the oral cavity, and there have been reports of its malignant transformation to oral squamous cell carcinoma (OSCC). Chronic GVHD-associated OSCC may exhibit more aggressive behavior and a poorer prognosis than those of OSCC in patients who did not undergo HSCT. Here, we report three cases of GVHD after HSCT that transformed into OSCC during follow-up, in which early treatment achieved favorable outcomes. It is important to explain the risk of malignant transformation in patients with chronic GVHD and oral mucosal lesions and to monitor their progression.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41859808/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2082,6 +2157,29 @@
       "figure_urls": []
     },
     {
+      "pmid": "40819992",
+      "title": "Response to comment on \"Dexmedetomidine infusion on blood loss in orthognathic surgery: A retrospective study on its efficacy\".",
+      "authors": [
+        "Yen-Chu Hsiao",
+        "Kai-Hua Lien"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40819992/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "40751606",
       "title": "Liquid biopsy in breast cancer management: From circulating biomarkers to clinical breakthroughs.",
       "authors": [
@@ -2112,6 +2210,29 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40751606/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40527622",
+      "title": "Comment on \"Dexmedetomidine infusion on blood loss in orthognathic surgery: A retrospective study on its efficacy\".",
+      "authors": [
+        "Luyi Yu",
+        "Yuebing Li"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40527622/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2177,6 +2298,31 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967397/bin/10.1177_23800844251325532-fig2.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967397/bin/10.1177_23800844251325532-fig2.gif"
       ]
+    },
+    {
+      "pmid": "39952888",
+      "title": "Dexmedetomidine infusion on blood loss in orthognathic surgery: A retrospective study on its efficacy.",
+      "authors": [
+        "Yen-Chu Hsiao",
+        "Yi-Ting Chang",
+        "Chi-Sheng Cheng",
+        "Kai-Hua Lien"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39952888/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "39834273",
@@ -2345,6 +2491,85 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/39782695/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41874393",
+      "title": "How Undergraduate Students Perceive Postgraduate Training and Continuing Education: A French Survey.",
+      "authors": [
+        "Margot Queney",
+        "Catherine Petit",
+        "Pierre-Yves Gegout",
+        "Olivier Huck"
+      ],
+      "publication_date": "2026-Mar-24",
+      "publication_date_iso": "2026-03-24",
+      "abstract": "The practice of Continuing Dental Education (CDE) serves as a fundamental requirement for lifelong learning but there is limited knowledge about how dental students handle CDE during their final educational period. This study examined how final-year French dental students perceive CDE through their expectations, motivation and their decision-making methods. In 2024 and 2025, an online questionnaire was distributed to final year students from all French dental faculties. The survey contained 45 questions categorized into three sections that assessed: (1) self-evaluation of participants' knowledge across all dental fields, (2) participants' objectives regarding future clinical practice and (3) awareness of existing CDE. One hundred and seventy one students responded to the survey which represented a response rate of 13.5%. Only 36.2% of the respondents were fully satisfied with undergraduate training, and the disciplines most often perceived as insufficient (implantology, oral surgery, fixed prosthodontics) were also those most desired for CDE or specialization. Students demonstrated trust in university-based programs while selecting diploma-granting courses but only 10.5% of them had selected a specific educational path. Students primarily used the Internet for information retrieval, but they prefer in-person interactive and clinical training courses over digital courses. For French dental students, CDE is seen both as lifelong learning and a way to fill training gaps, highlighting the need for clearer guidance and practice-oriented, evidence-based courses.",
+      "objective": "regarding future clinical practice and (3) awareness of existing CDE. One hundred and seventy one students responded to the survey which represented a response rate of 13.5%. Only 36.2% of the respondents were fully satisfied with undergraduate training, and the disciplines most often perceived as insufficient (implantology, oral surgery, fixed prosthodontics) were also those most desired for CDE or specialization. Students demonstrated trust in university-based programs while selecting diploma-granting courses but only 10.5% of them had selected a specific educational path. Students primarily used the Internet for information retrieval, but they prefer in-person interactive and clinical training courses over digital courses. For French dental students, CDE is seen both as lifelong learning and a way to fill training gaps, highlighting the need for clearer guidance and practice-oriented, evidence-based courses.",
+      "study_methods": "In 2024 and 2025, an online questionnaire was distributed to final year students from all French dental faculties. The survey contained 45 questions categorized into three sections that assessed: (1) self-evaluation of participants' knowledge across all dental fields, (2) participants' objectives regarding future clinical practice and (3) awareness of existing CDE.",
+      "methods": "In 2024 and 2025, an online questionnaire was distributed to final year students from all French dental faculties. The survey contained 45 questions categorized into three sections that assessed: (1) self-evaluation of participants' knowledge across all dental fields, (2) participants' objectives regarding future clinical practice and (3) awareness of existing CDE.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41874393/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41872383",
+      "title": "Giant cell tumor of bone inhibits osteoblastogenesis via WNT5B.",
+      "authors": [
+        "Masaki Shimada",
+        "Tomonori Tsuyama",
+        "Naoto Yoshimura",
+        "Makoto Tateyama",
+        "Hideto Matsunaga",
+        "Fuka Homma",
+        "Kasumi Dainobu",
+        "Xiao Tian",
+        "Shu Takata",
+        "Kosei Takata",
+        "Shuntaro Tanimura",
+        "Yuto Shibata",
+        "Kazuya Maeda",
+        "Junki Kawakami",
+        "Takahiro Arima",
+        "Tatsuki Karasugi",
+        "Takuya Tokunaga",
+        "Hiro Sato",
+        "Tetsuro Masuda",
+        "Satoshi Hisanaga",
+        "Yuki Kai",
+        "Soichiro Karata",
+        "Hikaru Goshogawa",
+        "Rui Tajiri",
+        "Hibiki Yamada",
+        "Yusuke Uehara",
+        "Takayuki Nakamura",
+        "Masaki Yugami",
+        "Kazuki Sugimoto",
+        "Ryuji Yonemitsu",
+        "Hironori Tanoue",
+        "Kazuya Yamagata",
+        "Takeshi Miyamoto"
+      ],
+      "publication_date": "2026-Mar-23",
+      "publication_date_iso": "2026-03-23",
+      "abstract": "Giant cell tumor of bone (GCTB) induces overproduction of bone-resorbing osteoclasts through receptor activator of nuclear factor kappa B ligand (RANKL), leading to bone resorption and destruction. Consequently, denosumab, a neutralizing antibody against RANKL (a cytokine essential for osteoclast induction), is used to treat patients with GCTB. However, the activity of bone formation in GCTB remains poorly understood. Here, we show that GCTB antagonizes bone formation by expressing WNT5B, which inhibits bone formation. Co-culture of NCC-GCTB1-C1 (GCTB1s), a human GCTB cell line, with human adipose-derived stem cells (ADSCs) was performed with osteoblast induction medium. To identify the inhibitors of osteoblast differentiation, we reanalyzed the single-cell RNA sequencing data that was previously published. In addition, we performed spatial transcriptome analysis (Visium) against the section of paraffin block of GCTB. The targeted protein was knocked out using CRISPR/Cas9 and co-culture was performed. Co-culture of GCTB1s with ADSCs significantly inhibited mineralization of ADSCs. Reanalysis of single-cell RNA sequencing data indicated that GCTB tumors express WNT5B, and we observed that GCTB1s express WNT5B. We then knocked out WNT5B in GCTB1s using CRISPR/Cas9 and co-cultured them with ADSCs and observed significant rescue of mineralization in ADSCs relative to ADSCs cultured with GCTB1s expressing WNT5B. We also show that ADSC supernatants induce mineralization of GCTB1s. These studies indicate that GCTB not only induces osteoclasts, but also possesses activity that inhibits bone formation.",
+      "objective": "",
+      "study_methods": "Co-culture of NCC-GCTB1-C1 (GCTB1s), a human GCTB cell line, with human adipose-derived stem cells (ADSCs) was performed with osteoblast induction medium. To identify the inhibitors of osteoblast differentiation, we reanalyzed the single-cell RNA sequencing data that was previously published. In addition, we performed spatial transcriptome analysis (Visium) against the section of paraffin block of GCTB. The targeted protein was knocked out using CRISPR/Cas9 and co-culture was performed.",
+      "methods": "Co-culture of NCC-GCTB1-C1 (GCTB1s), a human GCTB cell line, with human adipose-derived stem cells (ADSCs) was performed with osteoblast induction medium. To identify the inhibitors of osteoblast differentiation, we reanalyzed the single-cell RNA sequencing data that was previously published. In addition, we performed spatial transcriptome analysis (Visium) against the section of paraffin block of GCTB. The targeted protein was knocked out using CRISPR/Cas9 and co-culture was performed.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41872383/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2586,33 +2811,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41861582",
-      "title": "Clinical Outcomes of Polidocanol Foam Sclerotherapy in Treatment of Sublingual Ranula.",
-      "authors": [
-        "Kexuan Li",
-        "Xiujuan Yang",
-        "Chuangqi Yu",
-        "Jiawei Zheng",
-        "Guanhuan Du",
-        "Qin Zhou"
-      ],
-      "publication_date": "2026-Mar-19",
-      "publication_date_iso": "2026-03-19",
-      "abstract": "Ranula is a mucus retention cyst originating from the sublingual gland, and surgical intervention has traditionally been the main treatment. However, surgery is often associated with recurrence, risk of nerve injury, and patient discomfort. Sclerotherapy using polidocanol, a low-toxicity agent, has emerged as a promising minimally invasive alternative. This study aimed to evaluate the clinical outcomes and safety of polidocanol injection therapy in patients with sublingual ranula. This retrospective study included 34 patients with sublingual ranula who underwent intralesional injection of 3% polidocanol between December 2021 and March 2025. Some patients with large or recurrent lesions were additionally treated with pingyangmycin. Clinical data including age, sex, lesion size, symptom duration, number of injections, and follow-up time were collected. Treatment outcomes were categorized as complete resolution or unfavorable outcomes (including partial remission or recurrence). Statistical analyses were performed to identify factors associated with treatment outcomes. Among the 34 patients, 30 (88.2%) achieved complete resolution, while 4 (11.8%) had unfavorable outcomes. Maximum lesion diameter was independently associated with treatment outcome (adjusted OR per 1-mm increase = 0.886, 95% CI: 0.742-0.982; P = .018; Firth-penalized logistic regression adjusted for age and lesion site). No serious complications were observed during a mean follow-up of 22.44 ± 14.93 months. Polidocanol injection therapy appears to be a safe and minimally invasive option for the management of sublingual ranula, demonstrating favorable clinical outcomes and a high rate of lesion resolution in this retrospective cohort. Polidocanol sclerotherapy offers a conservative outpatient treatment option for sublingual ranula, providing favorable clinical outcomes with low morbidity and potentially reducing the need for surgical excision.",
-      "objective": "",
-      "study_methods": "This retrospective study included 34 patients with sublingual ranula who underwent intralesional injection of 3% polidocanol between December 2021 and March 2025. Some patients with large or recurrent lesions were additionally treated with pingyangmycin. Clinical data including age, sex, lesion size, symptom duration, number of injections, and follow-up time were collected. Treatment outcomes were categorized as complete resolution or unfavorable outcomes (including partial remission or recurrence). Statistical analyses were performed to identify factors associated with treatment outcomes.",
-      "methods": "This retrospective study included 34 patients with sublingual ranula who underwent intralesional injection of 3% polidocanol between December 2021 and March 2025. Some patients with large or recurrent lesions were additionally treated with pingyangmycin. Clinical data including age, sex, lesion size, symptom duration, number of injections, and follow-up time were collected. Treatment outcomes were categorized as complete resolution or unfavorable outcomes (including partial remission or recurrence). Statistical analyses were performed to identify factors associated with treatment outcomes.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41861582/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41861577",
       "title": "Long-Term Stability of the Use of Patient Specific Implants in Orthognathic Surgery: A Systematic Review.",
       "authors": [
@@ -2633,57 +2831,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41861577/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41858142",
-      "title": "Efficacy of Denosumab for Treatment of Pain in Fibrous Dysplasia and McCune-Albright Syndrome: A Systematic Review.",
-      "authors": [
-        "Vicky Yau",
-        "David L Best"
-      ],
-      "publication_date": "2026-Mar-19",
-      "publication_date_iso": "2026-03-19",
-      "abstract": "Fibrous dysplasia (FD) skeletal lesions have a range of clinical manifestations including pain, which is a major contributor to reduced quality of life in patients with FD/MAS. Denosumab has been shown to reduce skeletal lesion activity and improve radiographic bone density; however, there is mixed evidence regarding its effect on pain. The primary objective was to evaluate the efficacy of denosumab for the treatment of bone pain in FD/MAS. A systematic review was conducted according to PRISMA guidelines utilising electronic databases including PubMed, Cochrane Library, Embase, Web of Science, and ClinicalTrials.gov. Included studies were those that described patients with a diagnosis of FD, with or without MAS, who were treated with denosumab. The primary outcomes were change in pain score using quantitative pain scales (Visual Analogue Scale, Brief Pain Index, and patient-reported numerical rating scale), proportion of pain responders (≥ 2-point reduction in pain or an overall subjective improvement in pain), and change in analgesic requirement. The secondary outcome was adverse on-treatment and post-treatment events related to denosumab. There were 16 studies included (88 total patients, 86 treated with denosumab). Mean pain score decreased by 3.51 points on a 10-point scale. 81.8% of patients were pain responders, demonstrating a clinically meaningful improvement in pain. Reduction or cessation of analgesic use was reported in 51.7% of patients. Adverse events occurred in 55.8% of patients, most commonly hypocalcemia (11.6%) and hypophosphatemia (8.1%). Rebound hypercalcemia following denosumab discontinuation occurred in 8 patients (9.3%), 4 of which were severe. In patients with FD/MAS undergoing treatment with denosumab, pain improved in 81.8% of patients, and analgesic requirement decreased in greater than half of patients. Careful monitoring is required surrounding treatment due the potential for severe adverse events, particularly rebound hypercalcemia following treatment discontinuation.",
-      "objective": "was to evaluate the efficacy of denosumab for the treatment of bone pain in FD/MAS. A systematic review was conducted according to PRISMA guidelines utilising electronic databases including PubMed, Cochrane Library, Embase, Web of Science, and ClinicalTrials.gov. Included studies were those that described patients with a diagnosis of FD, with or without MAS, who were treated with denosumab. The primary outcomes were change in pain score using quantitative pain scales (Visual Analogue Scale, Brief Pain Index, and patient-reported numerical rating scale), proportion of pain responders (≥ 2-point reduction in pain or an overall subjective improvement in pain), and change in analgesic requirement. The secondary outcome was adverse on-treatment and post-treatment events related to denosumab. There were 16 studies included (88 total patients, 86 treated with denosumab). Mean pain score decreased by 3.51 points on a 10-point scale. 81.8% of patients were pain responders, demonstrating a clinically meaningful improvement in pain. Reduction or cessation of analgesic use was reported in 51.7% of patients. Adverse events occurred in 55.8% of patients, most commonly hypocalcemia (11.6%) and hypophosphatemia (8.1%). Rebound hypercalcemia following denosumab discontinuation occurred in 8 patients (9.3%), 4 of which were severe. In patients with FD/MAS undergoing treatment with denosumab, pain improved in 81.8% of patients, and analgesic requirement decreased in greater than half of patients. Careful monitoring is required surrounding treatment due the potential for severe adverse events, particularly rebound hypercalcemia following treatment discontinuation.",
-      "study_methods": "A systematic review was conducted according to PRISMA guidelines utilising electronic databases including PubMed, Cochrane Library, Embase, Web of Science, and ClinicalTrials.gov. Included studies were those that described patients with a diagnosis of FD, with or without MAS, who were treated with denosumab. The primary outcomes were change in pain score using quantitative pain scales (Visual Analogue Scale, Brief Pain Index, and patient-reported numerical rating scale), proportion of pain responders (≥ 2-point reduction in pain or an overall subjective improvement in pain), and change in analgesic requirement. The secondary outcome was adverse on-treatment and post-treatment events related to denosumab.",
-      "methods": "A systematic review was conducted according to PRISMA guidelines utilising electronic databases including PubMed, Cochrane Library, Embase, Web of Science, and ClinicalTrials.gov. Included studies were those that described patients with a diagnosis of FD, with or without MAS, who were treated with denosumab. The primary outcomes were change in pain score using quantitative pain scales (Visual Analogue Scale, Brief Pain Index, and patient-reported numerical rating scale), proportion of pain responders (≥ 2-point reduction in pain or an overall subjective improvement in pain), and change in analgesic requirement. The secondary outcome was adverse on-treatment and post-treatment events related to denosumab.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41858142/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41857571",
-      "title": "Development of ready-to-use tranexamic acid gauze as a hemostatic material for oral surgery: fabrication, hemostasis, and shelf-life.",
-      "authors": [
-        "Taechana Sitthikornvanich",
-        "Worawut Kriangkrai",
-        "Ariya Chantaramanee",
-        "Rudjit Tunthasen",
-        "Thanyaphat Engboonmeskul",
-        "Lalitkorn Promma",
-        "Teerawat Sukpaita"
-      ],
-      "publication_date": "2026-Mar-19",
-      "publication_date_iso": "2026-03-19",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41857571/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2740,68 +2887,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41856813/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41852036",
-      "title": "Bisphosphonate and statin: adverse effects of co-medication on wound healing in in vitro models of periodontal tissues.",
-      "authors": [
-        "Agnes Småland-Reksten",
-        "Anne E Agger",
-        "Aina M Lian",
-        "Janne E Reseland",
-        "Tormod B Krüger"
-      ],
-      "publication_date": "2026-Mar-18",
-      "publication_date_iso": "2026-03-18",
-      "abstract": "Bisphosphonates and statins may influence wound healing and are frequently prescribed to the same patient group. Bisphosphonates may induce osteonecrosis of the jaw; however, little information is available on the cellular mechanisms and biological effects of co-medication in oral tissues. The aim was to assess the effects of alendronate and simvastatin, both alone and combined, on osteoblasts and gingival fibroblasts in vitro. Primary human gingival fibroblasts and primary human osteoblasts were incubated with alendronate (5 µM) and simvastatin (1, 5 or 10 µM), alone or combined, for up to 14 days. Cells were assessed for viability by measuring lactate dehydrogenase activity and caspase-3 concentration in the cell culture media. Migration and proliferation potential was assessed by scratch-wound assay. Secreted levels of cytokines/chemokines were measured using Luminex 200 multianalytic profiling. High concentrations of simvastatin, both alone and combined with alendronate, affected the proliferation/migration potential and reduced scratch closure. The same exposure induced near abolishment of secreted levels of cytokines affecting angiogenesis, such as VEGF, IL-6, IL-8, and MCP-1, however little effect was found on cell viability. High concentrations of simvastatin, alone or combined with alendronate, may have a negative impact on angiogenetic markers and cell migration/proliferation, affecting wound healing and growth.",
-      "objective": "was to assess the effects of alendronate and simvastatin, both alone and combined, on osteoblasts and gingival fibroblasts in vitro. Primary human gingival fibroblasts and primary human osteoblasts were incubated with alendronate (5 µM) and simvastatin (1, 5 or 10 µM), alone or combined, for up to 14 days. Cells were assessed for viability by measuring lactate dehydrogenase activity and caspase-3 concentration in the cell culture media. Migration and proliferation potential was assessed by scratch-wound assay. Secreted levels of cytokines/chemokines were measured using Luminex 200 multianalytic profiling. High concentrations of simvastatin, both alone and combined with alendronate, affected the proliferation/migration potential and reduced scratch closure. The same exposure induced near abolishment of secreted levels of cytokines affecting angiogenesis, such as VEGF, IL-6, IL-8, and MCP-1, however little effect was found on cell viability. High concentrations of simvastatin, alone or combined with alendronate, may have a negative impact on angiogenetic markers and cell migration/proliferation, affecting wound healing and growth.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41852036/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41848802",
-      "title": "International Consensus Guidelines for Diagnostic Criteria and Checklist for Future Studies for Minimally Invasive Carcinoma ex Pleomorphic Adenoma: An HN CLEAR Initiative.",
-      "authors": [
-        "Beth M Beadle",
-        "Nazim Benzerdjeb",
-        "Junhun Cho",
-        "Valérie Costes-Martineau",
-        "William C Faquin",
-        "Ricardo Santiago Gomez",
-        "Ruta Gupta",
-        "Ivana Kholová",
-        "Toshitaka Nagao",
-        "Swapnil U Rane",
-        "Miguel Rito",
-        "Lester D R Thompson",
-        "Spinder Samra",
-        "Peter P Luk",
-        "Simion I Chiosea"
-      ],
-      "publication_date": "2026-Mar-18",
-      "publication_date_iso": "2026-03-18",
-      "abstract": "A variety of factors, including the extent of invasion, determine the clinical outcome in patients with carcinoma ex pleomorphic adenoma (Ca ex PA). A Head and Neck Consensus Language for Ease of Reproducibility (HN CLEAR) Steering Committee organized a working group (WG) to harmonize diagnostic and research approaches for assessing invasion in Ca ex PA.WG of head and neck pathologists and a radiation oncologist conducted 6 iterative rounds of online voting (Modified Delphi), using Google Forms, over an 8-month period on invasion in the setting of Ca ex PA. Agreement was defined by the same opinion of at least 50% of the responders. The list of parameters with predetermined options was developed.Minimally invasive Ca ex PA was defined as a pT1-2 pN0 carcinoma, resected en bloc with negative margins, with or without perineural invasion, without vascular invasion and without distant metastasis at presentation. Consensus was not reached on whether high grade histology is compatible with the concept of \"minimal invasion\". Diagnosis of minimal invasion is possible when tumor excision is complete (with negative margins), en bloc (without fragmentation), and requires sampling of the entire tumor capsule or tumor-normal interface. The consensus guidelines characterizing Ca ex PA and the list of challenging aspects are provided. The WG proposed a checklist for future research, aiming to refine the diagnosis of in situ and minimally invasive Ca ex PA.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41848802/",
-      "pmcid": "PMC13000011",
       "figure_urls": []
     },
     {
