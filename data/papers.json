@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T04:38:19Z",
+  "updated_at": "2026-03-28T04:25:31Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -762,6 +762,36 @@
       "figure_urls": []
     },
     {
+      "pmid": "41889532",
+      "title": "Delayed-onset maxillary sinus-cutaneous fistula of the lower eyelid following zygomatic implant removal: A case report.",
+      "authors": [
+        "Masato Tsuchiya",
+        "Yukako Ishihara",
+        "Satoshi Kubo",
+        "Ryuichi Azuma"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Zygomatic implants are an effective option for rehabilitating severely atrophic maxillae, but can occasionally cause complications involving the maxillary sinus and surrounding soft tissues. We report a rare case of a delayed cutaneous fistula that developed 1 year after zygomatic implant removal. A 62-year-old man with progressive tooth loss due to familial aggressive periodontitis underwent zygomatic implant placement, which failed because of sinusitis and was subsequently removed. One year later, he presented with a mass at the lateral lower eyelid. Computed tomography demonstrated a linear bone defect along the previous implant tract and a bony opening directly beneath the mass, which was continuous with the maxillary sinus. Indigo carmine fistulography confirmed communication between the cutaneous site and the nasopharynx through the sinus. Histopathological examination revealed granulomatous inflammation without malignancy. Although debridement and curettage achieved temporary improvement, recurrence occurred several weeks later. Persistent sinus inflammation draining through a residual bony defect was considered the cause of the delayed cutaneous fistula. Clinicians should be aware that, even after zygomatic implant removal, chronic sinus infection may lead to cutaneous fistula formation, underscoring the importance of careful differential diagnosis and long-term follow-up in patients presenting with lower eyelid masses.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41889532/",
+      "pmcid": "PMC13015202",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13015202/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13015202/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13015202/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13015202/bin/gr2.gif"
+      ]
+    },
+    {
       "pmid": "41858606",
       "title": "Post-discharge opioid prescribing after surgery in the United States: a population-based analysis of specialty variation and prescribing intensity.",
       "authors": [
@@ -855,7 +885,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41789672/",
       "pmcid": "PMC12981022",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12981022/bin/or-55-05-09088-g00.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12981022/bin/or-55-05-09088-g00.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12981022/bin/or-55-05-09088-g01.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12981022/bin/or-55-05-09088-g01.gif"
+      ]
     },
     {
       "pmid": "41780218",
@@ -1862,6 +1897,39 @@
       "figure_urls": []
     },
     {
+      "pmid": "41557105",
+      "title": "Transcriptomic Profiling Reveals Mechanisms of Anoikis Resistance in Spheroid-Cultured Human Umbilical Cord Mesenchymal Stem Cells.",
+      "authors": [
+        "Yuma Iwata",
+        "Tomofumi Kodama",
+        "Takahiro Ishikawa",
+        "Li Ni",
+        "Xianqi Li",
+        "Koki Baba",
+        "Koyo Takahashi",
+        "Naoto Ogiwara",
+        "Sonoko Hatano",
+        "Akifumi Furuhashi",
+        "Yoshiaki Kazaoka",
+        "Hideaki Kagami"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Mesenchymal stem (stromal) cells are a promising cell source for regenerative medicine, but their therapeutic efficacy is often limited by poor engraftment and survival post-transplantation. One major contributing factor is anoikis, a form of apoptosis triggered by cell detachment from the extracellular matrix. Spheroid culture systems have shown potential to enhance cell survival and stemness, yet the mechanisms by which they confer resistance to anoikis remain unclear. We established spontaneous spheroids from human umbilical cord-derived mesenchymal stem (stromal) cells (UC-MSCs) and performed RNA-sequencing analysis to compare gene expression profiles between spheroid and monolayer cultures. Differentially expressed genes were identified and subjected to GO and pathway enrichment analyses. Functional assays included the use of PI3K/Akt and HIF-1 pathway inhibitors to dissect their role in anoikis regulation. Expression levels of apoptosis-related genes were validated by qRT-PCR. Spheroid UC-MSCs exhibited significantly enhanced resistance to anoikis. Transcriptomic analysis revealed upregulation of both pro-apoptotic and anti-apoptotic genes, suggesting a balanced but regulated apoptotic threshold. Downregulation of executioner genes such as BAX, BAK1, and FADD, along with activation of PI3K/Akt and HIF-1α pathways, suggested effective suppression of apoptotic execution. Inhibitor experiments confirmed these pathways as key contributors to anoikis resistance. Our findings demonstrate that spheroid formation promotes a survival-permissive gene expression profile in UC-MSCs, driven in part by PI3K/Akt and hypoxia signaling. These insights advance the understanding of spheroid-mediated anoikis resistance and may inform strategies to enhance stem cell-based therapies.",
+      "objective": "",
+      "study_methods": "We established spontaneous spheroids from human umbilical cord-derived mesenchymal stem (stromal) cells (UC-MSCs) and performed RNA-sequencing analysis to compare gene expression profiles between spheroid and monolayer cultures. Differentially expressed genes were identified and subjected to GO and pathway enrichment analyses. Functional assays included the use of PI3K/Akt and HIF-1 pathway inhibitors to dissect their role in anoikis regulation. Expression levels of apoptosis-related genes were validated by qRT-PCR.",
+      "methods": "We established spontaneous spheroids from human umbilical cord-derived mesenchymal stem (stromal) cells (UC-MSCs) and performed RNA-sequencing analysis to compare gene expression profiles between spheroid and monolayer cultures. Differentially expressed genes were identified and subjected to GO and pathway enrichment analyses. Functional assays included the use of PI3K/Akt and HIF-1 pathway inhibitors to dissect their role in anoikis regulation. Expression levels of apoptosis-related genes were validated by qRT-PCR.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41557105/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41544400",
       "title": "Modeling the mechanical anisotropy in the trabecular bone with the measurement and consideration of the structural anisotropy.",
       "authors": [
@@ -1960,6 +2028,33 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12980049/bin/JOOR-53-866-g002.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12980049/bin/JOOR-53-866-g003.jpg"
       ]
+    },
+    {
+      "pmid": "41477729",
+      "title": "How do people perceive orthognathic surgery on YouTube? A sentiment and thematic analysis of 111,953 comments.",
+      "authors": [
+        "Ahmet Yıldırım",
+        "Yavuz Selim Genç",
+        "Ruşen Erdem",
+        "Dilara Boylu",
+        "Ömer Faruk Boylu",
+        "Suleyman Kutalmış Buyuk"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Patients in the orthognathic surgery process frequently turn to social media to obtain information and share their experiences. Accordingly, the present study analyzed YouTube comments to evaluate patient satisfaction, emotional tendencies, and social interactions, aiming to draw implications for improving communication and psychological support strategies. A total of 250,582 comments from 8044 YouTube videos on orthognathic surgery were collected using Mozdeh (University of Wolverhampton, Wolverhampton, UK) and R software (version 4.2.2, Posit, PBC, Boston, Mass). After preprocessing, 111,953 comments remained. Sentiment analysis (AFFIN/NRC lexicons), structural topic modeling, and manual thematic analysis (10% sample) were performed. Gender-based discourse differences were examined using Chi-square tests with Benjamini-Hochberg correction. Ten main themes were identified through structural topic modeling and thematic analyses. Positive emotions were mostly expressed, though fear and negativity were also observed. Esthetic and emotional expressions were used more often by women, whereas cost-related terms were used more often by men. Thematic qualitative analyses revealed that YouTube videos and comments were perceived by patients as a source of psychological support, whereas certain misleading content was also found to have the potential to misguide patients during the treatment process. This study has transcended the limited scope of traditional surveys, which are confined to specific time periods and small sample sizes, by making it possible to access patient experiences shared on the YouTube platform without temporal or spatial constraints. The analyses revealed prevalent misconceptions on social media and assessed patients' expectations, concerns, and psychological states. The findings serve as a practical guide for healthcare professionals in developing patient-centered communication and care strategies.",
+      "objective": "",
+      "study_methods": "A total of 250,582 comments from 8044 YouTube videos on orthognathic surgery were collected using Mozdeh (University of Wolverhampton, Wolverhampton, UK) and R software (version 4.2.2, Posit, PBC, Boston, Mass). After preprocessing, 111,953 comments remained. Sentiment analysis (AFFIN/NRC lexicons), structural topic modeling, and manual thematic analysis (10% sample) were performed. Gender-based discourse differences were examined using Chi-square tests with Benjamini-Hochberg correction.",
+      "methods": "A total of 250,582 comments from 8044 YouTube videos on orthognathic surgery were collected using Mozdeh (University of Wolverhampton, Wolverhampton, UK) and R software (version 4.2.2, Posit, PBC, Boston, Mass). After preprocessing, 111,953 comments remained. Sentiment analysis (AFFIN/NRC lexicons), structural topic modeling, and manual thematic analysis (10% sample) were performed. Gender-based discourse differences were examined using Chi-square tests with Benjamini-Hochberg correction.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41477729/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41431257",
@@ -2574,6 +2669,83 @@
       "figure_urls": []
     },
     {
+      "pmid": "41894301",
+      "title": "Trends in dental procedures in England and Wales: A decade of ecological analysis.",
+      "authors": [
+        "Mohammed I Alsaif",
+        "Abdullah S Bin Rahmah",
+        "Hamdan Alamri",
+        "Hussain D Alsayed",
+        "Abdallah Y Naser"
+      ],
+      "publication_date": "2026-Mar-27",
+      "publication_date_iso": "2026-03-27",
+      "abstract": "Oral cavity procedures are essential for maintaining or improving oral health. In England and Wales, many factors affect these procedure trends. This study aimed to examine trends in oral cavity procedures in England and Wales from 2014 to 2023. This ecological study used main procedures and intervention data from the Patient Episode Database for Wales and the Hospital Episode Statistics database in England. The total annual number of procedures decreased by 30.1%, representing a 33.6% decrease in procedure rate from 633.67 (95% confidence interval: 631.63-635.72) in 2014 to 421.05 (95% confidence interval: 419.42-422.67) in 2023 per 100,000 person-years, trend test, P < .05. The most prevalent oral cavity procedures were \"tooth and gingiva-related procedures\" and \"procedures related to tonsil and other parts of the mouth.\" Rates of all types of oral cavity procedures decreased from 2014 to 2023. Age and gender impacted the rate of oral cavity-related procedures; the 15- to 59-year age group accounted for 54.3% of the oral cavity procedures, and females contributed 53.6%. Oral cavity procedure trends were declining in England and Wales. Factors such as advancements in intervention and practical preventive approaches, the impact of the coronavirus disease 2019 pandemic, and demographic inequalities in access to these services have been associated with these declines.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41894301/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41891532",
+      "title": "The Natural Evolution of Macroglossia Among Beckwith-Wiedemann Patients: A 30-Year Institutional Review.",
+      "authors": [
+        "Gabriel C Bouhadana",
+        "Éolie Delisle",
+        "Daniel E Borsuk",
+        "Patricia Bortoluzzi"
+      ],
+      "publication_date": "2026-Mar-27",
+      "publication_date_iso": "2026-03-27",
+      "abstract": "Macroglossia is a hallmark of Beckwith-Wiedemann syndrome (BWS). Tongue reduction surgery is classically performed to address such issues, but its necessity in patients without airway or feeding compromise remains debated. This study evaluates long-term outcomes of conservative management. A retrospective review of patients with BWS seen from 1993 to 2023 was performed. Data collected included demographics, comorbidities, occlusion, cephalometrics, and speech outcomes. Dental and dento-skeletal measures were compared with age- and sex-matched standards. Of 59 patients, 28 met the inclusion criteria (mean age: 14.3±4.0 y). Comorbidities included attention deficit hyperactivity disorder (29%) and autism spectrum disorder (21%). None required eventual tongue reduction, whereas 2 (7.1%) underwent orthognathic surgery for maxillo-mandibular discrepancies. Class III dental (molar) malocclusion persisted in 57%, though mean overbite, overjet, and maximal opening were within normative ranges. Cephalometrics showed mandibular length within expected norms, whereas mandibular width and Wits values were more often outside normal limits. Speech evaluations revealed long-term articulation difficulties in 80%, mainly interdental sigmatism, with less frequent resonance, voice, fluidity, or intelligibility issues. No feeding issues were present in the long term. In patients with BWS without airway or feeding difficulties, conservative management of macroglossia results in acceptable long-term outcomes. Malocclusion and articulation issues are present but manageable without invasive interventions. Nearly all patients avoid tongue reduction or orthognathic surgery. There seems to be a tendency for tongue accommodation by the mandible in its antegonial width.",
+      "objective": "",
+      "study_methods": "A retrospective review of patients with BWS seen from 1993 to 2023 was performed. Data collected included demographics, comorbidities, occlusion, cephalometrics, and speech outcomes. Dental and dento-skeletal measures were compared with age- and sex-matched standards.",
+      "methods": "A retrospective review of patients with BWS seen from 1993 to 2023 was performed. Data collected included demographics, comorbidities, occlusion, cephalometrics, and speech outcomes. Dental and dento-skeletal measures were compared with age- and sex-matched standards.",
+      "results": "in acceptable long-term outcomes. Malocclusion and articulation issues are present but manageable without invasive interventions. Nearly all patients avoid tongue reduction or orthognathic surgery. There seems to be a tendency for tongue accommodation by the mandible in its antegonial width.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41891532/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41891531",
+      "title": "Aesthetic Evaluation of Skeletal Class III Patients Treated With Orthognathic Surgery or Facemask Therapy.",
+      "authors": [
+        "İrem Öztürk Kirkpunar",
+        "Yağmur Kiliçaslan",
+        "Türkan Sezen Erhamza",
+        "Ferabi Erhan Özdiler",
+        "Büşra Özal Güneş"
+      ],
+      "publication_date": "2026-Mar-27",
+      "publication_date_iso": "2026-03-27",
+      "abstract": "This study aimed to evaluate how changes in facial aesthetics of skeletal class III patients, treated with different modalities-bimaxillary surgery, maxillary surgery, or facemask therapy-were perceived by panelists with diverse professional and demographic backgrounds. Pretreatment and posttreatment profile photographs and silhouettes of 29 skeletal class III patients (bimaxillary=9, maxillary=9, facemask=10) were evaluated by 180 panelists (90 females, 90 males) from 9 groups: dental students, orthodontists, plastic surgeons, oral and maxillofacial surgeons, general dentists, otorhinolaryngologists, fine arts students, and parents of orthodontic patients. A visual analog scale (VAS) was used for scoring, and intergroup differences were analyzed using mixed-effects linear models. Posttreatment aesthetic scores increased significantly in all treatment modalities (P<0.05), with the greatest improvement in the bimaxillary surgery group and the least in the facemask group. Profile photographs consistently received higher ratings than silhouettes (P<0.05). No gender differences were observed in profile evaluations, although male panelists rated silhouettes higher (P<0.05). Parents of orthodontic patients gave the highest scores, while professionals were more critical. The most pronounced aesthetic improvement in skeletal class III patients was achieved through surgical interventions. Aesthetic perception was influenced not only by the treatment modality but also by the professional and demographic characteristics of the evaluators. These findings emphasize the importance of considering patient expectations and societal perceptions of facial aesthetics in clinical decision-making.",
+      "objective": "",
+      "study_methods": "Pretreatment and posttreatment profile photographs and silhouettes of 29 skeletal class III patients (bimaxillary=9, maxillary=9, facemask=10) were evaluated by 180 panelists (90 females, 90 males) from 9 groups: dental students, orthodontists, plastic surgeons, oral and maxillofacial surgeons, general dentists, otorhinolaryngologists, fine arts students, and parents of orthodontic patients. A visual analog scale (VAS) was used for scoring, and intergroup differences were analyzed using mixed-effects linear models.",
+      "methods": "Pretreatment and posttreatment profile photographs and silhouettes of 29 skeletal class III patients (bimaxillary=9, maxillary=9, facemask=10) were evaluated by 180 panelists (90 females, 90 males) from 9 groups: dental students, orthodontists, plastic surgeons, oral and maxillofacial surgeons, general dentists, otorhinolaryngologists, fine arts students, and parents of orthodontic patients. A visual analog scale (VAS) was used for scoring, and intergroup differences were analyzed using mixed-effects linear models.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41891531/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41885712",
       "title": "Underutilization of syndrome-specific ICD-10 codes for genetic epilepsies: Implications for precision medicine.",
       "authors": [
@@ -2638,82 +2810,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41885631/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41885377",
-      "title": "Hand injuries associated with mobile phone use: A systematic review.",
-      "authors": [
-        "Savannah C Braud",
-        "Melinda J Choi",
-        "Kyle Y Xu",
-        "Kashyap Komarraju Tadisina"
-      ],
-      "publication_date": "2026-Mar-26",
-      "publication_date_iso": "2026-03-26",
-      "abstract": "BackgroundRepetitive hand movements during mobile device use, such as texting and typing, may lead to cumulative stress on hand structures and result in musculoskeletal conditions with potential surgical relevance. The increasing ubiquity of smartphone use raises concern for the development of overuse injuries, particularly among younger individuals and high-frequency users.ObjectiveTo systematically review and characterize surgically relevant hand and wrist pathologies associated with mobile phone use.MethodsWe conducted a systematic search of Embase, PubMed, and Scopus using terms related to mobile device use (e.g., \"texting,\" \"smartphone\") and hand conditions requiring or potentially requiring surgical intervention (e.g., \"de Quervain,\" \"trigger thumb\"). Studies were included if they reported hand or wrist injuries in mobile device users with surgical implications. Studies unrelated to hand anatomy or lacking relevance to surgical pathology were excluded. Abstract and full-text screening were followed by data extraction.ResultsOf 588 articles initially identified, 42 met inclusion criteria, representing over 67,000 individuals. The mean age across studies was 24.6 years. The most commonly reported surgically relevant conditions included de Quervain's tenosynovitis (n=9), carpal tunnel syndrome (n=6), tendinitis (n=4), and trigger finger (n=1). Across studies, increased mobile phone use was associated with a higher risk of developing these pathologies.ConclusionsAs mobile device usage continues to rise, recognition of surgically relevant hand injuries is essential. Preventive strategies and ergonomic interventions may reduce the burden of these injuries, particularly in younger and high-use populations.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "in musculoskeletal conditions with potential surgical relevance. The increasing ubiquity of smartphone use raises concern for the development of overuse injuries, particularly among younger individuals and high-frequency users.ObjectiveTo systematically review and characterize surgically relevant hand and wrist pathologies associated with mobile phone use.MethodsWe conducted a systematic search of Embase, PubMed, and Scopus using terms related to mobile device use (e.g., \"texting,\" \"smartphone\") and hand conditions requiring or potentially requiring surgical intervention (e.g., \"de Quervain,\" \"trigger thumb\"). Studies were included if they reported hand or wrist injuries in mobile device users with surgical implications. Studies unrelated to hand anatomy or lacking relevance to surgical pathology were excluded. Abstract and full-text screening were followed by data extraction.ResultsOf 588 articles initially identified, 42 met inclusion criteria, representing over 67,000 individuals. The mean age across studies was 24.6 years. The most commonly reported surgically relevant conditions included de Quervain's tenosynovitis (n=9), carpal tunnel syndrome (n=6), tendinitis (n=4), and trigger finger (n=1). Across studies, increased mobile phone use was associated with a higher risk of developing these pathologies.ConclusionsAs mobile device usage continues to rise, recognition of surgically relevant hand injuries is essential. Preventive strategies and ergonomic interventions may reduce the burden of these injuries, particularly in younger and high-use populations.",
-      "conclusion": "As mobile device usage continues to rise, recognition of surgically relevant hand injuries is essential. Preventive strategies and ergonomic interventions may reduce the burden of these injuries, particularly in younger and high-use populations.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41885377/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41882427",
-      "title": "Smartphone-based patient-driven teledentistry for postoperative monitoring: a pilot study.",
-      "authors": [
-        "Benjamin Pasztor",
-        "Franz J Strauss",
-        "Ronald E Jung",
-        "Marc Balmer",
-        "Tim Joda",
-        "Riccardo D Kraus"
-      ],
-      "publication_date": "2026-Mar-26",
-      "publication_date_iso": "2026-03-26",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41882427/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41879766",
-      "title": "Caution Before Routine Preoperative Hemoglobin A1c Testing-Reply.",
-      "authors": [
-        "Thomas Schaschinger",
-        "Adriana C Panayi",
-        "Gabriel Hundeshagen"
-      ],
-      "publication_date": "2026-Mar-25",
-      "publication_date_iso": "2026-03-25",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41879766/",
       "pmcid": "",
       "figure_urls": []
     },
