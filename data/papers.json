@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T04:40:21Z",
+  "updated_at": "2026-04-01T04:51:10Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -733,9 +733,9 @@
       "pmcid": "PMC12994450",
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g1.gif",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g3.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g4.jpg"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g2.gif"
       ]
     },
     {
@@ -879,6 +879,37 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41456504/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41865458",
+      "title": "Α-Ketoglutarate ameliorates appendicitis by modulating Gln metabolism and inhibiting NF - κB signaling pathway.",
+      "authors": [
+        "Yuxiang Wang",
+        "Yishu Lu",
+        "Shilin Wang",
+        "Jiahao Luo",
+        "Zihao Hu",
+        "Yingying Zhuang",
+        "Hao Li",
+        "Linxiao Li",
+        "Liesheng Lu",
+        "Chenzhang Shi"
+      ],
+      "publication_date": "2026-May-15",
+      "publication_date_iso": "2026-05-15",
+      "abstract": "Acute appendicitis, a prevalent surgical emergency, is characterized by dysregulated immune responses and metabolic disturbances. Current therapeutic strategies, including surgical intervention and antibiotic therapy, remain limited by complications and recurrence risks. This study investigates the role of Glutamine (Gln) metabolism and its downstream metabolite α-Ketoglutarate (α-KG) in modulating inflammation and intestinal barrier dysfunction during appendicitis. Transcriptomic profiling of human appendiceal tissues and murine cecal ligation and puncture (CLP) models were employed. Clinical specimens from acute appendicitis patients and murine sepsis models were analyzed via RNA sequencing, RT-qPCR, immunofluorescence, and biochemical assays. The therapeutic effects of exogenous α-KG supplementation were evaluated through survival analysis, cytokine profiling, and NF-κB pathway modulation. Inflamed appendiceal tissues exhibited marked downregulation of Gln catabolic genes (GLS1, GLUD1) and reduced α-KG levels, correlating with NF-κB hyperactivation and cytokine storms. Murine CLP models confirmed impaired Gln-α-KG axis activity, exacerbating systemic inflammation. Exogenous α-KG supplementation suppressed p65 phosphorylation, stabilized IκBα, and attenuated pro-inflammatory cytokines (IL-6, TNF-α), significantly improving survival rates. Combined α-KG and antibiotic therapy demonstrated synergistic efficacy, while Gln alone showed limited benefits. Dysfunctional Gln metabolism drives appendicitis pathogenesis through NF-κB-mediated inflammation. In our preclinical models, α-KG demonstrated potent therapeutic effects, alleviating disease progression via both metabolic and anti-inflammatory mechanisms. These results from animal studies and human tissue analysis highlight α-KG as a potential adjunctive therapy for acute appendicitis, laying the groundwork for further clinical exploration.",
+      "objective": "",
+      "study_methods": "Transcriptomic profiling of human appendiceal tissues and murine cecal ligation and puncture (CLP) models were employed. Clinical specimens from acute appendicitis patients and murine sepsis models were analyzed via RNA sequencing, RT-qPCR, immunofluorescence, and biochemical assays. The therapeutic effects of exogenous α-KG supplementation were evaluated through survival analysis, cytokine profiling, and NF-κB pathway modulation.",
+      "methods": "Transcriptomic profiling of human appendiceal tissues and murine cecal ligation and puncture (CLP) models were employed. Clinical specimens from acute appendicitis patients and murine sepsis models were analyzed via RNA sequencing, RT-qPCR, immunofluorescence, and biochemical assays. The therapeutic effects of exogenous α-KG supplementation were evaluated through survival analysis, cytokine profiling, and NF-κB pathway modulation.",
+      "results": "from animal studies and human tissue analysis highlight α-KG as a potential adjunctive therapy for acute appendicitis, laying the groundwork for further clinical exploration.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41865458/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1524,30 +1555,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41468697",
-      "title": "A four-pronged approach to unleash the regenerative potential of extracellular vesicles for bone regeneration: A systematic review of in vitro and in vivo studies.",
-      "authors": [
-        "Shayan Salehy",
-        "Hanieh Nokhbatolfoghahaei",
-        "Arash Khojasteh"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "The clinical application of Extracellular vesicles for bone regeneration faces several key challenges, including low production yield and potency, a lack of standardized isolation and characterization methods, and an incomplete understanding of their regenerative mechanisms, which render their clinical use ineffective. This systematic review addresses these limitations by elucidating regenerative mechanisms and identifying strategies to improve EV potency through an assessment of existing literature. A comprehensive search on MEDLINE, Scopus, and Web of Science yielded 133 articles, 72 (68 in vitro, 27 in vivo) of which met the inclusion criteria based on studies investigating methods to enhance EV bone regenerative potential. Data regarding EV source, affected cells and signaling pathways, study design, animal model, bone defect, administration route, and outcomes (bone formation and vascularization) were extracted and synthesized. Four distinct approaches were identified to improve EV bone regenerative potential at the cell source level: Targeted gene modification, chemical manipulation, Physical stimulation, and Culture-Based Optimization. While all included in vivo studies reported a significant increase in bone formation, none of the studies specified a method to eliminate bias (specifically selection bias, reporting bias, attrition bias, performance bias, and detection bias) in their studies; thus, any interpretations should be made with caution. Future studies should prioritize rigorous methodology centered around EV optimization, including targeted mechanisms for enhanced bone formation, and explore ways to improve clinical translatability. This systematic review was registered with PROSPERO (CDR42024511757).",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41468697/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41309405",
       "title": "Do HIV-positive patients achieve successful outcomes in elective orthognathic osteotomies?: A case series.",
       "authors": [
@@ -1568,6 +1575,57 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41309405/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41914408",
+      "title": "Influence of Barrier Membrane and Peri-Implantitis-Like Bone Defect Configurations on Graft Stability.",
+      "authors": [
+        "Fernando Suárez",
+        "Emilio Couso-Queiruga",
+        "Jorge Osorio",
+        "Gonzalo Blasi",
+        "Alberto Monje"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "The objective of this ex vivo investigation was to study the significance of barrier membrane application on graft stability across different peri-implantitis-related bone defect configurations. Fresh pig mandibles were used to create standardized peri-implant-like bone defects, including dehiscence defects, 2-3 wall defects, and circumferential defects. Defects were treated using identical grafting and flap closure protocols, with or without barrier membrane application. High-resolution cone-beam computed tomography (CBCT) scans were obtained before flap closure, after primary closure, and following simulated soft-tissue movement in order to analyze graft material thickness at multiple predefined levels along the implant surface. Changes in graft thickness over time were analyzed using generalized estimating equation (GEE) linear regression models. A total of 120 bone augmentation procedures in 20 pig hemimandibles were analyzed. In dehiscence defect morphologies, graft thickness decreased significantly over time, with the greatest dimensional changes occurring immediately after primary wound closure (GEE main effect of TIME, p < 0.001). In these defects, pronounced coronal (platform level) graft displacement was observed, with thickness reductions of approximately 1.2-1.4 mm after closure and total reductions exceeding 85% following simulated soft-tissue movement. Barrier membrane application did not prevent graft collapse nor modify the coronal temporal pattern; however, it resulted in a limited attenuation of graft loss at selected middle levels (approximately 0.15-0.25 mm, corresponding to 5%-15% relative reduction). In 2-3 wall defects, graft thickness also decreased significantly over time across all evaluated levels (p < 0.001), with membrane application consistently attenuating early graft displacement at coronal and middle levels. In contrast, circumferential defects demonstrated high intrinsic dimensional stability, with minimal dimensional changes over time (< 0.1 mm) and no significant membrane-related effects. Across defect types exhibiting graft displacement, coronal measurements consistently showed the greatest susceptibility to thickness reduction. Graft stability following reconstructive therapy of peri-implantitis-like bone defects is primarily influenced by defect morphology. Hence, the effect of barrier membrane coverage appears to be defect-dependent. Membrane application provides limited attenuation of graft displacement in 2-3 wall defects while no consistent or clinically meaningful additional effect is observed in dehiscence or circumferential defects.",
+      "objective": "of this ex vivo investigation was to study the significance of barrier membrane application on graft stability across different peri-implantitis-related bone defect configurations. Fresh pig mandibles were used to create standardized peri-implant-like bone defects, including dehiscence defects, 2-3 wall defects, and circumferential defects. Defects were treated using identical grafting and flap closure protocols, with or without barrier membrane application. High-resolution cone-beam computed tomography (CBCT) scans were obtained before flap closure, after primary closure, and following simulated soft-tissue movement in order to analyze graft material thickness at multiple predefined levels along the implant surface. Changes in graft thickness over time were analyzed using generalized estimating equation (GEE) linear regression models. A total of 120 bone augmentation procedures in 20 pig hemimandibles were analyzed. In dehiscence defect morphologies, graft thickness decreased significantly over time, with the greatest dimensional changes occurring immediately after primary wound closure (GEE main effect of TIME, p < 0.001). In these defects, pronounced coronal (platform level) graft displacement was observed, with thickness reductions of approximately 1.2-1.4 mm after closure and total reductions exceeding 85% following simulated soft-tissue movement. Barrier membrane application did not prevent graft collapse nor modify the coronal temporal pattern; however, it resulted in a limited attenuation of graft loss at selected middle levels (approximately 0.15-0.25 mm, corresponding to 5%-15% relative reduction). In 2-3 wall defects, graft thickness also decreased significantly over time across all evaluated levels (p < 0.001), with membrane application consistently attenuating early graft displacement at coronal and middle levels. In contrast, circumferential defects demonstrated high intrinsic dimensional stability, with minimal dimensional changes over time (< 0.1 mm) and no significant membrane-related effects. Across defect types exhibiting graft displacement, coronal measurements consistently showed the greatest susceptibility to thickness reduction. Graft stability following reconstructive therapy of peri-implantitis-like bone defects is primarily influenced by defect morphology. Hence, the effect of barrier membrane coverage appears to be defect-dependent. Membrane application provides limited attenuation of graft displacement in 2-3 wall defects while no consistent or clinically meaningful additional effect is observed in dehiscence or circumferential defects.",
+      "study_methods": "Fresh pig mandibles were used to create standardized peri-implant-like bone defects, including dehiscence defects, 2-3 wall defects, and circumferential defects. Defects were treated using identical grafting and flap closure protocols, with or without barrier membrane application. High-resolution cone-beam computed tomography (CBCT) scans were obtained before flap closure, after primary closure, and following simulated soft-tissue movement in order to analyze graft material thickness at multiple predefined levels along the implant surface. Changes in graft thickness over time were analyzed using generalized estimating equation (GEE) linear regression models.",
+      "methods": "Fresh pig mandibles were used to create standardized peri-implant-like bone defects, including dehiscence defects, 2-3 wall defects, and circumferential defects. Defects were treated using identical grafting and flap closure protocols, with or without barrier membrane application. High-resolution cone-beam computed tomography (CBCT) scans were obtained before flap closure, after primary closure, and following simulated soft-tissue movement in order to analyze graft material thickness at multiple predefined levels along the implant surface. Changes in graft thickness over time were analyzed using generalized estimating equation (GEE) linear regression models.",
+      "results": "ed in a limited attenuation of graft loss at selected middle levels (approximately 0.15-0.25 mm, corresponding to 5%-15% relative reduction). In 2-3 wall defects, graft thickness also decreased significantly over time across all evaluated levels (p < 0.001), with membrane application consistently attenuating early graft displacement at coronal and middle levels. In contrast, circumferential defects demonstrated high intrinsic dimensional stability, with minimal dimensional changes over time (< 0.1 mm) and no significant membrane-related effects. Across defect types exhibiting graft displacement, coronal measurements consistently showed the greatest susceptibility to thickness reduction. Graft stability following reconstructive therapy of peri-implantitis-like bone defects is primarily influenced by defect morphology. Hence, the effect of barrier membrane coverage appears to be defect-dependent. Membrane application provides limited attenuation of graft displacement in 2-3 wall defects while no consistent or clinically meaningful additional effect is observed in dehiscence or circumferential defects.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41914408/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41914391",
+      "title": "Patient-Reported Outcomes Following Loss of Permanent Incisors due to Traumatic Dental Injuries: A Retrospective Cross-Sectional Pilot Cohort Study.",
+      "authors": [
+        "Josephine Solgaard Henriksen",
+        "Eva Lauridsen",
+        "Simon Storgård Jensen",
+        "Nuno Vibe Hermann"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "This study aimed to investigate the effects of trauma-related tooth loss before age 18 years on adolescents and young adults. Ninety-three patients with permanent incisor loss due to traumatic dental injury (TDI) completed a newly developed pilot, TDI-specific questionnaire evaluating their experiences following the loss of a permanent incisor. Descriptive statistics were used to analyze responses, and multiple linear regression was used to examine the effects of age and sex. Patient-reported outcome measures indicated that 74.2% of the respondents reported an impact of tooth loss on their appearance. The mean score for perceived esthetic impact was 3.62 on a 0-10 scale. Despite treatment completion, 78.5% of patients reported recurring thoughts regarding their tooth loss, and 81.7% indicated that, to varying degrees, their tooth loss imposed limitations on their social interactions. Dissatisfaction with temporary tooth replacements was reported by several patients. Among the 93 patients, 58 (62.3%) had received their permanent tooth placement and expressed very high satisfaction with this solution (mean score: 9.05 on a 0-10 scale). Overall, 92.5% of the participants reported satisfaction with the communication during the treatment. Sex significantly affected the patient responses regarding esthetic appearance and satisfaction with the course of treatment. This patient-reported outcome-based study indicates that trauma-related tooth loss occurring at a young age adversely affects the oral health-related quality of life of adolescents and young adults, even after treatment completion, thereby impacting their overall quality of life.",
+      "objective": "",
+      "study_methods": "Ninety-three patients with permanent incisor loss due to traumatic dental injury (TDI) completed a newly developed pilot, TDI-specific questionnaire evaluating their experiences following the loss of a permanent incisor. Descriptive statistics were used to analyze responses, and multiple linear regression was used to examine the effects of age and sex.",
+      "methods": "Ninety-three patients with permanent incisor loss due to traumatic dental injury (TDI) completed a newly developed pilot, TDI-specific questionnaire evaluating their experiences following the loss of a permanent incisor. Descriptive statistics were used to analyze responses, and multiple linear regression was used to examine the effects of age and sex.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41914391/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1617,6 +1675,36 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41826006/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41824280",
+      "title": "Association Between Anticholinergic Burden and Dry Mouth Severity in Acutely Ill Older Adults.",
+      "authors": [
+        "Ingrid Beate Ringstad",
+        "Eva Skovlund",
+        "Leonor Roa Santervas",
+        "Hege Kersten",
+        "Katrine Gahre Fjeld",
+        "Lene Hystad Hove",
+        "Torgeir Bruun Wyller",
+        "Janicke Liaaen Jensen",
+        "Rita Romskaug"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Dry mouth is a common and burdensome condition in older adults and its severity may increase with use of anticholinergic medications. The aims were to describe anticholinergic medication use among acutely ill older adults, examine the association between anticholinergic burden and dry mouth severity using the composite Dry Mouth Severity Points (DMSP) measure and investigate whether the association differs by sex. Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression. Of 382 examined patients, 256 (mean age 84 ± 7 years, 70% women) had complete data. Mean [standard deviation (SD)] ACB score was 2.0 (1.7); 18% had ACB = 0, 50% had ACB = 1-2 and 32% had ACB = ≥ 3. DMSP scores of 0, 1, 2 and ≥ 3 were present in 29%, 36%, 23% and 12%, respectively. Compared with patients with ACB = 0, those with ACB = 1-2 [odds ratio (OR) = 2.06, 95% confidence interval (CI) 1.07-3.97) and ACB = ≥ 3 (OR = 2.25, 95% CI 1.09-4.63) had higher odds of more severe dry mouth. Women had significantly higher ACB and DMSP scores than men. Even lower anticholinergic burden was associated with greater dry mouth severity, highlighting the need for early recognition and proactive management in acutely ill older adults.",
+      "objective": "were to describe anticholinergic medication use among acutely ill older adults, examine the association between anticholinergic burden and dry mouth severity using the composite Dry Mouth Severity Points (DMSP) measure and investigate whether the association differs by sex. Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression. Of 382 examined patients, 256 (mean age 84 ± 7 years, 70% women) had complete data. Mean [standard deviation (SD)] ACB score was 2.0 (1.7); 18% had ACB = 0, 50% had ACB = 1-2 and 32% had ACB = ≥ 3. DMSP scores of 0, 1, 2 and ≥ 3 were present in 29%, 36%, 23% and 12%, respectively. Compared with patients with ACB = 0, those with ACB = 1-2 [odds ratio (OR) = 2.06, 95% confidence interval (CI) 1.07-3.97) and ACB = ≥ 3 (OR = 2.25, 95% CI 1.09-4.63) had higher odds of more severe dry mouth. Women had significantly higher ACB and DMSP scores than men. Even lower anticholinergic burden was associated with greater dry mouth severity, highlighting the need for early recognition and proactive management in acutely ill older adults.",
+      "study_methods": "Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression.",
+      "methods": "Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41824280/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2719,6 +2807,61 @@
       "figure_urls": []
     },
     {
+      "pmid": "41914846",
+      "title": "Maxillofacial Fractures After Le Fort I and Bilateral Sagittal Split Osteotomy Using Two 2-Hole Miniplate Fixation.",
+      "authors": [
+        "Yuki Okawa",
+        "Ryo Sasaki",
+        "Sahori Matsuno",
+        "Yorikatsu Watanabe"
+      ],
+      "publication_date": "2026-Mar-31",
+      "publication_date_iso": "2026-03-31",
+      "abstract": "Maxillofacial trauma occurring shortly after orthognathic surgery has been rarely reported. The authors present a 21-year-old man with mandibular prognathism who underwent Le Fort I osteotomy combined with bilateral sagittal split ramus osteotomy (BSSO). The mandible was stabilized with two 2-hole titanium miniplates placed along the superior border on each side. Eight weeks postoperatively, he sustained high-energy facial trauma in a motorcycle accident, resulting in fractures of the mandibular symphysis, bilateral condyles, and maxilla, but notably no fractures at the osteotomy sites. Open reduction and internal fixation were performed, and his postoperative course was uneventful, with stable occlusion achieved at 6-month follow-up. This case demonstrates that appropriately designed rigid fixation can prevent refracture at osteotomy sites even after early high-energy trauma in the early postoperative period, when bone healing is still incomplete.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing in fractures of the mandibular symphysis, bilateral condyles, and maxilla, but notably no fractures at the osteotomy sites. Open reduction and internal fixation were performed, and his postoperative course was uneventful, with stable occlusion achieved at 6-month follow-up. This case demonstrates that appropriately designed rigid fixation can prevent refracture at osteotomy sites even after early high-energy trauma in the early postoperative period, when bone healing is still incomplete.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41914846/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41913412",
+      "title": "Correlation Study of Anxiety, Body Dysmorphic Disorder, and Quality of Life in Preoperative Patients for Orthognathic Surgery: A Cross-Sectional Study.",
+      "authors": [
+        "Huiwen Zeng",
+        "Na Zhou",
+        "Wenya Zhen",
+        "Weiping Wang",
+        "Xiaoran Li",
+        "Xiaoyu Qi",
+        "Xiaoxia Wang",
+        "Yue Yang"
+      ],
+      "publication_date": "2026-Mar-30",
+      "publication_date_iso": "2026-03-30",
+      "abstract": "Orthognathic surgery effectively corrects dentofacial deformities, but patients often present with considerable preoperative psychological distress which may compromise postoperative satisfaction. The incidence of anxiety and body dysmorphic disorder (BDD) in preoperative dentofacial deformity patients, and their impact on patients' quality of life, remain insufficiently defined. To investigate the prevalence of anxiety level, BDD and quality of life in preoperative patients for orthognathic surgery, and evaluate the associations between psychological factors and quality of life. In a cross-sectional study of 392 patients scheduled for orthognathic surgery, we assessed preoperative state-trait anxiety, BDD severity, and orthognathic quality of life. Sociodemographic and clinical variables were recorded. Spearman correlations and hierarchical regression examined associations and predictors. High anxiety was reported by 25.8%-32.7% of participants, while clinically significant BDD symptoms were present in 22.9%. The median score of orthognathic quality of life was 34.5, with facial aesthetics and oral function most impaired. Anxiety level and BDD severity jointly explained 49.6% of the variance in orthognathic quality of life, exceeding demographic and clinical factors. Class III malocclusion predicted poorer quality of life, whereas being married and higher income were protective. Preoperative patients for orthognathic surgery experience high rates of anxiety levels and BDD, which are the primary determinants of preoperative quality of life. Integrating psychological screening and support into preoperative care may optimize outcomes.",
+      "objective": "",
+      "study_methods": "In a cross-sectional study of 392 patients scheduled for orthognathic surgery, we assessed preoperative state-trait anxiety, BDD severity, and orthognathic quality of life. Sociodemographic and clinical variables were recorded. Spearman correlations and hierarchical regression examined associations and predictors.",
+      "methods": "In a cross-sectional study of 392 patients scheduled for orthognathic surgery, we assessed preoperative state-trait anxiety, BDD severity, and orthognathic quality of life. Sociodemographic and clinical variables were recorded. Spearman correlations and hierarchical regression examined associations and predictors.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41913412/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41911566",
       "title": "Morphologic Variability of the Mandibular Lingula and Antilingula in Unilateral Craniofacial Microsomia: A Retrospective Computed Tomography Analysis.",
       "authors": [
@@ -2770,35 +2913,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41910925",
-      "title": "The efficacy of injectable bone fillers for alveolar ridge preservation: a microcomputed tomographic analysis.",
-      "authors": [
-        "A Ramanauskaite",
-        "S Kallab",
-        "M Agirman",
-        "P Parvini",
-        "K Obreja",
-        "J Lorenz",
-        "F Schwarz",
-        "K Becker"
-      ],
-      "publication_date": "2026-Mar-30",
-      "publication_date_iso": "2026-03-30",
-      "abstract": "To evaluate the efficacy of injectable bone fillers for alveolar ridge preservation (ARP). Mandibular premolars (P2, P3, P4) were bilaterally extracted in nine beagle dogs. Each tooth underwent hemisection, with the mesial root devitalized and filled with calcium hydroxide, while the distal roots were extracted. This resulted in six sockets per dog, which were randomly assigned to four injectable test materials (T1-T4), one control (C), and one negative control group (N). Primary wound closure was achieved in all groups except for N. After 12 weeks, tissue blocks were analyzed using micro-computed tomography (micro-CT). The primary outcome was bone volume fraction (BV/TV, %). Secondary outcomes included trabecular thickness (Tb.Th, mm), trabecular separation (Tb.Sp, mm), bone surface to bone volume ratio (BS/BV, mm2/mm3), buccal bone defect volume (BBD, mm3), vertical bone height (VBH, mm), buccal wall thickness (BBW, mm) and lingual wall thickness (LBW, mm). Data were analyzed using the Kruskal-Wallis test. After 12 weeks of healing, all groups were associated with a similar BC/TV values (64.6%, 68.2%, 69.0%, 66.5%, 76.5% and 79.8% in the T1, T2, T3, T4, C and N groups, respectively; p > 0.05 for all between group comparisons). No statistically significant differences were found among groups for Tb.Th, Tb.Sp, BS/BV, BBD, VBH, BBW and LBW. Within its limitations, the present study showed comparable efficacy of injectable bone fillers in maintaining alveolar ridge dimensions compared with the C and N groups. Injectable bone fillers represent a convenient and potentially effective alternative for alveolar ridge preservation procedures.",
-      "objective": "",
-      "study_methods": "Mandibular premolars (P2, P3, P4) were bilaterally extracted in nine beagle dogs. Each tooth underwent hemisection, with the mesial root devitalized and filled with calcium hydroxide, while the distal roots were extracted. This resulted in six sockets per dog, which were randomly assigned to four injectable test materials (T1-T4), one control (C), and one negative control group (N). Primary wound closure was achieved in all groups except for N. After 12 weeks, tissue blocks were analyzed using micro-computed tomography (micro-CT). The primary outcome was bone volume fraction (BV/TV, %). Secondary outcomes included trabecular thickness (Tb.Th, mm), trabecular separation (Tb.Sp, mm), bone surface to bone volume ratio (BS/BV, mm2/mm3), buccal bone defect volume (BBD, mm3), vertical bone height (VBH, mm), buccal wall thickness (BBW, mm) and lingual wall thickness (LBW, mm). Data were analyzed using the Kruskal-Wallis test.",
-      "methods": "Mandibular premolars (P2, P3, P4) were bilaterally extracted in nine beagle dogs. Each tooth underwent hemisection, with the mesial root devitalized and filled with calcium hydroxide, while the distal roots were extracted. This resulted in six sockets per dog, which were randomly assigned to four injectable test materials (T1-T4), one control (C), and one negative control group (N). Primary wound closure was achieved in all groups except for N. After 12 weeks, tissue blocks were analyzed using micro-computed tomography (micro-CT). The primary outcome was bone volume fraction (BV/TV, %). Secondary outcomes included trabecular thickness (Tb.Th, mm), trabecular separation (Tb.Sp, mm), bone surface to bone volume ratio (BS/BV, mm2/mm3), buccal bone defect volume (BBD, mm3), vertical bone height (VBH, mm), buccal wall thickness (BBW, mm) and lingual wall thickness (LBW, mm). Data were analyzed using the Kruskal-Wallis test.",
-      "results": "ed in six sockets per dog, which were randomly assigned to four injectable test materials (T1-T4), one control (C), and one negative control group (N). Primary wound closure was achieved in all groups except for N. After 12 weeks, tissue blocks were analyzed using micro-computed tomography (micro-CT). The primary outcome was bone volume fraction (BV/TV, %). Secondary outcomes included trabecular thickness (Tb.Th, mm), trabecular separation (Tb.Sp, mm), bone surface to bone volume ratio (BS/BV, mm2/mm3), buccal bone defect volume (BBD, mm3), vertical bone height (VBH, mm), buccal wall thickness (BBW, mm) and lingual wall thickness (LBW, mm). Data were analyzed using the Kruskal-Wallis test. After 12 weeks of healing, all groups were associated with a similar BC/TV values (64.6%, 68.2%, 69.0%, 66.5%, 76.5% and 79.8% in the T1, T2, T3, T4, C and N groups, respectively; p > 0.05 for all between group comparisons). No statistically significant differences were found among groups for Tb.Th, Tb.Sp, BS/BV, BBD, VBH, BBW and LBW. Within its limitations, the present study showed comparable efficacy of injectable bone fillers in maintaining alveolar ridge dimensions compared with the C and N groups. Injectable bone fillers represent a convenient and potentially effective alternative for alveolar ridge preservation procedures.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41910925/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41910789",
       "title": "3D assessment of root resorption and soft tissue adaptations in surgery-first vs. early orthognathic surgery: a randomized clinical trial.",
       "authors": [
@@ -2820,67 +2934,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41910789/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41904345",
-      "title": "UV-spectrometric study of antibiotic long-term release by different osteoplastic materials used in dentistry.",
-      "authors": [
-        "Iurii Mochalov",
-        "Bohdan Mykhailychenko",
-        "Vasyl Biganych",
-        "Liudmyla Karpchuk",
-        "Alla Kizim"
-      ],
-      "publication_date": "2026-Mar-29",
-      "publication_date_iso": "2026-03-29",
-      "abstract": "Nowadays, the development and improvement of osteoplastic materials containing antibiotics as long-term controlled-release systems represent a promising direction in bioactive dental practice. To evaluate the relative capacity of different osteoplastic materials used in oral surgery and clinical dental practice to accumulate and subsequently release antibiotics after exposure to antibiotic solutions, using spectrometric analysis. 3 osteoplastic materials \"Biomin GT\" (\"Rapid\", Ukraine), \"easy-graft CLASSIC 150\" (\"Regenity Biosciences\", USA), and \"InterOss\" (1-2 mm) (\"SigmaGraft\", USA) were immersed in 4 antibiotic aqueous solutions (5.0% ofloxacin, 5.0% metronidazole, 4.0% gentamicin sulfate, and 5.0% chloramphenicol) during 24 h and dried later. UV-spectrometric studies were performed to quantify the release of antibiotics into sterile saline on the 2nd, 5th, 10th, and 30th day. Evaluated osteoplastic materials released different volumes of the antibiotics. Samples of osteoplastic materials (after prior immersion in antibiotic solutions) can serve as systems for long-term release of antibacterial substances (up to 30 days). However, the levels of accumulation and release differ across materials and active substances. The highest levels of antibiotic release (and accumulation, respectively) were observed for \"Easy GRAFT\" - 6.07 ± 5.84 (M = 3.49) mg per 1 g of osteoplastic material. Among the antibiotics, the highest rate was for gentamicin sulfate - 10.67 ± 3.57 (M = 8.67) mg per 1 g, whereas chloramphenicol showed 3.11 ± 0.48 (M = 3.01) mg per 1 g of material. The interaction between osteoplastic material and various antibiotics requires further clarification and verification at both the experimental and clinical levels. Release curves for the studied antibiotics from various osteoplastic materials were obtained over a one-month period. The ability of dental osteoplastic materials to accumulate antibiotics within their mass has been demonstrated.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41904345/",
-      "pmcid": "PMC13033006",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13033006/bin/44445_2026_152_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13033006/bin/44445_2026_152_Fig1_HTML.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13033006/bin/44445_2026_152_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13033006/bin/44445_2026_152_Fig2_HTML.gif"
-      ]
-    },
-    {
-      "pmid": "41896435",
-      "title": "Deep margin elevation in permanent incisors with crown-root fractures: A laboratory study.",
-      "authors": [
-        "Laurent Liechti",
-        "Hauke Hildebrand",
-        "Nicola U Zitzmann",
-        "Markus B Blatz",
-        "Roland Weiger",
-        "Gabriel Krastl",
-        "Thomas Connert",
-        "Andreas Filippi",
-        "Florin Eggmann"
-      ],
-      "publication_date": "2026-Mar-28",
-      "publication_date_iso": "2026-03-28",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41896435/",
       "pmcid": "",
       "figure_urls": []
     },
