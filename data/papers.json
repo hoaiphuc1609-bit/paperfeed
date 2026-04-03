@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T04:34:12Z",
+  "updated_at": "2026-04-03T04:34:41Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -944,6 +944,34 @@
       ]
     },
     {
+      "pmid": "41864091",
+      "title": "Machine learning-augmented finite element modeling for transient hemodynamics in human arteries.",
+      "authors": [
+        "Muhammad Sheeraz Junaid",
+        "Muhammad Nauman Aslam",
+        "Shajar Abbas",
+        "Assmaa Abd-Elmonem",
+        "Mawadda E E Abulhassan",
+        "Firdavs Kuchkarov",
+        "Ibrahim Mahariq"
+      ],
+      "publication_date": "2026-May-01",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "This work introduces a machine learning enhanced finite element model for the study of blood flow in a stretching artery with the presence of sulfonated polystyrene nanoparticles (NSPS). The analysis deals with the coupling of the blood dynamics with nanoscale additives, which show significant promise for biomedical applications, such as drug delivery, oncological therapy, and targeted treatment based on magnetohydrodynamic mechanisms. The influence of nondimensional parameters (magnetic field strength, porosity, chemical reaction rate, and viscous dissipation) is studied to validate the usefulness of NSPS particles in clinical applications. Governing equations are solved by the finite element method, and numerical simulations are performed in the Python programming language to determine velocity, temperature, and concentration field. A multilayer perceptron regression surrogate is then trained on the finite element data and gives a predictive accuracy of 97.3%. on the numerical reference. This hybrid FEM-ML-based framework provides a fast computational tool for parameter space exploration, which helps to reduce the dependency on repeated, computationally expensive, finite element simulations. Numerical experimentation proves that the improvement of the magnetic parameter results in an approximate 18%. reduction in axial velocity, while improved porosity increases the drug penetration depth by approximately 11%. For hyperthermia-based treatments, localized heating could be used to release the drug from NSPS, whereas in pH-sensitive scenarios, the acidic tumor environment triggers automatic drug release. This approach ensures high localized action of the drugs, with the least amount of side effects on the healthy tissues.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "in an approximate 18%. reduction in axial velocity, while improved porosity increases the drug penetration depth by approximately 11%. For hyperthermia-based treatments, localized heating could be used to release the drug from NSPS, whereas in pH-sensitive scenarios, the acidic tumor environment triggers automatic drug release. This approach ensures high localized action of the drugs, with the least amount of side effects on the healthy tissues.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41864091/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41858606",
       "title": "Post-discharge opioid prescribing after surgery in the United States: a population-based analysis of specialty variation and prescribing intensity.",
       "authors": [
@@ -1296,6 +1324,45 @@
       "figure_urls": []
     },
     {
+      "pmid": "41718603",
+      "title": "Comparative Analysis of 18 F-FAPI and 18 F-FDG PET/CT in Evaluation of Intestinal Lesions and Disease Activity in Ulcerative Colitis.",
+      "authors": [
+        "Wenbo Li",
+        "Wen Shi",
+        "Xiang Li",
+        "Jinju Sun",
+        "Zhixue Liu",
+        "Zhenfang Yan",
+        "Chaoqun Lv",
+        "Xinyue Hu",
+        "Yuanyuan Ai",
+        "Zhipeng Wen",
+        "Xinxin Liu",
+        "Zhenxing Li",
+        "Yi Ru",
+        "Feng Liu",
+        "Weicheng Zhou",
+        "Min Yang",
+        "Xiao Chen",
+        "Kaijun Liu"
+      ],
+      "publication_date": "2026-May-01",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Accurate evaluation of intestinal lesions and severity assessment of ulcerative colitis (UC) are crucial for therapeutic strategies and prognosis. This study aims to compare the efficacy of 18 F-FAPI and 18 F-FDG PET/CT in the evaluation of intestinal lesions and disease activity assessment of UC. This is a prospective cohort study, and patients with newly diagnosed or relapsed UC were enrolled. All participants underwent 18 F-FAPI PET/CT, 18 F-FDG PET/CT, abdominal contrast-enhanced CT, and colonoscopy within 1 week. Mayo Endoscopic Subscore (MES) was used as the reference standard for identification and severity assessment of intestinal lesions. Target-to-background ratio (TBR) of each segment in 18 F-FAPI/ 18 F-FDG PET/CT and global 18 F-FAPI/ 18 F-FDG PET/CT score were computed to represent the activity of independent segments and all segments, respectively. Before examinations, partial Mayo score was calculated based on clinical manifestations of patients, and levels of C-reactive protein, interleukin-6, erythrocyte sedimentation rate, platelet, and hemoglobin were determined. Finally, all data were analyzed to compare the efficacy of 18 F-FAPI and 18 F-FDG PET/CT in the evaluation of intestinal lesions and disease activity in UC. A total of 113 intestinal segments (including 90 lesion segments) were evaluated among 23 participants. Through receiver operating characteristic (ROC) analysis, 18 F-FAPI PET/CT showed significantly superior performance in detecting intestinal lesions compared with 18 F-FDG PET/CT ( P = 0.046) and abdominal contrast-enhanced CT ( P = 0.007). The correlations between FAPI-TBR and MES ( R2 = 0.75) and abdominal contrast-enhanced CT score ( R2 = 0.55) were stronger than those of FDG-TBR. 18 F-FAPI PET/CT showed superior discriminative capacity across different disease activity levels at both segmental ( P < 0.001) and patient-level ( P < 0.05) in intergroup comparison. The global 18 F-FAPI PET/CT score was significantly correlated with other activity indicators ( r = 0.49-0.76). Moreover, 18 F-FAPI PET/CT was also significantly superior to 18 F-FDG PET/CT ( P < 0.001) and abdominal contrast-enhanced CT ( P = 0.001) in detecting active lesions according to ROC analysis. The efficacy of 18 F-FAPI PET/CT in the evaluation of intestinal lesions and disease activity assessment of UC was superior to that of 18 F-FDG PET/CT. 18 F-FAPI PET/CT also correlated well with endoscopy, abdominal contrast-enhanced CT, clinical manifestations, and biomarkers. Therefore, 18 F-FAPI PET/CT may be a promising method for noninvasive assessment of disease activity of UC.",
+      "objective": "to compare the efficacy of 18 F-FAPI and 18 F-FDG PET/CT in the evaluation of intestinal lesions and disease activity assessment of UC. This is a prospective cohort study, and patients with newly diagnosed or relapsed UC were enrolled. All participants underwent 18 F-FAPI PET/CT, 18 F-FDG PET/CT, abdominal contrast-enhanced CT, and colonoscopy within 1 week. Mayo Endoscopic Subscore (MES) was used as the reference standard for identification and severity assessment of intestinal lesions. Target-to-background ratio (TBR) of each segment in 18 F-FAPI/ 18 F-FDG PET/CT and global 18 F-FAPI/ 18 F-FDG PET/CT score were computed to represent the activity of independent segments and all segments, respectively. Before examinations, partial Mayo score was calculated based on clinical manifestations of patients, and levels of C-reactive protein, interleukin-6, erythrocyte sedimentation rate, platelet, and hemoglobin were determined. Finally, all data were analyzed to compare the efficacy of 18 F-FAPI and 18 F-FDG PET/CT in the evaluation of intestinal lesions and disease activity in UC. A total of 113 intestinal segments (including 90 lesion segments) were evaluated among 23 participants. Through receiver operating characteristic (ROC) analysis, 18 F-FAPI PET/CT showed significantly superior performance in detecting intestinal lesions compared with 18 F-FDG PET/CT ( P = 0.046) and abdominal contrast-enhanced CT ( P = 0.007). The correlations between FAPI-TBR and MES ( R2 = 0.75) and abdominal contrast-enhanced CT score ( R2 = 0.55) were stronger than those of FDG-TBR. 18 F-FAPI PET/CT showed superior discriminative capacity across different disease activity levels at both segmental ( P < 0.001) and patient-level ( P < 0.05) in intergroup comparison. The global 18 F-FAPI PET/CT score was significantly correlated with other activity indicators ( r = 0.49-0.76). Moreover, 18 F-FAPI PET/CT was also significantly superior to 18 F-FDG PET/CT ( P < 0.001) and abdominal contrast-enhanced CT ( P = 0.001) in detecting active lesions according to ROC analysis. The efficacy of 18 F-FAPI PET/CT in the evaluation of intestinal lesions and disease activity assessment of UC was superior to that of 18 F-FDG PET/CT. 18 F-FAPI PET/CT also correlated well with endoscopy, abdominal contrast-enhanced CT, clinical manifestations, and biomarkers. Therefore, 18 F-FAPI PET/CT may be a promising",
+      "study_methods": "This is a prospective cohort study, and patients with newly diagnosed or relapsed UC were enrolled. All participants underwent 18 F-FAPI PET/CT, 18 F-FDG PET/CT, abdominal contrast-enhanced CT, and colonoscopy within 1 week. Mayo Endoscopic Subscore (MES) was used as the reference standard for identification and severity assessment of intestinal lesions. Target-to-background ratio (TBR) of each segment in 18 F-FAPI/ 18 F-FDG PET/CT and global 18 F-FAPI/ 18 F-FDG PET/CT score were computed to represent the activity of independent segments and all segments, respectively. Before examinations, partial Mayo score was calculated based on clinical manifestations of patients, and levels of C-reactive protein, interleukin-6, erythrocyte sedimentation rate, platelet, and hemoglobin were determined. Finally, all data were analyzed to compare the efficacy of 18 F-FAPI and 18 F-FDG PET/CT in the evaluation of intestinal lesions and disease activity in UC.",
+      "methods": "This is a prospective cohort study, and patients with newly diagnosed or relapsed UC were enrolled. All participants underwent 18 F-FAPI PET/CT, 18 F-FDG PET/CT, abdominal contrast-enhanced CT, and colonoscopy within 1 week. Mayo Endoscopic Subscore (MES) was used as the reference standard for identification and severity assessment of intestinal lesions. Target-to-background ratio (TBR) of each segment in 18 F-FAPI/ 18 F-FDG PET/CT and global 18 F-FAPI/ 18 F-FDG PET/CT score were computed to represent the activity of independent segments and all segments, respectively. Before examinations, partial Mayo score was calculated based on clinical manifestations of patients, and levels of C-reactive protein, interleukin-6, erythrocyte sedimentation rate, platelet, and hemoglobin were determined. Finally, all data were analyzed to compare the efficacy of 18 F-FAPI and 18 F-FDG PET/CT in the evaluation of intestinal lesions and disease activity in UC.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41718603/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41687954",
       "title": "Navigation implant surgery accuracy in different types of edentulism: A systematic review and meta-analysis.",
       "authors": [
@@ -1409,36 +1476,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41655372",
-      "title": "Clinical phenotypes and predictors of adherence to continuous positive airway pressure therapy in obstructive sleep apnoea: A multicentre cohort study.",
-      "authors": [
-        "Karin Jeppesen",
-        "Poul Jørgen Jennum",
-        "Caroline Moos",
-        "Rikke Ibsen",
-        "Michael Ibsen",
-        "Asbjørn Kørvel-Hanquist",
-        "Preben Homøe",
-        "Eva Kirkegaard Kiaer",
-        "Helene Skjøt-Arkil"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "Obstructive Sleep Apnoea (OSA) is a highly prevalent disease often treated with CPAP therapy, but long-term adherence remains a challenge. This study aimed to explore which phenotypes of OSA patients are more or less likely to achieve high adherence to CPAP therapy, based on pre-treatment characteristics. We analysed demographic, socioeconomic, and clinical characteristics across predefined CPAP adherence groups (high, low, and no adherence) in a multicentre cohort of newly diagnosed OSA patients. Multivariate logistic regression was used to assess predictive accuracy, and observed patterns were synthesised into rule-based clinical phenotypes. Among 2845 patients, 41% were highly adherent, 20% had low adherence, and 39% were non-adherent after one year. High adherence was associated with cohabitation, higher education, employment, and greater disease severity. Low or no adherence was linked to comorbidity burden and social vulnerability. The predictive model yielded an accuracy of 60%. Based on group-level differences and model outputs, three clinically reasoned phenotypes were identified: (1) Symptomatic severe OSA with social support, (2) Multimorbidity-dominated, and (3) Non-employed working-age adults. Distinct demographic, socioeconomic, and clinical profiles were associated with CPAP adherence. The identified phenotypes offer a practical framework for understanding adherence variation and may support more individualised approaches to treatment and follow-up.",
-      "objective": "",
-      "study_methods": "We analysed demographic, socioeconomic, and clinical characteristics across predefined CPAP adherence groups (high, low, and no adherence) in a multicentre cohort of newly diagnosed OSA patients. Multivariate logistic regression was used to assess predictive accuracy, and observed patterns were synthesised into rule-based clinical phenotypes.",
-      "methods": "We analysed demographic, socioeconomic, and clinical characteristics across predefined CPAP adherence groups (high, low, and no adherence) in a multicentre cohort of newly diagnosed OSA patients. Multivariate logistic regression was used to assess predictive accuracy, and observed patterns were synthesised into rule-based clinical phenotypes.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41655372/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41622088",
       "title": "Corrigendum to 'Cocamidopropyl betaine: another possible oral healthcare chemical associated with plasma cell lesions of the oral cavity'[Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology Volume 140, Issue 2, (2025), Pages 218-226].",
       "authors": [
@@ -1490,37 +1527,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41622086/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41544852",
-      "title": "Outcomes of Infra-Inguinal Bypass Using the Omniflow II Graft in Diabetic and Nondiabetic Patients.",
-      "authors": [
-        "Tijmen W Kraai",
-        "Barzi Gareb",
-        "David J Liesker",
-        "Joost R van der Vorst",
-        "Pieter B Salemans",
-        "Rudolf P Tutein Nolthenius",
-        "Daniël Eefting",
-        "Erik G J Vermeulen",
-        "Ben R Saleem",
-        "Clark J Zeebregts"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "Diabetes mellitus is a major risk factor for peripheral arterial disease and is often associated with inferior outcomes after infra-inguinal bypass surgery. The Omniflow II biosynthetic graft has shown favorable results in various settings, but evidence comparing outcomes between diabetic and nondiabetic patients is lacking. We performed a multicenter retrospective cohort study of 190 infra-inguinal Omniflow II bypasses (2014-2024) across 7 Dutch hospitals. Primary endpoint was primary patency; secondary endpoints included assisted and secondary patency, major amputation, vascular graft or endograft infection (VGEI), and mortality. Differences between diabetics and nondiabetics were assessed using Kaplan-Meier and Cox regression. Of the 190 patients, 62 (32.6%) had diabetes mellitus. The median follow-up was 30 months (interquartile range [IQR] 13-51). Diabetes was not associated with differences in primary patency (adjusted hazard ratio [HR] 0.95, 95% confidence interval [CI] 0.58-1.49, P = 0.78), primary assisted patency (adjusted HR 1.14, 95% CI 0.72-1.81, P = 0.58), or secondary patency (adjusted HR 1.25, 95% CI 0.77-2.02, P = 0.36). Major amputation (adjusted HR 0.85, 95% CI 0.38-1.96, P = 0.72) and VGEI (adjusted HR 2.20, 95% CI 0.38-12.66, P = 0.29) rates were comparable between groups. Mortality was higher in unadjusted analysis (HR 1.76, P = 0.02), but this association disappeared after adjustment (HR 1.50, 95% CI 0.81-2.78, P = 0.20). Despite an unfavorable baseline risk profile, diabetic patients had similar graft-related outcomes compared with nondiabetics. The Omniflow II biosynthetic graft appears to be a safe and effective conduit in this high-risk population.",
-      "objective": "",
-      "study_methods": "We performed a multicenter retrospective cohort study of 190 infra-inguinal Omniflow II bypasses (2014-2024) across 7 Dutch hospitals. Primary endpoint was primary patency; secondary endpoints included assisted and secondary patency, major amputation, vascular graft or endograft infection (VGEI), and mortality. Differences between diabetics and nondiabetics were assessed using Kaplan-Meier and Cox regression.",
-      "methods": "We performed a multicenter retrospective cohort study of 190 infra-inguinal Omniflow II bypasses (2014-2024) across 7 Dutch hospitals. Primary endpoint was primary patency; secondary endpoints included assisted and secondary patency, major amputation, vascular graft or endograft infection (VGEI), and mortality. Differences between diabetics and nondiabetics were assessed using Kaplan-Meier and Cox regression.",
-      "results": "in various settings, but evidence comparing outcomes between diabetic and nondiabetic patients is lacking. We performed a multicenter retrospective cohort study of 190 infra-inguinal Omniflow II bypasses (2014-2024) across 7 Dutch hospitals. Primary endpoint was primary patency; secondary endpoints included assisted and secondary patency, major amputation, vascular graft or endograft infection (VGEI), and mortality. Differences between diabetics and nondiabetics were assessed using Kaplan-Meier and Cox regression. Of the 190 patients, 62 (32.6%) had diabetes mellitus. The median follow-up was 30 months (interquartile range [IQR] 13-51). Diabetes was not associated with differences in primary patency (adjusted hazard ratio [HR] 0.95, 95% confidence interval [CI] 0.58-1.49, P = 0.78), primary assisted patency (adjusted HR 1.14, 95% CI 0.72-1.81, P = 0.58), or secondary patency (adjusted HR 1.25, 95% CI 0.77-2.02, P = 0.36). Major amputation (adjusted HR 0.85, 95% CI 0.38-1.96, P = 0.72) and VGEI (adjusted HR 2.20, 95% CI 0.38-12.66, P = 0.29) rates were comparable between groups. Mortality was higher in unadjusted analysis (HR 1.76, P = 0.02), but this association disappeared after adjustment (HR 1.50, 95% CI 0.81-2.78, P = 0.20). Despite an unfavorable baseline risk profile, diabetic patients had similar graft-related outcomes compared with nondiabetics. The Omniflow II biosynthetic graft appears to be a safe and effective conduit in this high-risk population.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41544852/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1601,6 +1607,162 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40653684/",
+      "pmcid": "PMC13041609",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13041609/bin/EVJ-58-709-g001.jpg"
+      ]
+    },
+    {
+      "pmid": "41925671",
+      "title": "Health-Related Quality of Life Outcomes in Pediatric Patients With Apert Syndrome.",
+      "authors": [
+        "Hannah C Brown",
+        "Laura C Nuzzi",
+        "Joseph Upton",
+        "Brian I Labow",
+        "Amir H Taghinia"
+      ],
+      "publication_date": "2026-Apr-02",
+      "publication_date_iso": "2026-04-02",
+      "abstract": "This study reports health-related quality of life outcomes in children with Apert syndrome following syndactyly release, evaluating upper-extremity and cognitive function along with psychosocial factors. Findings can inform caregivers and providers to improve well-being for children with Apert syndrome. The following validated parent-proxy surveys of Patient-Reported Outcomes Measurement Information System were administered to parents of patients aged 5-17 years: upper-extremity function, cognitive function, pain interference, depressive symptoms, anxiety, and peer relationships. Parents completed the survey as a computer-adaptive test. Central tendencies for Patient-Reported Outcomes Measurement Information System domains were calculated, compared against population norms, and graded (eg, severe, moderate, normal) using Patient-Reported Outcomes Measurement Information System guidelines. Correlations were calculated between domains. A total of 42 participants were included in the analysis, with patient ages ranging from 5 to 16.5 years (mean, 9.1; SD, 2.9 years). Compared with pediatric population norms (50; SD, 10, all domains), the Apert cohort's upper-extremity scores were lower (severe: median, 29.2; interquartile range, 4.3), cognitive function was lower (mild/moderate: median, 40.0; interquartile range, 8.0), and pain interference was higher (moderate: mean, 63.7; SD, 10.5). Peer relationship scores (mean, 42.3; SD, 9.7) were classified as good overall, whereas depressive (mean, 53.8; SD, 8.2) and anxiety scores (mean, 52.4; SD, 7.9) were within normal limits. Upper-extremity scores were correlated positively with cognitive function and peer relationships, and negatively with anxiety. Irrespective of Upton hand type, children with Apert syndrome had severely lower scores of upper-extremity function and mild to moderately lower cognitive function, yet their socioemotional scores were comparable to pediatric population norms. Less favorable upper-extremity functioning was associated with lower cognitive function, lower peer relationship scores, and higher levels of anxiety. These results can help advise surgeons on postoperative functioning and set a baseline for comparing future studies. Therapeutic IV.",
+      "objective": "",
+      "study_methods": "The following validated parent-proxy surveys of Patient-Reported Outcomes Measurement Information System were administered to parents of patients aged 5-17 years: upper-extremity function, cognitive function, pain interference, depressive symptoms, anxiety, and peer relationships. Parents completed the survey as a computer-adaptive test. Central tendencies for Patient-Reported Outcomes Measurement Information System domains were calculated, compared against population norms, and graded (eg, severe, moderate, normal) using Patient-Reported Outcomes Measurement Information System guidelines. Correlations were calculated between domains.",
+      "methods": "The following validated parent-proxy surveys of Patient-Reported Outcomes Measurement Information System were administered to parents of patients aged 5-17 years: upper-extremity function, cognitive function, pain interference, depressive symptoms, anxiety, and peer relationships. Parents completed the survey as a computer-adaptive test. Central tendencies for Patient-Reported Outcomes Measurement Information System domains were calculated, compared against population norms, and graded (eg, severe, moderate, normal) using Patient-Reported Outcomes Measurement Information System guidelines. Correlations were calculated between domains.",
+      "results": "can help advise surgeons on postoperative functioning and set a baseline for comparing future studies. Therapeutic IV.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41925671/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41925199",
+      "title": "A 5-Year Clinical Management of the Surgery-First Approach in Severe Class III Malocclusion Treatment.",
+      "authors": [
+        "Muhammed Hilmi Buyukcavus",
+        "Elif Albayrak",
+        "Yavuz Findik",
+        "Ufuk Gokkaya",
+        "Tayfun Yazici"
+      ],
+      "publication_date": "2026-Apr-02",
+      "publication_date_iso": "2026-04-02",
+      "abstract": "The surgery-first approach is a modern protocol that eliminates the preoperative orthodontic phase in dentofacial anomalies requiring orthognathic surgery, thereby optimizing treatment duration and accelerating aesthetic outcomes. This case report presents the treatment and 5-year follow-up of a 25-year-old female patient with a severe skeletal class III anomaly, managed using the surgery-first approach. The patient presented to our clinic with complaints of a concave facial profile and prominent mandibular prognathism. Intraoral examination revealed an angle class III molar and canine relationship, while cephalometric analysis demonstrated a severe skeletal class III anomaly (ANB: -12.26 degrees, Wits: -19.29 mm). Given the patient's esthetic-driven concerns and the prediction of a stable final occlusion based on surgical setup analysis, the surgery-first approach was selected as the treatment modality. Following 9 months of postoperative orthodontic treatment, a skeletal and dental class I relationship, along with ideal overjet and overbite values, were achieved. Radiographic measurements at the 5-year follow-up confirmed the stability of the results, with no evidence of relapse. These findings demonstrate that, in appropriately selected cases, the surgery-first approach is not only effective in significantly reducing overall treatment time, but also provides predictable, long-term stable outcomes while enhancing patient satisfaction.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": ", with no evidence of relapse. These findings demonstrate that, in appropriately selected cases, the surgery-first approach is not only effective in significantly reducing overall treatment time, but also provides predictable, long-term stable outcomes while enhancing patient satisfaction.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41925199/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41923709",
+      "title": "A Novel KDR Mutation in an Infant With a Non-Involuting Congenital Hemangioma.",
+      "authors": [
+        "Emily M Meara",
+        "Daniela Guerrero Mullix",
+        "Juan Putra",
+        "Horacio Padua",
+        "John B Mulliken",
+        "Marilyn G Liang",
+        "Daniel M Balkin"
+      ],
+      "publication_date": "2026-Apr-02",
+      "publication_date_iso": "2026-04-02",
+      "abstract": "Congenital hemangioma (CH) is a rare, benign vascular tumor present at birth and molecularly characterized by somatic mutations in angiogenic signaling pathways, most commonly activating mutations in GNA11 and GNAQ, although additional genetic drivers remain incompletely defined. Genomic sequencing of lesional tissue from a child with a non-involuting congenital hemangioma (NICH) identified a likely pathogenic mutation in the kinase insert domain receptor (KDR) gene. KDR encodes vascular endothelial growth factor (VEGF) receptor 2, a central regulator of endothelial proliferation and angiogenesis. This previously unreported variant in CH implicates receptor tyrosine kinase-mediated VEGF signaling as a distinct pathogenic mechanism and expands the molecular spectrum of CH, suggesting a biologically distinct subset of tumors lacking canonical GNA11/GNAQ mutations.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41923709/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41410039",
+      "title": "Photobiomodulation-assisted surgical wound healing at palatal donor site area: a systematic review.",
+      "authors": [
+        "Micaele Araújo Fonseca",
+        "Gustavo Castro de Lima",
+        "Sandy Lima Araújo",
+        "Giovanna Lima Costa Barcelos",
+        "Osvaldo Bueno Brasil-Neto",
+        "Tatiane Tiemi Macedo",
+        "João Gabriel S Souza",
+        "Jamil A Shibli"
+      ],
+      "publication_date": "2026-Apr-02",
+      "publication_date_iso": "2026-04-02",
+      "abstract": "The aim was to critically analyze the effects of photobiomodulation on recovery of the donor area after free gingival graft (FGG) surgery. A comprehensive literature search was conducted in PubMed, Scopus, and Web of Science with date of access up to 7 April 2025, structured according to the PICO strategy: patients ≥ 18 years undergoing removal of FGGs from the palatal region (P), intervention with photobiomodulation at the donor site (I), compared with natural healing (C), evaluating wound healing as the primary and pain as the secondary outcome (O). A total of 668 records were identified and 8 randomized clinical trials, in which 284 participants were included. In outcomes, clinical healing parameters and patient-reported pain were analyzed, in which the majority of studies demonstrated that photobiomodulation positively influenced epithelialization, reduction in wound area, and tissue color during the first two postoperative weeks. However, the effect on pain control was inconsistent among studies, with only two showing statistically significant reductions. The studies included demonstrated clinical and methodologic heterogeneity due to different laser parameters, and their designs made statistical pooling of data unfeasible for a meta-analysis. Photobiomodulation appears to be a promising adjunctive therapy to accelerate palatal wound healing after FGG, particularly in the early postoperative period. Nevertheless, the clinical benefit in pain management remains uncertain. Future well-designed studies with standardized protocols are needed to strengthen contemporary evidence. (Quintessence Int 2026;57:230-241; doi: 10.3290/j.qi.b6762754).",
+      "objective": "was to critically analyze the effects of photobiomodulation on recovery of the donor area after free gingival graft (FGG) surgery. A comprehensive literature search was conducted in PubMed, Scopus, and Web of Science with date of access up to 7 April 2025, structured according to the PICO strategy: patients ≥ 18 years undergoing removal of FGGs from the palatal region (P), intervention with photobiomodulation at the donor site (I), compared with natural healing (C), evaluating wound healing as the primary and pain as the secondary outcome (O). A total of 668 records were identified and 8 randomized clinical trials, in which 284 participants were included. In outcomes, clinical healing parameters and patient-reported pain were analyzed, in which the majority of studies demonstrated that photobiomodulation positively influenced epithelialization, reduction in wound area, and tissue color during the first two postoperative weeks. However, the effect on pain control was inconsistent among studies, with only two showing statistically significant reductions. The studies included demonstrated clinical and methodologic heterogeneity due to different laser parameters, and their designs made statistical pooling of data unfeasible for a meta-analysis. Photobiomodulation appears to be a promising adjunctive therapy to accelerate palatal wound healing after FGG, particularly in the early postoperative period. Nevertheless, the clinical benefit in pain management remains uncertain. Future well-designed studies with standardized protocols are needed to strengthen contemporary evidence. (Quintessence Int 2026;57:230-241; doi: 10.3290/j.qi.b6762754).",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41410039/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41923206",
+      "title": "A finite element-based biomechanical analysis of fixation systems used in advancement genioplasty.",
+      "authors": [
+        "Kadriye Ayça Dere",
+        "Yavuz Fındık"
+      ],
+      "publication_date": "2026-Apr-01",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41923206/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41922666",
+      "title": "Periodontal health and disease.",
+      "authors": [
+        "Emilio A Cafferata"
+      ],
+      "publication_date": "2026-Apr-01",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41922666/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1780,8 +1942,12 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41824280/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC13038769",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13038769/bin/40266_2026_1286_Figa_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13038769/bin/40266_2026_1286_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13038769/bin/40266_2026_1286_Fig1_HTML.gif"
+      ]
     },
     {
       "pmid": "41759453",
@@ -2357,6 +2523,32 @@
       ]
     },
     {
+      "pmid": "41161775",
+      "title": "Attenuated neurovirulence of dUTPase-deficient herpes simplex virus type 1 in suckling mice but not in newborn mice.",
+      "authors": [
+        "Takehiro Kitabatake",
+        "Ken Ishioka",
+        "Takato Suzuki",
+        "Nozomu Miyazaki",
+        "Tatsuo Suzutani"
+      ],
+      "publication_date": "2026-Apr-01",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "The HSV-1 UL50 gene encodes dUTPase (DUT), which dephosphorylates dUTP into dUMP, and its mutant strain is known to reduce neurovirulence in mice over 3 weeks old. Therefore, the UL50-deficient strain may be a candidate as a vaccine strain or viral vector. In this study, the UL50-deficient strain demonstrated reduced levels of replication in brain and neurovirulence compared to the wild strain in 4-week-old mice, but not in newborn mice. Furthermore, the expression level of cellular DUT in the mouse brain was not detectable in 4-week-old mice, but was detectable in newborn mice. In vitro experiments showed replication of the UL50-deficient strain was reduced due to the knockdown of cellular DUT. These results suggest that in actively dividing cells, such as the brain neurons of newborn mice, efficient cellular DUT expression helps with the sufficient replication of the UL50 mutant, resulting in the same level of neurovirulence as that in the wild type. However, in the brains of 4-week-old mice, DUT expression is insufficient, resulting in reduced neurovirulence of the UL50 mutant. These results suggest that when using the UL50 mutant strain as a vaccine or virus vector, it is necessary to pay attention to the timing of inoculation.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "suggest that in actively dividing cells, such as the brain neurons of newborn mice, efficient cellular DUT expression helps with the sufficient replication of the UL50 mutant, resulting in the same level of neurovirulence as that in the wild type. However, in the brains of 4-week-old mice, DUT expression is insufficient, resulting in reduced neurovirulence of the UL50 mutant. These results suggest that when using the UL50 mutant strain as a vaccine or virus vector, it is necessary to pay attention to the timing of inoculation.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41161775/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41130858",
       "title": "Management of pharyngeal flap in cleft orthognathic surgery: speech outcomes and skeletal stability.",
       "authors": [
@@ -2514,36 +2706,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "40920490",
-      "title": "Influence of Surgical Technique and Surgical Skill on Outcomes of Cleft Palate Repair.",
-      "authors": [
-        "Thomas J Sitzman",
-        "Richard E Kirschner",
-        "M'hamed Temkit",
-        "Adriane L Baylis",
-        "Mary Hardin-Jones",
-        "Jessica L Chee-Williams",
-        "Sarah Hatch Pollard",
-        "Kathy L Chapman",
-        "Cleft Outcomes Research NETwork Consortium"
-      ],
-      "publication_date": "2026-Apr-01",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "There remains significant uncertainty about the fistula rate following palate repair with the Furlow double opposing Z-plasty (Furlow DOZ) technique compared with a straight-line/mucosal incision with intravelar veloplasty (IVVP) technique. Moreover, the relative impact of technique and surgical skill on fistula incidence remains unclear. A prospective, observational study of cleft palate repair was conducted. Enrollment occurred at 18 U.S.-based cleft centers, including 64 cleft surgeons. The primary outcome was postoperative fistula. Overall, 1219 participants underwent cleft palate repair, 1178 of whom presented for follow-up. Of these, 581 (49.3%) underwent palate repair with the Furlow DOZ technique, 483 (41.0%) with the straight-line/IVVP technique, and 114 (9.7%) with an alternative technique. The overall fistula incidence was 5.3% (62 of 1162 analyzed for fistula occurrence). The fistula incidence was significantly lower in the Furlow DOZ group (2.4% [14 of 564]) than in the straight-line/IVVP group (7.8% [37 of 427]), with a propensity score-weighted risk difference of 5.7% (95% CI, 1.6% to 9.9%; P = 0.007). The fistula incidence varied substantially among surgeons: the top quartile's fistula rate was 0% (0 fistulas among 417 repairs), whereas the bottom quartile's fistula rate was 18.9% (31 fistulas among 164 repairs). Fistula incidence following cleft palate repair was significantly lower when using the Furlow DOZ technique, compared with the straight-line/IVVP technique. The effect of surgical technique was smaller, however, than the variation observed between the top and bottom quartiles of surgeons. These findings suggest that changing surgical technique may lead to small changes in fistula incidence, but greater opportunities exist to improve outcomes by improving surgical skill.",
-      "objective": "",
-      "study_methods": "A prospective, observational study of cleft palate repair was conducted. Enrollment occurred at 18 U.S.-based cleft centers, including 64 cleft surgeons. The primary outcome was postoperative fistula.",
-      "methods": "A prospective, observational study of cleft palate repair was conducted. Enrollment occurred at 18 U.S.-based cleft centers, including 64 cleft surgeons. The primary outcome was postoperative fistula.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40920490/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "40819992",
       "title": "Response to comment on \"Dexmedetomidine infusion on blood loss in orthognathic surgery: A retrospective study on its efficacy\".",
       "authors": [
@@ -2563,40 +2725,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40819992/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "40751606",
-      "title": "Liquid biopsy in breast cancer management: From circulating biomarkers to clinical breakthroughs.",
-      "authors": [
-        "Anmar Ghanim Taki",
-        "Abdulkareem Shareef",
-        "Lalji Baldaniya",
-        "Rami Oweis",
-        "S Renuka Jyothi",
-        "Udaybir Singh",
-        "Samir Sahoo",
-        "Ashish Singh Chauhan",
-        "Alisher Khazratov",
-        "Hayder Naji Sameer",
-        "Ahmed Yaseen",
-        "Zainab H Athab",
-        "Mohaned Adil"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Breast cancer continues to be a major global health concern, particularly for women, despite improvements in early detection and treatment strategies. Traditional tissue biopsies have long been the foundation of diagnosis and treatment planning; however, they come with limitations-such as being invasive, providing only a single snapshot of a dynamic disease, and often missing the evolving molecular landscape, especially in metastatic cases. In recent years, liquid biopsy has emerged as a powerful, noninvasive tool offering real-time insights into tumor biology. By analyzing materials shed by tumors into the bloodstream-such as circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), exosomes, and cell-free RNA (cfRNA)-liquid biopsy can reveal changes in tumor burden, treatment response, and the appearance of drug resistance. These advantages make it especially valuable in personalizing care for breast cancer patients across various subtypes, including hormone receptor-positive, HER2-positive, and triple-negative breast cancer. This review highlights the components and technological platforms that underpin liquid biopsy, explores its current clinical applications, and discusses future directions, including integration with artificial intelligence and multi-omics analysis. As research advances and clinical evidence grows, liquid biopsy holds the promise of reshaping breast cancer care, making it more precise, timely, and individualized.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40751606/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2622,69 +2750,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/40527622/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "40267296",
-      "title": "Biomechanical Assessment of Maxillary Expansion in a Patient With Unilateral Cleft lip and Palate Through 3D Finite Element Analysis.",
-      "authors": [
-        "Bianca Mota Dos Santos",
-        "Erika Rezende Silva",
-        "João Paulo Mendes Tribst",
-        "Jennifer Judd",
-        "Kasey Linton",
-        "Carlos Eduardo Palanch Repeke",
-        "Marco Antonio Prado Nunes",
-        "Daniel Maranha da Rocha",
-        "Alexandre Luiz Souto Borges",
-        "Luiz Carlos Ferreira da Silva"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "ObjectiveThis study aimed to analyze the stress distribution and displacement generated by bone-borne maxillary expansion in a late adolescent with unilateral cleft lip and palate (UCLP) using finite element analysis.DesignA 3-dimensional finite element model (3DFEM) was obtained from craniofacial bones and maxillary teeth. Seven 3DFEM maxillary expanders were adapted on the palatal slope with a displacement of 0.25 mm per turn.SettingThe study used a computational model based on a patient's craniofacial anatomy.Patients, ParticipantsThis study included one late adolescent with UCLP.InterventionsSeven different bone-borne maxillary expanders were tested, each with a displacement of 0.25 mm per turn on each side of the maxilla.Main Outcome Measure(s)The primary outcomes measured were stress distribution and displacement within the craniofacial structure.ResultsThe highest stress and displacement were generated by devices with Temporary Anchorage Devices and occurred at the cleft side. Maximum stress was observed in the zygomatic-maxilla interface of all analyzed devices. The displacement on the transverse plane was greater in the anterior region for most devices, forward on the anteroposterior plane, and downward on the vertical plane.ConclusionsUsing bone-borne devices in late adolescents with UCLP might be useful for correcting transverse maxillary deficiency.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "The highest stress and displacement were generated by devices with Temporary Anchorage Devices and occurred at the cleft side. Maximum stress was observed in the zygomatic-maxilla interface of all analyzed devices. The displacement on the transverse plane was greater in the anterior region for most devices, forward on the anteroposterior plane, and downward on the vertical plane.ConclusionsUsing bone-borne devices in late adolescents with UCLP might be useful for correcting transverse maxillary deficiency.",
-      "conclusion": "Using bone-borne devices in late adolescents with UCLP might be useful for correcting transverse maxillary deficiency.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40267296/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "40265704",
-      "title": "Effect of Autologous Concentrated Growth Factor in Regenerative Dentistry: A Systematic Review and Meta-Analysis.",
-      "authors": [
-        "A A Alshirah",
-        "M H Elnaem",
-        "Z Al-Ani",
-        "F Alzahrani",
-        "M Almasri",
-        "P A McCarron"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Concentrated growth factor (CGF), a novel autologous platelet concentrate, has gained substantial interest for its potential role in managing oral diseases. The objective of this study is to evaluate the effectiveness of CGF in regenerative dentistry. A systematic search was performed across MEDLINE, OVID, Scopus, Cochrane Library, Google Scholar, Web of Science, and Elsevier for publications between July 1, 2013, and July 1, 2023. Only randomized clinical trials were included. The quality of the methodology was assessed using the Cochrane Risk of Bias Tool. Data were analyzed using RevMan 5.4 software. In 3 trials treating periodontal intrabony defects, CGF combined with bone grafts showed significant superiority over bone grafts alone (P < .00001), with a mean reduction of 1.41 mm in intrabony defect depth and a mean gain of 0.55 mm in clinical attachment level (P = 0.002). For gingival recession in 5 trials, CGF combined with coronally advanced flap (CAF) was more effective than CAF alone, resulting in a mean increase in keratinized tissue width of 0.41 mm and a mean increase in gingival thickness of 0.26 mm (P < 0.00001). However, CGF combined with CAF was less effective than connective tissue graft (CTG) combined with CAF, showing a mean difference in root coverage of -15.09% and a mean difference in gingival thickness of -0.50 mm (P < 0.0001). In alveolar ridge preservation, sinus elevation, guided bone regeneration, dental implant procedures, and postextraction healing, CGF gave better values in clinical practice. CGF enhances regenerative surgery outcomes for periodontal intrabony defects. Combined with CAF, CGF improves therapeutic efficacy for gingival recession, although less so than CTG with CAF. CGF shows promise in various regenerative dentistry areas. However, the absence of meta-analysis and low-quality assessments in many studies necessitates further high-quality research.Knowledge Transfer Statement:The use of concentrated growth factors (CGFs) in regenerative dentistry, within the limitation of low-quality studies, shows promising benefits in treating periodontitis infrabony defects, gingival recession, guided bone regeneration, dental implant alveolar ridge preservation, sinus elevation, and third molar extraction. Future research should focus on high-quality studies and explore combining CGF with grafting materials to enhance therapeutic outcomes in oral surgery.",
-      "objective": "of this study is to evaluate the effectiveness of CGF in regenerative dentistry. A systematic search was performed across MEDLINE, OVID, Scopus, Cochrane Library, Google Scholar, Web of Science, and Elsevier for publications between July 1, 2013, and July 1, 2023. Only randomized clinical trials were included. The quality of the methodology was assessed using the Cochrane Risk of Bias Tool. Data were analyzed using RevMan 5.4 software. In 3 trials treating periodontal intrabony defects, CGF combined with bone grafts showed significant superiority over bone grafts alone (P < .00001), with a mean reduction of 1.41 mm in intrabony defect depth and a mean gain of 0.55 mm in clinical attachment level (P = 0.002). For gingival recession in 5 trials, CGF combined with coronally advanced flap (CAF) was more effective than CAF alone, resulting in a mean increase in keratinized tissue width of 0.41 mm and a mean increase in gingival thickness of 0.26 mm (P < 0.00001). However, CGF combined with CAF was less effective than connective tissue graft (CTG) combined with CAF, showing a mean difference in root coverage of -15.09% and a mean difference in gingival thickness of -0.50 mm (P < 0.0001). In alveolar ridge preservation, sinus elevation, guided bone regeneration, dental implant procedures, and postextraction healing, CGF gave better values in clinical practice. CGF enhances regenerative surgery outcomes for periodontal intrabony defects. Combined with CAF, CGF improves therapeutic efficacy for gingival recession, although less so than CTG with CAF. CGF shows promise in various regenerative dentistry areas. However, the absence of meta-analysis and low-quality assessments in many studies necessitates further high-quality research.Knowledge Transfer Statement:The use of concentrated growth factors (CGFs) in regenerative dentistry, within the limitation of low-quality studies, shows promising benefits in treating periodontitis infrabony defects, gingival recession, guided bone regeneration, dental implant alveolar ridge preservation, sinus elevation, and third molar extraction. Future research should focus on high-quality studies and explore combining CGF with grafting materials to enhance therapeutic outcomes in oral surgery.",
-      "study_methods": "A systematic search was performed across MEDLINE, OVID, Scopus, Cochrane Library, Google Scholar, Web of Science, and Elsevier for publications between July 1, 2013, and July 1, 2023. Only randomized clinical trials were included. The quality of the methodology was assessed using the Cochrane Risk of Bias Tool. Data were analyzed using RevMan 5.4 software.",
-      "methods": "A systematic search was performed across MEDLINE, OVID, Scopus, Cochrane Library, Google Scholar, Web of Science, and Elsevier for publications between July 1, 2013, and July 1, 2023. Only randomized clinical trials were included. The quality of the methodology was assessed using the Cochrane Risk of Bias Tool. Data were analyzed using RevMan 5.4 software.",
-      "results": "ing in a mean increase in keratinized tissue width of 0.41 mm and a mean increase in gingival thickness of 0.26 mm (P < 0.00001). However, CGF combined with CAF was less effective than connective tissue graft (CTG) combined with CAF, showing a mean difference in root coverage of -15.09% and a mean difference in gingival thickness of -0.50 mm (P < 0.0001). In alveolar ridge preservation, sinus elevation, guided bone regeneration, dental implant procedures, and postextraction healing, CGF gave better values in clinical practice. CGF enhances regenerative surgery outcomes for periodontal intrabony defects. Combined with CAF, CGF improves therapeutic efficacy for gingival recession, although less so than CTG with CAF. CGF shows promise in various regenerative dentistry areas. However, the absence of meta-analysis and low-quality assessments in many studies necessitates further high-quality research.Knowledge Transfer Statement:The use of concentrated growth factors (CGFs) in regenerative dentistry, within the limitation of low-quality studies, shows promising benefits in treating periodontitis infrabony defects, gingival recession, guided bone regeneration, dental implant alveolar ridge preservation, sinus elevation, and third molar extraction. Future research should focus on high-quality studies and explore combining CGF with grafting materials to enhance therapeutic outcomes in oral surgery.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40265704/",
-      "pmcid": "PMC12967397",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967397/bin/10.1177_23800844251325532-fig1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967397/bin/10.1177_23800844251325532-fig1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967397/bin/10.1177_23800844251325532-fig2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967397/bin/10.1177_23800844251325532-fig2.gif"
-      ]
     },
     {
       "pmid": "39952888",
@@ -2767,32 +2832,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "39814520",
-      "title": "Evaluation of PCORnet as an Approach to Accessing Electronic Health Record (EHR) Data for Cleft Outcomes Research: Advantages and Limitations.",
-      "authors": [
-        "Elaine Lin",
-        "Victoria N Yi",
-        "Kristina Dunworth",
-        "Christopher Runyan",
-        "Alexander C Allori"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Objective: To evaluate the feasibility of using the National Patient-Centered Clinical Research Network (PCORnet®) as a source of electronic health record (EHR) data for cleft outcomes research. Design: Exploratory retrospective analysis of multi-year, administrative and clinical, structured data stored in PCORnet. Setting: Academic institution with an ACPA-approved cleft and craniofacial team. Patients/Participants: Encounter-level data pertaining to patients with orofacial clefts treated at this center between 2010 and 2018. Outcome Measures: (1) Ability of PCORnet to report metrics such as the following: number of new and returning patients per year; demographics; phenotype; procedures; readmission or reoperation within 30 days; etc. (2) Accuracy of selected metrics, compared with manual chart review. Results: PCORnet is useful for the calculation of simple process metrics such as patient demographics, phenotype mix, case mix, and number of readmissions. However, as it lacks access to clinical notes, PCORnet alone cannot provide more detailed information. Phenotypic classification (based on ICD codes) and procedural description (based on CPT®) are subject to inaccuracy. A 1-2 year delay in data upload to PCORnet may be rate-limiting for certain applications. Multi-institutional queries were feasible. Conclusions: PCORnet does not include all necessary data elements from the EHR. While very convenient for the tabulation of simple process metrics, especially from multiple institutions, supplemental data collection will be required for meaningful cleft outcomes research. Cleft teams whose institutions participate in PCORnet might choose to store the supplemental data as \"sidecars\" alongside the standard PCORnet database tables, which would allow for future PCORnet queries to be more informative and impactful.",
-      "objective": "To evaluate the feasibility of using the National Patient-Centered Clinical Research Network (PCORnet®) as a source of electronic health record (EHR) data for cleft outcomes research. Design: Exploratory retrospective analysis of multi-year, administrative and clinical, structured data stored in PCORnet. Setting: Academic institution with an ACPA-approved cleft and craniofacial team. Patients/Participants: Encounter-level data pertaining to patients with orofacial clefts treated at this center between 2010 and 2018. Outcome Measures: (1) Ability of PCORnet to report metrics such as the following: number of new and returning patients per year; demographics; phenotype; procedures; readmission or reoperation within 30 days; etc. (2) Accuracy of selected metrics, compared with manual chart review.",
-      "study_methods": "",
-      "methods": "",
-      "results": "PCORnet is useful for the calculation of simple process metrics such as patient demographics, phenotype mix, case mix, and number of readmissions. However, as it lacks access to clinical notes, PCORnet alone cannot provide more detailed information. Phenotypic classification (based on ICD codes) and procedural description (based on CPT®) are subject to inaccuracy. A 1-2 year delay in data upload to PCORnet may be rate-limiting for certain applications. Multi-institutional queries were feasible.",
-      "conclusion": "PCORnet does not include all necessary data elements from the EHR. While very convenient for the tabulation of simple process metrics, especially from multiple institutions, supplemental data collection will be required for meaningful cleft outcomes research. Cleft teams whose institutions participate in PCORnet might choose to store the supplemental data as \"sidecars\" alongside the standard PCORnet database tables, which would allow for future PCORnet queries to be more informative and impactful.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39814520/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "39782701",
       "title": "Multidisciplinary Oral Rehabilitation of Complex Frontonasal Dysplasia: A Case Report.",
       "authors": [
@@ -2846,6 +2885,32 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41914846/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41921612",
+      "title": "Three-dimensional cone-beam computed tomography analysis of the mandibular lingula and mandibular foramen with clinical implications for ramus osteotomy.",
+      "authors": [
+        "Nattharin Wongsirichat",
+        "Atapol Yongvikul",
+        "Manop Khanijou",
+        "Thongnard Kumchai",
+        "Natthamet Wongsirichat"
+      ],
+      "publication_date": "2026-Mar-30",
+      "publication_date_iso": "2026-03-30",
+      "abstract": "The location of the mandibular foramen (MF) and mandibular lingula (ML) is essential in orthodontic patients who require adjunctive operations, such as orthognathic surgery, cortectomy-assisted tooth movement, or temporary anchorage device placement in the mandibular ramus region. These structures are closely related to the inferior alveolar neurovascular bundle and serve as key landmarks for sagittal split ramus osteotomy, routinely performed to correct deformities. Variations in the position and morphology of the ML and MF may influence the safety of surgical access and the effectiveness of treatment planning. Radiological evaluation using cone-beam computed tomography (CBCT) enables three-dimensional visualization of these landmarks and relationships to the surrounding cortical boundaries of the mandibular ramus. This retrospective CBCT study analyzed 288 hemimandibles. All scans were obtained using a standardized CBCT protocol. The anatomical positions and dimensions of the ML and MF were evaluated. Linear measurements included MF dimensions, distances between the ML, MF, and surrounding mandibular landmarks, and proportional indices. Measurements were independently performed by two examiners and repeated after a three-week interval. Sex- and age-related differences were analyzed using independent t-tests and one-way analysis of variance. The mean mediolateral and anteroposterior dimensions of the MF were 2.85 ± 0.47 mm and 4.60 ± 0.92 mm, respectively, and the mean distance between the ML and MF was 9.75 ± 2.03 mm. Significant sex-related differences were observed across multiple linear measurements, with males generally exhibiting larger mandibular dimensions than females (P < 0.05). In contrast, age-related differences were minimal, with only the mediolateral width of the MF showing a statistically significant difference among age groups (P = 0.035). The anatomical relationship and position of the ML and MF exhibit clear sex-related differences while remaining largely stable across adult age groups. The normative data provided may assist clinicians in the more accurate localization of critical orthognathic landmarks.",
+      "objective": "",
+      "study_methods": "This retrospective CBCT study analyzed 288 hemimandibles. All scans were obtained using a standardized CBCT protocol. The anatomical positions and dimensions of the ML and MF were evaluated. Linear measurements included MF dimensions, distances between the ML, MF, and surrounding mandibular landmarks, and proportional indices. Measurements were independently performed by two examiners and repeated after a three-week interval. Sex- and age-related differences were analyzed using independent t-tests and one-way analysis of variance.",
+      "methods": "This retrospective CBCT study analyzed 288 hemimandibles. All scans were obtained using a standardized CBCT protocol. The anatomical positions and dimensions of the ML and MF were evaluated. Linear measurements included MF dimensions, distances between the ML, MF, and surrounding mandibular landmarks, and proportional indices. Measurements were independently performed by two examiners and repeated after a three-week interval. Sex- and age-related differences were analyzed using independent t-tests and one-way analysis of variance.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41921612/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3007,31 +3072,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41891531/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41895029",
-      "title": "Three-dimensional evaluation of proximal segment positional changes and postoperative stability in bilateral sagittal split osteotomy using the novel index Co-B distance.",
-      "authors": [
-        "Shinsuke Yamamoto",
-        "Reiko Iwadate",
-        "Keigo Maeda",
-        "Naoki Taniike"
-      ],
-      "publication_date": "2026-Mar-26",
-      "publication_date_iso": "2026-03-26",
-      "abstract": "The aim of this study was to evaluate three-dimensional changes in the mandibular segments following bilateral sagittal split osteotomy, focusing on the positional relationship between the proximal and distal segments and its impact on postoperative stability. Forty-one patients who underwent Le Fort I osteotomy and bilateral sagittal split osteotomy were retrospectively analyzed using computed tomography at preoperative, early postoperative, and 1-year postoperative stages. Segmental superimposition was performed using stable regions of the proximal segment, and the Co-B distance was introduced as a novel three-dimensional index to assess surgical and postoperative changes. In Class III, a significant increase in the Co-B distance (0.650 ± 0.462 mm) was observed postoperatively. Correlation analysis revealed that greater anterior displacement of the Co in Class III (r = 0.49, p = 0.027) and greater lateral (r = 0.69, p = 0.028) and posterior (r = 0.81, p = 0.004) displacements of the Co in Class II were significantly associated with relapse. These findings suggest that the Co-B distance is a valuable indicator for assessing postoperative stability and emphasize the need to prevent lateral displacement of the condyle, especially in Class II cases, to reduce the risk of relapse.",
-      "objective": "of this study was to evaluate three-dimensional changes in the mandibular segments following bilateral sagittal split osteotomy, focusing on the positional relationship between the proximal and distal segments and its impact on postoperative stability. Forty-one patients who underwent Le Fort I osteotomy and bilateral sagittal split osteotomy were retrospectively analyzed using computed tomography at preoperative, early postoperative, and 1-year postoperative stages. Segmental superimposition was performed using stable regions of the proximal segment, and the Co-B distance was introduced as a novel three-dimensional index to assess surgical and postoperative changes. In Class III, a significant increase in the Co-B distance (0.650 ± 0.462 mm) was observed postoperatively. Correlation analysis revealed that greater anterior displacement of the Co in Class III (r = 0.49, p = 0.027) and greater lateral (r = 0.69, p = 0.028) and posterior (r = 0.81, p = 0.004) displacements of the Co in Class II were significantly associated with relapse. These findings suggest that the Co-B distance is a valuable indicator for assessing postoperative stability and emphasize the need to prevent lateral displacement of the condyle, especially in Class II cases, to reduce the risk of relapse.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41895029/",
       "pmcid": "",
       "figure_urls": []
     }
