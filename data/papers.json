@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T04:34:41Z",
+  "updated_at": "2026-04-04T04:22:39Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -914,6 +914,44 @@
       "figure_urls": []
     },
     {
+      "pmid": "41929532",
+      "title": "Effects of fullerenol C",
+      "authors": [
+        "Necmiye Şengel",
+        "Ömer Kubat",
+        "Laman Farajsoylu",
+        "Ahmet Çağri Büyükkasap",
+        "Muharrem Atli",
+        "Şaban Cem Sezen",
+        "Hasan Bostanci",
+        "Kürşat Dikmen",
+        "Işin Güneş",
+        "Fatma Er",
+        "Mustafa Kavutçu",
+        "Mustafa Arslan"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "In the present study, the protective effects of fullerenol C60, a nanomaterial with antioxidant properties, were investigated against sepsis-induced multiple organ failure in liver, heart and brain tissues using a sepsis model [cecal ligation and puncture (CLP)] in diabetic rats. A total of 30 Wistar albino male rats were divided into four groups: Control, diabetic control, diabetes + sepsis (DM/SEP) and diabetes + sepsis + fullerenol C60 (FUL/C-60). Streptozotocin was administered intraperitoneally at a dose of 55 mg/kg to induce diabetes in the rats; those with blood sugar levels >250 mg/dl 72 h after injection were considered diabetic. After 4 weeks, only laparotomy was performed in the control and diabetic control groups. CLP was applied to the DM/SEP and FUL/C-60 groups to establish a sepsis model. After laparotomy, the abdomens of the rats were closed. In the FUL/C-60 group, 100 mg/kg fullerenol C60 was administered intraperitoneally 30 min after the procedure. All rats were sacrificed 24 h later and blood and tissue samples from the brain, liver and heart were taken for histopathological and biochemical examination. The data distribution was analyzed using the Shapiro-Wilk test. Data were evaluated using the Kruskal-Wallis test followed by Dunn's post hoc test or one-way ANOVA followed by Tukey's post hoc test. Fullerenol C60 markedly reduced sepsis-induced tissue damage in the liver, heart and brain. Histopathological evaluation demonstrated significantly less hepatocyte degeneration (P=0.042), necrosis (P=0.040) and sinusoidal dilatation (P=0.013) in liver tissue; reduced interstitial fibrosis (P=0.040) in heart tissue; and decreased inflammatory cellularity (P=0.034) in brain tissue in the FUL/C-60 group compared with the DM/SEP group. Biochemically, fullerenol C60 significantly attenuated oxidative stress in liver and brain tissues, as indicated by lower thiobarbituric acid reactive substance levels (both, P<0.001) and higher catalase activity (P=0.034 and P=0.009, respectively) in the FUL/C-60 group. Consistent with these findings, liver function was substantially improved, as evidenced by reduced serum aspartate transaminase (P<0.001), alanine transaminase (P<0.001) and γ-glutamyl transferase (P=0.008) levels, as well as lower total (P<0.001) and direct bilirubin (P<0.001) levels. Overall, fullerenol C60 effectively reduced organ damage by suppressing oxidative stress. Fullerenol C60 demonstrated protective effects against multiple organ failure in a diabetic sepsis model, indicating its potential as a supportive agent in sepsis treatment.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41929532/",
+      "pmcid": "PMC13040333",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13040333/bin/etm-31-05-13130-g00.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13040333/bin/etm-31-05-13130-g01.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13040333/bin/etm-31-05-13130-g02.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13040333/bin/etm-31-05-13130-g03.jpg"
+      ]
+    },
+    {
       "pmid": "41889532",
       "title": "Delayed-onset maxillary sinus-cutaneous fistula of the lower eyelid following zygomatic implant removal: A case report.",
       "authors": [
@@ -1392,32 +1430,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41672805",
-      "title": "Oxygen-ozone therapy in the osteonecrosis of the jaw: some comments.",
-      "authors": [
-        "Marianno Franzini",
-        "Luigi Valdenassi",
-        "Dario Bertossi",
-        "Umberto Tirelli",
-        "Salvatore Chirumbolo"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41672805/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41672804",
       "title": "Prognosis of medication-related osteonecrosis of the jaw based on the immunonutritional biomarker.",
       "authors": [
@@ -1613,6 +1625,109 @@
       ]
     },
     {
+      "pmid": "41931360",
+      "title": "Comparison of Clinical, Anesthetic, and Perioperative Outcomes Between Single-Jaw and Bimaxillary Orthognathic Surgery: A Retrospective Analysis of 499 Cases.",
+      "authors": [
+        "Hatice Akpinar",
+        "Tayfun Yazici",
+        "Esengül Gök",
+        "Yavuz Findik"
+      ],
+      "publication_date": "2026-Apr-03",
+      "publication_date_iso": "2026-04-03",
+      "abstract": "Orthognathic surgery involves complex perioperative management due to prolonged operative time, shared airway challenges, and potential complications. This study aimed to evaluate the impact of surgical scope (single-jaw versus bimaxillary) on perioperative outcomes, hemodynamics, length of hospital stay (LOS), and complications. A retrospective cohort of 499 patients undergoing orthognathic surgery between 2017 and 2025 was analyzed: single-jaw (n=81) and bimaxillary (n=418) groups. Demographics, American Society of Anesthesiologists (ASA) status, the Index of Complexity, Outcome and Need (ICON) scores, anesthesia and surgical durations, intraoperative vitals, LOS, blood transfusion requirements, and perioperative complications were compared. Significance was set at a P value <0.05. The study was approved by the Ethics Committee of Suleyman Demirel University, Faculty of Medicine, and conducted in accordance with the Declaration of Helsinki. There were no significant differences in age, height, or weight between groups. Bimaxillary surgery had longer anesthesia and operative times (P=0.001) and LOS (P=0.034). Systolic blood pressure at 120 minutes was lower in the bimaxillary group (P=0.012), reflecting controlled hypotensive anesthesia. Complication and transfusion rates were low and similar. A weak negative correlation was observed between weight and LOS (r=-0.131; P=0.003). Bimaxillary surgery is associated with longer operative and anesthesia times and hospital stay, but shows a safety profile comparable to single-jaw procedures. With proper anesthesia and surgical planning, it can be safely performed in young, mostly ASA I to II patients.",
+      "objective": "",
+      "study_methods": "A retrospective cohort of 499 patients undergoing orthognathic surgery between 2017 and 2025 was analyzed: single-jaw (n=81) and bimaxillary (n=418) groups. Demographics, American Society of Anesthesiologists (ASA) status, the Index of Complexity, Outcome and Need (ICON) scores, anesthesia and surgical durations, intraoperative vitals, LOS, blood transfusion requirements, and perioperative complications were compared. Significance was set at a P value <0.05. The study was approved by the Ethics Committee of Suleyman Demirel University, Faculty of Medicine, and conducted in accordance with the Declaration of Helsinki.",
+      "methods": "A retrospective cohort of 499 patients undergoing orthognathic surgery between 2017 and 2025 was analyzed: single-jaw (n=81) and bimaxillary (n=418) groups. Demographics, American Society of Anesthesiologists (ASA) status, the Index of Complexity, Outcome and Need (ICON) scores, anesthesia and surgical durations, intraoperative vitals, LOS, blood transfusion requirements, and perioperative complications were compared. Significance was set at a P value <0.05. The study was approved by the Ethics Committee of Suleyman Demirel University, Faculty of Medicine, and conducted in accordance with the Declaration of Helsinki.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41931360/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41931308",
+      "title": "An Interpretable Fuzzy-AI Clinical Decision Support System for Selecting Orthognathic Surgery in Skeletal Class III Malocclusion.",
+      "authors": [
+        "Chihiro Tanikawa",
+        "Keiko Okamoto",
+        "Kenji Takada"
+      ],
+      "publication_date": "2026-Apr-03",
+      "publication_date_iso": "2026-04-03",
+      "abstract": "This study aimed to develop an interpretable fuzzy-artificial intelligence (AI) framework to support treatment decision-making between orthognathic surgery and orthodontic camouflage in patients with skeletal class III malocclusion, while providing clinician-oriented explanations using a large language model (LLM). Eighty-six patients with skeletal class III malocclusion were classified into Surgery or Camouflage groups based on treatment plans determined by multiple experienced orthodontists. Pretreatment lateral cephalograms were analyzed, and 22 cephalometric variables were measured. A fuzzy inference model was used to calculate a membership grade (MG) representing the severity of skeletal class III sagittal discrepancy, based on visual evaluation of the facial profile. The MG was derived from a composite index incorporating 4 sagittal skeletal parameters: the ANB angle, chin-to-Nasion perpendicular distance, cranial base length, and mandibular body length. A decision-tree model was subsequently constructed using MG and selected cephalometric variables, and its discriminative performance was assessed using cross-validated area under the curve (AUC) analysis. To enhance interpretability, the mathematical decision framework was integrated with an LLM that generated concise, clinician-friendly diagnostic explanations without altering the underlying decision logic. Decision-tree analysis identified overjet, MG, lower facial height, and the H angle, an indicator of lip prominence, as the most influential predictors of treatment selection. The final model demonstrated excellent discriminative performance, with an AUC of 0.97. The LLM successfully translated the rule-based diagnostic output into brief explanatory summaries, and the complete system was implemented as open-source software. This LLM-integrated fuzzy-AI framework formalizes key elements of expert clinical reasoning and may improve the transparency, standardization, and reproducibility of treatment planning for skeletal class III malocclusion.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41931308/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41931306",
+      "title": "Clinical Significance of Metallic Plate Implant Removal After Orthognathic Surgery: A Scoping Review.",
+      "authors": [
+        "Mohammed M Bakri"
+      ],
+      "publication_date": "2026-Apr-03",
+      "publication_date_iso": "2026-04-03",
+      "abstract": "This scoping review examines the literature on the prevalence and clinical importance of miniplate removal following orthognathic (jaw) surgery. A scoping review of qualitative and quantitative literature was conducted following the framework of Arksey and O'Malley, later updated by Levac et al. A literature search was carried out using 4 electronic databases. Articles were screened by title and abstract, and inclusion and exclusion criteria. Potential papers were considered for full-text reading and excluded if the articles did not meet the inclusion criteria. Twenty-five papers were included in the final review. The total number of patients included in the 25 studies was 5434 patients for orthognathic surgeries, of which 2198 were operated on for plate removal. The overall complications associated with orthognathic surgery, leading to plate removal, were high. The average time of removal was 3 months, with the longest duration being 10 years. The findings imply that the removal of miniplates could be helpful for patients, as it can reduce long-term complications. The mandible was the most common site for plate removal. The most common reasons for plate removal were infection, pain, and patient demand. This scoping review highlights the importance of miniplate removal in cases with diverse complications and young individuals. To gain insight into the importance of plate removal and improve its clinical prevalence, further studies with larger sample sizes, excellent methodological qualities, and standardized outcomes are required.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41931306/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41928215",
+      "title": "Efficacy and safety of dexmedetomidine in orthognathic surgery: a systematic review and meta-analysis.",
+      "authors": [
+        "Ahmad M Molhem",
+        "Hanan M Qasem",
+        "Abdullah Yousef Aldalati",
+        "Qussai R Abuelsamen",
+        "Haya B Abukharmh",
+        "Tamara M Molhem",
+        "Rania Anwar Ayasrah",
+        "Heider Sultan Sheyyab",
+        "Mariam Kawafha",
+        "Mohammed Al-Mahdi Al-Kurdi",
+        "Alhussein Hasanat"
+      ],
+      "publication_date": "2026-Apr-02",
+      "publication_date_iso": "2026-04-02",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41928215/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41925671",
       "title": "Health-Related Quality of Life Outcomes in Pediatric Patients With Apert Syndrome.",
       "authors": [
@@ -1752,7 +1867,7 @@
       ],
       "publication_date": "2026-Apr-01",
       "publication_date_iso": "2026-04-01",
-      "abstract": "",
+      "abstract": "This editorial reviews the \"Periodontal Health and Disease\" Collection from Scientific Reports, highlighting pivotal research that bridges the gap between local oral pathology and systemic health. The Collection presents significant mechanistic insights, particularly regarding the role of VPS13B in epithelial barrier function and the regulation of osteoprotegerin by gingival fibroblasts. Furthermore, it showcases diagnostic advancements in salivary biomarkers, such as short-chain fatty acids and specific B-cell subsets, which offer noninvasive avenues for early detection. Crucially, the research explores the bidirectional links between periodontitis and systemic conditions, including non-small cell lung cancer, threatened preterm labor, and metabolic dysregulation. Collectively, these studies underscore the importance of periodontal health in achieving global health targets, such as the United Nations Sustainable Development Goal 3 (Good Health and Well-being), and provide a roadmap for future translational research and clinical practice.",
       "objective": "",
       "study_methods": "",
       "methods": "",
@@ -1763,7 +1878,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41922666/",
-      "pmcid": "",
+      "pmcid": "PMC13044241",
       "figure_urls": []
     },
     {
@@ -1948,6 +2063,34 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13038769/bin/40266_2026_1286_Fig1_HTML.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13038769/bin/40266_2026_1286_Fig1_HTML.gif"
       ]
+    },
+    {
+      "pmid": "41779033",
+      "title": "New insights into immunoporosis: the impact of ovariectomy on immune cell population in lymph nodes and spleen.",
+      "authors": [
+        "Nicole Gabriele Sommer",
+        "Katharina Jandl",
+        "Begüm Okutan",
+        "Uwe Yacine Schwarze",
+        "Jan Eike Freudenthal-Siefkes",
+        "Valentin Herber",
+        "Annelie-Martina Weinberg"
+      ],
+      "publication_date": "2026-Apr-01",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "It is increasingly appreciated that the immune cells and inflammatory mediators contribute to the impaired osteogenic potential under osteoporotic conditions. Previous studies in experimental animals focused on immune cells isolated from blood or bone marrow. Here we highlight the importance of unraveling the interactions between peripheral tissues, such as spleen and lymph nodes, and bone morphologic markers. Ovariectomized (OVX) animals underwent bilateral ovariectomy at the age of 9 mo. Four, 8, and 12 wk after ovariectomy, osteoporotic parameters and the immunoprofile were investigated by flow cytometric analysis of blood, lymph node, and spleen paired with immunohistochemistry. Ex vivo high-resolution micro-computed tomography (micro-CT) and hard tissue histology were performed on the excised tibiae. We observed trabecular bone loss, with corresponding decreases in bone volume to tissue volume (BV/TV), trabecular number (Tb.N), and connectivity density (Conn.D), as well as an increase in trabecular separation (Tb.Sp) in the OVX rats after 12 wk. Quantitative FACS analysis revealed significantly decreased percentage of granulocytes in lymph nodes at 12 wk in OVX. Correlation of distinct immune cell populations to bone morphologic markers showed that the percentage of granulocytes positively correlated with the Tb.N and Conn.Dn and negatively with the Tb.Sp both in the lymph nodes and in the spleen at 8 wk. At 12 wk after ovariectomy, however, the percentage of granulocytes correlated negatively with BV/TV, Tb.Th, and Tb. N. There was no correlation between distinct immune cells in the blood and bone morphologic markers. Hence, the presented data highlight the unmet need to investigate other compartments rather than blood and bone marrow.NEW & NOTEWORTHY There is supporting immunological evidence in the development of osteoporosis highlighted by bone alterations. Measurements of immune cells in the blood and bone marrow do not always reflect the multifactorial, pathologic situation linked to osteoporosis. Here, we pinpoint to distinct immune cell populations in peripheral tissues, especially in lymph nodes, which are affected during the onset of osteoporosis.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41779033/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41759453",
@@ -2675,37 +2818,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "40920565",
-      "title": "A Comparison of Surgical Techniques for Macroglossia in Beckwith-Wiedemann Syndrome.",
-      "authors": [
-        "Dominic J Romeo",
-        "Theodor Lenz",
-        "Andrew George",
-        "Jacob R Thomas",
-        "Benjamin B Massenburg",
-        "Meagan Wu",
-        "Jinggang J Ng",
-        "Allison C Hu",
-        "Jennifer M Kalish",
-        "Jesse A Taylor"
-      ],
-      "publication_date": "2026-Apr-01",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Tongue reduction surgery can improve symptomatic macroglossia in Beckwith-Wiedemann syndrome (BWS), but there is no consensus on the optimal tongue reduction surgical technique. This study assessed trends and outcomes of several tongue reduction techniques for treating macroglossia in BWS. Using perioperative and polysomnographic data, the authors present their institutions' rationale for increasingly adopting the peripheral resection technique. Medical records of patients with BWS seen between December of 2004 and June of 2024 were reviewed for molecular diagnosis, surgical history, polysomnographic findings, and perioperative complications. A total of 103 patients underwent 114 tongue reductions at a median age of 1.3 years (interquartile range [IQR], 0.4 to 2.8 years). Use of the peripheral resection technique increased from 10% of all tongue reductions before 2019 to 76% after 2019 ( P < 0.05). Compared with the W-plasty with keyhole approach, the peripheral resection had shorter operative times (29.0 [IQR, 24.0 to 34.0 minutes] versus 35.0 minutes [IQR, 28.0 to 39.0 minutes]; P < 0.05), a higher incidence of immediate extubation (51.7% versus 25.0%), shorter intubation periods (0 [IQR, 0 to 2.02 days] versus 5.0 days [IQR, 0 to 6.0 days]; P < 0.01), shorter pediatric intensive care unit admissions (3.0 [IQR, 1.0 to 10.0 days] versus 7.0 days [IQR, 3.0 to 20.0 days]; P = 0.042), and shorter hospital stays (4.0 [IQR, 2.0 to 10.0 days] versus 11.0 days [IQR, 5.0 to 19.0 days]; P = 0.005). Improvements in polysomnography and volume of resected tissue were similar between the two approaches ( P > 0.05). The anterior wedge (22.2%) and W-plasty (15.6%) techniques had more complications compared with peripheral resection (6.6%; P = 0.351). Peripheral resection appears noninferior to the W-plasty and anterior wedge approaches in treating symptomatic macroglossia in BWS. The authors document their institutional transition toward increasingly adopting this technique.",
-      "objective": "",
-      "study_methods": "Medical records of patients with BWS seen between December of 2004 and June of 2024 were reviewed for molecular diagnosis, surgical history, polysomnographic findings, and perioperative complications.",
-      "methods": "Medical records of patients with BWS seen between December of 2004 and June of 2024 were reviewed for molecular diagnosis, surgical history, polysomnographic findings, and perioperative complications.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40920565/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "40819992",
       "title": "Response to comment on \"Dexmedetomidine infusion on blood loss in orthognathic surgery: A retrospective study on its efficacy\".",
       "authors": [
@@ -3023,57 +3135,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13035882/bin/784_2026_6846_Fig3_HTML.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13035882/bin/784_2026_6846_Fig4_HTML.jpg"
       ]
-    },
-    {
-      "pmid": "41891532",
-      "title": "The Natural Evolution of Macroglossia Among Beckwith-Wiedemann Patients: A 30-Year Institutional Review.",
-      "authors": [
-        "Gabriel C Bouhadana",
-        "Éolie Delisle",
-        "Daniel E Borsuk",
-        "Patricia Bortoluzzi"
-      ],
-      "publication_date": "2026-Mar-27",
-      "publication_date_iso": "2026-03-27",
-      "abstract": "Macroglossia is a hallmark of Beckwith-Wiedemann syndrome (BWS). Tongue reduction surgery is classically performed to address such issues, but its necessity in patients without airway or feeding compromise remains debated. This study evaluates long-term outcomes of conservative management. A retrospective review of patients with BWS seen from 1993 to 2023 was performed. Data collected included demographics, comorbidities, occlusion, cephalometrics, and speech outcomes. Dental and dento-skeletal measures were compared with age- and sex-matched standards. Of 59 patients, 28 met the inclusion criteria (mean age: 14.3±4.0 y). Comorbidities included attention deficit hyperactivity disorder (29%) and autism spectrum disorder (21%). None required eventual tongue reduction, whereas 2 (7.1%) underwent orthognathic surgery for maxillo-mandibular discrepancies. Class III dental (molar) malocclusion persisted in 57%, though mean overbite, overjet, and maximal opening were within normative ranges. Cephalometrics showed mandibular length within expected norms, whereas mandibular width and Wits values were more often outside normal limits. Speech evaluations revealed long-term articulation difficulties in 80%, mainly interdental sigmatism, with less frequent resonance, voice, fluidity, or intelligibility issues. No feeding issues were present in the long term. In patients with BWS without airway or feeding difficulties, conservative management of macroglossia results in acceptable long-term outcomes. Malocclusion and articulation issues are present but manageable without invasive interventions. Nearly all patients avoid tongue reduction or orthognathic surgery. There seems to be a tendency for tongue accommodation by the mandible in its antegonial width.",
-      "objective": "",
-      "study_methods": "A retrospective review of patients with BWS seen from 1993 to 2023 was performed. Data collected included demographics, comorbidities, occlusion, cephalometrics, and speech outcomes. Dental and dento-skeletal measures were compared with age- and sex-matched standards.",
-      "methods": "A retrospective review of patients with BWS seen from 1993 to 2023 was performed. Data collected included demographics, comorbidities, occlusion, cephalometrics, and speech outcomes. Dental and dento-skeletal measures were compared with age- and sex-matched standards.",
-      "results": "in acceptable long-term outcomes. Malocclusion and articulation issues are present but manageable without invasive interventions. Nearly all patients avoid tongue reduction or orthognathic surgery. There seems to be a tendency for tongue accommodation by the mandible in its antegonial width.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41891532/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41891531",
-      "title": "Aesthetic Evaluation of Skeletal Class III Patients Treated With Orthognathic Surgery or Facemask Therapy.",
-      "authors": [
-        "İrem Öztürk Kirkpunar",
-        "Yağmur Kiliçaslan",
-        "Türkan Sezen Erhamza",
-        "Ferabi Erhan Özdiler",
-        "Büşra Özal Güneş"
-      ],
-      "publication_date": "2026-Mar-27",
-      "publication_date_iso": "2026-03-27",
-      "abstract": "This study aimed to evaluate how changes in facial aesthetics of skeletal class III patients, treated with different modalities-bimaxillary surgery, maxillary surgery, or facemask therapy-were perceived by panelists with diverse professional and demographic backgrounds. Pretreatment and posttreatment profile photographs and silhouettes of 29 skeletal class III patients (bimaxillary=9, maxillary=9, facemask=10) were evaluated by 180 panelists (90 females, 90 males) from 9 groups: dental students, orthodontists, plastic surgeons, oral and maxillofacial surgeons, general dentists, otorhinolaryngologists, fine arts students, and parents of orthodontic patients. A visual analog scale (VAS) was used for scoring, and intergroup differences were analyzed using mixed-effects linear models. Posttreatment aesthetic scores increased significantly in all treatment modalities (P<0.05), with the greatest improvement in the bimaxillary surgery group and the least in the facemask group. Profile photographs consistently received higher ratings than silhouettes (P<0.05). No gender differences were observed in profile evaluations, although male panelists rated silhouettes higher (P<0.05). Parents of orthodontic patients gave the highest scores, while professionals were more critical. The most pronounced aesthetic improvement in skeletal class III patients was achieved through surgical interventions. Aesthetic perception was influenced not only by the treatment modality but also by the professional and demographic characteristics of the evaluators. These findings emphasize the importance of considering patient expectations and societal perceptions of facial aesthetics in clinical decision-making.",
-      "objective": "",
-      "study_methods": "Pretreatment and posttreatment profile photographs and silhouettes of 29 skeletal class III patients (bimaxillary=9, maxillary=9, facemask=10) were evaluated by 180 panelists (90 females, 90 males) from 9 groups: dental students, orthodontists, plastic surgeons, oral and maxillofacial surgeons, general dentists, otorhinolaryngologists, fine arts students, and parents of orthodontic patients. A visual analog scale (VAS) was used for scoring, and intergroup differences were analyzed using mixed-effects linear models.",
-      "methods": "Pretreatment and posttreatment profile photographs and silhouettes of 29 skeletal class III patients (bimaxillary=9, maxillary=9, facemask=10) were evaluated by 180 panelists (90 females, 90 males) from 9 groups: dental students, orthodontists, plastic surgeons, oral and maxillofacial surgeons, general dentists, otorhinolaryngologists, fine arts students, and parents of orthodontic patients. A visual analog scale (VAS) was used for scoring, and intergroup differences were analyzed using mixed-effects linear models.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41891531/",
-      "pmcid": "",
-      "figure_urls": []
     }
   ]
 }
