@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T04:22:39Z",
+  "updated_at": "2026-04-05T04:42:23Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1625,6 +1625,33 @@
       ]
     },
     {
+      "pmid": "41933430",
+      "title": "Assessing the Area Deprivation Index in Relation to Orbital Floor Fractures.",
+      "authors": [
+        "Atif M Islam",
+        "Brandon J Dyer",
+        "Robert B Baldwin",
+        "Alec E Dallas",
+        "Ryan Hudnall",
+        "Julia Toman"
+      ],
+      "publication_date": "2026-Apr-03",
+      "publication_date_iso": "2026-04-03",
+      "abstract": "Social determinants of health are acknowledged as significant factors affecting trauma occurrence, severity, and outcomes. The area deprivation index (ADI) is a validated tool that combines social determinants into a single measure of \"neighborhood disadvantage.\" We aimed to investigate whether ADI was linked to injury severity and other clinical benchmarks in orbital floor fracture patients. Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests. A total of 1255 patients with acute orbital floor fractures were analyzed. ADI was significantly higher in patients with additional facial trauma (national ADI: 55 vs. 51, p = 0.0240; state ADI: 7 vs. 6, p = 0.0119). However, ADI was not significantly associated with the incidence of bodily polytrauma, initial clinical acuity, or LOS. Follow-up attendance rates did not differ by ADI. Social disadvantage was significantly associated with differences in injury characteristics and indirectly with care utilization among orbital floor fracture patients. This may reflect different mechanisms of injury in high ADI areas and indicate that ADI may be useful as a contextual marker of injury severity. Future studies should investigate these mechanisms and other risk factors unique to high ADI areas.",
+      "objective": "",
+      "study_methods": "Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests.",
+      "methods": "Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41933430/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41931360",
       "title": "Comparison of Clinical, Anesthetic, and Perioperative Outcomes Between Single-Jaw and Bimaxillary Orthognathic Surgery: A Retrospective Analysis of 499 Cases.",
       "authors": [
@@ -1692,6 +1719,60 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41931306/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41932098",
+      "title": "Disrupted Salivary Fungal Community in Patients With Oral Lichen Planus.",
+      "authors": [
+        "Mengtong Zhang",
+        "Wengieng Xiong",
+        "Ruru Shao",
+        "Zhenyuan Wang",
+        "Zhengyu Shen",
+        "Qin Zhou",
+        "Guanhuan Du"
+      ],
+      "publication_date": "2026-Apr-02",
+      "publication_date_iso": "2026-04-02",
+      "abstract": "Oral lichen planus (OLP), a chronic inflammatory oral mucosal disorder with malignant potential, has been associated with oral microbial dysbiosis. While bacterial community alterations in OLP are well-documented, the fungal community architecture and ecological dynamics, particularly within salivary microbiota, remain poorly characterised. Saliva samples were collected from 30 participants and stratified into 3 cohorts: 10 healthy controls (HC), 10 reticular OLP (R-OLP) patients and 10 erosive OLP (E-OLP) patients. The fungal community profile was assessed using internal transcribed spacer (ITS) sequencing, complemented by multi-dimensional analytical approaches, including diversity metrics, co-occurrence network construction and functional prediction. Significant diversity disparities distinguished fungal communities across groups. Taxonomically, Pseudozyma and Simplicillium demonstrated reduced abundance in OLP patients versus HC, while Pyronema was exclusive to OLP cohorts. Fungal ecological networks in OLP exhibited increased density compared to HC. Linear discriminant analysis effect size (LEfSe) analysis identified Pseudozyma as an HC-associated biomarker and Pyronema as an E-OLP discriminant, while predictive models highlighted Pseudozyma and Simplicillium as effective group stratifiers. FUNGuild profiling revealed predominant saprotrophic activity across all groups, with decreased pathotroph-symbiotroph guild representation in OLP patients. Salivary fungal communities in OLP exhibit structural and compositional alterations. Through integrated analyses of relative abundance, random forest modelling and LEfSe, this study indicated that 3 fungal taxa may be as potential biomarkers for distinguishing OLP from HC. Among these, Pseudozyma and Simplicillium showed characteristics suggesting a possible probiotic role, while Pyronema, with its detection limited to OLP and absence in HC, may be associated with the disease. The fungal profile observed in this study, comprising the potentially beneficial taxa Pseudozyma and Simplicillium as well as the OLP-linked Pyronema, offers new directions for developing noninvasive diagnostics and microbial-targeted therapies for OLP.",
+      "objective": "",
+      "study_methods": "Saliva samples were collected from 30 participants and stratified into 3 cohorts: 10 healthy controls (HC), 10 reticular OLP (R-OLP) patients and 10 erosive OLP (E-OLP) patients. The fungal community profile was assessed using internal transcribed spacer (ITS) sequencing, complemented by multi-dimensional analytical approaches, including diversity metrics, co-occurrence network construction and functional prediction.",
+      "methods": "Saliva samples were collected from 30 participants and stratified into 3 cohorts: 10 healthy controls (HC), 10 reticular OLP (R-OLP) patients and 10 erosive OLP (E-OLP) patients. The fungal community profile was assessed using internal transcribed spacer (ITS) sequencing, complemented by multi-dimensional analytical approaches, including diversity metrics, co-occurrence network construction and functional prediction.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41932098/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41932097",
+      "title": "Progress of Multimodal Imaging: Bridging Orthodontics to Comprehensive Oral Multidisciplinary Care.",
+      "authors": [
+        "Yuqian Feng",
+        "Yifan Jia",
+        "Linhe Lv",
+        "Xiaoxi Wei",
+        "Min Hu"
+      ],
+      "publication_date": "2026-Apr-02",
+      "publication_date_iso": "2026-04-02",
+      "abstract": "For decades, orthodontic diagnosis and treatment have primarily depended on physical models, imaging techniques, and three-dimensional (3D) imaging technologies. Nevertheless, single-modal data exhibits inherent limitations, including insufficient spatial resolution, lack of tissue specificity, and discontinuous spatiotemporal information. These drawbacks make it challenging to meet the increasingly high requirements for precision and comprehensiveness in modern clinical decision-making. Multimodal data fusion technology, by integrating diverse types of medical data, can fully leverage the unique advantages of each modal data while compensating for their respective deficiencies. This review aims to systematically elaborate on the application value and research progress of multimodal data fusion technology in orthodontics, and to provide insights into its future development directions. A review of the contemporary clinical literature, relating to multimodal data fusion technology, was undertaken using information obtained from the electronic databases PubMed and Web of Science. Eight types of commonly used modal data in orthodontics were identified, each with distinct characteristics. Multimodal data fusion technologies have been widely applied in orthodontic diagnosis and treatment, demonstrating significant application value. Moreover, such technologies have made notable progress in promoting multidisciplinary collaborative treatment involving orthodontics, oral surgery, and prosthodontics. The core advantage of multimodal data fusion technology lies in constructing comprehensive analytical models integrated with multidimensional biomechanical parameters, which can provide quantitative tools for dynamic orthodontic treatment monitoring and outcome evaluation. Multimodal data fusion technology holds remarkable clinical value in the field of orthodontics. It not only supports precise orthodontic treatment but also enhances interdisciplinary collaboration through standardized data platforms. To further advance efficient and precise oral healthcare, future efforts should focus on improving the fusion accuracy of multimodal data and integrating more types of dynamic data. The application of multimodal data fusion technology can effectively address the limitations of single-modal data in orthodontic practice, providing clinicians with more comprehensive and accurate diagnostic information. It facilitates dynamic treatment monitoring and precise outcome evaluation, thereby optimizing clinical decision-making. Additionally, the standardized data platform established by this technology promotes seamless collaboration between orthodontists, oral surgeons, prosthodontists, and other specialists, contributing to the improvement of overall oral healthcare quality.",
+      "objective": "to systematically elaborate on the application value and research progress of multimodal data fusion technology in orthodontics, and to provide insights into its future development directions. A review of the contemporary clinical literature, relating to multimodal data fusion technology, was undertaken using information obtained from the electronic databases PubMed and Web of Science. Eight types of commonly used modal data in orthodontics were identified, each with distinct characteristics. Multimodal data fusion technologies have been widely applied in orthodontic diagnosis and treatment, demonstrating significant application value. Moreover, such technologies have made notable progress in promoting multidisciplinary collaborative treatment involving orthodontics, oral surgery, and prosthodontics. The core advantage of multimodal data fusion technology lies in constructing comprehensive analytical models integrated with multidimensional biomechanical parameters, which can provide quantitative tools for dynamic orthodontic treatment monitoring and outcome evaluation. Multimodal data fusion technology holds remarkable clinical value in the field of orthodontics. It not only supports precise orthodontic treatment but also enhances interdisciplinary collaboration through standardized data platforms. To further advance efficient and precise oral healthcare, future efforts should focus on improving the fusion accuracy of multimodal data and integrating more types of dynamic data. The application of multimodal data fusion technology can effectively address the limitations of single-modal data in orthodontic practice, providing clinicians with more comprehensive and accurate diagnostic information. It facilitates dynamic treatment monitoring and precise outcome evaluation, thereby optimizing clinical decision-making. Additionally, the standardized data platform established by this technology promotes seamless collaboration between orthodontists, oral surgeons, prosthodontists, and other specialists, contributing to the improvement of overall oral healthcare quality.",
+      "study_methods": "A review of the contemporary clinical literature, relating to multimodal data fusion technology, was undertaken using information obtained from the electronic databases PubMed and Web of Science.",
+      "methods": "A review of the contemporary clinical literature, relating to multimodal data fusion technology, was undertaken using information obtained from the electronic databases PubMed and Web of Science.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41932097/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1927,7 +2008,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41919535/",
-      "pmcid": "",
+      "pmcid": "PMC13047874",
       "figure_urls": []
     },
     {
@@ -2475,6 +2556,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "41513220",
+      "title": "Artificial Intelligence for the Oral and Maxillofacial Surgeon.",
+      "authors": [
+        "John M Nathan",
+        "Jay Shim",
+        "Kevin Arce",
+        "Kyle S Ettinger"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Artificial intelligence (AI) and machine learning (ML) (AI/ML) has grown exponentially over the past several years. However, oral and maxillofacial surgeons have limited education and exposure to AI in the clinical and administrative setting. The purpose of this review is to provide an introduction of core concepts in commonly used AI models while providing relevant context in oral and maxillofacial surgery (OMS). Challenges and potential solutions to development of AI in OMS are also discussed. Preliminary studies using AI/ML in OMS have demonstrated high performance in metrics including sensitivity, specificity, Dice coefficient, intersection over union, and residual error. Oral and maxillofacial surgeons should have a functional knowledge of AI technologies to guide development, testing, and adoption into OMS. With surgeon guidance, AI/ML has the potential for meaningful application across multiple clinical and administrative domains of OMS.",
+      "objective": "of this review is to provide an introduction of core concepts in commonly used AI models while providing relevant context in oral and maxillofacial surgery (OMS). Challenges and potential solutions to development of AI in OMS are also discussed. Preliminary studies using AI/ML in OMS have demonstrated high performance in metrics including sensitivity, specificity, Dice coefficient, intersection over union, and residual error. Oral and maxillofacial surgeons should have a functional knowledge of AI technologies to guide development, testing, and adoption into OMS. With surgeon guidance, AI/ML has the potential for meaningful application across multiple clinical and administrative domains of OMS.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41513220/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41491923",
       "title": "Can the thickness of adipose tissue influence the quality of radiographic images obtained with portable devices?",
       "authors": [
@@ -2550,6 +2656,31 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12980049/bin/JOOR-53-866-g002.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12980049/bin/JOOR-53-866-g003.jpg"
       ]
+    },
+    {
+      "pmid": "41478302",
+      "title": "Do Pharyngeal Flaps Have a Greater Risk of Obstructive Sleep Apnea Than Other Speech Procedures? A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "David L Best",
+        "Vicky Yau",
+        "Farangis Farsio",
+        "Michael R Markiewicz"
+      ],
+      "publication_date": "2026-Apr",
+      "publication_date_iso": "2026-04-01",
+      "abstract": "Velopharyngeal insufficiency (VPI) is common in patients with repaired cleft palate. Speech surgery, which encompasses operative procedures to improve velopharyngeal function and speech resonance, is associated with postoperative obstructive sleep apnea (OSA). However, the relative risk of OSA between different speech surgery procedures remains unclear. The purpose of this study was to compare the relative risk of OSA following pharyngeal flap versus nonpharyngeal flap procedures, which included dynamic sphincter pharyngoplasty (DSP), Furlow palatoplasty, and buccal myomucosal flaps (BMMF). An electronic literature search was conducted utilizing PubMed, Cochrane, Embase, and Web of Science databases. Eligible studies included patients with a history of repaired cleft palate and VPI requiring speech surgery, published between 1994 and 2024. Studies specifically included comparison data between pharyngeal flap and nonpharyngeal flap techniques. Exclusion criteria were case reports, abstracts, and reviews. Data were extracted per the the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Demographics, speech procedure data, OSA frequency, and follow-up data were recorded. The primary comparison was procedure type including pharyngeal flap versus non-pharyngeal flap procedures. Meta-analysis was performed using a random-effects model, with P values <.05 considered statistically significant. The primary outcome was relative risk of postoperative OSA between procedure types. Four studies met inclusion criteria, which included 751 subjects. Pharyngeal flap use was associated with a significantly greater risk of postoperative OSA compared to nonpharyngeal flap procedures (pooled risk ratio = 2.45, 95% CI: 1.20 to 5.01, P = .01). Subgroup analysis demonstrated that palatal lengthening procedures had a significantly lower risk of OSA than pharyngeal flap (risk ratio = 0.39, P = .002); however, there was no difference in postoperative OSA between DSP and pharyngeal flap (P = .68) CONCLUSIONS AND RELEVANCE: Palatal lengthening procedures had a lower risk of postoperative OSA than pharyngeal flap. There was no difference in postoperative OSA between pharyngeal flap and DSP. As such, for patients with preoperative OSA or patients at high risk for developing OSA, it may be prudent to use palatal lengthening procedures as a first-line option for correction of VPI.",
+      "objective": "of this study was to compare the relative risk of OSA following pharyngeal flap versus nonpharyngeal flap procedures, which included dynamic sphincter pharyngoplasty (DSP), Furlow palatoplasty, and buccal myomucosal flaps (BMMF). An electronic literature search was conducted utilizing PubMed, Cochrane, Embase, and Web of Science databases. Eligible studies included patients with a history of repaired cleft palate and VPI requiring speech surgery, published between 1994 and 2024. Studies specifically included comparison data between pharyngeal flap and nonpharyngeal flap techniques. Exclusion criteria were case reports, abstracts, and reviews. Data were extracted per the the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Demographics, speech procedure data, OSA frequency, and follow-up data were recorded. The primary comparison was procedure type including pharyngeal flap versus non-pharyngeal flap procedures. Meta-analysis was performed using a random-effects model, with P values <.05 considered statistically significant. The primary outcome was relative risk of postoperative OSA between procedure types. Four studies met inclusion criteria, which included 751 subjects. Pharyngeal flap use was associated with a significantly greater risk of postoperative OSA compared to nonpharyngeal flap procedures (pooled risk ratio = 2.45, 95% CI: 1.20 to 5.01, P = .01). Subgroup analysis demonstrated that palatal lengthening procedures had a significantly lower risk of OSA than pharyngeal flap (risk ratio = 0.39, P = .002); however, there was no difference in postoperative OSA between DSP and pharyngeal flap (P = .68)",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "AND RELEVANCE: Palatal lengthening procedures had a lower risk of postoperative OSA than pharyngeal flap. There was no difference in postoperative OSA between pharyngeal flap and DSP. As such, for patients with preoperative OSA or patients at high risk for developing OSA, it may be prudent to use palatal lengthening procedures as a first-line option for correction of VPI.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41478302/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41477729",
@@ -2636,17 +2767,18 @@
       "figure_urls": []
     },
     {
-      "pmid": "41215733",
-      "title": "Defense Systems and Prophage Detection in Streptococcus mutans Strains.",
+      "pmid": "41241640",
+      "title": "The application of retromolar mini-screws for distalization in preparation for orthognathic surgery: A case series.",
       "authors": [
-        "Olivier Claisse",
-        "Cas Mosterd",
-        "Claire Le Marrec",
-        "Johan Samot"
+        "Haya Drora Assaf",
+        "Itamar Fridlander",
+        "Rizan Nashef",
+        "Eran Regev",
+        "Oded Yitschaky"
       ],
       "publication_date": "2026-Apr",
       "publication_date_iso": "2026-04-01",
-      "abstract": "Although the species is extensively studied, limited data are available on antiphage defense systems (APDSs) in Streptococcus mutans. The present study aimed to explore the diversity and the occurrence of APDSs and to search for prophages in the genomes of clinical isolates of S. mutans using bioinformatics tools. Forty-four clinical isolates of S. mutans were obtained from saliva samples of people with Parkinson's disease. Genomic DNA was extracted, sequenced using Illumina MiSeq technology, and analyzed for the presence of defense systems using DefenseFinder and PADLOC. CRISPR-Cas systems were characterized using CRISPRCasFinder, and prophages were detected by the PhiSpy pipeline from RAST. AcrFinder and AcrHub were used to identify anti-CRISPR proteins. Each strain harbored between 6 and 12 APDS, with restriction-modification systems being the most prevalent, followed by the MazEF toxin-antitoxin system and CRISPR-Cas systems. Type II-C CRISPR-Cas systems were not identified here in S. mutans. Novel variations in type II-A signature protein Cas9 were identified, allowing their classification into four distinct groups. Variability in direct repeat sequences within the same CRISPR array was also observed, and 80% of the spacers were classified as targeting \"dark matter\". A unique prophage, phi_37bPJ2, was detected, showing high similarity with previously described phages. The AcrIIA5 protein encoded by phi_37bPJ2 was conserved and suggested to remain functionally active. This study reveals the diversity of APDSs in S. mutans and the limited presence of prophages. The findings provide a foundation for future research on the evolutionary dynamics of these systems and their role in S. mutans adaptation to phage pressure.",
+      "abstract": "Combined orthodontic-surgical treatment is often chosen by clinicians and patients to enhance both skeletal and occlusal relations in cases of moderate to severe jaw discrepancies. Presurgical orthodontic preparation is crucial for achieving arch coordination and eliminating dentoalveolar compensation. Three cases with varying dental and skeletal characteristics are presented, one with protruded mandible and Class III relationship, the second with maxillary vertical excess and retruded mandible, and the third with retruded mandible. Distalization using retromolar skeletal anchorage for molar distalization was employed to achieve arch coordination and eliminate dentoalveolar compensation. The final outcomes demonstrated a harmonious occlusion with ideal interdigitation and a well-balanced facial profile. In cases with a favorable initial arch coordination that require space for incisor decompensation or crowding relief, distalization becomes a preferred strategy. Retromolar screws provide an advantageous force vector, facilitating efficient retraction of the entire dental arch.",
       "objective": "",
       "study_methods": "",
       "methods": "",
@@ -2654,40 +2786,9 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41215733/",
-      "pmcid": "PMC12964521",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12964521/bin/OMI-41-57-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12964521/bin/OMI-41-57-g001.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12964521/bin/OMI-41-57-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12964521/bin/OMI-41-57-g002.gif"
-      ]
-    },
-    {
-      "pmid": "41161775",
-      "title": "Attenuated neurovirulence of dUTPase-deficient herpes simplex virus type 1 in suckling mice but not in newborn mice.",
-      "authors": [
-        "Takehiro Kitabatake",
-        "Ken Ishioka",
-        "Takato Suzuki",
-        "Nozomu Miyazaki",
-        "Tatsuo Suzutani"
-      ],
-      "publication_date": "2026-Apr-01",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "The HSV-1 UL50 gene encodes dUTPase (DUT), which dephosphorylates dUTP into dUMP, and its mutant strain is known to reduce neurovirulence in mice over 3 weeks old. Therefore, the UL50-deficient strain may be a candidate as a vaccine strain or viral vector. In this study, the UL50-deficient strain demonstrated reduced levels of replication in brain and neurovirulence compared to the wild strain in 4-week-old mice, but not in newborn mice. Furthermore, the expression level of cellular DUT in the mouse brain was not detectable in 4-week-old mice, but was detectable in newborn mice. In vitro experiments showed replication of the UL50-deficient strain was reduced due to the knockdown of cellular DUT. These results suggest that in actively dividing cells, such as the brain neurons of newborn mice, efficient cellular DUT expression helps with the sufficient replication of the UL50 mutant, resulting in the same level of neurovirulence as that in the wild type. However, in the brains of 4-week-old mice, DUT expression is insufficient, resulting in reduced neurovirulence of the UL50 mutant. These results suggest that when using the UL50 mutant strain as a vaccine or virus vector, it is necessary to pay attention to the timing of inoculation.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "suggest that in actively dividing cells, such as the brain neurons of newborn mice, efficient cellular DUT expression helps with the sufficient replication of the UL50 mutant, resulting in the same level of neurovirulence as that in the wild type. However, in the brains of 4-week-old mice, DUT expression is insufficient, resulting in reduced neurovirulence of the UL50 mutant. These results suggest that when using the UL50 mutant strain as a vaccine or virus vector, it is necessary to pay attention to the timing of inoculation.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41161775/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41241640/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2740,80 +2841,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41067943/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41041936",
-      "title": "Mapping Dental Care for Children and Adolescents With Rare Diseases: A Brazilian Multicentre Study.",
-      "authors": [
-        "Heloisa Vieira Prado",
-        "Rayssa Maria Soalheiro de Souza",
-        "Gabriella Guerra Freire Gabrich Fonseca",
-        "Kamila Rodrigues Junqueira Carvalho",
-        "Anna Vitória Mendes Viana Silva",
-        "Iasmin Fonseca Tolentino Mascarenhas",
-        "Beatriz Rezende Bergo",
-        "Hanna Larissa Barbosa Soares",
-        "Bárbara Mendes de Jesus",
-        "Layanne Ribeiro Ferreira E Sobral",
-        "Kélisson Duarte Reis",
-        "Késia Lara Dos Santos Marques",
-        "Fabiana Sodré de Oliveira",
-        "Daniella Reis Barbosa Martelli",
-        "José Alcides Almeida de Arruda",
-        "Benjamin P J Fournier",
-        "Denise Vieira Travassos",
-        "Soraia Macari",
-        "Célia Regina Moreira Lanza",
-        "Ana Cristina Borges-Oliveira",
-        "Hercílio Martelli-Júnior",
-        "Tarcília Aparecida Silva"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "To describe the landscape of dental care provided by specialised centres for children and adolescents with rare diseases (RDs) in the state of Minas Gerais, southeastern Brazil. A retrospective cross-sectional study was conducted involving individuals aged 0-18 years with a confirmed diagnosis of a RD who received care at five specialised dental centres. Data on the diagnosis, age at first dental appointment, frequency of annual visits and travel distance from home to treatment centre were analysed using descriptive and inferential statistics. A total of 1057 individuals with 244 different RDs were identified. Most were boys (54.9%). The average age at the first dental appointment was 8.52 years. Haematological diseases were the most prevalent (38.9%). The average travel distance for treatment was 99.1 km, with individuals from the Jequitinhonha region traveling the farthest (526.3 km). The average number of annual dental visits was 2.4. Patients with craniofacial syndromes accessed care earlier (average: 3.6 years) and had more frequent follow-up appointments (average: 4.8 visits/year). Significant regional disparities were found in age at first appointment (p < 0.001), travel distance (p < 0.001) and frequency of visits (p = 0.002). Children and adolescents with RDs had delayed initiation of dental care, low follow-up rates and substantial travel burdens. The concentration of specialised centres in the state capital underscores the need for policy reforms to improve equitable access, particularly for patients in remote areas.",
-      "objective": "",
-      "study_methods": "A retrospective cross-sectional study was conducted involving individuals aged 0-18 years with a confirmed diagnosis of a RD who received care at five specialised dental centres. Data on the diagnosis, age at first dental appointment, frequency of annual visits and travel distance from home to treatment centre were analysed using descriptive and inferential statistics.",
-      "methods": "A retrospective cross-sectional study was conducted involving individuals aged 0-18 years with a confirmed diagnosis of a RD who received care at five specialised dental centres. Data on the diagnosis, age at first dental appointment, frequency of annual visits and travel distance from home to treatment centre were analysed using descriptive and inferential statistics.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41041936/",
-      "pmcid": "PMC13001003",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13001003/bin/CDOE-54-163-g001.jpg"
-      ]
-    },
-    {
-      "pmid": "40982205",
-      "title": "The optimal diagnostic assistance system for predicting three-dimensional contact between mandibular third molars and the mandibular canal on panoramic radiographs.",
-      "authors": [
-        "Motoki Fukuda",
-        "Daisuke Nomoto",
-        "Michihito Nozawa",
-        "Yoshitaka Kise",
-        "Chiaki Kuwada",
-        "Hirohito Kubo",
-        "Eiichiro Ariji",
-        "Yoshiko Ariji"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "This study aimed to identify the most effective diagnostic assistance system for assessing the relationship between mandibular third molars (M3M) and mandibular canals (MC) using panoramic radiographs. In total, 2,103 M3M were included from patients in whom the M3M and MC overlapped on panoramic radiographs. All M3M were classified into high-risk and low-risk groups based on the degree of contact with the MC observed on computed tomography. The contact classification was evaluated using four machine learning models (Prediction One software, AdaBoost, XGBoost, and random forest), three convolutional neural networks (CNNs) (EfficientNet-B0, ResNet18, and Inception v3), and three human observers (two radiologists and one oral surgery resident). Receiver operating characteristic curves were plotted; the area under the curve (AUC), accuracy, sensitivity, and specificity were calculated. Factors contributing to prediction of high-risk cases by machine learning models were identified. Machine learning models demonstrated AUC values ranging from 0.84 to 0.88, with accuracy ranging from 0.81 to 0.88 and sensitivity of 0.80, indicating consistently strong performance. Among the CNNs, ResNet18 achieved the best performance, with an AUC of 0.83. The human observers exhibited AUC values between 0.67 and 0.80. Three factors were identified as contributing to prediction of high-risk cases by machine learning models: increased root radiolucency, diversion of the MC, and narrowing of the MC. Machine learning models demonstrated strong performance in predicting the three-dimensional relationship between the M3M and MC.",
-      "objective": "",
-      "study_methods": "In total, 2,103 M3M were included from patients in whom the M3M and MC overlapped on panoramic radiographs. All M3M were classified into high-risk and low-risk groups based on the degree of contact with the MC observed on computed tomography. The contact classification was evaluated using four machine learning models (Prediction One software, AdaBoost, XGBoost, and random forest), three convolutional neural networks (CNNs) (EfficientNet-B0, ResNet18, and Inception v3), and three human observers (two radiologists and one oral surgery resident). Receiver operating characteristic curves were plotted; the area under the curve (AUC), accuracy, sensitivity, and specificity were calculated. Factors contributing to prediction of high-risk cases by machine learning models were identified.",
-      "methods": "In total, 2,103 M3M were included from patients in whom the M3M and MC overlapped on panoramic radiographs. All M3M were classified into high-risk and low-risk groups based on the degree of contact with the MC observed on computed tomography. The contact classification was evaluated using four machine learning models (Prediction One software, AdaBoost, XGBoost, and random forest), three convolutional neural networks (CNNs) (EfficientNet-B0, ResNet18, and Inception v3), and three human observers (two radiologists and one oral surgery resident). Receiver operating characteristic curves were plotted; the area under the curve (AUC), accuracy, sensitivity, and specificity were calculated. Factors contributing to prediction of high-risk cases by machine learning models were identified.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40982205/",
       "pmcid": "",
       "figure_urls": []
     },
