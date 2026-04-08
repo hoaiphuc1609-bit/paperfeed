@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T04:37:40Z",
+  "updated_at": "2026-04-08T04:41:34Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -976,6 +976,42 @@
       "figure_urls": []
     },
     {
+      "pmid": "41943819",
+      "title": "The therapeutic window: timing dentoalveolar surgery to minimize MRONJ risk in denosumab-treated osteoporotic patients.",
+      "authors": [
+        "Daya Masri",
+        "Eli Rosenfeld",
+        "Shaked Adut",
+        "Gavriel Chaushu",
+        "Gloria Tsvetov",
+        "Gal Avishai",
+        "Omar Ghanaiem",
+        "Ehud Jonas",
+        "Ayelet Zlotogorski-Hurvitz",
+        "Daniel Muchnik"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Osteoporosis patients treated with denosumab (Dmab) remain at risk for medication-related osteonecrosis of the jaw (MRONJ), particularly after dentoalveolar surgery. Optimizing surgical timing may reduce this risk while avoiding complications related to prolonged drug interruption. This retrospective cohort study evaluated 258 osteoporotic patients receiving Dmab and examined both patient-level data and intervention-level data from 91 patients who underwent 185 dentoalveolar procedures. Multivariable logistic regression and generalized estimating equations (GEE) were applied to identify factors associated with MRONJ development. Medication-related osteonecrosis of the jaw occurred in 5.43% of the total cohort. All MRONJ cases at the intervention level were observed when dentoalveolar procedures were performed within 3 mo of a Dmab injection. A longer interval between the last Dmab dose and dentoalveolar intervention demonstrated a strong protective effect against MRONJ (OR 0.35, p = .0089). In addition, prolonged previous antiresorptive drug intake was identified as a significant independent risk factor at the patient level. No specific type of dentoalveolar procedure showed a statistically significant association with MRONJ development. These findings confirm that surgical timing is a critical determinant of MRONJ risk in Dmab-treated osteoporotic patients. Avoiding dentoalveolar interventions during the early post-injection period, particularly within the first 3 mo, may substantially reduce risk. A delay of at least 4 mo after the last Dmab administration appears to be a clinically important preventative strategy, balancing MRONJ avoidance with the need to minimize fracture risk resulting from prolonged discontinuation of therapy. Additional prospective studies are warranted to refine surgical timing recommendations and guide individualized patient care.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing from prolonged discontinuation of therapy. Additional prospective studies are warranted to refine surgical timing recommendations and guide individualized patient care.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41943819/",
+      "pmcid": "PMC13050504",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050504/bin/ziag038ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050504/bin/ziag038ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050504/bin/ziag038f1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050504/bin/ziag038f1.gif"
+      ]
+    },
+    {
       "pmid": "41929532",
       "title": "Effects of fullerenol C",
       "authors": [
@@ -1406,29 +1442,6 @@
       ]
     },
     {
-      "pmid": "41720709",
-      "title": "Reply to the Letter to the Editor: Artificial intelligence-assisted triage in dentistry: toward reliable, scalable, and clinically aligned front-door decision support.",
-      "authors": [
-        "Gilad Wasserman",
-        "Nadav Grinberg"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41720709/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41672804",
       "title": "Prognosis of medication-related osteonecrosis of the jaw based on the immunonutritional biomarker.",
       "authors": [
@@ -1645,6 +1658,118 @@
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13041609/bin/EVJ-58-709-g001.jpg"
       ]
+    },
+    {
+      "pmid": "41947119",
+      "title": "Oral cancer knowledge, attitudes, and practices among dentists in Kabul, Afghanistan.",
+      "authors": [
+        "Ahmad Khalid Aalemi",
+        "Ahmad Shekib Sobat",
+        "Fariha Kamal",
+        "Noor Ahmad Shah Noor",
+        "Alison K Wright"
+      ],
+      "publication_date": "2026-Apr-07",
+      "publication_date_iso": "2026-04-07",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41947119/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41945298",
+      "title": "ASO Visual Abstract: Reducing Plastic Surgery's Silicone Footprint-Modeling Shipping Costs for Breast Implants and Tissue Expanders.",
+      "authors": [
+        "Tara D Thomason",
+        "Jenny A Foster",
+        "Chanel R Varney",
+        "Alexandria M Mullikin",
+        "J Andres Hernandez",
+        "Pranav N Haravu",
+        "Brett T Phillips"
+      ],
+      "publication_date": "2026-Apr-07",
+      "publication_date_iso": "2026-04-07",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41945298/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41945212",
+      "title": "Correction to: Evaluation of the composite materials mixed with calcium phosphate cement and β-tricalcium phosphate granules.",
+      "authors": [
+        "Eri Yumoto",
+        "Hironori Sakai",
+        "Yang Liu",
+        "Jianping Liu",
+        "Ryo Okaniwa",
+        "Ryo Kajihara",
+        "Hirokazu Tanaka",
+        "Hiroshi Kurita"
+      ],
+      "publication_date": "2026-Apr-07",
+      "publication_date_iso": "2026-04-07",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41945212/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41945068",
+      "title": "Biofilm formation on cpTi, Ti-6Al-4V and PEKK abutment surfaces: An in vitro study.",
+      "authors": [
+        "Giulia Brunello",
+        "Arya Aslan",
+        "Caroline Busch",
+        "Alessandro Antonelli",
+        "Raquel Guadarrama",
+        "Jürgen Becker",
+        "Colin R MacKenzie",
+        "Kathrin Becker"
+      ],
+      "publication_date": "2026-Apr-06",
+      "publication_date_iso": "2026-04-06",
+      "abstract": "Bacterial adhesion and biofilm formation on abutments are critical factors in peri-implant tissue inflammation. Aim of this in vitro study was to compare biofilm development on three abutment materials: machined commercially pure titanium (cpTi), titanium alloy (Ti-6Al-4V), and polyetherketoneketone (PEKK). CpTi, Ti-6Al-4V, and PEKK disks were characterized with a color 3D laser scanning microscope (Sa, Sz, Sdr, Ssk). Streptococcus oralis, Aggregatibacter actinomycetemcomitans, Fusobacterium nucleatum, and Porphyromonas gingivalis were cultivated individually, then combined to establish a multispecies biofilm. Sterile disks were preconditioned with artificial saliva, then incubated in bacterial culture under anaerobic conditions for 5 days. Disk incubated in medium were used as control. Following proteinase K digestion, DNA was extracted from adherent microorganisms, and species quantification was performed using quantitative polymerase chain reaction (qPCR) (n = 9 disks per group with bacteria and n = 3 with medium only as control). Scanning electron microscopy (SEM) and Alcian blue staining were used to investigate biofilm morphology. Data were analyzed using Kruskal-Wallis test, followed by Wilcoxon post hoc test with Bonferroni correction, where appropriate. All disks displayed smooth surface (mean Sa < 0.4 µm). PEKK disks exhibited significantly higher Sa, Sz, and Sdr values than cpTi and Ti-6Al-4V (p < 0.001), while no significant differences were observed for Ssk. qPCR analysis revealed no statistically significant differences in absolute copy number among materials for any bacterial species (p > 0.05). None of the four bacterial strains were detected in the controls. SEM and Alcian blue staining results further confirmed biofilm formation in all test groups. Within the limitations of the present experimental in vitro model, comparable multispecies biofilm development was observed on all abutment materials.",
+      "objective": "of this in vitro study was to compare biofilm development on three abutment materials: machined commercially pure titanium (cpTi), titanium alloy (Ti-6Al-4V), and polyetherketoneketone (PEKK). CpTi, Ti-6Al-4V, and PEKK disks were characterized with a color 3D laser scanning microscope (Sa, Sz, Sdr, Ssk). Streptococcus oralis, Aggregatibacter actinomycetemcomitans, Fusobacterium nucleatum, and Porphyromonas gingivalis were cultivated individually, then combined to establish a multispecies biofilm. Sterile disks were preconditioned with artificial saliva, then incubated in bacterial culture under anaerobic conditions for 5 days. Disk incubated in medium were used as control. Following proteinase K digestion, DNA was extracted from adherent microorganisms, and species quantification was performed using quantitative polymerase chain reaction (qPCR) (n = 9 disks per group with bacteria and n = 3 with medium only as control). Scanning electron microscopy (SEM) and Alcian blue staining were used to investigate biofilm morphology. Data were analyzed using Kruskal-Wallis test, followed by Wilcoxon post hoc test with Bonferroni correction, where appropriate. All disks displayed smooth surface (mean Sa < 0.4 µm). PEKK disks exhibited significantly higher Sa, Sz, and Sdr values than cpTi and Ti-6Al-4V (p < 0.001), while no significant differences were observed for Ssk. qPCR analysis revealed no statistically significant differences in absolute copy number among materials for any bacterial species (p > 0.05). None of the four bacterial strains were detected in the controls. SEM and Alcian blue staining",
+      "study_methods": "CpTi, Ti-6Al-4V, and PEKK disks were characterized with a color 3D laser scanning microscope (Sa, Sz, Sdr, Ssk). Streptococcus oralis, Aggregatibacter actinomycetemcomitans, Fusobacterium nucleatum, and Porphyromonas gingivalis were cultivated individually, then combined to establish a multispecies biofilm. Sterile disks were preconditioned with artificial saliva, then incubated in bacterial culture under anaerobic conditions for 5 days. Disk incubated in medium were used as control. Following proteinase K digestion, DNA was extracted from adherent microorganisms, and species quantification was performed using quantitative polymerase chain reaction (qPCR) (n = 9 disks per group with bacteria and n = 3 with medium only as control). Scanning electron microscopy (SEM) and Alcian blue staining were used to investigate biofilm morphology. Data were analyzed using Kruskal-Wallis test, followed by Wilcoxon post hoc test with Bonferroni correction, where appropriate.",
+      "methods": "CpTi, Ti-6Al-4V, and PEKK disks were characterized with a color 3D laser scanning microscope (Sa, Sz, Sdr, Ssk). Streptococcus oralis, Aggregatibacter actinomycetemcomitans, Fusobacterium nucleatum, and Porphyromonas gingivalis were cultivated individually, then combined to establish a multispecies biofilm. Sterile disks were preconditioned with artificial saliva, then incubated in bacterial culture under anaerobic conditions for 5 days. Disk incubated in medium were used as control. Following proteinase K digestion, DNA was extracted from adherent microorganisms, and species quantification was performed using quantitative polymerase chain reaction (qPCR) (n = 9 disks per group with bacteria and n = 3 with medium only as control). Scanning electron microscopy (SEM) and Alcian blue staining were used to investigate biofilm morphology. Data were analyzed using Kruskal-Wallis test, followed by Wilcoxon post hoc test with Bonferroni correction, where appropriate.",
+      "results": "further confirmed biofilm formation in all test groups. Within the limitations of the present experimental in vitro model, comparable multispecies biofilm development was observed on all abutment materials.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41945068/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41941653",
@@ -2633,112 +2758,6 @@
       ]
     },
     {
-      "pmid": "41624391",
-      "title": "Global research trends, evolution, and future directions on platelet-rich plasma in surgery: A bibliometric analysis.",
-      "authors": [
-        "Ai-Jia Guan",
-        "Hong-Chen He"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "The study aimed to examine the international research landscape of PRP in surgery, identify influential contributors, and explore emerging research trends up to 2024. Publications related to PRP in surgery were included from inception to 2024. Data were retrieved from the Web of Science Core Collection and analyzed via the Bibliometrix tool to assess publication growth, author influence, affiliations' output, countries' contribution, and keyword occurrence. A total of 1898 articles were retrieved, demonstrating a consistent upward trajectory in publication output with an approximate annual growth rate of 14 %. Leading contributors include Pietro Gentile, Giuseppe Filardo, Valerio Cervelli and David M. Dohan Ehrenfest. Prominent institutions such as KU Leuven, Universidade Estadual Paulista, and the Egyptian Knowledge Bank, together with leading countries including China, the United States, and Italy, collectively constitute the core driving forces shaping this research domain. Keywords with high frequency revealed two dominant research clusters: PRP for musculoskeletal regeneration and PRF for oral surgery and wound healing. PRP research is expanding beyond established fields to new indications such as lumbar intervertebral disc protrusion and cardiac surgery, while advancing toward integration with engineering biomaterials. Global PRP research in surgery has demonstrated sustained growth and increasing interdisciplinary integration. Future progress depends on enhancing cross-continental collaboration, protocol standardization, mechanistic elucidation, and large-scale randomized controlled trials. PRP has evolved from experimental research to clinical application as a key component of regenerative surgical strategies, contributing to the advancement of enhanced recovery after surgery.",
-      "objective": "",
-      "study_methods": "Publications related to PRP in surgery were included from inception to 2024. Data were retrieved from the Web of Science Core Collection and analyzed via the Bibliometrix tool to assess publication growth, author influence, affiliations' output, countries' contribution, and keyword occurrence.",
-      "methods": "Publications related to PRP in surgery were included from inception to 2024. Data were retrieved from the Web of Science Core Collection and analyzed via the Bibliometrix tool to assess publication growth, author influence, affiliations' output, countries' contribution, and keyword occurrence.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41624391/",
-      "pmcid": "PMC12860270",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41619646",
-      "title": "Bone Quality in Resorbed Posterior Maxilla Affects Osteogenesis After Sinus Floor Augmentation: A Retrospective Analysis.",
-      "authors": [
-        "Wenjie Zhou",
-        "Shengchi Fan",
-        "Emilio A Cafferata",
-        "Yihan Shen",
-        "Yiqun Wu"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Compromised bone quality and quantity in the posterior maxilla are widely recognised as significant risk factors for implant failures. This study aimed to (1) assess the bone quality of the resorbed posterior maxilla both radiographically and histologically and (2) evaluate the impact of native alveolar bone quality on osteogenesis following maxillary sinus floor augmentation (MSFA). Patients presenting advanced posterior maxillary atrophy (residual bone height ≤ 4 mm) underwent MSFA via a lateral window approach using deproteinised bovine bone matrix (DBBM). Bone core biopsies were collected during second-stage implant placement for histological analyses. Preoperative cone-beam computer tomography (CBCT) images were used to classify bone quality based on cortical bone configuration. Multiple linear regression was employed to identify factors influencing osteogenesis. A total of 190 sinuses from 176 patients (96 males/80 females, mean age: 45.77 ± 4.13 years) underwent MSFA and biopsy. Radiographic analysis revealed the presence of bicortical bone in 42.21% of the maxillary ridges, unicortical bone in 25.97%, no cortical bone in 19.48% and sinus floor-crestal bone fusion in 12.34%. Histologically, native bone comprised 40.01% ± 14.85% of mineralised trabeculae while newly formed bone accounted for 18.77% ± 5.69% in the DBBM grafted areas. A significant positive correlation was observed between native bone trabecula percentage and new bone formation (r = 0.23, P = .04). No significant associations were found with age, sex, healing time or radiographic alveolar type (P > .05). Greater density of native trabecular bone may contribute to enhanced osteogenesis following MSFA. This study enhances our understanding of the bone characteristics of the resorbed posterior maxilla. It emphasises the need to consider the bone quality of the recipient site before conducting a MSFA for determining the surgical procedure and predicting the prognosis.",
-      "objective": "",
-      "study_methods": "Patients presenting advanced posterior maxillary atrophy (residual bone height ≤ 4 mm) underwent MSFA via a lateral window approach using deproteinised bovine bone matrix (DBBM). Bone core biopsies were collected during second-stage implant placement for histological analyses. Preoperative cone-beam computer tomography (CBCT) images were used to classify bone quality based on cortical bone configuration. Multiple linear regression was employed to identify factors influencing osteogenesis.",
-      "methods": "Patients presenting advanced posterior maxillary atrophy (residual bone height ≤ 4 mm) underwent MSFA via a lateral window approach using deproteinised bovine bone matrix (DBBM). Bone core biopsies were collected during second-stage implant placement for histological analyses. Preoperative cone-beam computer tomography (CBCT) images were used to classify bone quality based on cortical bone configuration. Multiple linear regression was employed to identify factors influencing osteogenesis.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41619646/",
-      "pmcid": "PMC12876791",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12876791/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12876791/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12876791/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12876791/bin/gr2.gif"
-      ]
-    },
-    {
-      "pmid": "41616922",
-      "title": "Comparison of the accuracy of Robotic arm and Dynamic Navigation in the placement of mandibular dental implants: An in-vitro study.",
-      "authors": [
-        "Bander N Al-Meshary",
-        "Mohammed Y Al-Jarsha",
-        "Kurt B Naudi",
-        "Ashraf Ayoub"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "To compare the spatial accuracy between Robotic Computer-Assisted implant Surgery (R-CAIS) and Dynamic Computer-Assisted Implant Surgery (D-CAIS) for placement of dental implants. The study was carried out on twelve polyurethane mandibular models which were randomly divided into two groups (n = 6): D-CAIS (group 1) and R-CAIS (group 2). In group 1 the placement of two mandibular implants was carried out manually guided by dynamic navigation. In group 2, the placement of the two mandibular implants was achieved using a robotic arm. The postoperative Cone Beam Computed Tomography (CBCT) scans were superimposed on the predication planning to calculate the errors of the placement of the implants at entry point and at the apex as well as any angulation deviation. The statistical significance of the placement errors was assessed using Student t-tests and Mann-Whitney U tests (p < 0.05) for parametric and non-parametric measurements, respectively. D-CAIS group cases showed significantly lower entry and apex deviations (0.99 ± 0.33 mm; 0.77 ± 0.34 mm) compared to the R-CAIS group (1.82 ± 0.50 mm; 1.30 ± 0.51 mm). Angular deviation was comparable between the two groups (3.97 ± 2.40° vs 4.33 ± 1.83°; p = 0.51). The standard deviations of the linear placement errors (entry and apex) were smaller in the D-CAIS group, whereas the standard deviation of the angular deviation was smaller in the R-CAIS group. Although the angular deviation differed slightly between the two approaches, the results showed no statistically significant difference. The measured implant placement errors of the two approaches were clinically acceptable (< 2 mm; < 5°). The measured errors are likely to be secondary to the registration process which was more complex with the application of the robotic arm for the placement of the implants. D-CAIS demonstrated higher accuracy in mandibular implant placement, particularly in terms of linear deviations, while R-CAIS showed greater consistency in angular measurements despite no significant difference between groups. Overall, the observed deviations were small and are of limited clinical significance. These findings reflect system-level performance in a controlled laboratory setting, further clinical studies are required to validate these results. The study investigated the challenges and opportunities of the clinical application of dynamic navigation and robotic arm for the placement of dental implants. It informs the reader with the related technical details and the digital workflow for each of these two innovative techniques.",
-      "objective": "",
-      "study_methods": "The study was carried out on twelve polyurethane mandibular models which were randomly divided into two groups (n = 6): D-CAIS (group 1) and R-CAIS (group 2). In group 1 the placement of two mandibular implants was carried out manually guided by dynamic navigation. In group 2, the placement of the two mandibular implants was achieved using a robotic arm. The postoperative Cone Beam Computed Tomography (CBCT) scans were superimposed on the predication planning to calculate the errors of the placement of the implants at entry point and at the apex as well as any angulation deviation. The statistical significance of the placement errors was assessed using Student t-tests and Mann-Whitney U tests (p < 0.05) for parametric and non-parametric measurements, respectively.",
-      "methods": "The study was carried out on twelve polyurethane mandibular models which were randomly divided into two groups (n = 6): D-CAIS (group 1) and R-CAIS (group 2). In group 1 the placement of two mandibular implants was carried out manually guided by dynamic navigation. In group 2, the placement of the two mandibular implants was achieved using a robotic arm. The postoperative Cone Beam Computed Tomography (CBCT) scans were superimposed on the predication planning to calculate the errors of the placement of the implants at entry point and at the apex as well as any angulation deviation. The statistical significance of the placement errors was assessed using Student t-tests and Mann-Whitney U tests (p < 0.05) for parametric and non-parametric measurements, respectively.",
-      "results": "showed no statistically significant difference. The measured implant placement errors of the two approaches were clinically acceptable (< 2 mm; < 5°). The measured errors are likely to be secondary to the registration process which was more complex with the application of the robotic arm for the placement of the implants. D-CAIS demonstrated higher accuracy in mandibular implant placement, particularly in terms of linear deviations, while R-CAIS showed greater consistency in angular measurements despite no significant difference between groups. Overall, the observed deviations were small and are of limited clinical significance. These findings reflect system-level performance in a controlled laboratory setting, further clinical studies are required to validate these results. The study investigated the challenges and opportunities of the clinical application of dynamic navigation and robotic arm for the placement of dental implants. It informs the reader with the related technical details and the digital workflow for each of these two innovative techniques.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41616922/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41581748",
-      "title": "An alternative radiation-free method for assessing the accuracy of robotic computer-assisted implant surgery: a cross-sectional study.",
-      "authors": [
-        "Rongrong Zhu",
-        "Longlong He",
-        "Qin Zhou",
-        "Meng Zhang",
-        "Xiaofeng Chang",
-        "Ningbo Zhao"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "This study aimed to assess the accuracy of implant placement performed using robotic computer-assisted implant surgery (r-CAIS) by comparing postoperative measurements obtained via intraoral scanning (IOS) with those derived from cone-beam computed tomography (CBCT). The study employed a cross-sectional design. All patients received a preoperative CBCT and IOS for surgical planning and registration. All the surgeries were performed using r-CAIS. Postoperative CBCT and IOS datasets were acquired for each patient and superimposed on the preoperative datasets to assess deviations between planned and actual implant positions. Paired t-tests were used to analyze differences between the two assessment modalities, with statistical significance defined as P < 0.05. Agreement between the two methods was evaluated using intra-class correlation coefficients (ICCs) and Bland-Altman analyses. Thirty-four implants in twenty-seven patients were included. Global coronal, global apical, and angular deviations measured using the IOS method were 0.59 ± 0.23 mm, 0.66 ± 0.24 mm, and 1.28 ± 0.69°, respectively, compared with 0.59 ± 0.24 mm, 0.63 ± 0.25 mm, and 1.19 ± 0.70° measured by the CBCT method. No statistically significant differences were observed between the two modalities (P > 0.05, respectively). ICCs for global coronal, global apical, and angular deviations were 0.911, 0.886, and 0.856, respectively. Bland-Altman analyses further confirmed excellent agreement between the two methods. Both IOS and CBCT methods demonstrated comparable accuracy and good agreement in r-CAIS. Postoperative IOS method may serve as a reliable and radiation-free alternative to CBCT for assessing implant placement accuracy in r-CAIS in patients with a single missing tooth or two consecutive missing teeth. In future, multicenter randomized controlled trials with larger sample sizes are warranted to further validate these findings.",
-      "objective": "",
-      "study_methods": "The study employed a cross-sectional design. All patients received a preoperative CBCT and IOS for surgical planning and registration. All the surgeries were performed using r-CAIS. Postoperative CBCT and IOS datasets were acquired for each patient and superimposed on the preoperative datasets to assess deviations between planned and actual implant positions. Paired t-tests were used to analyze differences between the two assessment modalities, with statistical significance defined as P < 0.05. Agreement between the two methods was evaluated using intra-class correlation coefficients (ICCs) and Bland-Altman analyses.",
-      "methods": "The study employed a cross-sectional design. All patients received a preoperative CBCT and IOS for surgical planning and registration. All the surgeries were performed using r-CAIS. Postoperative CBCT and IOS datasets were acquired for each patient and superimposed on the preoperative datasets to assess deviations between planned and actual implant positions. Paired t-tests were used to analyze differences between the two assessment modalities, with statistical significance defined as P < 0.05. Agreement between the two methods was evaluated using intra-class correlation coefficients (ICCs) and Bland-Altman analyses.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41581748/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41491923",
       "title": "Can the thickness of adipose tissue influence the quality of radiographic images obtained with portable devices?",
       "authors": [
@@ -3026,32 +3045,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/39782701/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41914846",
-      "title": "Maxillofacial Fractures After Le Fort I and Bilateral Sagittal Split Osteotomy Using Two 2-Hole Miniplate Fixation.",
-      "authors": [
-        "Yuki Okawa",
-        "Ryo Sasaki",
-        "Sahori Matsuno",
-        "Yorikatsu Watanabe"
-      ],
-      "publication_date": "2026-Mar-31",
-      "publication_date_iso": "2026-03-31",
-      "abstract": "Maxillofacial trauma occurring shortly after orthognathic surgery has been rarely reported. The authors present a 21-year-old man with mandibular prognathism who underwent Le Fort I osteotomy combined with bilateral sagittal split ramus osteotomy (BSSO). The mandible was stabilized with two 2-hole titanium miniplates placed along the superior border on each side. Eight weeks postoperatively, he sustained high-energy facial trauma in a motorcycle accident, resulting in fractures of the mandibular symphysis, bilateral condyles, and maxilla, but notably no fractures at the osteotomy sites. Open reduction and internal fixation were performed, and his postoperative course was uneventful, with stable occlusion achieved at 6-month follow-up. This case demonstrates that appropriately designed rigid fixation can prevent refracture at osteotomy sites even after early high-energy trauma in the early postoperative period, when bone healing is still incomplete.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in fractures of the mandibular symphysis, bilateral condyles, and maxilla, but notably no fractures at the osteotomy sites. Open reduction and internal fixation were performed, and his postoperative course was uneventful, with stable occlusion achieved at 6-month follow-up. This case demonstrates that appropriately designed rigid fixation can prevent refracture at osteotomy sites even after early high-energy trauma in the early postoperative period, when bone healing is still incomplete.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma",
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41914846/",
       "pmcid": "",
       "figure_urls": []
     }
