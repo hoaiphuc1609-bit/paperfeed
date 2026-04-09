@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T04:41:34Z",
+  "updated_at": "2026-04-09T04:38:19Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -829,6 +829,44 @@
       ]
     },
     {
+      "pmid": "41730408",
+      "title": "SOCS2 deficiency drives sex-specific remodeling of mineralized tissues.",
+      "authors": [
+        "Rose Vieira Toyama",
+        "João Pacheco Colares",
+        "Natalia de Abreu Refaxo",
+        "José Alcides Almeida de Arruda",
+        "Carolina Bosso André",
+        "Amanda Leal Rocha",
+        "Letícia Fernanda Duffles",
+        "Ana Clara Campideli-Santana",
+        "Izabela Galvão",
+        "Virgínia Tereza Morais Lima",
+        "Raphael Escorsim Szawka",
+        "David Ross Grattan",
+        "Fabiana Simão Machado",
+        "Flávio Almeida Amaral",
+        "Tarcília Aparecida Silva",
+        "Allyson Nogueira Moreira",
+        "Soraia Macari"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Sex-specific differences in bone development and remodeling are increasingly recognized as critical determinants in skeletal biology. We investigated the impact of SOCS2 deficiency on craniofacial and long bone structures in female and male mice. C57BL/6 wild-type (WT) and SOCS2 knockout (SOCS2-/-) mice underwent orthodontic tooth movement (OTM) on the right side, while the contralateral side served as control. Maxillae, dental roots, femur, adipose tissue, and serum were collected for histomorphometry, micro-computed tomography (microCT), biomechanical testing, adiposity index assessment, qPCR, Western blot, and ELISA. SOCS2-/- males exhibited greater alveolar bone loss and increased OTM than SOCS2-/- females. Whereas SOCS2-/- females showed reduced OTM compared with WT females. MicroCT revealed higher maxillary bone mineral density (BMD) in SOCS2-/- females, but lower BMD, bone volume/total volume, and trabecular thickness, with increased trabecular separation, in SOCS2-/- males. These phenotypes were associated with increased Howship's lacunae and c-Jun N-terminal kinase activity in SOCS2-/- males, sex-divergent Pparγ, Il6, and Runx2 expression, and unchanged Rankl/Opg ratio in maxillary bone. Femoral evaluations showed sex-specific changes in growth, bone structure, and mechanical strength. Root analyses revealed compromised architecture in SOCS2-/- males and increased odontoclast activity in both sexes. SOCS2-/- males displayed increased serum testosterone and adiposity, despite reduced adipocyte area, whereas SOCS2-/- females exhibited higher prolactin levels and enlarged adipocytes. SOCS2 influences skeletal remodeling in a sex-dependent manner, with underlying mechanisms involving metabolic and hormonal alterations, as well as local imbalances in the regulation of osteoblast and osteoclast activity.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41730408/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41690497",
       "title": "Integrated application of Raman spectroscopy in traumatic brain injury: A systematic review and clinical perspective.",
       "authors": [
@@ -1006,9 +1044,8 @@
       "pmcid": "PMC13050504",
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050504/bin/ziag038ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050504/bin/ziag038ga1.gif",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050504/bin/ziag038f1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050504/bin/ziag038f1.gif"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050504/bin/ziag038f2.jpg"
       ]
     },
     {
@@ -1660,6 +1697,32 @@
       ]
     },
     {
+      "pmid": "41951391",
+      "title": "Mapping the evidence on dental prostheses and cardiovascular events: A scoping review.",
+      "authors": [
+        "Monika Werdiningsih",
+        "En-Chih Weng",
+        "Yoko Hasegawa",
+        "Ma Therese Sta Maria",
+        "Yasuharu Tabara"
+      ],
+      "publication_date": "2026-Apr-07",
+      "publication_date_iso": "2026-04-07",
+      "abstract": "This scoping review aimed to map and summarize existing evidence on the association between dental prosthesis use and cardiovascular events, highlighting current trends, methodological heterogeneity, and knowledge gaps to guide future research. This scoping review followed the methodologies described by the Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) and the Joanna Briggs Institute (JBI). Literature searches were performed using the PubMed, Cochrane Library, and Google Scholar databases on November 10, 2024. Eligible studies included observational studies involving adults with diagnosed or undiagnosed cardiovascular disease (CVD) who use dental prostheses (removable, fixed, or implant-supported). Data were extracted and synthesized descriptively to map existing evidence. Seven studies were included: six cohort studies and one cross-sectional study. A cross-sectional study reported higher odds of angina, heart failure, and stroke among prosthesis users, whereas another cohort study found no significant association between recurrent myocardial infarction and stroke. Among the cohort studies assessing cardiovascular-related mortality, four reported a lower mortality risk among prosthesis users, while two observed a higher risk, particularly among complete or mixed-prosthesis users. Overall, the findings were inconsistent owing to methodological and population differences across studies. This review mapped and summarized existing evidence on the association between dental prosthesis use and cardiovascular events. The available evidence remains limited, inconclusive, and heterogeneous, with variations in study design and confounder adjustments hindering clear interpretation. Further longitudinal studies using standardized methods are required to clarify these associations through interdisciplinary research.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41951391/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41947119",
       "title": "Oral cancer knowledge, attitudes, and practices among dentists in Kabul, Afghanistan.",
       "authors": [
@@ -2248,803 +2311,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41410039/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41938417",
-      "title": "Full-arch dental implant rehabilitation in a patient with Von Willebrand disease: a case report.",
-      "authors": [
-        "Zaineb A Alnuaimy",
-        "Mohammad H Alnaqbi",
-        "Ahmed M J Abu Laban",
-        "Muwaffaq Alani"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Von Willebrand disease (VWD) is the most common congenital bleeding disorder with multiple types. Patients with VWD pose a serious risk for surgical interventions. This case report discusses successful full-mouth dental clearance, bone augmentation, and dental implant rehabilitation in a patient with VWD. A 48-year-old female patient with type 2A VWD suffered from partial edentulism in both the upper and lower arches, as well as badly decayed, heavily restored teeth with multiple periapical abscesses. Dental clearance and immediate implant placement were carried out under general anesthesia with proper antifibrinolytic and Wilate prophylaxis. The patient was in stable condition post-operatively and showed good healing in follow-up visits; the implants were subsequently restored. To the author's knowledge, this is the first case of full-mouth implant rehabilitation in a patient with VWD. Thorough planning and adequate optimization of the patient for surgery, along with careful surgical technique and selection of materials, aid in treating patients with VWD, greatly increasing the chances of success.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41938417/",
-      "pmcid": "PMC13046008",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13046008/bin/rc9-138-1327-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13046008/bin/rc9-138-1327-g001.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13046008/bin/rc9-138-1327-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13046008/bin/rc9-138-1327-g002.gif"
-      ]
-    },
-    {
-      "pmid": "41923206",
-      "title": "A finite element-based biomechanical analysis of fixation systems used in advancement genioplasty.",
-      "authors": [
-        "Kadriye Ayça Dere",
-        "Yavuz Fındık"
-      ],
-      "publication_date": "2026-Apr-01",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41923206/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41922666",
-      "title": "Periodontal health and disease.",
-      "authors": [
-        "Emilio A Cafferata"
-      ],
-      "publication_date": "2026-Apr-01",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "This editorial reviews the \"Periodontal Health and Disease\" Collection from Scientific Reports, highlighting pivotal research that bridges the gap between local oral pathology and systemic health. The Collection presents significant mechanistic insights, particularly regarding the role of VPS13B in epithelial barrier function and the regulation of osteoprotegerin by gingival fibroblasts. Furthermore, it showcases diagnostic advancements in salivary biomarkers, such as short-chain fatty acids and specific B-cell subsets, which offer noninvasive avenues for early detection. Crucially, the research explores the bidirectional links between periodontitis and systemic conditions, including non-small cell lung cancer, threatened preterm labor, and metabolic dysregulation. Collectively, these studies underscore the importance of periodontal health in achieving global health targets, such as the United Nations Sustainable Development Goal 3 (Good Health and Well-being), and provide a roadmap for future translational research and clinical practice.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41922666/",
-      "pmcid": "PMC13044241",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41919535",
-      "title": "[Expert consensus on perioperative management of tooth extraction in patients receiving denosumab therapy].",
-      "authors": [
-        "Li Ye",
-        "Yubin Cao",
-        "Guowen Sun",
-        "Yang Xue",
-        "Nianhui Cui",
-        "Yu Cai",
-        "Duohong Zou",
-        "Haikuo Tang",
-        "Yanjia Hu",
-        "Ting Luo",
-        "Lei Sun",
-        "Zhongcheng Gong",
-        "Fudong Zhu",
-        "Fugui Zhang",
-        "Meng You",
-        "Yuxing Guo",
-        "Yujiang Wang",
-        "Liao Wang",
-        "Songling Chen",
-        "Bing Han",
-        "Wei Zhang",
-        "Qing Zhou",
-        "Yue He",
-        "Jihong Zhao",
-        "Kaijin Hu",
-        "Lei Liu",
-        "Jiyuan Liu",
-        "Jian Pan"
-      ],
-      "publication_date": "2026-Apr-01",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Denosumab is a humanized monoclonal antibody targeting receptor activator of nuclear factor-κB ligand (RANKL) and is commonly used in the treatment of osteoporosis and cancer-related bone metastases. However, the persistent use of denosumab has been associated with an increasing incidence of denosumab-related osteonecrosis of the jaw (DRONJ), particularly following tooth extraction. This expert consensus aims to develop clinical management guidelines for the perioperative period of tooth extraction in patients who are currently receiving or have previously received denosumab therapy. The consensus covers the definition, etiology, epidemiology, staging, and risk factors of DRONJ, focusing on preoperative assessment, risk-based prevention strategies, minimally invasive surgical techniques, and postoperative follow-up protocols. The core management strategy for DRONJ emphasizes individualized decision-making based on a comprehensive preoperative assessment of medication history, local infection, and systemic conditions. The main risk factors for DRONJ include high-dose and long-term denosumab therapy, preexisting oral infections, such as periodontitis and periapical periodontitis, and invasive dental procedures, including tooth extraction, diabetes, and concomitant use of glucocorticoids or antiangiogenic agents. Core preventive measures include strict perioperative oral care, risk assessment-based antibiotic prophylaxis, long-term drug holidays, which were developed by dentists and physicians prio-ritizing the primary disease, and minimally invasive surgical techniques for managing trauma, preserving local blood supply, thoroughly removing infected tissues, and ensuring tight wound closure. This consensus highlights the importance of multidisciplinary collaboration between dental and clinical medicine experts in managing DRONJ. High-quality research is necessary to provide an evidence-based foundation for optimizing DRONJ prevention and treatment strategies.",
-      "objective": "to develop clinical management guidelines for the perioperative period of tooth extraction in patients who are currently receiving or have previously received denosumab therapy. The consensus covers the definition, etiology, epidemiology, staging, and risk factors of DRONJ, focusing on preoperative assessment, risk-based prevention strategies, minimally invasive surgical techniques, and postoperative follow-up protocols. The core management strategy for DRONJ emphasizes individualized decision-making based on a comprehensive preoperative assessment of medication history, local infection, and systemic conditions. The main risk factors for DRONJ include high-dose and long-term denosumab therapy, preexisting oral infections, such as periodontitis and periapical periodontitis, and invasive dental procedures, including tooth extraction, diabetes, and concomitant use of glucocorticoids or antiangiogenic agents. Core preventive measures include strict perioperative oral care, risk assessment-based antibiotic prophylaxis, long-term drug holidays, which were developed by dentists and physicians prio-ritizing the primary disease, and minimally invasive surgical techniques for managing trauma, preserving local blood supply, thoroughly removing infected tissues, and ensuring tight wound closure. This consensus highlights the importance of multidisciplinary collaboration between dental and clinical medicine experts in managing DRONJ. High-quality research is necessary to provide an evidence-based foundation for optimizing DRONJ prevention and treatment strategies.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41919535/",
-      "pmcid": "PMC13047874",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41914408",
-      "title": "Influence of Barrier Membrane and Peri-Implantitis-Like Bone Defect Configurations on Graft Stability.",
-      "authors": [
-        "Fernando Suárez",
-        "Emilio Couso-Queiruga",
-        "Jorge Osorio",
-        "Gonzalo Blasi",
-        "Alberto Monje"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "The objective of this ex vivo investigation was to study the significance of barrier membrane application on graft stability across different peri-implantitis-related bone defect configurations. Fresh pig mandibles were used to create standardized peri-implant-like bone defects, including dehiscence defects, 2-3 wall defects, and circumferential defects. Defects were treated using identical grafting and flap closure protocols, with or without barrier membrane application. High-resolution cone-beam computed tomography (CBCT) scans were obtained before flap closure, after primary closure, and following simulated soft-tissue movement in order to analyze graft material thickness at multiple predefined levels along the implant surface. Changes in graft thickness over time were analyzed using generalized estimating equation (GEE) linear regression models. A total of 120 bone augmentation procedures in 20 pig hemimandibles were analyzed. In dehiscence defect morphologies, graft thickness decreased significantly over time, with the greatest dimensional changes occurring immediately after primary wound closure (GEE main effect of TIME, p < 0.001). In these defects, pronounced coronal (platform level) graft displacement was observed, with thickness reductions of approximately 1.2-1.4 mm after closure and total reductions exceeding 85% following simulated soft-tissue movement. Barrier membrane application did not prevent graft collapse nor modify the coronal temporal pattern; however, it resulted in a limited attenuation of graft loss at selected middle levels (approximately 0.15-0.25 mm, corresponding to 5%-15% relative reduction). In 2-3 wall defects, graft thickness also decreased significantly over time across all evaluated levels (p < 0.001), with membrane application consistently attenuating early graft displacement at coronal and middle levels. In contrast, circumferential defects demonstrated high intrinsic dimensional stability, with minimal dimensional changes over time (< 0.1 mm) and no significant membrane-related effects. Across defect types exhibiting graft displacement, coronal measurements consistently showed the greatest susceptibility to thickness reduction. Graft stability following reconstructive therapy of peri-implantitis-like bone defects is primarily influenced by defect morphology. Hence, the effect of barrier membrane coverage appears to be defect-dependent. Membrane application provides limited attenuation of graft displacement in 2-3 wall defects while no consistent or clinically meaningful additional effect is observed in dehiscence or circumferential defects.",
-      "objective": "of this ex vivo investigation was to study the significance of barrier membrane application on graft stability across different peri-implantitis-related bone defect configurations. Fresh pig mandibles were used to create standardized peri-implant-like bone defects, including dehiscence defects, 2-3 wall defects, and circumferential defects. Defects were treated using identical grafting and flap closure protocols, with or without barrier membrane application. High-resolution cone-beam computed tomography (CBCT) scans were obtained before flap closure, after primary closure, and following simulated soft-tissue movement in order to analyze graft material thickness at multiple predefined levels along the implant surface. Changes in graft thickness over time were analyzed using generalized estimating equation (GEE) linear regression models. A total of 120 bone augmentation procedures in 20 pig hemimandibles were analyzed. In dehiscence defect morphologies, graft thickness decreased significantly over time, with the greatest dimensional changes occurring immediately after primary wound closure (GEE main effect of TIME, p < 0.001). In these defects, pronounced coronal (platform level) graft displacement was observed, with thickness reductions of approximately 1.2-1.4 mm after closure and total reductions exceeding 85% following simulated soft-tissue movement. Barrier membrane application did not prevent graft collapse nor modify the coronal temporal pattern; however, it resulted in a limited attenuation of graft loss at selected middle levels (approximately 0.15-0.25 mm, corresponding to 5%-15% relative reduction). In 2-3 wall defects, graft thickness also decreased significantly over time across all evaluated levels (p < 0.001), with membrane application consistently attenuating early graft displacement at coronal and middle levels. In contrast, circumferential defects demonstrated high intrinsic dimensional stability, with minimal dimensional changes over time (< 0.1 mm) and no significant membrane-related effects. Across defect types exhibiting graft displacement, coronal measurements consistently showed the greatest susceptibility to thickness reduction. Graft stability following reconstructive therapy of peri-implantitis-like bone defects is primarily influenced by defect morphology. Hence, the effect of barrier membrane coverage appears to be defect-dependent. Membrane application provides limited attenuation of graft displacement in 2-3 wall defects while no consistent or clinically meaningful additional effect is observed in dehiscence or circumferential defects.",
-      "study_methods": "Fresh pig mandibles were used to create standardized peri-implant-like bone defects, including dehiscence defects, 2-3 wall defects, and circumferential defects. Defects were treated using identical grafting and flap closure protocols, with or without barrier membrane application. High-resolution cone-beam computed tomography (CBCT) scans were obtained before flap closure, after primary closure, and following simulated soft-tissue movement in order to analyze graft material thickness at multiple predefined levels along the implant surface. Changes in graft thickness over time were analyzed using generalized estimating equation (GEE) linear regression models.",
-      "methods": "Fresh pig mandibles were used to create standardized peri-implant-like bone defects, including dehiscence defects, 2-3 wall defects, and circumferential defects. Defects were treated using identical grafting and flap closure protocols, with or without barrier membrane application. High-resolution cone-beam computed tomography (CBCT) scans were obtained before flap closure, after primary closure, and following simulated soft-tissue movement in order to analyze graft material thickness at multiple predefined levels along the implant surface. Changes in graft thickness over time were analyzed using generalized estimating equation (GEE) linear regression models.",
-      "results": "ed in a limited attenuation of graft loss at selected middle levels (approximately 0.15-0.25 mm, corresponding to 5%-15% relative reduction). In 2-3 wall defects, graft thickness also decreased significantly over time across all evaluated levels (p < 0.001), with membrane application consistently attenuating early graft displacement at coronal and middle levels. In contrast, circumferential defects demonstrated high intrinsic dimensional stability, with minimal dimensional changes over time (< 0.1 mm) and no significant membrane-related effects. Across defect types exhibiting graft displacement, coronal measurements consistently showed the greatest susceptibility to thickness reduction. Graft stability following reconstructive therapy of peri-implantitis-like bone defects is primarily influenced by defect morphology. Hence, the effect of barrier membrane coverage appears to be defect-dependent. Membrane application provides limited attenuation of graft displacement in 2-3 wall defects while no consistent or clinically meaningful additional effect is observed in dehiscence or circumferential defects.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41914408/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41914391",
-      "title": "Patient-Reported Outcomes Following Loss of Permanent Incisors due to Traumatic Dental Injuries: A Retrospective Cross-Sectional Pilot Cohort Study.",
-      "authors": [
-        "Josephine Solgaard Henriksen",
-        "Eva Lauridsen",
-        "Simon Storgård Jensen",
-        "Nuno Vibe Hermann"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "This study aimed to investigate the effects of trauma-related tooth loss before age 18 years on adolescents and young adults. Ninety-three patients with permanent incisor loss due to traumatic dental injury (TDI) completed a newly developed pilot, TDI-specific questionnaire evaluating their experiences following the loss of a permanent incisor. Descriptive statistics were used to analyze responses, and multiple linear regression was used to examine the effects of age and sex. Patient-reported outcome measures indicated that 74.2% of the respondents reported an impact of tooth loss on their appearance. The mean score for perceived esthetic impact was 3.62 on a 0-10 scale. Despite treatment completion, 78.5% of patients reported recurring thoughts regarding their tooth loss, and 81.7% indicated that, to varying degrees, their tooth loss imposed limitations on their social interactions. Dissatisfaction with temporary tooth replacements was reported by several patients. Among the 93 patients, 58 (62.3%) had received their permanent tooth placement and expressed very high satisfaction with this solution (mean score: 9.05 on a 0-10 scale). Overall, 92.5% of the participants reported satisfaction with the communication during the treatment. Sex significantly affected the patient responses regarding esthetic appearance and satisfaction with the course of treatment. This patient-reported outcome-based study indicates that trauma-related tooth loss occurring at a young age adversely affects the oral health-related quality of life of adolescents and young adults, even after treatment completion, thereby impacting their overall quality of life.",
-      "objective": "",
-      "study_methods": "Ninety-three patients with permanent incisor loss due to traumatic dental injury (TDI) completed a newly developed pilot, TDI-specific questionnaire evaluating their experiences following the loss of a permanent incisor. Descriptive statistics were used to analyze responses, and multiple linear regression was used to examine the effects of age and sex.",
-      "methods": "Ninety-three patients with permanent incisor loss due to traumatic dental injury (TDI) completed a newly developed pilot, TDI-specific questionnaire evaluating their experiences following the loss of a permanent incisor. Descriptive statistics were used to analyze responses, and multiple linear regression was used to examine the effects of age and sex.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41914391/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41880542",
-      "title": "Discussion: A Comparison of Surgical Techniques for Macroglossia in Beckwith-Wiedemann Syndrome.",
-      "authors": [
-        "Sameer Shakir",
-        "Kant Y K Lin"
-      ],
-      "publication_date": "2026-Apr-01",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41880542/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41826006",
-      "title": "Artificial Intelligence in Diagnostic Oral and Maxillofacial Imaging, Surgical Applications, and Teledentistry.",
-      "authors": [
-        "Mel Mupparapu",
-        "Neeraj Panchal",
-        "Irene H Kim",
-        "Steven R Singer",
-        "Andres Pinto"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "The article deals with the utilization of artificial intelligence (AI) and related technologies for the diagnosis of oral and maxillofacial anatomic variants and pathologic entities. The diagnosis of dental caries and periodontal disease is the most common aspect of dental diagnosis in a general dental setting and so, there was a subsection for this topic. There are dedicated portions within this article on applications of AI for oral and maxillofacial surgery.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41826006/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41824280",
-      "title": "Association Between Anticholinergic Burden and Dry Mouth Severity in Acutely Ill Older Adults.",
-      "authors": [
-        "Ingrid Beate Ringstad",
-        "Eva Skovlund",
-        "Leonor Roa Santervas",
-        "Hege Kersten",
-        "Katrine Gahre Fjeld",
-        "Lene Hystad Hove",
-        "Torgeir Bruun Wyller",
-        "Janicke Liaaen Jensen",
-        "Rita Romskaug"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Dry mouth is a common and burdensome condition in older adults and its severity may increase with use of anticholinergic medications. The aims were to describe anticholinergic medication use among acutely ill older adults, examine the association between anticholinergic burden and dry mouth severity using the composite Dry Mouth Severity Points (DMSP) measure and investigate whether the association differs by sex. Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression. Of 382 examined patients, 256 (mean age 84 ± 7 years, 70% women) had complete data. Mean [standard deviation (SD)] ACB score was 2.0 (1.7); 18% had ACB = 0, 50% had ACB = 1-2 and 32% had ACB = ≥ 3. DMSP scores of 0, 1, 2 and ≥ 3 were present in 29%, 36%, 23% and 12%, respectively. Compared with patients with ACB = 0, those with ACB = 1-2 [odds ratio (OR) = 2.06, 95% confidence interval (CI) 1.07-3.97) and ACB = ≥ 3 (OR = 2.25, 95% CI 1.09-4.63) had higher odds of more severe dry mouth. Women had significantly higher ACB and DMSP scores than men. Even lower anticholinergic burden was associated with greater dry mouth severity, highlighting the need for early recognition and proactive management in acutely ill older adults.",
-      "objective": "were to describe anticholinergic medication use among acutely ill older adults, examine the association between anticholinergic burden and dry mouth severity using the composite Dry Mouth Severity Points (DMSP) measure and investigate whether the association differs by sex. Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression. Of 382 examined patients, 256 (mean age 84 ± 7 years, 70% women) had complete data. Mean [standard deviation (SD)] ACB score was 2.0 (1.7); 18% had ACB = 0, 50% had ACB = 1-2 and 32% had ACB = ≥ 3. DMSP scores of 0, 1, 2 and ≥ 3 were present in 29%, 36%, 23% and 12%, respectively. Compared with patients with ACB = 0, those with ACB = 1-2 [odds ratio (OR) = 2.06, 95% confidence interval (CI) 1.07-3.97) and ACB = ≥ 3 (OR = 2.25, 95% CI 1.09-4.63) had higher odds of more severe dry mouth. Women had significantly higher ACB and DMSP scores than men. Even lower anticholinergic burden was associated with greater dry mouth severity, highlighting the need for early recognition and proactive management in acutely ill older adults.",
-      "study_methods": "Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression.",
-      "methods": "Patients ≥70 years admitted to Oslo municipal inpatient acute care unit were eligible. Anticholinergic burden (ACB) was assessed using the ACB calculator and classified as 0, lower (ACB = 1-2) or high (ACB = ≥ 3). Dry mouth severity was quantified with DMSP, range 0-4, assigning one point for each indicator above cut-off: General Xerostomia Question ≥ 3, Summated Xerostomia Inventory ≥ 11, Clinical Oral Dryness Score ≥ 6 and unstimulated whole saliva secretion rate ≤ 0.1 mL/min. Associations were examined with ordinal logistic regression.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41824280/",
-      "pmcid": "PMC13038769",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13038769/bin/40266_2026_1286_Figa_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13038769/bin/40266_2026_1286_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13038769/bin/40266_2026_1286_Fig1_HTML.gif"
-      ]
-    },
-    {
-      "pmid": "41779033",
-      "title": "New insights into immunoporosis: the impact of ovariectomy on immune cell population in lymph nodes and spleen.",
-      "authors": [
-        "Nicole Gabriele Sommer",
-        "Katharina Jandl",
-        "Begüm Okutan",
-        "Uwe Yacine Schwarze",
-        "Jan Eike Freudenthal-Siefkes",
-        "Valentin Herber",
-        "Annelie-Martina Weinberg"
-      ],
-      "publication_date": "2026-Apr-01",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "It is increasingly appreciated that the immune cells and inflammatory mediators contribute to the impaired osteogenic potential under osteoporotic conditions. Previous studies in experimental animals focused on immune cells isolated from blood or bone marrow. Here we highlight the importance of unraveling the interactions between peripheral tissues, such as spleen and lymph nodes, and bone morphologic markers. Ovariectomized (OVX) animals underwent bilateral ovariectomy at the age of 9 mo. Four, 8, and 12 wk after ovariectomy, osteoporotic parameters and the immunoprofile were investigated by flow cytometric analysis of blood, lymph node, and spleen paired with immunohistochemistry. Ex vivo high-resolution micro-computed tomography (micro-CT) and hard tissue histology were performed on the excised tibiae. We observed trabecular bone loss, with corresponding decreases in bone volume to tissue volume (BV/TV), trabecular number (Tb.N), and connectivity density (Conn.D), as well as an increase in trabecular separation (Tb.Sp) in the OVX rats after 12 wk. Quantitative FACS analysis revealed significantly decreased percentage of granulocytes in lymph nodes at 12 wk in OVX. Correlation of distinct immune cell populations to bone morphologic markers showed that the percentage of granulocytes positively correlated with the Tb.N and Conn.Dn and negatively with the Tb.Sp both in the lymph nodes and in the spleen at 8 wk. At 12 wk after ovariectomy, however, the percentage of granulocytes correlated negatively with BV/TV, Tb.Th, and Tb. N. There was no correlation between distinct immune cells in the blood and bone morphologic markers. Hence, the presented data highlight the unmet need to investigate other compartments rather than blood and bone marrow.NEW & NOTEWORTHY There is supporting immunological evidence in the development of osteoporosis highlighted by bone alterations. Measurements of immune cells in the blood and bone marrow do not always reflect the multifactorial, pathologic situation linked to osteoporosis. Here, we pinpoint to distinct immune cell populations in peripheral tissues, especially in lymph nodes, which are affected during the onset of osteoporosis.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41779033/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41759453",
-      "title": "The yield of CT head scans for intracranial haemorrhage in anticoagulated patients presenting with head injury.",
-      "authors": [
-        "O Ahmed",
-        "I Rahim",
-        "H Mansour",
-        "M Girish",
-        "B Giri",
-        "R Mikael",
-        "R Al-Ebbini",
-        "M N Dang",
-        "G Palanisamy",
-        "J Jarosz"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Anticoagulated patients presenting with head injury have previously undergone routine CT imaging, but the 2023 NICE guidelines now permit a more selective approach. Real-world data on CT yield in this cohort, particularly in the absence of other clinical risk factors, remain limited. We aim to evaluate the diagnostic yield of CT head imaging for intracranial haemorrhage (ICH) in anticoagulated patients presenting with head injury. A retrospective cohort study was conducted at a large NHS Trust, identifying all CT head scans between January-March 2025 with clinical indications referencing anticoagulation. Manual review of clinical records confirmed trauma context, anticoagulant use, and presence of other NICE criteria. The primary outcome was diagnostic yield for ICH. Of 746 CT head scans, 450 anticoagulated trauma cases met inclusion criteria. The overall diagnostic yield for ICH was 2.9% (n=13). Among the 360 patients imaged solely due to anticoagulation, the yield was 2.2% (n=8). Most haemorrhages were subdural haematomas (n=8), and 11 of 13 ICH cases had visible head or facial trauma. Only one patient underwent neurosurgical intervention. Compliance with NICE guideline eligibility criteria was 73%. CT imaging in anticoagulated patients yields a low rate of ICH. Findings support a more selective and clinically integrated approach to imaging these patients, now that the updated NICE guidance allows for clinical discretion. With rising anticoagulant use in an ageing population, a move away from reflexive imaging and a more careful patient selection process is essential to ensure diagnostic value, support resource stewardship, and promote patient-centred care.",
-      "objective": "to evaluate the diagnostic yield of CT head imaging for intracranial haemorrhage (ICH) in anticoagulated patients presenting with head injury. A retrospective cohort study was conducted at a large NHS Trust, identifying all CT head scans between January-March 2025 with clinical indications referencing anticoagulation. Manual review of clinical records confirmed trauma context, anticoagulant use, and presence of other NICE criteria. The primary outcome was diagnostic yield for ICH. Of 746 CT head scans, 450 anticoagulated trauma cases met inclusion criteria. The overall diagnostic yield for ICH was 2.9% (n=13). Among the 360 patients imaged solely due to anticoagulation, the yield was 2.2% (n=8). Most haemorrhages were subdural haematomas (n=8), and 11 of 13 ICH cases had visible head or facial trauma. Only one patient underwent neurosurgical intervention. Compliance with NICE guideline eligibility criteria was 73%. CT imaging in anticoagulated patients yields a low rate of ICH. Findings support a more selective and clinically integrated approach to imaging these patients, now that the updated NICE guidance allows for clinical discretion. With rising anticoagulant use in an ageing population, a move away from reflexive imaging and a more careful patient selection process is essential to ensure diagnostic value, support resource stewardship, and promote patient-centred care.",
-      "study_methods": "A retrospective cohort study was conducted at a large NHS Trust, identifying all CT head scans between January-March 2025 with clinical indications referencing anticoagulation. Manual review of clinical records confirmed trauma context, anticoagulant use, and presence of other NICE criteria. The primary outcome was diagnostic yield for ICH.",
-      "methods": "A retrospective cohort study was conducted at a large NHS Trust, identifying all CT head scans between January-March 2025 with clinical indications referencing anticoagulation. Manual review of clinical records confirmed trauma context, anticoagulant use, and presence of other NICE criteria. The primary outcome was diagnostic yield for ICH.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41759453/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41740530",
-      "title": "Immunological functions of Th17 Cells in colon cancer: From pathogenic mechanisms to emerging treatments.",
-      "authors": [
-        "Qamar Abuhassan",
-        "Ali M Atoom",
-        "M M Rekha",
-        "Jaya Bhanu Kanwar",
-        "M Bavanilatha",
-        "Vimal Arora",
-        "Aashna Sinha",
-        "Alisher Khazratov"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Colon cancer (CC) constitutes a significant global health challenge, characterized by increasing incidence and mortality rates that underscore the necessity for continued investigative efforts. Inflammation-driven cellular and molecular processes are fundamentally implicated in the CC development, progression and pathogenesis. Among these immune effectors, T helper 17 (Th17) cells, a distinct subset of CD4+ T lymphocytes, are integral to inflammatory and autoimmune responses and modulate antitumor immunity. In CC, Th17 cells exhibit a dualistic function; they may promote tumorigenesis by sustaining chronic inflammation or exert antitumor effects by enhancing cytotoxic immune response. Notably, critical gaps persist in understanding how Th17 plasticity dynamically governs the balance between immune surveillance and tumor immune evasion, representing a central unresolved controversy in CC progression. Furthermore, while extensive research has shown that Th17 cells interact with the tumor microenvironment (TME) and cancer stem cells (CSCs), the specific mechanisms behind these interactions that facilitate metastasis, invasion, and cellular proliferation are still not fully understood. Several studies have documented an increased proportion of Th17 cells in the peripheral circulation of CC patients. However, conflicting clinical evidence regarding their prognostic significance highlights a major translational challenge for patient stratification and targeted intervention. This review consolidates novel perspectives on the multifaceted contributions of Th17 to CC initiation, progression, and therapy, emphasizing targeted interventions to disrupt inflammatory axes and improve outcomes.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41740530/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41740203",
-      "title": "An analysis of mechanism patterns in pediatric mandible fractures.",
-      "authors": [
-        "Taylor L Jamil",
-        "Swetha Tatineni",
-        "Rebecca L Paquin",
-        "Morgan Wharton",
-        "Brandon Abell",
-        "Nicole Wershoven",
-        "Maksym Goryachok",
-        "Todd Wine",
-        "Brian Herrmann",
-        "Jeremy D Prager",
-        "Christian Francom"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "The mandible is the second most fractured facial bone in children, with potentially severe consequences if not optimally treated. However, data on pediatric mandible fracture epidemiology and management, particularly by injury mechanism, remains limited. A retrospective chart review was conducted between January 1, 2014, to August 1, 2024, among patients 18 years old and younger who presented with a mandible fracture to a level I pediatric trauma center. Demographic information, injury mechanism, fracture pattern, and hospital course data were analyzed. We identified 490 patients (median age 10 years; male-predominant). The most common mandible fracture subtypes were condyle, parasymphysis, and angle/ramus; the most common mechanisms of injury were falls from height/standing, bicycle accidents, and recreational sports. Nasal bone, unilateral orbital, unilateral temporal bone, and unilateral ZMC fractures were the most frequent concomitant facial injuries. Approximately one-third had polytrauma, and slightly more than half required hospitalization and surgical intervention. Chi-square analyses showed parasymphyseal, body, and angle/ramus fractures were more common after higher-impact mechanisms, whereas condylar and alveolar fractures were more common after lower-impact mechanisms. Polytrauma was more likely with body and angle/ramus fractures. Hospitalization was more likely with symphyseal, parasymphyseal, body, angle/ramus, and subcondylar fractures. Surgical intervention was more likely with symphyseal, parasymphyseal, body, and angle/ramus fractures and in older patients. Significant associations exist between mechanism of injury and mandible fracture location. Certain anatomic sites had higher odds of comorbid trauma, hospitalization, and surgical intervention. Understanding these patterns can guide diagnostic evaluation and management of pediatric mandible fractures.",
-      "objective": "",
-      "study_methods": "A retrospective chart review was conducted between January 1, 2014, to August 1, 2024, among patients 18 years old and younger who presented with a mandible fracture to a level I pediatric trauma center. Demographic information, injury mechanism, fracture pattern, and hospital course data were analyzed.",
-      "methods": "A retrospective chart review was conducted between January 1, 2014, to August 1, 2024, among patients 18 years old and younger who presented with a mandible fracture to a level I pediatric trauma center. Demographic information, injury mechanism, fracture pattern, and hospital course data were analyzed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41740203/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41716349",
-      "title": "Fmoc-DDT@Fos hydrogel mitigates temporomandibular joint osteoarthritis through regulating macrophage reprogramming and ferroptosis.",
-      "authors": [
-        "Yuxin Zhang",
-        "Dahe Zhang",
-        "Xiaokun Yue",
-        "Qingyu Xu",
-        "Lingtong Bu",
-        "Jiajia Lu",
-        "Chi Yang",
-        "Pei Shen",
-        "Jisi Zheng"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Temporomandibular joint osteoarthritis (TMJ OA) represents a progressive degenerative disorder that seriously threatens patients' quality of life. Current treatment aims to slow cartilage degeneration, relieve pain, promote bone remodeling, and restore joint function. In this study, we develop a novel peptide hydrogel drug delivery system named Fmoc-DDT@Fos, combining Fmoc-FF peptides with PLGA/TPP nanospheres loaded with Fostamatinib (Fos), functionalized for sustained release and locally targeted application of Fos. In vitro and in vivo studies demonstrate that this drug delivery system has good biocompatibility, macrophage targeting, and Fos slow-release properties. It is able to inhibit inflammatory response by promoting the functional reprogramming of macrophages from pro-inflammatory M1 phenotype toward anti-inflammatory M2 phenotype and modulating ferroptosis pathways, which subsequently maintains condylar cartilage homeostasis and halts TMJ OA progression. By elucidating these mechanisms, our research not only offers a novel therapeutic strategy for TMJ OA but also deepens our understanding of its pathophysiology. Moreover, this biomaterial-based strategy may provide a safer and more effective framework for managing other inflammatory and degenerative diseases.",
-      "objective": "to slow cartilage degeneration, relieve pain, promote bone remodeling, and restore joint function. In this study, we develop a novel peptide hydrogel drug delivery system named Fmoc-DDT@Fos, combining Fmoc-FF peptides with PLGA/TPP nanospheres loaded with Fostamatinib (Fos), functionalized for sustained release and locally targeted application of Fos. In vitro and in vivo studies demonstrate that this drug delivery system has good biocompatibility, macrophage targeting, and Fos slow-release properties. It is able to inhibit inflammatory response by promoting the functional reprogramming of macrophages from pro-inflammatory M1 phenotype toward anti-inflammatory M2 phenotype and modulating ferroptosis pathways, which subsequently maintains condylar cartilage homeostasis and halts TMJ OA progression. By elucidating these mechanisms, our research not only offers a novel therapeutic strategy for TMJ OA but also deepens our understanding of its pathophysiology. Moreover, this biomaterial-based strategy may provide a safer and more effective framework for managing other inflammatory and degenerative diseases.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41716349/",
-      "pmcid": "PMC12915221",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12915221/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12915221/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12915221/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12915221/bin/gr3.jpg"
-      ]
-    },
-    {
-      "pmid": "41715989",
-      "title": "Understanding the Workflows in Non-Guided and Static Computer-Assisted Implant Surgery.",
-      "authors": [
-        "Adria Jorba-Garcia",
-        "Emilio Couso-Queiruga",
-        "Clemens Raabe",
-        "Krzysztof Chmielewski",
-        "Michael Bornstein",
-        "Bilal Al-Nawas",
-        "Nikos Mattheos"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Contemporary implant dentistry aims to achieve long-term biological, esthetic, and functional successful outcomes. Thus, instrumental to this aim is designing an integrated system in which the supported prosthesis & components, anatomical and phenotypical tissue characteristics, and the fixture act synergistically to maintain peri-implant tissue stability and health. Central to these goals is (1) the definition of a patient-optimized three-dimensional (3D) implant position during comprehensive treatment planning and (2) the intraoperative transfer of the plan to the final implant position. Preoperative planning is supported by digital imaging, primarily via tomographic and surface scans of the patient's anatomy, and subsequent data processing in dedicated planning software, allowing for comprehensive case evaluation. The digital treatment plan which initiates computer-assisted implant surgery (CAIS), can be executed by means of non-guided or guided implant surgery approach; the latter involving static, dynamic, and robotic techniques. This white paper aims to provide a comprehensive overview of the required resources and workflows involved in digital implant treatment planning and subsequent implant placement using non-guided and static CAIS approaches.",
-      "objective": "to achieve long-term biological, esthetic, and functional successful outcomes. Thus, instrumental to this aim is designing an integrated system in which the supported prosthesis & components, anatomical and phenotypical tissue characteristics, and the fixture act synergistically to maintain peri-implant tissue stability and health. Central to these goals is (1) the definition of a patient-optimized three-dimensional (3D) implant position during comprehensive treatment planning and (2) the intraoperative transfer of the plan to the final implant position. Preoperative planning is supported by digital imaging, primarily via tomographic and surface scans of the patient's anatomy, and subsequent data processing in dedicated planning software, allowing for comprehensive case evaluation. The digital treatment plan which initiates computer-assisted implant surgery (CAIS), can be executed by means of non-guided or guided implant surgery approach; the latter involving static, dynamic, and robotic techniques. This white paper aims to provide a comprehensive overview of the required resources and workflows involved in digital implant treatment planning and subsequent implant placement using non-guided and static CAIS approaches.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41715989/",
-      "pmcid": "PMC12921365",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921365/bin/CRE2-12-e70309-g006.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921365/bin/CRE2-12-e70309-g009.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921365/bin/CRE2-12-e70309-g007.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921365/bin/CRE2-12-e70309-g002.jpg"
-      ]
-    },
-    {
-      "pmid": "41704077",
-      "title": "Is Accurate Dental Implant Placement Feasible Using a Novel Dynamic Computer-Assisted Surgery System Without Patient Optical Markers or Registration? A Preliminary Retrospective Cohort Study.",
-      "authors": [
-        "Gang He",
-        "Hongbing Liao",
-        "Hong Sheng",
-        "Eduard Valmaseda-Castellón",
-        "Rui Figueiredo"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "To evaluate the accuracy and surgery time of dental implant placement using a novel dynamic computer-assisted implant surgery (dCAIS) system that eliminates the need for patient registration and optical tracking markers. The secondary objective was to compare these outcomes with those obtained using a conventional dCAIS system. A preliminary retrospective cohort study was conducted involving 33 participants (33 implants). Eleven implants were placed using the novel dCAIS system that determines patient positioning based on anterior tooth anatomy (Prototype group), while 22 implants were placed using a conventional dCAIS system requiring standard registration and an optical tracking marker (Control group). Pre- and postoperative cone-beam computed tomography (CBCT) scans were superimposed to assess implant placement accuracy. Descriptive and bivariate analyses were performed to compare accuracy and surgery time between the two groups. Mean angular deviations were similar between groups (p = 0.924): 1.95° (SD 1.38) in the prototype group and 2.38° (SD 2.30) in the control group. No significant differences were observed in platform global deviation (mean difference [MD]: -0.33 mm; 95% CI: -0.75 to 0.09), apex global deviation (MD: -0.43 mm; 95% CI: -0.94 to 0.08), or apex depth deviation (MD: 0.28 mm; 95% CI: -0.30 to 0.86). Surgical procedures were significantly faster in the prototype group (p = 0.002; MD: 3.0 min; 95% CI: 0.56-5.45). The findings of this preliminary study seem to suggest that the tested prototype dCAIS system may be feasible to accurately place implants without conventional registration or optical tracking, potentially reducing surgical time. However, these findings should be interpreted with caution due to the study limitations.",
-      "objective": "was to compare these outcomes with those obtained using a conventional dCAIS system. A preliminary retrospective cohort study was conducted involving 33 participants (33 implants). Eleven implants were placed using the novel dCAIS system that determines patient positioning based on anterior tooth anatomy (Prototype group), while 22 implants were placed using a conventional dCAIS system requiring standard registration and an optical tracking marker (Control group). Pre- and postoperative cone-beam computed tomography (CBCT) scans were superimposed to assess implant placement accuracy. Descriptive and bivariate analyses were performed to compare accuracy and surgery time between the two groups. Mean angular deviations were similar between groups (p = 0.924): 1.95° (SD 1.38) in the prototype group and 2.38° (SD 2.30) in the control group. No significant differences were observed in platform global deviation (mean difference [MD]: -0.33 mm; 95% CI: -0.75 to 0.09), apex global deviation (MD: -0.43 mm; 95% CI: -0.94 to 0.08), or apex depth deviation (MD: 0.28 mm; 95% CI: -0.30 to 0.86). Surgical procedures were significantly faster in the prototype group (p = 0.002; MD: 3.0 min; 95% CI: 0.56-5.45). The findings of this preliminary study seem to suggest that the tested prototype dCAIS system may be feasible to accurately place implants without conventional registration or optical tracking, potentially reducing surgical time. However, these findings should be interpreted with caution due to the study limitations.",
-      "study_methods": "A preliminary retrospective cohort study was conducted involving 33 participants (33 implants). Eleven implants were placed using the novel dCAIS system that determines patient positioning based on anterior tooth anatomy (Prototype group), while 22 implants were placed using a conventional dCAIS system requiring standard registration and an optical tracking marker (Control group). Pre- and postoperative cone-beam computed tomography (CBCT) scans were superimposed to assess implant placement accuracy. Descriptive and bivariate analyses were performed to compare accuracy and surgery time between the two groups.",
-      "methods": "A preliminary retrospective cohort study was conducted involving 33 participants (33 implants). Eleven implants were placed using the novel dCAIS system that determines patient positioning based on anterior tooth anatomy (Prototype group), while 22 implants were placed using a conventional dCAIS system requiring standard registration and an optical tracking marker (Control group). Pre- and postoperative cone-beam computed tomography (CBCT) scans were superimposed to assess implant placement accuracy. Descriptive and bivariate analyses were performed to compare accuracy and surgery time between the two groups.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41704077/",
-      "pmcid": "PMC12914130",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12914130/bin/CRE2-12-e70256-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12914130/bin/CRE2-12-e70256-g001.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12914130/bin/CRE2-12-e70256-g003.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12914130/bin/CRE2-12-e70256-g003.gif"
-      ]
-    },
-    {
-      "pmid": "41650829",
-      "title": "Characteristics, Citation Analysis, and Altmetrics Impact of Retracted Papers in Dentistry (2001-2024).",
-      "authors": [
-        "Alireza Jafari",
-        "Shohreh SeyyedHosseini",
-        "Reza BasirianJahromi"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Retraction is a mechanism for correcting published scholarly literature and alerting readers to seriously flawed or erroneous content, or ethical issues, in the literature they are reading. The objectives of this study were to identify the reasons for retraction, analyse citations, and describe the scientific and Altmetrics impacts of retracted papers in dentistry, oral health, and medicine. The present study was an applied, descriptive-analytical investigation conducted using Scientometric methods and the Altmetrics index. The research population consisted of 231 retracted scientific articles in the subject areas of Dentistry, Oral Surgery, and Medicine, which were indexed in the Web of Science database between 2001 and 2024. Statistical methods, including frequency, mean, and Spearman's correlation, were employed for data analysis using R software. The findings showed that out of the 231 retracted articles, 156 articles collectively received 2271 citations. Q1 journals have hosted the most retracted articles. Spain has the highest number of retracted articles in the field of dentistry worldwide. Falsification/fabrication of data is the most important reason for the retraction of articles. Mendeley had the highest share of retracted papers in dentistry among the reference management tools. The correlation coefficient between Altmetrics impact and scientific impact was significant (P < .05). As dentistry and oral health are a pivotal field within the biomedical sciences, they exert a substantial influence on the health of the population. For the preceding decades, it has remained imperative for dentistry researchers to dedicate greater attention to all phases of their research process, encompassing the study design, review process, and publication stage.",
-      "objective": "of this study were to identify the reasons for retraction, analyse citations, and describe the scientific and Altmetrics impacts of retracted papers in dentistry, oral health, and medicine. The present study was an applied, descriptive-analytical investigation conducted using Scientometric",
-      "study_methods": "The present study was an applied, descriptive-analytical investigation conducted using Scientometric methods and the Altmetrics index. The research population consisted of 231 retracted scientific articles in the subject areas of Dentistry, Oral Surgery, and Medicine, which were indexed in the Web of Science database between 2001 and 2024. Statistical methods, including frequency, mean, and Spearman's correlation, were employed for data analysis using R software.",
-      "methods": "The present study was an applied, descriptive-analytical investigation conducted using Scientometric methods and the Altmetrics index. The research population consisted of 231 retracted scientific articles in the subject areas of Dentistry, Oral Surgery, and Medicine, which were indexed in the Web of Science database between 2001 and 2024. Statistical methods, including frequency, mean, and Spearman's correlation, were employed for data analysis using R software.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41650829/",
-      "pmcid": "PMC12905765",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12905765/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12905765/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12905765/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12905765/bin/gr2.gif"
-      ]
-    },
-    {
-      "pmid": "41491923",
-      "title": "Can the thickness of adipose tissue influence the quality of radiographic images obtained with portable devices?",
-      "authors": [
-        "Marcus Vinicius Fioravanti Vaucher",
-        "Lorene Firmino Campos Paniago",
-        "Mariana Quirino Silveira Soares",
-        "Mariela Peralta-Mamani",
-        "Matheus Lima de Oliveira",
-        "Cláudio Costa",
-        "Francine Kull Panzarella",
-        "Monikelly do Carmo Chagas Nascimento"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "To evaluate the influence of adipose tissue thickness on the image quality of periapical radiographs obtained using two portable X-ray devices (Díox® and Nomad®) compared to a non-portable X-ray device (Focus®). A total of 240 radiographs of the first molars from five phantoms were acquired using adipose tissue thicknesses of 0 cm, 0.5 cm, 1 cm, and 1.5 cm. Image quality was assessed using a Likert scale applied to six anatomical structures (enamel, dentin, pulp chamber, alveolar crest, trabecular bone, and periodontal ligament space), with ratings classified as \"very good\" (definitely suitable for diagnosis), \"good\" (probably suitable), \"poor\" (probably unsuitable), and \"very poor\" (definitely unsuitable). The radiographs were analyzed using the ImageJ software, evaluating grayscale values and the dynamic range in specific regions of interest in the dental crown. The Nomad® exhibited image quality comparable to the Focus® (p > 0.05), while the Díox® demonstrated inferior performance, particularly in images with 1.5 cm of adipose tissue (p < 0.05). The adipose tissue thickness did not affect the image quality of the Focus® or Nomad® but negatively impacted the Díox® images. The Focus® produced darker images, reflecting lower grayscale values, whereas the Díox® had a reduced dynamic range, indicating higher contrast but fewer details in extreme areas (p < 0.05). The quality of periapical radiographic images is influenced by both the type of equipment used and the simulated adipose tissue thickness. The Nomad® demonstrated performance comparable to the Focus®, whereas the Díox® exhibited lower image quality, particularly with greater adipose tissue thickness.",
-      "objective": "",
-      "study_methods": "A total of 240 radiographs of the first molars from five phantoms were acquired using adipose tissue thicknesses of 0 cm, 0.5 cm, 1 cm, and 1.5 cm. Image quality was assessed using a Likert scale applied to six anatomical structures (enamel, dentin, pulp chamber, alveolar crest, trabecular bone, and periodontal ligament space), with ratings classified as \"very good\" (definitely suitable for diagnosis), \"good\" (probably suitable), \"poor\" (probably unsuitable), and \"very poor\" (definitely unsuitable). The radiographs were analyzed using the ImageJ software, evaluating grayscale values and the dynamic range in specific regions of interest in the dental crown.",
-      "methods": "A total of 240 radiographs of the first molars from five phantoms were acquired using adipose tissue thicknesses of 0 cm, 0.5 cm, 1 cm, and 1.5 cm. Image quality was assessed using a Likert scale applied to six anatomical structures (enamel, dentin, pulp chamber, alveolar crest, trabecular bone, and periodontal ligament space), with ratings classified as \"very good\" (definitely suitable for diagnosis), \"good\" (probably suitable), \"poor\" (probably unsuitable), and \"very poor\" (definitely unsuitable). The radiographs were analyzed using the ImageJ software, evaluating grayscale values and the dynamic range in specific regions of interest in the dental crown.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41491923/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41477729",
-      "title": "How do people perceive orthognathic surgery on YouTube? A sentiment and thematic analysis of 111,953 comments.",
-      "authors": [
-        "Ahmet Yıldırım",
-        "Yavuz Selim Genç",
-        "Ruşen Erdem",
-        "Dilara Boylu",
-        "Ömer Faruk Boylu",
-        "Suleyman Kutalmış Buyuk"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Patients in the orthognathic surgery process frequently turn to social media to obtain information and share their experiences. Accordingly, the present study analyzed YouTube comments to evaluate patient satisfaction, emotional tendencies, and social interactions, aiming to draw implications for improving communication and psychological support strategies. A total of 250,582 comments from 8044 YouTube videos on orthognathic surgery were collected using Mozdeh (University of Wolverhampton, Wolverhampton, UK) and R software (version 4.2.2, Posit, PBC, Boston, Mass). After preprocessing, 111,953 comments remained. Sentiment analysis (AFFIN/NRC lexicons), structural topic modeling, and manual thematic analysis (10% sample) were performed. Gender-based discourse differences were examined using Chi-square tests with Benjamini-Hochberg correction. Ten main themes were identified through structural topic modeling and thematic analyses. Positive emotions were mostly expressed, though fear and negativity were also observed. Esthetic and emotional expressions were used more often by women, whereas cost-related terms were used more often by men. Thematic qualitative analyses revealed that YouTube videos and comments were perceived by patients as a source of psychological support, whereas certain misleading content was also found to have the potential to misguide patients during the treatment process. This study has transcended the limited scope of traditional surveys, which are confined to specific time periods and small sample sizes, by making it possible to access patient experiences shared on the YouTube platform without temporal or spatial constraints. The analyses revealed prevalent misconceptions on social media and assessed patients' expectations, concerns, and psychological states. The findings serve as a practical guide for healthcare professionals in developing patient-centered communication and care strategies.",
-      "objective": "",
-      "study_methods": "A total of 250,582 comments from 8044 YouTube videos on orthognathic surgery were collected using Mozdeh (University of Wolverhampton, Wolverhampton, UK) and R software (version 4.2.2, Posit, PBC, Boston, Mass). After preprocessing, 111,953 comments remained. Sentiment analysis (AFFIN/NRC lexicons), structural topic modeling, and manual thematic analysis (10% sample) were performed. Gender-based discourse differences were examined using Chi-square tests with Benjamini-Hochberg correction.",
-      "methods": "A total of 250,582 comments from 8044 YouTube videos on orthognathic surgery were collected using Mozdeh (University of Wolverhampton, Wolverhampton, UK) and R software (version 4.2.2, Posit, PBC, Boston, Mass). After preprocessing, 111,953 comments remained. Sentiment analysis (AFFIN/NRC lexicons), structural topic modeling, and manual thematic analysis (10% sample) were performed. Gender-based discourse differences were examined using Chi-square tests with Benjamini-Hochberg correction.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41477729/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41241640",
-      "title": "The application of retromolar mini-screws for distalization in preparation for orthognathic surgery: A case series.",
-      "authors": [
-        "Haya Drora Assaf",
-        "Itamar Fridlander",
-        "Rizan Nashef",
-        "Eran Regev",
-        "Oded Yitschaky"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Combined orthodontic-surgical treatment is often chosen by clinicians and patients to enhance both skeletal and occlusal relations in cases of moderate to severe jaw discrepancies. Presurgical orthodontic preparation is crucial for achieving arch coordination and eliminating dentoalveolar compensation. Three cases with varying dental and skeletal characteristics are presented, one with protruded mandible and Class III relationship, the second with maxillary vertical excess and retruded mandible, and the third with retruded mandible. Distalization using retromolar skeletal anchorage for molar distalization was employed to achieve arch coordination and eliminate dentoalveolar compensation. The final outcomes demonstrated a harmonious occlusion with ideal interdigitation and a well-balanced facial profile. In cases with a favorable initial arch coordination that require space for incisor decompensation or crowding relief, distalization becomes a preferred strategy. Retromolar screws provide an advantageous force vector, facilitating efficient retraction of the entire dental arch.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41241640/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41130858",
-      "title": "Management of pharyngeal flap in cleft orthognathic surgery: speech outcomes and skeletal stability.",
-      "authors": [
-        "C-L Su",
-        "Y-F Chen",
-        "C-F Yao",
-        "P-Y Chou",
-        "T-D Lin",
-        "T-C Lu"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "The decision to either preserve or divide the pharyngeal flap during cleft orthognathic surgery (OGS) involves balancing maxillary advancement and maintaining velopharyngeal function. In this study, post-OGS velopharyngeal function and maxillary relapse were compared between patients with preserved and divided pharyngeal flaps. A retrospective review was conducted of cleft patients with a previous pharyngeal flap who underwent OGS between 2016 and 2020. Skeletal changes were evaluated via lateral cephalometry at three time-points: preoperative, immediately postoperative, and 1 year postoperative. Among the 26 patients included, 14 underwent pharyngeal flap preservation (PFP group) and 12 underwent pharyngeal flap division (PFD group). Horizontal A-point changes (A(X)) were significantly smaller in the PFP group (3.6 ± 2.0 mm) than in the PFD group (6.0 ± 2.3 mm) (P = 0.004). After OGS, velopharyngeal function deteriorated significantly more in the PFD group (75%) than in the PFP group (21.4%) (P = 0.016). Regression analysis suggested that pharyngeal flap division was associated with an increased risk of postoperative velopharyngeal function deterioration (odds ratio 14.06, P = 0.029), while horizontal maxillary surgical changes were inversely related to the maxillary relapse rate (regression coefficient = -0.79, P = 0.003). In conclusion, preserving the pharyngeal flap during cleft OGS is recommended to prevent speech deterioration without increasing the risk of maxillary relapse.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": ", preserving the pharyngeal flap during cleft OGS is recommended to prevent speech deterioration without increasing the risk of maxillary relapse.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41130858/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41067943",
-      "title": "Mixed reality-assisted orthognathic surgery with pre-bent titanium plates.",
-      "authors": [
-        "L Huang",
-        "H Li",
-        "V Yau",
-        "E Luo"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "Orthognathic surgery using pre-bent titanium plates and cutting guides has been shown to enhance surgical precision in positioning the maxilla. This technical note introduces an innovative approach that utilizes mixed reality to pre-bend titanium plates and simulate surgical guides with osteotomy lines and drilling holes, thereby aiding in the localization of the maxilla. Postoperative computed tomography showed a discrepancy of <2 mm in comparison to the preoperative virtual design. The virtual surgical planning for orthognathic surgery was dynamically transferred to the surgical procedure in real time, eliminating the need for complex guide systems, optimizing navigation methods, and enhancing navigation accuracy.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41067943/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "40819992",
-      "title": "Response to comment on \"Dexmedetomidine infusion on blood loss in orthognathic surgery: A retrospective study on its efficacy\".",
-      "authors": [
-        "Yen-Chu Hsiao",
-        "Kai-Hua Lien"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40819992/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "40527622",
-      "title": "Comment on \"Dexmedetomidine infusion on blood loss in orthognathic surgery: A retrospective study on its efficacy\".",
-      "authors": [
-        "Luyi Yu",
-        "Yuebing Li"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40527622/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "39952888",
-      "title": "Dexmedetomidine infusion on blood loss in orthognathic surgery: A retrospective study on its efficacy.",
-      "authors": [
-        "Yen-Chu Hsiao",
-        "Yi-Ting Chang",
-        "Chi-Sheng Cheng",
-        "Kai-Hua Lien"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39952888/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "39834273",
-      "title": "Comparison of Sphenoid Sinus Morphology in Bilateral Cleft Lip and Palate and Control Groups: A CBCT Study.",
-      "authors": [
-        "Caroline de Paula Oliveira Gringo",
-        "Luciano Reis de Araújo Carvalho",
-        "Mariela Peralta Mamani",
-        "Marina de Almeida Barbosa Mello",
-        "Renato Yassutaka Faria Yaedú"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "ObjectiveTo investigate and compare the morphology of the sphenoid sinus (SS) in patients with bilateral cleft lip and palate (BCLP) and the control group.DesignA retrospective comparative study.SettingCraniofacial rehabilitation institution.Patients and ParticipantsThe study included 100 patients with BCLP (50 men and 50 women) in the preorthognathic period, and 100 control patients who did not have BCLP, were not syndromic and had not undergone orthognathic surgery (50 men and 50 women).Main Outcome Measure(s)The morphological type of the SS was classified as conchal, presellar, sellar, and postsellar. It was further categorized into subtypes: lateral, body, anterior, lesser wing, and clival. Finally, the septations of the SS were classified as intersphenoidal, multiple, or absent. The χ2 test was used to compare the groups and evaluate categorical variables.ResultsThe most common main types in both groups were the sellar type (BCLP group: 44%, control group: 59%) and the postsellar type (BCLP group: 33%, control group: 31%). No statistically significant differences were found between the groups (P > .05). Regarding subtypes, the most common were the lateral subtype (BCLP group: 57%, control group: 59%) and the sphenoid body subtype (BCLP group: 33%, control group: 31%).ConclusionThe most common SS morphologies in BCLP were the sellar and postsellar types. The importance of this morphology is therefore understood in the context of surgeries in the SS region, such as orthognathic and transsphenoidal surgeries, thus helping to avoid complications during surgery.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "The most common main types in both groups were the sellar type (BCLP group: 44%, control group: 59%) and the postsellar type (BCLP group: 33%, control group: 31%). No statistically significant differences were found between the groups (P > .05). Regarding subtypes, the most common were the lateral subtype (BCLP group: 57%, control group: 59%) and the sphenoid body subtype (BCLP group: 33%, control group: 31%).ConclusionThe most common SS morphologies in BCLP were the sellar and postsellar types. The importance of this morphology is therefore understood in the context of surgeries in the SS region, such as orthognathic and transsphenoidal surgeries, thus helping to avoid complications during surgery.",
-      "conclusion": "The most common SS morphologies in BCLP were the sellar and postsellar types. The importance of this morphology is therefore understood in the context of surgeries in the SS region, such as orthognathic and transsphenoidal surgeries, thus helping to avoid complications during surgery.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39834273/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "39819092",
-      "title": "Histological and Molecular Manifestations of Cleft Myopathy.",
-      "authors": [
-        "Yixuan Huang",
-        "Pinting He",
-        "Jinggui Li",
-        "Jinfeng Dou",
-        "Bing Shi",
-        "Jingtao Li",
-        "Qian Zheng",
-        "Xu Cheng"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "ObjectiveApart from rupture and displacement of muscle fibers, structural defects exist in cleft muscles but have not been adequately investigated. This study aimed to examine the histological and molecular features of the cleft muscles.DesignOrbicularis oris (OO) and tensor fasciae latae (TFL) muscle samples were obtained from patients with cleft lip and alveolar. The non-cleft OO muscles were obtained from patients with facial trauma. Myofiber histology, stem cell composition, and molecular signatures were compared among the cleft OO muscle, non-cleft OO muscle, and TFL muscle.Main Outcome MeasuresHistological analysis of the fibrotic area, myofiber size, fiber type composition, and dystrophin expression pattern was performed to characterize the pathological manifestations in cleft muscles. Immunofluorescent staining of Pax7+ muscle satellite cells (MuSCs) and PDGFRα+ fibro-adipogenic progenitors (FAPs) and transcriptional profiling of MuSCs were carried out to explore the stem cell number and behavior in the cleft muscle.ResultsCleft muscles had an increased fibrotic area, variation in fiber size, and proportion of human fast myofiber. The defect in dystrophin expression was considerable in the non-cleft OO muscle and was even higher in the cleft OO muscle. MuSCs from cleft muscles showed a trend of increased Dux4 signature gene expression and repressed Pax7 target gene expression.ConclusionCleft myopathy resembles facial muscle-specific muscular dystrophy. The characterization of structural deformity inherited in cleft muscles could pave the way for a deeper understanding of orofacial cleft pathology.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Cleft muscles had an increased fibrotic area, variation in fiber size, and proportion of human fast myofiber. The defect in dystrophin expression was considerable in the non-cleft OO muscle and was even higher in the cleft OO muscle. MuSCs from cleft muscles showed a trend of increased Dux4 signature gene expression and repressed Pax7 target gene expression.ConclusionCleft myopathy resembles facial muscle-specific muscular dystrophy. The characterization of structural deformity inherited in cleft muscles could pave the way for a deeper understanding of orofacial cleft pathology.",
-      "conclusion": "Cleft myopathy resembles facial muscle-specific muscular dystrophy. The characterization of structural deformity inherited in cleft muscles could pave the way for a deeper understanding of orofacial cleft pathology.",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39819092/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "39782701",
-      "title": "Multidisciplinary Oral Rehabilitation of Complex Frontonasal Dysplasia: A Case Report.",
-      "authors": [
-        "Roberta Costa E Silva",
-        "Cristiano Tonello",
-        "José Carlos da Cunha Bastos",
-        "Regina Magrini Guedes de Azevedo",
-        "Roseli Maria Zechi-Ceide",
-        "Daniela Garib",
-        "Felicia Miranda",
-        "Beatriz Martins de Andrade",
-        "José Fernando Castanha Henriques",
-        "Adriano Porto Peixoto"
-      ],
-      "publication_date": "2026-Apr",
-      "publication_date_iso": "2026-04-01",
-      "abstract": "This case report presents the multidisciplinary treatment of a male patient with a complex form of frontonasal dysplasia who presented with a 0 to 14 facial cleft, mild hypertelorism, absence of the nasal medial process of the nose, and frontonasal encephalocele. Cranial and plastic surgeries were performed to correct hypertelorism and improve the esthetic appearance of the frontonasal region. In the permanent dentition, the patient presented a Class II, division 1 malocclusion with severe maxillary constriction and bilateral posterior crossbite. Comprehensive orthodontic treatment started at 12 years of age and included rapid maxillary expansion followed by fixed appliance. Orthognathic surgery was performed at 21 years of age involving a forward movement of both maxilla and mandible. After debonding, veneers were made in maxillary anterior teeth to improve tooth shape and Bolton discrepancies. An improvement in facial esthetics and an adequate final occlusion were achieved. Multidisciplinary treatment was essential for morphological rehabilitation and social inclusion in patients with rare craniofacial anomalies.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39782701/",
       "pmcid": "",
       "figure_urls": []
     }
