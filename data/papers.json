@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T04:51:09Z",
+  "updated_at": "2026-04-11T04:25:44Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1235,6 +1235,34 @@
       "figure_urls": []
     },
     {
+      "pmid": "41806568",
+      "title": "Machine learning-powered decoding of facial complexity: a diamond-and-triangle geometry for frontal facial analysis.",
+      "authors": [
+        "Peiqi Wang",
+        "Heng Zeng",
+        "Runyu Ma",
+        "Chenlu Rong",
+        "Chenghao Li",
+        "Yuanyuan Chen",
+        "Hui Xu"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Facial configuration is far more complicated and variable than the representations offered by a couple of conventionally used mathematic laws, necessitating development of a comprehensive and interracially comparable system for frontal facial analysis. In this study, based on morphological analysis of 33 Caucasian and 33 Asian female faces with high perceived facial attractiveness (i.e. facial esthetic appeal in frontal views), validated by independent layperson ratings, in contrast with 'ordinary' faces of 67 Caucasian and 67 Asian females, a machine learning-powered model, building on a diamond-and-triangle geometric framework, was constructed to decode the esthetic-determining facial traits and quantify the probability of a face conforming to the generally accepted attractiveness. The SVM models demonstrated excellent efficacy in this task, based on the input of 21 facial proportion indices derived from the diamond-and-triangle geometry. By interpreting the contribution of input features to each model's diagnosis, the Asian and Caucasian faces shared prioritization of proportional coordination of facial height with mid-facial width and outer canthal distance in determining facial harmony, and exhibited ethnicity-specific variations in hierarchical importance of other proportion indices. The highly coordinated diamond-and-triangle geometric framework distinguished the attractive faces from the ordinary, with cross-ethnic similarities between Caucasian and Asian females. The machine learning-powered model, integrated with the diamond-and-triangle geometry, provides references for cross-ethnic facial analysis and customized treatment planning.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "cleft lip and palate surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41806568/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41789672",
       "title": "Platycodin D sensitizes head and neck squamous cell carcinoma to cisplatin by inducing autophagy arrest.",
       "authors": [
@@ -1298,6 +1326,39 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41780218/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41764774",
+      "title": "Evaluation of Epidermal Growth Factor Receptor and Its Inducible Feedback Inhibitor Leucine Rich Repeats and Immunoglobulin Like Domains 1 as Prognostic Marker in Oral Cancer.",
+      "authors": [
+        "Deepika Verma",
+        "S S Chauhan",
+        "Joginder Kumar",
+        "Mohit Arora",
+        "Qulsum Akhtar",
+        "Lokesh Kadian",
+        "Prerna Jain",
+        "Vivek Nayyar",
+        "Ajoy Roychaudhury",
+        "Deepika Mishra",
+        "Alok Thakar",
+        "Riyaz A Mir"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is a life-threatening disease that ranks sixth amongst the most common human cancers worldwide. In most cases, OSCC development is preceded by oral premalignant disorders (OPMDs). There is an urgent need for more biomarker studies that will aid in early detection, diagnosis, and treatment of OPMD to prevent their transformation to OSCC. Leucine rich repeats and immunoglobulin like domains 1 (LRIG1) are known to negatively regulate EGFR expression. Little is known about the significance of LRIG1 in oral cancer pathogenesis. In a retrospective study, immunohistochemical analysis of EGFR and LRIG1 was carried out in 212 archival oral tissues (100 OSCC, 87 OPMD, and 25 normal), correlated with clinicopathological parameters and disease outcome over 62 months for OSCC patients. Further, gene expression for EGFR and LRIG1 was also evaluated in 160 tissue samples. Significant increase in EGFR in OSCC tissue was observed compared to controls, while LRIG1 levels were found to be downregulated in OSCC and OPMD cases compared to normal tissues (p < 0.05). Kaplan-Meier analysis of patients stratified to high and low LRIG1 expression showed significantly different overall survival (p < 0.05, median survival 1397 and 561 days, respectively). A unique translational impact of our study is that it provides clinical evidence for the potential of LRIG1 downregulation as predictor of poor prognosis in OSCC. These preliminary findings support further research to validate LRIG1 based prognostic tools for oral cancers.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41764774/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1449,28 +1510,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930084/bin/gr2.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930084/bin/gr3.jpg"
       ]
-    },
-    {
-      "pmid": "41740348",
-      "title": "Age- and sex-related variations in jaw-opening and tongue functions in healthy adults.",
-      "authors": [
-        "Boosana Kaboosaya"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "To characterize age- and sex-related variations in jaw-opening performance and tongue function, and to establish physiological reference ranges in healthy adults. A cross-sectional study was conducted in 298 healthy participants (129 males, 169 females), aged 17-85 years. Maximum interincisal opening (MIO), tongue range of motion ratio (TRMR), maximum tongue strength, and tongue endurance were assessed using standardized protocols. Participants were stratified by age, and reference ranges were calculated as mean ± 2 SD. Associations across age groups, sex, and body mass index (BMI) were examined using correlation and regression analyses. Maximum tongue strength declined progressively across age groups in both sexes, decreasing by approximately 4.9 kPa per decade in females and 4.7 kPa in males, with substantially lower values in adults aged ≥ 65 years. Tongue endurance remained largely stable across age groups, showing only a mild upward trend in older females. MIO demonstrated an age-related reduction in males, whereas TRMR exhibited minimal age-dependent variation. Regression analysis identified age as a significant predictor of maximum tongue strength, while endurance and mobility were not significantly associated across age groups or BMI. Age-related reductions in tongue strength represent the most prominent physiological change in orofacial motor performance, whereas tongue mobility and endurance remain relatively preserved. The reference values established in this study provide clinically relevant benchmarks for future research on oral motor aging and craniofacial functional assessment.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41740348/",
-      "pmcid": "",
-      "figure_urls": []
     },
     {
       "pmid": "41672804",
@@ -1665,6 +1704,37 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41468698/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41449844",
+      "title": "Predictors of Loss to Follow-Up After Operative Facial Trauma.",
+      "authors": [
+        "Aileen Z Cui",
+        "Sabrina S Goyal",
+        "Adaora A Okigbo",
+        "Viraj N Govani",
+        "Grant S Gillman",
+        "Shaum S Sridharan",
+        "Matthew E Spector",
+        "Eric W Wang",
+        "Kevin J Contrera",
+        "Christina M Yver"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Outpatient follow-up after operative facial trauma is critical; however, non-compliance remains a pervasive issue. This study aims to identify factors associated with missed initial postoperative appointment. This single-institution retrospective case-control study included patients who underwent operative facial trauma intervention by an otolaryngology provider at tertiary urban hospitals between January 2020 and April 2025. Sociodemographic, clinical, and operative data were collected. Statistical analysis was performed using STATA, with significance set at p < 0.05. Of 196 patients, 30 (15.3%) missed their initial post-operative appointment. Patients were less likely to attend their appointment if they self-identified as African American (odds ratio [OR]: 0.245 (0.095, 0.64), p = 0.0024), lacked private insurance (OR: 0.20 (0.072, 0.56), p = 0.009), had a higher Area Deprivation Index (national: 80.82 ± 19.10 vs. 65.05 ± 23.79, p = 0.0011; state: 7.89 ± 2.41 vs. 5.99 ± 2.78, p = 0.008), underwent surgery on an inpatient basis (OR: 0.24 (0.11, 0.56), p = 0.0003), presented with isolated midface trauma (OR: 0.30 (0.11, 0.83, p = 0.015), or were discharged to a location other than home (OR: 0.30 (0.11, 0.82), p = 0.0098). Isolated nasal trauma (OR: 3.10 (1.31, 7.37), p = 0.0079) and having a follow-up appointment scheduled at discharge (OR: 3.61 (1.62, 8.06), p = 0.0011) were protective. After multivariate analysis, missed appointments remained independently associated with isolated midface trauma (adjusted odds ratio [aOR]: 0.17 (0.036, 0.80), p = 0.025), race (aOR: 0.24 (0.063, 0.94), p = 0.041), and follow-up scheduled at discharge (aOR: 5.27 (1.65, 18.14), p = 0.005). Missed follow-up after operative facial trauma is associated with multiple sociodemographic and clinical factors. Scheduling postoperative appointments before discharge may increase the odds of outpatient follow-up.",
+      "objective": "to identify factors associated with missed initial postoperative appointment. This single-institution retrospective case-control study included patients who underwent operative facial trauma intervention by an otolaryngology provider at tertiary urban hospitals between January 2020 and April 2025. Sociodemographic, clinical, and operative data were collected. Statistical analysis was performed using STATA, with significance set at p < 0.05. Of 196 patients, 30 (15.3%) missed their initial post-operative appointment. Patients were less likely to attend their appointment if they self-identified as African American (odds ratio [OR]: 0.245 (0.095, 0.64), p = 0.0024), lacked private insurance (OR: 0.20 (0.072, 0.56), p = 0.009), had a higher Area Deprivation Index (national: 80.82 ± 19.10 vs. 65.05 ± 23.79, p = 0.0011; state: 7.89 ± 2.41 vs. 5.99 ± 2.78, p = 0.008), underwent surgery on an inpatient basis (OR: 0.24 (0.11, 0.56), p = 0.0003), presented with isolated midface trauma (OR: 0.30 (0.11, 0.83, p = 0.015), or were discharged to a location other than home (OR: 0.30 (0.11, 0.82), p = 0.0098). Isolated nasal trauma (OR: 3.10 (1.31, 7.37), p = 0.0079) and having a follow-up appointment scheduled at discharge (OR: 3.61 (1.62, 8.06), p = 0.0011) were protective. After multivariate analysis, missed appointments remained independently associated with isolated midface trauma (adjusted odds ratio [aOR]: 0.17 (0.036, 0.80), p = 0.025), race (aOR: 0.24 (0.063, 0.94), p = 0.041), and follow-up scheduled at discharge (aOR: 5.27 (1.65, 18.14), p = 0.005). Missed follow-up after operative facial trauma is associated with multiple sociodemographic and clinical factors. Scheduling postoperative appointments before discharge may increase the odds of outpatient follow-up.",
+      "study_methods": "This single-institution retrospective case-control study included patients who underwent operative facial trauma intervention by an otolaryngology provider at tertiary urban hospitals between January 2020 and April 2025. Sociodemographic, clinical, and operative data were collected. Statistical analysis was performed using STATA, with significance set at p < 0.05.",
+      "methods": "This single-institution retrospective case-control study included patients who underwent operative facial trauma intervention by an otolaryngology provider at tertiary urban hospitals between January 2020 and April 2025. Sociodemographic, clinical, and operative data were collected. Statistical analysis was performed using STATA, with significance set at p < 0.05.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41449844/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1889,6 +1959,167 @@
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13041609/bin/EVJ-58-709-g001.jpg"
       ]
+    },
+    {
+      "pmid": "41961693",
+      "title": "Risk factors for preoperative anemia in orthognathic surgery patients undergoing autologous blood donation: A cross-sectional study.",
+      "authors": [
+        "Sayaka Furuhashi",
+        "Atsushi Abe",
+        "Atsushi Nakayama",
+        "Hiroki Inoue",
+        "Ryosuke Yoshizaki",
+        "Hiroshi Furuta",
+        "Tetsushi Oguma",
+        "Shoya Mizuno",
+        "Arihiro Nakamura"
+      ],
+      "publication_date": "2026-Apr-10",
+      "publication_date_iso": "2026-04-10",
+      "abstract": "In Japan, preoperative autologous blood donation (ABD) is widely performed in orthognathic surgery to avoid allogeneic transfusion. Although previous studies have examined postoperative hemoglobin (Hb) fluctuations and the safety of autologous blood donations, few have investigated Hb levels at hospital admission or the optimal timing between blood storage and admission. This study aimed to identify risk factors for preoperative anemia in patients undergoing orthognathic surgery with ABD. Seventy-five patients scheduled for sagittal split ramus osteotomy between January 2021 and December 2023 were retrospectively analyzed. Four hundred milliliters of autologous blood were collected from patients with Hb ≥ 11 g/dL. Anemia was defined as Hb < 13 g/dL at admission. Logistic regression was performed for sex; smoking status; body mass index; Hb levels at donation; and the timing of the interval from donation to admission. At admission, 41 patients (55%) presented with anemia. Independent risk factors for anemia were Hb < 14.2 g/dL at donation (odds ratio [OR]: 26.20, 95% confidence interval [CI]: 3.71-185.00, P < .05) and an interval ≤ 22 days between donation and admission (OR: 6.54, 95% CI: 1.11-38.70, P < .05). Sex had minimal impact. The 22-day threshold corresponded with the 2 to 3-week erythropoietic recovery period, whereas longer storage may have compromised blood quality due to storage lesions. Ensuring Hb ≥ 14.2 g/dL at donation and allowing ≥ 22 days between donation and admission may reduce the risk of preoperative anemia. These findings provide practical guidance for perioperative management in orthognathic surgery and may inform transfusion strategies in regions where ABD remains common.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41961693/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41961098",
+      "title": "A study on prolonged use of resuscitative endovascular balloon of the aorta (REBOA) with shunt flow in a porcine hemorrhagic shock model.",
+      "authors": [
+        "Nobuaki Kiriu",
+        "Daizoh Saitoh",
+        "Koji Yamamura",
+        "Ruka Sasa",
+        "Tetsuro Kiyozumi",
+        "Satoshi Tomura"
+      ],
+      "publication_date": "2026-Apr-10",
+      "publication_date_iso": "2026-04-10",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41961098/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41960962",
+      "title": "Cleft Care India Study: A National Audit on Patients with Non-Syndromic Unilateral Cleft Lip and Palate: Surgical Procedures and Outcomes.",
+      "authors": [
+        "Panchali Batra",
+        "Deborah Sybil",
+        "Krishnamurthy Bonanthaya",
+        "Subodh Kumar Singh",
+        "Srinivas Gosla Reddy",
+        "Puneet Batra",
+        "Suryakant Das",
+        "Syed Altaf Hussain",
+        "Ravi K Mahajan",
+        "Raj Gopal Reddy",
+        "Vinay Chugh",
+        "Gayatri Moghe",
+        "Nandlal Bhojraj",
+        "Krishna Shama Rao",
+        "K Chethana",
+        "Sukhdeep Singh Kahlon",
+        "Kamlesh Singh",
+        "Ranjit H Kamble",
+        "Shruti Bijapur",
+        "Charanya Vijaykumar",
+        "H Hari Kishore Bhat",
+        "Sakshi Katyal",
+        "Manoj Prathap",
+        "Karthika Nambiar",
+        "Badri Thiruvenkatachari"
+      ],
+      "publication_date": "2026-Apr-10",
+      "publication_date_iso": "2026-04-10",
+      "abstract": "ObjectiveTo assess the surgical protocols followed in the treatment of non-syndromic UCLP across Indian cleft centres and identify factors influencing secondary surgical outcomes.DesignProspective cross sectional design.SettingThe study was conducted in 14 sary/tertiary care comprehensive cleft centres.ParticipantsThe study included 307 patients with non-syndromic UCLP across three age groups (5, 12, and 20 years) from 14 centres nationwide.OutcomesData was collected through a standardized web-based form. Variables recorded included surgeon specialty and experience, surgical sequence, presurgical orthopaedics, primary surgical techniques, and their association with the need for secondary procedures such as lip/nose revision, velopharyngeal surgery, fistula repair, and alveolar bone grafting. Descriptive statistics were generated, and associations between variables were analysed using Fisher's exact test.ResultsMillard's technique was the most commonly used approach for primary lip repair across all age groups. Presurgical orthopedic plates, nasal conformers, and the specific lip repair technique were not significantly associated with the need for lip or nasal revision surgery, although the wide confidence intervals indicate considerable uncertainty in these estimates. Similarly, the type of palatal repair and use of intravelar veloplasty were not significantly associated with fistula formation or the need for secondary velopharyngeal or fistula repair procedures. Across centres, wide variation existed in techniques used, but no one approach showed superiority in reducing secondary surgery needs.ConclusionDespite the observed variability in surgical weak associations were found between specific surgical techniques or surgeon-related factors and the need for secondary surgical interventions. The wide confidence intervals highlight the uncertainty of these findings and the need for further national-level audits, underscoring the challenge of establishing best practices in cleft care without robust systems for comprehensive data collection and consolidation.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Millard's technique was the most commonly used approach for primary lip repair across all age groups. Presurgical orthopedic plates, nasal conformers, and the specific lip repair technique were not significantly associated with the need for lip or nasal revision surgery, although the wide confidence intervals indicate considerable uncertainty in these estimates. Similarly, the type of palatal repair and use of intravelar veloplasty were not significantly associated with fistula formation or the need for secondary velopharyngeal or fistula repair procedures. Across centres, wide variation existed in techniques used, but no one approach showed superiority in reducing secondary surgery needs.ConclusionDespite the observed variability in surgical weak associations were found between specific surgical techniques or surgeon-related factors and the need for secondary surgical interventions. The wide confidence intervals highlight the uncertainty of these findings and the need for further national-level audits, underscoring the challenge of establishing best practices in cleft care without robust systems for comprehensive data collection and consolidation.",
+      "conclusion": "Despite the observed variability in surgical weak associations were found between specific surgical techniques or surgeon-related factors and the need for secondary surgical interventions. The wide confidence intervals highlight the uncertainty of these findings and the need for further national-level audits, underscoring the challenge of establishing best practices in cleft care without robust systems for comprehensive data collection and consolidation.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41960962/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41960823",
+      "title": "Shifting the Paradigm: CAMBRA Adoption and Medical-Dental Integration Leveraging an Electronic Health Record.",
+      "authors": [
+        "Sharon C Perelman",
+        "Tunaidi Ansari",
+        "John D B Featherstone",
+        "Biana Roykh"
+      ],
+      "publication_date": "2026-Apr-10",
+      "publication_date_iso": "2026-04-10",
+      "abstract": "This study describes the integration of Caries Management by Risk Assessment (CAMBRA) into a medical-dental integrated Epic electronic health record (EHR) at Columbia University's College of Dental Medicine (CDM), with the goal of incorporating risk-based caries management into predoctoral clinical care. A multi-phase, mixed-methods approach was used. CAMBRA protocols were embedded into the Epic EHR, including clinical decision support, automated scoring, integration with prescribing and documentation workflows, and patient education after visit summary (AVS). Stakeholder engagement strategies included faculty calibration, student education via a new Population Oral Health Management (POHM) course, and staff training. Adoption was assessed through caries risk assessment (CRA) completion rates and provider agreement with algorithm-generated risk levels. Following EHR-integrated CAMBRA tool implementation in July of 2022, CRA completion rates rose from under 5% to a peak of 89% in March of 2024. Integration of the POHM curriculum and faculty calibration efforts were key drivers of adoption. Provider agreement with algorithm-generated caries risk levels exceeded 96% after a mandatory confirmation field was introduced in November of 2023. CRA completion rates varied by student groups, reflecting the importance of consistent faculty leadership. Embedding CAMBRA within the EHR and aligning it with educational and clinical workflows led to rapid adoption of risk-based caries management. Success is driven by strong stakeholder engagement, curriculum integration, and robust informatics infrastructure. Ongoing faculty calibration and analytics feedback are essential to sustain performance. CDM's experience offers a replicable model for implementing evidence-based caries prevention in academic dental settings.",
+      "objective": "",
+      "study_methods": "A multi-phase, mixed-methods approach was used. CAMBRA protocols were embedded into the Epic EHR, including clinical decision support, automated scoring, integration with prescribing and documentation workflows, and patient education after visit summary (AVS). Stakeholder engagement strategies included faculty calibration, student education via a new Population Oral Health Management (POHM) course, and staff training. Adoption was assessed through caries risk assessment (CRA) completion rates and provider agreement with algorithm-generated risk levels.",
+      "methods": "A multi-phase, mixed-methods approach was used. CAMBRA protocols were embedded into the Epic EHR, including clinical decision support, automated scoring, integration with prescribing and documentation workflows, and patient education after visit summary (AVS). Stakeholder engagement strategies included faculty calibration, student education via a new Population Oral Health Management (POHM) course, and staff training. Adoption was assessed through caries risk assessment (CRA) completion rates and provider agreement with algorithm-generated risk levels.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41960823/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41958270",
+      "title": "Iron-Based Metal-Organic Framework MIL-100(Fe) Regulates Keloid Scarring in a Humanized Keloid Model.",
+      "authors": [
+        "Po-Hsiu Cheng",
+        "Dany Y Matar",
+        "Wei-Ting Chung",
+        "Adriana C Panayi",
+        "Yen-Chang Chen",
+        "Yu-Sheng Yu",
+        "Yunching Chen",
+        "Tzu-Lei Kuo",
+        "Wen-Chun Hung",
+        "Huang-Kai Kao",
+        "Kevin C-W Wu"
+      ],
+      "publication_date": "2026-Apr-10",
+      "publication_date_iso": "2026-04-10",
+      "abstract": "Keloids are characterized by excessive collagen deposition and persistent inflammation, causing high morbidity and recurrence with limited effective treatments. In this study, MIL-100(Fe)- a metal-organic framework composed of ferrous/ferric ion nodes and 1,3,5-benzenetricarboxylate ligands- is synthesized via a microwave-assisted hydrothermal method and demonstrated nanoscale particle size (141.7 nm). In vitro, human keloid fibroblasts maintained >90% viability after 48 h with MIL-100(Fe) treatment and showed robust cellular uptake within 2 h, compared to PBS-treated controls. MIL-100(Fe) significantly reduced fibroblast migration and downregulated fibrosis-associated proteins after 48 h, including collagen I, collagen III, transforming growth factor beta 1 (TGF-β1), SMAD3, and prolyl 4-hydroxylase subunit alpha 1 (P4HA1). Western blot analysis confirmed that TGF-β1 expression is more strongly suppressed in human keloid fibroblasts than in human monocytes. In an in vivo humanized keloid mouse model, four weeks of intralesional MIL-100(Fe) injection reduced fibrous tissue volume by 27% by week two post-treatment compared with controls. Histological analysis showed decreased fibroblast density, decreased collagen fiber area, polarized macrophage infiltration, and vacuolization in the MIL-100(Fe) treated group. These findings suggest that MIL-100(Fe) selectively targets the TGF-β/SMAD pathway, thereby reducing collagen deposition and fibrosis, and highlight its potential as a therapeutic nanoplatform for keloid treatment.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41958270/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41954455",
@@ -2296,132 +2527,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41935194/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41934826",
-      "title": "Hybrid implant-supported rehabilitation of severely atrophic jaws using custom-made subperiosteal and conventional endosseous implants: A retrospective case series.",
-      "authors": [
-        "Luigi Angelo Vaira",
-        "Andrea Biglio",
-        "Casper Van den Borre",
-        "Giovanni Salzano",
-        "Jerome R Lechien",
-        "Maurice Y Mommaerts",
-        "Giacomo De Riu"
-      ],
-      "publication_date": "2026-Apr-03",
-      "publication_date_iso": "2026-04-03",
-      "abstract": "Severe alveolar bone atrophy represents a major challenge for implant-supported rehabilitation of the maxilla and mandible. While custom-made subperiosteal implants and conventional endosseous implants have each been proposed as graftless solutions in selected clinical scenarios, the outcomes of hybrid rehabilitations combining both implant systems within the same jaw have not yet been investigated. The aim of this retrospective study was to evaluate the clinical and radiological outcomes of hybrid implant-supported rehabilitations using custom-made subperiosteal implants in combination with conventional endosseous implants in patients with severe maxillary and/or mandibular atrophy. Fourteen consecutive patients affected by advanced jaw atrophy and heterogeneous residual bone availability were included. A total of 20 custom-made subperiosteal implants and 48 conventional endosseous implants were placed to support fixed full-arch or segmental prosthetic rehabilitations. Implant survival, success, biological and mechanical complications, and peri-implant soft tissue conditions were assessed over a mean follow-up of 22.1 months. At the last follow-up, survival of both subperiosteal and endosseous implants was 100%, with all rehabilitations remaining functional. All endosseous implants fulfilled established success criteria, while all subperiosteal implants met a composite functional success endpoint. Peri-implant soft tissue conditions remained stable, and no prosthetic complications were observed. However, these findings should be interpreted in light of the retrospective design, limited sample size, and relatively short follow-up. Within the limitations of this retrospective case series, hybrid rehabilitations combining custom-made subperiosteal and conventional endosseous implants may represent a promising and flexible graftless treatment option for severely atrophic jaws with heterogeneous bone availability.",
-      "objective": "of this retrospective study was to evaluate the clinical and radiological outcomes of hybrid implant-supported rehabilitations using custom-made subperiosteal implants in combination with conventional endosseous implants in patients with severe maxillary and/or mandibular atrophy. Fourteen consecutive patients affected by advanced jaw atrophy and heterogeneous residual bone availability were included. A total of 20 custom-made subperiosteal implants and 48 conventional endosseous implants were placed to support fixed full-arch or segmental prosthetic rehabilitations. Implant survival, success, biological and mechanical complications, and peri-implant soft tissue conditions were assessed over a mean follow-up of 22.1 months. At the last follow-up, survival of both subperiosteal and endosseous implants was 100%, with all rehabilitations remaining functional. All endosseous implants fulfilled established success criteria, while all subperiosteal implants met a composite functional success endpoint. Peri-implant soft tissue conditions remained stable, and no prosthetic complications were observed. However, these findings should be interpreted in light of the retrospective design, limited sample size, and relatively short follow-up. Within the limitations of this retrospective case series, hybrid rehabilitations combining custom-made subperiosteal and conventional endosseous implants may represent a promising and flexible graftless treatment option for severely atrophic jaws with heterogeneous bone availability.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41934826/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41933430",
-      "title": "Assessing the Area Deprivation Index in Relation to Orbital Floor Fractures.",
-      "authors": [
-        "Atif M Islam",
-        "Brandon J Dyer",
-        "Robert B Baldwin",
-        "Alec E Dallas",
-        "Ryan Hudnall",
-        "Julia Toman"
-      ],
-      "publication_date": "2026-Apr-03",
-      "publication_date_iso": "2026-04-03",
-      "abstract": "Social determinants of health are acknowledged as significant factors affecting trauma occurrence, severity, and outcomes. The area deprivation index (ADI) is a validated tool that combines social determinants into a single measure of \"neighborhood disadvantage.\" We aimed to investigate whether ADI was linked to injury severity and other clinical benchmarks in orbital floor fracture patients. Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests. A total of 1255 patients with acute orbital floor fractures were analyzed. ADI was significantly higher in patients with additional facial trauma (national ADI: 55 vs. 51, p = 0.0240; state ADI: 7 vs. 6, p = 0.0119). However, ADI was not significantly associated with the incidence of bodily polytrauma, initial clinical acuity, or LOS. Follow-up attendance rates did not differ by ADI. Social disadvantage was significantly associated with differences in injury characteristics and indirectly with care utilization among orbital floor fracture patients. This may reflect different mechanisms of injury in high ADI areas and indicate that ADI may be useful as a contextual marker of injury severity. Future studies should investigate these mechanisms and other risk factors unique to high ADI areas.",
-      "objective": "",
-      "study_methods": "Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests.",
-      "methods": "Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41933430/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41931360",
-      "title": "Comparison of Clinical, Anesthetic, and Perioperative Outcomes Between Single-Jaw and Bimaxillary Orthognathic Surgery: A Retrospective Analysis of 499 Cases.",
-      "authors": [
-        "Hatice Akpinar",
-        "Tayfun Yazici",
-        "Esengül Gök",
-        "Yavuz Findik"
-      ],
-      "publication_date": "2026-Apr-03",
-      "publication_date_iso": "2026-04-03",
-      "abstract": "Orthognathic surgery involves complex perioperative management due to prolonged operative time, shared airway challenges, and potential complications. This study aimed to evaluate the impact of surgical scope (single-jaw versus bimaxillary) on perioperative outcomes, hemodynamics, length of hospital stay (LOS), and complications. A retrospective cohort of 499 patients undergoing orthognathic surgery between 2017 and 2025 was analyzed: single-jaw (n=81) and bimaxillary (n=418) groups. Demographics, American Society of Anesthesiologists (ASA) status, the Index of Complexity, Outcome and Need (ICON) scores, anesthesia and surgical durations, intraoperative vitals, LOS, blood transfusion requirements, and perioperative complications were compared. Significance was set at a P value <0.05. The study was approved by the Ethics Committee of Suleyman Demirel University, Faculty of Medicine, and conducted in accordance with the Declaration of Helsinki. There were no significant differences in age, height, or weight between groups. Bimaxillary surgery had longer anesthesia and operative times (P=0.001) and LOS (P=0.034). Systolic blood pressure at 120 minutes was lower in the bimaxillary group (P=0.012), reflecting controlled hypotensive anesthesia. Complication and transfusion rates were low and similar. A weak negative correlation was observed between weight and LOS (r=-0.131; P=0.003). Bimaxillary surgery is associated with longer operative and anesthesia times and hospital stay, but shows a safety profile comparable to single-jaw procedures. With proper anesthesia and surgical planning, it can be safely performed in young, mostly ASA I to II patients.",
-      "objective": "",
-      "study_methods": "A retrospective cohort of 499 patients undergoing orthognathic surgery between 2017 and 2025 was analyzed: single-jaw (n=81) and bimaxillary (n=418) groups. Demographics, American Society of Anesthesiologists (ASA) status, the Index of Complexity, Outcome and Need (ICON) scores, anesthesia and surgical durations, intraoperative vitals, LOS, blood transfusion requirements, and perioperative complications were compared. Significance was set at a P value <0.05. The study was approved by the Ethics Committee of Suleyman Demirel University, Faculty of Medicine, and conducted in accordance with the Declaration of Helsinki.",
-      "methods": "A retrospective cohort of 499 patients undergoing orthognathic surgery between 2017 and 2025 was analyzed: single-jaw (n=81) and bimaxillary (n=418) groups. Demographics, American Society of Anesthesiologists (ASA) status, the Index of Complexity, Outcome and Need (ICON) scores, anesthesia and surgical durations, intraoperative vitals, LOS, blood transfusion requirements, and perioperative complications were compared. Significance was set at a P value <0.05. The study was approved by the Ethics Committee of Suleyman Demirel University, Faculty of Medicine, and conducted in accordance with the Declaration of Helsinki.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41931360/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41931308",
-      "title": "An Interpretable Fuzzy-AI Clinical Decision Support System for Selecting Orthognathic Surgery in Skeletal Class III Malocclusion.",
-      "authors": [
-        "Chihiro Tanikawa",
-        "Keiko Okamoto",
-        "Kenji Takada"
-      ],
-      "publication_date": "2026-Apr-03",
-      "publication_date_iso": "2026-04-03",
-      "abstract": "This study aimed to develop an interpretable fuzzy-artificial intelligence (AI) framework to support treatment decision-making between orthognathic surgery and orthodontic camouflage in patients with skeletal class III malocclusion, while providing clinician-oriented explanations using a large language model (LLM). Eighty-six patients with skeletal class III malocclusion were classified into Surgery or Camouflage groups based on treatment plans determined by multiple experienced orthodontists. Pretreatment lateral cephalograms were analyzed, and 22 cephalometric variables were measured. A fuzzy inference model was used to calculate a membership grade (MG) representing the severity of skeletal class III sagittal discrepancy, based on visual evaluation of the facial profile. The MG was derived from a composite index incorporating 4 sagittal skeletal parameters: the ANB angle, chin-to-Nasion perpendicular distance, cranial base length, and mandibular body length. A decision-tree model was subsequently constructed using MG and selected cephalometric variables, and its discriminative performance was assessed using cross-validated area under the curve (AUC) analysis. To enhance interpretability, the mathematical decision framework was integrated with an LLM that generated concise, clinician-friendly diagnostic explanations without altering the underlying decision logic. Decision-tree analysis identified overjet, MG, lower facial height, and the H angle, an indicator of lip prominence, as the most influential predictors of treatment selection. The final model demonstrated excellent discriminative performance, with an AUC of 0.97. The LLM successfully translated the rule-based diagnostic output into brief explanatory summaries, and the complete system was implemented as open-source software. This LLM-integrated fuzzy-AI framework formalizes key elements of expert clinical reasoning and may improve the transparency, standardization, and reproducibility of treatment planning for skeletal class III malocclusion.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41931308/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41931306",
-      "title": "Clinical Significance of Metallic Plate Implant Removal After Orthognathic Surgery: A Scoping Review.",
-      "authors": [
-        "Mohammed M Bakri"
-      ],
-      "publication_date": "2026-Apr-03",
-      "publication_date_iso": "2026-04-03",
-      "abstract": "This scoping review examines the literature on the prevalence and clinical importance of miniplate removal following orthognathic (jaw) surgery. A scoping review of qualitative and quantitative literature was conducted following the framework of Arksey and O'Malley, later updated by Levac et al. A literature search was carried out using 4 electronic databases. Articles were screened by title and abstract, and inclusion and exclusion criteria. Potential papers were considered for full-text reading and excluded if the articles did not meet the inclusion criteria. Twenty-five papers were included in the final review. The total number of patients included in the 25 studies was 5434 patients for orthognathic surgeries, of which 2198 were operated on for plate removal. The overall complications associated with orthognathic surgery, leading to plate removal, were high. The average time of removal was 3 months, with the longest duration being 10 years. The findings imply that the removal of miniplates could be helpful for patients, as it can reduce long-term complications. The mandible was the most common site for plate removal. The most common reasons for plate removal were infection, pain, and patient demand. This scoping review highlights the importance of miniplate removal in cases with diverse complications and young individuals. To gain insight into the importance of plate removal and improve its clinical prevalence, further studies with larger sample sizes, excellent methodological qualities, and standardized outcomes are required.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41931306/",
       "pmcid": "",
       "figure_urls": []
     }
