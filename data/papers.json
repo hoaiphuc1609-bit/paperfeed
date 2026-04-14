@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T05:18:13Z",
+  "updated_at": "2026-04-14T04:49:18Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -730,6 +730,59 @@
       ]
     },
     {
+      "pmid": "41839249",
+      "title": "Advances in artificial intelligence enhanced robotics for dental implant placement: A scoping review.",
+      "authors": [
+        "Eslam Abdelwahab Dawood",
+        "Rand Abumaylih",
+        "Bahaaeldeen M Elgarba",
+        "Rocharles Cavalcante Fontenele",
+        "Reinhilde Jacobs"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "To map current evidence on artificial intelligence (AI)-enhanced robotic systems for dental implant placement, focusing on system autonomy, accuracy, and clinical applicability. This mixed-method scoping review followed PRISMA-ScR guidelines and included studies published up to August 2025. Five electronic databases were systematically searched (PubMed, Scopus, Web of Science, Embase, Cochrane Library), supplemented by grey literature search, to identify English-language studies assessing robotic-assisted dental implant placement in terms of accuracy, time efficiency, or clinical feasibility. Two reviewers independently performed study selection, data extraction, and quality appraisal. Quantitative data were pooled descriptively using random-effects models with subgroup analyses, while remaining findings were synthesized narratively. A parallel search identified commercially available robotic and dynamic navigation systems, including their regulatory status, validation level, and human-robot interaction features. The systematic search identified 27 studies evaluating robotic-assisted dental implant placement met the inclusion criteria. Methodological quality was generally high, with 92.6% of studies scoring ≥ 8/10 on the Mixed Methods Appraisal Tool (MMAT). Robotic systems demonstrated high placement accuracy, with a mean coronal deviation of 0.45 mm, apical deviation of 0.50 mm, and angular deviation of 0.80° However, statistical heterogeneity was high across outcomes (I² > 97%). Subgroup analyses indicated that fully autonomous robotic systems achieved the lowest deviation values. Implant placement in the mandible showed greater accuracy compared with maxillary and zygomatic sites. When compared with dynamic navigation systems, robotic-assisted approaches demonstrated comparable linear deviations but superior angular precision. Limited evidence suggested potential improvements in procedural efficiency, particularly in multi-implant cases. Robotic systems show strong technical performance, but current evidence is dominated by in vitro and single-center studies with limited long-term clinical data. Future multicenter trials with standardized outcomes and long-term follow-up are needed to confirm clinical benefits. Robotic systems offer high accuracy and reproducibility in dental implant placement, potentially improving efficiency and reducing variability in complex cases. However, clinical adoption should be guided by further multicenter trials with long-term outcomes.",
+      "objective": "",
+      "study_methods": "This mixed-method scoping review followed PRISMA-ScR guidelines and included studies published up to August 2025. Five electronic databases were systematically searched (PubMed, Scopus, Web of Science, Embase, Cochrane Library), supplemented by grey literature search, to identify English-language studies assessing robotic-assisted dental implant placement in terms of accuracy, time efficiency, or clinical feasibility. Two reviewers independently performed study selection, data extraction, and quality appraisal. Quantitative data were pooled descriptively using random-effects models with subgroup analyses, while remaining findings were synthesized narratively. A parallel search identified commercially available robotic and dynamic navigation systems, including their regulatory status, validation level, and human-robot interaction features.",
+      "methods": "This mixed-method scoping review followed PRISMA-ScR guidelines and included studies published up to August 2025. Five electronic databases were systematically searched (PubMed, Scopus, Web of Science, Embase, Cochrane Library), supplemented by grey literature search, to identify English-language studies assessing robotic-assisted dental implant placement in terms of accuracy, time efficiency, or clinical feasibility. Two reviewers independently performed study selection, data extraction, and quality appraisal. Quantitative data were pooled descriptively using random-effects models with subgroup analyses, while remaining findings were synthesized narratively. A parallel search identified commercially available robotic and dynamic navigation systems, including their regulatory status, validation level, and human-robot interaction features.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41839249/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41833743",
+      "title": "Exploring AI-driven deep learning approaches for optimizing space detection in single gap implantation based on CBCT images.",
+      "authors": [
+        "Pattarapong Anupuntanun",
+        "Sirida Arunjaroensuk",
+        "Walita Narkbuakaew",
+        "Saowapak Thongvigitmanee",
+        "Phonkit Sinpitaksakul",
+        "Atiphan Pimkhaokham"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Computer-assisted implant surgery (CAIS) is a valuable tool for improving implantation accuracy and efficiency, but its clinical implementation remains time consuming and relies on expert experience, particularly for anatomical structure annotation. While AI-driven analysis offers a solution, limited studies have assessed its use for evaluating single edentulous regions. To address this gap, this study introduces a novel, simple, three-step sequential approach for automated detection of single edentulous areas and adjacent structures, leveraging structure segmentation from the nnUNet-based DentalSegmentator framework without requiring further manual segmentation. Sixty-six cone-beam computed tomography (CBCT) scans, acquired from four different machines and encompassing a total of 80 single edentulous regions, were divided into parameter tuning and validation cohorts. Anatomical structures were first segmented using the DentalSegmentator with the available pre-trained model. Subsequently, detection was computed using morphological image processing, the Watershed algorithm, particle analysis, and a decision tree. Performance was validated against the annotations of three experienced dentists using accuracy, precision, recall, specificity and F1-score. Finally, computational time was analyzed using the Wilcoxon signed-rank test (p < 0.001). The approach achieved high performance, with accuracy, precision, recall, specificity, and F1-score values of 0.95, 0.95, 0.96, 0.93, and 0.96, respectively. The automated detection time (3.3 s) represents a 37-fold reduction in processing time compared to experts (120 s). The proposed automated detection approach demonstrated reliability, time efficiency, and consistency, positioning it as a valuable asset for pre-surgical implant planning.",
+      "objective": "",
+      "study_methods": "Sixty-six cone-beam computed tomography (CBCT) scans, acquired from four different machines and encompassing a total of 80 single edentulous regions, were divided into parameter tuning and validation cohorts. Anatomical structures were first segmented using the DentalSegmentator with the available pre-trained model. Subsequently, detection was computed using morphological image processing, the Watershed algorithm, particle analysis, and a decision tree. Performance was validated against the annotations of three experienced dentists using accuracy, precision, recall, specificity and F1-score. Finally, computational time was analyzed using the Wilcoxon signed-rank test (p < 0.001).",
+      "methods": "Sixty-six cone-beam computed tomography (CBCT) scans, acquired from four different machines and encompassing a total of 80 single edentulous regions, were divided into parameter tuning and validation cohorts. Anatomical structures were first segmented using the DentalSegmentator with the available pre-trained model. Subsequently, detection was computed using morphological image processing, the Watershed algorithm, particle analysis, and a decision tree. Performance was validated against the annotations of three experienced dentists using accuracy, precision, recall, specificity and F1-score. Finally, computational time was analyzed using the Wilcoxon signed-rank test (p < 0.001).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41833743/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41816090",
       "title": "Identification of factors predictive of contralateral secondary hip fractures in patients after initial hip fracture - A prospective observational study.",
       "authors": [
@@ -791,6 +844,35 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12973514/bin/gr2.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12973514/bin/gr2.gif"
       ]
+    },
+    {
+      "pmid": "41812978",
+      "title": "The relative accuracy of dynamic navigation-guided and conventional coronectomy for mandibular third molars: A randomized controlled trial.",
+      "authors": [
+        "Bin-Zhang Wu",
+        "Jia-Nan Lin",
+        "Qian-Xiao Liu",
+        "Peng-Fei Jia",
+        "Ao-Bo Jin",
+        "Liang-Wei Chen",
+        "Zi-Yu Yan",
+        "Nian-Hui Cui"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "This study aimed to evaluate and compare the surgical precision of coronectomy for mandibular third molars (M3Ms) performed with the aid of a dynamic navigation system (DNS) versus the conventional freehand technique. A single-blind randomized controlled trial was conducted in 110 patients undergoing M3M coronectomy. After withdrawal of three patients, 107 patients (teeth, N = 117) were included in the final analysis. Teeth were randomly allocated to the DNS-assisted group (patients, n = 52; teeth, N = 57) or the freehand group (patients, n = 55; teeth, N = 60). The primary outcome measure was the root mean square (RMS) deviation between the achieved osteotomy plane and the preoperative virtual plan, assessed for the entire resection surface as well as the mesial and distal subregions. Secondary outcomes included: (i) maximum and mean positive and negative deviations in all regions; (ii) curvature parameters (RMS, maximum, and minimum) for the complete osteotomy plane and its subregions; and (iii) total procedure duration and active operative time. Postoperative cone-beam computed tomography (CBCT) scans were processed with Geomagic software for three-dimensional deviation analysis. The DNS-assisted group showed significantly reduced RMS deviations (overall: 1.02 ± 0.50 mm; mesial: 1.06 ± 0.58 mm; distal: 0.92 ± 0.54 mm) compared with the freehand group (overall: 1.44 ± 0.90 mm; mesial: 1.46 ± 1.07 mm; distal: 1.48 ± 1.25 mm; P < 0.05). Consistent advantages of DNS were also observed in maximum and mean positive deviations, RMS curvature, and minimum curvature values. However, operative duration was significantly longer with DNS than with the freehand method (28 min vs. 14 min, P < 0.05). Dynamic navigation significantly improves the accuracy of M3M coronectomy, achieving millimeter-level precision that surpasses that of the freehand technique. These findings highlight the value of a fully digital workflow from preoperative planning through postoperative validation in DNS-guided coronectomy, underscoring its potential to improve safety and precision in complex M3M surgeries.",
+      "objective": "",
+      "study_methods": "A single-blind randomized controlled trial was conducted in 110 patients undergoing M3M coronectomy. After withdrawal of three patients, 107 patients (teeth, N = 117) were included in the final analysis. Teeth were randomly allocated to the DNS-assisted group (patients, n = 52; teeth, N = 57) or the freehand group (patients, n = 55; teeth, N = 60). The primary outcome measure was the root mean square (RMS) deviation between the achieved osteotomy plane and the preoperative virtual plan, assessed for the entire resection surface as well as the mesial and distal subregions. Secondary outcomes included: (i) maximum and mean positive and negative deviations in all regions; (ii) curvature parameters (RMS, maximum, and minimum) for the complete osteotomy plane and its subregions; and (iii) total procedure duration and active operative time. Postoperative cone-beam computed tomography (CBCT) scans were processed with Geomagic software for three-dimensional deviation analysis.",
+      "methods": "A single-blind randomized controlled trial was conducted in 110 patients undergoing M3M coronectomy. After withdrawal of three patients, 107 patients (teeth, N = 117) were included in the final analysis. Teeth were randomly allocated to the DNS-assisted group (patients, n = 52; teeth, N = 57) or the freehand group (patients, n = 55; teeth, N = 60). The primary outcome measure was the root mean square (RMS) deviation between the achieved osteotomy plane and the preoperative virtual plan, assessed for the entire resection surface as well as the mesial and distal subregions. Secondary outcomes included: (i) maximum and mean positive and negative deviations in all regions; (ii) curvature parameters (RMS, maximum, and minimum) for the complete osteotomy plane and its subregions; and (iii) total procedure duration and active operative time. Postoperative cone-beam computed tomography (CBCT) scans were processed with Geomagic software for three-dimensional deviation analysis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41812978/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41800119",
@@ -1101,6 +1183,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "41970315",
+      "title": "Maxillofacial sequelae as a function of treatment type and histology in benign jaw tumors.",
+      "authors": [
+        "Atanwo Nita Lise Dongmo",
+        "Zilefac Brian Ngokwe"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "The main treatment option for benign jaw tumors is surgery. Maxillofacial sequalae are complications in the head and neck region related to pathologies and/or the treatment of these pathologies, including benign jaw tumors. Our aim was to describe and compare the sequalae in patients operated upon for a benign jaw tumor as a function of the type of surgery and the histology. We carried out a cross-sectional analytic study in the Maxillofacial Surgery Department of the Yaoundé Central Hospital. Any patient who had undergone surgery for a benign tumor at the Maxillofacial Surgery Department of the Yaoundé Central Hospital presenting histological evidence was included in our study. Patients lost to follow-up, deceased and patients who did not give their consent were excluded. Additionally, we used the 2022 WHO (World Health Organization) classification of head and neck tumors for our histological diagnosis. We retained 39 patients in our study with a sex ratio of 0.69 and an age range from 14 to 71 years. The mean age was 36.18 ± 15.38 years. With respect to the tumor location in our patients, the majority were on the right side (56.4%) and on the mandible (79.5%). The size of the lesions varied, with the majority being 4-10 cm (58.9%). Altered mastication, impaired swallowing, slurred speech, nerve damage, malocclusion and mouth opening kinematics are the functional sequelae that have a significant association with surgical type in our study. Also, facial asymmetry, atrophy, mandibular deviation and the presence of a scar are the aesthetic sequelae that have a significant association with surgical type in our study. Regarding the histological diagnosis, ameloblastoma showed a significant association with the aesthetic and functional sequalae in our study.",
+      "objective": "was to describe and compare the sequalae in patients operated upon for a benign jaw tumor as a function of the type of surgery and the histology. We carried out a cross-sectional analytic study in the Maxillofacial Surgery Department of the Yaoundé Central Hospital. Any patient who had undergone surgery for a benign tumor at the Maxillofacial Surgery Department of the Yaoundé Central Hospital presenting histological evidence was included in our study. Patients lost to follow-up, deceased and patients who did not give their consent were excluded. Additionally, we used the 2022 WHO (World Health Organization) classification of head and neck tumors for our histological diagnosis. We retained 39 patients in our study with a sex ratio of 0.69 and an age range from 14 to 71 years. The mean age was 36.18 ± 15.38 years. With respect to the tumor location in our patients, the majority were on the right side (56.4%) and on the mandible (79.5%). The size of the lesions varied, with the majority being 4-10 cm (58.9%). Altered mastication, impaired swallowing, slurred speech, nerve damage, malocclusion and mouth opening kinematics are the functional sequelae that have a significant association with surgical type in our study. Also, facial asymmetry, atrophy, mandibular deviation and the presence of a scar are the aesthetic sequelae that have a significant association with surgical type in our study. Regarding the histological diagnosis, ameloblastoma showed a significant association with the aesthetic and functional sequalae in our study.",
+      "study_methods": "We carried out a cross-sectional analytic study in the Maxillofacial Surgery Department of the Yaoundé Central Hospital. Any patient who had undergone surgery for a benign tumor at the Maxillofacial Surgery Department of the Yaoundé Central Hospital presenting histological evidence was included in our study. Patients lost to follow-up, deceased and patients who did not give their consent were excluded. Additionally, we used the 2022 WHO (World Health Organization) classification of head and neck tumors for our histological diagnosis.",
+      "methods": "We carried out a cross-sectional analytic study in the Maxillofacial Surgery Department of the Yaoundé Central Hospital. Any patient who had undergone surgery for a benign tumor at the Maxillofacial Surgery Department of the Yaoundé Central Hospital presenting histological evidence was included in our study. Patients lost to follow-up, deceased and patients who did not give their consent were excluded. Additionally, we used the 2022 WHO (World Health Organization) classification of head and neck tumors for our histological diagnosis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery",
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41970315/",
+      "pmcid": "PMC13068787",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13068787/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13068787/bin/gr1.gif"
+      ]
+    },
+    {
       "pmid": "41943819",
       "title": "The therapeutic window: timing dentoalveolar surgery to minimize MRONJ risk in denosumab-treated osteoporotic patients.",
       "authors": [
@@ -1371,86 +1480,6 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41855674/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41852465",
-      "title": "Ectopic nasal tooth: A clinical case report.",
-      "authors": [
-        "Afakire Jihad",
-        "Laraj Wafae",
-        "Taha Hiba",
-        "El Zouiti Zainab",
-        "Eabdenbi Tsen Adil"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "Ectopic eruption of a tooth into the nasal cavity is a rare odontogenic anomaly with unclear etiopathogenesis, potentially involving developmental, genetic, or environmental factors. We report the case of a 27-year-old woman presenting with unilateral nasal discomfort and foul-smelling discharge, caused by a supernumerary tooth in the left nasal cavity. Computed tomography confirmed the diagnosis and provided detailed information on tooth orientation, bony anchorage, and relationships with adjacent structures. Surgical extraction was performed via a transoral vestibular approach, chosen due to the inferior position of the tooth and its proximity to the posterosuperior hard palate. Postoperative recovery was uneventful, with complete resolution of symptoms and satisfactory healing. This case highlights the critical role of computed tomography in preoperative planning and demonstrates that, while endoscopic transnasal extraction is minimally invasive and commonly used, it may be limited or contraindicated for teeth that are inferiorly positioned, partially anchored, or adjacent to delicate structures, where the risk of mucosal injury or incomplete removal is higher. In such cases, the transoral vestibular approach provides a safe and effective alternative, allowing en bloc extraction with controlled mucosal protection and individualized surgical strategy. By combining detailed radiologic assessment with tailored surgical planning, this report provides valuable guidance for the management of rare intranasal supernumerary teeth.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41852465/",
-      "pmcid": "PMC12993185",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12993185/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12993185/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12993185/bin/gr3.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12993185/bin/gr4.jpg"
-      ]
-    },
-    {
-      "pmid": "41819650",
-      "title": "Nutrition impact symptoms 6-12 months post-burn injury - A single-cohort longitudinal study.",
-      "authors": [
-        "Josefin Dimander",
-        "Agneta Andersson",
-        "Fredrik Huss",
-        "Catarina Lindqvist"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "This study aimed to investigate long-term prevalence of nutrition impact symptoms, such as appetite and eating-related issues that may impede food intake, in patients with minor and major burn injuries. In this prospective longitudinal cohort study, 60 adults participated. Two questionnaires, the Disease-Related Appetite Questionnaire (DRAQ-burn) and the Eating Symptom Questionnaire (ESQ-burn), were completed during follow-up visits at 6 and 12 months post trauma. Median burn extent was 4.5% in the minor burn group and 24.0% in the major burn group. At six months, the median number of symptoms reported in DRAQ-burn was 2.0 for all patients; at 12 months, it was 1.0 for minor burns and 1.5 for major burns. Reported symptoms in the ESQ-burn remained stable at a median of 1.0 across both time points and burn severities. Most frequently reported symptoms included fluctuation in appetite/eating, never/rarely feeling hungry, tiredness affecting appetite/eating, and nausea. No statistically significant differences were found between burn severity groups or over time. Overall, although the nutrition impact symptoms were reported to be more mild than severe in nature, they persisted for up to a year post burn, highlighting the need for ongoing nutritional follow-up to mitigate the risk of malnutrition.",
-      "objective": "",
-      "study_methods": "In this prospective longitudinal cohort study, 60 adults participated. Two questionnaires, the Disease-Related Appetite Questionnaire (DRAQ-burn) and the Eating Symptom Questionnaire (ESQ-burn), were completed during follow-up visits at 6 and 12 months post trauma.",
-      "methods": "In this prospective longitudinal cohort study, 60 adults participated. Two questionnaires, the Disease-Related Appetite Questionnaire (DRAQ-burn) and the Eating Symptom Questionnaire (ESQ-burn), were completed during follow-up visits at 6 and 12 months post trauma.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41819650/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41818929",
-      "title": "Construct validity, comparator design, and reporting standards for LLM-based decision support in head and neck oncology.",
-      "authors": [
-        "Carlos Fernando Mourão",
-        "Luiz Eduardo Juliasse",
-        "Rodrigo Dos Santos Pereira"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41818929/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2047,6 +2076,159 @@
       ]
     },
     {
+      "pmid": "40223297",
+      "title": "Food Texture Preference and Oral Clefts: A New Perspective from a Case-Control Study.",
+      "authors": [
+        "Melanie F Alazzam",
+        "Soaad Daoud",
+        "Suhad Aljundi",
+        "Hanan Hammouri",
+        "Abdullah Al-Halholi",
+        "Karina Alhashlamon",
+        "Ma'amon Rawashdeh",
+        "John Van Aalst"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "ObjectiveAccording to food texture preference (FTP), children can be categorized as soft likers (SL) or hard likers. This study explored the relationship between FTP and having an oral cleft in children of the mixed dentition stage. The hypothesis stated that having an oral cleft phenotype would shift a child's FTP toward soft-food textures.DesignA case-control study that employed a validated child food texture preference questionnaire (CFTPQ) to assess FTP. Children's general demographics, food neophobia, and food intake data were collected using validated questionnaires. A pediatric dentist evaluated the children's dental status.SettingData was collected in a dental teaching center and 5 public schools for cases and controls, respectively.ParticipantsThis study included 6- to 13-year-old children with treated oral clefts (n = 87) and their non-cleft peers (n = 413).Main outcome measureCFTPQ index.ResultsCases demonstrated a significantly lower mean CFTPQ index (31.97 ± 16.20) compared to controls (42.07 ± 16.42, P < .001). A total of 45 cases (51%) and 94 (23%) controls were identified as SL (P < .001). Cases were more food neophobic (42.67 ± 9.03) compared to controls (39.03 ± 11.62, P = .002). The final linear regression model identified age and oral cleft phenotype as variables of significant impact on FTP. Moreover, the cleft type, the type, and the number of surgical interventions received did not significantly influence their FTP.ConclusionsThis study offers new insight into a potential relationship between FTP and oral clefts in 6- to 13-year-old children. Children with cleft lip and/or palate demonstrate a preference for soft food textures and are more food-neophobic compared to their non-cleft counterparts.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Cases demonstrated a significantly lower mean CFTPQ index (31.97 ± 16.20) compared to controls (42.07 ± 16.42, P < .001). A total of 45 cases (51%) and 94 (23%) controls were identified as SL (P < .001). Cases were more food neophobic (42.67 ± 9.03) compared to controls (39.03 ± 11.62, P = .002). The final linear regression model identified age and oral cleft phenotype as variables of significant impact on FTP. Moreover, the cleft type, the type, and the number of surgical interventions received did not significantly influence their FTP.ConclusionsThis study offers new insight into a potential relationship between FTP and oral clefts in 6- to 13-year-old children. Children with cleft lip and/or palate demonstrate a preference for soft food textures and are more food-neophobic compared to their non-cleft counterparts.",
+      "conclusion": "This study offers new insight into a potential relationship between FTP and oral clefts in 6- to 13-year-old children. Children with cleft lip and/or palate demonstrate a preference for soft food textures and are more food-neophobic compared to their non-cleft counterparts.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40223297/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41975375",
+      "title": "The association between sleep quality and postoperative pain after half-impacted mandibular third molar extraction: comparison of three statistical models.",
+      "authors": [
+        "Liwei Hu",
+        "Chengzhi Zhao",
+        "Ting Wang",
+        "Chengyu Xue",
+        "Shuangling Wang",
+        "Chunlan Liu",
+        "Tingting Zhang",
+        "Xingfeng Lu",
+        "Yubin Cao",
+        "Jian Pan"
+      ],
+      "publication_date": "2026-Apr-13",
+      "publication_date_iso": "2026-04-13",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41975375/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41975127",
+      "title": "A case of pseudoaneurysm of the descending palatine artery after orthognathic surgery.",
+      "authors": [
+        "Yuta Kanno",
+        "Shigeru Yamano",
+        "Tomoka Shima",
+        "Akiko Takeuchi",
+        "Hiroyuki Kameda",
+        "Masaaki Suzuka",
+        "Nanami Iwai",
+        "Daisuke Yoshida",
+        "Kazuyuki Minowa"
+      ],
+      "publication_date": "2026-Apr-13",
+      "publication_date_iso": "2026-04-13",
+      "abstract": "Orthognathic surgery is widely performed to correct dentofacial deformities and is generally associated with a low risk of vascular complications. This report describes a case of pseudoaneurysm of the descending palatine artery following orthognathic surgery. The patient was a woman in her 50s who was diagnosed with dentofacial deformity and underwent orthognathic surgery involving both the maxilla and mandible. Postoperatively, she developed recurrent epistaxis that was difficult to control. Dynamic contrast-enhanced computed tomography and angiography were performed to identify the source of bleeding and revealed a pseudoaneurysm that was treated successfully by endovascular embolization. The etiology of bleeding after orthognathic surgery, including pseudoaneurysm formation, remains incompletely understood. In this case, substantial posterior repositioning of the maxilla was performed. Although there is a suggestion of a correlation between the extent of repositioning of bone fragments and vascular injury, this association has yet to be confirmed by large-scale studies. Preoperative computed tomography in this case also demonstrated calcification in the carotid arteries, suggesting underlying arteriosclerosis. In orthopedic surgery involving the lower limbs, iatrogenic arterial injury occurs more often in patients with atherosclerosis, implicating arterial fragility as a contributing factor. Decreased arterial elasticity as a result of atherosclerosis may increase the risk of vascular injury during orthognathic procedures. Although no definitive association has been established between atherosclerosis and vascular complications such as pseudoaneurysm, preoperative imaging findings may provide valuable information when assessing risk factors for postoperative complications.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "of atherosclerosis may increase the risk of vascular injury during orthognathic procedures. Although no definitive association has been established between atherosclerosis and vascular complications such as pseudoaneurysm, preoperative imaging findings may provide valuable information when assessing risk factors for postoperative complications.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41975127/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41974184",
+      "title": "Prior-guided craniofacial soft-tissue reconstruction from CBCT under acquisition uncertainty via identity-quantized shape priors.",
+      "authors": [
+        "Mingzhang Chen",
+        "Jiasong Wu",
+        "Luwei Liu",
+        "Han Bao",
+        "Ye Cao",
+        "Qingmo Sun",
+        "Lofti Senhadji",
+        "Huazhong Shu",
+        "Bin Yan"
+      ],
+      "publication_date": "2026-Apr-13",
+      "publication_date_iso": "2026-04-13",
+      "abstract": "Cone-beam computed tomography (CBCT) suffers from low soft-tissue contrast and metal artifacts, yielding noisy and incomplete soft-tissue surface observations that limit craniofacial modeling for surgical planning. This study aims to reconstruct identity-preserving facial soft-tissue surfaces from CBCT-derived sparse surface evidence for clinical decision support. We propose a prior-guided reconstruction framework that introduces identity quantization as an anatomical shape prior to regularize an inherently underdetermined inference problem. By embedding residual vector quantization (RVQ) within a hierarchical encoder, we learn a discrete identity codebook that improves robustness to acquisition-induced outliers and missing regions while preserving patient-specific anatomical structure. A continuous style branch captures fine-scale details, and the two representations are fused to generate detailed meshes. Evaluation on 490 subjects, including 50 test cases, shows that our method achieves a 34-point landmark distance of 1.53 mm. Geometric accuracy is confirmed with an L1 Chamfer distance of 1.13 mm and normal consistency of 0.98. A prospective expert study reveals high clinical acceptance, with geometric accuracy rated 4.27±0.53. By incorporating an explicit anatomical prior to regularize reconstruction under acquisition uncertainty, our method improves the clinical usability of CBCT-based soft-tissue surface modeling for orthognathic surgery planning.",
+      "objective": "to reconstruct identity-preserving facial soft-tissue surfaces from CBCT-derived sparse surface evidence for clinical decision support. We propose a prior-guided reconstruction framework that introduces identity quantization as an anatomical shape prior to regularize an inherently underdetermined inference problem. By embedding residual vector quantization (RVQ) within a hierarchical encoder, we learn a discrete identity codebook that improves robustness to acquisition-induced outliers and missing regions while preserving patient-specific anatomical structure. A continuous style branch captures fine-scale details, and the two representations are fused to generate detailed meshes. Evaluation on 490 subjects, including 50 test cases, shows that our",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41974184/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41973327",
+      "title": "Optimization of dental implant imaging using photon-counting detector computed tomography in oral and maxillofacial surgery: an ex vivo study.",
+      "authors": [
+        "Adib Al-Haj Husain",
+        "Tristan T Demmert",
+        "Konstantin Klambauer",
+        "Philipp Maintz",
+        "Thomas Flohr",
+        "Harald Essig",
+        "Maximilian Eberhard Hermann Wagner",
+        "Sameena Sandhu",
+        "Egon Burian",
+        "Bernd Stadlinger",
+        "Hatem Alkadhi",
+        "Victor Mergen"
+      ],
+      "publication_date": "2026-Apr-13",
+      "publication_date_iso": "2026-04-13",
+      "abstract": "To determine optimal reconstruction parameters for dental implant imaging using photon-counting detector CT (PCD-CT), including ultra-high-resolution (UHR) images, virtual monoenergetic images (VMI), and iterative metal artifact reduction (iMAR). In this ex vivo study, six pig mandibles were prepared with two titanium-based implants and imaged on a PCD-CT. Scans were reconstructed as UHR images and VMI from 70-190 keV at 10 keV increments with and without iMAR. Two independent readers qualitatively evaluated image quality and artifact severity using five-point visual rating scales (5 = excellent, no or minimal artifacts; and 1 = very poor, non-diagnostic, severe artifacts). Two readers quantified artifact severity, defined as the standard deviations in attenuation in regions of interest adjacent to the implants. UHR images without iMAR yielded high image quality (median 5 for both readers) with minor artifact severity (median 4 for both), whereas iMAR reduced image quality (median 3 for both). VMI without iMAR showed decreasing artifacts at higher energy levels. VMI at 120-130 keV achieved optimal image quality (median 5 for both readers at 120 keV, and medians 4 and 5 at 130 keV) with minimal artifacts (median 5 for both), whereas iMAR reduced quality. Quantitative artifact burden decreased with higher energy levels (from 200 HU at 70 keV to 113 HU at 190 keV), and no improvement was observed using iMAR. PCD-CT effectively reduces metal-induced artifacts in dental implant imaging, with UHR images and VMI at 120-130 keV providing optimal image quality, while reconstructions with iMAR offered no further benefit. PCD-CT provides excellent dental implant visualization while minimizing the impact of metal artifacts. In this ex vivo study, ultra-high-resolution images and virtual monoenergetic images at 120-130 keV from PCD-CT effectively reduce metal artifacts from dental implants. Effective artifact reduction offers excellent visualization of the bone-implant interface. Iterative metal artifact reduction (iMAR) did not provide additional benefit for visualization of the bone-implant interface.",
+      "objective": "",
+      "study_methods": "In this ex vivo study, six pig mandibles were prepared with two titanium-based implants and imaged on a PCD-CT. Scans were reconstructed as UHR images and VMI from 70-190 keV at 10 keV increments with and without iMAR. Two independent readers qualitatively evaluated image quality and artifact severity using five-point visual rating scales (5 = excellent, no or minimal artifacts; and 1 = very poor, non-diagnostic, severe artifacts). Two readers quantified artifact severity, defined as the standard deviations in attenuation in regions of interest adjacent to the implants.",
+      "methods": "In this ex vivo study, six pig mandibles were prepared with two titanium-based implants and imaged on a PCD-CT. Scans were reconstructed as UHR images and VMI from 70-190 keV at 10 keV increments with and without iMAR. Two independent readers qualitatively evaluated image quality and artifact severity using five-point visual rating scales (5 = excellent, no or minimal artifacts; and 1 = very poor, non-diagnostic, severe artifacts). Two readers quantified artifact severity, defined as the standard deviations in attenuation in regions of interest adjacent to the implants.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41973327/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41966820",
       "title": "Association of Transmucosal Emergence Geometry and Peri-Implant Diseases Prevalence Around Bone- and Tissue-Level Implants: A Cross-Sectional Study.",
       "authors": [
@@ -2551,192 +2733,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41954541/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41951391",
-      "title": "Mapping the evidence on dental prostheses and cardiovascular events: A scoping review.",
-      "authors": [
-        "Monika Werdiningsih",
-        "En-Chih Weng",
-        "Yoko Hasegawa",
-        "Ma Therese Sta Maria",
-        "Yasuharu Tabara"
-      ],
-      "publication_date": "2026-Apr-07",
-      "publication_date_iso": "2026-04-07",
-      "abstract": "This scoping review aimed to map and summarize existing evidence on the association between dental prosthesis use and cardiovascular events, highlighting current trends, methodological heterogeneity, and knowledge gaps to guide future research. This scoping review followed the methodologies described by the Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) and the Joanna Briggs Institute (JBI). Literature searches were performed using the PubMed, Cochrane Library, and Google Scholar databases on November 10, 2024. Eligible studies included observational studies involving adults with diagnosed or undiagnosed cardiovascular disease (CVD) who use dental prostheses (removable, fixed, or implant-supported). Data were extracted and synthesized descriptively to map existing evidence. Seven studies were included: six cohort studies and one cross-sectional study. A cross-sectional study reported higher odds of angina, heart failure, and stroke among prosthesis users, whereas another cohort study found no significant association between recurrent myocardial infarction and stroke. Among the cohort studies assessing cardiovascular-related mortality, four reported a lower mortality risk among prosthesis users, while two observed a higher risk, particularly among complete or mixed-prosthesis users. Overall, the findings were inconsistent owing to methodological and population differences across studies. This review mapped and summarized existing evidence on the association between dental prosthesis use and cardiovascular events. The available evidence remains limited, inconclusive, and heterogeneous, with variations in study design and confounder adjustments hindering clear interpretation. Further longitudinal studies using standardized methods are required to clarify these associations through interdisciplinary research.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41951391/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41947119",
-      "title": "Oral cancer knowledge, attitudes, and practices among dentists in Kabul, Afghanistan.",
-      "authors": [
-        "Ahmad Khalid Aalemi",
-        "Ahmad Shekib Sobat",
-        "Fariha Kamal",
-        "Noor Ahmad Shah Noor",
-        "Alison K Wright"
-      ],
-      "publication_date": "2026-Apr-07",
-      "publication_date_iso": "2026-04-07",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41947119/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41945298",
-      "title": "ASO Visual Abstract: Reducing Plastic Surgery's Silicone Footprint-Modeling Shipping Costs for Breast Implants and Tissue Expanders.",
-      "authors": [
-        "Tara D Thomason",
-        "Jenny A Foster",
-        "Chanel R Varney",
-        "Alexandria M Mullikin",
-        "J Andres Hernandez",
-        "Pranav N Haravu",
-        "Brett T Phillips"
-      ],
-      "publication_date": "2026-Apr-07",
-      "publication_date_iso": "2026-04-07",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41945298/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41945212",
-      "title": "Correction to: Evaluation of the composite materials mixed with calcium phosphate cement and β-tricalcium phosphate granules.",
-      "authors": [
-        "Eri Yumoto",
-        "Hironori Sakai",
-        "Yang Liu",
-        "Jianping Liu",
-        "Ryo Okaniwa",
-        "Ryo Kajihara",
-        "Hirokazu Tanaka",
-        "Hiroshi Kurita"
-      ],
-      "publication_date": "2026-Apr-07",
-      "publication_date_iso": "2026-04-07",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41945212/",
-      "pmcid": "PMC13057084",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41941653",
-      "title": "Cleft related facial skeletal surgery: an update.",
-      "authors": [
-        "Karandeep Singh Randhawa",
-        "Alexander Graf",
-        "Sherard Tatum"
-      ],
-      "publication_date": "2026-Apr-06",
-      "publication_date_iso": "2026-04-06",
-      "abstract": "This review provides a comprehensive update on advancements and evolving paradigms in cleft-related facial skeletal surgery. It evaluates recent literature concerning the integration of artificial intelligence in surgical prediction, optimal orthognathic surgical sequencing, the utility of virtual surgical planning (VSP) and patient-specific implants (PSIs), strategies for managing skeletal surgery related velopharyngeal insufficiency (VPI) and airway patency, the evolution of alveolar bone grafting (ABG) techniques, and the increasing emphasis on patient-reported outcome measures (PROMs). Recent studies demonstrate that machine learning models utilizing preadolescent cephalometric data can predict the need for orthognathic surgery with high accuracy (over 83%). The implementation of 3D VSP has validated the mandible-first surgical sequence and significantly improved occlusal accuracy while reducing preoperative planning time. While PSIs reduce skeletal relapse in large maxillary advancements (>10 mm), they carry a higher risk of hardware removal compared to conventional plates. Regarding speech and airway management, safe maxillary advancement thresholds have been established to minimize VPI risk, and preserving prior pharyngeal flaps during surgery, if possible, is highly recommended to prevent speech deterioration. In alveolar reconstruction, synthetic grafts and allografts combined with osteogenic agents (like rhBMP-2) are showing success rates comparable to traditional iliac cancellous autografts, with a marked shift toward earlier intervention (ages 4-8) and outpatient procedures. Finally, while orthognathic surgery significantly improves psychosocial well being and facial aesthetics, significant disparities in care access persist based on insurance status and geopolitical factors. The landscape of cleft-related facial skeletal surgery is rapidly advancing through the integration of artificial intelligence, 3D digital planning, and novel biomaterials. These innovations allow for earlier, more accurate surgical predictions, reduced operative morbidity, and enhanced long-term skeletal stability. Balancing structural advancements with airway and speech preservation remains a delicate, patient-specific process. Ultimately, while surgical and technological refinements continue to optimize functional and aesthetic results, addressing socioeconomic barriers is critical to ensuring timely care and maximizing health-related quality of life for all cleft patients.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": ", addressing socioeconomic barriers is critical to ensuring timely care and maximizing health-related quality of life for all cleft patients.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41941653/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41941101",
-      "title": "Lower lip inclination and chin prominence: interactive effects on facial aesthetics and implications for orthognathic treatment planning.",
-      "authors": [
-        "Zhipeng Gui",
-        "Yueyang Hong",
-        "Lei Hou",
-        "Jiali Sun",
-        "Jialiang Huang",
-        "Mengmeng Lu"
-      ],
-      "publication_date": "2026-Apr-06",
-      "publication_date_iso": "2026-04-06",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41941101/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41940927",
-      "title": "Anthropometric Analysis of Nasal Widening Following Bimaxillary Orthognathic Surgery.",
-      "authors": [
-        "Merve Ozturk Muhtar",
-        "Yey Ozkeskin Sabahat Zeynep",
-        "Osman Kucukcakir",
-        "Keskin Yalcin Basak",
-        "Erol Cansiz"
-      ],
-      "publication_date": "2026-Apr-06",
-      "publication_date_iso": "2026-04-06",
-      "abstract": "Orthognathic surgery aims to improve jaw function and aesthetics, but these procedures can also cause undesired changes in the nasal region, a crucial component of facial appearance. An alar cinch suture has been proposed to mitigate such nasal widening. This study aimed to evaluate changes in the interalar distance (distance between the right and left alar curvature points) and alar base distance (distance between the right and left alar base points) in patients who underwent bimaxillary orthognathic surgery with an alar cinch suture. This retrospective study included patients who underwent bimaxillary orthognathic surgery at the Istanbul University Faculty of Dentistry Department of Oral and Maxillofacial Surgery from 2012 to 2018. Interalar and alar base distances were measured on standardized frontal photographs taken preoperatively and at 6 months postoperatively. Statistical evaluation was performed using nonparametric methods, including the Wilcoxon signed-rank test applied for preoperative and postoperative comparisons and Spearman rho used to assess correlations, with the significance level set at P<0.05. The interalar distance increased significantly from preoperative to postoperative measurements (median value: 8.04%; mean change: 7.33±5.38%; P=0.001). Similarly, the alar base distance showed a significant increase from preoperative to postoperative measurements (median value: 11.90%, mean change: 12.49±9.57%; P=0.001). No statistically significant correlation was found between the percentage changes in interalar and alar base distances (Spearman ρ=0.201, P=0.359). A tendency toward nasal soft tissue widening was noted after Le Fort I advancement, despite alar cinch suture application.",
-      "objective": "to improve jaw function and aesthetics, but these procedures can also cause undesired changes in the nasal region, a crucial component of facial appearance. An alar cinch suture has been proposed to mitigate such nasal widening. This study aimed to evaluate changes in the interalar distance (distance between the right and left alar curvature points) and alar base distance (distance between the right and left alar base points) in patients who underwent bimaxillary orthognathic surgery with an alar cinch suture. This retrospective study included patients who underwent bimaxillary orthognathic surgery at the Istanbul University Faculty of Dentistry Department of Oral and Maxillofacial Surgery from 2012 to 2018. Interalar and alar base distances were measured on standardized frontal photographs taken preoperatively and at 6 months postoperatively. Statistical evaluation was performed using nonparametric",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41940927/",
       "pmcid": "",
       "figure_urls": []
     }
