@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T04:49:18Z",
+  "updated_at": "2026-04-15T04:49:26Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1183,6 +1183,29 @@
       "figure_urls": []
     },
     {
+      "pmid": "41978223",
+      "title": "Innovative Approaches for Utilizing the Fibula Flap Skin Paddle in the Presence of Alternate Vessel Anatomy-A Report of Three Clinical Cases.",
+      "authors": [
+        "Andrew Atia",
+        "Peirong Yu"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "The fibula free flap is a versatile option for reconstructing complex defects, particularly in the head and neck region. However, variations in the vascular anatomy of the skin paddle can pose challenges during flap harvest and inset. We identified three clinical cases of patients who were found to have alternative or aberrant vessel anatomy to the fibula skin paddle. Operative notes and photo documentation were used to determine variations in vessel anatomy to the fibula skin paddle. A total of three cases were identified in which alternative or aberrant vessel anatomy was noted to the fibula skin paddle. Variations identified included skin paddle perfusion via a perforating branch of the posterior tibial artery, a perforating branch of the tibioperoneal trunk, and absence of distal perfusion requiring use of a proximal peroneal artery perforator. There were no cases of partial or total flap loss or incidences of reoperation. These findings illustrate that awareness of potential vascular variations and management strategies, such as identifying alternative vascular sources and utilizing flow-through flaps or freestyle perforator flaps, can help to successfully harvest and inset the fibula skin paddle in the presence of alternate vessel anatomy. An alternate donor site may be necessary when no suitable perforators are identified.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41978223/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41970315",
       "title": "Maxillofacial sequelae as a function of treatment type and histology in benign jaw tumors.",
       "authors": [
@@ -2101,6 +2124,51 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40223297/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41980086",
+      "title": "Enhancer-directed gene delivery for digit regeneration based on conserved epidermal factors.",
+      "authors": [
+        "David A Brown",
+        "Katja K Koll",
+        "Erin Brush",
+        "Grant Darner",
+        "Timothy Curtis",
+        "Thomas Dvergsten",
+        "Melissa Tran",
+        "Colleen Milligan",
+        "David W Wolfson",
+        "Trevor J Gonzalez",
+        "Sydney Jeffs",
+        "Alyssa Ehrhardt",
+        "Rochelle Bitolas",
+        "Madeleine Landau",
+        "Kendall Reitz",
+        "David S Salven",
+        "Leslie A Slota-Burtt",
+        "Isabel Snee",
+        "Elena Singer-Freeman",
+        "Sayuri Bhatia",
+        "Jianhong Ou",
+        "Aravind Asokan",
+        "Joshua D Currie",
+        "Kenneth D Poss"
+      ],
+      "publication_date": "2026-Apr-28",
+      "publication_date_iso": "2026-04-28",
+      "abstract": "Limb loss remains a significant clinical challenge, but regenerative medicine approaches such as gene therapy offer a promising strategy to trigger endogenous regeneration programs. Optimal vector configurations and molecular targets for appendicular skeletal repair are not well defined. Here, we leveraged insights from species with a high endogenous capacity for appendage regeneration to design an enhancer-directed gene delivery platform that functions during mouse digit regeneration, a well-characterized model for partial limb regeneration in mammals. Single-cell RNA sequencing of zebrafish caudal fin regeneration, combined with expression data in regenerating salamander limbs and mouse digit tips, implicated the SP family of transcription factors as conserved, epidermally expressed mediators of appendage regrowth. Null mutants of Sp8 demonstrated impaired limb regeneration in salamanders, while conditional knockout of Sp6 and/or Sp8 in the mouse basal epidermis resulted in defective bony digit tip regeneration, involving an IL-17-mediated osteoclastogenic program. Spatiotemporally focused expression of FGF8, a known target of SP factors, using a zebrafish-derived tissue regeneration enhancer element via adeno-associated viral vectors, could partially rescue digit tip regeneration in SP knockout mice and accelerate digit regeneration in wild-type mice. Our results demonstrate a contextual gene therapy approach to address limb loss based on genes like SP transcription factors conserved across multiple contexts of appendage regeneration.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ed in defective bony digit tip regeneration, involving an IL-17-mediated osteoclastogenic program. Spatiotemporally focused expression of FGF8, a known target of SP factors, using a zebrafish-derived tissue regeneration enhancer element via adeno-associated viral vectors, could partially rescue digit tip regeneration in SP knockout mice and accelerate digit regeneration in wild-type mice. Our results demonstrate a contextual gene therapy approach to address limb loss based on genes like SP transcription factors conserved across multiple contexts of appendage regeneration.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41980086/",
       "pmcid": "",
       "figure_urls": []
     },
