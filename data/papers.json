@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T04:55:08Z",
+  "updated_at": "2026-04-17T04:53:00Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -694,6 +694,33 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022637/bin/gr1.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022637/bin/gr1.gif"
       ]
+    },
+    {
+      "pmid": "41893871",
+      "title": "Integrated Workflow Finite Element Modeling of the Temporomandibular Joint: Toward a Methodical and Reproducible Approach.",
+      "authors": [
+        "Lilian Baugnon",
+        "Romain Nicot",
+        "Nicolas Bethune",
+        "Pauline Lecomte-Grosbras",
+        "Jean-François Witz",
+        "Olivier Mayeur"
+      ],
+      "publication_date": "2026-Jun-01",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "This study presents a patient-specific parametric model of the temporomandibular joint, designed to be semi-automated, and reproducible for multiple patients. The numerical model is used to evaluate mandibular stress distribution under different interaction and loading conditions. The main contribution is to demonstrate the feasibility of an integrated, fast, and streamlined workflow for generating accurate biomechanical models tailored to each patient. The proposed method, which relies on standard clinical images complemented by artificial intelligence-assisted segmentation of bone and muscles, enables the integration of patient-specific anatomical features and mechanical variability. A finite element model of the skull, mandible, teeth, and articular disks was constructed from calibrated computed tomography data. Material properties were automatically assigned using Hounsfield units, distinguishing between cortical bone, cancellous bone, and dental tissue. Sensitivity of key modeling parameters (mesh density, material, friction coefficients, muscle force vectors) was evaluated using abaqus/standard. Hounsfield-units-driven material assignment provides a Young modulus distribution aligned with the literature, while maintaining patient specificity. Artificial intelligence-based muscle reconstruction reveals that stress fields stabilize with increased directional vector refinement, reinforcing biomechanical accuracy and confirming the necessity of multivector muscle loading. This patient-specific parametric model accurately reproduces the distribution of mandibular stresses and offers a promising tool for surgical planning, pathology simulation, and the evaluation of personalized treatment strategies.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41893871/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41853327",
@@ -1478,31 +1505,29 @@
       ]
     },
     {
-      "pmid": "41855674",
-      "title": "Health-related quality of life after free flap reconstruction of maxillary defects: a systematic review and meta-analysis.",
+      "pmid": "41834225",
+      "title": "Treatment Outcome of Surgical Protocols for Peri-Implantitis: A Retrospective Cohort Study in a Specialised University Centre.",
       "authors": [
-        "Susanna W L de Geus",
-        "Johannes N van der Lely",
-        "Anthony M Tonsbeek",
-        "Caroline A Hundepool",
-        "Josephine M Visser",
-        "Raoul F Crooijmans",
-        "Brend P Jonker",
-        "Marc A M Mureau"
+        "Wenjie Zhou",
+        "Ausra Ramanauskaite",
+        "Clemens Raabe",
+        "Emilio A Cafferata",
+        "Neelam Lingwal",
+        "Frank Schwarz"
       ],
       "publication_date": "2026-May",
       "publication_date_iso": "2026-05-01",
-      "abstract": "Data addressing health-related quality of life (HRQOL) following maxillary reconstruction with free flaps remain scarce. Insight into these outcomes is essential for clinical decision-making. A systematic review of Medline, Embase, Web of Science, Cochrane, and Google Scholar was performed for publications on HRQOL after free flap reconstruction of maxillary defects following tumor resection or osteoradionecrosis. A meta-analysis was conducted using pooled estimates and random-effect models. In total, 5,818 unique articles were screened, 123 underwent full-text review, and 7 studies comprising 196 patients were included. Most studies used the UW-QoL (42.9%) or EORTC QLQ-H&N35 (42.9%); one used the FACE-Q Head and Neck Cancer Module. Meta-analyses revealed consistent pronounced impairments in functional domains. In the EORTC QLQ-H&N35, highest symptom burdens were observed for dry mouth, mouth opening, speech, and social eating, while pain and social contact were less affected. Lowest domain scores in UW-QoL were seen for chewing, appearance, and activity. FACE-Q results corroborated these findings, with lowest scores for eating, drinking, oral competence, and salivation. Psychosocial domains such as pain, social contact, and cancer worry were less affected. One study reported significantly better HRQOL outcomes with virtual surgical planning assisted reconstruction compared to conventional planning. Functional impairments were the most consistently patient-reported symptoms following maxillary free flap reconstruction. There is a need for well-designed, adequately powered studies that identify patient- and treatment-related predictors of HRQOL and compare different treatment options. Such insights could improve preoperative counseling and support shared decision-making, ultimately enabling more personalized, effective care.",
+      "abstract": "To explore the treatment outcome of surgical peri-implantitis protocols in a university-based setting. Four-hundred and six implants in 223 patients were surgically treated by four trained surgeons using open-flap debridement (OFD, 37 implants), implantoplasty (Impl, 39 implants), reconstructive surgery (Rec, 241 implants) or a combined approach (Comb, 89 implants). Treatment success after 1 year (maximum probing depth (max PD) ≤ 5 mm, bleeding on probing (BOP) at ≤ 1 site and no suppuration) was the primary outcome. Logistic regression was used to explore associations between patient-/implant-related factors, treatment modalities and treatment success, implant loss and surgical retreatment. Treatment was successful in 54.7% of implants after 1 year: OFD 62.5%, Impl 58.3%, Rec 55.4%, Comb 48.3%, with no significant group differences. Over a mean follow-up of 30.80 ± 19.62 months, 40 implants (9.9%) were lost and 38 (9.4%) required surgical retreatment. In exploratory multivariable analyses, systemic antibiotic use (pre-operative: OR = 3.54, p = 0.04; pre- and post-operative: OR = 4.49, p = 0.02) and surgeon experience (OR = 0.12, p = 0.003) showed associations with treatment success. Molar site (OR = 3.21, p = 0.03), antibiotic (pre- and post-operative: OR = 3.13, p = 0.02) and baseline suppuration (OR = 4.51, p = 0.002) were associated with implant loss. Surgical retreatment was associated with overdenture (OR = 3.59, p = 0.003) and max PD at baseline (OR = 1.30, p = 0.001). Surgical peri-implantitis outcome was associated with systemic antibiotic, surgeon, molar site, overdenture, baseline suppuration and PD.",
       "objective": "",
-      "study_methods": "A systematic review of Medline, Embase, Web of Science, Cochrane, and Google Scholar was performed for publications on HRQOL after free flap reconstruction of maxillary defects following tumor resection or osteoradionecrosis. A meta-analysis was conducted using pooled estimates and random-effect models.",
-      "methods": "A systematic review of Medline, Embase, Web of Science, Cochrane, and Google Scholar was performed for publications on HRQOL after free flap reconstruction of maxillary defects following tumor resection or osteoradionecrosis. A meta-analysis was conducted using pooled estimates and random-effect models.",
-      "results": "corroborated these findings, with lowest scores for eating, drinking, oral competence, and salivation. Psychosocial domains such as pain, social contact, and cancer worry were less affected. One study reported significantly better HRQOL outcomes with virtual surgical planning assisted reconstruction compared to conventional planning. Functional impairments were the most consistently patient-reported symptoms following maxillary free flap reconstruction. There is a need for well-designed, adequately powered studies that identify patient- and treatment-related predictors of HRQOL and compare different treatment options. Such insights could improve preoperative counseling and support shared decision-making, ultimately enabling more personalized, effective care.",
+      "study_methods": "Four-hundred and six implants in 223 patients were surgically treated by four trained surgeons using open-flap debridement (OFD, 37 implants), implantoplasty (Impl, 39 implants), reconstructive surgery (Rec, 241 implants) or a combined approach (Comb, 89 implants). Treatment success after 1 year (maximum probing depth (max PD) ≤ 5 mm, bleeding on probing (BOP) at ≤ 1 site and no suppuration) was the primary outcome. Logistic regression was used to explore associations between patient-/implant-related factors, treatment modalities and treatment success, implant loss and surgical retreatment.",
+      "methods": "Four-hundred and six implants in 223 patients were surgically treated by four trained surgeons using open-flap debridement (OFD, 37 implants), implantoplasty (Impl, 39 implants), reconstructive surgery (Rec, 241 implants) or a combined approach (Comb, 89 implants). Treatment success after 1 year (maximum probing depth (max PD) ≤ 5 mm, bleeding on probing (BOP) at ≤ 1 site and no suppuration) was the primary outcome. Logistic regression was used to explore associations between patient-/implant-related factors, treatment modalities and treatment success, implant loss and surgical retreatment.",
+      "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41855674/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41834225/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1562,6 +1587,36 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41780218/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41766407",
+      "title": "Estimating the National Burden of Potentially Avoidable Interfacility Transfer Among Patients with Isolated Facial Injury in the US.",
+      "authors": [
+        "Pawan Acharya",
+        "Russell Griffin",
+        "Madison Finch",
+        "Kristan Staudenmayer",
+        "Molly P Jarman",
+        "Sabrina D Goddard",
+        "Jan O Jansen",
+        "Jeffrey Kerby",
+        "Zain Hashmi"
+      ],
+      "publication_date": "2026-May-01",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Interfacility transfers for facial trauma are common but often avoidable. However, the magnitude of these potentially avoidable interfacility transfers (PAITs), which can strain trauma systems and incur avoidable costs to the patients, remains unknown. This study aimed to quantify the burden of PAITs for isolated facial trauma in the US. A retrospective analysis using the 2022 Nationwide Emergency Department Sample was performed. Patients aged 16 years and older with isolated facial injuries were identified using ICD-10-CM codes and the Abbreviated Injury Scale. A multiple logistic regression model was developed from level I trauma center (TC) data to predict emergency department home discharge, internally validated, and applied to transfers from level III or non-TCs to identify PAITs based on high predicted discharge probabilities. Among 856,197 patients with isolated facial trauma, 661,149 were initially treated at level III or non-TCs, of whom 2.4% were transferred to higher-level facilities. Using a Youden Index-derived predicted home discharge probability of greater than or equal to 0.946, 43.2% (95% CI 40.9% to 45.4%) of these transfers were classified as potentially avoidable. These transfers were more common among younger, male individuals, White race, those with private insurance, urban residence and those injured by being struck, treated in Southern hospitals, or private not-for-profit facilities. A substantial proportion of interfacility transfers for isolated facial trauma may be avoidable when benchmarked against discharge practices at level I TCs. These findings highlight a critical opportunity to optimize secondary triage decision-making, possibly in conjunction with telehealth consultations, before patient transfer.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41766407/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2173,6 +2228,193 @@
       "figure_urls": []
     },
     {
+      "pmid": "41991178",
+      "title": "Surgical Margins Required for the Complete Excision of Canine Oral Melanomas.",
+      "authors": [
+        "Jonathon Richard Chinner",
+        "Jovene Jia Wen Lee",
+        "Jonathan Tuke",
+        "Fui Wen Yap"
+      ],
+      "publication_date": "2026-Apr-16",
+      "publication_date_iso": "2026-04-16",
+      "abstract": "Oral malignant melanoma (OMM) is the most common canine oral neoplasm. Complete excision is recognised as the mainstay of treatment in the absence of distant metastasis, but recommended surgical margins are unvalidated. This study investigates the surgical margins required for complete excision of canine OMMs. We hypothesised that surgical margins 10-15 mm wide and a qualitative deep margin (bone, fascia or full-thickness tissue excision) would be adequate for complete local excision of OMMs. Margins required to excise canine oral melanocytomas are also unknown; a secondary objective was to investigate this. Cases were retrospectively collected from two referral centres and a veterinary pathology laboratory. Histologic diagnosis, en bloc excision of gross tumour, surgical margin and histologic margins were required for inclusion. Tumours were categorised based on surgical margin width (Group A < 10 mm, Group B 10-15 mm and Group C > 15 mm). A qualitative deep margin was required for Groups B and C, but not Group A, to include marginal excision cases. Histologic margins were classified by the R tumour classification scheme. Twenty-eight tumours were included, comprising 25 OMMs and three melanocytomas. R0 rates for OMMs were 56% (10/17) in Group A, 100% (7/7) in Group B and 100% (2/2) in Group C. Surgical margins ≥ 10 mm were significantly (p = 0.03) more likely to result in R0 classification. The three melanocytomas were all classified as R0, with < 10 mm surgical margins. Results suggest that surgical margins 10-15 mm wide and a qualitative deep margin may be adequate for complete excision of OMMs.",
+      "objective": "was to investigate this. Cases were retrospectively collected from two referral centres and a veterinary pathology laboratory. Histologic diagnosis, en bloc excision of gross tumour, surgical margin and histologic margins were required for inclusion. Tumours were categorised based on surgical margin width (Group A < 10 mm, Group B 10-15 mm and Group C > 15 mm). A qualitative deep margin was required for Groups B and C, but not Group A, to include marginal excision cases. Histologic margins were classified by the R tumour classification scheme. Twenty-eight tumours were included, comprising 25 OMMs and three melanocytomas. R0 rates for OMMs were 56% (10/17) in Group A, 100% (7/7) in Group B and 100% (2/2) in Group C. Surgical margins ≥ 10 mm were significantly (p = 0.03) more likely to",
+      "study_methods": "",
+      "methods": "",
+      "results": "in R0 classification. The three melanocytomas were all classified as R0, with < 10 mm surgical margins. Results suggest that surgical margins 10-15 mm wide and a qualitative deep margin may be adequate for complete excision of OMMs.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41991178/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41989047",
+      "title": "Evaluating pheophorbide-a as a photosensitizer in oral cancer photodynamic therapy: A systematic review.",
+      "authors": [
+        "Rafał Wiench",
+        "Jakub Fiegler-Rudol",
+        "Barbara Lipka",
+        "Sylwia Wójcik",
+        "Marta Bort",
+        "Martin Starosta",
+        "Won-Pyo Lee",
+        "Krzysztof Dowgierd",
+        "Tadeusz Morawiec"
+      ],
+      "publication_date": "2026-Apr-16",
+      "publication_date_iso": "2026-04-16",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is commonly treated with surgery, radiotherapy and chemotherapy, which often cause significant morbidity. Photodynamic therapy (PDT) has emerged as a minimally invasive alternative. Pheophorbide-a (Pa), a second-generation photosensitizer, shows promise, but has not been critically reviewed in oral malignancies. The aim of the present systematic review was to evaluate preclinical evidence on the mechanisms of action, efficacy and safety of Pa-mediated PDT (Pa-PDT) in oral oncology.A systematic search of PubMed, Embase, Scopus, and Cochrane Library was conducted in line with the PRISMA 2020 guidelines (PROSPERO ID: CRD420251066127). Eligible studies included in vitro or in vivo models using Pa-PDT in oral malignancies. Data on therapeutic outcomes, the mechanisms of action, and study quality was extracted and analyzed. Nine studies were included. Pheophorbide-a-induced photodynamic therapy consistently induced apoptosis, autophagy and endoplasmic reticulum (ER) stress through reactive oxygen species (ROS) and mitochondrial dysfunction. It also overcame multidrug resistance by downregulating HOXC6 and MDR1. Conjugation with targeting peptides, nanocarriers and immune checkpoint inhibitors enhanced selectivity and cytotoxicity.Pheophorbide-a demonstrated favorable photophysical properties, including strong red-light absorption (664-675nm), high singlet oxygen yield and minimal dark toxicity. Evidence was limited by small sample sizes, heterogeneous protocols and the absence of human trials. Pheophorbide-a-induced photodynamic therapy shows antitumor activity in preclinical OSCC models, supporting further preclinical development and carefully designed early-phase trials. Translation should proceed only within early-phase trials that directly benchmark Pa against the approved photosensitizers, using standardized protocols.",
+      "objective": "of the present systematic review was to evaluate preclinical evidence on the mechanisms of action, efficacy and safety of Pa-mediated PDT (Pa-PDT) in oral oncology.A systematic search of PubMed, Embase, Scopus, and Cochrane Library was conducted in line with the PRISMA 2020 guidelines (PROSPERO ID: CRD420251066127). Eligible studies included in vitro or in vivo models using Pa-PDT in oral malignancies. Data on therapeutic outcomes, the mechanisms of action, and study quality was extracted and analyzed. Nine studies were included. Pheophorbide-a-induced photodynamic therapy consistently induced apoptosis, autophagy and endoplasmic reticulum (ER) stress through reactive oxygen species (ROS) and mitochondrial dysfunction. It also overcame multidrug resistance by downregulating HOXC6 and MDR1. Conjugation with targeting peptides, nanocarriers and immune checkpoint inhibitors enhanced selectivity and cytotoxicity.Pheophorbide-a demonstrated favorable photophysical properties, including strong red-light absorption (664-675nm), high singlet oxygen yield and minimal dark toxicity. Evidence was limited by small sample sizes, heterogeneous protocols and the absence of human trials. Pheophorbide-a-induced photodynamic therapy shows antitumor activity in preclinical OSCC models, supporting further preclinical development and carefully designed early-phase trials. Translation should proceed only within early-phase trials that directly benchmark Pa against the approved photosensitizers, using standardized protocols.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41989047/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41989020",
+      "title": "Monitoring Nitric Oxide in Trigeminal Neuralgia Rats with a Cerium Single-Atom Nanozyme Electrochemical Biosensor.",
+      "authors": [
+        "Kangling Tian",
+        "Fuhua Li",
+        "Yuxuan Yang",
+        "Ran Chen",
+        "Shihong Chen",
+        "Wenbin Wei",
+        "Yihang Shen",
+        "Muzi Xu",
+        "Chunxian Guo",
+        "Luigi G Occhipinti",
+        "Hong Bin Yang",
+        "Fangxin Hu"
+      ],
+      "publication_date": "2026-Apr-16",
+      "publication_date_iso": "2026-04-16",
+      "abstract": "Trigeminal neuralgia (TN) is the most common neuropathic disorder; however, its pathogenesis remains unclear. A prevailing theory suggests that nitric oxide (NO) may induce nerve compression and irritation via vascular dilation, thereby being responsible for the condition, making real-time detection of generated NO critical. However, traditional evaluations of NO rely on indirect colorimetric or chemiluminescence techniques, which offer limited sensitivity and spatial resolution for its real-time assessment in biological environments. Herein, we reported the development of a highly sensitive NO electrochemical biosensor based on a cerium single-atom nanozyme (Ce1-CN) with an ultrawide linear range from 1.08 nM to 143.9 μM and an ultralow detection limit of 0.36 nM, which enables efficient and real-time evaluation of NO in TN rats. In situ attenuated total reflection surface-enhanced infrared spectroscopy combined with density functional theory calculations revealed the high-performance biosensing mechanism, whereby the Ce centers in Ce1-CN nanoenzymes adsorb NO and subsequently react with OH- to form *HNO2. Results demonstrated that NO concentration was associated with the TN onset. Following carbamazepine treatment, NO production from nerves decreased, accompanied by an alleviation of pain. These findings indicate that the biosensor serves as a valuable tool for investigating the pathogenesis of TN and guiding subsequent therapeutic strategies.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "demonstrated that NO concentration was associated with the TN onset. Following carbamazepine treatment, NO production from nerves decreased, accompanied by an alleviation of pain. These findings indicate that the biosensor serves as a valuable tool for investigating the pathogenesis of TN and guiding subsequent therapeutic strategies.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41989020/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41989000",
+      "title": "Dental Management of Persons With Haemophilia Receiving Emicizumab Prophylaxis.",
+      "authors": [
+        "Branislav V Bajkin",
+        "Miryam E Parreira",
+        "Zikra A Alkhayal"
+      ],
+      "publication_date": "2026-Apr-16",
+      "publication_date_iso": "2026-04-16",
+      "abstract": "The use of emicizumab prophylaxis among persons with haemophilia A (PwHA), both with and without inhibitors, has been increasing significantly in recent years. Nevertheless, clear recommendations remain lacking regarding the necessity and extent of perioperative adjunctive systemic haemostatic therapy for surgical procedures. Given the high frequency of dental interventions, minor oral surgical procedures, are of particular clinical relevance for these persons. This paper provides a review of the literature along with a retrospective analysis of a case series involving 10 PwHA who underwent invasive dental procedures across three centres. In cases involving permanent tooth extraction a single preoperative dose of rFVIII (for PwHA without inhibitors) or rFVIIa (for those with inhibitors) were used. The analysis indicated that extraction of primary teeth in children receiving emicizumab prophylaxis can be successfully performed without the concomitant use of systemic haemostatic agents. Only one postoperative bleeding event was observed, following a periodontal procedure, suggesting that type of procedure may pose a greater challenge in achieving adequate hemostasis due to larger bleeding area and limited possibility for the use of local haemostatic measures. A review of the literature showed that for minor oral surgical procedures, such as tooth extraction, either preoperative administration of haemostatic factor infusions or performing the procedure without factor use may be recommended. However, evidence-based data and recommendations regarding the safest management strategies remain insufficient. A multidisciplinary and individualized approach, incorporating assessment of the procedural bleeding risk, the patient's bleeding history, and strict use of local haemostatic measures remains essential.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41989000/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41988983",
+      "title": "Nonfactor Replacement Treatment and Surgery in Haemophilia: Evidence From the Literature and Selected Clinical Cases.",
+      "authors": [
+        "Christian Carulli",
+        "Giovanna Daniele",
+        "Mathangi Kumar",
+        "Aby Abraham",
+        "Giancarlo Castaman"
+      ],
+      "publication_date": "2026-Apr-16",
+      "publication_date_iso": "2026-04-16",
+      "abstract": "Over the recent years, the introduction of nonfactor replacement (NFR) prophylaxis for haemophilia has allowed to reduce the burden of treatment and to offer effective prophylaxis also for patients with inhibitors, with an excellent successful prevention of spontaneous bleeding, often approaching a median annual bleeding rates close to 0. However, patients on NRF prophylaxis require traditional replacement treatment for breakthrough bleeds and to manage especially major surgery. Real-world experiences with the use of emicizumab are accumulating, showing excellent outcomes, while these are still significantly limited data available with rebalancing agents (concizumab, marstacimab and fitusiran). The present overview is focused on surgical procedures with nonfactor replacement prophylaxis. Review of the literature and report of personal experiences with the use of emicizumab and replacement treatment during surgery. Combined used of emicizumab prophylaxis together with factor replacement in patients with Haemophilia A with and without inhibitors provided excellent results. Multiple elective orthopaedic procedures, oral and abdominal surgical interventions, and trauma surgery confirmed the feasibility of this combined approach, without significant side effects. The association of nonfactor prophylaxis with recombinant factors has provided safe, reproducible and effective results, with low rates of complications. However, the experience with rebalancing agents is still limited, and more real-world studies are needed to confirm the most appropriate approach.",
+      "objective": "",
+      "study_methods": "Review of the literature and report of personal experiences with the use of emicizumab and replacement treatment during surgery.",
+      "methods": "Review of the literature and report of personal experiences with the use of emicizumab and replacement treatment during surgery.",
+      "results": "Multiple elective orthopaedic procedures, oral and abdominal surgical interventions, and trauma surgery confirmed the feasibility of this combined approach, without significant side effects. The association of nonfactor prophylaxis with recombinant factors has provided safe, reproducible and effective results, with low rates of complications. However, the experience with rebalancing agents is still limited, and more real-world studies are needed to confirm the most appropriate approach.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41988983/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41991416",
+      "title": "Skeletal correction in craniofacial microsomia: a case series and algorithm for management.",
+      "authors": [
+        "A A Heggie",
+        "D Rao"
+      ],
+      "publication_date": "2026-Apr-15",
+      "publication_date_iso": "2026-04-15",
+      "abstract": "Craniofacial microsomia is the second most common congenital anomaly of the head and neck region. The associated facial asymmetry due to mandibular hypoplasia, whether unilateral or bilateral, is a prominent feature of the disorder. Surgical management of the skeletal deformity is dependent on the grade of severity of the affected sides. Prepubertal interventions in patients with Kaban type IIB or III include condyle-ramus reconstructions as a prelude to final orthognathic correction of the facial asymmetry and occlusion. This retrospective study of the skeletal management of 29 patients with craniofacial microsomia was conducted to outline their surgery and to suggest an algorithm for future treatment of this condition. Fourteen patients were classified as Kaban type I or II and underwent one or more orthognathic surgical procedures at the completion of growth. Fifteen patients with type IIB or III mandibular deformities had costochondral graft temporomandibular joint reconstructions. Reduced mandibular opening due to progressive ankylosis occurred in seven of these patients (47%), but this was treated successfully with release and subsequent orthognathic surgery. With the more recent addition of total joint replacement in craniofacial microsomia, there remains a wide divergence of opinion regarding early surgery. An algorithm for the management of the mandibular deformity is presented.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41991416/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41991414",
+      "title": "Customized 3D-printed surgical templates for maxillary repositioning: a systematic review.",
+      "authors": [
+        "H Y Li",
+        "K J C Lee",
+        "C W Yong",
+        "M T Chew",
+        "Y Ren"
+      ],
+      "publication_date": "2026-Apr-15",
+      "publication_date_iso": "2026-04-15",
+      "abstract": "There is a variety of three-dimensional (3D) surgical templates to improve the precision of maxillary repositioning in orthognathic surgery. The spectrum and inconsistent terminology make it difficult to compare outcomes, practices, and selecting the most suitable templates. The aim of this systematic review was to analyse the literature on 3D-printed surgical templates used in orthognathic surgery, with the goal of mapping existing approaches and proposing a classification system based on design and reported outcomes. This review is reported in accordance with the PRISMA guidelines. A comprehensive search was conducted in PubMed, Embase, and Cochrane Library. The extracted data included template design, accuracy, operative time, complications, and reported advantages or limitations. Thirty-five studies met the inclusion criteria. A classification framework is proposed based on two main types-bone-borne and tooth-bone-borne templates-and three subtypes: (1) osteotomy guides integrated with patient-specific implants, (2) osteotomy guides used with pre-bent fixation plates, and (3) osteotomy and repositioning guides used with intraoperative bending of plates. Across studies, most templates demonstrated acceptable accuracies (≤2 mm), with minimal complications reported. However, differences in workflow, instrumentation, and intraoperative flexibility were noted. The proposed classification system encompasses the diverse range of 3D-printed surgical templates reported in the literature.",
+      "objective": "of this systematic review was to analyse the literature on 3D-printed surgical templates used in orthognathic surgery, with the goal of mapping existing approaches and proposing a classification system based on design and reported outcomes. This review is reported in accordance with the PRISMA guidelines. A comprehensive search was conducted in PubMed, Embase, and Cochrane Library. The extracted data included template design, accuracy, operative time, complications, and reported advantages or limitations. Thirty-five studies met the inclusion criteria. A classification framework is proposed based on two main types-bone-borne and tooth-bone-borne templates-and three subtypes: (1) osteotomy guides integrated with patient-specific implants, (2) osteotomy guides used with pre-bent fixation plates, and (3) osteotomy and repositioning guides used with intraoperative bending of plates. Across studies, most templates demonstrated acceptable accuracies (≤2 mm), with minimal complications reported. However, differences in workflow, instrumentation, and intraoperative flexibility were noted. The proposed classification system encompasses the diverse range of 3D-printed surgical templates reported in the literature.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41991414/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41984112",
       "title": "Three-dimensional comparison of nasal changes following segmented and non-segmented Le Fort I osteotomies.",
       "authors": [
@@ -2271,7 +2513,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41980927/",
-      "pmcid": "",
+      "pmcid": "PMC13079848",
       "figure_urls": []
     },
     {
@@ -2594,34 +2836,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41963896",
-      "title": "The accuracy of robotic-assisted zygomatic implant placement: a systematic review and meta-analysis.",
-      "authors": [
-        "Shengchi Fan",
-        "Thidarat Singkhorn",
-        "Gustavo Sáenz-Ravello",
-        "Nikos Mattheos",
-        "Rubén Davó",
-        "James Chow",
-        "Bilal Al-Nawas"
-      ],
-      "publication_date": "2026-Apr-10",
-      "publication_date_iso": "2026-04-10",
-      "abstract": "This is the first systematic review and meta-analysis aimed at assessing the current status of robotic-assisted implant surgery (r-CAIS) in zygomatic implant (ZI) placement, with a particular focus on deviations between planned and placed implant positions. The review protocol was specified and registered in PROSPERO (CRD42024616949). All primary studies were considered eligible, including in vitro studies, clinical studies, and hybrid experimental-clinical studies. Electronic and manual literature searches were conducted through April 2025 in PubMed/MEDLINE, Scopus, the Cochrane Library, and Web of Science. The primary outcome was planned/placed deviation with or without other implant placement techniques. Ten studies (seven in vitro, two clinical, and one hybrid experimental-clinical) involving 185 ZIs in 83 models /patients were included. Of these, nine studies were eligible for quantitative synthesis, contributing 161 ZIs placed using r-CAIS and 97 using dynamic CAIS (d-CAIS) to the pooled mean meta-analysis. The pooled mean ZI deviations from the r-CAIS group were 1.04 mm (95% CI: 0.74-1.35 mm) at the entry point and 1.47 mm (95% CI: 1.07-1.87 mm) at the exit point, and angular deviations were 1.22° (95% CI: 0.82-1.62°). The pooled mean ZI deviations from the d-CAIS group were 1.30 mm (95% CI: 1.00-1.60 mm) at the entry point and 2.02 mm (95% CI: 1.81-2.23 mm) at the exit point, and angular deviations were 2.00° (95% CI: 1.33-2.67°). Significant differences in deviation were observed at the exit and angular levels in favor of r-CAIS. r-CAIS demonstrates significantly superior accuracy compared with d-CAIS in ZIs placement. However, as r-CAIS remains at an early stage of clinical integration and only limited clinical studies have been reported, its long-term applicability requires further validation through cadaveric and well-designed prospective clinical investigations.",
-      "objective": "",
-      "study_methods": "The review protocol was specified and registered in PROSPERO (CRD42024616949). All primary studies were considered eligible, including in vitro studies, clinical studies, and hybrid experimental-clinical studies. Electronic and manual literature searches were conducted through April 2025 in PubMed/MEDLINE, Scopus, the Cochrane Library, and Web of Science. The primary outcome was planned/placed deviation with or without other implant placement techniques.",
-      "methods": "The review protocol was specified and registered in PROSPERO (CRD42024616949). All primary studies were considered eligible, including in vitro studies, clinical studies, and hybrid experimental-clinical studies. Electronic and manual literature searches were conducted through April 2025 in PubMed/MEDLINE, Scopus, the Cochrane Library, and Web of Science. The primary outcome was planned/placed deviation with or without other implant placement techniques.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41963896/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41961693",
       "title": "Risk factors for preoperative anemia in orthognathic surgery patients undergoing autologous blood donation: A cross-sectional study.",
       "authors": [
@@ -2645,202 +2859,9 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41961693/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41961098",
-      "title": "A study on prolonged use of resuscitative endovascular balloon of the aorta (REBOA) with shunt flow in a porcine hemorrhagic shock model.",
-      "authors": [
-        "Nobuaki Kiriu",
-        "Daizoh Saitoh",
-        "Koji Yamamura",
-        "Ruka Sasa",
-        "Tetsuro Kiyozumi",
-        "Satoshi Tomura"
-      ],
-      "publication_date": "2026-Apr-10",
-      "publication_date_iso": "2026-04-10",
-      "abstract": "To evaluate the future efficacy and prolonged availability of double-balloon resuscitative endovascular balloon occlusion of the aorta (DB-REBOA) to determine whether bypassing upstream blood at the occlusion site improves survival in a porcine hemorrhagic shock model. Twenty-five pigs (approximately 40 kg, estimated circulating blood volume 25%) were subjected to hemorrhagic shock by controlled phlebotomy. Animals were treated with standard REBOA (control, n = 12), internal shunt DB-REBOA (internal shunt, n = 4; an intraluminal conduit was set parallel to the DBREBOA in the aorta), or external shunt DB-REBOA (external shunt, n = 9; upstream blood from the occlusion site was shunted by connecting the internal carotid and femoral arteries with a pressure-resistant tube). Zone 1 aortic occlusion was maintained for 90 min, followed by balloon deflation. Survival, systolic blood pressure, and serum lactate levels were analyzed. Ten of 12 control animals developed cardiac arrest shortly after balloon deflation. All animals in the internal shunt group survived, whereas 5 of 9 animals in the external shunt group experienced cardiac arrest. Internal shunt DB-REBOA maintained stable systolic BP during prolonged occlusion, resulting in significantly lower serum lactate levels at 90 min compared to controls. External shunt DB-REBOA resulted in unstable hemodynamics and no significant metabolic benefit. Preservation of distal perfusion using an internal shunt markedly improved survival and physiological stability during prolonged Zone 1 aortic occlusion. This strategy may extend the safe duration of REBOA when definitive hemorrhage control is delayed. The development of a new REBOA catheter for this purpose is anticipated. The online version contains supplementary material available at 10.1007/s00068-026-03168-7.",
-      "objective": "is anticipated. The online version contains supplementary material available at 10.1007/s00068-026-03168-7.",
-      "study_methods": "Twenty-five pigs (approximately 40 kg, estimated circulating blood volume 25%) were subjected to hemorrhagic shock by controlled phlebotomy. Animals were treated with standard REBOA (control, n = 12), internal shunt DB-REBOA (internal shunt, n = 4; an intraluminal conduit was set parallel to the DBREBOA in the aorta), or external shunt DB-REBOA (external shunt, n = 9; upstream blood from the occlusion site was shunted by connecting the internal carotid and femoral arteries with a pressure-resistant tube). Zone 1 aortic occlusion was maintained for 90 min, followed by balloon deflation. Survival, systolic blood pressure, and serum lactate levels were analyzed.",
-      "methods": "Twenty-five pigs (approximately 40 kg, estimated circulating blood volume 25%) were subjected to hemorrhagic shock by controlled phlebotomy. Animals were treated with standard REBOA (control, n = 12), internal shunt DB-REBOA (internal shunt, n = 4; an intraluminal conduit was set parallel to the DBREBOA in the aorta), or external shunt DB-REBOA (external shunt, n = 9; upstream blood from the occlusion site was shunted by connecting the internal carotid and femoral arteries with a pressure-resistant tube). Zone 1 aortic occlusion was maintained for 90 min, followed by balloon deflation. Survival, systolic blood pressure, and serum lactate levels were analyzed.",
-      "results": "ing in significantly lower serum lactate levels at 90 min compared to controls. External shunt DB-REBOA resulted in unstable hemodynamics and no significant metabolic benefit. Preservation of distal perfusion using an internal shunt markedly improved survival and physiological stability during prolonged Zone 1 aortic occlusion. This strategy may extend the safe duration of REBOA when definitive hemorrhage control is delayed. The development of a new REBOA catheter for this purpose is anticipated. The online version contains supplementary material available at 10.1007/s00068-026-03168-7.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41961098/",
-      "pmcid": "PMC13068706",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13068706/bin/68_2026_3168_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13068706/bin/68_2026_3168_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13068706/bin/68_2026_3168_Fig3_HTML.jpg"
-      ]
-    },
-    {
-      "pmid": "41960962",
-      "title": "Cleft Care India Study: A National Audit on Patients with Non-Syndromic Unilateral Cleft Lip and Palate: Surgical Procedures and Outcomes.",
-      "authors": [
-        "Panchali Batra",
-        "Deborah Sybil",
-        "Krishnamurthy Bonanthaya",
-        "Subodh Kumar Singh",
-        "Srinivas Gosla Reddy",
-        "Puneet Batra",
-        "Suryakant Das",
-        "Syed Altaf Hussain",
-        "Ravi K Mahajan",
-        "Raj Gopal Reddy",
-        "Vinay Chugh",
-        "Gayatri Moghe",
-        "Nandlal Bhojraj",
-        "Krishna Shama Rao",
-        "K Chethana",
-        "Sukhdeep Singh Kahlon",
-        "Kamlesh Singh",
-        "Ranjit H Kamble",
-        "Shruti Bijapur",
-        "Charanya Vijaykumar",
-        "H Hari Kishore Bhat",
-        "Sakshi Katyal",
-        "Manoj Prathap",
-        "Karthika Nambiar",
-        "Badri Thiruvenkatachari"
-      ],
-      "publication_date": "2026-Apr-10",
-      "publication_date_iso": "2026-04-10",
-      "abstract": "ObjectiveTo assess the surgical protocols followed in the treatment of non-syndromic UCLP across Indian cleft centres and identify factors influencing secondary surgical outcomes.DesignProspective cross sectional design.SettingThe study was conducted in 14 sary/tertiary care comprehensive cleft centres.ParticipantsThe study included 307 patients with non-syndromic UCLP across three age groups (5, 12, and 20 years) from 14 centres nationwide.OutcomesData was collected through a standardized web-based form. Variables recorded included surgeon specialty and experience, surgical sequence, presurgical orthopaedics, primary surgical techniques, and their association with the need for secondary procedures such as lip/nose revision, velopharyngeal surgery, fistula repair, and alveolar bone grafting. Descriptive statistics were generated, and associations between variables were analysed using Fisher's exact test.ResultsMillard's technique was the most commonly used approach for primary lip repair across all age groups. Presurgical orthopedic plates, nasal conformers, and the specific lip repair technique were not significantly associated with the need for lip or nasal revision surgery, although the wide confidence intervals indicate considerable uncertainty in these estimates. Similarly, the type of palatal repair and use of intravelar veloplasty were not significantly associated with fistula formation or the need for secondary velopharyngeal or fistula repair procedures. Across centres, wide variation existed in techniques used, but no one approach showed superiority in reducing secondary surgery needs.ConclusionDespite the observed variability in surgical weak associations were found between specific surgical techniques or surgeon-related factors and the need for secondary surgical interventions. The wide confidence intervals highlight the uncertainty of these findings and the need for further national-level audits, underscoring the challenge of establishing best practices in cleft care without robust systems for comprehensive data collection and consolidation.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Millard's technique was the most commonly used approach for primary lip repair across all age groups. Presurgical orthopedic plates, nasal conformers, and the specific lip repair technique were not significantly associated with the need for lip or nasal revision surgery, although the wide confidence intervals indicate considerable uncertainty in these estimates. Similarly, the type of palatal repair and use of intravelar veloplasty were not significantly associated with fistula formation or the need for secondary velopharyngeal or fistula repair procedures. Across centres, wide variation existed in techniques used, but no one approach showed superiority in reducing secondary surgery needs.ConclusionDespite the observed variability in surgical weak associations were found between specific surgical techniques or surgeon-related factors and the need for secondary surgical interventions. The wide confidence intervals highlight the uncertainty of these findings and the need for further national-level audits, underscoring the challenge of establishing best practices in cleft care without robust systems for comprehensive data collection and consolidation.",
-      "conclusion": "Despite the observed variability in surgical weak associations were found between specific surgical techniques or surgeon-related factors and the need for secondary surgical interventions. The wide confidence intervals highlight the uncertainty of these findings and the need for further national-level audits, underscoring the challenge of establishing best practices in cleft care without robust systems for comprehensive data collection and consolidation.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41960962/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41960823",
-      "title": "Shifting the Paradigm: CAMBRA Adoption and Medical-Dental Integration Leveraging an Electronic Health Record.",
-      "authors": [
-        "Sharon C Perelman",
-        "Tunaidi Ansari",
-        "John D B Featherstone",
-        "Biana Roykh"
-      ],
-      "publication_date": "2026-Apr-10",
-      "publication_date_iso": "2026-04-10",
-      "abstract": "This study describes the integration of Caries Management by Risk Assessment (CAMBRA) into a medical-dental integrated Epic electronic health record (EHR) at Columbia University's College of Dental Medicine (CDM), with the goal of incorporating risk-based caries management into predoctoral clinical care. A multi-phase, mixed-methods approach was used. CAMBRA protocols were embedded into the Epic EHR, including clinical decision support, automated scoring, integration with prescribing and documentation workflows, and patient education after visit summary (AVS). Stakeholder engagement strategies included faculty calibration, student education via a new Population Oral Health Management (POHM) course, and staff training. Adoption was assessed through caries risk assessment (CRA) completion rates and provider agreement with algorithm-generated risk levels. Following EHR-integrated CAMBRA tool implementation in July of 2022, CRA completion rates rose from under 5% to a peak of 89% in March of 2024. Integration of the POHM curriculum and faculty calibration efforts were key drivers of adoption. Provider agreement with algorithm-generated caries risk levels exceeded 96% after a mandatory confirmation field was introduced in November of 2023. CRA completion rates varied by student groups, reflecting the importance of consistent faculty leadership. Embedding CAMBRA within the EHR and aligning it with educational and clinical workflows led to rapid adoption of risk-based caries management. Success is driven by strong stakeholder engagement, curriculum integration, and robust informatics infrastructure. Ongoing faculty calibration and analytics feedback are essential to sustain performance. CDM's experience offers a replicable model for implementing evidence-based caries prevention in academic dental settings.",
-      "objective": "",
-      "study_methods": "A multi-phase, mixed-methods approach was used. CAMBRA protocols were embedded into the Epic EHR, including clinical decision support, automated scoring, integration with prescribing and documentation workflows, and patient education after visit summary (AVS). Stakeholder engagement strategies included faculty calibration, student education via a new Population Oral Health Management (POHM) course, and staff training. Adoption was assessed through caries risk assessment (CRA) completion rates and provider agreement with algorithm-generated risk levels.",
-      "methods": "A multi-phase, mixed-methods approach was used. CAMBRA protocols were embedded into the Epic EHR, including clinical decision support, automated scoring, integration with prescribing and documentation workflows, and patient education after visit summary (AVS). Stakeholder engagement strategies included faculty calibration, student education via a new Population Oral Health Management (POHM) course, and staff training. Adoption was assessed through caries risk assessment (CRA) completion rates and provider agreement with algorithm-generated risk levels.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41960823/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41958270",
-      "title": "Iron-Based Metal-Organic Framework MIL-100(Fe) Regulates Keloid Scarring in a Humanized Keloid Model.",
-      "authors": [
-        "Po-Hsiu Cheng",
-        "Dany Y Matar",
-        "Wei-Ting Chung",
-        "Adriana C Panayi",
-        "Yen-Chang Chen",
-        "Yu-Sheng Yu",
-        "Yunching Chen",
-        "Tzu-Lei Kuo",
-        "Wen-Chun Hung",
-        "Huang-Kai Kao",
-        "Kevin C-W Wu"
-      ],
-      "publication_date": "2026-Apr-10",
-      "publication_date_iso": "2026-04-10",
-      "abstract": "Keloids are characterized by excessive collagen deposition and persistent inflammation, causing high morbidity and recurrence with limited effective treatments. In this study, MIL-100(Fe)- a metal-organic framework composed of ferrous/ferric ion nodes and 1,3,5-benzenetricarboxylate ligands- is synthesized via a microwave-assisted hydrothermal method and demonstrated nanoscale particle size (141.7 nm). In vitro, human keloid fibroblasts maintained >90% viability after 48 h with MIL-100(Fe) treatment and showed robust cellular uptake within 2 h, compared to PBS-treated controls. MIL-100(Fe) significantly reduced fibroblast migration and downregulated fibrosis-associated proteins after 48 h, including collagen I, collagen III, transforming growth factor beta 1 (TGF-β1), SMAD3, and prolyl 4-hydroxylase subunit alpha 1 (P4HA1). Western blot analysis confirmed that TGF-β1 expression is more strongly suppressed in human keloid fibroblasts than in human monocytes. In an in vivo humanized keloid mouse model, four weeks of intralesional MIL-100(Fe) injection reduced fibrous tissue volume by 27% by week two post-treatment compared with controls. Histological analysis showed decreased fibroblast density, decreased collagen fiber area, polarized macrophage infiltration, and vacuolization in the MIL-100(Fe) treated group. These findings suggest that MIL-100(Fe) selectively targets the TGF-β/SMAD pathway, thereby reducing collagen deposition and fibrosis, and highlight its potential as a therapeutic nanoplatform for keloid treatment.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41958270/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41957243",
-      "title": "Oral status and dental treatment needs in patients with Epidermolysis Bullosa - a cross-sectional study.",
-      "authors": [
-        "Sebastián Véliz",
-        "Pedro Diz-Dios",
-        "Colomba Besa-Witto",
-        "Susanne Krämer"
-      ],
-      "publication_date": "2026-Apr-10",
-      "publication_date_iso": "2026-04-10",
-      "abstract": "To determine the oral health status and dental treatment needs in a cohort of children and adults with different types of Epidermolysis Bullosa (EB). A cross-sectional study was designed. 101 participants with EB (EB Simplex n = 26, Junctional EB = 6, Dominant Dystrophic EB (DDEB) = 20, Recessive Dystrophic EB (RDEB) = 47, Kindler EB = 2) were assessed including simplified debris index (DI-S), Basic Periodontal Examination (BPE), Decay/Missing/Filled Teeth index (DMFT/deft index) and Orthodontic index of complexity, outcome and need (ICON). Treatment needs were classified into preventive, periodontics, restorative, endodontics, orthodontics, prosthodontics, oral surgery, oral pathology, oral radiology, speech therapy and others. Descriptive and statistical analyses were performed. The sample showed a Debris Index of 2.04 ± 0.8, with higher levels in participants with recessive dystrophic EB (2.34 ± 0.7). 15.1% of the total sample (n = 15) showed a BPE value of 3 or 4. DMFT was 11.2 ± 0.1, while 30.1% (n = 28/93) showed an ICON value of 43 or higher. Treatment needs were high, with a median of 3 referrals per patient, with the highest needs in restorative dentistry (n=55, 54.5%), prosthodontics (n=52, 51.5%), and speech/oral function therapy (n=43, 42.6%). By EB type, junctional EB (3.67±0.52) and recessive dystrophic EB (3.34±1.03) showed the highest need for referrals. Oral health status among people living with EB differed across major types. Patients with recessive dystrophic EB were associated with poorer oral hygiene, a higher caries experience and more missing teeth, whereas those with junctional EB were associated with a higher number of restored teeth. On the opposite, those with simplex EB and dominant dystrophic EB were associated with more favourable oral health indicator. The greatest referral needs were for restorative dentistry, prosthodontics and speech therapy, with higher referral needs observed among EB subtypes with high risk of oral disease (recessive dystrophic EB, junctional EB and Kindler EB). Older age was associated with periodontics and prosthodontics referral needs, while male participants were associated with a higher need for speech therapy. This research seems to indicate that patients with recessive dystrophic EB and junctional EB are at high risk of oral disease, requiring referrals to at least 3 different dental specialities. In addition to paediatric dentists, special care dentists and orthodontists, dental teams caring for patients with EB should include specialists in restorative dentistry and prosthodontics, with access to consultants in speech and language therapy, endodontics and periodontics. The online version contains supplementary material available at 10.1007/s00784-026-06779-x.",
-      "objective": "",
-      "study_methods": "A cross-sectional study was designed. 101 participants with EB (EB Simplex n = 26, Junctional EB = 6, Dominant Dystrophic EB (DDEB) = 20, Recessive Dystrophic EB (RDEB) = 47, Kindler EB = 2) were assessed including simplified debris index (DI-S), Basic Periodontal Examination (BPE), Decay/Missing/Filled Teeth index (DMFT/deft index) and Orthodontic index of complexity, outcome and need (ICON). Treatment needs were classified into preventive, periodontics, restorative, endodontics, orthodontics, prosthodontics, oral surgery, oral pathology, oral radiology, speech therapy and others. Descriptive and statistical analyses were performed.",
-      "methods": "A cross-sectional study was designed. 101 participants with EB (EB Simplex n = 26, Junctional EB = 6, Dominant Dystrophic EB (DDEB) = 20, Recessive Dystrophic EB (RDEB) = 47, Kindler EB = 2) were assessed including simplified debris index (DI-S), Basic Periodontal Examination (BPE), Decay/Missing/Filled Teeth index (DMFT/deft index) and Orthodontic index of complexity, outcome and need (ICON). Treatment needs were classified into preventive, periodontics, restorative, endodontics, orthodontics, prosthodontics, oral surgery, oral pathology, oral radiology, speech therapy and others. Descriptive and statistical analyses were performed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41957243/",
-      "pmcid": "PMC13065552",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13065552/bin/784_2026_6779_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13065552/bin/784_2026_6779_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13065552/bin/784_2026_6779_Fig3_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13065552/bin/784_2026_6779_Fig4_HTML.jpg"
-      ]
-    },
-    {
-      "pmid": "41954392",
-      "title": "Impact of Socioeconomic Indices on Completion of Cleft Lip and Palate Care.",
-      "authors": [
-        "Alexander A Argame",
-        "Amanda Perrotta",
-        "Kaavian Shariati",
-        "Archi K Patel",
-        "Sumun Khetpal",
-        "Libby F Wilson",
-        "Justine C Lee"
-      ],
-      "publication_date": "2026-Apr-09",
-      "publication_date_iso": "2026-04-09",
-      "abstract": "The impact of socioeconomic status on completion of cleft lip and palate (CLP) care is poorly understood. We examined the association between socioeconomic factors and both completion and timing of LeFort I advancement, one of the final surgeries in the cleft care pathway. We conducted a multi-institutional retrospective study of CLP patients > 18 years of age recommended for LeFort I advancement between 1991-2024. Addresses were geocoded and linked to four socioeconomic indices: Social Vulnerability Index, Vizient Vulnerability Index, Child Opportunity Index, and Area Deprivation Index. Multi-variable logistic regression models evaluated associations between socioeconomic indices and surgical completion. Multi-variable linear regression models assessed associations between scores and age at surgery among patients who completed LeFort I advancement surgery, adjusting for clinical severity, insurance, travel distance, distraction osteogenesis, and program engagement duration. Of the 184 CLP patients [median age at review 29.1 (IQR 20.4;32.3) years], 127 (69%) underwent LeFort I advancement and 57 (31%) did not complete surgery. Patients who did not undergo surgery demonstrated consistently greater vulnerability or lower opportunity across indices. Household composition vulnerability independently predicted foregoing surgery (adjusted OR 4.6-14.7 depending on geospatial scale, p<0.05). Among patients who underwent LeFort I, socioeconomic vulnerability was associated with older age at surgery. Transportation vulnerability, in particular, was found to independently delay surgery by 1.4-8.7 years per unit increase depending on index and geospatial scale, while greater neighborhood wealth was associated with earlier surgery. Socioeconomic disadvantage influences both completion and timing of LeFort I advancement.",
-      "objective": "",
-      "study_methods": "We conducted a multi-institutional retrospective study of CLP patients > 18 years of age recommended for LeFort I advancement between 1991-2024. Addresses were geocoded and linked to four socioeconomic indices: Social Vulnerability Index, Vizient Vulnerability Index, Child Opportunity Index, and Area Deprivation Index. Multi-variable logistic regression models evaluated associations between socioeconomic indices and surgical completion. Multi-variable linear regression models assessed associations between scores and age at surgery among patients who completed LeFort I advancement surgery, adjusting for clinical severity, insurance, travel distance, distraction osteogenesis, and program engagement duration.",
-      "methods": "We conducted a multi-institutional retrospective study of CLP patients > 18 years of age recommended for LeFort I advancement between 1991-2024. Addresses were geocoded and linked to four socioeconomic indices: Social Vulnerability Index, Vizient Vulnerability Index, Child Opportunity Index, and Area Deprivation Index. Multi-variable logistic regression models evaluated associations between socioeconomic indices and surgical completion. Multi-variable linear regression models assessed associations between scores and age at surgery among patients who completed LeFort I advancement surgery, adjusting for clinical severity, insurance, travel distance, distraction osteogenesis, and program engagement duration.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41954392/",
       "pmcid": "",
       "figure_urls": []
     }
