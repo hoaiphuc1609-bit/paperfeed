@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T04:54:32Z",
+  "updated_at": "2026-04-20T05:17:53Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -696,33 +696,6 @@
       ]
     },
     {
-      "pmid": "41893871",
-      "title": "Integrated Workflow Finite Element Modeling of the Temporomandibular Joint: Toward a Methodical and Reproducible Approach.",
-      "authors": [
-        "Lilian Baugnon",
-        "Romain Nicot",
-        "Nicolas Bethune",
-        "Pauline Lecomte-Grosbras",
-        "Jean-François Witz",
-        "Olivier Mayeur"
-      ],
-      "publication_date": "2026-Jun-01",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "This study presents a patient-specific parametric model of the temporomandibular joint, designed to be semi-automated, and reproducible for multiple patients. The numerical model is used to evaluate mandibular stress distribution under different interaction and loading conditions. The main contribution is to demonstrate the feasibility of an integrated, fast, and streamlined workflow for generating accurate biomechanical models tailored to each patient. The proposed method, which relies on standard clinical images complemented by artificial intelligence-assisted segmentation of bone and muscles, enables the integration of patient-specific anatomical features and mechanical variability. A finite element model of the skull, mandible, teeth, and articular disks was constructed from calibrated computed tomography data. Material properties were automatically assigned using Hounsfield units, distinguishing between cortical bone, cancellous bone, and dental tissue. Sensitivity of key modeling parameters (mesh density, material, friction coefficients, muscle force vectors) was evaluated using abaqus/standard. Hounsfield-units-driven material assignment provides a Young modulus distribution aligned with the literature, while maintaining patient specificity. Artificial intelligence-based muscle reconstruction reveals that stress fields stabilize with increased directional vector refinement, reinforcing biomechanical accuracy and confirming the necessity of multivector muscle loading. This patient-specific parametric model accurately reproduces the distribution of mandibular stresses and offers a promising tool for surgical planning, pathology simulation, and the evaluation of personalized treatment strategies.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41893871/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41853327",
       "title": "Accuracy and empathy of AI-based conversational chatbots in response to temporomandibular dysfunction related queries.",
       "authors": [
@@ -1206,6 +1179,31 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41865458/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42000349",
+      "title": "Full-arch rehabilitation with additively manufactured subperiosteal implants in Papillon-Lefèvre syndrome: A case report.",
+      "authors": [
+        "Qasim Jaddoua",
+        "Abdulrahman Kahil",
+        "Mounzer Assad",
+        "Nadim Sleman"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42000349/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1869,33 +1867,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41564556",
-      "title": "Enhanced characterization of acquired oronasal communications in dogs by cone-beam computed tomography: findings, risk factors, and clinical utility.",
-      "authors": [
-        "Serena Bonacini",
-        "Stephanie Goldschmidt",
-        "Boaz Arzi",
-        "Janny Evenhuis",
-        "David Hatcher",
-        "Maria Soltero-Rivera"
-      ],
-      "publication_date": "2026-May-01",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "To retrospectively characterize cone-beam CT (CBCT) features, risk factors, and concurrent imaging findings of acquired oronasal communications (ONCs) in dogs. A medical record search of the Dentistry and Oral Surgery Service (University of California-Davis) identified dogs diagnosed with ONCs via dental probing and CBCT from December 2014 to November 2023. Demographics, ONC location/size, number/presence/absence of involved teeth, dehiscence, clinical signs and incidental imaging findings were recorded. 40 patients were enrolled. Mean age, weight, and ONC size were 10.8 years, 5 kg, and 15.57 mm2, respectively; no sex predilection was identified. Chihuahuas showed a two-fold higher ONC prevalence than non-Chihuahua dogs (6.63% vs 2.72%). Non-Chihuahuas had a higher number of teeth involved and absent teeth within the ONC. The main cause of ONCs was periodontal disease. Age and body weight emerged as predictors of ONC area; however, in interaction models, neither age nor breed remained significant. Clinical signs were not reliable predictors. Dehiscence rate was 15%. One-third of patients showed a major or minor incidental finding. CBCT imaging allowed precise characterization of ONC, informing surgical planning and recognition of incidental findings. Chihuahuas and related crosses had increased risk for ONC, and extent of dental involvement was the primary contributor to ONC size. ONC assessment via CBCT provided advantages for precise surgical planning and enhanced recognition of incidental findings that may have been missed otherwise. Increased risk for Chihuahuas and related crosses should warrant prompt screening for ONC in this breed.",
-      "objective": "",
-      "study_methods": "A medical record search of the Dentistry and Oral Surgery Service (University of California-Davis) identified dogs diagnosed with ONCs via dental probing and CBCT from December 2014 to November 2023. Demographics, ONC location/size, number/presence/absence of involved teeth, dehiscence, clinical signs and incidental imaging findings were recorded.",
-      "methods": "A medical record search of the Dentistry and Oral Surgery Service (University of California-Davis) identified dogs diagnosed with ONCs via dental probing and CBCT from December 2014 to November 2023. Demographics, ONC location/size, number/presence/absence of involved teeth, dehiscence, clinical signs and incidental imaging findings were recorded.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41564556/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41534215",
       "title": "Glossitis in dogs arises from diverse etiologies but shows predominantly chronic ulcerative pathology and low clinical detection rates.",
       "authors": [
@@ -2264,36 +2235,6 @@
       ]
     },
     {
-      "pmid": "40625210",
-      "title": "A Digital Approach to Extracting Horizontally Impacted Mandibular Third Molars: The Cross-Sectioning Method.",
-      "authors": [
-        "Kejiong Wu",
-        "Yuan Xie",
-        "Fangming Dong",
-        "Qin Huang",
-        "Rongxin Sun",
-        "Haiping Yang",
-        "Fudong Zhu",
-        "Huiming Wang",
-        "Chao Liu"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "Surgical extraction of horizontally impacted mandibular third molars, particularly those requiring osteotomy, is highly sensitive to the surgeons' experience and poses challenges for residents to master. This study introduces the Cross-sectioning method developed through digital measurement and resistance analysis to minimise bone removal during extraction. A comparative study of 400 patients (200 per group) undergoing either Cross-sectioning or Traditional method was conducted. Cone beam computed tomography (CBCT)-based digital measurements validated an odontosection depth of 9 mm through the distomarginal ridge at a 75° angle to the occlusal plane for the Cross-sectioning protocol. The Cross-sectioning protocol involved dividing the tooth into four segments (distolingual, mesiolingual, mesiobuccal, distobuccal) for sequential removal, whereas the Traditional method involved bifurcation with root extraction before crown. The Cross-sectioning group demonstrated significantly shorter operation times, reduced postoperative pain, and swelling compared to the traditional group (p < 0.01). Subgroup analysis (Pell and Gregory classification) revealed superior outcomes for Cross-sectioning: in Horizontal-IIA cases, shorter operation time (p < 0.01) and reduced swelling (p < 0.05); in Horizontal-IIB cases, superior outcomes in operation time and complications (p < 0.01); in Horizontal-IIC cases, shorter operation time (p < 0.05). The Cross-sectioning method effectively reduces bone and adjacent tooth resistance, offering a structured approach for resident training to enhance procedural efficiency and minimise complications. The Cross-sectioning method represents a precise, clinically advantageous technique for impacted third molar extraction, emphasising targeted odontosection depth and improved postoperative outcomes.",
-      "objective": "",
-      "study_methods": "A comparative study of 400 patients (200 per group) undergoing either Cross-sectioning or Traditional method was conducted. Cone beam computed tomography (CBCT)-based digital measurements validated an odontosection depth of 9 mm through the distomarginal ridge at a 75° angle to the occlusal plane for the Cross-sectioning protocol. The Cross-sectioning protocol involved dividing the tooth into four segments (distolingual, mesiolingual, mesiobuccal, distobuccal) for sequential removal, whereas the Traditional method involved bifurcation with root extraction before crown.",
-      "methods": "A comparative study of 400 patients (200 per group) undergoing either Cross-sectioning or Traditional method was conducted. Cone beam computed tomography (CBCT)-based digital measurements validated an odontosection depth of 9 mm through the distomarginal ridge at a 75° angle to the occlusal plane for the Cross-sectioning protocol. The Cross-sectioning protocol involved dividing the tooth into four segments (distolingual, mesiolingual, mesiobuccal, distobuccal) for sequential removal, whereas the Traditional method involved bifurcation with root extraction before crown.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40625210/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "40569044",
       "title": "Amsterdam Self-Efficacy Scale for Tooth Removal (ASES-TR).",
       "authors": [
@@ -2318,7 +2259,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40569044/",
-      "pmcid": "",
+      "pmcid": "PMC13090438",
       "figure_urls": []
     },
     {
@@ -2342,7 +2283,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40420602/",
-      "pmcid": "",
+      "pmcid": "PMC13090415",
       "figure_urls": []
     },
     {
@@ -2368,31 +2309,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40371664/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "40324839",
-      "title": "Self-Perceived Confidence of Final-Year Dental Students in Oral Surgery for Adults and Children.",
-      "authors": [
-        "Saleh Alkadi",
-        "Areej Alqadi",
-        "Hamza Al Salieti"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "Undergraduate dental training should nurture students' self-confidence to perform basic oral surgical procedures. Inadequate confidence can lead to hesitance and anxiety, which may compromise patient safety and the quality of dental care. This study aimed to evaluate the confidence levels of final-year dental students in performing oral surgical procedures for adults and children and to explore the factors that influence their confidence. A structured questionnaire was distributed electronically to dental students at the end of their final year. Descriptive statistics and Spearman's correlation (p-value ≤ 0.05) were used to analyse the data. N = 503 participated. Students were very confident in giving infiltration and Inferior Alveolar Nerve Block (IANB) (73.8% N = 371, 58.8% N = 296), performing simple permanent (anterior: 56.9% N = 286, posterior: 51.1% N = 257) and primary tooth extraction (anterior: 53.7% N = 270, posterior: 51.7% N = 260). However, they were 'somewhat confident' performing third molar extraction (upper: 37% N = 186, lower: 39.6% N = 199), writing drug prescriptions (42.7% N = 210), managing postoperative swelling (37.85 N = 190) and extracting for the medically compromised patients (37.2% N = 187). Students were not confident performing root separation (32.4% N = 163), bone removal (41.6% N = 209) or raising a flap (43.3% N = 218). Half of the students indicated, 'I did not encounter or have the chance to extract certain types of teeth', as a factor that lowers their confidence (50.1% N = 252). Students were less confident performing third molar extraction, surgical extraction procedures, writing drug prescriptions and extraction for medically compromised patients. Further clinical exposure to such procedures is expected to raise students' confidence.",
-      "objective": "",
-      "study_methods": "A structured questionnaire was distributed electronically to dental students at the end of their final year. Descriptive statistics and Spearman's correlation (p-value ≤ 0.05) were used to analyse the data.",
-      "methods": "A structured questionnaire was distributed electronically to dental students at the end of their final year. Descriptive statistics and Spearman's correlation (p-value ≤ 0.05) were used to analyse the data.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40324839/",
-      "pmcid": "",
+      "pmcid": "PMC13090430",
       "figure_urls": []
     },
     {
@@ -2466,6 +2383,60 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41980086/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42001486",
+      "title": "Cross-sectional validation of a preoperative multidimensional assessment tool for third molar extraction using machine learning.",
+      "authors": [
+        "A Sánchez-Torres",
+        "X Arias-Huerta",
+        "B Pérez-Iglesias",
+        "E Gómez-Reig",
+        "R Figueiredo",
+        "E Valmaseda-Castellón",
+        "J-A Conejero",
+        "C Gay-Escoda"
+      ],
+      "publication_date": "2026-Apr-19",
+      "publication_date_iso": "2026-04-19",
+      "abstract": "This study aimed to assess the correlation between a preoperative difficulty assessment form and surgery time in third molar extractions. Secondary aims included analyzing the relationship between the form's global score and surgical technique, surgeon-perceived difficulty, and postoperative complications. Machine learning models were also explored. A cross-sectional study was conducted on patients requiring a third molar extraction between April 2022 and May 2023, operated by students of the master's degree in Oral Surgery and Implantology (University of Barcelona, Spain). Three previously calibrated investigators completed the preoperative difficulty evaluation form, which included clinical, radiological and surgical variables. Descriptive and bivariate analyses were performed using the Stata/IC 15.1. Machine learning models were applied to predict surgery time and surgeon-perceived difficulty. A total of 205 patients, 75 males (36.6%) and 130 females (63.4%), with a mean age of 28.5±14.1 years were included; 49 (23.9%) were upper and 156 (76.1%) lower third molars. The global score of the form was significantly correlated to surgery time (Spearman's rho=0.640; P<0.001), perceived difficulty (Spearman's rho=0.395; P<0.001) and the surgical technique according to Parant's classification (P<0.001). Postoperative complications were associated to higher scores on the difficulty evaluation form (P=0.012). The preoperative assessment form is a valid tool for estimating third molar extraction difficulty. Its global score is positively associated with surgery time, perceived difficulty, surgical technique, and postoperative complications. Machine learning models showed better performance at modeling surgery time than surgical difficulty.",
+      "objective": "included analyzing the relationship between the form's global score and surgical technique, surgeon-perceived difficulty, and postoperative complications. Machine learning models were also explored. A cross-sectional study was conducted on patients requiring a third molar extraction between April 2022 and May 2023, operated by students of the master's degree in Oral Surgery and Implantology (University of Barcelona, Spain). Three previously calibrated investigators completed the preoperative difficulty evaluation form, which included clinical, radiological and surgical variables. Descriptive and bivariate analyses were performed using the Stata/IC 15.1. Machine learning models were applied to predict surgery time and surgeon-perceived difficulty. A total of 205 patients, 75 males (36.6%) and 130 females (63.4%), with a mean age of 28.5±14.1 years were included; 49 (23.9%) were upper and 156 (76.1%) lower third molars. The global score of the form was significantly correlated to surgery time (Spearman's rho=0.640; P<0.001), perceived difficulty (Spearman's rho=0.395; P<0.001) and the surgical technique according to Parant's classification (P<0.001). Postoperative complications were associated to higher scores on the difficulty evaluation form (P=0.012). The preoperative assessment form is a valid tool for estimating third molar extraction difficulty. Its global score is positively associated with surgery time, perceived difficulty, surgical technique, and postoperative complications. Machine learning models showed better performance at modeling surgery time than surgical difficulty.",
+      "study_methods": "A cross-sectional study was conducted on patients requiring a third molar extraction between April 2022 and May 2023, operated by students of the master's degree in Oral Surgery and Implantology (University of Barcelona, Spain). Three previously calibrated investigators completed the preoperative difficulty evaluation form, which included clinical, radiological and surgical variables. Descriptive and bivariate analyses were performed using the Stata/IC 15.1. Machine learning models were applied to predict surgery time and surgeon-perceived difficulty.",
+      "methods": "A cross-sectional study was conducted on patients requiring a third molar extraction between April 2022 and May 2023, operated by students of the master's degree in Oral Surgery and Implantology (University of Barcelona, Spain). Three previously calibrated investigators completed the preoperative difficulty evaluation form, which included clinical, radiological and surgical variables. Descriptive and bivariate analyses were performed using the Stata/IC 15.1. Machine learning models were applied to predict surgery time and surgeon-perceived difficulty.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42001486/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42000655",
+      "title": "Stability and complications following mandibular supra-foraminal high oblique osteotomy.",
+      "authors": [
+        "U Heller",
+        "P Goudot",
+        "G Murcier",
+        "T Schouman"
+      ],
+      "publication_date": "2026-Apr-17",
+      "publication_date_iso": "2026-04-17",
+      "abstract": "The aim of this study was to evaluate the results and complications following supra-foraminal high oblique osteotomy (SHOO) using patient-specific guides and implants (PSI). We selected consecutive patients who had undergone SHOO using PSI from May 2017 to December 2018 and had a minimum follow-up of 6 months. We collected the initial malocclusion and deformity, treatment planning, intraoperative and postoperative complications, stability, lower lip sensitivity, and temporo-mandibular joint disorders at 6 months. We also verified the amount of bone contact and mandibular sagittal repositioning on postoperative CT scans. One hundred and sixteen patients were included. Seventy-five (65%) had class II malocclusion and 18 (15.5%) had open bite. The mean sagittal displacement was 4.9 mm (2.6). At 6 months, 22 (19%) patients presented with malocclusion including 15 (13%) open bites, even though 10 of these patients had a normal overbite at preoperative assessment. Six (5%) of these patients required revision surgery for malocclusion. Mandibular secondary displacement was not statistically associated with initial malocclusion, amount of sagittal mandibular repositioning, profit classification, or intraoperative fixation adaptation. SHOO was associated in our series with poor occlusal stability due to a high rate of secondary displacements eventually requiring revision surgery.",
+      "objective": "of this study was to evaluate the",
+      "study_methods": "",
+      "methods": "",
+      "results": "and complications following supra-foraminal high oblique osteotomy (SHOO) using patient-specific guides and implants (PSI). We selected consecutive patients who had undergone SHOO using PSI from May 2017 to December 2018 and had a minimum follow-up of 6 months. We collected the initial malocclusion and deformity, treatment planning, intraoperative and postoperative complications, stability, lower lip sensitivity, and temporo-mandibular joint disorders at 6 months. We also verified the amount of bone contact and mandibular sagittal repositioning on postoperative CT scans. One hundred and sixteen patients were included. Seventy-five (65%) had class II malocclusion and 18 (15.5%) had open bite. The mean sagittal displacement was 4.9 mm (2.6). At 6 months, 22 (19%) patients presented with malocclusion including 15 (13%) open bites, even though 10 of these patients had a normal overbite at preoperative assessment. Six (5%) of these patients required revision surgery for malocclusion. Mandibular secondary displacement was not statistically associated with initial malocclusion, amount of sagittal mandibular repositioning, profit classification, or intraoperative fixation adaptation. SHOO was associated in our series with poor occlusal stability due to a high rate of secondary displacements eventually requiring revision surgery.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42000655/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2638,6 +2609,56 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41989020/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41989000",
+      "title": "Dental Management of Persons With Haemophilia Receiving Emicizumab Prophylaxis.",
+      "authors": [
+        "Branislav V Bajkin",
+        "Miryam E Parreira",
+        "Zikra A Alkhayal"
+      ],
+      "publication_date": "2026-Apr-16",
+      "publication_date_iso": "2026-04-16",
+      "abstract": "The use of emicizumab prophylaxis among persons with haemophilia A (PwHA), both with and without inhibitors, has been increasing significantly in recent years. Nevertheless, clear recommendations remain lacking regarding the necessity and extent of perioperative adjunctive systemic haemostatic therapy for surgical procedures. Given the high frequency of dental interventions, minor oral surgical procedures, are of particular clinical relevance for these persons. This paper provides a review of the literature along with a retrospective analysis of a case series involving 10 PwHA who underwent invasive dental procedures across three centres. In cases involving permanent tooth extraction a single preoperative dose of rFVIII (for PwHA without inhibitors) or rFVIIa (for those with inhibitors) were used. The analysis indicated that extraction of primary teeth in children receiving emicizumab prophylaxis can be successfully performed without the concomitant use of systemic haemostatic agents. Only one postoperative bleeding event was observed, following a periodontal procedure, suggesting that type of procedure may pose a greater challenge in achieving adequate hemostasis due to larger bleeding area and limited possibility for the use of local haemostatic measures. A review of the literature showed that for minor oral surgical procedures, such as tooth extraction, either preoperative administration of haemostatic factor infusions or performing the procedure without factor use may be recommended. However, evidence-based data and recommendations regarding the safest management strategies remain insufficient. A multidisciplinary and individualized approach, incorporating assessment of the procedural bleeding risk, the patient's bleeding history, and strict use of local haemostatic measures remains essential.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41989000/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41988983",
+      "title": "Nonfactor Replacement Treatment and Surgery in Haemophilia: Evidence From the Literature and Selected Clinical Cases.",
+      "authors": [
+        "Christian Carulli",
+        "Giovanna Daniele",
+        "Mathangi Kumar",
+        "Aby Abraham",
+        "Giancarlo Castaman"
+      ],
+      "publication_date": "2026-Apr-16",
+      "publication_date_iso": "2026-04-16",
+      "abstract": "Over the recent years, the introduction of nonfactor replacement (NFR) prophylaxis for haemophilia has allowed to reduce the burden of treatment and to offer effective prophylaxis also for patients with inhibitors, with an excellent successful prevention of spontaneous bleeding, often approaching a median annual bleeding rates close to 0. However, patients on NRF prophylaxis require traditional replacement treatment for breakthrough bleeds and to manage especially major surgery. Real-world experiences with the use of emicizumab are accumulating, showing excellent outcomes, while these are still significantly limited data available with rebalancing agents (concizumab, marstacimab and fitusiran). The present overview is focused on surgical procedures with nonfactor replacement prophylaxis. Review of the literature and report of personal experiences with the use of emicizumab and replacement treatment during surgery. Combined used of emicizumab prophylaxis together with factor replacement in patients with Haemophilia A with and without inhibitors provided excellent results. Multiple elective orthopaedic procedures, oral and abdominal surgical interventions, and trauma surgery confirmed the feasibility of this combined approach, without significant side effects. The association of nonfactor prophylaxis with recombinant factors has provided safe, reproducible and effective results, with low rates of complications. However, the experience with rebalancing agents is still limited, and more real-world studies are needed to confirm the most appropriate approach.",
+      "objective": "",
+      "study_methods": "Review of the literature and report of personal experiences with the use of emicizumab and replacement treatment during surgery.",
+      "methods": "Review of the literature and report of personal experiences with the use of emicizumab and replacement treatment during surgery.",
+      "results": "Multiple elective orthopaedic procedures, oral and abdominal surgical interventions, and trauma surgery confirmed the feasibility of this combined approach, without significant side effects. The association of nonfactor prophylaxis with recombinant factors has provided safe, reproducible and effective results, with low rates of complications. However, the experience with rebalancing agents is still limited, and more real-world studies are needed to confirm the most appropriate approach.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41988983/",
       "pmcid": "",
       "figure_urls": []
     },
