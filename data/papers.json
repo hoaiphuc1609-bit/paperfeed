@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T04:50:33Z",
+  "updated_at": "2026-04-23T04:54:02Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -70,7 +70,9 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005095/",
       "pmcid": "PMC13087713",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087713/bin/gr1.jpg"
+      ]
     },
     {
       "pmid": "41858234",
@@ -421,7 +423,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005717/",
       "pmcid": "PMC13091407",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "41847346",
@@ -1626,7 +1633,10 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41834225/",
       "pmcid": "PMC13086545",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13086545/bin/JCPE-53-658-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13086545/bin/JCPE-53-658-g002.jpg"
+      ]
     },
     {
       "pmid": "41806568",
@@ -2310,6 +2320,29 @@
       "figure_urls": []
     },
     {
+      "pmid": "41118023",
+      "title": "Current status and prospects of computer-assisted surgery (CAS) in oral and maxillofacial reconstruction.",
+      "authors": [
+        "Yoshihiro Morita",
+        "Narikazu Uzawa"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Computer-assisted surgery (CAS) has emerged as a transformative approach for oral and maxillofacial reconstruction, significantly enhancing surgical precision, efficiency, and patient outcomes. This review outlines the current status and future prospects of CAS, with a focus on its application in mandibular and maxillary reconstruction. CAS encompasses technologies such as virtual surgical planning (VSP), computer-aided design and manufacturing (CAD/CAM), and patient-specific plates (PSPs), which have become integral to procedures such as implant placement, orthognathic surgery, and fracture management. While Western countries have led the adoption of CAS, its implementation in Asia, including Japan, is steadily progressing and supported by innovations such as the domestically developed CAS system. Despite its advantages, CAS faces challenges, such as high costs, long preparation times, and limited intraoperative flexibility. This review highlights the clinical benefits, technological advancements, and regional developments in CAS, emphasizing the need for standardized evaluation methods, cost-effective solutions, and broader clinical integration to ensure sustainable and equitable access to advanced surgical care.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41118023/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "40653684",
       "title": "Possible association of short-term complications and antimicrobial use in standing equine cheek tooth extractions 2018-2022.",
       "authors": [
@@ -2393,7 +2426,10 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40569044/",
       "pmcid": "PMC13090438",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090438/bin/EJE-30-609-g002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090438/bin/EJE-30-609-g001.jpg"
+      ]
     },
     {
       "pmid": "40420602",
@@ -2417,7 +2453,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40420602/",
       "pmcid": "PMC13090415",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090415/bin/EJE-30-392-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090415/bin/EJE-30-392-g001.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090415/bin/EJE-30-392-g002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090415/bin/EJE-30-392-g002.gif"
+      ]
     },
     {
       "pmid": "40371664",
@@ -2443,7 +2484,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40371664/",
       "pmcid": "PMC13090430",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090430/bin/EJE-30-320-g004.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090430/bin/EJE-30-320-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090430/bin/EJE-30-320-g003.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090430/bin/EJE-30-320-g002.jpg"
+      ]
     },
     {
       "pmid": "40324839",
@@ -2499,6 +2545,28 @@
       "figure_urls": []
     },
     {
+      "pmid": "39925040",
+      "title": "Karl Jarmer (1898-1983): Dentist and first professor of dentistry in Dresden.",
+      "authors": [
+        "Felix Marschner"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Karl Jarmer was the first professor of dentistry at the Medical Academy in Dresden (Germany). This article chronicles his life, his professional challenges, and the impact of his work, illustrated by theses, articles, books, and original sources from the archives of the Dresden University of Technology's Medical Faculty. His career encompassed a range of experiences, from running a private practice in Stettin to specializing in oral surgery. After serving in the First World War, his academic journey began with the completion of his dental license and doctorate in 1921. Later, he worked at the universities of Greifswald and Kiel before being appointed to the Chair of Dentistry in Dresden in 1954. His appointment triggered a professional rivalry with Johann Alexander Vogelsang, a key figure in Dresden's maxillofacial care, due to conflicting views on academic leadership. Jarmer made significant contributions to the development of dental education in Dresden and played an important role in shaping Dentistry at the young Medical Academy Dresden. Jarmer remained active in academic circles until his retirement in 1963. He died in 1983.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39925040/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41980086",
       "title": "Enhancer-directed gene delivery for digit regeneration based on conserved epidermal factors.",
       "authors": [
@@ -2544,6 +2612,187 @@
       "figure_urls": []
     },
     {
+      "pmid": "42018467",
+      "title": "Deep Caries Management: EFCD-ESE-ORCA S3-Level Clinical Practice Guideline.",
+      "authors": [
+        "Falk Schwendicke",
+        "Esra Kosan",
+        "Avijit Banerjee",
+        "Aylin Baysan",
+        "Lars Bjørndal",
+        "Laura Ceballos",
+        "Henry F Duncan",
+        "Sascha Herbst",
+        "Klaus W Neuhaus",
+        "Anne C O Apos Connell",
+        "Sebastian Paris",
+        "Helena Dujic"
+      ],
+      "publication_date": "2026-Apr-22",
+      "publication_date_iso": "2026-04-22",
+      "abstract": "The objective of this study was to develop an evidence-based S3-level clinical practice guideline for the management of deep and extremely deep caries in vital permanent teeth. An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA), and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding: (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps, and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesized and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal, and Caries Research journals' websites. Evidence supports selective (SE) or stepwise caries removal (SW) over non-selective removal (NSE) to reduce the risk of pulp exposure in deep caries. Routine use of cavity liners after caries removal showed no consistent clinical benefit and is not routinely recommended. For vital pulp therapy following pulp exposure, both direct pulp capping and pulpotomy are effective options in teeth without irreversible pulpitis, while pulpotomy is an acceptable alternative to pulpectomy in cases with signs of irreversible pulpitis. Hydraulic calcium silicate cements demonstrated superior clinical outcomes compared to calcium hydroxide and should be preferred for pulp capping and pulpotomy. The certainty of evidence ranged from very low to moderate across questions and outcomes. For deep caries, maintaining pulp vitality by using less invasive management strategies is supported by current evidence. Implementation of this guideline requires clinician training, patient-centred decision-making, and consideration of economic and practical factors. Further research is needed, particularly for extremely deep caries and towards long-term outcomes.",
+      "objective": "of this study was to develop an evidence-based S3-level clinical practice guideline for the management of deep and extremely deep caries in vital permanent teeth. An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA), and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding: (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps, and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesized and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal, and Caries Research journals' websites. Evidence supports selective (SE) or stepwise caries removal (SW) over non-selective removal (NSE) to reduce the risk of pulp exposure in deep caries. Routine use of cavity liners after caries removal showed no consistent clinical benefit and is not routinely recommended. For vital pulp therapy following pulp exposure, both direct pulp capping and pulpotomy are effective options in teeth without irreversible pulpitis, while pulpotomy is an acceptable alternative to pulpectomy in cases with signs of irreversible pulpitis. Hydraulic calcium silicate cements demonstrated superior clinical outcomes compared to calcium hydroxide and should be preferred for pulp capping and pulpotomy. The certainty of evidence ranged from very low to moderate across questions and outcomes. For deep caries, maintaining pulp vitality by using less invasive management strategies is supported by current evidence. Implementation of this guideline requires clinician training, patient-centred decision-making, and consideration of economic and practical factors. Further research is needed, particularly for extremely deep caries and towards long-term outcomes.",
+      "study_methods": "An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA), and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding: (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps, and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesized and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal, and Caries Research journals' websites.",
+      "methods": "An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA), and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding: (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps, and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesized and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal, and Caries Research journals' websites.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42018467/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42017497",
+      "title": "Deep Caries Management: EFCD-ESE-ORCA S3-Level Clinical Practice Guideline.",
+      "authors": [
+        "Falk Schwendicke",
+        "Esra Kosan",
+        "Avijit Banerjee",
+        "Aylin Baysan",
+        "Lars Bjørndal",
+        "Laura Ceballos",
+        "Henry F Duncan",
+        "Sascha Herbst",
+        "Klaus W Neuhaus",
+        "Anne C O'Connell",
+        "Sebastian Paris",
+        "Helena Dujic"
+      ],
+      "publication_date": "2026-Apr-22",
+      "publication_date_iso": "2026-04-22",
+      "abstract": "To develop an evidence-based S3-level clinical practice guideline for the management of deep and extremely deep caries in vital permanent teeth. An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA) and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesised and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal and Caries Research journals' websites. Evidence supports selective (SE) or stepwise caries removal (SW) over non-selective removal (NSE) to reduce the risk of pulp exposure in deep caries. Routine use of cavity liners after caries removal showed no consistent clinical benefit and is not routinely recommended. For vital pulp therapy following pulp exposure, both direct pulp capping and pulpotomy are effective options in teeth without irreversible pulpitis, while pulpotomy is an acceptable alternative to pulpectomy in cases with signs of irreversible pulpitis. Hydraulic calcium silicate cements demonstrated superior clinical outcomes compared to calcium hydroxide and should be preferred for pulp capping and pulpotomy. The certainty of evidence ranged from very low to moderate across questions and outcomes. For deep caries, maintaining pulp vitality by using less invasive management strategies is supported by current evidence. Implementation of this guideline requires clinician training, patient-centered decision-making and consideration of economic and practical factors. Further research is needed, particularly for extremely deep caries and towards long-term outcomes.",
+      "objective": "",
+      "study_methods": "An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA) and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesised and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal and Caries Research journals' websites.",
+      "methods": "An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA) and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesised and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal and Caries Research journals' websites.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42017497/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42014635",
+      "title": "Deep caries management: EFCD-ESE-ORCA S3-level clinical practice guideline.",
+      "authors": [
+        "Falk Schwendicke",
+        "Esra Kosan",
+        "Avijit Banerjee",
+        "Aylin Baysan",
+        "Lars Bjørndal",
+        "Laura Ceballos",
+        "Henry F Duncan",
+        "Sascha Herbst",
+        "Klaus W Neuhaus",
+        "Anne C O'Connell",
+        "Sebastian Paris",
+        "Helena Dujic"
+      ],
+      "publication_date": "2026-Apr-22",
+      "publication_date_iso": "2026-04-22",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42014635/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42014571",
+      "title": "Controlled cryotherapy and kinesiology taping for postoperative facial oedema following orthognathic surgery in class III malocclusion : a smartphone-based three-dimensional volumetric study.",
+      "authors": [
+        "Umberto Committeri",
+        "Antonio Ricciardi",
+        "Maria Elisa Giovannoni",
+        "Valentino Vellone",
+        "Giuseppe Consorti",
+        "Giulio Cirignaco",
+        "Gabriele Monarchi",
+        "Fabio Maglitto",
+        "Fabrizio Spallaccia"
+      ],
+      "publication_date": "2026-Apr-22",
+      "publication_date_iso": "2026-04-22",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42014571/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42020223",
+      "title": "Fracture patterns of two sagittal split ramus osteotomy techniques: a cadaveric study.",
+      "authors": [
+        "A P G R Couto",
+        "A L R de Ribeiro",
+        "L H S Guimarães",
+        "J J V Pinheiro",
+        "M S S Kataoka",
+        "S M Alves Júnior"
+      ],
+      "publication_date": "2026-Apr-21",
+      "publication_date_iso": "2026-04-21",
+      "abstract": "The sagittal split ramus osteotomy (SSRO) is commonly used to correct dentofacial deformities. This study compared fracture patterns, maximum tensile load, displacement, time, and thickness of ex-vivo mandibles subjected to the Epker or Wolford SSRO techniques. Sixty-one dried adult cadaveric mandibles were sectioned, with each hemimandible randomly assigned to one of two groups: Epker, which involved a horizontal beveled medial cut above the lingula, and Wolford, which added an additional cut along the inferior mandibular rim. Each hemimandible was mounted on a wooden base, and a metallic device similar to a Smith sagittal separator was used to stress the sagittal cut until failure. Fractures were classified as favorable (lingual split scale (LSS)1, LSS2, LSS3) or as unfavorable (LSS4). The Epker group had significantly more unfavorable fractures than the Wolford group (P = 0.027), with a 4.51-fold higher relative risk of unfavorable fractures. Hemimandible thickness did not significantly affect fracture patterns (P > 0.05). No significant differences were found between the techniques regarding tensile load, displacement, or fracture time (P > 0.05). Wolford's additional osteotomy along the inferior mandibular rim reduced the load required for the mandibular split and increased fracture predictability.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42020223/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42020198",
+      "title": "Comparative Analysis of Occlusal Parameters in Post-Orthodontic Patients with and without Non-Carious Cervical Lesions Using T-Scan III.",
+      "authors": [
+        "Mayurach Pipatphatsakorn",
+        "Nattapat Khamnuengsitthi",
+        "Jittima Pumklin",
+        "Ratchawan Tansalarak"
+      ],
+      "publication_date": "2026-Apr-20",
+      "publication_date_iso": "2026-04-20",
+      "abstract": "This study aimed to determine the relationship between occlusal and clinical factors-including relative occlusal force, occlusion time (OT), disclusion time (DT), and occlusal schemes-and the occurrence of non-carious cervical lesions (NCCLs) in post-orthodontic patients, using the T-Scan III system. Fifty-two patients who completed fixed orthodontic treatment within 1 year were purposively selected and divided into two groups: those with NCCLs (n = 26) and those without NCCLs (n = 26). A total of 1,336 teeth were evaluated (111 with NCCLs, 1,225 without). Data collection included a questionnaire, clinical examination, and T-Scan III recordings. Pearson's chi-square and multiple comparison tests were used for categorical variables. Relative occlusal forces were compared using the Mann-Whitney U-test, while OT and DT were analyzed with independent-sample t-tests. Multiple linear regression identified predictive factors for NCCLs at both the subject and tooth levels. The significance level was set at p < 0.05. Older age, combined orthodontic-orthognathic surgery, and gingival recession were significantly associated with NCCL occurrence (p < 0.05). Group-function occlusion was the only significant occlusal predictor (β = 0.365, p = 0.018). At the tooth level, gingival recession significantly predicted NCCLs (β = 0.499, p < 0.001). The regression models explained 12.5 and 22.9% of the variance in NCCL occurrence at the subject and tooth levels, respectively. Teeth with NCCLs showed higher relative occlusal forces at maximum intercuspation (8.16 ± 8.41%) and during eccentric movements (37.86 ± 31.38%) than teeth without NCCLs (7.53 ± 9.26% and 30.09 ± 29.16%, respectively; p < 0.05). Mean OT (0.27 ± 0.07 seconds) and DT (0.50 ± 0.13 seconds) were significantly longer in NCCL subjects than in controls (OT: 0.22 ± 0.06 seconds; DT: 0.42 ± 0.11 second; p < 0.05). Prolonged occlusion and DTs, higher relative occlusal forces, and group-function occlusion were significantly associated with the presence of NCCLs in post-orthodontic patients. Quantitative occlusal analysis using the T-Scan III system may help clinicians detect functional imbalances and prevent NCCL development during orthodontic follow-up.",
+      "objective": "",
+      "study_methods": "Fifty-two patients who completed fixed orthodontic treatment within 1 year were purposively selected and divided into two groups: those with NCCLs (n = 26) and those without NCCLs (n = 26). A total of 1,336 teeth were evaluated (111 with NCCLs, 1,225 without). Data collection included a questionnaire, clinical examination, and T-Scan III recordings.",
+      "methods": "Fifty-two patients who completed fixed orthodontic treatment within 1 year were purposively selected and divided into two groups: those with NCCLs (n = 26) and those without NCCLs (n = 26). A total of 1,336 teeth were evaluated (111 with NCCLs, 1,225 without). Data collection included a questionnaire, clinical examination, and T-Scan III recordings.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42020198/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42013518",
       "title": "Advantages of Combined Multiple-Case Teaching and Narrative Medicine Teaching Methods in Orthognathic Surgery.",
       "authors": [
@@ -2569,34 +2818,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42013518/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42012437",
-      "title": "Oral virome in health and disease.",
-      "authors": [
-        "Yvonne L Hernandez-Kapila",
-        "Rachel Y Kim",
-        "Sanika S Gokhale",
-        "Yi-Ling Lin",
-        "Henrik Dommisch",
-        "Jørgen Slots",
-        "Daniel J Weisenberger"
-      ],
-      "publication_date": "2026-Apr-20",
-      "publication_date_iso": "2026-04-20",
-      "abstract": "Despite estimates suggesting more than 380 trillion viruses reside within the body, an order of magnitude greater than the number of bacteria, the human virome remains largely unexplored. Pandemics and worldwide threats over the past century have highlighted our limited knowledge of viral pathogens in the body. Moreover, knowledge of what constitutes a healthy human virome is lacking, representing a considerable knowledge gap. The National Institutes of Health Human Virome Program aims to fill this gap by means of defining all facets of the human virome across the life and health spans in diverse populations. The authors summarized the known information and challenges related to interrogating the human virome across the oral-gut-brain axis and its implications for oral health and clinical dental practice. Viruses are the most abundant and diverse biological entities on the planet, and distinct viral communities inhabit human body sites. Most researchers have focused on viruses linked to systemic disease; however, commensal viruses have the potential for conferring health and therapeutic benefits. The aim of the Human Virome Program was to characterize commensal viruses in the human body across the lifespan. Human virome characterization will advance our understanding of healthy viromes, promote advances in biomedical research, enable identification of disease-associated disruptions, and improve our capacity to detect, diagnose, and discover viruses that may pose threats to human health. For the dental community, an understanding of the oral virome will be essential for correlating viral signatures with patient health, treatment response, and predicting future oral health risks.",
-      "objective": "to fill this gap by means of defining all facets of the human virome across the life and health spans in diverse populations. The authors summarized the known information and challenges related to interrogating the human virome across the oral-gut-brain axis and its implications for oral health and clinical dental practice. Viruses are the most abundant and diverse biological entities on the planet, and distinct viral communities inhabit human body sites. Most researchers have focused on viruses linked to systemic disease; however, commensal viruses have the potential for conferring health and therapeutic benefits. The aim of the Human Virome Program was to characterize commensal viruses in the human body across the lifespan. Human virome characterization will advance our understanding of healthy viromes, promote advances in biomedical research, enable identification of disease-associated disruptions, and improve our capacity to detect, diagnose, and discover viruses that may pose threats to human health. For the dental community, an understanding of the oral virome will be essential for correlating viral signatures with patient health, treatment response, and predicting future oral health risks.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42012437/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2652,63 +2873,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42007596",
-      "title": "Peri-Implantitis and Periodontitis: Biological Convergence, Contextual Divergence.",
-      "authors": [
-        "Pablo Galindo-Moreno",
-        "Pablo Galindo-Fernandez",
-        "Allinson Olaechea",
-        "Francisco O'Valle",
-        "Abdusalam E Alrmali",
-        "Hom-Lay Wang",
-        "Miguel Padial-Molina"
-      ],
-      "publication_date": "2026-Apr-20",
-      "publication_date_iso": "2026-04-20",
-      "abstract": "Periodontitis and peri-implantitis are chronic inflammatory conditions of microbial origin that affect the supporting tissues of teeth and dental implants, respectively. Although they share comparable clinical features and several histopathological characteristics, they have traditionally been classified as distinct diseases, largely because they arise in different anatomical and clinical contexts. This narrative, question-driven review evaluates clinical, microbiological, histological, and molecular evidence to address whether observed similarities and differences between the two conditions reflect truly distinct diseases, context-dependent variations of a shared inflammatory spectrum, or artifacts of study design and nomenclature. While peri-implantitis is often described as progressing more rapidly or exhibiting more pronounced inflammatory infiltrates, the underlying reasons for these patterns remain under investigation. To date, no microbial species or host-response pathway has been conclusively identified as exclusive to either disease, although most available data derive from heterogeneous, often underpowered studies with limited head-to-head comparisons. Structural and anatomical distinctions, such as the absence of a periodontal ligament around implants and differences in connective tissue organization, may influence disease behavior, yet their precise role in determining divergent outcomes is still debated. Microbial variability also appears to reflect host-specific and site-specific factors more than strict disease categorization, and molecular and transcriptomic studies generally reveal overlapping patterns of immune activation and gene expression, although some analyses suggest potential quantitative or contextual differences, whose interpretation is constrained by small sample sizes and indirect comparisons. Overall, current evidence supports a substantial convergence in pathogenic pathways, superimposed on site-specific and host-specific modulators, rather than clearly segregated disease-specific mechanisms. Given the limited and inconsistent literature, particularly for advanced omics and tissue-based studies, any categorical distinction between periodontitis and peri-implantitis as separate entities remains premature. Future research should prioritize adequately powered, longitudinal, within-subject comparisons and high-resolution approaches, including spatial transcriptomics and integrated immune-molecular profiling, to refine diagnostic concepts and inform individualized therapeutic strategies.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42007596/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42001486",
-      "title": "Cross-sectional validation of a preoperative multidimensional assessment tool for third molar extraction using machine learning.",
-      "authors": [
-        "A Sánchez-Torres",
-        "X Arias-Huerta",
-        "B Pérez-Iglesias",
-        "E Gómez-Reig",
-        "R Figueiredo",
-        "E Valmaseda-Castellón",
-        "J-A Conejero",
-        "C Gay-Escoda"
-      ],
-      "publication_date": "2026-Apr-19",
-      "publication_date_iso": "2026-04-19",
-      "abstract": "This study aimed to assess the correlation between a preoperative difficulty assessment form and surgery time in third molar extractions. Secondary aims included analyzing the relationship between the form's global score and surgical technique, surgeon-perceived difficulty, and postoperative complications. Machine learning models were also explored. A cross-sectional study was conducted on patients requiring a third molar extraction between April 2022 and May 2023, operated by students of the master's degree in Oral Surgery and Implantology (University of Barcelona, Spain). Three previously calibrated investigators completed the preoperative difficulty evaluation form, which included clinical, radiological and surgical variables. Descriptive and bivariate analyses were performed using the Stata/IC 15.1. Machine learning models were applied to predict surgery time and surgeon-perceived difficulty. A total of 205 patients, 75 males (36.6%) and 130 females (63.4%), with a mean age of 28.5±14.1 years were included; 49 (23.9%) were upper and 156 (76.1%) lower third molars. The global score of the form was significantly correlated to surgery time (Spearman's rho=0.640; P<0.001), perceived difficulty (Spearman's rho=0.395; P<0.001) and the surgical technique according to Parant's classification (P<0.001). Postoperative complications were associated to higher scores on the difficulty evaluation form (P=0.012). The preoperative assessment form is a valid tool for estimating third molar extraction difficulty. Its global score is positively associated with surgery time, perceived difficulty, surgical technique, and postoperative complications. Machine learning models showed better performance at modeling surgery time than surgical difficulty.",
-      "objective": "included analyzing the relationship between the form's global score and surgical technique, surgeon-perceived difficulty, and postoperative complications. Machine learning models were also explored. A cross-sectional study was conducted on patients requiring a third molar extraction between April 2022 and May 2023, operated by students of the master's degree in Oral Surgery and Implantology (University of Barcelona, Spain). Three previously calibrated investigators completed the preoperative difficulty evaluation form, which included clinical, radiological and surgical variables. Descriptive and bivariate analyses were performed using the Stata/IC 15.1. Machine learning models were applied to predict surgery time and surgeon-perceived difficulty. A total of 205 patients, 75 males (36.6%) and 130 females (63.4%), with a mean age of 28.5±14.1 years were included; 49 (23.9%) were upper and 156 (76.1%) lower third molars. The global score of the form was significantly correlated to surgery time (Spearman's rho=0.640; P<0.001), perceived difficulty (Spearman's rho=0.395; P<0.001) and the surgical technique according to Parant's classification (P<0.001). Postoperative complications were associated to higher scores on the difficulty evaluation form (P=0.012). The preoperative assessment form is a valid tool for estimating third molar extraction difficulty. Its global score is positively associated with surgery time, perceived difficulty, surgical technique, and postoperative complications. Machine learning models showed better performance at modeling surgery time than surgical difficulty.",
-      "study_methods": "A cross-sectional study was conducted on patients requiring a third molar extraction between April 2022 and May 2023, operated by students of the master's degree in Oral Surgery and Implantology (University of Barcelona, Spain). Three previously calibrated investigators completed the preoperative difficulty evaluation form, which included clinical, radiological and surgical variables. Descriptive and bivariate analyses were performed using the Stata/IC 15.1. Machine learning models were applied to predict surgery time and surgeon-perceived difficulty.",
-      "methods": "A cross-sectional study was conducted on patients requiring a third molar extraction between April 2022 and May 2023, operated by students of the master's degree in Oral Surgery and Implantology (University of Barcelona, Spain). Three previously calibrated investigators completed the preoperative difficulty evaluation form, which included clinical, radiological and surgical variables. Descriptive and bivariate analyses were performed using the Stata/IC 15.1. Machine learning models were applied to predict surgery time and surgeon-perceived difficulty.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42001486/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42000655",
       "title": "Stability and complications following mandibular supra-foraminal high oblique osteotomy.",
       "authors": [
@@ -2730,107 +2894,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42000655/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41991416",
-      "title": "Skeletal correction in craniofacial microsomia: a case series and algorithm for management.",
-      "authors": [
-        "A A Heggie",
-        "D Rao"
-      ],
-      "publication_date": "2026-Apr-15",
-      "publication_date_iso": "2026-04-15",
-      "abstract": "Craniofacial microsomia is the second most common congenital anomaly of the head and neck region. The associated facial asymmetry due to mandibular hypoplasia, whether unilateral or bilateral, is a prominent feature of the disorder. Surgical management of the skeletal deformity is dependent on the grade of severity of the affected sides. Prepubertal interventions in patients with Kaban type IIB or III include condyle-ramus reconstructions as a prelude to final orthognathic correction of the facial asymmetry and occlusion. This retrospective study of the skeletal management of 29 patients with craniofacial microsomia was conducted to outline their surgery and to suggest an algorithm for future treatment of this condition. Fourteen patients were classified as Kaban type I or II and underwent one or more orthognathic surgical procedures at the completion of growth. Fifteen patients with type IIB or III mandibular deformities had costochondral graft temporomandibular joint reconstructions. Reduced mandibular opening due to progressive ankylosis occurred in seven of these patients (47%), but this was treated successfully with release and subsequent orthognathic surgery. With the more recent addition of total joint replacement in craniofacial microsomia, there remains a wide divergence of opinion regarding early surgery. An algorithm for the management of the mandibular deformity is presented.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41991416/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41991414",
-      "title": "Customized 3D-printed surgical templates for maxillary repositioning: a systematic review.",
-      "authors": [
-        "H Y Li",
-        "K J C Lee",
-        "C W Yong",
-        "M T Chew",
-        "Y Ren"
-      ],
-      "publication_date": "2026-Apr-15",
-      "publication_date_iso": "2026-04-15",
-      "abstract": "There is a variety of three-dimensional (3D) surgical templates to improve the precision of maxillary repositioning in orthognathic surgery. The spectrum and inconsistent terminology make it difficult to compare outcomes, practices, and selecting the most suitable templates. The aim of this systematic review was to analyse the literature on 3D-printed surgical templates used in orthognathic surgery, with the goal of mapping existing approaches and proposing a classification system based on design and reported outcomes. This review is reported in accordance with the PRISMA guidelines. A comprehensive search was conducted in PubMed, Embase, and Cochrane Library. The extracted data included template design, accuracy, operative time, complications, and reported advantages or limitations. Thirty-five studies met the inclusion criteria. A classification framework is proposed based on two main types-bone-borne and tooth-bone-borne templates-and three subtypes: (1) osteotomy guides integrated with patient-specific implants, (2) osteotomy guides used with pre-bent fixation plates, and (3) osteotomy and repositioning guides used with intraoperative bending of plates. Across studies, most templates demonstrated acceptable accuracies (≤2 mm), with minimal complications reported. However, differences in workflow, instrumentation, and intraoperative flexibility were noted. The proposed classification system encompasses the diverse range of 3D-printed surgical templates reported in the literature.",
-      "objective": "of this systematic review was to analyse the literature on 3D-printed surgical templates used in orthognathic surgery, with the goal of mapping existing approaches and proposing a classification system based on design and reported outcomes. This review is reported in accordance with the PRISMA guidelines. A comprehensive search was conducted in PubMed, Embase, and Cochrane Library. The extracted data included template design, accuracy, operative time, complications, and reported advantages or limitations. Thirty-five studies met the inclusion criteria. A classification framework is proposed based on two main types-bone-borne and tooth-bone-borne templates-and three subtypes: (1) osteotomy guides integrated with patient-specific implants, (2) osteotomy guides used with pre-bent fixation plates, and (3) osteotomy and repositioning guides used with intraoperative bending of plates. Across studies, most templates demonstrated acceptable accuracies (≤2 mm), with minimal complications reported. However, differences in workflow, instrumentation, and intraoperative flexibility were noted. The proposed classification system encompasses the diverse range of 3D-printed surgical templates reported in the literature.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41991414/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41984112",
-      "title": "Three-dimensional comparison of nasal changes following segmented and non-segmented Le Fort I osteotomies.",
-      "authors": [
-        "Oliver da Costa Senior",
-        "Anne-Sophie Milants",
-        "Viktor Proesmans",
-        "Reinhilde Jacobs",
-        "Eman Shaheen",
-        "Constantinus Politis"
-      ],
-      "publication_date": "2026-Apr-15",
-      "publication_date_iso": "2026-04-15",
-      "abstract": "Le Fort I osteotomy can lead to significant changes in nasal soft tissue, potentially affecting facial aesthetics. While previous studies have explored these effects, few have used three-dimensional photogrammetry or accounted for maxillary segmentation and movement. This retrospective matched case-control study compares nasal soft tissue changes one year after segmented versus non-segmented Le Fort I osteotomies using 3D stereophotogrammetry. Forty-nine patients who underwent segmented or non-segmented Le Fort I osteotomy between 2016 and 2021 were included. Pre- and one-year postoperative 3D VECTRA images were analyzed to assess nasal width and tip position. Subgroup analyses were performed based on maxillary advancement, intrusion, and extrusion. Both groups showed consistent nasal base widening (1.9 mm in segmented vs. 2.3 mm in non-segmented), with no statistically significant differences. Segmented osteotomies were associated with a mean decrease in vertical nasal tip position (-4.1 mm), while non-segmented cases showed an increase (+ 2.2 mm). Vertical repositioning, rather than segmentation, had the greatest impact on nasal tip morphology. Nasal base widening occurs consistently after Le Fort I osteotomy, regardless of segmentation. Segmentation did not exacerbate nasal changes and may even slightly reduce them. Vertical repositioning, particularly intrusion, is the main factor influencing nasal tip position. These findings support the importance of careful soft tissue management and informed patient counseling.",
-      "objective": "",
-      "study_methods": "Forty-nine patients who underwent segmented or non-segmented Le Fort I osteotomy between 2016 and 2021 were included. Pre- and one-year postoperative 3D VECTRA images were analyzed to assess nasal width and tip position. Subgroup analyses were performed based on maxillary advancement, intrusion, and extrusion.",
-      "methods": "Forty-nine patients who underwent segmented or non-segmented Le Fort I osteotomy between 2016 and 2021 were included. Pre- and one-year postoperative 3D VECTRA images were analyzed to assess nasal width and tip position. Subgroup analyses were performed based on maxillary advancement, intrusion, and extrusion.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41984112/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41983684",
-      "title": "Three-dimensional evaluation of mandibular condyle changes following orthognathic surgery in Class III patients.",
-      "authors": [
-        "Emre Bakaç",
-        "Kemal Atakan Bayburt",
-        "Nurettin Diker",
-        "Dogan Dolanmaz"
-      ],
-      "publication_date": "2026-Apr-15",
-      "publication_date_iso": "2026-04-15",
-      "abstract": "To assess early temporomandibular joint (TMJ) adaptation by evaluating angular and volumetric changes of the mandibular condyle relative to the cranial base in skeletal Class III patients following orthognathic surgery using computed tomography (CT). Forty-five skeletal Class III patients treated with bilateral sagittal split ramus osteotomy and Le Fort I osteotomy were retrospectively evaluated. Preoperative and postoperative CT scans were reconstructed into three-dimensional models and superimposed using stable cranial base references. Angular changes of the proximal segment in the sagittal, coronal, and axial planes, along with regional and total condylar volume changes, were analyzed. A statistically significant but limited bilateral decrease in condylar volume was observed postoperatively (p < .05). Regional analysis demonstrated predominant resorption in the posterior and anterolateral regions and apposition in the anteromedial and anterior-central regions. Increased axial condyle - coronoid angles and decreased sagittal posterior condylar angles indicated medial and counterclockwise rotation of the proximal segment. No significant correlation was found between angular and volumetric changes. Early TMJ adaptation after Class III orthognathic surgery appears predictable and remains within physiological limits, emphasizing the multifactorial nature of condylar remodeling.",
-      "objective": "",
-      "study_methods": "Forty-five skeletal Class III patients treated with bilateral sagittal split ramus osteotomy and Le Fort I osteotomy were retrospectively evaluated. Preoperative and postoperative CT scans were reconstructed into three-dimensional models and superimposed using stable cranial base references. Angular changes of the proximal segment in the sagittal, coronal, and axial planes, along with regional and total condylar volume changes, were analyzed.",
-      "methods": "Forty-five skeletal Class III patients treated with bilateral sagittal split ramus osteotomy and Le Fort I osteotomy were retrospectively evaluated. Preoperative and postoperative CT scans were reconstructed into three-dimensional models and superimposed using stable cranial base references. Angular changes of the proximal segment in the sagittal, coronal, and axial planes, along with regional and total condylar volume changes, were analyzed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41983684/",
       "pmcid": "",
       "figure_urls": []
     }
