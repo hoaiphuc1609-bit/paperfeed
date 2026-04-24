@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T04:54:02Z",
+  "updated_at": "2026-04-24T05:12:36Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1491,6 +1491,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "41990712",
+      "title": "Long-term outcomes of conservative management in juvenile recurrent parotitis: A 10 year retrospective study.",
+      "authors": [
+        "Masih Safa",
+        "Shi-Tong Liu",
+        "Chuan-Xiang Zhou",
+        "Guang-Yan Yu",
+        "Jia-Zeng Su"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "This 10-year follow-up study aimed to assess the long-term outcomes of a standardized conservative management protocol for juvenile recurrent parotitis (JRP), evaluating its long-term clinical outcomes in achieving durable symptom resolution and its safety in a pediatric cohort of 85 patients. Specifically, this study sought to determine whether a structured, non-interventional regimen-comprising gland massage, hydration, and oral hygiene-could effectively control symptoms and promote spontaneous disease resolution, thereby providing evidence to address the current clinical dilemma regarding the necessity of medical interventions (e.g., ductal irrigation, sialendoscopy) in the conservative management of JRP. A retrospective cohort of pediatric patients with radiographically confirmed JRP was managed with a standardized conservative protocol. Patients were managed exclusively with this conservative protocol, and no other medical or procedural interventions were administered. This protocol included parotid gland massage, systemic hydration, salivary stimulation, and saline rinses. Long-term outcomes were assessed through clinical evaluations and patient-reported measures. After a mean follow-up of 10 years, annual episode frequency decreased from 5.2 ± 2.8 pre-treatment to 0.6 ± 1.1 at final follow-up; 90.6% (77/85) achieved complete and sustained symptomatic resolution, 4.7% (4/85) met criteria for significant improvement, and 4.7% (4/85) showed no improvement. When combining complete resolution and sustained significant improvement, the overall favorable outcome rate was 95.3%. This long-term study suggests that structured conservative management is associated with favorable long-term outcomes and appears to represent a reasonable initial management strategy for juvenile recurrent parotitis, while reserving medical interventions for a small subset of patients with refractory disease.",
+      "objective": "",
+      "study_methods": "A retrospective cohort of pediatric patients with radiographically confirmed JRP was managed with a standardized conservative protocol. Patients were managed exclusively with this conservative protocol, and no other medical or procedural interventions were administered. This protocol included parotid gland massage, systemic hydration, salivary stimulation, and saline rinses. Long-term outcomes were assessed through clinical evaluations and patient-reported measures.",
+      "methods": "A retrospective cohort of pediatric patients with radiographically confirmed JRP was managed with a standardized conservative protocol. Patients were managed exclusively with this conservative protocol, and no other medical or procedural interventions were administered. This protocol included parotid gland massage, systemic hydration, salivary stimulation, and saline rinses. Long-term outcomes were assessed through clinical evaluations and patient-reported measures.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41990712/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41978223",
       "title": "Innovative Approaches for Utilizing the Fibula Flap Skin Paddle in the Presence of Alternate Vessel Anatomy-A Report of Three Clinical Cases.",
       "authors": [
@@ -1535,7 +1561,6 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery",
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41970315/",
@@ -2612,6 +2637,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42021272",
+      "title": "Trueness of fully guided static computer-assisted implant surgery for immediate implant placement in premolar and molar sites, an observational analysis.",
+      "authors": [
+        "Vitalijs Gnusins",
+        "Samuel Akhondi",
+        "Dainius Razukevičius",
+        "João Afonso",
+        "German O Gallucci",
+        "Algirdas Puisys"
+      ],
+      "publication_date": "2026-Apr-22",
+      "publication_date_iso": "2026-04-22",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42021272/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42018467",
       "title": "Deep Caries Management: EFCD-ESE-ORCA S3-Level Clinical Practice Guideline.",
       "authors": [
@@ -2641,7 +2693,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42018467/",
-      "pmcid": "",
+      "pmcid": "PMC13102370",
       "figure_urls": []
     },
     {
@@ -2674,39 +2726,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42017497/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42014635",
-      "title": "Deep caries management: EFCD-ESE-ORCA S3-level clinical practice guideline.",
-      "authors": [
-        "Falk Schwendicke",
-        "Esra Kosan",
-        "Avijit Banerjee",
-        "Aylin Baysan",
-        "Lars Bjørndal",
-        "Laura Ceballos",
-        "Henry F Duncan",
-        "Sascha Herbst",
-        "Klaus W Neuhaus",
-        "Anne C O'Connell",
-        "Sebastian Paris",
-        "Helena Dujic"
-      ],
-      "publication_date": "2026-Apr-22",
-      "publication_date_iso": "2026-04-22",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42014635/",
       "pmcid": "",
       "figure_urls": []
     },
