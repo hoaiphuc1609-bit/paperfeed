@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T05:12:36Z",
+  "updated_at": "2026-04-25T04:40:18Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -114,12 +114,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41858234/",
       "pmcid": "PMC13007456",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_PB.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_PB.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41582805",
@@ -754,12 +749,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41909226/",
       "pmcid": "PMC13022637",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022637/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022637/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022637/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022637/bin/gr1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41893871",
@@ -2570,6 +2560,34 @@
       "figure_urls": []
     },
     {
+      "pmid": "40035866",
+      "title": "Is simultaneous placement of orthodontic mini-implants and skeletally anchored appliances advisable? : CBCT-based cadaver study comparing the accuracy of the digital workflow with methods requiring two visits.",
+      "authors": [
+        "Till Augustinowitz",
+        "Lucia Schiavon",
+        "Katharina Mücke",
+        "Beryl Schwarz-Herzke",
+        "Dieter Drescher",
+        "Giulia Brunello",
+        "Kathrin Becker"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "For the fabrication of an orthodontic mini-implant (OMI)-borne appliance, the position of the inserted OMI can be detected by a silicone impression or an intraoral scan (IOS). In case of digital planning, it can be taken over from the planning and the appliance can be produced in advance. This study aimed to evaluate the accuracy of these three techniques and whether there is an association with the insertion angle. Two OMIs were digitally planned and placed in the anterior palate of 11 human cadavers with different insertion angles. Subsequently, the position of each OMI was detected by an IOS, a silicone impression, and a cone-beam computed tomography (CBCT) scan, whereby the CBCT scan was set as \"real position\". The measurements of accuracy were performed between the CBCT data as a reference and the preoperative digital planning, the IOS and the plaster model manufactured from the silicone impression. The IOS was the most accurate in detecting the Top (mean deviation 0.14 mm) and the Apex (mean deviation 0.36 mm) of the OMIs. Significant linear deviations between the three modalities were registered for both Top (p < 0.001) and Apex (p = 0.010). The digital planning procedure achieved the lowest mean angular deviation of 3.7° and was significantly more accurate in this respect than the IOS (p < 0.001). All methods were subject to small, but clinically irrelevant deviations. Within the limitations of a cadaver study, all methods appear to be suitable for clinical use. However, the digital workflow could be advantageous, requiring only a single visit for OMI placement and simultaneous appliance fitting.",
+      "objective": "",
+      "study_methods": "Two OMIs were digitally planned and placed in the anterior palate of 11 human cadavers with different insertion angles. Subsequently, the position of each OMI was detected by an IOS, a silicone impression, and a cone-beam computed tomography (CBCT) scan, whereby the CBCT scan was set as \"real position\". The measurements of accuracy were performed between the CBCT data as a reference and the preoperative digital planning, the IOS and the plaster model manufactured from the silicone impression.",
+      "methods": "Two OMIs were digitally planned and placed in the anterior palate of 11 human cadavers with different insertion angles. Subsequently, the position of each OMI was detected by an IOS, a silicone impression, and a cone-beam computed tomography (CBCT) scan, whereby the CBCT scan was set as \"real position\". The measurements of accuracy were performed between the CBCT data as a reference and the preoperative digital planning, the IOS and the plaster model manufactured from the silicone impression.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40035866/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "39925040",
       "title": "Karl Jarmer (1898-1983): Dentist and first professor of dentistry in Dresden.",
       "authors": [
@@ -2637,6 +2655,85 @@
       "figure_urls": []
     },
     {
+      "pmid": "42029940",
+      "title": "Wisdom teeth removal and anterior alignment stability after orthodontic treatment-a systematic review.",
+      "authors": [
+        "Sophia Amberg",
+        "Annika Kroeger",
+        "Emma Houlston",
+        "Sinan Şen",
+        "Moritz Kebschull"
+      ],
+      "publication_date": "2026-Apr-24",
+      "publication_date_iso": "2026-04-24",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42029940/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42029387",
+      "title": "Anatomical Predictors of Lingual Fracture Sites in Bilateral Sagittal Split Osteotomy: A 3D Morphological Study.",
+      "authors": [
+        "Koray Temiz",
+        "Can Ege Yalcin",
+        "Anil Demiroz",
+        "Hakan Arslan"
+      ],
+      "publication_date": "2026-Apr-24",
+      "publication_date_iso": "2026-04-24",
+      "abstract": "Bilateral sagittal split osteotomy (BSSO) is widely used in orthognathic surgery; however, unpredictable lingual fractures can complicate outcomes and surgical planning. This study aims to determine why lingual fractures consistently occur at specific anatomical locations and not at adjacent sites by analyzing the relationship between cortical thickness and cancellous bone content. Preoperative and postoperative cone-beam computed tomography (CBCT) scans of 21 patients (42 hemimandibles) were retrospectively evaluated. Bone morphology was assessed across multiple planes and points to measure buccal cortex, lingual cortex, and cancellous bone thickness at the fracture site and neighboring regions. LSS type 3 fractures were the most common pattern (71.4%). Lingual fractures consistently occurred at sites where the lingual cortex was significantly thinner than the anterior neighbor and where cancellous bone volume decreased. The fracture point was located just anterior to a region where the cortical bone content increased markedly, particularly on the lingual side, especially in the ramus and mandibular angle. Lingual fractures during BSSO occur at transition zones of increased cortical resistance and reduced cancellous content. These anatomical characteristics can guide surgeons in anticipating fracture behavior and improving osteotomy planning.",
+      "objective": "to determine why lingual fractures consistently occur at specific anatomical locations and not at adjacent sites by analyzing the relationship between cortical thickness and cancellous bone content. Preoperative and postoperative cone-beam computed tomography (CBCT) scans of 21 patients (42 hemimandibles) were retrospectively evaluated. Bone morphology was assessed across multiple planes and points to measure buccal cortex, lingual cortex, and cancellous bone thickness at the fracture site and neighboring regions. LSS type 3 fractures were the most common pattern (71.4%). Lingual fractures consistently occurred at sites where the lingual cortex was significantly thinner than the anterior neighbor and where cancellous bone volume decreased. The fracture point was located just anterior to a region where the cortical bone content increased markedly, particularly on the lingual side, especially in the ramus and mandibular angle. Lingual fractures during BSSO occur at transition zones of increased cortical resistance and reduced cancellous content. These anatomical characteristics can guide surgeons in anticipating fracture behavior and improving osteotomy planning.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42029387/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42026802",
+      "title": "Does Severity of the Bony Facial Trauma Score Predict Cost of Management in Patients with Facial Trauma: A Large Database Study.",
+      "authors": [
+        "Eli Stein",
+        "Jin Hua Li",
+        "Adrienne Biskaduros",
+        "Juan Briano",
+        "Katherine Tai",
+        "Rachel E Weitzman",
+        "Anthony P Sclafani"
+      ],
+      "publication_date": "2026-Apr-23",
+      "publication_date_iso": "2026-04-23",
+      "abstract": "The Bony Facial Trauma Score (BFTS) was developed to standardize the extent of injury in facial trauma and improve communication between health care providers. To determine if BFTS scores in patients with facial trauma are correlated with the hospital's cost of treating the patient. A retrospective chart review of 1,086 patients with facial fractures from 2010 to 2021 was performed. Patient information, BFTS score, length of stay (LOS), and hospital charges were collected. Spearman's correlations and multivariable regression analysis measured the association between cost and BFTS score. The average cost of management was $13,939.04 (SD: 27,573.17) per patient and the average LOS was 4.96 (SD: 9.86) days. The average BFTS score was 5.49 (SD: 4.25). BFTS had a moderately positive correlation with total cost (r = 0.40, p < 0.001), with each additional point predicting an increase of $1,309 in cost (p = 0.017). The BFTS also had a weakly positive correlation with LOS (r = 0.29, p < 0.001). Patients managed surgically were found to have higher BFTS scores than those managed conservatively (7.0 vs. 4.3, p < 0.001). BFTS correlates with hospital cost, LOS, and need for surgery, supporting its role as a standardized tool to quantify facial trauma severity and anticipate cost and resource utilization in clinical care.",
+      "objective": "",
+      "study_methods": "A retrospective chart review of 1,086 patients with facial fractures from 2010 to 2021 was performed. Patient information, BFTS score, length of stay (LOS), and hospital charges were collected. Spearman's correlations and multivariable regression analysis measured the association between cost and BFTS score.",
+      "methods": "A retrospective chart review of 1,086 patients with facial fractures from 2010 to 2021 was performed. Patient information, BFTS score, length of stay (LOS), and hospital charges were collected. Spearman's correlations and multivariable regression analysis measured the association between cost and BFTS score.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42026802/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42021272",
       "title": "Trueness of fully guided static computer-assisted implant surgery for immediate implant placement in premolar and molar sites, an observational analysis.",
       "authors": [
@@ -2660,72 +2757,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42021272/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42018467",
-      "title": "Deep Caries Management: EFCD-ESE-ORCA S3-Level Clinical Practice Guideline.",
-      "authors": [
-        "Falk Schwendicke",
-        "Esra Kosan",
-        "Avijit Banerjee",
-        "Aylin Baysan",
-        "Lars Bjørndal",
-        "Laura Ceballos",
-        "Henry F Duncan",
-        "Sascha Herbst",
-        "Klaus W Neuhaus",
-        "Anne C O Apos Connell",
-        "Sebastian Paris",
-        "Helena Dujic"
-      ],
-      "publication_date": "2026-Apr-22",
-      "publication_date_iso": "2026-04-22",
-      "abstract": "The objective of this study was to develop an evidence-based S3-level clinical practice guideline for the management of deep and extremely deep caries in vital permanent teeth. An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA), and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding: (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps, and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesized and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal, and Caries Research journals' websites. Evidence supports selective (SE) or stepwise caries removal (SW) over non-selective removal (NSE) to reduce the risk of pulp exposure in deep caries. Routine use of cavity liners after caries removal showed no consistent clinical benefit and is not routinely recommended. For vital pulp therapy following pulp exposure, both direct pulp capping and pulpotomy are effective options in teeth without irreversible pulpitis, while pulpotomy is an acceptable alternative to pulpectomy in cases with signs of irreversible pulpitis. Hydraulic calcium silicate cements demonstrated superior clinical outcomes compared to calcium hydroxide and should be preferred for pulp capping and pulpotomy. The certainty of evidence ranged from very low to moderate across questions and outcomes. For deep caries, maintaining pulp vitality by using less invasive management strategies is supported by current evidence. Implementation of this guideline requires clinician training, patient-centred decision-making, and consideration of economic and practical factors. Further research is needed, particularly for extremely deep caries and towards long-term outcomes.",
-      "objective": "of this study was to develop an evidence-based S3-level clinical practice guideline for the management of deep and extremely deep caries in vital permanent teeth. An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA), and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding: (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps, and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesized and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal, and Caries Research journals' websites. Evidence supports selective (SE) or stepwise caries removal (SW) over non-selective removal (NSE) to reduce the risk of pulp exposure in deep caries. Routine use of cavity liners after caries removal showed no consistent clinical benefit and is not routinely recommended. For vital pulp therapy following pulp exposure, both direct pulp capping and pulpotomy are effective options in teeth without irreversible pulpitis, while pulpotomy is an acceptable alternative to pulpectomy in cases with signs of irreversible pulpitis. Hydraulic calcium silicate cements demonstrated superior clinical outcomes compared to calcium hydroxide and should be preferred for pulp capping and pulpotomy. The certainty of evidence ranged from very low to moderate across questions and outcomes. For deep caries, maintaining pulp vitality by using less invasive management strategies is supported by current evidence. Implementation of this guideline requires clinician training, patient-centred decision-making, and consideration of economic and practical factors. Further research is needed, particularly for extremely deep caries and towards long-term outcomes.",
-      "study_methods": "An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA), and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding: (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps, and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesized and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal, and Caries Research journals' websites.",
-      "methods": "An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA), and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding: (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps, and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesized and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal, and Caries Research journals' websites.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42018467/",
-      "pmcid": "PMC13102370",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42017497",
-      "title": "Deep Caries Management: EFCD-ESE-ORCA S3-Level Clinical Practice Guideline.",
-      "authors": [
-        "Falk Schwendicke",
-        "Esra Kosan",
-        "Avijit Banerjee",
-        "Aylin Baysan",
-        "Lars Bjørndal",
-        "Laura Ceballos",
-        "Henry F Duncan",
-        "Sascha Herbst",
-        "Klaus W Neuhaus",
-        "Anne C O'Connell",
-        "Sebastian Paris",
-        "Helena Dujic"
-      ],
-      "publication_date": "2026-Apr-22",
-      "publication_date_iso": "2026-04-22",
-      "abstract": "To develop an evidence-based S3-level clinical practice guideline for the management of deep and extremely deep caries in vital permanent teeth. An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA) and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesised and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal and Caries Research journals' websites. Evidence supports selective (SE) or stepwise caries removal (SW) over non-selective removal (NSE) to reduce the risk of pulp exposure in deep caries. Routine use of cavity liners after caries removal showed no consistent clinical benefit and is not routinely recommended. For vital pulp therapy following pulp exposure, both direct pulp capping and pulpotomy are effective options in teeth without irreversible pulpitis, while pulpotomy is an acceptable alternative to pulpectomy in cases with signs of irreversible pulpitis. Hydraulic calcium silicate cements demonstrated superior clinical outcomes compared to calcium hydroxide and should be preferred for pulp capping and pulpotomy. The certainty of evidence ranged from very low to moderate across questions and outcomes. For deep caries, maintaining pulp vitality by using less invasive management strategies is supported by current evidence. Implementation of this guideline requires clinician training, patient-centered decision-making and consideration of economic and practical factors. Further research is needed, particularly for extremely deep caries and towards long-term outcomes.",
-      "objective": "",
-      "study_methods": "An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA) and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesised and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal and Caries Research journals' websites.",
-      "methods": "An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA) and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesised and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal and Caries Research journals' websites.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42017497/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2888,31 +2919,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42007916/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42000655",
-      "title": "Stability and complications following mandibular supra-foraminal high oblique osteotomy.",
-      "authors": [
-        "U Heller",
-        "P Goudot",
-        "G Murcier",
-        "T Schouman"
-      ],
-      "publication_date": "2026-Apr-17",
-      "publication_date_iso": "2026-04-17",
-      "abstract": "The aim of this study was to evaluate the results and complications following supra-foraminal high oblique osteotomy (SHOO) using patient-specific guides and implants (PSI). We selected consecutive patients who had undergone SHOO using PSI from May 2017 to December 2018 and had a minimum follow-up of 6 months. We collected the initial malocclusion and deformity, treatment planning, intraoperative and postoperative complications, stability, lower lip sensitivity, and temporo-mandibular joint disorders at 6 months. We also verified the amount of bone contact and mandibular sagittal repositioning on postoperative CT scans. One hundred and sixteen patients were included. Seventy-five (65%) had class II malocclusion and 18 (15.5%) had open bite. The mean sagittal displacement was 4.9 mm (2.6). At 6 months, 22 (19%) patients presented with malocclusion including 15 (13%) open bites, even though 10 of these patients had a normal overbite at preoperative assessment. Six (5%) of these patients required revision surgery for malocclusion. Mandibular secondary displacement was not statistically associated with initial malocclusion, amount of sagittal mandibular repositioning, profit classification, or intraoperative fixation adaptation. SHOO was associated in our series with poor occlusal stability due to a high rate of secondary displacements eventually requiring revision surgery.",
-      "objective": "of this study was to evaluate the",
-      "study_methods": "",
-      "methods": "",
-      "results": "and complications following supra-foraminal high oblique osteotomy (SHOO) using patient-specific guides and implants (PSI). We selected consecutive patients who had undergone SHOO using PSI from May 2017 to December 2018 and had a minimum follow-up of 6 months. We collected the initial malocclusion and deformity, treatment planning, intraoperative and postoperative complications, stability, lower lip sensitivity, and temporo-mandibular joint disorders at 6 months. We also verified the amount of bone contact and mandibular sagittal repositioning on postoperative CT scans. One hundred and sixteen patients were included. Seventy-five (65%) had class II malocclusion and 18 (15.5%) had open bite. The mean sagittal displacement was 4.9 mm (2.6). At 6 months, 22 (19%) patients presented with malocclusion including 15 (13%) open bites, even though 10 of these patients had a normal overbite at preoperative assessment. Six (5%) of these patients required revision surgery for malocclusion. Mandibular secondary displacement was not statistically associated with initial malocclusion, amount of sagittal mandibular repositioning, profit classification, or intraoperative fixation adaptation. SHOO was associated in our series with poor occlusal stability due to a high rate of secondary displacements eventually requiring revision surgery.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42000655/",
       "pmcid": "",
       "figure_urls": []
     }
