@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T04:40:18Z",
+  "updated_at": "2026-04-27T05:29:50Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -2584,7 +2584,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40035866/",
-      "pmcid": "",
+      "pmcid": "PMC13109175",
       "figure_urls": []
     },
     {
@@ -2655,18 +2655,95 @@
       "figure_urls": []
     },
     {
-      "pmid": "42029940",
-      "title": "Wisdom teeth removal and anterior alignment stability after orthodontic treatment-a systematic review.",
+      "pmid": "42035987",
+      "title": "Piezosurgical partial ostectomy of the incisive bone for an ossifying fibroma removal in a 4-year-old Warmblood gelding.",
       "authors": [
-        "Sophia Amberg",
-        "Annika Kroeger",
-        "Emma Houlston",
-        "Sinan Şen",
-        "Moritz Kebschull"
+        "G Forni",
+        "M E Falomo",
+        "I Casalini",
+        "M Isola"
+      ],
+      "publication_date": "2026-Apr-26",
+      "publication_date_iso": "2026-04-26",
+      "abstract": "Ossifying fibromas are uncommon in horses and complete surgical excision with premaxillectomy, maxillectomy or mandibulectomy is recommended. Piezosurgery has been previously used in equines only in one study. To report a case of ossifying fibroma treated with piezosurgery and to describe its follow-up. Clinical case report. A 4-year-old Zangersheide gelding was presented for a mass occupying the space of tooth 202. Histology confirmed the diagnosis of ossifying fibroma, which was removed by resection of soft tissues and a slice of the premaxilla with a piezotome. First intention closure was achieved with a U-plasty between the soft palate and the gingiva. Afterwards, histology confirmed complete removal of the mass. At 5 months, the horse did not show signs of recurrence. Surgery was easy to perform with the piezotome and the cosmetic result was excellent. Piezosurgery is a feasible technique for oral surgeries in horses, although more prospective studies are required.",
+      "objective": "",
+      "study_methods": "A 4-year-old Zangersheide gelding was presented for a mass occupying the space of tooth 202. Histology confirmed the diagnosis of ossifying fibroma, which was removed by resection of soft tissues and a slice of the premaxilla with a piezotome. First intention closure was achieved with a U-plasty between the soft palate and the gingiva. Afterwards, histology confirmed complete removal of the mass.",
+      "methods": "A 4-year-old Zangersheide gelding was presented for a mass occupying the space of tooth 202. Histology confirmed the diagnosis of ossifying fibroma, which was removed by resection of soft tissues and a slice of the premaxilla with a piezotome. First intention closure was achieved with a U-plasty between the soft palate and the gingiva. Afterwards, histology confirmed complete removal of the mass.",
+      "results": "was excellent. Piezosurgery is a feasible technique for oral surgeries in horses, although more prospective studies are required.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42035987/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42035628",
+      "title": "Ultrasound examination of asymmetry in temporomandibular disorders.",
+      "authors": [
+        "Szilvia Mihályi",
+        "Flóra Borbála Horváth",
+        "Ákos Wágner",
+        "Judit Anna Kolonics",
+        "László Simonffy",
+        "Péter Hermann"
+      ],
+      "publication_date": "2026-Apr-25",
+      "publication_date_iso": "2026-04-25",
+      "abstract": "Ultrasonography is a non-invasive, radiation-free, and cost-effective imaging modality for evaluating the Temporomandibular Joint (TMJ) and Masticatory Muscles (MM). Despite its clinical potential, a standardized quantitative ultrasound protocol for assessing masticatory system asymmetry in Temporomandibular Disorders (TMD) is lacking. This pilot study aimed to evaluate the feasibility of a standardized ultrasound protocol for the quantitative assessment of masticatory system asymmetry and to explore its preliminary associations with TMD-related symptoms. Fifteen young adult participants (aged 19-26 years) underwent bilateral ultrasound examination of the masticatory muscles (masseter, temporalis, lateral pterygoid, and sternocleidomastoid muscles) and TMJ structures, including interarticular spaces and articular components. Measurements were performed by trained examiners using standardized anatomical landmarks. Asymmetry was quantified using percentage difference indices and aggregated into a composite anatomical asymmetry score. Proposed asymmetry reference values were applied for descriptive purposes only, and all statistical analyses were conducted on an exploratory, hypothesis-generating basis. The composite anatomical asymmetry index differed from symmetry (mean ± SD: 18.45% ± 17.13%). An association was observed between anatomical asymmetry and joint sounds (crepitation) (Spearman's ρ = 0.88), while pain showed a lower-magnitude association (ρ = 0.51). This pilot study demonstrates the feasibility of a standardized ultrasound-based protocol for the quantitative assessment of masticatory system asymmetry. The findings are exploratory and intended to support methodological development and hypothesis generation. Further validation in larger, blinded study populations is warranted.",
+      "objective": "",
+      "study_methods": "Fifteen young adult participants (aged 19-26 years) underwent bilateral ultrasound examination of the masticatory muscles (masseter, temporalis, lateral pterygoid, and sternocleidomastoid muscles) and TMJ structures, including interarticular spaces and articular components. Measurements were performed by trained examiners using standardized anatomical landmarks. Asymmetry was quantified using percentage difference indices and aggregated into a composite anatomical asymmetry score. Proposed asymmetry reference values were applied for descriptive purposes only, and all statistical analyses were conducted on an exploratory, hypothesis-generating basis.",
+      "methods": "Fifteen young adult participants (aged 19-26 years) underwent bilateral ultrasound examination of the masticatory muscles (masseter, temporalis, lateral pterygoid, and sternocleidomastoid muscles) and TMJ structures, including interarticular spaces and articular components. Measurements were performed by trained examiners using standardized anatomical landmarks. Asymmetry was quantified using percentage difference indices and aggregated into a composite anatomical asymmetry score. Proposed asymmetry reference values were applied for descriptive purposes only, and all statistical analyses were conducted on an exploratory, hypothesis-generating basis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42035628/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42034577",
+      "title": "Lower facial third projection: Analysis using true vertical lines from subnasale and soft Nasion.",
+      "authors": [
+        "Juan C Silva-Montero",
+        "Juan C Rodríguez-Fernández",
+        "Francisco Pastor-Dorado",
+        "José M Barrera-Mora",
+        "Carlos Flores-Mir",
+        "Eduardo Espinar-Escalona"
       ],
       "publication_date": "2026-Apr-24",
       "publication_date_iso": "2026-04-24",
-      "abstract": "",
+      "abstract": "Orthognathic surgery is essential for correcting certain malocclusions and enhancing facial aesthetics. However, determining the ideal positioning of facial structures remains a topic of debate. This study aims to propose numerical references for surgical planning by determining the optimal sagittal projection of the maxillary incisors in aesthetically attractive Caucasian patients. An observational and retrospective study was conducted using cephalometric and photographic records of 89 patients' lateral profiles. These images were evaluated on a 10-point scale by orthodontists, maxillofacial surgeons, and laypeople. Cephalometric parameters were measured, including the position of the upper incisor and soft tissue pogonion, using the Barcelona Line and true vertical lines from subnasale. Statistical analyses were applied to explore the relationship between these parameters and aesthetic perception. The upper incisor and soft pogonion positions were found to significantly influence aesthetic perception. Ideal projection values for the upper incisor were 2.38 mm anterior to the Barcelona Line. The ideal projection for the soft pogonion was 6.02 mm anterior to the same reference. The positions of the upper incisor and soft pogonion are key predictors of aesthetic perception in orthognathic surgery. These findings may enhance surgical planning, although other factors may also affect facial aesthetics.",
+      "objective": "to propose numerical references for surgical planning by determining the optimal sagittal projection of the maxillary incisors in aesthetically attractive Caucasian patients. An observational and retrospective study was conducted using cephalometric and photographic records of 89 patients' lateral profiles. These images were evaluated on a 10-point scale by orthodontists, maxillofacial surgeons, and laypeople. Cephalometric parameters were measured, including the position of the upper incisor and soft tissue pogonion, using the Barcelona Line and true vertical lines from subnasale. Statistical analyses were applied to explore the relationship between these parameters and aesthetic perception. The upper incisor and soft pogonion positions were found to significantly influence aesthetic perception. Ideal projection values for the upper incisor were 2.38 mm anterior to the Barcelona Line. The ideal projection for the soft pogonion was 6.02 mm anterior to the same reference. The positions of the upper incisor and soft pogonion are key predictors of aesthetic perception in orthognathic surgery. These findings may enhance surgical planning, although other factors may also affect facial aesthetics.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42034577/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42033858",
+      "title": "Treatment of a hyperdivergent adult Class II subdivision malocclusion using customized 3D-printed lingual appliances, third-molar extraction, and skeletal anchorage: A case report.",
+      "authors": [
+        "Viet Anh Nguyen",
+        "Thi Minh Anh Ha",
+        "Thu Tra Nguyen"
+      ],
+      "publication_date": "2026-Apr-24",
+      "publication_date_iso": "2026-04-24",
+      "abstract": "Adult patients increasingly seek invisible, nonsurgical solutions for complex skeletal Class II malocclusion with bimaxillary protrusion, hyperdivergent pattern, and gummy smile. Managing these cases with full aesthetic demands while maintaining vertical control remains challenging. This case report describes the nonextraction treatment of a 32-year-old woman with skeletal Class II due to mandibular retrusion, bimaxillary incisor proclination, increased lower facial height, unilateral Class II subdivision, midline deviation, and excessive gingival display. She was treated with a premolar-preserving, nonsurgical approach using fully customized 3D-printed titanium lingual brackets and third-molar extraction. Maxillary en-masse distalization with palatal mini-implants, a mandibular buccal-shelf mini-implant, unilateral Class II elastics, and staged interproximal enamel reduction enabled space creation, asymmetric control, and anterior retraction. After 25 months, bilateral Class I relationships, normalized overjet and overbite, reduced gingival display, and improved lip position were achieved, with cephalometrics showing substantial incisor retraction and good vertical control. Root parallelism, alveolar support, and occlusal relationships were stable at 1-year follow-up. Fully customized 3D-printed lingual brackets supported by skeletal anchorage and conservative enamel reduction can offer an aesthetic, nonsurgical camouflage option for selected hyperdivergent skeletal Class II adults unwilling to undergo premolar extraction or orthognathic surgery.",
       "objective": "",
       "study_methods": "",
       "methods": "",
@@ -2674,9 +2751,9 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42029940/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42033858/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2702,6 +2779,30 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42029387/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42031578",
+      "title": "Long-term effects of inferior alveolar nerve injury on the quality of life of orthognathic patients: a clinical assessment.",
+      "authors": [
+        "A O Gerçek",
+        "G Topaloğlu Yasan",
+        "H H Tüz"
+      ],
+      "publication_date": "2026-Apr-23",
+      "publication_date_iso": "2026-04-23",
+      "abstract": "Orthognathic surgery can result in long-term neurosensory disturbances (NSDs), particularly involving the inferior alveolar nerve, which may influence patient quality of life (QoL). This retrospective study evaluated the relationship between persistent NSDs and QoL in patients who had undergone bilateral sagittal split osteotomy with/without genioplasty. Forty patients were included: 20 with persistent NSDs (>12 months postoperatively) and 20 controls. Somatosensory function was assessed using qualitative sensory tests, including two-point, light-touch, directional movement, pinprick, and sharp-blunt discrimination. Patient-reported outcomes were evaluated pre- and postoperatively using the Orthognathic Quality of Life Questionnaire (OQLQ) and Oral Health Impact Profile-14 (OHIP-14). Both groups exhibited significant improvements across all QoL domains. Although the NSD group patients demonstrated persistent sensory deficits in all qualitative sensory test parameters (all P < 0.05 compared to controls), their improvements in OQLQ and OHIP-14 were comparable to those of the control group, indicating that NSDs have a limited long-term effect on perceived QoL. Genioplasty was associated with significantly greater sensory impairment in multiple tests, while type of mandibular movement and sex showed no significant effects. Strong correlations were identified between OQLQ changes and both two-point discrimination and light-touch sensation (ρ range 0.47-0.73, all P < 0.05). These findings demonstrate significant and sustained improvements in patient overall QoL after orthognathic surgery despite persistent sensory dysfunction. In conclusion, although postoperative NSDs may develop, their long-term impact on patient QoL appears minimal. Nonetheless, the higher likelihood of somatosensory alterations associated with concomitant genioplasty should be considered during surgical planning.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "in long-term neurosensory disturbances (NSDs), particularly involving the inferior alveolar nerve, which may influence patient quality of life (QoL). This retrospective study evaluated the relationship between persistent NSDs and QoL in patients who had undergone bilateral sagittal split osteotomy with/without genioplasty. Forty patients were included: 20 with persistent NSDs (>12 months postoperatively) and 20 controls. Somatosensory function was assessed using qualitative sensory tests, including two-point, light-touch, directional movement, pinprick, and sharp-blunt discrimination. Patient-reported outcomes were evaluated pre- and postoperatively using the Orthognathic Quality of Life Questionnaire (OQLQ) and Oral Health Impact Profile-14 (OHIP-14). Both groups exhibited significant improvements across all QoL domains. Although the NSD group patients demonstrated persistent sensory deficits in all qualitative sensory test parameters (all P < 0.05 compared to controls), their improvements in OQLQ and OHIP-14 were comparable to those of the control group, indicating that NSDs have a limited long-term effect on perceived QoL. Genioplasty was associated with significantly greater sensory impairment in multiple tests, while type of mandibular movement and sex showed no significant effects. Strong correlations were identified between OQLQ changes and both two-point discrimination and light-touch sensation (ρ range 0.47-0.73, all P < 0.05). These findings demonstrate significant and sustained improvements in patient overall QoL after orthognathic surgery despite persistent sensory dysfunction. In",
+      "conclusion": ", although postoperative NSDs may develop, their long-term impact on patient QoL appears minimal. Nonetheless, the higher likelihood of somatosensory alterations associated with concomitant genioplasty should be considered during surgical planning.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42031578/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2734,29 +2835,31 @@
       "figure_urls": []
     },
     {
-      "pmid": "42021272",
-      "title": "Trueness of fully guided static computer-assisted implant surgery for immediate implant placement in premolar and molar sites, an observational analysis.",
+      "pmid": "42031068",
+      "title": "Influence of maxillary clockwise rotation with posterior impaction and mandibular setback by SSRO or IVRO for mandibular prognathism on volume change in upper airway.",
       "authors": [
-        "Vitalijs Gnusins",
-        "Samuel Akhondi",
-        "Dainius Razukevičius",
-        "João Afonso",
-        "German O Gallucci",
-        "Algirdas Puisys"
+        "Hisashi Ozaki",
+        "Hiroki Mori",
+        "Satoshi Kurokawa",
+        "Erika Miyamoto",
+        "Daisuke Kobayashi",
+        "Yosuke Kobayashi",
+        "Yuichiro Imai",
+        "Yoshihiko Yokoe"
       ],
       "publication_date": "2026-Apr-22",
       "publication_date_iso": "2026-04-22",
-      "abstract": "",
+      "abstract": "In orthognathic surgery for skeletal mandibular prognathism, maxillary clockwise rotation with posterior impaction and mandibular setback is often performed. Change in airway volume after orthognathic surgery is one of the concerns. The present study was performed to evaluate the effects of maxillary clockwise rotation with posterior impaction and the influence of different mandibular techniques, including sagittal splitting ramus osteotomy (SSRO) and intraoral vertical ramus osteotomy (IVRO), on upper airway volume changes before and after bimaxillary surgery for mandibular prognathism. We retrospectively investigated the amount of maxillary and mandibular movement and the changes on upper airway volume before and after surgery in 20 patients with mandibular prognathism who underwent bimaxillary surgery. Subjects were divided into Le Fort Ⅰ osteotomy (LF) +SSRO (n=10) and LF+IVRO (n=10) groups. Comparing changes in nasopharyngeal, hypopharyngeal and pharyngeal volumes before and after surgery, reductions in airway volume were significantly smaller with LF+SSRO than with LF+IVRO. Although not significant, a correlation trend was observed between maxillary impaction and increased hypopharyngeal and pharyngeal volume in LF+SSRO. In LF+SSRO, correlations were observed between mandibular setback and reduction in hypopharyngeal and pharyngeal volume. For posterior impaction and clockwise rotation of the maxilla with advancement and mandibular setback, LF+SSRO showed less change in postoperative upper airway volume than LF+IVRO and may be expected to reduce airway narrowing.",
       "objective": "",
-      "study_methods": "",
-      "methods": "",
+      "study_methods": "We retrospectively investigated the amount of maxillary and mandibular movement and the changes on upper airway volume before and after surgery in 20 patients with mandibular prognathism who underwent bimaxillary surgery. Subjects were divided into Le Fort Ⅰ osteotomy (LF) +SSRO (n=10) and LF+IVRO (n=10) groups.",
+      "methods": "We retrospectively investigated the amount of maxillary and mandibular movement and the changes on upper airway volume before and after surgery in 20 patients with mandibular prognathism who underwent bimaxillary surgery. Subjects were divided into Le Fort Ⅰ osteotomy (LF) +SSRO (n=10) and LF+IVRO (n=10) groups.",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42021272/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42031068/",
       "pmcid": "",
       "figure_urls": []
     },
