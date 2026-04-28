@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T05:29:50Z",
+  "updated_at": "2026-04-28T05:35:16Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -114,7 +114,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41858234/",
       "pmcid": "PMC13007456",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_PB.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_PB.jpg"
+      ]
     },
     {
       "pmid": "41582805",
@@ -655,6 +660,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "42038351",
+      "title": "Thrombospondin-1 triggers calreticulin expression in human mucoepidermoid carcinoma MC-3 cells via the PERK/CHOP pathway.",
+      "authors": [
+        "Shengwei Bao",
+        "Yuanyuan Zhu",
+        "Lijuan Guo",
+        "Sen Yang"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Mucoepidermoid carcinoma (MEC) is the most common salivary gland malignancy, accounting for ~30% of all salivary gland malignancies; however, effective treatments for advanced-stage disease remain limited. The induction of immunogenic cell death (ICD) has emerged as a potent anti-tumor intervention for MEC. Thrombospondin-1 (TSP-1) exhibits documented anti-tumor properties in MEC; however, its capacity to drive ICD-mediated tumor suppression remains poorly understood. In the present study, the mechanistic role of TSP-1 was investigated in MC-3 cells across four experimental cohorts: Control, TSP-1, TSP-1 combined with a PERK inhibitor (ISRIB) and TSP-1 combined with a PERK activator (CCT020312). Cellular assays, including flow cytometry, immunofluorescence and western blot analysis, revealed that TSP-1 triggered ICD at 72 h, characterized by a significant increase in calreticulin (CRT) surface exposure. Mechanistically, pharmacological inhibition of PERK attenuated the expression of the PERK/CHOP axis. Notably, while the 4 h TSP-1 monotherapy showed negligible effects on CRT, the integration of the PERK inhibitor markedly diminished PERK/CHOP/CRT signaling. Collectively, the present data indicated that TSP-1 facilitated ICD and CRT translocation in MEC cells via the activation of the PERK/CHOP signaling cascade. These results provide a rationale for further in vivo investigations to substantiate the therapeutic potential of TSP-1-induced ICD in MEC management.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "provide a rationale for further in vivo investigations to substantiate the therapeutic potential of TSP-1-induced ICD in MEC management.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42038351/",
+      "pmcid": "PMC13107154",
+      "figure_urls": []
+    },
+    {
       "pmid": "41938139",
       "title": "Synergistic osteogenesis, angiogenesis, and immune reprogramming by a metal-phenolic functionalized electrospun fibrous membrane for alveolar bone regeneration.",
       "authors": [
@@ -749,7 +779,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41909226/",
       "pmcid": "PMC13022637",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022637/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022637/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022637/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022637/bin/gr1.gif"
+      ]
     },
     {
       "pmid": "41893871",
@@ -1433,13 +1468,79 @@
       "figure_urls": []
     },
     {
-      "pmid": "42000349",
-      "title": "Full-arch rehabilitation with additively manufactured subperiosteal implants in Papillon-Lefèvre syndrome: A case report.",
+      "pmid": "42043893",
+      "title": "Homozygous Pathogenic Variant in Elongation Factor-Like 1 (EFL1) as a Causal Factor in Shwachman-Diamond Syndrome 2 in a Palestinian Child, With Distinct Ocular Manifestations.",
       "authors": [
-        "Qasim Jaddoua",
-        "Abdulrahman Kahil",
-        "Mounzer Assad",
-        "Nadim Sleman"
+        "Ibrahim Taha",
+        "Antonella Minelli",
+        "Cesare Danesino",
+        "Abdelrahman Swalmeh",
+        "Khalil Huraibat",
+        "Liana Al-Labadi",
+        "Rema Obar",
+        "Khaled R Beshtawi",
+        "Lubna Abu Samrah",
+        "Yousef Awlad Mohammad",
+        "Aya Farah",
+        "Abdulrahman Obar",
+        "Mutasem Khalaf",
+        "Orwa Nasser"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Shwachman-Diamond syndrome type 2 (SDS2) is a rare ribosomopathy caused by biallelic mutations in the EFL1 gene. This condition presents with features similar to classic SDS1 such as pancreatic insufficiency and haematologic abnormalities. We report a Palestinian female infant admitted to the NICU at H-Clinic Hospital, Ramallah, in January 2023, with a homozygous mutation in the EFL1 gene (c.3284G>A; p.Arg1095Gln), identified through whole exome sequencing and confirmed by Sanger sequencing. In addition to typical SDS2 features-pancytopenia, pancreatic insufficiency and growth failure-the patient exhibited unique manifestations, including ROP-like retinal changes, infantile esotropia with inferior oblique overaction, and elevated ACTH and 17-hydroxyprogesterone levels, indicating adrenal dysfunction. These findings expand the SDS2 phenotype to include novel ocular and endocrine involvement. No other pathogenic variants were identified by bioinformatic analysis. The recurrence of this variant in unrelated Palestinian families suggests a possible founder effect. This case underscores the importance of extended genetic testing and multidisciplinary evaluation in rare syndromes. It highlights the need for broader awareness of SDS2 among endocrinologists and ophthalmologists due to the novel clinical manifestations observed.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42043893/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42040381",
+      "title": "Primary Small Cell Neuroendocrine Carcinoma of the Sublingual Gland Treated With Definitive Chemoradiotherapy: A Case Report.",
+      "authors": [
+        "Taka-Aki Tokura",
+        "Hironari Dehari",
+        "Koyo Nishiyama",
+        "Sho Miyamoto",
+        "Takanori Sasaki",
+        "Kazuhiro Ogi",
+        "Taro Sugawara",
+        "Masanori Someya",
+        "Kohichi Takada",
+        "Hiroyuki Kitajo",
+        "Akihiro Miyazaki"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Primary sublingual gland small cell neuroendocrine carcinoma (SCNEC) is extremely rare, with only one prior case reported, and no site-specific standard of care has been established. We report a case of primary sublingual gland SCNEC treated with definitive concurrent chemoradiotherapy (CRT). A 69-year-old man presented with a 21 × 15-mm right sublingual mass showing fluorodeoxyglucose uptake (SUVmax 9.9) on PET/CT. No nodal or distant disease was found. Biopsy revealed small cell morphology positive for INSM1/synaptophysin and pan-cytokeratin, with a high Ki-67 index (> 95%). IMRT delivered 70 Gy in 35 fractions to the primary tumor with elective bilateral nodal irradiation (levels I-V, 46 Gy). Cisplatin (80 mg/m2; day 1) and etoposide (100 mg/m2; days 1-3) were administered every 3 weeks for four cycles. Grade 3 oral mucositis and grade 2 neutropenia resolved. At 24 months post-CRT, the patient remains disease-free with preserved daily function. Definitive concurrent CRT appears to be a feasible and effective organ-preserving treatment option for limited-stage primary sublingual gland SCNEC, with durable disease control at 24 months in this case.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42040381/",
+      "pmcid": "PMC13108406",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42037115",
+      "title": "Methodological Considerations for AI-Powered Chatbots in Oral Cancer Awareness: Stakeholder Diversity, Instrument Transparency, and Safety Auditing.",
+      "authors": [
+        "Carlos Fernando Mourão",
+        "Luiz Eduardo Juliasse",
+        "Rodrigo Dos Santos Pereira"
       ],
       "publication_date": "2026-May",
       "publication_date_iso": "2026-05-01",
@@ -1453,7 +1554,7 @@
       "topics": [
         "maxillofacial surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42000349/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42037115/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1478,32 +1579,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41993929/",
       "pmcid": "PMC13080125",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41990712",
-      "title": "Long-term outcomes of conservative management in juvenile recurrent parotitis: A 10 year retrospective study.",
-      "authors": [
-        "Masih Safa",
-        "Shi-Tong Liu",
-        "Chuan-Xiang Zhou",
-        "Guang-Yan Yu",
-        "Jia-Zeng Su"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "This 10-year follow-up study aimed to assess the long-term outcomes of a standardized conservative management protocol for juvenile recurrent parotitis (JRP), evaluating its long-term clinical outcomes in achieving durable symptom resolution and its safety in a pediatric cohort of 85 patients. Specifically, this study sought to determine whether a structured, non-interventional regimen-comprising gland massage, hydration, and oral hygiene-could effectively control symptoms and promote spontaneous disease resolution, thereby providing evidence to address the current clinical dilemma regarding the necessity of medical interventions (e.g., ductal irrigation, sialendoscopy) in the conservative management of JRP. A retrospective cohort of pediatric patients with radiographically confirmed JRP was managed with a standardized conservative protocol. Patients were managed exclusively with this conservative protocol, and no other medical or procedural interventions were administered. This protocol included parotid gland massage, systemic hydration, salivary stimulation, and saline rinses. Long-term outcomes were assessed through clinical evaluations and patient-reported measures. After a mean follow-up of 10 years, annual episode frequency decreased from 5.2 ± 2.8 pre-treatment to 0.6 ± 1.1 at final follow-up; 90.6% (77/85) achieved complete and sustained symptomatic resolution, 4.7% (4/85) met criteria for significant improvement, and 4.7% (4/85) showed no improvement. When combining complete resolution and sustained significant improvement, the overall favorable outcome rate was 95.3%. This long-term study suggests that structured conservative management is associated with favorable long-term outcomes and appears to represent a reasonable initial management strategy for juvenile recurrent parotitis, while reserving medical interventions for a small subset of patients with refractory disease.",
-      "objective": "",
-      "study_methods": "A retrospective cohort of pediatric patients with radiographically confirmed JRP was managed with a standardized conservative protocol. Patients were managed exclusively with this conservative protocol, and no other medical or procedural interventions were administered. This protocol included parotid gland massage, systemic hydration, salivary stimulation, and saline rinses. Long-term outcomes were assessed through clinical evaluations and patient-reported measures.",
-      "methods": "A retrospective cohort of pediatric patients with radiographically confirmed JRP was managed with a standardized conservative protocol. Patients were managed exclusively with this conservative protocol, and no other medical or procedural interventions were administered. This protocol included parotid gland massage, systemic hydration, salivary stimulation, and saline rinses. Long-term outcomes were assessed through clinical evaluations and patient-reported measures.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41990712/",
-      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2655,54 +2730,28 @@
       "figure_urls": []
     },
     {
-      "pmid": "42035987",
-      "title": "Piezosurgical partial ostectomy of the incisive bone for an ossifying fibroma removal in a 4-year-old Warmblood gelding.",
+      "pmid": "42045857",
+      "title": "Exploring the impact of gingival recession on oral health-related quality of life: a qualitative study.",
       "authors": [
-        "G Forni",
-        "M E Falomo",
-        "I Casalini",
-        "M Isola"
+        "Omid Fakheran",
+        "Majid Shahmoradi",
+        "Sajede Sheydaei",
+        "Zahra Mostajeran",
+        "Jaber Yaghini"
       ],
-      "publication_date": "2026-Apr-26",
-      "publication_date_iso": "2026-04-26",
-      "abstract": "Ossifying fibromas are uncommon in horses and complete surgical excision with premaxillectomy, maxillectomy or mandibulectomy is recommended. Piezosurgery has been previously used in equines only in one study. To report a case of ossifying fibroma treated with piezosurgery and to describe its follow-up. Clinical case report. A 4-year-old Zangersheide gelding was presented for a mass occupying the space of tooth 202. Histology confirmed the diagnosis of ossifying fibroma, which was removed by resection of soft tissues and a slice of the premaxilla with a piezotome. First intention closure was achieved with a U-plasty between the soft palate and the gingiva. Afterwards, histology confirmed complete removal of the mass. At 5 months, the horse did not show signs of recurrence. Surgery was easy to perform with the piezotome and the cosmetic result was excellent. Piezosurgery is a feasible technique for oral surgeries in horses, although more prospective studies are required.",
+      "publication_date": "2026-Apr-27",
+      "publication_date_iso": "2026-04-27",
+      "abstract": "",
       "objective": "",
-      "study_methods": "A 4-year-old Zangersheide gelding was presented for a mass occupying the space of tooth 202. Histology confirmed the diagnosis of ossifying fibroma, which was removed by resection of soft tissues and a slice of the premaxilla with a piezotome. First intention closure was achieved with a U-plasty between the soft palate and the gingiva. Afterwards, histology confirmed complete removal of the mass.",
-      "methods": "A 4-year-old Zangersheide gelding was presented for a mass occupying the space of tooth 202. Histology confirmed the diagnosis of ossifying fibroma, which was removed by resection of soft tissues and a slice of the premaxilla with a piezotome. First intention closure was achieved with a U-plasty between the soft palate and the gingiva. Afterwards, histology confirmed complete removal of the mass.",
-      "results": "was excellent. Piezosurgery is a feasible technique for oral surgeries in horses, although more prospective studies are required.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42035987/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42035628",
-      "title": "Ultrasound examination of asymmetry in temporomandibular disorders.",
-      "authors": [
-        "Szilvia Mihályi",
-        "Flóra Borbála Horváth",
-        "Ákos Wágner",
-        "Judit Anna Kolonics",
-        "László Simonffy",
-        "Péter Hermann"
-      ],
-      "publication_date": "2026-Apr-25",
-      "publication_date_iso": "2026-04-25",
-      "abstract": "Ultrasonography is a non-invasive, radiation-free, and cost-effective imaging modality for evaluating the Temporomandibular Joint (TMJ) and Masticatory Muscles (MM). Despite its clinical potential, a standardized quantitative ultrasound protocol for assessing masticatory system asymmetry in Temporomandibular Disorders (TMD) is lacking. This pilot study aimed to evaluate the feasibility of a standardized ultrasound protocol for the quantitative assessment of masticatory system asymmetry and to explore its preliminary associations with TMD-related symptoms. Fifteen young adult participants (aged 19-26 years) underwent bilateral ultrasound examination of the masticatory muscles (masseter, temporalis, lateral pterygoid, and sternocleidomastoid muscles) and TMJ structures, including interarticular spaces and articular components. Measurements were performed by trained examiners using standardized anatomical landmarks. Asymmetry was quantified using percentage difference indices and aggregated into a composite anatomical asymmetry score. Proposed asymmetry reference values were applied for descriptive purposes only, and all statistical analyses were conducted on an exploratory, hypothesis-generating basis. The composite anatomical asymmetry index differed from symmetry (mean ± SD: 18.45% ± 17.13%). An association was observed between anatomical asymmetry and joint sounds (crepitation) (Spearman's ρ = 0.88), while pain showed a lower-magnitude association (ρ = 0.51). This pilot study demonstrates the feasibility of a standardized ultrasound-based protocol for the quantitative assessment of masticatory system asymmetry. The findings are exploratory and intended to support methodological development and hypothesis generation. Further validation in larger, blinded study populations is warranted.",
-      "objective": "",
-      "study_methods": "Fifteen young adult participants (aged 19-26 years) underwent bilateral ultrasound examination of the masticatory muscles (masseter, temporalis, lateral pterygoid, and sternocleidomastoid muscles) and TMJ structures, including interarticular spaces and articular components. Measurements were performed by trained examiners using standardized anatomical landmarks. Asymmetry was quantified using percentage difference indices and aggregated into a composite anatomical asymmetry score. Proposed asymmetry reference values were applied for descriptive purposes only, and all statistical analyses were conducted on an exploratory, hypothesis-generating basis.",
-      "methods": "Fifteen young adult participants (aged 19-26 years) underwent bilateral ultrasound examination of the masticatory muscles (masseter, temporalis, lateral pterygoid, and sternocleidomastoid muscles) and TMJ structures, including interarticular spaces and articular components. Measurements were performed by trained examiners using standardized anatomical landmarks. Asymmetry was quantified using percentage difference indices and aggregated into a composite anatomical asymmetry score. Proposed asymmetry reference values were applied for descriptive purposes only, and all statistical analyses were conducted on an exploratory, hypothesis-generating basis.",
+      "study_methods": "",
+      "methods": "",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
         "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42035628/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42045857/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2917,111 +2966,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42020223/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42020198",
-      "title": "Comparative Analysis of Occlusal Parameters in Post-Orthodontic Patients with and without Non-Carious Cervical Lesions Using T-Scan III.",
-      "authors": [
-        "Mayurach Pipatphatsakorn",
-        "Nattapat Khamnuengsitthi",
-        "Jittima Pumklin",
-        "Ratchawan Tansalarak"
-      ],
-      "publication_date": "2026-Apr-20",
-      "publication_date_iso": "2026-04-20",
-      "abstract": "This study aimed to determine the relationship between occlusal and clinical factors-including relative occlusal force, occlusion time (OT), disclusion time (DT), and occlusal schemes-and the occurrence of non-carious cervical lesions (NCCLs) in post-orthodontic patients, using the T-Scan III system. Fifty-two patients who completed fixed orthodontic treatment within 1 year were purposively selected and divided into two groups: those with NCCLs (n = 26) and those without NCCLs (n = 26). A total of 1,336 teeth were evaluated (111 with NCCLs, 1,225 without). Data collection included a questionnaire, clinical examination, and T-Scan III recordings. Pearson's chi-square and multiple comparison tests were used for categorical variables. Relative occlusal forces were compared using the Mann-Whitney U-test, while OT and DT were analyzed with independent-sample t-tests. Multiple linear regression identified predictive factors for NCCLs at both the subject and tooth levels. The significance level was set at p < 0.05. Older age, combined orthodontic-orthognathic surgery, and gingival recession were significantly associated with NCCL occurrence (p < 0.05). Group-function occlusion was the only significant occlusal predictor (β = 0.365, p = 0.018). At the tooth level, gingival recession significantly predicted NCCLs (β = 0.499, p < 0.001). The regression models explained 12.5 and 22.9% of the variance in NCCL occurrence at the subject and tooth levels, respectively. Teeth with NCCLs showed higher relative occlusal forces at maximum intercuspation (8.16 ± 8.41%) and during eccentric movements (37.86 ± 31.38%) than teeth without NCCLs (7.53 ± 9.26% and 30.09 ± 29.16%, respectively; p < 0.05). Mean OT (0.27 ± 0.07 seconds) and DT (0.50 ± 0.13 seconds) were significantly longer in NCCL subjects than in controls (OT: 0.22 ± 0.06 seconds; DT: 0.42 ± 0.11 second; p < 0.05). Prolonged occlusion and DTs, higher relative occlusal forces, and group-function occlusion were significantly associated with the presence of NCCLs in post-orthodontic patients. Quantitative occlusal analysis using the T-Scan III system may help clinicians detect functional imbalances and prevent NCCL development during orthodontic follow-up.",
-      "objective": "",
-      "study_methods": "Fifty-two patients who completed fixed orthodontic treatment within 1 year were purposively selected and divided into two groups: those with NCCLs (n = 26) and those without NCCLs (n = 26). A total of 1,336 teeth were evaluated (111 with NCCLs, 1,225 without). Data collection included a questionnaire, clinical examination, and T-Scan III recordings.",
-      "methods": "Fifty-two patients who completed fixed orthodontic treatment within 1 year were purposively selected and divided into two groups: those with NCCLs (n = 26) and those without NCCLs (n = 26). A total of 1,336 teeth were evaluated (111 with NCCLs, 1,225 without). Data collection included a questionnaire, clinical examination, and T-Scan III recordings.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42020198/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42013518",
-      "title": "Advantages of Combined Multiple-Case Teaching and Narrative Medicine Teaching Methods in Orthognathic Surgery.",
-      "authors": [
-        "Kan Li",
-        "Chen Li",
-        "Xiang Li",
-        "Siyong Gao",
-        "Huanzhong Ji",
-        "Xueying Mei",
-        "Xueting Luo",
-        "Guangsen Zheng"
-      ],
-      "publication_date": "2026-Apr-20",
-      "publication_date_iso": "2026-04-20",
-      "abstract": "This study aims to evaluate the effectiveness and efficiency of combined multiple-case teaching (MCT) and narrative medicine teaching (NMT) method compared with lecture-based learning (LBL) in the clinical practical teaching of orthognathic surgery.1 METHODS: This study included 102 fourth-year undergraduate students from the Guanghua School of Stomatology, Sun Yat-sen University, who were randomly divided into the MCT-NMT group or the LBL group. Learning outcomes and student satisfaction were evaluated through post-class test, medical record writing, and anonymous questionnaires. Compared with LBL group, students in the MCT-NMT group showed significant improvements in medical record scores, perceived ability and satisfaction with teaching. The course enhanced students' understanding of theoretical knowledge and improved their communication and expression abilities. MCT combined with NMT may be an effective method for improving dental students' technical and humanistic abilities, and is a teaching method that is more worthy of promotion than traditional education models. The essence of MCT-NMT is to transform 'fragmented knowledge' into 'systematic clinical capabilities.' This shift in teaching methodology ultimately may drive orthognathic surgery from 'technology-driven' to 'technology + humanities dual-driven' high-quality development.",
-      "objective": "to evaluate the effectiveness and efficiency of combined multiple-case teaching (MCT) and narrative medicine teaching (NMT)",
-      "study_methods": "METHODS: This study included 102 fourth-year undergraduate students from the Guanghua School of Stomatology, Sun Yat-sen University, who were randomly divided into the MCT-NMT group or the LBL group. Learning outcomes and student satisfaction were evaluated through post-class test, medical record writing, and anonymous questionnaires. Compared with LBL group, students in the MCT-NMT group showed significant improvements in medical record scores, perceived ability and satisfaction with teaching. The course enhanced students' understanding of theoretical knowledge and improved their communication and expression abilities. MCT combined with NMT may be an effective method for improving dental students' technical and humanistic abilities, and is a teaching method that is more worthy of promotion than traditional education models. The essence of MCT-NMT is to transform 'fragmented knowledge' into 'systematic clinical capabilities.' This shift in teaching methodology ultimately may drive orthognathic surgery from 'technology-driven' to 'technology + humanities dual-driven' high-quality development.",
-      "methods": "METHODS: This study included 102 fourth-year undergraduate students from the Guanghua School of Stomatology, Sun Yat-sen University, who were randomly divided into the MCT-NMT group or the LBL group. Learning outcomes and student satisfaction were evaluated through post-class test, medical record writing, and anonymous questionnaires. Compared with LBL group, students in the MCT-NMT group showed significant improvements in medical record scores, perceived ability and satisfaction with teaching. The course enhanced students' understanding of theoretical knowledge and improved their communication and expression abilities. MCT combined with NMT may be an effective method for improving dental students' technical and humanistic abilities, and is a teaching method that is more worthy of promotion than traditional education models. The essence of MCT-NMT is to transform 'fragmented knowledge' into 'systematic clinical capabilities.' This shift in teaching methodology ultimately may drive orthognathic surgery from 'technology-driven' to 'technology + humanities dual-driven' high-quality development.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42013518/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42007935",
-      "title": "Evaluation of pharyngeal airway volume, soft-tissue changes, and risk of obstructive sleep apnea after bimaxillary orthognathic surgery in patients with skeletal Class III malocclusion using cone-beam computed tomography and the STOP-BANG questionnaire: A long-term study.",
-      "authors": [
-        "Seyedeh Zahra Hashemi",
-        "Azadeh Torkzadeh",
-        "Roshanak Ghaffari",
-        "Hasan Momeni",
-        "Seyed Sasan Aryanezhad",
-        "S Marjan Arianezhad"
-      ],
-      "publication_date": "2026-Apr-20",
-      "publication_date_iso": "2026-04-20",
-      "abstract": "Bimaxillary surgery is increasingly used for Class III malocclusion, but concerns about potential airway narrowing and its role in obstructive sleep apnea (OSA) remain. This study aimed to evaluate the long-term effects of bimaxillary surgery on the upper airway and soft tissues and the risk of OSA development in patients with skeletal Class III malocclusion using cone-beam computed tomography (CBCT) and the STOP-BANG (snoring, tiredness, observed apnea, high blood pressure, body mass index, age, neck circumference, and gender) questionnaire. In this retrospective descriptive-analytical study, 50 female patients with Class III malocclusion were treated with LeFort I advancement and bilateral sagittal split osteotomy. They all scored 0-2 on the STOP-BANG questionnaire. CBCTs were performed preoperatively and 5 years postoperatively with standardized head and neck positioning. They filled out the questionnaire in the follow-up. Confounding factors were minimized as much as possible. CBCTs were evaluated using OnDemand 3D software (version 10.0.1; Cybermed, Seoul, South Korea). Data were analyzed using an independent-samples t test, Pearson correlation, and chi-square test. In the long-term, bimaxillary surgery statistically significantly increased the nasopharyngeal volume by 14.06% (P = 0.015) and decreased hypopharyngeal and upper airway volumes by 20.13% (P <0.001) and 7.71% (P = 0.015), respectively. Although there was a decrease in the oropharynx and the position of the soft palate, the changes were not statistically significant. The tongue moved backward (P = 0.005). No significant differences in STOP-BANG scores were observed (P >0.05). Although bimaxillary surgery with the studied method significantly alters airway volume parameters, it may not increase the risk of OSA in healthy individuals. Our results can aid orthodontists and surgeons in selecting the proper treatment plans.",
-      "objective": "",
-      "study_methods": "In this retrospective descriptive-analytical study, 50 female patients with Class III malocclusion were treated with LeFort I advancement and bilateral sagittal split osteotomy. They all scored 0-2 on the STOP-BANG questionnaire. CBCTs were performed preoperatively and 5 years postoperatively with standardized head and neck positioning. They filled out the questionnaire in the follow-up. Confounding factors were minimized as much as possible. CBCTs were evaluated using OnDemand 3D software (version 10.0.1; Cybermed, Seoul, South Korea). Data were analyzed using an independent-samples t test, Pearson correlation, and chi-square test.",
-      "methods": "In this retrospective descriptive-analytical study, 50 female patients with Class III malocclusion were treated with LeFort I advancement and bilateral sagittal split osteotomy. They all scored 0-2 on the STOP-BANG questionnaire. CBCTs were performed preoperatively and 5 years postoperatively with standardized head and neck positioning. They filled out the questionnaire in the follow-up. Confounding factors were minimized as much as possible. CBCTs were evaluated using OnDemand 3D software (version 10.0.1; Cybermed, Seoul, South Korea). Data were analyzed using an independent-samples t test, Pearson correlation, and chi-square test.",
-      "results": "can aid orthodontists and surgeons in selecting the proper treatment plans.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42007935/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42007916",
-      "title": "Decision-Making at the Transition Period: Widening the Lens Around Psychosocial and Cultural Factors in Cleft Orthognathic Surgery.",
-      "authors": [
-        "Holly Clegg",
-        "Kiki Mastroyannopoulou",
-        "Eliane Young"
-      ],
-      "publication_date": "2026-Apr-20",
-      "publication_date_iso": "2026-04-20",
-      "abstract": "ObjectiveTo explore what factors are considered by multidisciplinary team (MDT) professionals working in cleft lip and palate services when supporting young people in their decision-making for orthognathic surgery (OS) and how professionals understand and manage ethical dilemmas that arise.DesignA qualitative design was employed in which semistructured interviews were conducted remotely with NHS staff.SettingNine participants were interviewed across four NHS cleft services in the United Kingdom.ParticipantsThe sample consisted of three Speech and Language Therapists, three Orthodontists, and three Surgeons involved in decision-making for OS.ResultsReflexive Thematic Analysis revealed three key themes and seven sub-themes:\"navigating the decision-making process,\" \"Team-Centric,\" and 'Health Inequalities impacting on access to cleft services. Within these themes, professionals reflected on positions of power, the MDT environment, valued contribution of different professionals, external influences impacting on shared decision-making (SDM) and barriers to accessing care.ConclusionsThe findings highlight the complex nature of balancing patient autonomy and beneficence during the decision-making process for OS while bringing awareness to factors that may pose a barrier to decision-making such as the presence of health inequalities, power dynamics and conditions of the MDT environment. The importance of optimizing the SDM environment and creating opportunities for liaison, particularly earlier in the pathway, are discussed. It is recommended that future research explores the impact of health inequalities on access to cleft care further, recognizing those that are currently disadvantaged in their treatment journey.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Reflexive Thematic Analysis revealed three key themes and seven sub-themes:\"navigating the decision-making process,\" \"Team-Centric,\" and 'Health Inequalities impacting on access to cleft services. Within these themes, professionals reflected on positions of power, the MDT environment, valued contribution of different professionals, external influences impacting on shared decision-making (SDM) and barriers to accessing care.ConclusionsThe findings highlight the complex nature of balancing patient autonomy and beneficence during the decision-making process for OS while bringing awareness to factors that may pose a barrier to decision-making such as the presence of health inequalities, power dynamics and conditions of the MDT environment. The importance of optimizing the SDM environment and creating opportunities for liaison, particularly earlier in the pathway, are discussed. It is recommended that future research explores the impact of health inequalities on access to cleft care further, recognizing those that are currently disadvantaged in their treatment journey.",
-      "conclusion": "The findings highlight the complex nature of balancing patient autonomy and beneficence during the decision-making process for OS while bringing awareness to factors that may pose a barrier to decision-making such as the presence of health inequalities, power dynamics and conditions of the MDT environment. The importance of optimizing the SDM environment and creating opportunities for liaison, particularly earlier in the pathway, are discussed. It is recommended that future research explores the impact of health inequalities on access to cleft care further, recognizing those that are currently disadvantaged in their treatment journey.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42007916/",
       "pmcid": "",
       "figure_urls": []
     }
