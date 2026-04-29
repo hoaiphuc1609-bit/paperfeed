@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T05:35:16Z",
+  "updated_at": "2026-04-29T05:31:21Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1468,37 +1468,56 @@
       "figure_urls": []
     },
     {
-      "pmid": "42043893",
-      "title": "Homozygous Pathogenic Variant in Elongation Factor-Like 1 (EFL1) as a Causal Factor in Shwachman-Diamond Syndrome 2 in a Palestinian Child, With Distinct Ocular Manifestations.",
+      "pmid": "42049370",
+      "title": "Invasive-Front P21 Expression Is Associated With Tumor Aggressiveness in Head and Neck Squamous Cell Carcinoma.",
       "authors": [
-        "Ibrahim Taha",
-        "Antonella Minelli",
-        "Cesare Danesino",
-        "Abdelrahman Swalmeh",
-        "Khalil Huraibat",
-        "Liana Al-Labadi",
-        "Rema Obar",
-        "Khaled R Beshtawi",
-        "Lubna Abu Samrah",
-        "Yousef Awlad Mohammad",
-        "Aya Farah",
-        "Abdulrahman Obar",
-        "Mutasem Khalaf",
-        "Orwa Nasser"
+        "Su Il Kim",
+        "Minjeong Kim",
+        "Jung Woo Lee",
+        "Sun Lee",
+        "Hyun Jee Lee",
+        "Young-Gyu Eun",
+        "Young Chan Lee"
       ],
       "publication_date": "2026-May",
       "publication_date_iso": "2026-05-01",
-      "abstract": "Shwachman-Diamond syndrome type 2 (SDS2) is a rare ribosomopathy caused by biallelic mutations in the EFL1 gene. This condition presents with features similar to classic SDS1 such as pancreatic insufficiency and haematologic abnormalities. We report a Palestinian female infant admitted to the NICU at H-Clinic Hospital, Ramallah, in January 2023, with a homozygous mutation in the EFL1 gene (c.3284G>A; p.Arg1095Gln), identified through whole exome sequencing and confirmed by Sanger sequencing. In addition to typical SDS2 features-pancytopenia, pancreatic insufficiency and growth failure-the patient exhibited unique manifestations, including ROP-like retinal changes, infantile esotropia with inferior oblique overaction, and elevated ACTH and 17-hydroxyprogesterone levels, indicating adrenal dysfunction. These findings expand the SDS2 phenotype to include novel ocular and endocrine involvement. No other pathogenic variants were identified by bioinformatic analysis. The recurrence of this variant in unrelated Palestinian families suggests a possible founder effect. This case underscores the importance of extended genetic testing and multidisciplinary evaluation in rare syndromes. It highlights the need for broader awareness of SDS2 among endocrinologists and ophthalmologists due to the novel clinical manifestations observed.",
+      "abstract": "P21 is a key cyclin-dependent kinase inhibitor linked to cellular senescence. However, its spatial expression patterns within tumor compartments and their relationship with tumor aggressiveness remain poorly characterized in head and neck squamous cell carcinoma (HNSCC). This study investigated the spatial distribution of P21 across distinct tumor regions and evaluated its association with tumor aggressiveness, including stage and adverse pathological features, in HNSCC. Formalin-fixed, paraffin-embedded tissues from patients with HNSCC were assessed using immunohistochemistry for P21. The intensity, percent positivity, and composite scores were quantified in the surface, center, and invasive-front regions. All variables were transformed using log (x+1), and spatial ratios comparing surface-to-center and invasive-front-to-center expressions were calculated. Non-parametric analyses were performed to compare early- and advanced-stage HNSCC, with additional subgroup analyses according to extracapsular extension (ECE), lymphovascular invasion (LVI), perineural invasion (PNI), and tumor subsites. Advanced-stage HNSCC demonstrated significantly higher invasive-front-to-center log ratios for both percent positivity and composite P21 scores (p=0.0275), indicating relative enrichment of P21 expression at the invasive-front. Among advanced-stage HNSCC, PNI-positive cases showed the most pronounced increases in both surface-to-center and invasive-front-to-center spatial ratios (p<0.05), whereas no significant spatial differences were observed for ECE or LVI. P21 expression demonstrated region-specific differences associated with tumor aggressiveness, with PNI-positive tumors showing the clearest enrichment of P21 expression at the invasive-front. These findings suggest that spatial, rather than absolute, P21 expression patterns may reflect progression-related phenotypes in HNSCC. Spatial profiling of P21 may provide exploratory insights into tumor biology and could help identify tumors with a higher invasive potential.",
       "objective": "",
-      "study_methods": "",
-      "methods": "",
+      "study_methods": "Formalin-fixed, paraffin-embedded tissues from patients with HNSCC were assessed using immunohistochemistry for P21. The intensity, percent positivity, and composite scores were quantified in the surface, center, and invasive-front regions. All variables were transformed using log (x+1), and spatial ratios comparing surface-to-center and invasive-front-to-center expressions were calculated. Non-parametric analyses were performed to compare early- and advanced-stage HNSCC, with additional subgroup analyses according to extracapsular extension (ECE), lymphovascular invasion (LVI), perineural invasion (PNI), and tumor subsites.",
+      "methods": "Formalin-fixed, paraffin-embedded tissues from patients with HNSCC were assessed using immunohistochemistry for P21. The intensity, percent positivity, and composite scores were quantified in the surface, center, and invasive-front regions. All variables were transformed using log (x+1), and spatial ratios comparing surface-to-center and invasive-front-to-center expressions were calculated. Non-parametric analyses were performed to compare early- and advanced-stage HNSCC, with additional subgroup analyses according to extracapsular extension (ECE), lymphovascular invasion (LVI), perineural invasion (PNI), and tumor subsites.",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
         "maxillofacial surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42043893/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42049370/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42049326",
+      "title": "Imipramine Targets Apoptosis, Metastasis, and EGFR/SRC-mediated EMT in Oral Cancer Cells.",
+      "authors": [
+        "Wei-Chun Wang",
+        "Ying-Tzu Chen",
+        "Fei-Ting Hsu",
+        "Bing-Ru Peng",
+        "Hsi-Feng Tu"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Oral cancer (OC) exhibits aggressive growth and metastatic potential. Imipramine, a tricyclic antidepressant, has been recently explored for its anticancer activity. This study investigated imipramine's therapeutic effects and underlying anti-progression mechanisms in OC. SAS and MOC1 cell lines were treated with imipramine for cytotoxicity, apoptosis, migration, invasion, and epithelial-mesenchymal transition (EMT) analyses using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT), flow cytometry, Transwell assays, and western blotting. Imipramine significantly reduced OC cell viability in a dose-dependent manner and induced apoptosis through both extrinsic (Fas/FasL-caspase-8) and intrinsic (mitochondrial depolarization, ROS/Ca2+ elevation, caspase-9) pathways. Anti-apoptotic proteins X-linked inhibitor of apoptosis (XIAP) and cellular FLICE-like inhibitory protein (c-FLIP) and proliferation regulator Cyclin D1 were downregulated. Imipramine also inhibited migration, invasion, and expression of matrix metalloproteinase-2 (MMP-2), matrix metalloproteinase-9 (MMP-9), and vascular endothelial growth factor-A (VEGF-A). EMT progression was suppressed, evidenced by decreased zinc-finger-enhancer binding protein 1/2 (ZEB1/2), Snail, Slug, N-cadherin, and re-expression of E-cadherin, accompanied by inactivation of the EGFR/SRC axis. Imipramine exhibits potent anti-OC activity by inducing apoptosis, inhibiting metastasis, and suppressing EMT, supporting its potential as a repurposed therapeutic agent.",
+      "objective": "",
+      "study_methods": "SAS and MOC1 cell lines were treated with imipramine for cytotoxicity, apoptosis, migration, invasion, and epithelial-mesenchymal transition (EMT) analyses using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT), flow cytometry, Transwell assays, and western blotting.",
+      "methods": "SAS and MOC1 cell lines were treated with imipramine for cytotoxicity, apoptosis, migration, invasion, and epithelial-mesenchymal transition (EMT) analyses using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT), flow cytometry, Transwell assays, and western blotting.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42049326/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1532,30 +1551,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42040381/",
       "pmcid": "PMC13108406",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42037115",
-      "title": "Methodological Considerations for AI-Powered Chatbots in Oral Cancer Awareness: Stakeholder Diversity, Instrument Transparency, and Safety Auditing.",
-      "authors": [
-        "Carlos Fernando Mourão",
-        "Luiz Eduardo Juliasse",
-        "Rodrigo Dos Santos Pereira"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42037115/",
-      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2880,7 +2875,7 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42026802/",
-      "pmcid": "",
+      "pmcid": "PMC13120745",
       "figure_urls": []
     },
     {
@@ -2939,33 +2934,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42014571/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42020223",
-      "title": "Fracture patterns of two sagittal split ramus osteotomy techniques: a cadaveric study.",
-      "authors": [
-        "A P G R Couto",
-        "A L R de Ribeiro",
-        "L H S Guimarães",
-        "J J V Pinheiro",
-        "M S S Kataoka",
-        "S M Alves Júnior"
-      ],
-      "publication_date": "2026-Apr-21",
-      "publication_date_iso": "2026-04-21",
-      "abstract": "The sagittal split ramus osteotomy (SSRO) is commonly used to correct dentofacial deformities. This study compared fracture patterns, maximum tensile load, displacement, time, and thickness of ex-vivo mandibles subjected to the Epker or Wolford SSRO techniques. Sixty-one dried adult cadaveric mandibles were sectioned, with each hemimandible randomly assigned to one of two groups: Epker, which involved a horizontal beveled medial cut above the lingula, and Wolford, which added an additional cut along the inferior mandibular rim. Each hemimandible was mounted on a wooden base, and a metallic device similar to a Smith sagittal separator was used to stress the sagittal cut until failure. Fractures were classified as favorable (lingual split scale (LSS)1, LSS2, LSS3) or as unfavorable (LSS4). The Epker group had significantly more unfavorable fractures than the Wolford group (P = 0.027), with a 4.51-fold higher relative risk of unfavorable fractures. Hemimandible thickness did not significantly affect fracture patterns (P > 0.05). No significant differences were found between the techniques regarding tensile load, displacement, or fracture time (P > 0.05). Wolford's additional osteotomy along the inferior mandibular rim reduced the load required for the mandibular split and increased fracture predictability.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42020223/",
       "pmcid": "",
       "figure_urls": []
     }
