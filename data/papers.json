@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T05:31:21Z",
+  "updated_at": "2026-04-30T05:34:54Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -244,6 +244,36 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_OC.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_PB.jpg"
       ]
+    },
+    {
+      "pmid": "41895021",
+      "title": "Tissue engineering strategies for construction of artificial salivary glands based on decellularized scaffolds of rats.",
+      "authors": [
+        "Taiqiang Dai",
+        "Lele Shi",
+        "Haitao Kong",
+        "Lu Zhao",
+        "Yan Wang",
+        "Yang Cao",
+        "Shiping Chang",
+        "Linlin Zhang",
+        "Lei Tian"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Salivary gland (SG) hypofunction is a debilitating condition with no curative treatments. Tissue engineering based on decellularized scaffolds represents a promising regenerative strategy; however, its application to SGs has been limited by inadequate decellularization techniques and scarce cell sources. Here, we developed a novel perfusion-based decellularization method via the ductal and venous systems to generate rat submandibular gland scaffolds. This approach efficiently removed cellular components while optimally preserving the native three-dimensional architecture, key extracellular matrix (ECM) components, and the integrity of ductal and vascular networks. We then constructed artificial SGs by recellularizing these biomimetic scaffolds through the ductal route with salivary gland cells (SGCs), adipose-derived stromal cells (ADSCs), or SGC-pre-induced ADSCs. In vitro perfusion culture revealed that all cell sources, including transdifferentiated ADSCs, supported the formation of acinar-like structures and expressed the functional marker α-amylase (α-AMY), with peak performance observed at day 5. Upon in vivo transplantation, the tissue-engineered glands maintained partial α-AMY expression for up to 5 days, demonstrating short-term survival and function. However, graft longevity was limited beyond 7 days, primarily due to insufficient vascularization. Our study establishes a robust perfusion-decellularized scaffold as a superior biomaterial platform and validates ADSCs as a clinically viable cell source for SG regeneration, providing a foundational strategy for engineering functional salivary glands. This advancement is expected to accelerate the research and development in the field of tissue engineering for salivary gland regeneration.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41895021/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41909511",
@@ -682,6 +712,47 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42038351/",
       "pmcid": "PMC13107154",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41950619",
+      "title": "A prospective study with Comprehensive Geriatric Assessment (CGA) before curative treatment in older patients with locally advanced head and neck squamous cell carcinoma (LA-HNSCC).",
+      "authors": [
+        "M Cossu Rocca",
+        "A Esposito",
+        "S Vecchio",
+        "P Nicolai",
+        "A Tarsitano",
+        "A Mirabile",
+        "S Ursino",
+        "M C Cau",
+        "P Bonomo",
+        "C Piazza",
+        "M Maddalo",
+        "L Lorini",
+        "C Gurizzan",
+        "M Zamparini",
+        "A Marengoni",
+        "A Bacigalupo",
+        "M Guglielmo",
+        "C Ripamonti",
+        "P Bossi",
+        "L Licitra"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "With an upward trend head and neck squamous cell carcinoma (HNSCC) patients are ageing (40% ≥ 65 years). The value of comprehensive geriatric assessment (CGA) for guiding treatment decisions in this population is not fully established. Our study prospectively assessed the influence of CGA on therapeutic strategies for elderly patients with locally advanced HNSCC . We enrolled HNSCC patients ≥ 65 years old, stage III-IVb (AJCC 7th edition) candidated to curative treatment. Each case was discussed by a multidisciplinary team both before and after CGA. Primary objective was the proportion of therapeutic changes after CGA. Secondary aims were patients distribution into the three geriatric categories (fit, vulnerable, and frail), the accuracy of G8, recording severe toxicities and outcomes. Between December 2017 and March 2021, 9 Italian centers enrolled 101 patients: 33.7% were fit, 39.6% vulnerable, 26.7% frail. Seventy-two patients received curative treatment. CGA prompted a change in the initial treatment plan in 12 cases (11.8%), but also led to greater attention to supportive care. 54/101experiencing at least one severe AEs. 16 patients were fit (47.1%), 21 vulnerable (52.5%) and 17 frail (63%). 30 patients required hospitalization for toxicity . At three months post-treatment evaluation, 61 of 90 patients had a complete response, while 8 had disease progression and 7 died. CGA administration between two rounds of MDT led to changes for approximately 12% of patients and appears to help identyfing supportive care needs. Further trials are needed to specifically address the issues of older HNSCC patients.",
+      "objective": "was the proportion of therapeutic changes after CGA. Secondary aims were patients distribution into the three geriatric categories (fit, vulnerable, and frail), the accuracy of G8, recording severe toxicities and outcomes. Between December 2017 and March 2021, 9 Italian centers enrolled 101 patients: 33.7% were fit, 39.6% vulnerable, 26.7% frail. Seventy-two patients received curative treatment. CGA prompted a change in the initial treatment plan in 12 cases (11.8%), but also led to greater attention to supportive care. 54/101experiencing at least one severe AEs. 16 patients were fit (47.1%), 21 vulnerable (52.5%) and 17 frail (63%). 30 patients required hospitalization for toxicity . At three months post-treatment evaluation, 61 of 90 patients had a complete response, while 8 had disease progression and 7 died. CGA administration between two rounds of MDT led to changes for approximately 12% of patients and appears to help identyfing supportive care needs. Further trials are needed to specifically address the issues of older HNSCC patients.",
+      "study_methods": "We enrolled HNSCC patients ≥ 65 years old, stage III-IVb (AJCC 7th edition) candidated to curative treatment. Each case was discussed by a multidisciplinary team both before and after CGA. Primary objective was the proportion of therapeutic changes after CGA. Secondary aims were patients distribution into the three geriatric categories (fit, vulnerable, and frail), the accuracy of G8, recording severe toxicities and outcomes.",
+      "methods": "We enrolled HNSCC patients ≥ 65 years old, stage III-IVb (AJCC 7th edition) candidated to curative treatment. Each case was discussed by a multidisciplinary team both before and after CGA. Primary objective was the proportion of therapeutic changes after CGA. Secondary aims were patients distribution into the three geriatric categories (fit, vulnerable, and frail), the accuracy of G8, recording severe toxicities and outcomes.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41950619/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -1468,60 +1539,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42049370",
-      "title": "Invasive-Front P21 Expression Is Associated With Tumor Aggressiveness in Head and Neck Squamous Cell Carcinoma.",
-      "authors": [
-        "Su Il Kim",
-        "Minjeong Kim",
-        "Jung Woo Lee",
-        "Sun Lee",
-        "Hyun Jee Lee",
-        "Young-Gyu Eun",
-        "Young Chan Lee"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "P21 is a key cyclin-dependent kinase inhibitor linked to cellular senescence. However, its spatial expression patterns within tumor compartments and their relationship with tumor aggressiveness remain poorly characterized in head and neck squamous cell carcinoma (HNSCC). This study investigated the spatial distribution of P21 across distinct tumor regions and evaluated its association with tumor aggressiveness, including stage and adverse pathological features, in HNSCC. Formalin-fixed, paraffin-embedded tissues from patients with HNSCC were assessed using immunohistochemistry for P21. The intensity, percent positivity, and composite scores were quantified in the surface, center, and invasive-front regions. All variables were transformed using log (x+1), and spatial ratios comparing surface-to-center and invasive-front-to-center expressions were calculated. Non-parametric analyses were performed to compare early- and advanced-stage HNSCC, with additional subgroup analyses according to extracapsular extension (ECE), lymphovascular invasion (LVI), perineural invasion (PNI), and tumor subsites. Advanced-stage HNSCC demonstrated significantly higher invasive-front-to-center log ratios for both percent positivity and composite P21 scores (p=0.0275), indicating relative enrichment of P21 expression at the invasive-front. Among advanced-stage HNSCC, PNI-positive cases showed the most pronounced increases in both surface-to-center and invasive-front-to-center spatial ratios (p<0.05), whereas no significant spatial differences were observed for ECE or LVI. P21 expression demonstrated region-specific differences associated with tumor aggressiveness, with PNI-positive tumors showing the clearest enrichment of P21 expression at the invasive-front. These findings suggest that spatial, rather than absolute, P21 expression patterns may reflect progression-related phenotypes in HNSCC. Spatial profiling of P21 may provide exploratory insights into tumor biology and could help identify tumors with a higher invasive potential.",
-      "objective": "",
-      "study_methods": "Formalin-fixed, paraffin-embedded tissues from patients with HNSCC were assessed using immunohistochemistry for P21. The intensity, percent positivity, and composite scores were quantified in the surface, center, and invasive-front regions. All variables were transformed using log (x+1), and spatial ratios comparing surface-to-center and invasive-front-to-center expressions were calculated. Non-parametric analyses were performed to compare early- and advanced-stage HNSCC, with additional subgroup analyses according to extracapsular extension (ECE), lymphovascular invasion (LVI), perineural invasion (PNI), and tumor subsites.",
-      "methods": "Formalin-fixed, paraffin-embedded tissues from patients with HNSCC were assessed using immunohistochemistry for P21. The intensity, percent positivity, and composite scores were quantified in the surface, center, and invasive-front regions. All variables were transformed using log (x+1), and spatial ratios comparing surface-to-center and invasive-front-to-center expressions were calculated. Non-parametric analyses were performed to compare early- and advanced-stage HNSCC, with additional subgroup analyses according to extracapsular extension (ECE), lymphovascular invasion (LVI), perineural invasion (PNI), and tumor subsites.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42049370/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42049326",
-      "title": "Imipramine Targets Apoptosis, Metastasis, and EGFR/SRC-mediated EMT in Oral Cancer Cells.",
-      "authors": [
-        "Wei-Chun Wang",
-        "Ying-Tzu Chen",
-        "Fei-Ting Hsu",
-        "Bing-Ru Peng",
-        "Hsi-Feng Tu"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "Oral cancer (OC) exhibits aggressive growth and metastatic potential. Imipramine, a tricyclic antidepressant, has been recently explored for its anticancer activity. This study investigated imipramine's therapeutic effects and underlying anti-progression mechanisms in OC. SAS and MOC1 cell lines were treated with imipramine for cytotoxicity, apoptosis, migration, invasion, and epithelial-mesenchymal transition (EMT) analyses using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT), flow cytometry, Transwell assays, and western blotting. Imipramine significantly reduced OC cell viability in a dose-dependent manner and induced apoptosis through both extrinsic (Fas/FasL-caspase-8) and intrinsic (mitochondrial depolarization, ROS/Ca2+ elevation, caspase-9) pathways. Anti-apoptotic proteins X-linked inhibitor of apoptosis (XIAP) and cellular FLICE-like inhibitory protein (c-FLIP) and proliferation regulator Cyclin D1 were downregulated. Imipramine also inhibited migration, invasion, and expression of matrix metalloproteinase-2 (MMP-2), matrix metalloproteinase-9 (MMP-9), and vascular endothelial growth factor-A (VEGF-A). EMT progression was suppressed, evidenced by decreased zinc-finger-enhancer binding protein 1/2 (ZEB1/2), Snail, Slug, N-cadherin, and re-expression of E-cadherin, accompanied by inactivation of the EGFR/SRC axis. Imipramine exhibits potent anti-OC activity by inducing apoptosis, inhibiting metastasis, and suppressing EMT, supporting its potential as a repurposed therapeutic agent.",
-      "objective": "",
-      "study_methods": "SAS and MOC1 cell lines were treated with imipramine for cytotoxicity, apoptosis, migration, invasion, and epithelial-mesenchymal transition (EMT) analyses using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT), flow cytometry, Transwell assays, and western blotting.",
-      "methods": "SAS and MOC1 cell lines were treated with imipramine for cytotoxicity, apoptosis, migration, invasion, and epithelial-mesenchymal transition (EMT) analyses using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT), flow cytometry, Transwell assays, and western blotting.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42049326/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42040381",
       "title": "Primary Small Cell Neuroendocrine Carcinoma of the Sublingual Gland Treated With Definitive Chemoradiotherapy: A Case Report.",
       "authors": [
@@ -1863,6 +1880,35 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41747654/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41711575",
+      "title": "Jaw-in-a Day: Process Improvement and Outcomes.",
+      "authors": [
+        "Cristina Benites",
+        "Christian E Davila",
+        "Dustin J Conrad",
+        "Austin Lam",
+        "William Reschly",
+        "Richard Nessif",
+        "Kartik Motwani",
+        "Peter T Dziegielewski"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Describe the evolving institutional experience with Jaw-in-a-Day reconstruction and evaluate the functional, oncologic, and surgical outcomes of an efficient and reproducible model that can be used for both benign and malignant cases. Retrospective case series. Tertiary academic referral center and an affiliated private practice. A retrospective review of Jaw-in-a-Day reconstructions performed between January 2023 and January 2024 was conducted. All patients undergoing fibula or scapula free flap reconstruction with immediate dental implantation and provisional prosthesis were included. Operative times and prosthetic workflows were compared by prosthesis capture method (in situ vs at the head) and team composition (single vs integrated two-surgeon teams). Outcomes measured were operative time, flap and implant survival, perioperative complications, Functional Oral Intake Scale (FOIS) scores, and prosthesis use. 33 patients (median age 66; range 13-83) underwent Jaw-in-a-Day reconstruction, 20 malignant disease cases, and 13 benign or traumatic cases. Fibula free flaps were used in 32 cases and scapula in one. Median operative time was 12h19m. Prosthesis capture in situ trended toward shorter operative and prosthetic times but did not reach significance. The two-surgeon approach significantly reduced operative time by 4h24m (P < .001) and prosthodontic time by 2 hours (P = .01). All flaps survived. Implant survival was 97%, with three failures in 2 patients. At 12 months, 32 patients used definitive prostheses and median FOIS was 7. The Jaw-in-a-Day surgical approach is feasible for benign and malignant reconstruction with high flap and implant survival. Early institutional adoption shows a learning curve, but efficiency improves with process refinements, particularly a two-surgeon workflow.",
+      "objective": "",
+      "study_methods": "A retrospective review of Jaw-in-a-Day reconstructions performed between January 2023 and January 2024 was conducted. All patients undergoing fibula or scapula free flap reconstruction with immediate dental implantation and provisional prosthesis were included. Operative times and prosthetic workflows were compared by prosthesis capture method (in situ vs at the head) and team composition (single vs integrated two-surgeon teams). Outcomes measured were operative time, flap and implant survival, perioperative complications, Functional Oral Intake Scale (FOIS) scores, and prosthesis use.",
+      "methods": "A retrospective review of Jaw-in-a-Day reconstructions performed between January 2023 and January 2024 was conducted. All patients undergoing fibula or scapula free flap reconstruction with immediate dental implantation and provisional prosthesis were included. Operative times and prosthetic workflows were compared by prosthesis capture method (in situ vs at the head) and team composition (single vs integrated two-surgeon teams). Outcomes measured were operative time, flap and implant survival, perioperative complications, Functional Oral Intake Scale (FOIS) scores, and prosthesis use.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41711575/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2428,6 +2474,62 @@
       "figure_urls": []
     },
     {
+      "pmid": "40986887",
+      "title": "A Rating Scale for Obtaining Specific, Actionable Evaluations of Nasolabial Aesthetics after Unilateral Cleft Lip Repair.",
+      "authors": [
+        "Thomas J Sitzman",
+        "Thomas D Samson",
+        "Raymond W Tse",
+        "Damir B Matic",
+        "David M Fisher",
+        "Stephen P Beals",
+        "Alexander C Allori",
+        "Jeffrey R Marcus",
+        "Michael Bezuhly",
+        "Helena Hanna"
+      ],
+      "publication_date": "2026-May-01",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Surgeons pursuing improvement in the aesthetic outcomes of their cleft lip repairs may benefit from a granular scale evaluating individual objectives of the repair. A working group of 9 surgeons convened to develop an assessment scale for nasolabial aesthetics after unilateral cleft lip repair. The group identified objectives of the repair that could be evaluated using two-dimensional facial photographs. Scale items were developed to appraise success or failure in achieving each objective. Scale items were iteratively tested and refined. The scale was subsequently implemented as part of a Continuing Medical Education course that included self-evaluation and peer-to-peer education, culminating in the formation of individual plans for improvement. Twelve distinct objectives of unilateral cleft lip repair were identified, of which 10 could be evaluated using photographs routinely obtained in clinical practice. A comprehensive scale was developed, incorporating these 10 objectives. Each scale item takes the form of a binary (yes/no) question evaluating a specific aesthetic concept, with accompanying reference images. Intrarater reliability for each item ranged from moderate to substantial (kappa value, 0.57 to 0.81). Interrater reliability ranged from fair to substantial (kappa value, 0.27 to 0.81). When implemented in a Continuing Medical Education course, the scale enabled surgeons to identify specific opportunities for improvement in their repair and specific surgical maneuvers to adopt in pursuit of these improvements. A new scale for evaluating outcomes of unilateral cleft lip repair is presented. The scale provides specific, actionable evaluations for individual objectives of the repair.",
+      "objective": "of the repair. A working group of 9 surgeons convened to develop an assessment scale for nasolabial aesthetics after unilateral cleft lip repair. The group identified objectives of the repair that could be evaluated using two-dimensional facial photographs. Scale items were developed to appraise success or failure in achieving each objective. Scale items were iteratively tested and refined. The scale was subsequently implemented as part of a Continuing Medical Education course that included self-evaluation and peer-to-peer education, culminating in the formation of individual plans for improvement. Twelve distinct objectives of unilateral cleft lip repair were identified, of which 10 could be evaluated using photographs routinely obtained in clinical practice. A comprehensive scale was developed, incorporating these 10 objectives. Each scale item takes the form of a binary (yes/no) question evaluating a specific aesthetic concept, with accompanying reference images. Intrarater reliability for each item ranged from moderate to substantial (kappa value, 0.57 to 0.81). Interrater reliability ranged from fair to substantial (kappa value, 0.27 to 0.81). When implemented in a Continuing Medical Education course, the scale enabled surgeons to identify specific opportunities for improvement in their repair and specific surgical maneuvers to adopt in pursuit of these improvements. A new scale for evaluating outcomes of unilateral cleft lip repair is presented. The scale provides specific, actionable evaluations for individual objectives of the repair.",
+      "study_methods": "A working group of 9 surgeons convened to develop an assessment scale for nasolabial aesthetics after unilateral cleft lip repair. The group identified objectives of the repair that could be evaluated using two-dimensional facial photographs. Scale items were developed to appraise success or failure in achieving each objective. Scale items were iteratively tested and refined. The scale was subsequently implemented as part of a Continuing Medical Education course that included self-evaluation and peer-to-peer education, culminating in the formation of individual plans for improvement.",
+      "methods": "A working group of 9 surgeons convened to develop an assessment scale for nasolabial aesthetics after unilateral cleft lip repair. The group identified objectives of the repair that could be evaluated using two-dimensional facial photographs. Scale items were developed to appraise success or failure in achieving each objective. Scale items were iteratively tested and refined. The scale was subsequently implemented as part of a Continuing Medical Education course that included self-evaluation and peer-to-peer education, culminating in the formation of individual plans for improvement.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40986887/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40920497",
+      "title": "A Hybrid Surgical Technique for Bilateral Cleft Lip Reconstruction.",
+      "authors": [
+        "Savannah C Braud",
+        "Yuliia Kovach",
+        "Zachary D Zapatero",
+        "David W Low"
+      ],
+      "publication_date": "2026-May-01",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Treatment of bilateral cleft lip is inherently complex because of discontinuity of the orbicularis oris muscle, significant nasal deformities, and the distinctive anatomical characteristics of the prolabium. Several operative techniques exist, including the well-known Millard and Manchester methods. The Manchester technique preserves the vermilion and white roll of the prolabium, joining them with the lateral lip components. In contrast, the Millard technique discards the dry vermilion and white roll of the central prolabium, connecting the 2 lateral lip components at the midline. Advantages and disadvantages exist for both. The Manchester technique often leads to a widened philtrum, while the Millard technique can pose challenges in wider clefts, resulting in a short lip and notching. Surgeons have therefore sought to modify these traditional techniques to improve patient outcomes. In response to the limitations of the traditional approaches, the authors introduce the Low technique-a hybrid technique designed to improve both aesthetic and functional outcomes. This technique aims to minimize the need for secondary corrective procedures by preserving tissue to prevent lip shortening and strategically placing incisions to address philtral widening. In this article, the authors describe the Low technique in detail and outline its advantages.",
+      "objective": "to minimize the need for secondary corrective procedures by preserving tissue to prevent lip shortening and strategically placing incisions to address philtral widening. In this article, the authors describe the Low technique in detail and outline its advantages.",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing in a short lip and notching. Surgeons have therefore sought to modify these traditional techniques to improve patient outcomes. In response to the limitations of the traditional approaches, the authors introduce the Low technique-a hybrid technique designed to improve both aesthetic and functional outcomes. This technique aims to minimize the need for secondary corrective procedures by preserving tissue to prevent lip shortening and strategically placing incisions to address philtral widening. In this article, the authors describe the Low technique in detail and outline its advantages.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40920497/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "40653684",
       "title": "Possible association of short-term complications and antimicrobial use in standing equine cheek tooth extractions 2018-2022.",
       "authors": [
@@ -2658,84 +2760,14 @@
       "figure_urls": []
     },
     {
-      "pmid": "39925040",
-      "title": "Karl Jarmer (1898-1983): Dentist and first professor of dentistry in Dresden.",
+      "pmid": "42055784",
+      "title": "Corrigendum: The in-house designed patient-specific implants combined with navigation systems in orthognathic surgery: a case series of three patients.",
       "authors": [
-        "Felix Marschner"
+        "Warutta Kasemsarn",
+        "Tanutchaporn Thongngam"
       ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "Karl Jarmer was the first professor of dentistry at the Medical Academy in Dresden (Germany). This article chronicles his life, his professional challenges, and the impact of his work, illustrated by theses, articles, books, and original sources from the archives of the Dresden University of Technology's Medical Faculty. His career encompassed a range of experiences, from running a private practice in Stettin to specializing in oral surgery. After serving in the First World War, his academic journey began with the completion of his dental license and doctorate in 1921. Later, he worked at the universities of Greifswald and Kiel before being appointed to the Chair of Dentistry in Dresden in 1954. His appointment triggered a professional rivalry with Johann Alexander Vogelsang, a key figure in Dresden's maxillofacial care, due to conflicting views on academic leadership. Jarmer made significant contributions to the development of dental education in Dresden and played an important role in shaping Dentistry at the young Medical Academy Dresden. Jarmer remained active in academic circles until his retirement in 1963. He died in 1983.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39925040/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41980086",
-      "title": "Enhancer-directed gene delivery for digit regeneration based on conserved epidermal factors.",
-      "authors": [
-        "David A Brown",
-        "Katja K Koll",
-        "Erin Brush",
-        "Grant Darner",
-        "Timothy Curtis",
-        "Thomas Dvergsten",
-        "Melissa Tran",
-        "Colleen Milligan",
-        "David W Wolfson",
-        "Trevor J Gonzalez",
-        "Sydney Jeffs",
-        "Alyssa Ehrhardt",
-        "Rochelle Bitolas",
-        "Madeleine Landau",
-        "Kendall Reitz",
-        "David S Salven",
-        "Leslie A Slota-Burtt",
-        "Isabel Snee",
-        "Elena Singer-Freeman",
-        "Sayuri Bhatia",
-        "Jianhong Ou",
-        "Aravind Asokan",
-        "Joshua D Currie",
-        "Kenneth D Poss"
-      ],
-      "publication_date": "2026-Apr-28",
-      "publication_date_iso": "2026-04-28",
-      "abstract": "Limb loss remains a significant clinical challenge, but regenerative medicine approaches such as gene therapy offer a promising strategy to trigger endogenous regeneration programs. Optimal vector configurations and molecular targets for appendicular skeletal repair are not well defined. Here, we leveraged insights from species with a high endogenous capacity for appendage regeneration to design an enhancer-directed gene delivery platform that functions during mouse digit regeneration, a well-characterized model for partial limb regeneration in mammals. Single-cell RNA sequencing of zebrafish caudal fin regeneration, combined with expression data in regenerating salamander limbs and mouse digit tips, implicated the SP family of transcription factors as conserved, epidermally expressed mediators of appendage regrowth. Null mutants of Sp8 demonstrated impaired limb regeneration in salamanders, while conditional knockout of Sp6 and/or Sp8 in the mouse basal epidermis resulted in defective bony digit tip regeneration, involving an IL-17-mediated osteoclastogenic program. Spatiotemporally focused expression of FGF8, a known target of SP factors, using a zebrafish-derived tissue regeneration enhancer element via adeno-associated viral vectors, could partially rescue digit tip regeneration in SP knockout mice and accelerate digit regeneration in wild-type mice. Our results demonstrate a contextual gene therapy approach to address limb loss based on genes like SP transcription factors conserved across multiple contexts of appendage regeneration.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ed in defective bony digit tip regeneration, involving an IL-17-mediated osteoclastogenic program. Spatiotemporally focused expression of FGF8, a known target of SP factors, using a zebrafish-derived tissue regeneration enhancer element via adeno-associated viral vectors, could partially rescue digit tip regeneration in SP knockout mice and accelerate digit regeneration in wild-type mice. Our results demonstrate a contextual gene therapy approach to address limb loss based on genes like SP transcription factors conserved across multiple contexts of appendage regeneration.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41980086/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42045857",
-      "title": "Exploring the impact of gingival recession on oral health-related quality of life: a qualitative study.",
-      "authors": [
-        "Omid Fakheran",
-        "Majid Shahmoradi",
-        "Sajede Sheydaei",
-        "Zahra Mostajeran",
-        "Jaber Yaghini"
-      ],
-      "publication_date": "2026-Apr-27",
-      "publication_date_iso": "2026-04-27",
+      "publication_date": "2026-Apr-30",
+      "publication_date_iso": "2026-04-30",
       "abstract": "",
       "objective": "",
       "study_methods": "",
@@ -2744,9 +2776,65 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42045857/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42055784/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41974184",
+      "title": "Prior-guided craniofacial soft-tissue reconstruction from CBCT under acquisition uncertainty via identity-quantized shape priors.",
+      "authors": [
+        "Mingzhang Chen",
+        "Jiasong Wu",
+        "Luwei Liu",
+        "Han Bao",
+        "Ye Cao",
+        "Qingmo Sun",
+        "Lotfi Senhadji",
+        "Huazhong Shu",
+        "Bin Yan"
+      ],
+      "publication_date": "2026-Apr-29",
+      "publication_date_iso": "2026-04-29",
+      "abstract": "Objective.Cone-beam computed tomography (CBCT) suffers from low soft-tissue contrast and metal artifacts, yielding noisy and incomplete soft-tissue surface observations that limit craniofacial modeling for surgical planning. This study aims to reconstruct identity-preserving facial soft-tissue surfaces from CBCT-derived sparse surface evidence for clinical decision support.Approach.We propose a prior-guided reconstruction framework that introduces identity quantization as ananatomicalshape prior to regularize an inherently underdetermined inference problem. By embedding residual vector quantization within a hierarchical encoder, we learn a discrete identity codebook that improves robustness to acquisition-induced outliers and missing regions while preserving patient-specific anatomical structure. A continuous style branch captures fine-scale details, and the two representations are fused to generate detailed meshes.Main results.Evaluation on 490 subjects, including 50 test cases, shows that our method achieves a 34-point landmark distance of 1.53 mm. Geometric accuracy (GA) is confirmed with an L1 Chamfer distance of 1.13 mm and normal consistency of 0.98. A prospective expert study reveals high clinical acceptance, with GA rated 4.27 ± 0.53 (out of 5).Significance.By incorporating an explicit anatomical prior to regularize reconstruction under acquisition uncertainty, our method improves the clinical usability of CBCT-based soft-tissue surface modeling for orthognathic surgery planning.",
+      "objective": "Cone-beam computed tomography (CBCT) suffers from low soft-tissue contrast and metal artifacts, yielding noisy and incomplete soft-tissue surface observations that limit craniofacial modeling for surgical planning. This study aims to reconstruct identity-preserving facial soft-tissue surfaces from CBCT-derived sparse surface evidence for clinical decision support.Approach.We propose a prior-guided reconstruction framework that introduces identity quantization as ananatomicalshape prior to regularize an inherently underdetermined inference problem. By embedding residual vector quantization within a hierarchical encoder, we learn a discrete identity codebook that improves robustness to acquisition-induced outliers and missing regions while preserving patient-specific anatomical structure. A continuous style branch captures fine-scale details, and the two representations are fused to generate detailed meshes.Main",
+      "study_methods": "",
+      "methods": "",
+      "results": "Evaluation on 490 subjects, including 50 test cases, shows that our method achieves a 34-point landmark distance of 1.53 mm. Geometric accuracy (GA) is confirmed with an L1 Chamfer distance of 1.13 mm and normal consistency of 0.98. A prospective expert study reveals high clinical acceptance, with GA rated 4.27 ± 0.53 (out of 5).Significance.By incorporating an explicit anatomical prior to regularize reconstruction under acquisition uncertainty, our method improves the clinical usability of CBCT-based soft-tissue surface modeling for orthognathic surgery planning.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41974184/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42055482",
+      "title": "Patient-specific implants in minimally invasive orthognathic surgery: A case series.",
+      "authors": [
+        "Matheus Spinella Almeida",
+        "Hugo Jose Correia Lopes",
+        "Lucas Viana Silva Ramos",
+        "Otacilio Chagas Junior",
+        "Jonathas Daniel Paggi Claus"
+      ],
+      "publication_date": "2026-Apr-28",
+      "publication_date_iso": "2026-04-28",
+      "abstract": "This study aimed to evaluate the accuracy of maxillary repositioning using patient-specific implants (PSI) adapted for minimally invasive orthognathic surgery (MIOS), employing a simplified two-plate fixation protocol. Although all patients underwent bimaxillary orthognathic surgery, quantitative accuracy analysis was limited to the maxilla. This retrospective study included 20 patients treated with PSI tailored for MIOS. The surgical protocol involved limited soft tissue dissection and maxillary fixation using only two plates. Postoperative accuracy was assessed through computed tomography and voxel-based comparison with the virtual surgical plan. Discrepancies were measured in three linear axes and cant correction. Statistical analysis included Bland-Altman plots, effect sizes, and intraclass correlation coefficients (ICCs). All procedures were completed without intraoperative complications. Discrepancies between planned and postoperative positions ranged from 0.02 mm to 0.31 mm. ICCs exceeded 0.82 across all variables, with cant correction ICCs of 0.98 and 0.99. Effect sizes were negligible to small, and Bland-Altman analysis revealed no systematic bias. Customized PSI can be effectively adapted for use in MIOS protocols. Despite a reduced fixation strategy, high accuracy and reproducibility were achieved. These findings support the use of simplified PSI workflows as a precise and less invasive alternative in modern orthognathic surgery.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42055482/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2876,65 +2964,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42026802/",
       "pmcid": "PMC13120745",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42031068",
-      "title": "Influence of maxillary clockwise rotation with posterior impaction and mandibular setback by SSRO or IVRO for mandibular prognathism on volume change in upper airway.",
-      "authors": [
-        "Hisashi Ozaki",
-        "Hiroki Mori",
-        "Satoshi Kurokawa",
-        "Erika Miyamoto",
-        "Daisuke Kobayashi",
-        "Yosuke Kobayashi",
-        "Yuichiro Imai",
-        "Yoshihiko Yokoe"
-      ],
-      "publication_date": "2026-Apr-22",
-      "publication_date_iso": "2026-04-22",
-      "abstract": "In orthognathic surgery for skeletal mandibular prognathism, maxillary clockwise rotation with posterior impaction and mandibular setback is often performed. Change in airway volume after orthognathic surgery is one of the concerns. The present study was performed to evaluate the effects of maxillary clockwise rotation with posterior impaction and the influence of different mandibular techniques, including sagittal splitting ramus osteotomy (SSRO) and intraoral vertical ramus osteotomy (IVRO), on upper airway volume changes before and after bimaxillary surgery for mandibular prognathism. We retrospectively investigated the amount of maxillary and mandibular movement and the changes on upper airway volume before and after surgery in 20 patients with mandibular prognathism who underwent bimaxillary surgery. Subjects were divided into Le Fort Ⅰ osteotomy (LF) +SSRO (n=10) and LF+IVRO (n=10) groups. Comparing changes in nasopharyngeal, hypopharyngeal and pharyngeal volumes before and after surgery, reductions in airway volume were significantly smaller with LF+SSRO than with LF+IVRO. Although not significant, a correlation trend was observed between maxillary impaction and increased hypopharyngeal and pharyngeal volume in LF+SSRO. In LF+SSRO, correlations were observed between mandibular setback and reduction in hypopharyngeal and pharyngeal volume. For posterior impaction and clockwise rotation of the maxilla with advancement and mandibular setback, LF+SSRO showed less change in postoperative upper airway volume than LF+IVRO and may be expected to reduce airway narrowing.",
-      "objective": "",
-      "study_methods": "We retrospectively investigated the amount of maxillary and mandibular movement and the changes on upper airway volume before and after surgery in 20 patients with mandibular prognathism who underwent bimaxillary surgery. Subjects were divided into Le Fort Ⅰ osteotomy (LF) +SSRO (n=10) and LF+IVRO (n=10) groups.",
-      "methods": "We retrospectively investigated the amount of maxillary and mandibular movement and the changes on upper airway volume before and after surgery in 20 patients with mandibular prognathism who underwent bimaxillary surgery. Subjects were divided into Le Fort Ⅰ osteotomy (LF) +SSRO (n=10) and LF+IVRO (n=10) groups.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42031068/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42014571",
-      "title": "Controlled cryotherapy and kinesiology taping for postoperative facial oedema following orthognathic surgery in class III malocclusion : a smartphone-based three-dimensional volumetric study.",
-      "authors": [
-        "Umberto Committeri",
-        "Antonio Ricciardi",
-        "Maria Elisa Giovannoni",
-        "Valentino Vellone",
-        "Giuseppe Consorti",
-        "Giulio Cirignaco",
-        "Gabriele Monarchi",
-        "Fabio Maglitto",
-        "Fabrizio Spallaccia"
-      ],
-      "publication_date": "2026-Apr-22",
-      "publication_date_iso": "2026-04-22",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42014571/",
-      "pmcid": "",
       "figure_urls": []
     }
   ]
