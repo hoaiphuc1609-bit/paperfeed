@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T05:46:45Z",
+  "updated_at": "2026-05-02T05:16:04Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -429,6 +429,42 @@
       "figure_urls": []
     },
     {
+      "pmid": "42063745",
+      "title": "SCULPT: Medical student and resident doctor comprehension, uptake of learning and perception of aesthetic surgery and training.",
+      "authors": [
+        "Anuska Shah",
+        "Rananjay Singh",
+        "Cheuk Ying Kyleen Kiew",
+        "Umar Rehman",
+        "Daniella Soussi",
+        "Anna Chiara Corriero",
+        "Zahra Abdali",
+        "Krisada Ooi",
+        "Mohammad Alradhawi",
+        "Mohammed Sohaib Sarwar",
+        "Rakesh Anand",
+        "Peter A Brennan",
+        "Simon Eccles",
+        "Theodore Pezas",
+        "UKPRC Collaborators"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "As demand for aesthetic procedures continues to grow in the UK, alongside presentations of aesthetic-related complications, understanding current training provision and clinician preparedness is essential to inform educational curriculum development and regulatory policy. A cross-sectional online survey was conducted across UK medical schools and postgraduate medical education regions to evaluate UK medical students' and resident doctors' exposure to, knowledge of, and perceptions of aesthetic practice. A total of 2369 participants completed the survey (1757 students; 612 residents). Formal aesthetic teaching was uncommon: 10.9% of students (n = 191) and 10.5% of resident doctors (n = 64) received undergraduate teaching, and 11.9% of residents (n = 73) had postgraduate exposure. Self-reported knowledge scores ranged from 1.72 to 2.65/5 for surgical procedures and 2.32-2.99/5 for non-surgical procedures. However, 40.7% of residents (n = 249) had already managed at least one aesthetic complication, with 78.3% (n = 195) arising from procedures performed abroad. Career interest was substantial (38.2% overall), with participants identifying consent principles (4.08 ± 1.02) and procedure overview (4.00 ± 1.00) as priority curriculum additions. Social media was the most influential source shaping perceptions (residents 3.64 ± 1.17; students 3.51 ± 1.30), while formal education had minimal impact. Strong consensus emerged on regulatory needs: 86.4% of residents and 78.6% of students identified lack of regulation in the non-surgical sector as a significant concern, with 88.2% and 86.0% respectively supporting restriction of invasive non-surgical procedures to medically trained professionals. These findings provide an evidence base for developing structured aesthetic curricula and strengthening regulatory frameworks to better prepare clinicians for this expanding area of practice.",
+      "objective": "",
+      "study_methods": "A cross-sectional online survey was conducted across UK medical schools and postgraduate medical education regions to evaluate UK medical students' and resident doctors' exposure to, knowledge of, and perceptions of aesthetic practice.",
+      "methods": "A cross-sectional online survey was conducted across UK medical schools and postgraduate medical education regions to evaluate UK medical students' and resident doctors' exposure to, knowledge of, and perceptions of aesthetic practice.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42063745/",
+      "pmcid": "PMC13127476",
+      "figure_urls": []
+    },
+    {
       "pmid": "42005717",
       "title": "Indication adherence and outcome of post-operative radiotherapy in oral cavity cancer patients with intermediate adverse pathological tumor features: A nationwide population-based analysis.",
       "authors": [
@@ -766,7 +802,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42057273/",
-      "pmcid": "",
+      "pmcid": "PMC13129251",
       "figure_urls": []
     },
     {
@@ -1507,37 +1543,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41456504",
-      "title": "Plasmon-boosted titanium nitride-based nanoplatform for synergistic photothermal-chemodynamic cancer therapy with smart degradability.",
-      "authors": [
-        "Ruiqi Yang",
-        "Zhu You",
-        "Bojun Xie",
-        "Mingyang Liu",
-        "Eva Yazmin Santiago",
-        "Lucas V Besteiro",
-        "Yong Wang",
-        "Baojin Ma",
-        "Hong Liu",
-        "Dongling Ma"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "The development of multifunctional nanoplatforms offers promising strategies for advancing cancer treatment, given the generally limited efficacy of single function nanomaterial-based therapeutics. Herein, a plasmon-enhanced \"sandwich-like\" nanoplatform, titanium nitride@mesoporous silica-iron oxide/polyethylenimine (TiN@mSiO2-Fe3O4/PEI), is designed for synergistic photothermal and chemodynamic therapy (PTT/CDT). The core comprises multiple TiN nanoparticles exhibiting strong plasmon coupling, while the mSiO2 shell is decorated with ultrasmall, surface-exposed Fe3O4 nanozymes (∼3.2 nm) to facilitate catalytic reactions with tumor-associated substrates. Under near-infrared irradiation, the nanoplatform demonstrates a favorable photothermal conversion efficiency (∼39.3 %), making it well-suited for mild-temperature PTT. Meanwhile, the localized heat generated by TiN effectively enhances the catalytic activity of adjacent Fe3O4 nanozymes, thereby promoting hydroxyl radical production and intracellular glutathione depletion. The synergistic photothermal-catalytic interactions within TiN@mSiO2-Fe3O4/PEI result in augmented therapeutic effect by combining efficient PTT with intensified CDT by in situ thermally accelerated Fenton reactions. This is evidenced by >90 % cancer cell killing efficiency in vitro and ∼96 % tumor inhibition rate in MOC1 xenograft models. Moreover, the mSiO2 shell, with its large mesopores, exhibits pH-responsive degradability that enables controlled Fe3O4 release in the acidic tumor microenvironment, which in turn improves therapeutic specificity and reduces systemic toxicity. Collectively, these results demonstrate the potential of TiN@mSiO2-Fe3O4/PEI as a highly effective and versatile nanoplatform for advanced cancer nanotherapy.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "in augmented therapeutic effect by combining efficient PTT with intensified CDT by in situ thermally accelerated Fenton reactions. This is evidenced by >90 % cancer cell killing efficiency in vitro and ∼96 % tumor inhibition rate in MOC1 xenograft models. Moreover, the mSiO2 shell, with its large mesopores, exhibits pH-responsive degradability that enables controlled Fe3O4 release in the acidic tumor microenvironment, which in turn improves therapeutic specificity and reduces systemic toxicity. Collectively, these results demonstrate the potential of TiN@mSiO2-Fe3O4/PEI as a highly effective and versatile nanoplatform for advanced cancer nanotherapy.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41456504/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41352995",
       "title": "Ozone therapy for medication-related osteonecrosis of the jaw: a scoping review.",
       "authors": [
@@ -1562,6 +1567,133 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41352995/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42067664",
+      "title": "A multimodal explainable ai framework to assist in the differential diagnosis of head and neck reactive follicular hyperplasia and follicular lymphoma: an international multicentre study.",
+      "authors": [
+        "Lucas Lacerda de Souza",
+        "Zhiyang Chen",
+        "Cinthia Veronica Bardález López de Cáceres",
+        "Nathalia Gomes Rodrigues",
+        "Hélder Antônio Rebelo Pontes",
+        "Ciro Dantas Soares",
+        "Fábio Luiz Coracin",
+        "Igor Kimura",
+        "Sheila Aparecida Coelho Siqueira",
+        "Fernanda Viviane Mariano",
+        "Talita de Carvalho Kimura",
+        "João Felipe Leite Bonfitto",
+        "Leandro Luiz Lopes de Freitas",
+        "Sibele Nascimento de Aquino",
+        "Paul Hankinson",
+        "Hanya Mahmood",
+        "Hannah Walsh",
+        "Itzia Araceli Torres Torres",
+        "Adalberto Mosqueda-Taylor",
+        "Pedro Bandeira Aleixo",
+        "Manoela Domingues Martins",
+        "Carolina Louzada Menna-Barreto",
+        "Ahmed Hagag",
+        "Thaís Cerqueira Reis Nakamura",
+        "Giovanna Calabrese Dos Santos",
+        "Matheus Cardoso Moraes",
+        "Marcio Ajudarte Lopes",
+        "Alan Roger Santos-Silva",
+        "Felipe Paiva Fonseca",
+        "Syed Ali Khurram",
+        "Pablo Agustin Vargas"
+      ],
+      "publication_date": "2026-May-02",
+      "publication_date_iso": "2026-05-02",
+      "abstract": "The differential diagnosis between reactive follicular hyperplasia (RFH) and follicular lymphoma (FL) in head and neck tissues represents a diagnostic challenge, particularly given the rarity of extranodal FL at these anatomical sites. We developed and evaluated an explainable multimodal artificial intelligence framework to assist in this differential diagnosis. This international multicentre study assembled 108 cases (54 RFH, 54 FL) from 10 centres across 4 continents, representing one of the largest collections of head and neck follicular lesions. We developed a multimodal framework integrating convolutional neural networks (CNNs: AlexNet, VGG16, ResNet18), vision transformers (CellViT + +), graph neural networks (Cell-GNN for spatial analysis), and gradient-boosted decision trees (XGBoost) with morphometric features. Explainability was achieved through Grad-CAM visualisation and SHAP analysis. The best-performing model (CellViT + +) achieved 95.7% accuracy on the internal test set. External validation demonstrated accuracy of 80.5% (ResNet18, Cohort 1) and 69.0% (VGG16-Seg, Cohort 2), with performance variation reflecting the challenge of generalisation across centres. Explainability analysis revealed that the multimodal framework integrated morphometric features (nuclear area, eccentricity) with epidemiological context (patient age, consistent with known FL demographics). Cell-GNN spatial analysis identified significant architectural reorganisation in FL, quantified by Hedges' g = -6.65, representing the loss of normal follicular polarity. This study demonstrates the feasibility of a multimodal explainable AI framework for assisting in the differential diagnosis of rare head and neck follicular lesions. The integration of morphological, spatial, and clinical features provides a foundation for future collaborative validation studies and potential diagnostic support in specialised pathology settings.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42067664/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42065839",
+      "title": "Differential Involvement of t-SNARE Proteins and Signaling Pathways During PGE2-Induced TRPV1 Sensitization.",
+      "authors": [
+        "Sahar M Jaffal",
+        "Samer Alqaralleh",
+        "Munther S Alnajjar"
+      ],
+      "publication_date": "2026-May-01",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Prostaglandin E2 (PGE2) is a significant mediator of inflammatory pain that causes sensitization of the transient receptor potential vanilloid 1 (TRPV1) channels in primary sensory neurons. Previous research focused on intracellular signaling pathways; however, the role of vesicular trafficking mechanisms in TRPV1 sensitization is not fully elucidated. In this study, we examined whether PGE2-induced TRPV1 sensitization correlates with distinct regulation of t-SNARE proteins in dorsal root ganglia (DRG) and peripheral tissues, utilizing a rat model of inflammatory pain. We used behavioral tests, different inhibitors, DRG neuronal cultures, and protein expression tests. We observed that PGE2-induced sensitization correlates with a reduction in SNAP25 expression in DRG neurons and a decrease in syntaxin-1 expression in peripheral tissues. Pharmacological inhibition of various signaling pathways diminished PGE2-induced hyperalgesia in hyperalgesic priming model and modified t-SNARE protein expression. These results suggest, rather than definitively establish, the involvement of the following signaling pathways in capsaicin-induced mechanical allodynia: PKCε, cAMP, PLC, SNAP25, p38 MAPK, JNK MAPK, ERK-MAPK, PKC, PKA, CaMKII, CDK5, intracellular and extracellular Ca2+. The differential regulation of t-SNARE proteins may be linked to TRPV1 sensitization in a tissue-specific manner. Nonetheless, since only total protein levels were evaluated and no direct measurements of membrane trafficking were conducted, additional studies are necessary to elucidate the mechanistic role of t-SNARE proteins in TRPV1 surface localization and function.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "suggest, rather than definitively establish, the involvement of the following signaling pathways in capsaicin-induced mechanical allodynia: PKCε, cAMP, PLC, SNAP25, p38 MAPK, JNK MAPK, ERK-MAPK, PKC, PKA, CaMKII, CDK5, intracellular and extracellular Ca2+. The differential regulation of t-SNARE proteins may be linked to TRPV1 sensitization in a tissue-specific manner. Nonetheless, since only total protein levels were evaluated and no direct measurements of membrane trafficking were conducted, additional studies are necessary to elucidate the mechanistic role of t-SNARE proteins in TRPV1 surface localization and function.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42065839/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42065395",
+      "title": "Determinants of Planned Orthognathic Surgical Movements in a Singaporean Cleft Lip and Palate Cohort.",
+      "authors": [
+        "Boon Hui Chan",
+        "Aik Wei Goh",
+        "Chieh Shen Koo",
+        "Chai Kiat Chng",
+        "Vincent Kok Leng Yeow",
+        "Yong Chen Por"
+      ],
+      "publication_date": "2026-May-01",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Cleft lip and palate are frequently associated with disturbances in maxillary growth, and many patients require orthognathic surgery at skeletal maturity. This study aimed to characterize baseline craniofacial morphology and determine factors influencing the magnitude of planned orthognathic surgical movements in a Singaporean cleft cohort managed using virtual surgical planning (VSP). A retrospective cohort study was conducted, including non-syndromic cleft patients who underwent orthognathic surgery between 2020 and 2025 at a tertiary cleft center in Singapore. All procedures were planned using VSP and performed with customized cutting guides and fixation plates. Demographic variables, preoperative cephalometric parameters (SNA, SNB), and planned skeletal and dental movements were extracted from surgical planning records. Forty-four patients were included (20 males, 24 females). The median age at surgery was 20.24 years (IQR 19.67-22.46). Male patients underwent surgery at a significantly older age than females (22.21 versus 19.87 y, P < 0.001) and demonstrated greater baseline maxillary retrusion (median SNA 73.05 degrees versus 77.50 degrees, P = 0.007). Planned maxillary advancement was significantly greater in males for both A-point (8.18 ± 2.19 mm versus 5.88 ± 2.05 mm; P < 0.001) and maxillary incisor tip movement (7.55 ± 1.94 mm versus 5.25 ± 2.24 mm, P < 0.001). SNB differed significantly across cleft subtypes (P = 0.005), although the magnitude of planned surgical movements did not differ significantly between cleft phenotypes. These findings suggest that while sex and cleft phenotype influence baseline craniofacial morphology, planned orthognathic surgical movements remain broadly comparable across cleft subtypes within contemporary VSP workflows.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42065395/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42065377",
+      "title": "Severe Crossbite: A Sequelae For Free Fibula Flaps For Mandibular Reconstruction.",
+      "authors": [
+        "Samuel Fleisher",
+        "Neil McGowan",
+        "Stanley Smith"
+      ],
+      "publication_date": "2026-May-01",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Free fibula flaps are becoming the preferred flap procedure for mandibular reconstruction after tumor, infection, or trauma resections. While surgeons are becoming more skilled and proficient with this type of reconstructive surgery due to advancements in research and technology, early- and late-onset complications still are prevalent in this cohort of patients. This paper discusses a 69-year-old male with a past medical history of left mandible odontogenic keratocyst (OKC) status post-resection and reconstruction with free fibula flap, who presented to the oral surgery clinic for evaluation of a severe crossbite.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42065377/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1618,7 +1750,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42057236/",
-      "pmcid": "",
+      "pmcid": "PMC13128524",
       "figure_urls": []
     },
     {
@@ -2221,6 +2353,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "41578897",
+      "title": "Role of articaine and perineural dexamethasone in prolonging postoperative analgesia in mandibular third molar surgery: A comparative analysis.",
+      "authors": [
+        "A-T Şitilci",
+        "B Atalay",
+        "T Kuşlu",
+        "Ö-D Onur"
+      ],
+      "publication_date": "2026-May-01",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Pain management in dentistry, particularly in procedures such as mandibular third molar surgery, poses a significant challenge due to the transient efficacy of traditional local anesthetics. To address this, adjunctive therapies such as dexamethasone have been explored to prolong anesthesia and alleviate postoperative pain. However, the efficacy and safety of this approach in mandibular third molar surgery remain underexplored. This study assessed the efficacy and safety of combining articaine with perineural dexamethasone for inferior alveolar nerve block in patients undergoing mandibular third molar extraction. Sixty patients aged 18-35 years were enrolled and randomly assigned to three groups receiving different anesthesia protocols. Anesthesia duration, postoperative pain scores, and adverse events were evaluated. The incorporation of dexamethasone into articaine-based anesthesia significantly prolonged the duration of analgesia compared to articaine alone, underscoring its potential as an effective adjunctive therapy. While no significant differences were observed in the duration of operation, analgesic consumption, or incidence of adverse events among the groups, trends favoring the articaine-dexamethasone cohorts were noted in postoperative pain scores. Combining articaine with perineural dexamethasone for inferior alveolar nerve block prolongs postoperative analgesia in mandibular third molar surgery. While additional research using larger sample sizes and longer follow-up durations is needed, these findings imply that this combination could be beneficial for improving pain management during oral surgery.",
+      "objective": "",
+      "study_methods": "This study assessed the efficacy and safety of combining articaine with perineural dexamethasone for inferior alveolar nerve block in patients undergoing mandibular third molar extraction. Sixty patients aged 18-35 years were enrolled and randomly assigned to three groups receiving different anesthesia protocols. Anesthesia duration, postoperative pain scores, and adverse events were evaluated.",
+      "methods": "This study assessed the efficacy and safety of combining articaine with perineural dexamethasone for inferior alveolar nerve block in patients undergoing mandibular third molar extraction. Sixty patients aged 18-35 years were enrolled and randomly assigned to three groups receiving different anesthesia protocols. Anesthesia duration, postoperative pain scores, and adverse events were evaluated.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41578897/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41564556",
       "title": "Enhanced characterization of acquired oronasal communications in dogs by cone-beam computed tomography: findings, risk factors, and clinical utility.",
       "authors": [
@@ -2638,7 +2795,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40986887/",
-      "pmcid": "",
+      "pmcid": "PMC13132045",
       "figure_urls": []
     },
     {
@@ -2692,127 +2849,6 @@
       "pmcid": "PMC13041609",
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13041609/bin/EVJ-58-709-g001.jpg"
-      ]
-    },
-    {
-      "pmid": "40625210",
-      "title": "A Digital Approach to Extracting Horizontally Impacted Mandibular Third Molars: The Cross-Sectioning Method.",
-      "authors": [
-        "Kejiong Wu",
-        "Yuan Xie",
-        "Fangming Dong",
-        "Qin Huang",
-        "Rongxin Sun",
-        "Haiping Yang",
-        "Fudong Zhu",
-        "Huiming Wang",
-        "Chao Liu"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "Surgical extraction of horizontally impacted mandibular third molars, particularly those requiring osteotomy, is highly sensitive to the surgeons' experience and poses challenges for residents to master. This study introduces the Cross-sectioning method developed through digital measurement and resistance analysis to minimise bone removal during extraction. A comparative study of 400 patients (200 per group) undergoing either Cross-sectioning or Traditional method was conducted. Cone beam computed tomography (CBCT)-based digital measurements validated an odontosection depth of 9 mm through the distomarginal ridge at a 75° angle to the occlusal plane for the Cross-sectioning protocol. The Cross-sectioning protocol involved dividing the tooth into four segments (distolingual, mesiolingual, mesiobuccal, distobuccal) for sequential removal, whereas the Traditional method involved bifurcation with root extraction before crown. The Cross-sectioning group demonstrated significantly shorter operation times, reduced postoperative pain, and swelling compared to the traditional group (p < 0.01). Subgroup analysis (Pell and Gregory classification) revealed superior outcomes for Cross-sectioning: in Horizontal-IIA cases, shorter operation time (p < 0.01) and reduced swelling (p < 0.05); in Horizontal-IIB cases, superior outcomes in operation time and complications (p < 0.01); in Horizontal-IIC cases, shorter operation time (p < 0.05). The Cross-sectioning method effectively reduces bone and adjacent tooth resistance, offering a structured approach for resident training to enhance procedural efficiency and minimise complications. The Cross-sectioning method represents a precise, clinically advantageous technique for impacted third molar extraction, emphasising targeted odontosection depth and improved postoperative outcomes.",
-      "objective": "",
-      "study_methods": "A comparative study of 400 patients (200 per group) undergoing either Cross-sectioning or Traditional method was conducted. Cone beam computed tomography (CBCT)-based digital measurements validated an odontosection depth of 9 mm through the distomarginal ridge at a 75° angle to the occlusal plane for the Cross-sectioning protocol. The Cross-sectioning protocol involved dividing the tooth into four segments (distolingual, mesiolingual, mesiobuccal, distobuccal) for sequential removal, whereas the Traditional method involved bifurcation with root extraction before crown.",
-      "methods": "A comparative study of 400 patients (200 per group) undergoing either Cross-sectioning or Traditional method was conducted. Cone beam computed tomography (CBCT)-based digital measurements validated an odontosection depth of 9 mm through the distomarginal ridge at a 75° angle to the occlusal plane for the Cross-sectioning protocol. The Cross-sectioning protocol involved dividing the tooth into four segments (distolingual, mesiolingual, mesiobuccal, distobuccal) for sequential removal, whereas the Traditional method involved bifurcation with root extraction before crown.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40625210/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "40569044",
-      "title": "Amsterdam Self-Efficacy Scale for Tooth Removal (ASES-TR).",
-      "authors": [
-        "Maaike G Beuling",
-        "Jason Nak",
-        "Jens Kober",
-        "Jean Pierre T F Ho",
-        "Jan de Lange",
-        "Raoul P P P Grasman",
-        "Tom C T van Riet"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "To develop and validate a questionnaire on dental students' self-efficacy with tooth removal, suitable for measuring the effectiveness of training methods. To prepare and validate this questionnaire, we used the Association of Medical Education in Europe (AMEE) stepwise guide for developing questionnaires for educational research. In the validation process, our study group conducted two pilot studies, the first for an exploratory factor analysis and the second for a confirmatory factor analysis. In addition, the questionnaire was tested for convergence with the neuroticism subscale of the NEO-Personality Inventory. After an exploratory factor analysis, which used a total of 137 responses on 33 items, 15 items were left for confirmatory factor analysis. A total of 118 responses were available for the confirmatory factor analysis. Model fitness was tested using tests for exact fitness and fit indices such as the goodness of fit index (GFI), root mean square error of approximation (RMSEA) and standardised root mean squared residual (SRMR). An acceptable fit was found for 11 items divided over three factors: 'self-perceived skill', 'tension' and 'dedication'. These 11 items did not converge with the neuroticism scale. This study showed the development steps and initial validation of a psychometric instrument, the Amsterdam Self-Efficacy Scale for Tooth Removal (ASES-TR), consisting of 11 items for testing dental students' self-efficacy in performing tooth removal procedures.",
-      "objective": "",
-      "study_methods": "To prepare and validate this questionnaire, we used the Association of Medical Education in Europe (AMEE) stepwise guide for developing questionnaires for educational research. In the validation process, our study group conducted two pilot studies, the first for an exploratory factor analysis and the second for a confirmatory factor analysis. In addition, the questionnaire was tested for convergence with the neuroticism subscale of the NEO-Personality Inventory.",
-      "methods": "To prepare and validate this questionnaire, we used the Association of Medical Education in Europe (AMEE) stepwise guide for developing questionnaires for educational research. In the validation process, our study group conducted two pilot studies, the first for an exploratory factor analysis and the second for a confirmatory factor analysis. In addition, the questionnaire was tested for convergence with the neuroticism subscale of the NEO-Personality Inventory.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40569044/",
-      "pmcid": "PMC13090438",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090438/bin/EJE-30-609-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090438/bin/EJE-30-609-g001.jpg"
-      ]
-    },
-    {
-      "pmid": "40420602",
-      "title": "Exodontia Block Course Evaluation: A Review of the Learning Outcomes, Content, and Assessment Practices at a Dental Faculty in South Africa.",
-      "authors": [
-        "Nashreen Behardien",
-        "Priscilla Brijlal",
-        "Nicolette Vanessa Roman"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "Regular curriculum renewal ensures relevant and responsive curricula. Skills development courses, such as for dental extraction procedures, require the same rigorous review, as this skill demands both technical proficiencies and a high level of cognition. In South Africa, the high burden of dental disease, in particular pain and sepsis, relies on competent graduate exodontia (tooth extraction) abilities. However, research on evidence-based instruction in this field is limited. This action research study emanated from the goal of enhancing the Exodontia Block Course by integrating a teaching and learning strategy proven to develop psychomotor skills. The first step in the broader research study involved evaluating the traditional course. This study thus aimed to evaluate a traditional exodontia block course, gaining insight into its curricular components prior to redesigning it. An interpretive qualitative study employed appreciative inquiry for data collection. A purposive sampling strategy was employed. Six focus group discussions were conducted with homogeneous groups of undergraduate dental students (n = 13), clinical teachers (n = 10), and dentist practitioners (n = 7). Audio recordings were transcribed, and data underwent coding and thematic analysis. This paper presents the findings pertaining to three curricular elements, namely the objectives, content, and assessment. The larger study identified four main themes: integration of skills and knowledge, block course structure, challenges, and recommendations for improvement. The study found that overall the students were satisfied with the content presented in the course. Recommendations to improve the course, however, were to include the use of elevators as a learning outcome of the course and the inclusion of an additional practical assessment. Challenges associated with the course related to the duration of the course and the presentation of non-relevant content. The course content revealed discrepancies between the material covered and the intended learning outcomes, with students noting insufficient focus on elevator/luxator use in extractions. Concerns were raised about including non-exodontia content, including a call for standardised terminology and locally developed teaching materials. Assessment methods were largely well received, but issues emerged regarding unlimited assessment attempts potentially reducing student accountability. Suggestions included limiting assessment opportunities and incorporating OSCE formats for preclinical evaluation to enhance rigour and student learning. The evaluation highlighted the strengths of the course as well as areas requiring reflection and emendation. Whilst the course was adequate to meet its objectives, areas for redress included instrumentation adaptations such as the combined use of elevators and luxators in intra-alveolar (simple, or non-surgical) extractions. A call for standardised terminology, locally developed teaching materials, and a broader array of assessment types was recommended. Additionally, issues emerged regarding unlimited assessment attempts potentially reducing student accountability. The need for future initiatives that focus on developing a nationally standardised competency-based curriculum was also foregrounded. Follow-up research would be required to investigate the impact of the implementation of the revised course.",
-      "objective": ", content, and assessment. The larger study identified four main themes: integration of skills and knowledge, block course structure, challenges, and recommendations for improvement. The study found that overall the students were satisfied with the content presented in the course. Recommendations to improve the course, however, were to include the use of elevators as a learning outcome of the course and the inclusion of an additional practical assessment. Challenges associated with the course related to the duration of the course and the presentation of non-relevant content. The course content revealed discrepancies between the material covered and the intended learning outcomes, with students noting insufficient focus on elevator/luxator use in extractions. Concerns were raised about including non-exodontia content, including a call for standardised terminology and locally developed teaching materials. Assessment",
-      "study_methods": "An interpretive qualitative study employed appreciative inquiry for data collection. A purposive sampling strategy was employed. Six focus group discussions were conducted with homogeneous groups of undergraduate dental students (n = 13), clinical teachers (n = 10), and dentist practitioners (n = 7). Audio recordings were transcribed, and data underwent coding and thematic analysis.",
-      "methods": "An interpretive qualitative study employed appreciative inquiry for data collection. A purposive sampling strategy was employed. Six focus group discussions were conducted with homogeneous groups of undergraduate dental students (n = 13), clinical teachers (n = 10), and dentist practitioners (n = 7). Audio recordings were transcribed, and data underwent coding and thematic analysis.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40420602/",
-      "pmcid": "PMC13090415",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090415/bin/EJE-30-392-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090415/bin/EJE-30-392-g001.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090415/bin/EJE-30-392-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090415/bin/EJE-30-392-g002.gif"
-      ]
-    },
-    {
-      "pmid": "40371664",
-      "title": "Improving Evaluation of Dentistry Students in an Oral Surgery and Implantology Subject: The PIETA Rubric.",
-      "authors": [
-        "Cristina de la Rosa-Gay",
-        "Octavi Camps-Font",
-        "Alba Sánchez-Torres",
-        "Rui Figueiredo",
-        "Eduard Valmaseda-Castellón"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "The objectives were to design an online rubric for fourth-year Dentistry students in the subject of Clinical Oral Surgery and Implantology and to compare the results with the grades of the written exam. A general rubric (PIETA) was designed and started in the academic year 2022-2023, and was tested in 2023-2024. The PIETA rubric evaluated punctuality and interest, assessed with a reflective diary (PI component) and empathy, technique and autonomy (ETA component). Teachers only marked the rubric when a change was perceived, either as improvement or worsening, to avoid repetitive feedback. Final assessment of the clinical work was carried out with the last score of the rubric to enhance student engagement. Evolution of ETA scores at 3 time points (initial, intermediate and final sessions) was analysed with a generalised estimating function (GEE). Rubric scores and written exam grades were correlated with Pearson's correlation. The PIETA rubric was used by 10 clinical assistants to assess 102 students in 2023-2024. The mean number of procedures evaluated was 77.3 (standard deviation [SD] = 37.0) per assistant and 7.6 (SD = 2.5) per student. The PI and ETA components showed a significant positive correlation. The ETA score significantly increased from the first to the last session (p < 0.001). While the PI component did not correlate with the written exam grades, the ETA component showed a significant positive correlation with the outcomes of the written exam in both academic years. The PIETA rubric is easy to use, improves transparency, reduces student complaints of unfair evaluation, and provides immediate feedback after clinical practice. The devil is in the details: feedback and frequency of evaluations should be monitored regularly.",
-      "objective": "were to design an online rubric for fourth-year Dentistry students in the subject of Clinical Oral Surgery and Implantology and to compare the",
-      "study_methods": "A general rubric (PIETA) was designed and started in the academic year 2022-2023, and was tested in 2023-2024. The PIETA rubric evaluated punctuality and interest, assessed with a reflective diary (PI component) and empathy, technique and autonomy (ETA component). Teachers only marked the rubric when a change was perceived, either as improvement or worsening, to avoid repetitive feedback. Final assessment of the clinical work was carried out with the last score of the rubric to enhance student engagement. Evolution of ETA scores at 3 time points (initial, intermediate and final sessions) was analysed with a generalised estimating function (GEE). Rubric scores and written exam grades were correlated with Pearson's correlation.",
-      "methods": "A general rubric (PIETA) was designed and started in the academic year 2022-2023, and was tested in 2023-2024. The PIETA rubric evaluated punctuality and interest, assessed with a reflective diary (PI component) and empathy, technique and autonomy (ETA component). Teachers only marked the rubric when a change was perceived, either as improvement or worsening, to avoid repetitive feedback. Final assessment of the clinical work was carried out with the last score of the rubric to enhance student engagement. Evolution of ETA scores at 3 time points (initial, intermediate and final sessions) was analysed with a generalised estimating function (GEE). Rubric scores and written exam grades were correlated with Pearson's correlation.",
-      "results": "with the grades of the written exam. A general rubric (PIETA) was designed and started in the academic year 2022-2023, and was tested in 2023-2024. The PIETA rubric evaluated punctuality and interest, assessed with a reflective diary (PI component) and empathy, technique and autonomy (ETA component). Teachers only marked the rubric when a change was perceived, either as improvement or worsening, to avoid repetitive feedback. Final assessment of the clinical work was carried out with the last score of the rubric to enhance student engagement. Evolution of ETA scores at 3 time points (initial, intermediate and final sessions) was analysed with a generalised estimating function (GEE). Rubric scores and written exam grades were correlated with Pearson's correlation. The PIETA rubric was used by 10 clinical assistants to assess 102 students in 2023-2024. The mean number of procedures evaluated was 77.3 (standard deviation [SD] = 37.0) per assistant and 7.6 (SD = 2.5) per student. The PI and ETA components showed a significant positive correlation. The ETA score significantly increased from the first to the last session (p < 0.001). While the PI component did not correlate with the written exam grades, the ETA component showed a significant positive correlation with the outcomes of the written exam in both academic years. The PIETA rubric is easy to use, improves transparency, reduces student complaints of unfair evaluation, and provides immediate feedback after clinical practice. The devil is in the details: feedback and frequency of evaluations should be monitored regularly.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40371664/",
-      "pmcid": "PMC13090430",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090430/bin/EJE-30-320-g004.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090430/bin/EJE-30-320-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090430/bin/EJE-30-320-g003.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090430/bin/EJE-30-320-g002.jpg"
       ]
     },
     {
@@ -2918,82 +2954,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42055482/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42034577",
-      "title": "Lower facial third projection: Analysis using true vertical lines from subnasale and soft Nasion.",
-      "authors": [
-        "Juan C Silva-Montero",
-        "Juan C Rodríguez-Fernández",
-        "Francisco Pastor-Dorado",
-        "José M Barrera-Mora",
-        "Carlos Flores-Mir",
-        "Eduardo Espinar-Escalona"
-      ],
-      "publication_date": "2026-Apr-24",
-      "publication_date_iso": "2026-04-24",
-      "abstract": "Orthognathic surgery is essential for correcting certain malocclusions and enhancing facial aesthetics. However, determining the ideal positioning of facial structures remains a topic of debate. This study aims to propose numerical references for surgical planning by determining the optimal sagittal projection of the maxillary incisors in aesthetically attractive Caucasian patients. An observational and retrospective study was conducted using cephalometric and photographic records of 89 patients' lateral profiles. These images were evaluated on a 10-point scale by orthodontists, maxillofacial surgeons, and laypeople. Cephalometric parameters were measured, including the position of the upper incisor and soft tissue pogonion, using the Barcelona Line and true vertical lines from subnasale. Statistical analyses were applied to explore the relationship between these parameters and aesthetic perception. The upper incisor and soft pogonion positions were found to significantly influence aesthetic perception. Ideal projection values for the upper incisor were 2.38 mm anterior to the Barcelona Line. The ideal projection for the soft pogonion was 6.02 mm anterior to the same reference. The positions of the upper incisor and soft pogonion are key predictors of aesthetic perception in orthognathic surgery. These findings may enhance surgical planning, although other factors may also affect facial aesthetics.",
-      "objective": "to propose numerical references for surgical planning by determining the optimal sagittal projection of the maxillary incisors in aesthetically attractive Caucasian patients. An observational and retrospective study was conducted using cephalometric and photographic records of 89 patients' lateral profiles. These images were evaluated on a 10-point scale by orthodontists, maxillofacial surgeons, and laypeople. Cephalometric parameters were measured, including the position of the upper incisor and soft tissue pogonion, using the Barcelona Line and true vertical lines from subnasale. Statistical analyses were applied to explore the relationship between these parameters and aesthetic perception. The upper incisor and soft pogonion positions were found to significantly influence aesthetic perception. Ideal projection values for the upper incisor were 2.38 mm anterior to the Barcelona Line. The ideal projection for the soft pogonion was 6.02 mm anterior to the same reference. The positions of the upper incisor and soft pogonion are key predictors of aesthetic perception in orthognathic surgery. These findings may enhance surgical planning, although other factors may also affect facial aesthetics.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42034577/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42033858",
-      "title": "Treatment of a hyperdivergent adult Class II subdivision malocclusion using customized 3D-printed lingual appliances, third-molar extraction, and skeletal anchorage: A case report.",
-      "authors": [
-        "Viet Anh Nguyen",
-        "Thi Minh Anh Ha",
-        "Thu Tra Nguyen"
-      ],
-      "publication_date": "2026-Apr-24",
-      "publication_date_iso": "2026-04-24",
-      "abstract": "Adult patients increasingly seek invisible, nonsurgical solutions for complex skeletal Class II malocclusion with bimaxillary protrusion, hyperdivergent pattern, and gummy smile. Managing these cases with full aesthetic demands while maintaining vertical control remains challenging. This case report describes the nonextraction treatment of a 32-year-old woman with skeletal Class II due to mandibular retrusion, bimaxillary incisor proclination, increased lower facial height, unilateral Class II subdivision, midline deviation, and excessive gingival display. She was treated with a premolar-preserving, nonsurgical approach using fully customized 3D-printed titanium lingual brackets and third-molar extraction. Maxillary en-masse distalization with palatal mini-implants, a mandibular buccal-shelf mini-implant, unilateral Class II elastics, and staged interproximal enamel reduction enabled space creation, asymmetric control, and anterior retraction. After 25 months, bilateral Class I relationships, normalized overjet and overbite, reduced gingival display, and improved lip position were achieved, with cephalometrics showing substantial incisor retraction and good vertical control. Root parallelism, alveolar support, and occlusal relationships were stable at 1-year follow-up. Fully customized 3D-printed lingual brackets supported by skeletal anchorage and conservative enamel reduction can offer an aesthetic, nonsurgical camouflage option for selected hyperdivergent skeletal Class II adults unwilling to undergo premolar extraction or orthognathic surgery.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42033858/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42029387",
-      "title": "Anatomical Predictors of Lingual Fracture Sites in Bilateral Sagittal Split Osteotomy: A 3D Morphological Study.",
-      "authors": [
-        "Koray Temiz",
-        "Can Ege Yalcin",
-        "Anil Demiroz",
-        "Hakan Arslan"
-      ],
-      "publication_date": "2026-Apr-24",
-      "publication_date_iso": "2026-04-24",
-      "abstract": "Bilateral sagittal split osteotomy (BSSO) is widely used in orthognathic surgery; however, unpredictable lingual fractures can complicate outcomes and surgical planning. This study aims to determine why lingual fractures consistently occur at specific anatomical locations and not at adjacent sites by analyzing the relationship between cortical thickness and cancellous bone content. Preoperative and postoperative cone-beam computed tomography (CBCT) scans of 21 patients (42 hemimandibles) were retrospectively evaluated. Bone morphology was assessed across multiple planes and points to measure buccal cortex, lingual cortex, and cancellous bone thickness at the fracture site and neighboring regions. LSS type 3 fractures were the most common pattern (71.4%). Lingual fractures consistently occurred at sites where the lingual cortex was significantly thinner than the anterior neighbor and where cancellous bone volume decreased. The fracture point was located just anterior to a region where the cortical bone content increased markedly, particularly on the lingual side, especially in the ramus and mandibular angle. Lingual fractures during BSSO occur at transition zones of increased cortical resistance and reduced cancellous content. These anatomical characteristics can guide surgeons in anticipating fracture behavior and improving osteotomy planning.",
-      "objective": "to determine why lingual fractures consistently occur at specific anatomical locations and not at adjacent sites by analyzing the relationship between cortical thickness and cancellous bone content. Preoperative and postoperative cone-beam computed tomography (CBCT) scans of 21 patients (42 hemimandibles) were retrospectively evaluated. Bone morphology was assessed across multiple planes and points to measure buccal cortex, lingual cortex, and cancellous bone thickness at the fracture site and neighboring regions. LSS type 3 fractures were the most common pattern (71.4%). Lingual fractures consistently occurred at sites where the lingual cortex was significantly thinner than the anterior neighbor and where cancellous bone volume decreased. The fracture point was located just anterior to a region where the cortical bone content increased markedly, particularly on the lingual side, especially in the ramus and mandibular angle. Lingual fractures during BSSO occur at transition zones of increased cortical resistance and reduced cancellous content. These anatomical characteristics can guide surgeons in anticipating fracture behavior and improving osteotomy planning.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42029387/",
       "pmcid": "",
       "figure_urls": []
     }
