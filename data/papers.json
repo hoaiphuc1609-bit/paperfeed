@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T05:35:31Z",
+  "updated_at": "2026-05-04T05:40:12Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1286,6 +1286,34 @@
       ]
     },
     {
+      "pmid": "41797156",
+      "title": "ZDBF2/SIRT6-mediated H3K27 deacetylation inhibits ferroptosis and reduces sensitivity of oral squamous cell carcinoma to cisplatin.",
+      "authors": [
+        "Ke Liu",
+        "Liang Rong",
+        "Yi Shuai",
+        "Rui Mu",
+        "Haonan Ding",
+        "Bo Chen",
+        "Lei Jin"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is a common and aggressive malignant tumor. The circular RNA circZDBF2 derived from ZDBF2 is identified as an oncogenic factor in OSCC, but the role of ZDBF2 remains unclear. This study investigates the function of ZDBF2 in OSCC, especially its impact on cisplatin (DDP) sensitivity. The expression of ZDBF2 in head and neck squamous cell carcinoma (HNSC) was analyzed using online databases and validated in OSCC cells via RT-qPCR and Western blot. To assess the effect of ZDBF2 on DDP sensitivity, CCK-8 and PI staining assays were performed. The mechanism of ZDBF2-mediated ferroptosis was explored by measuring intracellular reactive oxygen species (ROS) and malondialdehyde (MDA) levels. Co-immunoprecipitation (Co-IP), luciferase reporter, and chromatin immunoprecipitation (ChIP) assays were conducted to analyze the relationship between ZDBF2 and ferroptosis-related genes, as well as the role of SIRT6 in this regulation. A mouse model was constructed to validate the role of ZDBF2 in tumor growth. ZDBF2 is highly expressed in OSCC cells and significantly inhibits ferroptosis, thereby reducing cell sensitivity to DDP. ZDBF2 regulates the transcription of ferroptosis-related genes through mechanisms independent of direct promoter binding and forms a complex with SIRT6, inhibiting the expression of ferroptosis-related genes via its deacetylation role. Additionally, animal experiments further confirmed the promoting effect of ZDBF2 on tumor growth. This study highlights the role of ZDBF2 in OSCC, promoting tumor progression by inhibiting ferroptosis and reducing drug sensitivity, suggesting ZDBF2 as a potential therapeutic target.",
+      "objective": "",
+      "study_methods": "The expression of ZDBF2 in head and neck squamous cell carcinoma (HNSC) was analyzed using online databases and validated in OSCC cells via RT-qPCR and Western blot. To assess the effect of ZDBF2 on DDP sensitivity, CCK-8 and PI staining assays were performed. The mechanism of ZDBF2-mediated ferroptosis was explored by measuring intracellular reactive oxygen species (ROS) and malondialdehyde (MDA) levels. Co-immunoprecipitation (Co-IP), luciferase reporter, and chromatin immunoprecipitation (ChIP) assays were conducted to analyze the relationship between ZDBF2 and ferroptosis-related genes, as well as the role of SIRT6 in this regulation. A mouse model was constructed to validate the role of ZDBF2 in tumor growth.",
+      "methods": "The expression of ZDBF2 in head and neck squamous cell carcinoma (HNSC) was analyzed using online databases and validated in OSCC cells via RT-qPCR and Western blot. To assess the effect of ZDBF2 on DDP sensitivity, CCK-8 and PI staining assays were performed. The mechanism of ZDBF2-mediated ferroptosis was explored by measuring intracellular reactive oxygen species (ROS) and malondialdehyde (MDA) levels. Co-immunoprecipitation (Co-IP), luciferase reporter, and chromatin immunoprecipitation (ChIP) assays were conducted to analyze the relationship between ZDBF2 and ferroptosis-related genes, as well as the role of SIRT6 in this regulation. A mouse model was constructed to validate the role of ZDBF2 in tumor growth.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41797156/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41773293",
       "title": "Human induced pluripotent stem cell-derived inner ear organoids reveal hair cell damage and plasticity after cisplatin and gentamicin exposure.",
       "authors": [
@@ -1490,32 +1518,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41579689",
-      "title": "A promising strategy to rapidly expand high-quality human limbal stem cells for tissue engineering and cornea reconstruction.",
-      "authors": [
-        "Keng-Liang Ou",
-        "Hsieh-Tsung Shen",
-        "Chi-Hsun Tsai",
-        "Takashi Saito",
-        "Chia-Yu Wu"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "The present study investigated a promising strategy for scaling up the expansion of high-quality human limbal stem cells (LSCs) in vitro. The LSCs isolated from human cornea biopsies were cultured with Mitomycin-C (MMC)-treated Swiss-3T3 feeder layers using three different methods: LSCs with MMC-treated Swiss-3T3 (L with MS), LSCs on MMC-treated Swiss-3T3 (L on MS), and LSCs on reverse MMC-treated Swiss-3T3 (L on RMS). Cell morphology, purity, and differentiation during culture were examined through light microscopy, flow cytometry, immunofluorescence staining, and reverse transcription-polymerase chain reaction (RT-PCR). Results showed that the LSCs continued to grow and exhibited the highest expression of p63 + cells (99.5 ± 0.5 %) in the L on RMS method. After 7 days of culture, the L on RMS method exhibited a significantly higher cell expansion rate than the L with MS method (**p < 0.01). Moreover, RT-PCR demonstrated that the cultured LSCs could naturally differentiate into epithelial cells, indicated by K3 expression. The cells could also efficiently form colonies while maintaining their stem cell markers. Therefore, the L on RMS method is promising for rapidly expanding high-quality LSCs and preserving their growth and stemness for corneal tissue engineering and reconstructive surgery.",
-      "objective": "",
-      "study_methods": "methods: LSCs with MMC-treated Swiss-3T3 (L with MS), LSCs on MMC-treated Swiss-3T3 (L on MS), and LSCs on reverse MMC-treated Swiss-3T3 (L on RMS). Cell morphology, purity, and differentiation during culture were examined through light microscopy, flow cytometry, immunofluorescence staining, and reverse transcription-polymerase chain reaction (RT-PCR). Results showed that the LSCs continued to grow and exhibited the highest expression of p63 + cells (99.5 ± 0.5 %) in the L on RMS method. After 7 days of culture, the L on RMS method exhibited a significantly higher cell expansion rate than the L with MS method (**p < 0.01). Moreover, RT-PCR demonstrated that the cultured LSCs could naturally differentiate into epithelial cells, indicated by K3 expression. The cells could also efficiently form colonies while maintaining their stem cell markers. Therefore, the L on RMS method is promising for rapidly expanding high-quality LSCs and preserving their growth and stemness for corneal tissue engineering and reconstructive surgery.",
-      "methods": "methods: LSCs with MMC-treated Swiss-3T3 (L with MS), LSCs on MMC-treated Swiss-3T3 (L on MS), and LSCs on reverse MMC-treated Swiss-3T3 (L on RMS). Cell morphology, purity, and differentiation during culture were examined through light microscopy, flow cytometry, immunofluorescence staining, and reverse transcription-polymerase chain reaction (RT-PCR). Results showed that the LSCs continued to grow and exhibited the highest expression of p63 + cells (99.5 ± 0.5 %) in the L on RMS method. After 7 days of culture, the L on RMS method exhibited a significantly higher cell expansion rate than the L with MS method (**p < 0.01). Moreover, RT-PCR demonstrated that the cultured LSCs could naturally differentiate into epithelial cells, indicated by K3 expression. The cells could also efficiently form colonies while maintaining their stem cell markers. Therefore, the L on RMS method is promising for rapidly expanding high-quality LSCs and preserving their growth and stemness for corneal tissue engineering and reconstructive surgery.",
-      "results": "showed that the LSCs continued to grow and exhibited the highest expression of p63 + cells (99.5 ± 0.5 %) in the L on RMS method. After 7 days of culture, the L on RMS method exhibited a significantly higher cell expansion rate than the L with MS method (**p < 0.01). Moreover, RT-PCR demonstrated that the cultured LSCs could naturally differentiate into epithelial cells, indicated by K3 expression. The cells could also efficiently form colonies while maintaining their stem cell markers. Therefore, the L on RMS method is promising for rapidly expanding high-quality LSCs and preserving their growth and stemness for corneal tissue engineering and reconstructive surgery.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41579689/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41499198",
       "title": "Risk Factors of Persistent Opioid Use After Forehead Flap Reconstruction.",
       "authors": [
@@ -1567,6 +1569,38 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41352995/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42069961",
+      "title": "Shared decision making using augmented reality a multicentre pilot randomised controlled trial in orthognathic surgery.",
+      "authors": [
+        "S J C Sander Tabernée Heijtmeijer",
+        "N Noa Nicolai",
+        "N G Nard Janssen",
+        "J Joël Kortes",
+        "B Behrus Hinrichs-Puladi",
+        "A Ashkan Rashad",
+        "O Oliver Vladu",
+        "P A J Peter Pijpker",
+        "M J H Max Witjes",
+        "S E C Sarina Pichardo",
+        "J Joep Kraeima"
+      ],
+      "publication_date": "2026-May-02",
+      "publication_date_iso": "2026-05-02",
+      "abstract": "Effective patient education is critical for informed consent. Augmented Reality (AR) offers a novel approach to improving patient understanding and satisfaction, although current evidence is limited and of low quality. This study evaluated the added value of AR compared to traditional monitor-based 3D models for patient education and decision making for orthognathic surgery. A multicentre randomised controlled trial was conducted between August 2023 and June 2024 at three university medical centres in north-west Europe. Sixty referred patients were randomised to either the intervention group or the control group. Patient satisfaction and knowledge were assessed using two questionnaires. The study was registered at ClinicalTrials.gov(NCT06140043). Patient satisfaction was significantly higher in the control group (p = 0.04). No significant differences were found in knowledge acquisition (p = 0.74). Women showed a significant preference for the monitor-based consultation (p = 0.01), while men did not show a significant difference in satisfaction. Despite some centre heterogeneity, no clear added benefit of AR in satisfaction or knowledge was visible. Observed effect sizes (d = 0.76) and post-hoc power estimates (84%) are provided for context but should be interpreted cautiously. In the absence of clear evidence a monitor remain the most practical option for patient education.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42069961/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2182,6 +2216,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "41688036",
+      "title": "Effect of Preoperative Botulinum Toxin A on Pain and Opioid Consumption After Bilateral Sagittal Split Osteotomy.",
+      "authors": [
+        "Kevin E Lung",
+        "Jason Adam",
+        "Clayton Davis",
+        "Matthew Fay",
+        "Daanesh Zakai"
+      ],
+      "publication_date": "2026-May",
+      "publication_date_iso": "2026-05-01",
+      "abstract": "Postoperative pain management due to muscular tension and spasm following mandibular advancement surgery can be clinically challenging. Botulinum toxin type A (BoNT-A) has demonstrated analgesic and muscle-relaxant properties in various medical applications, but its role in acute postoperative pain control in orthognathic procedures remains unclear. The purpose of this study was to evaluate whether preoperative BoNT-A injections into the temporalis and masseter muscles reduce postoperative pain intensity and muscle spasms in patients undergoing bilateral sagittal split osteotomy (BSSO) for mandibular advancements. This study was a prospective, randomized, double-blinded, placebo-controlled clinical trial conducted at Kingsway Oral and Maxillofacial Surgery (Edmonton, Canada). The sample was composed of adult subjects presenting for the evaluation and management of mandibular advancement via BSSO between 2021 and 2024. Subjects were excluded if they had prior orthognathic surgery, chronic pain disorders, neuromuscular disease, pregnancy, prior exposure to BoNT-A, or required concomitant orthognathic procedures. The predictor variable was preoperative intramuscular injection of BoNT-A, and subjects were randomized to receive either BoNT-A or saline placebo. The primary outcome was postoperative pain intensity measured on a numerical rating scale (0 = no pain, 10 = worst imaginable pain) over 14 days. Secondary outcomes included frequency of self-reported muscle spasms, postoperative opioid and nonopioid analgesic consumption, and patient satisfaction. Preanalgesic pain scores were recorded immediately prior to taking any analgesic medication, and postanalgesic pain scores were recorded 1 hour after as needed (PRN) analgesic administration. Covariates included age, sex, and operative duration. Between-group comparisons were performed using independent t tests. Daily pain and medication-use trajectories across 14 postoperative days were evaluated using a linear mixed-effects model with fixed effects for group and time. Statistical significance was set at P < .05. Forty subjects met inclusion criteria (mean age 26.7 years; 55% female). Preanalgesic pain scores were lower in the BoNT-A group (1.72 [SD 0.9]) than in the saline group (2.81 [SD 1.1]; P < .05). Postanalgesic pain did not differ significantly between groups. Opioid consumption over 14 days was significantly lower with BoNT-A (4.9 vs 8.9 doses; P = .046). Mixed-effects modeling demonstrated lower pain and opioid use in the BoNT-A group. No significant differences were observed in nonopioid use or muscle spasm frequency. Preoperative BoNT-A was associated with reduced preanalgesic pain and lower postoperative opioid use following mandibular advancement via BSSO. Although temporal trends favored BoNT-A, differences in daily trajectories of pain, muscle spasms, and nonopioid use were not statistically significant. These findings provide preliminary support for BoNT-A as a potential adjunct in postoperative pain management, warranting further evaluation in larger, adequately powered trials.",
+      "objective": "of this study was to evaluate whether preoperative BoNT-A injections into the temporalis and masseter muscles reduce postoperative pain intensity and muscle spasms in patients undergoing bilateral sagittal split osteotomy (BSSO) for mandibular advancements. This study was a prospective, randomized, double-blinded, placebo-controlled clinical trial conducted at Kingsway Oral and Maxillofacial Surgery (Edmonton, Canada). The sample was composed of adult subjects presenting for the evaluation and management of mandibular advancement via BSSO between 2021 and 2024. Subjects were excluded if they had prior orthognathic surgery, chronic pain disorders, neuromuscular disease, pregnancy, prior exposure to BoNT-A, or required concomitant orthognathic procedures. The predictor variable was preoperative intramuscular injection of BoNT-A, and subjects were randomized to receive either BoNT-A or saline placebo. The primary outcome was postoperative pain intensity measured on a numerical rating scale (0 = no pain, 10 = worst imaginable pain) over 14 days. Secondary outcomes included frequency of self-reported muscle spasms, postoperative opioid and nonopioid analgesic consumption, and patient satisfaction. Preanalgesic pain scores were recorded immediately prior to taking any analgesic medication, and postanalgesic pain scores were recorded 1 hour after as needed (PRN) analgesic administration. Covariates included age, sex, and operative duration. Between-group comparisons were performed using independent t tests. Daily pain and medication-use trajectories across 14 postoperative days were evaluated using a linear mixed-effects model with fixed effects for group and time. Statistical significance was set at P < .05. Forty subjects met inclusion criteria (mean age 26.7 years; 55% female). Preanalgesic pain scores were lower in the BoNT-A group (1.72 [SD 0.9]) than in the saline group (2.81 [SD 1.1]; P < .05). Postanalgesic pain did not differ significantly between groups. Opioid consumption over 14 days was significantly lower with BoNT-A (4.9 vs 8.9 doses; P = .046). Mixed-effects modeling demonstrated lower pain and opioid use in the BoNT-A group. No significant differences were observed in nonopioid use or muscle spasm frequency. Preoperative BoNT-A was associated with reduced preanalgesic pain and lower postoperative opioid use following mandibular advancement via BSSO. Although temporal trends favored BoNT-A, differences in daily trajectories of pain, muscle spasms, and nonopioid use were not statistically significant. These findings provide preliminary support for BoNT-A as a potential adjunct in postoperative pain management, warranting further evaluation in larger, adequately powered trials.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41688036/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41672804",
       "title": "Prognosis of medication-related osteonecrosis of the jaw based on the immunonutritional biomarker.",
       "authors": [
@@ -2374,7 +2434,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41578897/",
-      "pmcid": "",
+      "pmcid": "PMC13135284",
       "figure_urls": []
     },
     {
