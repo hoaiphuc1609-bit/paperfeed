@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T05:37:31Z",
+  "updated_at": "2026-05-08T04:58:07Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -497,6 +497,41 @@
       ]
     },
     {
+      "pmid": "42001840",
+      "title": "Individualized lesion-oriented test-bolus arterial-phase CT improves lesion enhancement and conspicuity in hepatocellular carcinoma.",
+      "authors": [
+        "Christian Schmidt",
+        "Can Yüksel",
+        "Roman Iwa",
+        "Eric Corban",
+        "Emona Staudacher",
+        "Martina Distelmaier",
+        "Youssra Obeidi",
+        "Narine Mesropyan",
+        "Kunpeng Xie",
+        "Jonathan Lemessa",
+        "Florian Haag",
+        "Christiane Kuhl",
+        "Philipp Bruners",
+        "Felix Barajas Ordonez"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Accurate arterial-phase timing in contrast-enhanced CT (CECT) is critical for evaluating hepatocellular carcinoma (HCC). Standard-delay methods may fail to capture peak arterial enhancement due to interindividual hemodynamic variability, potentially reducing lesion conspicuity. This study evaluated whether individualized, dynamically tailored arterial-phase CT (t-CT) based on test-bolus peak in the lesion or, if not feasible, within the portal vein, improves quantitative enhancement and lesion conspicuity compared with standard-delay CT (s-CT). This intraindividual study included 39 patients with 60 HCC lesions who underwent both t-CT and s-CT. Maximum and mean lesion attenuation (HUmax, HUmean), relative lesion-to-liver attenuation (relative HUmax, relative HUmean), and image noise were measured. Four readers rated lesion conspicuity on a five-point Likert scale; inter-reader agreement was assessed using weighted κ, Krippendorff's α, and intraclass correlation coefficient (ICC). All quantitative parameters differed significantly between protocols. HUmax was greater in t-CT than on s-CT (151.0 [130.0-199.8] HU vs 113.5 [97.0-150.0]; p < 0.001), as well as HUmean (124.5 [104.5-144.8] HU vs 90.5 [79.8-112.8]; p < 0.001), relative HUmax (1.9 [1.7-2.3] vs 1.8 [1.5-2.2]; p = 0.009) and relative HUmean (1.6 [1.4-1.9] vs 1.4 [1.3-1.7]; p < 0.001). Image noise was lower on t-CT than on s-CT (8.4 [6.7-9.7] vs 11.1 [9.6-12.9]; p < 0.001). Median lesion conspicuity was higher on t-CT (4.0 vs 3.0; p < 0.001). Individualized lesion-oriented test bolus arterial-phase timing in CECT demonstrated higher lesion attenuation, greater lesion-to-liver contrast, lower image noise, and higher visibility compared with standard arterial-phase timing in HCC.",
+      "objective": "",
+      "study_methods": "This intraindividual study included 39 patients with 60 HCC lesions who underwent both t-CT and s-CT. Maximum and mean lesion attenuation (HUmax, HUmean), relative lesion-to-liver attenuation (relative HUmax, relative HUmean), and image noise were measured. Four readers rated lesion conspicuity on a five-point Likert scale; inter-reader agreement was assessed using weighted κ, Krippendorff's α, and intraclass correlation coefficient (ICC).",
+      "methods": "This intraindividual study included 39 patients with 60 HCC lesions who underwent both t-CT and s-CT. Maximum and mean lesion attenuation (HUmax, HUmean), relative lesion-to-liver attenuation (relative HUmax, relative HUmean), and image noise were measured. Four readers rated lesion conspicuity on a five-point Likert scale; inter-reader agreement was assessed using weighted κ, Krippendorff's α, and intraclass correlation coefficient (ICC).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42001840/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41847346",
       "title": "Immune patterns of the tumor microenvironment in PD-L1",
       "authors": [
@@ -723,6 +758,64 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41691797/",
       "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42093738",
+      "title": "A multifunctional nano-hydrogel attenuates skin photoaging via regulating ECM microenvironment homeostasis.",
+      "authors": [
+        "Xiaoxiang Wang",
+        "Fei Zhou",
+        "Fan Bie",
+        "Yahui Xiong",
+        "Zhanpeng Li",
+        "Xiaogang Liu",
+        "Xiaoying Mo",
+        "Jingling Zhao",
+        "Zhaoqiang Zhang",
+        "Julin Xie",
+        "Lei Chen"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Ultraviolet (UV) radiation exacerbates skin photoaging, disrupting extracellular matrix (ECM) homeostasis and thereby causing premature skin aging and increased susceptibility to damage. Effective therapeutic approaches to manage photoaging and promote skin regeneration are essential. This study developed a multifunctional nanocomposite hydrogel (CAPE@DMMg) by loading active compounds into citrate-functionalized mesoporous silica nanoparticles (CAPE@MSN-CA), incorporating a deep eutectic solvent to enhance skin penetration, and introducing magnesium ions to improve the mechanical stability of the hydrogel. Experimental results demonstrated that CAPE@DMMg scavenged reactive oxygen species, modulated ECM-related gene expression, and reduced skin wrinkles, restores skin thickness, and promotes collagen deposition, exhibiting remarkable anti-photoaging effects. Furthermore, CAPE@DMMg reduced UV-induced senescence-associated markers in multiple organs, indicating reduced systemic oxidative stress and senescence-related changes. Mechanistically, CAPE@MSN-CA restored mitochondrial function by targeting the FN1-ITGA5 axis and suppressing apoptosis. This effect was accompanied by increased type I/III collagen and reduced MMP1 and FN1 expression. In summary, this study presents a multifunctional drug delivery system that regulates ECM microenvironment homeostasis, offering a novel strategy for anti-aging skin therapy.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "demonstrated that CAPE@DMMg scavenged reactive oxygen species, modulated ECM-related gene expression, and reduced skin wrinkles, restores skin thickness, and promotes collagen deposition, exhibiting remarkable anti-photoaging effects. Furthermore, CAPE@DMMg reduced UV-induced senescence-associated markers in multiple organs, indicating reduced systemic oxidative stress and senescence-related changes. Mechanistically, CAPE@MSN-CA restored mitochondrial function by targeting the FN1-ITGA5 axis and suppressing apoptosis. This effect was accompanied by increased type I/III collagen and reduced MMP1 and FN1 expression. In summary, this study presents a multifunctional drug delivery system that regulates ECM microenvironment homeostasis, offering a novel strategy for anti-aging skin therapy.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42093738/",
+      "pmcid": "PMC13139972",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42093736",
+      "title": "Tumor microenvironment responsive nano-immunoregulator for precision cancer photodynamic immunotherapy.",
+      "authors": [
+        "Xiaowei Chang",
+        "Miao Yu",
+        "Pan Wei",
+        "Jie Cheng",
+        "Yaping Wu"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Spatiotemporally controlled reactive oxygen species (ROS) generation remains pivotal for advancing photodynamic immunotherapy. Herein, we present tumor microenvironment (TME)-responsive nano-immunoregulator featuring a CaCO3 shell encapsulating a mesoporous silica core modified with folic acid/chlorin e6 (FA/Ce6) and co-loaded with dBET6 and maleimide (MA). Acidic TME triggers CaCO3 shell degradation, neutralizing tumor acidity to repolarize macrophages toward M1 type, enhancing antigen presentation and T cells immune response while exposing the BM@MFC core. The resulting BM@MFC further endocytosed by tumor cells via FA-mediated tumor targeting, followed by MA-mediated glutathione depletion amplifies Ce6-generated ROS for potent photodynamic therapy (PDT). Concurrently, dBET6 degrades BRD4 to inhibit metastasis, downregulate PD-L1, and synergize with PDT to induce immunogenic cell apoptosis, thereby activating dendritic cells (DCs) and T cells for enhanced photodynamic immunotherapy. Both in vitro/vivo results indicate that BM@MFCC have excellent performance to inhibit primary/metastatic tumors, while single-cell RNA sequencing elucidates BM@MFCC can induce immunosuppressive TME remodeling, including increased CD8+ T cells, cDCs, and NK cells; M2-to-M1 macrophage polarization; and enhanced intercellular communication. Tumor cell profiling confirms BM@MFCC will downregulate oncogenic pathways and activate immune signatures. Collectively, this TME responsive nano-immunoregulator demonstrates superior therapeutic outcomes and provides a promising strategy for precision cancer photodynamic immunotherapy.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing BM@MFC further endocytosed by tumor cells via FA-mediated tumor targeting, followed by MA-mediated glutathione depletion amplifies Ce6-generated ROS for potent photodynamic therapy (PDT). Concurrently, dBET6 degrades BRD4 to inhibit metastasis, downregulate PD-L1, and synergize with PDT to induce immunogenic cell apoptosis, thereby activating dendritic cells (DCs) and T cells for enhanced photodynamic immunotherapy. Both in vitro/vivo results indicate that BM@MFCC have excellent performance to inhibit primary/metastatic tumors, while single-cell RNA sequencing elucidates BM@MFCC can induce immunosuppressive TME remodeling, including increased CD8+ T cells, cDCs, and NK cells; M2-to-M1 macrophage polarization; and enhanced intercellular communication. Tumor cell profiling confirms BM@MFCC will downregulate oncogenic pathways and activate immune signatures. Collectively, this TME responsive nano-immunoregulator demonstrates superior therapeutic outcomes and provides a promising strategy for precision cancer photodynamic immunotherapy.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42093736/",
+      "pmcid": "PMC13142119",
       "figure_urls": []
     },
     {
@@ -1441,38 +1534,6 @@
       ]
     },
     {
-      "pmid": "41855705",
-      "title": "Corrigendum to 'Multi-Task Deep Learning for Sex and Age Estimation from Panoramic Radiographs in a Brazilian Young Population': [International Dental Journal Volume 76, Issue 2, April 2026, 109381].",
-      "authors": [
-        "Matheus L Oliveira",
-        "Su Yang",
-        "Matheus Sampaio-Oliveira",
-        "Deborah Queiroz Freitas",
-        "Francisco Haiter-Neto",
-        "Sang Heon Lim",
-        "Ji Yong Han",
-        "Sujeong Kim",
-        "Jun-Min Kim",
-        "Won-Jin Yi",
-        "Min-Suk Heo"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41855705/",
-      "pmcid": "PMC13014920",
-      "figure_urls": []
-    },
-    {
       "pmid": "41853327",
       "title": "Accuracy and empathy of AI-based conversational chatbots in response to temporomandibular dysfunction related queries.",
       "authors": [
@@ -1504,70 +1565,6 @@
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12992975/bin/gr1.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12992975/bin/gr1.gif"
-      ]
-    },
-    {
-      "pmid": "41850177",
-      "title": "The Actinobacteria-to-Proteobacteria (A/P) Ratio: A Novel Oral Microbial Marker for Metabolic Syndrome.",
-      "authors": [
-        "Jie Zhang",
-        "Junwen Huang",
-        "Yan Li",
-        "Xiaoshan Wu",
-        "Feng Guo"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Oral microbial biomarkers for metabolic syndrome (MetS), in contrast to its well-characterized relationship with the gut microbiome, have not been well defined. This study aims to systematically identify composite oral microbial indices by analyzing a large-scale cohort. We analyzed oral rinse samples from 3911 U.S. individuals (aged ≥ 14 years), integrating 16S rRNA sequencing with metabolic phenotyping. We used principal coordinates analysis and permutational multivariate analysis of variance to assess β-diversity separation, linear discriminant analysis effect size analysis to identify microbial signatures, multivariable-adjusted logistic regression with restricted cubic splines (RCS) to evaluate MetS associations, Cox proportional hazards models to analyze all-cause mortality in the MetS population, and stratified analyses to test for effect modification by age, BMI and medication use. MetS participants exhibited higher BMI and were older than non-MetS controls (P < .001). Oral microbiome β-diversity diverged significantly in MetS despite stable α-diversity, marked by enrichment of Actinobacteria and depletion of Proteobacteria (P < .001). In adjusted models, the highest tertile of Actinobacteria was associated with 42% higher odds of MetS (aOR = 1.42, 95% CI: 1.06-1.91), whereas the highest tertile of Proteobacteria was associated with 42% lower odds (aOR = 0.58, 95% CI: 0.43-0.79). Capturing this dysbiotic shift, the composite Actinobacteria-to-Proteobacteria (A/P) ratio demonstrated a superior predictive value than either phylum alone (aOR = 1.58, 95% CI: 1.08-2.30). RCS analysis demonstrated a linear association of the A/P ratio with MetS and all-cause mortality among individuals with MetS. Kaplan-Meier analysis confirmed significantly reduced survival in the high-A/P ratio group (P < .001). This study provides the first population-level evidence that an elevated the A/P ratio is independently associated with MetS, suggesting its potential as a novel oral microbiomarker. These findings provide a non-invasive tool to assess metabolic status and lay a foundation for future research into targeted oral microbial interventions for MetS.",
-      "objective": "to systematically identify composite oral microbial indices by analyzing a large-scale cohort. We analyzed oral rinse samples from 3911 U.S. individuals (aged ≥ 14 years), integrating 16S rRNA sequencing with metabolic phenotyping. We used principal coordinates analysis and permutational multivariate analysis of variance to assess β-diversity separation, linear discriminant analysis effect size analysis to identify microbial signatures, multivariable-adjusted logistic regression with restricted cubic splines (RCS) to evaluate MetS associations, Cox proportional hazards models to analyze all-cause mortality in the MetS population, and stratified analyses to test for effect modification by age, BMI and medication use. MetS participants exhibited higher BMI and were older than non-MetS controls (P < .001). Oral microbiome β-diversity diverged significantly in MetS despite stable α-diversity, marked by enrichment of Actinobacteria and depletion of Proteobacteria (P < .001). In adjusted models, the highest tertile of Actinobacteria was associated with 42% higher odds of MetS (aOR = 1.42, 95% CI: 1.06-1.91), whereas the highest tertile of Proteobacteria was associated with 42% lower odds (aOR = 0.58, 95% CI: 0.43-0.79). Capturing this dysbiotic shift, the composite Actinobacteria-to-Proteobacteria (A/P) ratio demonstrated a superior predictive value than either phylum alone (aOR = 1.58, 95% CI: 1.08-2.30). RCS analysis demonstrated a linear association of the A/P ratio with MetS and all-cause mortality among individuals with MetS. Kaplan-Meier analysis confirmed significantly reduced survival in the high-A/P ratio group (P < .001). This study provides the first population-level evidence that an elevated the A/P ratio is independently associated with MetS, suggesting its potential as a novel oral microbiomarker. These findings provide a non-invasive tool to assess metabolic status and lay a foundation for future research into targeted oral microbial interventions for MetS.",
-      "study_methods": "We analyzed oral rinse samples from 3911 U.S. individuals (aged ≥ 14 years), integrating 16S rRNA sequencing with metabolic phenotyping. We used principal coordinates analysis and permutational multivariate analysis of variance to assess β-diversity separation, linear discriminant analysis effect size analysis to identify microbial signatures, multivariable-adjusted logistic regression with restricted cubic splines (RCS) to evaluate MetS associations, Cox proportional hazards models to analyze all-cause mortality in the MetS population, and stratified analyses to test for effect modification by age, BMI and medication use.",
-      "methods": "We analyzed oral rinse samples from 3911 U.S. individuals (aged ≥ 14 years), integrating 16S rRNA sequencing with metabolic phenotyping. We used principal coordinates analysis and permutational multivariate analysis of variance to assess β-diversity separation, linear discriminant analysis effect size analysis to identify microbial signatures, multivariable-adjusted logistic regression with restricted cubic splines (RCS) to evaluate MetS associations, Cox proportional hazards models to analyze all-cause mortality in the MetS population, and stratified analyses to test for effect modification by age, BMI and medication use.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41850177/",
-      "pmcid": "PMC13011237",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13011237/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13011237/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13011237/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13011237/bin/gr2.gif"
-      ]
-    },
-    {
-      "pmid": "41850175",
-      "title": "Chemokine-Like Receptor 1 Knockdown Suppresses Oral Squamous Cell Carcinoma Progression by Reducing Oxidative Phosphorylation.",
-      "authors": [
-        "Yanzhu Lin",
-        "Luodan Zhao",
-        "Ying Huang",
-        "Yuee Chen",
-        "Quan Wan",
-        "Zhiyuan Lu",
-        "Xiangsong Zhang"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Oral squamous cell carcinoma (OSCC) is a common oral cavity malignancy with a poor prognosis. Although chemokine-like receptor 1 (CMKLR1) has been implicated in tumor progression in several types of cancer, its role and underlying mechanisms in OSCC remain unclear. In this study, we examined the role and mitochondrial metabolism pattern of CMKLR1 in OSCC progression. CMKLR1 expression was evaluated using data obtained from The Cancer Genome Atlas database and from immunohistochemical, RT-qPCR, and Western blotting analyses involving OSCC tissues and cell lines. Functional assays focusing on proliferation, migration, invasion, and colony formation were conducted after CMKLR1 knockdown or overexpression in OSCC cells. Proteomic analyses were conducted to identify CMKLR1-associated signaling pathways. Seahorse assays were used to assess mitochondrial oxidative phosphorylation (OXPHOS). In addition, the effect of mitochondrial inhibition with IACS-010759 was evaluated in CMKLR1-overexpressing models. Finally, signaling dependency was tested through PI3K/AKT inhibition and PGC-1α depletion. CMKLR1 expression was significantly elevated in OSCC, correlating with advanced OSCC, lymph node metastasis, and poor prognosis. CMKLR1 knockdown inhibited cell proliferation, migration, invasion, and epithelial-to-mesenchymal transition in vitro and suppressed tumor growth in vivo, whereas CMKLR1 overexpression had the opposite effect. Proteomic profiling and metabolic assays revealed that CMKLR1 knockdown suppressed mitochondrial function, decreased OXPHOS activity, and reduced ATP production. Additionally, pharmacological inhibition of OXPHOS with IACS-010759 significantly abrogated the tumor-promoting effects driven by CMKLR1 overexpression, thereby supporting a CMKLR1-OXPHOS regulatory axis in OSCC. Mechanistically, CMKLR1 activated PI3K/AKT signaling and induced PGC-1α production. Pharmacological blockade of PI3K/AKT abrogated CMKLR1-dependent PGC-1α upregulation, and PGC-1α depletion attenuated CMKLR1-driven mitochondrial respiration. CMKLR1 is a novel driver of OXPHOS in OSCC that functions through the PI3K/AKT/PGC-1α axis. Targeting mitochondrial metabolism may represent a promising therapeutic strategy for patients with overexpression of CMKLR1 and OSCC.",
-      "objective": "",
-      "study_methods": "CMKLR1 expression was evaluated using data obtained from The Cancer Genome Atlas database and from immunohistochemical, RT-qPCR, and Western blotting analyses involving OSCC tissues and cell lines. Functional assays focusing on proliferation, migration, invasion, and colony formation were conducted after CMKLR1 knockdown or overexpression in OSCC cells. Proteomic analyses were conducted to identify CMKLR1-associated signaling pathways. Seahorse assays were used to assess mitochondrial oxidative phosphorylation (OXPHOS). In addition, the effect of mitochondrial inhibition with IACS-010759 was evaluated in CMKLR1-overexpressing models. Finally, signaling dependency was tested through PI3K/AKT inhibition and PGC-1α depletion.",
-      "methods": "CMKLR1 expression was evaluated using data obtained from The Cancer Genome Atlas database and from immunohistochemical, RT-qPCR, and Western blotting analyses involving OSCC tissues and cell lines. Functional assays focusing on proliferation, migration, invasion, and colony formation were conducted after CMKLR1 knockdown or overexpression in OSCC cells. Proteomic analyses were conducted to identify CMKLR1-associated signaling pathways. Seahorse assays were used to assess mitochondrial oxidative phosphorylation (OXPHOS). In addition, the effect of mitochondrial inhibition with IACS-010759 was evaluated in CMKLR1-overexpressing models. Finally, signaling dependency was tested through PI3K/AKT inhibition and PGC-1α depletion.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41850175/",
-      "pmcid": "PMC13011209",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13011209/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13011209/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13011209/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13011209/bin/gr2.gif"
       ]
     },
     {
@@ -1773,6 +1770,115 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41352995/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42098571",
+      "title": "Quantitative computed tomography texture analysis of changes in the mandibular condyle associated with orthognathic surgery.",
+      "authors": [
+        "Naoya Nakamura",
+        "Hirotaka Muraoka",
+        "Satoshi Tokunaga",
+        "Kohei Otsuka",
+        "Tomohiro Komatsu",
+        "Kotaro Ito"
+      ],
+      "publication_date": "2026-May-07",
+      "publication_date_iso": "2026-05-07",
+      "abstract": "Texture analysis is a quantitative imaging technique facilitating the detection of subtle structural changes by the extraction of statistically derived features from medical images. Herein, we aimed to assess the features of the mandibular condyle pre- and post-orthognathic surgery using computed tomography (CT) texture analysis. This retrospective study included 46 patients with jaw deformities who had undergone CT and orthognathic surgery between May 2017 and August 2024. The patients were divided into the mandibular-only (n = 23) and bimaxillary orthognathic surgery groups (n = 23). CT images obtained within 6 months preoperatively and at one year postoperatively were analyzed for each group. A total of 279 texture features were extracted from pre- and postoperative images of the trabecular bone of the mandibular condyle using MaZda software (version 4.6.2.0). Based on the Fisher coefficients, ten texture features were selected from each group. Statistical comparisons of the selected features were performed between the pre- and postoperative images for each group using paired t-tests and Wilcoxon signed-rank tests. The predictor variable was defined as the surgical phase (pre- or postoperative), whereas the outcome variables were the extracted texture features. In the mandibular-only and bimaxillary orthognathic surgery groups, 9 texture features of the mandibular condyles differed significantly pre- and postoperatively (P < 0.05). This study revealed significant changes in the CT texture features of the mandibular condyle postoperatively. Thus, CT texture analysis may be useful for the quantitative assessment of changes in the mandibular condyle associated with orthognathic surgery.",
+      "objective": "",
+      "study_methods": "This retrospective study included 46 patients with jaw deformities who had undergone CT and orthognathic surgery between May 2017 and August 2024. The patients were divided into the mandibular-only (n = 23) and bimaxillary orthognathic surgery groups (n = 23). CT images obtained within 6 months preoperatively and at one year postoperatively were analyzed for each group. A total of 279 texture features were extracted from pre- and postoperative images of the trabecular bone of the mandibular condyle using MaZda software (version 4.6.2.0). Based on the Fisher coefficients, ten texture features were selected from each group. Statistical comparisons of the selected features were performed between the pre- and postoperative images for each group using paired t-tests and Wilcoxon signed-rank tests. The predictor variable was defined as the surgical phase (pre- or postoperative), whereas the outcome variables were the extracted texture features.",
+      "methods": "This retrospective study included 46 patients with jaw deformities who had undergone CT and orthognathic surgery between May 2017 and August 2024. The patients were divided into the mandibular-only (n = 23) and bimaxillary orthognathic surgery groups (n = 23). CT images obtained within 6 months preoperatively and at one year postoperatively were analyzed for each group. A total of 279 texture features were extracted from pre- and postoperative images of the trabecular bone of the mandibular condyle using MaZda software (version 4.6.2.0). Based on the Fisher coefficients, ten texture features were selected from each group. Statistical comparisons of the selected features were performed between the pre- and postoperative images for each group using paired t-tests and Wilcoxon signed-rank tests. The predictor variable was defined as the surgical phase (pre- or postoperative), whereas the outcome variables were the extracted texture features.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42098571/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42092896",
+      "title": "The effectiveness of virtual reality in reducing preoperative anxiety among oral surgery patients under general anesthesia: a salivary stress biomarker and questionnaire-based study.",
+      "authors": [
+        "Abel Tasman Yuza",
+        "Agus Nurwiadh",
+        "Indra Hadikhrisna",
+        "Arlette Suzy Setiawan"
+      ],
+      "publication_date": "2026-May-06",
+      "publication_date_iso": "2026-05-06",
+      "abstract": "Preoperative anxiety is a common psychological response to surgical operations affecting the emotional, cognitive and physiological state of the patient. It can be measured by both objective and subjective methods. While the objective methods such as salivary alpha amylase and cortisol levels can give information about the physiological state of the patient, the subjective assessment of anxiety can be measured by questionnaires such as Amsterdam Preoperative Anxiety and Information Scale (APAIS). However, the methods used to treat preoperative anxiety are evolving. This study aimed to investigate the effect of Virtual Reality (VR) on preoperative anxiety in patients undergoing the extraction of all four third molars. A comparative study involving 30 patients who need extraction of all four third molars, randomly assigned to a control or VR group (15 participants per group), was conducted. The VR group received a 15 min immersive VR relaxation session prior to anesthesia induction, while the control group underwent standard preoperative waiting for the same duration. Salivary alpha-amylase and cortisol levels were measured pre- and postintervention measured using enzyme-linked immunosorbent assay (ELISA), and anxiety was assessed via the APAIS. Statistical analysis included paired and independent t-tests. Post-intervention APAIS scores were significantly lower in the VR group than in the control group (p < 0.001). At the end of the experiment, the VR group had lower levels of salivary amylase compared to the control group. However, there was no significant difference between the groups with respect to changes in salivary amylase from pre-intervention (baseline) to post-intervention (after 3 weeks). There was also a decrease in salivary cortisol levels from pre-intervention to post-intervention in both groups. However, there was no significant difference in salivary cortisol levels between the two groups. In summary, VR is a promising, safe, and non-drug method for reducing pre-operative anxiety, demonstrated by significant reductions in salivary amylase levels and APAIS scores. VR has also helped improve patients' comfort and psychological readiness for undergoing oral surgery, although no significant difference between salivary cortisol levels was found.",
+      "objective": "and subjective",
+      "study_methods": "A comparative study involving 30 patients who need extraction of all four third molars, randomly assigned to a control or VR group (15 participants per group), was conducted. The VR group received a 15 min immersive VR relaxation session prior to anesthesia induction, while the control group underwent standard preoperative waiting for the same duration. Salivary alpha-amylase and cortisol levels were measured pre- and postintervention measured using enzyme-linked immunosorbent assay (ELISA), and anxiety was assessed via the APAIS. Statistical analysis included paired and independent t-tests.",
+      "methods": "A comparative study involving 30 patients who need extraction of all four third molars, randomly assigned to a control or VR group (15 participants per group), was conducted. The VR group received a 15 min immersive VR relaxation session prior to anesthesia induction, while the control group underwent standard preoperative waiting for the same duration. Salivary alpha-amylase and cortisol levels were measured pre- and postintervention measured using enzyme-linked immunosorbent assay (ELISA), and anxiety was assessed via the APAIS. Statistical analysis included paired and independent t-tests.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42092896/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42092880",
+      "title": "Efficacy of Kovacs digital splint for treating temporomandibular disorders: a multicenter randomized controlled trial.",
+      "authors": [
+        "Jiangshan Hua",
+        "Jieyun Zhao",
+        "Chuan Lu",
+        "Xin Nie",
+        "Jian Li",
+        "Zhiyong Li",
+        "Dongmei He"
+      ],
+      "publication_date": "2026-May-06",
+      "publication_date_iso": "2026-05-06",
+      "abstract": "The Kovacs digital splint is a new approach for treating temporomandibular disorders (TMD), but comparative studies on its clinical efficacy versus traditional occlusal splints are still lacking. Patients from three centers were randomly assigned to the experimental group (Kovacs digital splint, KDS) or the control group (soft splint, SS). Pain, mouth opening, and clicking before treatment (T0), after 14 ± 5 days (T1), and 35 ± 5 days (T2) treatment were evaluated. The effective rate of symptoms improvement between the two groups and subgroups including gender, age, disease stage, and symptom types were compared. A total of 264 patients were included. Both groups showed significant improvement in pain, mouth opening, and clicking after treatment (P < 0.05). The KDS group had a higher overall effective rate than the SS group (61.1% vs. 47.5%, P < 0.025). In patients aged over 40 years and with normal condylar relationships who had myogenous pain, the effective rates of KDS were significantly higher than SS (P < 0.05). The clinical efficacy of KDS for treating TMD was superior to SS, especially for myogenous TMD. ID: ChiCTR2200064940, Date of Registration: 10/24/2022.",
+      "objective": "",
+      "study_methods": "Patients from three centers were randomly assigned to the experimental group (Kovacs digital splint, KDS) or the control group (soft splint, SS). Pain, mouth opening, and clicking before treatment (T0), after 14 ± 5 days (T1), and 35 ± 5 days (T2) treatment were evaluated. The effective rate of symptoms improvement between the two groups and subgroups including gender, age, disease stage, and symptom types were compared.",
+      "methods": "Patients from three centers were randomly assigned to the experimental group (Kovacs digital splint, KDS) or the control group (soft splint, SS). Pain, mouth opening, and clicking before treatment (T0), after 14 ± 5 days (T1), and 35 ± 5 days (T2) treatment were evaluated. The effective rate of symptoms improvement between the two groups and subgroups including gender, age, disease stage, and symptom types were compared.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42092880/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42092872",
+      "title": "Comparison of physical, mechanical and biological properties of a porcine urinary bladder acellular matrix collagen membrane with six other collagen membranes of animal origin.",
+      "authors": [
+        "Fabio Camacho-Alonso",
+        "José Lacal-Luján",
+        "Ana María Mercado-Díaz",
+        "Marcos Rodríguez-Sánchez",
+        "Joaquín Sánchez",
+        "Alba Pérez Jardón",
+        "Jesús Pato Mourelo",
+        "Mario Pérez-Sayáns"
+      ],
+      "publication_date": "2026-May-06",
+      "publication_date_iso": "2026-05-06",
+      "abstract": "The porcine acellular urinary bladder matrix (AUBM) is a three-dimensional scaffold rich in collagens type I, III, IV, and VI that could be used for guided bone regeneration (GBR). The objective of this study was to compare the physical, mechanical and biological properties of a AUBM with six other collagen membranes of porcine, equine and bovine origin. Seventy membranes were included (n = 10 per group). The properties of AUBM membrane were compared with the other animal collagen membranes available: porcine pericardium (PP), equine pericardium (EP), bovine pericaridium (BP), porcine peritoneum (PPE), equine Achilles tendon (EAT), bovine Achilles tendon (BAT). We analysed physical properties (surface morphology, hydrophilic property, degradation ratio and thermal stability), mechanical properties (tensile strength and dry and wet elongation), and biological properties (cell viability, quantification of type I collagen and osteopontin, Alkaline Phosphatase (ALP) activity and calcium deposition). AUBM membranes showed a surface morphology (in smooth and rough surfaces) very similar to those of PP, EP, EAT, and BAT. The most hydrophilic membrane was PPE. The AUBM membranes showed a low degradation ratio and thermal stability similar to the other membranes. AUBM membranes had a tensile strength (dry and wet) and elongation (dry) similar to the other membranes. Their elongation was much higher than the rest when wet. AUBM membrane showed good biological properties. AUBM membrane showed physical and mechanical properties similar to the other six membranes. However, upon wetting they were the membranes with the highest elongation capacity and showed similar properties to PPE membranes in promoting osteogenesis. AUBM could be an ideal collagen source for the manufacture of membranes for GBR, but further clinical studies are needed.",
+      "objective": "of this study was to compare the physical, mechanical and biological properties of a AUBM with six other collagen membranes of porcine, equine and bovine origin. Seventy membranes were included (n = 10 per group). The properties of AUBM membrane were compared with the other animal collagen membranes available: porcine pericardium (PP), equine pericardium (EP), bovine pericaridium (BP), porcine peritoneum (PPE), equine Achilles tendon (EAT), bovine Achilles tendon (BAT). We analysed physical properties (surface morphology, hydrophilic property, degradation ratio and thermal stability), mechanical properties (tensile strength and dry and wet elongation), and biological properties (cell viability, quantification of type I collagen and osteopontin, Alkaline Phosphatase (ALP) activity and calcium deposition). AUBM membranes showed a surface morphology (in smooth and rough surfaces) very similar to those of PP, EP, EAT, and BAT. The most hydrophilic membrane was PPE. The AUBM membranes showed a low degradation ratio and thermal stability similar to the other membranes. AUBM membranes had a tensile strength (dry and wet) and elongation (dry) similar to the other membranes. Their elongation was much higher than the rest when wet. AUBM membrane showed good biological properties. AUBM membrane showed physical and mechanical properties similar to the other six membranes. However, upon wetting they were the membranes with the highest elongation capacity and showed similar properties to PPE membranes in promoting osteogenesis. AUBM could be an ideal collagen source for the manufacture of membranes for GBR, but further clinical studies are needed.",
+      "study_methods": "Seventy membranes were included (n = 10 per group). The properties of AUBM membrane were compared with the other animal collagen membranes available: porcine pericardium (PP), equine pericardium (EP), bovine pericaridium (BP), porcine peritoneum (PPE), equine Achilles tendon (EAT), bovine Achilles tendon (BAT). We analysed physical properties (surface morphology, hydrophilic property, degradation ratio and thermal stability), mechanical properties (tensile strength and dry and wet elongation), and biological properties (cell viability, quantification of type I collagen and osteopontin, Alkaline Phosphatase (ALP) activity and calcium deposition).",
+      "methods": "Seventy membranes were included (n = 10 per group). The properties of AUBM membrane were compared with the other animal collagen membranes available: porcine pericardium (PP), equine pericardium (EP), bovine pericaridium (BP), porcine peritoneum (PPE), equine Achilles tendon (EAT), bovine Achilles tendon (BAT). We analysed physical properties (surface morphology, hydrophilic property, degradation ratio and thermal stability), mechanical properties (tensile strength and dry and wet elongation), and biological properties (cell viability, quantification of type I collagen and osteopontin, Alkaline Phosphatase (ALP) activity and calcium deposition).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42092872/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1983,6 +2089,30 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42084259/",
       "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42094944",
+      "title": "The Use of Artificial Intelligence in Cleft Care: A Scoping Review.",
+      "authors": [
+        "Brooke Streeter",
+        "Michael Bezuhly"
+      ],
+      "publication_date": "2026-May-04",
+      "publication_date_iso": "2026-05-04",
+      "abstract": "Introduction: Artificial intelligence (AI) is increasingly being used to support the diagnosis and treatment of medical and surgical conditions. This scoping review examined AI applications in cleft lip and palate care, focusing on diagnosis/detection, surgical planning, and patient education. Methods: PubMed, Embase, and Scopus databases were searched. Results were uploaded to the Covidence systematic review software. Studies were included in the analysis if they described the use of AI in the context of cleft lip and palate diagnosis and detection, surgical planning, or patient education. Results: A total of 17 papers were identified. The use of AI in the context of cleft lip and palate surgery was recorded and collated. AI was found to enhance diagnostic accuracy and speed through deep learning-based image classification and cephalometric landmark detection, particularly using convolutional neural networks. In surgical planning, AI models enabled automated presurgical plate design, severity grading, and postoperative outcome evaluation following orthognathic surgery. For patient education, large language models like ChatGPT show promise in improving the readability and clarity of materials, although challenges remain in maintaining medical accuracy and ensuring actionability. Conclusion: While AI applications in cleft lip and palate care are promising across diagnostic, surgical, and educational domains, translation into routine clinical practice is hindered by limited validation, small homogeneous datasets, and inconsistent methodologies. Future research should focus on clinical integration, standardized evaluation, equity, and interdisciplinary collaboration to optimize the potential of AI in cleft lip and palate care.",
+      "objective": "",
+      "study_methods": "Methods: PubMed, Embase, and Scopus databases were searched. Results were uploaded to the Covidence systematic review software. Studies were included in the analysis if they described the use of AI in the context of cleft lip and palate diagnosis and detection, surgical planning, or patient education.",
+      "methods": "Methods: PubMed, Embase, and Scopus databases were searched. Results were uploaded to the Covidence systematic review software. Studies were included in the analysis if they described the use of AI in the context of cleft lip and palate diagnosis and detection, surgical planning, or patient education.",
+      "results": "were uploaded to the Covidence systematic review software. Studies were included in the analysis if they described the use of AI in the context of cleft lip and palate diagnosis and detection, surgical planning, or patient education. Results: A total of 17 papers were identified. The use of AI in the context of cleft lip and palate surgery was recorded and collated. AI was found to enhance diagnostic accuracy and speed through deep learning-based image classification and cephalometric landmark detection, particularly using convolutional neural networks. In surgical planning, AI models enabled automated presurgical plate design, severity grading, and postoperative outcome evaluation following orthognathic surgery. For patient education, large language models like ChatGPT show promise in improving the readability and clarity of materials, although challenges remain in maintaining medical accuracy and ensuring actionability.",
+      "conclusion": "While AI applications in cleft lip and palate care are promising across diagnostic, surgical, and educational domains, translation into routine clinical practice is hindered by limited validation, small homogeneous datasets, and inconsistent methodologies. Future research should focus on clinical integration, standardized evaluation, equity, and interdisciplinary collaboration to optimize the potential of AI in cleft lip and palate care.",
+      "limitations": "",
+      "topics": [
+        "cleft lip and palate surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42094944/",
+      "pmcid": "PMC13139309",
       "figure_urls": []
     },
     {
@@ -2843,65 +2973,9 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41622094/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41622088",
-      "title": "Corrigendum to 'Cocamidopropyl betaine: another possible oral healthcare chemical associated with plasma cell lesions of the oral cavity'[Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology Volume 140, Issue 2, (2025), Pages 218-226].",
-      "authors": [
-        "Jay Saepoo",
-        "Nidhi Handoo",
-        "Sherry Timmons",
-        "Emily Lanzel",
-        "Kittiphoj Tikkhanarak",
-        "John William Hellstein"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41622088/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41622086",
-      "title": "Corrigendum to 'What's in your toothpaste? A review of toothpaste ingredients and rationale for their use or avoidance' [Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology Volume 140, Issue 6, (2025), Pages 807-812].",
-      "authors": [
-        "Gavin Soppe",
-        "Jay Saepoo",
-        "Emily Lanzel",
-        "Sherry Timmons",
-        "Nidhi Handoo",
-        "John Hellstein",
-        "Amy Greenwood"
-      ],
-      "publication_date": "2026-May",
-      "publication_date_iso": "2026-05-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41622086/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3103,56 +3177,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41118023/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42059530",
-      "title": "Predictive Factors for Maxillofacial Trauma in Women Victims of Aggression: A 10-Year Analysis at a Level I Trauma Center.",
-      "authors": [
-        "Stella Cristina Soares Araujo",
-        "Clarina Louis Silva Meira",
-        "Laura Braga Figueiredo",
-        "Guilherme Veloso Ramos",
-        "Marcio Bruno Figueiredo Amaral",
-        "Roger Lanes Silveira"
-      ],
-      "publication_date": "2026-Apr-30",
-      "publication_date_iso": "2026-04-30",
-      "abstract": "Violence against women remains a global public health dilemma, with maxillofacial trauma serving as a frequent and critical consequence. This study aimed to determine the epidemiological profile, injury patterns, and key predictive factors associated with maxillofacial trauma resulting from aggression in women. This retrospective analysis included 4657 facial trauma records of women from a Level I Trauma Center, Belo Horizonte, MG, Brazil (2011-2020). The sample included 825 cases identified as victims of aggression. Predictor variables were aggressor identity, day of the week, and mechanism of aggression. The main outcomes were the type of fracture, multiple fractures, or blunt and sharp injuries. Covariates were age, race/ethnicity, marital status, length of hospital stay, concomitant injuries, and mandatory notification status. Descriptive statistics, Chi-square tests for correlation, and multivariate logistic regression determined the relationship between variables and predictive odds. The sample profile was predominantly composed of young adults (mean age 32.9 ± 12.3 years) and individuals of mixed-race ethnicity (65.6%). Intimate partners were the dominant aggressors (52.6%). The logistic regression analysis revealed two major predictive findings: (1) aggression by the victim's child was a potent predictor for both middle-aged (OR = 24; p = 0.005) and elderly (OR = 56; p = 0.002) victims; and (2) intimate partner aggression showed a significant increase on Tuesdays (OR = 6; p = 0.024), beyond the expected weekend peak. Furthermore, the mechanism of aggression was significantly correlated with the type of fracture. This study identified quantifiable maxillofacial trauma risk profiles in women: Child-to-parent aggression is highly predictive among older victims, and intimate partner aggression exhibits a significant pattern on Tuesdays. These findings underscore the crucial role of Oral and Maxillofacial Surgeons in recognizing injury and temporal patterns to improve diagnostic accuracy, documentation, and public health surveillance.",
-      "objective": "",
-      "study_methods": "This retrospective analysis included 4657 facial trauma records of women from a Level I Trauma Center, Belo Horizonte, MG, Brazil (2011-2020). The sample included 825 cases identified as victims of aggression. Predictor variables were aggressor identity, day of the week, and mechanism of aggression. The main outcomes were the type of fracture, multiple fractures, or blunt and sharp injuries. Covariates were age, race/ethnicity, marital status, length of hospital stay, concomitant injuries, and mandatory notification status. Descriptive statistics, Chi-square tests for correlation, and multivariate logistic regression determined the relationship between variables and predictive odds.",
-      "methods": "This retrospective analysis included 4657 facial trauma records of women from a Level I Trauma Center, Belo Horizonte, MG, Brazil (2011-2020). The sample included 825 cases identified as victims of aggression. Predictor variables were aggressor identity, day of the week, and mechanism of aggression. The main outcomes were the type of fracture, multiple fractures, or blunt and sharp injuries. Covariates were age, race/ethnicity, marital status, length of hospital stay, concomitant injuries, and mandatory notification status. Descriptive statistics, Chi-square tests for correlation, and multivariate logistic regression determined the relationship between variables and predictive odds.",
-      "results": "ing from aggression in women. This retrospective analysis included 4657 facial trauma records of women from a Level I Trauma Center, Belo Horizonte, MG, Brazil (2011-2020). The sample included 825 cases identified as victims of aggression. Predictor variables were aggressor identity, day of the week, and mechanism of aggression. The main outcomes were the type of fracture, multiple fractures, or blunt and sharp injuries. Covariates were age, race/ethnicity, marital status, length of hospital stay, concomitant injuries, and mandatory notification status. Descriptive statistics, Chi-square tests for correlation, and multivariate logistic regression determined the relationship between variables and predictive odds. The sample profile was predominantly composed of young adults (mean age 32.9 ± 12.3 years) and individuals of mixed-race ethnicity (65.6%). Intimate partners were the dominant aggressors (52.6%). The logistic regression analysis revealed two major predictive findings: (1) aggression by the victim's child was a potent predictor for both middle-aged (OR = 24; p = 0.005) and elderly (OR = 56; p = 0.002) victims; and (2) intimate partner aggression showed a significant increase on Tuesdays (OR = 6; p = 0.024), beyond the expected weekend peak. Furthermore, the mechanism of aggression was significantly correlated with the type of fracture. This study identified quantifiable maxillofacial trauma risk profiles in women: Child-to-parent aggression is highly predictive among older victims, and intimate partner aggression exhibits a significant pattern on Tuesdays. These findings underscore the crucial role of Oral and Maxillofacial Surgeons in recognizing injury and temporal patterns to improve diagnostic accuracy, documentation, and public health surveillance.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42059530/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42055784",
-      "title": "Corrigendum: The in-house designed patient-specific implants combined with navigation systems in orthognathic surgery: a case series of three patients.",
-      "authors": [
-        "Warutta Kasemsarn",
-        "Tanutchaporn Thongngam"
-      ],
-      "publication_date": "2026-Apr-30",
-      "publication_date_iso": "2026-04-30",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42055784/",
       "pmcid": "",
       "figure_urls": []
     }
