@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T05:26:43Z",
+  "updated_at": "2026-05-10T05:42:18Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -2383,90 +2383,6 @@
         "cleft lip and palate surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42080994/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42069961",
-      "title": "Shared decision making using augmented reality a multicentre pilot randomised controlled trial in orthognathic surgery.",
-      "authors": [
-        "S J C Sander Tabernée Heijtmeijer",
-        "N Noa Nicolai",
-        "N G Nard Janssen",
-        "J Joël Kortes",
-        "B Behrus Hinrichs-Puladi",
-        "A Ashkan Rashad",
-        "O Oliver Vladu",
-        "P A J Peter Pijpker",
-        "M J H Max Witjes",
-        "S E C Sarina Pichardo",
-        "J Joep Kraeima"
-      ],
-      "publication_date": "2026-May-02",
-      "publication_date_iso": "2026-05-02",
-      "abstract": "Effective patient education is critical for informed consent. Augmented Reality (AR) offers a novel approach to improving patient understanding and satisfaction, although current evidence is limited and of low quality. This study evaluated the added value of AR compared to traditional monitor-based 3D models for patient education and decision making for orthognathic surgery. A multicentre randomised controlled trial was conducted between August 2023 and June 2024 at three university medical centres in north-west Europe. Sixty referred patients were randomised to either the intervention group or the control group. Patient satisfaction and knowledge were assessed using two questionnaires. The study was registered at ClinicalTrials.gov(NCT06140043). Patient satisfaction was significantly higher in the control group (p = 0.04). No significant differences were found in knowledge acquisition (p = 0.74). Women showed a significant preference for the monitor-based consultation (p = 0.01), while men did not show a significant difference in satisfaction. Despite some centre heterogeneity, no clear added benefit of AR in satisfaction or knowledge was visible. Observed effect sizes (d = 0.76) and post-hoc power estimates (84%) are provided for context but should be interpreted cautiously. In the absence of clear evidence a monitor remain the most practical option for patient education.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42069961/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42067664",
-      "title": "A multimodal explainable ai framework to assist in the differential diagnosis of head and neck reactive follicular hyperplasia and follicular lymphoma: an international multicentre study.",
-      "authors": [
-        "Lucas Lacerda de Souza",
-        "Zhiyang Chen",
-        "Cinthia Veronica Bardález López de Cáceres",
-        "Nathalia Gomes Rodrigues",
-        "Hélder Antônio Rebelo Pontes",
-        "Ciro Dantas Soares",
-        "Fábio Luiz Coracin",
-        "Igor Kimura",
-        "Sheila Aparecida Coelho Siqueira",
-        "Fernanda Viviane Mariano",
-        "Talita de Carvalho Kimura",
-        "João Felipe Leite Bonfitto",
-        "Leandro Luiz Lopes de Freitas",
-        "Sibele Nascimento de Aquino",
-        "Paul Hankinson",
-        "Hanya Mahmood",
-        "Hannah Walsh",
-        "Itzia Araceli Torres Torres",
-        "Adalberto Mosqueda-Taylor",
-        "Pedro Bandeira Aleixo",
-        "Manoela Domingues Martins",
-        "Carolina Louzada Menna-Barreto",
-        "Ahmed Hagag",
-        "Thaís Cerqueira Reis Nakamura",
-        "Giovanna Calabrese Dos Santos",
-        "Matheus Cardoso Moraes",
-        "Marcio Ajudarte Lopes",
-        "Alan Roger Santos-Silva",
-        "Felipe Paiva Fonseca",
-        "Syed Ali Khurram",
-        "Pablo Agustin Vargas"
-      ],
-      "publication_date": "2026-May-02",
-      "publication_date_iso": "2026-05-02",
-      "abstract": "The differential diagnosis between reactive follicular hyperplasia (RFH) and follicular lymphoma (FL) in head and neck tissues represents a diagnostic challenge, particularly given the rarity of extranodal FL at these anatomical sites. We developed and evaluated an explainable multimodal artificial intelligence framework to assist in this differential diagnosis. This international multicentre study assembled 108 cases (54 RFH, 54 FL) from 10 centres across 4 continents, representing one of the largest collections of head and neck follicular lesions. We developed a multimodal framework integrating convolutional neural networks (CNNs: AlexNet, VGG16, ResNet18), vision transformers (CellViT + +), graph neural networks (Cell-GNN for spatial analysis), and gradient-boosted decision trees (XGBoost) with morphometric features. Explainability was achieved through Grad-CAM visualisation and SHAP analysis. The best-performing model (CellViT + +) achieved 95.7% accuracy on the internal test set. External validation demonstrated accuracy of 80.5% (ResNet18, Cohort 1) and 69.0% (VGG16-Seg, Cohort 2), with performance variation reflecting the challenge of generalisation across centres. Explainability analysis revealed that the multimodal framework integrated morphometric features (nuclear area, eccentricity) with epidemiological context (patient age, consistent with known FL demographics). Cell-GNN spatial analysis identified significant architectural reorganisation in FL, quantified by Hedges' g = -6.65, representing the loss of normal follicular polarity. This study demonstrates the feasibility of a multimodal explainable AI framework for assisting in the differential diagnosis of rare head and neck follicular lesions. The integration of morphological, spatial, and clinical features provides a foundation for future collaborative validation studies and potential diagnostic support in specialised pathology settings.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42067664/",
       "pmcid": "",
       "figure_urls": []
     }
