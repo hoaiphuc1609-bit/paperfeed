@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-10T05:42:18Z",
+  "updated_at": "2026-05-11T06:03:59Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -609,6 +609,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "41905100",
+      "title": "Hsa-miR-514a-3p suppresses oral squamous cell carcinoma(OSCC) progression by targeting COL1A1.",
+      "authors": [
+        "Shensui Li",
+        "Xudong Tian",
+        "Jukun Song",
+        "Yadong Wu",
+        "Weili Wang",
+        "Zhenglong Tang"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "The research aimed to investigate the impact of hsa-miR-514a-3p on the proliferation and invasion of oral squamous cell carcinoma (OSCC), and to identify its potential target gene COL1A1. The expression patterns, functional enrichment (Gene Set Enrichment Analysis, GSEA), and copy number variations (CNV) of miR-514a-3p and COL1A1 were analyzed using public datasets (E_MTAB_8588, GSE75538, TCGA-HNSC, and Human Protein Atlas, HPA). The expressions of miR-514a-3p and COL1A1 in clinical samples were detected by immunohistochemistry (IHC) and RT-qPCR. Lentiviral vectors (oe-miR-514a-3p, sh-miR-514a-3p, oe-COL1A1, and sh-COL1A1) were transfected into SCC-25 cells. The expressions of COL1A1, epithelial-mesenchymal transition (EMT)-related molecules, and matrix metalloproteinases (MMPs) were detected by RT-qPCR, Western blotting, and ELISA. Cell functions were evaluated using colony formation assay, Transwell assay, flow cytometry, and CCK-8 assay. A dual-luciferase reporter assay was used to verify the binding between miR-514a-3p and COL1A1. Hsa-miR-514a-3p showed a significant downregulation in OSCC tissues compared to adjacent controls. Hsa-miR-514a-3p overexpression led to reduced OSCC cell proliferation and invasion, whereas its downregulation resulted in increased these processes. hsa-miR-514a-3p directly targeted COL1A1, with negative correlation in OSCC samples. Silencing COL1A1 mimicked the suppressive effects of hsa-miR-514a-3p, and COL1A1 overexpression partially reversed them. This study demonstrates that hsa-miR-514a-3p inhibits malignant phenotypes of OSCC cells by targeting COL1A1, providing insights into potential therapeutic targets for OSCC management.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ed in increased these processes. hsa-miR-514a-3p directly targeted COL1A1, with negative correlation in OSCC samples. Silencing COL1A1 mimicked the suppressive effects of hsa-miR-514a-3p, and COL1A1 overexpression partially reversed them. This study demonstrates that hsa-miR-514a-3p inhibits malignant phenotypes of OSCC cells by targeting COL1A1, providing insights into potential therapeutic targets for OSCC management.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41905100/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41856390",
       "title": "A comparative study of four chairside finishing/polishing protocols and their effect on the surface topography of four CAD/CAM glass-ceramic materials.",
       "authors": [
@@ -1175,6 +1202,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "41966788",
+      "title": "A comparative study of three pterygomaxillary disjunction methods in Le Fort I osteotomy: a clinical and morphological analysis.",
+      "authors": [
+        "Keigo Maeda",
+        "Shinsuke Yamamoto",
+        "Naoki Taniike"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "This study aimed to compare three pterygomaxillary disjunction (PMD) techniques-curved osteotome, non-instrumental technique, and ultrasonic bone scalpel-to identify the safest and most reliable method for Le Fort I osteotomy. This study included 152 patients who underwent orthognathic bimaxillary surgery to correct dentofacial deformities. Complete or incomplete PMD was evaluated using postoperative computed tomography (CT) images, and anatomical parameters of the pterygomaxillary junction were extracted from preoperative CT images. Patients were divided into three groups based on the PMD technique: curved osteotome, non-instrumental technique, and ultrasonic bone scalpel. No significant difference in achieving complete PMD was observed between the curved osteotome and non-instrumental technique (odds ratio [OD] = 1.09, 95% confidence interval [CI]: 0.59-2.02, p = 0.78). However, the ultrasonic bone scalpel had a significantly higher success rate of PMD than the curved osteotome (OD = 2.27, 95% CI: 1.24-4.22, p = 0.008). Younger age, female sex, skeletal Class III subjects, and a greater width and depth of the pterygomaxillary fissure are associated with complete PMD. No complications were observed in any of the patients. This study demonstrated that the ultrasonic bone scalpel is a safe technique with a high success rate for achieving complete PMD.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41966788/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41962510",
       "title": "Chemerin Promotes Oral Squamous Cell Carcinoma Progression via NLRP3-Mediated Pyroptosis and the GSDMD-N Pathway.",
       "authors": [
@@ -1236,6 +1288,34 @@
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091431/bin/gr1.jpg"
       ]
+    },
+    {
+      "pmid": "41950661",
+      "title": "The role of indocyanine green fluorescence angiography in head and neck reconstruction: a systematic review.",
+      "authors": [
+        "Willemijn A F M Poen",
+        "David J Nijssen",
+        "Lasse W P van 't Hof",
+        "Willem H Schreuder",
+        "Jan-Jaap Hendrickx",
+        "Mark I van Berge Henegouwen",
+        "Caroline Driessen"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "This systematic review examined the use of Indocyanine Green Fluorescence Angiography (ICG-FA) to evaluate flap viability in reconstructive head and neck surgery. PUBMED, Embase, and Cochrane Library were systematically reviewed. Key outcomes assessed were feasibility of intraoperative ICG-FA, intraoperative alterations, postoperative monitoring, and the predictive value of ICG-FA for flap viability. Fourteen observational cohort studies were included (total n = 1826). ICG-FA was integrated into surgical workflows with minimal disruptions. It helped guide intraoperative alterations and decisions, such as flap design and re-anastomosis. For postoperative monitoring, ICG-FA supported early detection of perfusion deficits, enabling timely interventions. Quantitative perfusion thresholds for impaired viability were mostly relative, ranging from 20% to 50% fluorescence reduction compared to reference areas, derived either retrospectively or based on predefined cutoffs. ICG-FA appears to be a feasible tool for real-time perfusion assessment in head and neck reconstruction. However, the evidence its clinical applicability remains limited by methodological heterogeneity and a serious risk of bias in a proportion of the included studies. Standardization of protocols and prospective validation are needed to enhance clinical application.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41950661/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41950619",
@@ -1316,54 +1396,31 @@
       ]
     },
     {
-      "pmid": "41934308",
-      "title": "The effects of cetylpyridinium chloride mouthwash combined with triamcinolone acetonide on oral microbiota and the Th17/Treg balance in patients with oral lichen planus.",
+      "pmid": "41934826",
+      "title": "Hybrid implant-supported rehabilitation of severely atrophic jaws using custom-made subperiosteal and conventional endosseous implants: A retrospective case series.",
       "authors": [
-        "Lingshan He",
-        "Quanqiang Zhong",
-        "Xinfeng Zhang",
-        "Tianyi Li"
+        "Luigi Angelo Vaira",
+        "Andrea Biglio",
+        "Casper Van den Borre",
+        "Giovanni Salzano",
+        "Jerome R Lechien",
+        "Maurice Y Mommaerts",
+        "Giacomo De Riu"
       ],
       "publication_date": "2026-Jun",
       "publication_date_iso": "2026-06-01",
-      "abstract": "Oral lichen planus (OLP) is a chronic inflammatory disease associated with oral microbiome imbalance and immune dysregulation. To evaluate the effects of CPC mouthwash combined with triamcinolone acetonide on oral microbiota and Th17/Treg balance in erosive OLP patients. This study involved 80 patients with erosive OLP from January 2023 to January 2025. They were divided into: A control group treated with triamcinolone acetonide and a combination group treated with triamcinolone acetonide plus cetylpyridinium chloride mouthwash. After 4 weeks, primary outcomes included clinical efficacy, visual analog scale (VAS) pain scores, changes in signs and erosive area, oral salivary bacteria detection rate, Th17/Treg ratio, serum adipokine chemerin and cytokine levels (IL-17, TNF-α, IL-10) and OHIP-14 scores. Secondary outcomes were adverse reaction incidence and recurrence rates during follow-up. The combination group showed better outcomes after 4 weeks of treatment. The total effective rate was 95%, higher than the control group's 80% (P=0.022). The combination group had superior pain relief (P=0.024), better mucosal repair (P=0.002) and a significant decrease in erosive area (P=0.021). It also had lower oral detection rates of Staphylococcus and Candida albicans (P<0.05). Immunologically, the combination therapy significantly reduced serum levels of chemerin, Th17 cells, Th17/Treg ratio, IL-17 and TNF-α (P<0.001), while increasing Treg cells and IL-10 levels (P=0.003), indicating stronger anti-inflammatory and immune-balancing effects. The combination group showed a greater reduction in the OHIP-14 score (P < 0.001), indicating improved oral health-related quality of life. No significant difference in adverse reactions was observed (P>0.05) and all were mild. The combination group had a lower recurrence rate within 3 months post-treatment, although the difference was not statistically significant (P=0.521). The combination of cetylpyridinium chloride mouthwash with triamcinolone acetonide effectively regulates the oral microbiota structure and restores the Th17/Treg immune balance in OLP patients.",
-      "objective": "",
-      "study_methods": "This study involved 80 patients with erosive OLP from January 2023 to January 2025. They were divided into: A control group treated with triamcinolone acetonide and a combination group treated with triamcinolone acetonide plus cetylpyridinium chloride mouthwash. After 4 weeks, primary outcomes included clinical efficacy, visual analog scale (VAS) pain scores, changes in signs and erosive area, oral salivary bacteria detection rate, Th17/Treg ratio, serum adipokine chemerin and cytokine levels (IL-17, TNF-α, IL-10) and OHIP-14 scores. Secondary outcomes were adverse reaction incidence and recurrence rates during follow-up.",
-      "methods": "This study involved 80 patients with erosive OLP from January 2023 to January 2025. They were divided into: A control group treated with triamcinolone acetonide and a combination group treated with triamcinolone acetonide plus cetylpyridinium chloride mouthwash. After 4 weeks, primary outcomes included clinical efficacy, visual analog scale (VAS) pain scores, changes in signs and erosive area, oral salivary bacteria detection rate, Th17/Treg ratio, serum adipokine chemerin and cytokine levels (IL-17, TNF-α, IL-10) and OHIP-14 scores. Secondary outcomes were adverse reaction incidence and recurrence rates during follow-up.",
+      "abstract": "Severe alveolar bone atrophy represents a major challenge for implant-supported rehabilitation of the maxilla and mandible. While custom-made subperiosteal implants and conventional endosseous implants have each been proposed as graftless solutions in selected clinical scenarios, the outcomes of hybrid rehabilitations combining both implant systems within the same jaw have not yet been investigated. The aim of this retrospective study was to evaluate the clinical and radiological outcomes of hybrid implant-supported rehabilitations using custom-made subperiosteal implants in combination with conventional endosseous implants in patients with severe maxillary and/or mandibular atrophy. Fourteen consecutive patients affected by advanced jaw atrophy and heterogeneous residual bone availability were included. A total of 20 custom-made subperiosteal implants and 48 conventional endosseous implants were placed to support fixed full-arch or segmental prosthetic rehabilitations. Implant survival, success, biological and mechanical complications, and peri-implant soft tissue conditions were assessed over a mean follow-up of 22.1 months. At the last follow-up, survival of both subperiosteal and endosseous implants was 100%, with all rehabilitations remaining functional. All endosseous implants fulfilled established success criteria, while all subperiosteal implants met a composite functional success endpoint. Peri-implant soft tissue conditions remained stable, and no prosthetic complications were observed. However, these findings should be interpreted in light of the retrospective design, limited sample size, and relatively short follow-up. Within the limitations of this retrospective case series, hybrid rehabilitations combining custom-made subperiosteal and conventional endosseous implants may represent a promising and flexible graftless treatment option for severely atrophic jaws with heterogeneous bone availability.",
+      "objective": "of this retrospective study was to evaluate the clinical and radiological outcomes of hybrid implant-supported rehabilitations using custom-made subperiosteal implants in combination with conventional endosseous implants in patients with severe maxillary and/or mandibular atrophy. Fourteen consecutive patients affected by advanced jaw atrophy and heterogeneous residual bone availability were included. A total of 20 custom-made subperiosteal implants and 48 conventional endosseous implants were placed to support fixed full-arch or segmental prosthetic rehabilitations. Implant survival, success, biological and mechanical complications, and peri-implant soft tissue conditions were assessed over a mean follow-up of 22.1 months. At the last follow-up, survival of both subperiosteal and endosseous implants was 100%, with all rehabilitations remaining functional. All endosseous implants fulfilled established success criteria, while all subperiosteal implants met a composite functional success endpoint. Peri-implant soft tissue conditions remained stable, and no prosthetic complications were observed. However, these findings should be interpreted in light of the retrospective design, limited sample size, and relatively short follow-up. Within the limitations of this retrospective case series, hybrid rehabilitations combining custom-made subperiosteal and conventional endosseous implants may represent a promising and flexible graftless treatment option for severely atrophic jaws with heterogeneous bone availability.",
+      "study_methods": "",
+      "methods": "",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "maxillofacial surgery",
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41934308/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41934124",
-      "title": "Recombinant ADAMTS13 in thrombotic thrombocytopenic purpura: a systematic review and meta-analysis.",
-      "authors": [
-        "Anaya Abdul Samad",
-        "Safwat Irshad Qureshi",
-        "Akif Shahid Khan",
-        "Bilal Khan",
-        "Muhammad Tufail",
-        "Nourhan Saeed Bakry"
-      ],
-      "publication_date": "2026-Jun-01",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Thrombotic thrombocytopenic purpura (TTP) is a rare and potentially fatal blood disorder due to deficiency of the enzyme ADAMTS13. Recombinant ADAMTS13 (rADAMTS13) is a new treatment aimed at restoring enzyme activity. This study aimed to evaluate the efficacy and safety of rADAMTS13 compared to standard therapy or placebo in patients with congenital or acquired TTP using a systematic review and meta-analysis. This PRISMA-compliant review searched PubMed, Embase, Cochrane Library, ClinicalTrials.gov, and others up to March 30, 2025. We included randomized controlled trials (RCTs) comparing rADAMTS13 to standard therapy or placebo in patients with TTP. Two RCTs (one phase 3, one phase 2) involving 129 patients (67 rADAMTS13, 62 placebo) met inclusion criteria. No significant differences were observed for the primary clinical outcomes of acute TTP events (risk ratio (RR) = 0.58 [95% CI, 0.20-1.70]) or serious treatment-emergent adverse events (RR = 0.64 [95% CI, 0.31-1.34]). However, rADAMTS13 significantly increased ADAMTS13 activity levels (MD, 0.92 IU/ml [95% CI, 0.59-1.26]; P < 0.0001). Urticaria was significantly lower in the rADAMTS13 group (RR = 0.25 [95% CI, 0.06-0.96]; P = 0.04). No significant differences were noted for other adverse events (all P > 0.05). rADAMTS13 significantly enhances ADAMTS13 activity but did not demonstrate a significant improvement in key clinical outcomes. These findings, based on two RCTs, are of moderate to low certainty per GRADE assessment. Larger trials are needed to confirm the clinical benefits of rADAMTS13.",
-      "objective": "",
-      "study_methods": "This PRISMA-compliant review searched PubMed, Embase, Cochrane Library, ClinicalTrials.gov, and others up to March 30, 2025. We included randomized controlled trials (RCTs) comparing rADAMTS13 to standard therapy or placebo in patients with TTP.",
-      "methods": "This PRISMA-compliant review searched PubMed, Embase, Cochrane Library, ClinicalTrials.gov, and others up to March 30, 2025. We included randomized controlled trials (RCTs) comparing rADAMTS13 to standard therapy or placebo in patients with TTP.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41934124/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41934826/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1432,73 +1489,6 @@
       ]
     },
     {
-      "pmid": "41921448",
-      "title": "Aspartate Aminotransferase/Alanine Aminotransferase Ratio Predicts the Post-surgical Prognosis of Patients with Oral Squamous Cell Carcinoma.",
-      "authors": [
-        "Baochang He",
-        "Liling Shen",
-        "Yulan Lin",
-        "Fa Chen",
-        "Fengqiong Liu",
-        "Yu Qiu",
-        "Bin Shi",
-        "Lisong Lin",
-        "Jing Wang",
-        "Xiaodan Bao"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Survival rates in patients with oral squamous cell carcinoma (OSCC) have failed to improve greatly over time, and novel biomarkers are urgently needed. Therefore, the aim was to evaluate the predictive ability of the pre-treatment serum aspartate aminotransferase/alanine aminotransferase (AST/ALT) ratio (SLR) for the prognosis of patients with OSCC. This cohort study based on a prospectively maintained database included 552 patients who were diagnosed with primary OSCC and underwent surgery between August 2011 and January 2022. The pre-treatment SLR was determined in each patient by dividing the AST levels by the ALT concentrations. Propensity score matching (PSM) analysis was performed to adjust for potential confounders. COX proportional hazards models, as well as generalized boosted regression model (GBM) and random survival forest (RSF) algorithms were used to investigate the predictive value of the SLR in determining the prognosis of patients with OSCC. X-tile software was used to determine the SLR to stratify patients into low-SLR (SLR < 1.50, n = 445) and high-SLR (SLR ≥ 1.50, n = 107). After PSM, all covariates were determined to be well-balanced between the two groups in the matched cohort (all standardized mean differences (SMDs) < 0.1). The high-SLR group exhibited significantly poorer overall survival (OS) compared with that of the low-SLR group based on the multivariate Cox regression modeling in both the original (hazard ratio (HR) = 1.55; 95% confidence interval (CI): 1.02-2.36) and matched (HR = 1.81; 95% CI: 1.13-2.91) cohorts. Furthermore, comparative model analysis demonstrated a moderate improvement in predictive performance when SLR was included in the models (P = .017 in the original cohort; P = .008 in the matched cohort). In conclusion, the pre-treatment SLR serves as an independent prognostic factor for OS in surgical OSCC patients and enhances the performance of prognostic models, indicating its potential as a clinical tool for outcome prediction.",
-      "objective": "was to evaluate the predictive ability of the pre-treatment serum aspartate aminotransferase/alanine aminotransferase (AST/ALT) ratio (SLR) for the prognosis of patients with OSCC. This cohort study based on a prospectively maintained database included 552 patients who were diagnosed with primary OSCC and underwent surgery between August 2011 and January 2022. The pre-treatment SLR was determined in each patient by dividing the AST levels by the ALT concentrations. Propensity score matching (PSM) analysis was performed to adjust for potential confounders. COX proportional hazards models, as well as generalized boosted regression model (GBM) and random survival forest (RSF) algorithms were used to investigate the predictive value of the SLR in determining the prognosis of patients with OSCC. X-tile software was used to determine the SLR to stratify patients into low-SLR (SLR < 1.50, n = 445) and high-SLR (SLR ≥ 1.50, n = 107). After PSM, all covariates were determined to be well-balanced between the two groups in the matched cohort (all standardized mean differences (SMDs) < 0.1). The high-SLR group exhibited significantly poorer overall survival (OS) compared with that of the low-SLR group based on the multivariate Cox regression modeling in both the original (hazard ratio (HR) = 1.55; 95% confidence interval (CI): 1.02-2.36) and matched (HR = 1.81; 95% CI: 1.13-2.91) cohorts. Furthermore, comparative model analysis demonstrated a moderate improvement in predictive performance when SLR was included in the models (P = .017 in the original cohort; P = .008 in the matched cohort). In",
-      "study_methods": "This cohort study based on a prospectively maintained database included 552 patients who were diagnosed with primary OSCC and underwent surgery between August 2011 and January 2022. The pre-treatment SLR was determined in each patient by dividing the AST levels by the ALT concentrations. Propensity score matching (PSM) analysis was performed to adjust for potential confounders. COX proportional hazards models, as well as generalized boosted regression model (GBM) and random survival forest (RSF) algorithms were used to investigate the predictive value of the SLR in determining the prognosis of patients with OSCC.",
-      "methods": "This cohort study based on a prospectively maintained database included 552 patients who were diagnosed with primary OSCC and underwent surgery between August 2011 and January 2022. The pre-treatment SLR was determined in each patient by dividing the AST levels by the ALT concentrations. Propensity score matching (PSM) analysis was performed to adjust for potential confounders. COX proportional hazards models, as well as generalized boosted regression model (GBM) and random survival forest (RSF) algorithms were used to investigate the predictive value of the SLR in determining the prognosis of patients with OSCC.",
-      "results": "",
-      "conclusion": ", the pre-treatment SLR serves as an independent prognostic factor for OS in surgical OSCC patients and enhances the performance of prognostic models, indicating its potential as a clinical tool for outcome prediction.",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41921448/",
-      "pmcid": "PMC13068816",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13068816/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13068816/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13068816/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13068816/bin/gr2.gif"
-      ]
-    },
-    {
-      "pmid": "41916879",
-      "title": "Development and Validation of a Deep Learning-Based Facial Weakness Score for Objective Assessment in Facioscapulohumeral Muscular Dystrophy.",
-      "authors": [
-        "T G J Loonen",
-        "T C Ten Harkel",
-        "S C C Vincenten",
-        "C G C Horlings",
-        "C H G Beurskens",
-        "S Knuijt",
-        "G W A M Padberg",
-        "B G M van Engelen",
-        "T J J Maal",
-        "K Mul"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Facioscapulohumeral muscular dystrophy (FSHD) is a muscle disease that leads, among other manifestations, to facial weakness. This weakness can severely impact communication and quality of life, yet it remains under-researched with limited objective clinical measures. Current manual scoring methods are subjective and exhibit suboptimal inter-observer agreement. This study aimed to develop and validate a deep learning-based facial weakness score (DLFWS) as an objective clinical outcome measure for facial weakness in FSHD. One hundred and twenty-two genetically confirmed FSHD patients and 56 controls were recruited. Sixty-four patients had a 5-year follow-up visit. Video recordings of participants performing seven facial exercises, each repeated three times, were analyzed using a convolutional neural network. The deep learning-based facial weakness score (DLFWS) was trained by comparing start and end frames from these exercises with the manual facial weakness scores (MFWS) assigned by three experienced observers. Pearson correlation coefficients and intraclass correlation coefficients (ICC) were used to evaluate the DLFWS's performance and reliability. The DLFWS showed a strong correlation with the MFWS across exercises, with a mean Pearson correlation of 0.79 and a maximum of 0.85 for individual exercises. The DLFWS demonstrated excellent test-retest reliability, with an ICC of 0.90. Over a 5-year follow-up period, no significant progression of facial weakness was detected. The DLFWS provides a reliable and objective assessment of facial weakness in FSHD patients. This automated tool holds potential for widespread clinical and research applications, enabling standardized assessment of facial weakness in FSHD.",
-      "objective": "clinical measures. Current manual scoring",
-      "study_methods": "One hundred and twenty-two genetically confirmed FSHD patients and 56 controls were recruited. Sixty-four patients had a 5-year follow-up visit. Video recordings of participants performing seven facial exercises, each repeated three times, were analyzed using a convolutional neural network. The deep learning-based facial weakness score (DLFWS) was trained by comparing start and end frames from these exercises with the manual facial weakness scores (MFWS) assigned by three experienced observers. Pearson correlation coefficients and intraclass correlation coefficients (ICC) were used to evaluate the DLFWS's performance and reliability.",
-      "methods": "One hundred and twenty-two genetically confirmed FSHD patients and 56 controls were recruited. Sixty-four patients had a 5-year follow-up visit. Video recordings of participants performing seven facial exercises, each repeated three times, were analyzed using a convolutional neural network. The deep learning-based facial weakness score (DLFWS) was trained by comparing start and end frames from these exercises with the manual facial weakness scores (MFWS) assigned by three experienced observers. Pearson correlation coefficients and intraclass correlation coefficients (ICC) were used to evaluate the DLFWS's performance and reliability.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41916879/",
-      "pmcid": "PMC13138359",
-      "figure_urls": []
-    },
-    {
       "pmid": "41904886",
       "title": "Women Dentists in Education, Specialization, and Leadership: A Global Survey.",
       "authors": [
@@ -1528,6 +1518,31 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13058978/bin/gr1.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13058978/bin/gr2.jpg"
       ]
+    },
+    {
+      "pmid": "41895029",
+      "title": "Three-dimensional evaluation of proximal segment positional changes and postoperative stability in bilateral sagittal split osteotomy using the novel index Co-B distance.",
+      "authors": [
+        "Shinsuke Yamamoto",
+        "Reiko Iwadate",
+        "Keigo Maeda",
+        "Naoki Taniike"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "The aim of this study was to evaluate three-dimensional changes in the mandibular segments following bilateral sagittal split osteotomy, focusing on the positional relationship between the proximal and distal segments and its impact on postoperative stability. Forty-one patients who underwent Le Fort I osteotomy and bilateral sagittal split osteotomy were retrospectively analyzed using computed tomography at preoperative, early postoperative, and 1-year postoperative stages. Segmental superimposition was performed using stable regions of the proximal segment, and the Co-B distance was introduced as a novel three-dimensional index to assess surgical and postoperative changes. In Class III, a significant increase in the Co-B distance (0.650 ± 0.462 mm) was observed postoperatively. Correlation analysis revealed that greater anterior displacement of the Co in Class III (r = 0.49, p = 0.027) and greater lateral (r = 0.69, p = 0.028) and posterior (r = 0.81, p = 0.004) displacements of the Co in Class II were significantly associated with relapse. These findings suggest that the Co-B distance is a valuable indicator for assessing postoperative stability and emphasize the need to prevent lateral displacement of the condyle, especially in Class II cases, to reduce the risk of relapse.",
+      "objective": "of this study was to evaluate three-dimensional changes in the mandibular segments following bilateral sagittal split osteotomy, focusing on the positional relationship between the proximal and distal segments and its impact on postoperative stability. Forty-one patients who underwent Le Fort I osteotomy and bilateral sagittal split osteotomy were retrospectively analyzed using computed tomography at preoperative, early postoperative, and 1-year postoperative stages. Segmental superimposition was performed using stable regions of the proximal segment, and the Co-B distance was introduced as a novel three-dimensional index to assess surgical and postoperative changes. In Class III, a significant increase in the Co-B distance (0.650 ± 0.462 mm) was observed postoperatively. Correlation analysis revealed that greater anterior displacement of the Co in Class III (r = 0.49, p = 0.027) and greater lateral (r = 0.69, p = 0.028) and posterior (r = 0.81, p = 0.004) displacements of the Co in Class II were significantly associated with relapse. These findings suggest that the Co-B distance is a valuable indicator for assessing postoperative stability and emphasize the need to prevent lateral displacement of the condyle, especially in Class II cases, to reduce the risk of relapse.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41895029/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41861582",
@@ -1624,6 +1639,35 @@
       ]
     },
     {
+      "pmid": "41806541",
+      "title": "Patient satisfaction in orthognathic surgery and the role of expectations.",
+      "authors": [
+        "Giulio Cirignaco",
+        "Mariagrazia Paglianiti",
+        "Lisa Catarzi",
+        "Enrico Betti",
+        "Gabriele Monarchi",
+        "Massimiliano Gilli",
+        "Luigi Angelo Vaira",
+        "Giuseppe Consorti"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Orthognathic surgery (OGS) corrects dentofacial deformities and can substantially improve quality of life (QoL). How satisfaction relates to patients' preoperative expectations, surgical magnitude, and demographics remains a subject of debate. Our single-centre retrospective study included consecutive OGS patients with ≥ 6-month follow-up and completed PROMs. Validated instruments comprised the Orthognathic Quality of Life Questionnaire (OQLQ) and selected FACE-Q scales; global satisfaction was rated on a 0-10 VAS. Primary endpoints were postoperative satisfaction and change in QoL. The cohort comprised 290 patients (176 women, 114 men, mean age 23.4 years); 42% underwent single-jaw and 58% bimaxillary surgery. At a mean 12.2-month follow-up, satisfaction was high (VAS 9.1 ± 1.1), with 93.8% reporting that treatment met or exceeded expectations. OQLQ improved from 42.5 ± 17.3 preoperatively to 15.4 ± 12.1 postoperatively (p < 0.0001), with gains across domains; FACE-Q scores were similarly high. Satisfaction did not differ by surgery type (VAS 9.0 ± 1.2 vs 9.2 ± 1.0; p = 0.34), expectation focus (ANOVA p = 0.67), sex (p = 0.42), or age (ρ = -0.05; p = 0.37). OGS yields large QoL gains and very high satisfaction. When treatment plans address the patient's chief concern, satisfaction is independent of surgery magnitude, expectation focus, sex, and age. Structured preoperative counseling, paired with routine PROM monitoring, may help align expectations with achievable outcomes, and support optimal patient-centered results.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41806541/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41775013",
       "title": "Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bibliometric Analysis.",
       "authors": [
@@ -1691,6 +1735,85 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g2.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g2.gif"
       ]
+    },
+    {
+      "pmid": "41759452",
+      "title": "A patient-specific PEEK fixation system for simultaneous maxillary advancement and midfacial contour restoration in Le Fort I osteotomy: A finite element analysis.",
+      "authors": [
+        "Yingjia Sun",
+        "Yuanyi Li",
+        "Zhijian Xie",
+        "Lingling Hu"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Severe maxillary hypoplasia often requires combined skeletal repositioning and midfacial contour restoration. While Le Fort I osteotomy effectively addresses dental and skeletal discrepancies, residual midfacial deficiencies - such as infraorbital depression and paranasal flatness - frequently persist, necessitating additional soft tissue or alloplastic procedures. This study introduces a novel patient-specific polyetheretherketone (PEEK) fixation system designed to simultaneously stabilize Le Fort I-advanced maxillary segments and restore midfacial morphology in a single surgical stage. A customized PEEK plate was digitally designed to match both the ideal bony anatomy and the desired facial profile. Finite element (FE) models were developed to compare the biomechanical performance of the PEEK fixation system with that of a conventional titanium fixation system under simulated physiological bite forces. Outcomes assessed included intersegmental maxillary displacement, von Mises stress distribution in the bone and implants, and screw stress levels. The PEEK fixation system demonstrated comparable maxillary stability to titanium fixation, with reduced overall displacement (0.08416 mm vs. 0.09285 mm) and a more physiologically balanced stress distribution across the maxillary buttresses. Screw stresses were slightly higher in the PEEK system (515.8 MPa vs. 414.2 MPa), but remained well below material yield limits (titanium alloy (TC4) ≈ 860 MPa). The externally contoured PEEK plates also facilitated direct midfacial contouring, eliminating the need for secondary soft tissue augmentation. Three-dimensional axis-wise analysis showed PEEK had lower Z-axis displacement (0.03178 mm vs. 0.07787 mm) and more uniform displacement fields, further supporting its enhanced segmental stability. This study suggests that a patient-specific PEEK fixation system can safely and effectively stabilize Le Fort I-advanced maxillary segments while concurrently addressing midfacial contour deficiencies. This integrated approach demonstrates potential advantages in postoperative stability, functional recovery, and aesthetic outcomes, supporting its future clinical application as a streamlined solution for combined skeletal and soft tissue reconstruction.",
+      "objective": "",
+      "study_methods": "A customized PEEK plate was digitally designed to match both the ideal bony anatomy and the desired facial profile. Finite element (FE) models were developed to compare the biomechanical performance of the PEEK fixation system with that of a conventional titanium fixation system under simulated physiological bite forces. Outcomes assessed included intersegmental maxillary displacement, von Mises stress distribution in the bone and implants, and screw stress levels.",
+      "methods": "A customized PEEK plate was digitally designed to match both the ideal bony anatomy and the desired facial profile. Finite element (FE) models were developed to compare the biomechanical performance of the PEEK fixation system with that of a conventional titanium fixation system under simulated physiological bite forces. Outcomes assessed included intersegmental maxillary displacement, von Mises stress distribution in the bone and implants, and screw stress levels.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41759452/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41747660",
+      "title": "Functional and psychosocial outcomes of simultaneous condylectomy and bimaxillary orthognathic surgery for unilateral condylar hyperplasia: Retrospective study.",
+      "authors": [
+        "Melis Haydarpasa-Yalcin",
+        "Canseda Avağ",
+        "Altan Varol"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Unilateral condylar hyperplasia (UCH) is a pathological growth disorder frequently associated with marked facial asymmetry. The objective of this study was to evaluate the functional and psychosocial outcomes of simultaneous high level or proportional condylectomy performed in conjunction with bimaxillary orthognathic surgery in individuals presenting with hemimandibular elongation or hyperplasia. Patient-reported outcomes were measured using the Orthognathic Quality of Life Questionnaire (OQLQ) and the Mandibular Function Impairment Questionnaire (MFIQ). Secondary outcomes included facial symmetry, aesthetic satisfaction, visibility of preauricular scars, limitation of mouth opening, temporomandibular joint (TMJ) pain and clicking, lower lip paresthesia (LLP), and facial nerve dysfunction. This retrospective analysis included 25 patients (19 females, 6 males; mean age 25.5 ± 5.41 years) who underwent simultaneous condylectomy (high level: n = 18; proportional: n = 2; with disc repositioning in 7 cases) and bimaxillary orthognathic surgery. Clinical and functional outcomes were assessed over a mean follow-up period of 3.5 ± 0.8 years. Statistically significant improvements were observed in both OQLQ and MFIQ scores following surgery (p < 0.001 for both). The majority of patients reported high satisfaction regarding facial symmetry and expressed minimal concern about preauricular scarring. TMJ pain and clicking, and LLP showed notable reduction or complete resolution. No major complications, including persistent facial paralysis, were encountered. Simultaneous condylectomy with bimaxillary orthognathic surgery demonstrates predictable and stable long-term outcomes in the management of unilateral condylar hyperplasia. This single stage approach effectively addresses both functional impairment and aesthetic concerns, eliminating the requirement for staged surgical procedures.",
+      "objective": "of this study was to evaluate the functional and psychosocial outcomes of simultaneous high level or proportional condylectomy performed in conjunction with bimaxillary orthognathic surgery in individuals presenting with hemimandibular elongation or hyperplasia. Patient-reported outcomes were measured using the Orthognathic Quality of Life Questionnaire (OQLQ) and the Mandibular Function Impairment Questionnaire (MFIQ). Secondary outcomes included facial symmetry, aesthetic satisfaction, visibility of preauricular scars, limitation of mouth opening, temporomandibular joint (TMJ) pain and clicking, lower lip paresthesia (LLP), and facial nerve dysfunction. This retrospective analysis included 25 patients (19 females, 6 males; mean age 25.5 ± 5.41 years) who underwent simultaneous condylectomy (high level: n = 18; proportional: n = 2; with disc repositioning in 7 cases) and bimaxillary orthognathic surgery. Clinical and functional outcomes were assessed over a mean follow-up period of 3.5 ± 0.8 years. Statistically significant improvements were observed in both OQLQ and MFIQ scores following surgery (p < 0.001 for both). The majority of patients reported high satisfaction regarding facial symmetry and expressed minimal concern about preauricular scarring. TMJ pain and clicking, and LLP showed notable reduction or complete resolution. No major complications, including persistent facial paralysis, were encountered. Simultaneous condylectomy with bimaxillary orthognathic surgery demonstrates predictable and stable long-term outcomes in the management of unilateral condylar hyperplasia. This single stage approach effectively addresses both functional impairment and aesthetic concerns, eliminating the requirement for staged surgical procedures.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41747660/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41740298",
+      "title": "Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective comparative pilot study on artifact reduction.",
+      "authors": [
+        "Adib Al-Haj Husain",
+        "Sameena Sandhu",
+        "Maximilian Eberhard Hermann Wagner",
+        "Suen An Nynke Lie",
+        "Egon Burian",
+        "Daniel Zedler",
+        "Bernd Stadlinger",
+        "Peter Kessler",
+        "Harald Essig"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "To assess, in a prospective pilot study, five magnetic resonance imaging (MRI) artifact reduction protocols (UTE, SEMAC, Dark Bone, DESS, and STIR) using a 15-channel dentomaxillofacial coil in trauma patients undergoing cranio-maxillofacial and oral reconstruction. Eighteen patients (15 M/3 F, 37.9 ± 17.5 years) underwent MRI within 48 h after surgery. Image quality, artifact extent, and visualization of peri-osteosynthesis tissues were qualitatively evaluated on a 5-point scale (5 = best, 1 = worst). Quantitative analysis assessed protocol-specific artifact-induced signal voids in relation to the dimensions of manufacturer-specific implants. Descriptive statistics and inter- and intra-observer reliability were evaluated using weighted kappa statistics. UTE and SEMAC consistently demonstrated highest image quality and minimal artifacts, accurately depicting peri-osteosynthesis tissues, with mean artifact deviations below 2 mm relative to ground-truth implant dimensions. STIR showed intermediate performance, providing robust fat suppression and soft-tissue contrast, whereas Dark Bone and DESS exhibited higher artifact prevalence and lower diagnostic confidence. Subgroup analysis confirmed these trends across fracture location and implant type. Inter- and intra-observer agreement ranged from substantial to perfect (κ = 0.71-1.0, p < 0.001). Modern MRI techniques like UTE and SEMAC with specialized coils improve postoperative imaging by balancing artifact suppression, image quality, and diagnostic confidence, potentially enhancing assessment of perioperative complications, reconstructive outcomes, and oncological follow-up in cranio-maxillofacial surgery.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41740298/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41730408",
@@ -1775,6 +1898,58 @@
       "figure_urls": []
     },
     {
+      "pmid": "41605786",
+      "title": "Retrospective radiographic study of potential tooth root contact of orthodontic mini-implants placed at the anterior palate.",
+      "authors": [
+        "S C Möhlhenrich",
+        "J Steur",
+        "S Chhatwani",
+        "K Kniha",
+        "J Jackowski",
+        "G Danesh"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "This retrospective radiographic study investigated the influence of orthodontic mini-implant position on the distance to adjacent teeth in lateral cephalograms and corresponding cone-beam computed tomography (CBCT) images to assess the risk of root contact during placement. Intraoral scans, lateral cephalograms and CBCT images from 34 patients were superimposed. Virtual implant placement was planned using lateral cephalograms as the reference and CBCT images as the control. Implants were simulated in median and paramedian positions at inter-implant distances of 6, 8, 10 and 12 mm. The smallest distances between implants and adjacent teeth were measured using both imaging modalities. Statistical analyses included repeated-measures analysis of variance, paired t-tests and intraclass correlation coefficients, with significance set at P ≤ 0.05. Lateral cephalograms showed decreasing distances from central incisors to canines, particularly for median-inserted implants, while CBCT images revealed increasing distances laterally for both positions. No implant-to-tooth contact was observed, with all distances exceeding 1 mm. Significant agreement between measurements from both imaging techniques was found for central and lateral incisors, but not canines. Despite lateral cephalograms underestimating actual distances, the strong correlation for incisors suggests that this method allows for reliable planning with no risk of root contact.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41605786/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41565505",
+      "title": "Sebaceous adenocarcinoma of the parotid gland: review and analysis of the literature.",
+      "authors": [
+        "C Miura",
+        "H Saito",
+        "K Tomie",
+        "K Ohno"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Primary sebaceous adenocarcinoma (SAC) of the parotid gland is extremely rare, and because of its rarity, its behaviour is not fully understood. The aim of this study was to clarify the behaviour of SAC of the parotid gland, including the main features and their relationships to the prognosis. Sixty-six reported cases of the disease were identified and included in the study, and these were reviewed and analysed. SAC of the parotid gland occurred in patients aged 6-92 years, with a bimodal age distribution (20 s and 50-70 s). Of the 66 patients, 59% were female and 41% were male, giving a male to female ratio of 1:1.4. The prognosis was statistically superior for cases without perineural invasion (P = 0.030), those in age group <70 years when compared ≥70 years (P = 0.008), primary cases when compared to secondary cases (P = 0.009), and cases in which the primary treatment was surgery only (P = 0.007). The results showed that in SAC of the parotid gland, the death rate from cancer (66.7%) was higher than that for skin SAC, while the 5-year survival rate (71.4%) was lower than that in skin SAC.",
+      "objective": "of this study was to clarify the behaviour of SAC of the parotid gland, including the main features and their relationships to the prognosis. Sixty-six reported cases of the disease were identified and included in the study, and these were reviewed and analysed. SAC of the parotid gland occurred in patients aged 6-92 years, with a bimodal age distribution (20 s and 50-70 s). Of the 66 patients, 59% were female and 41% were male, giving a male to female ratio of 1:1.4. The prognosis was statistically superior for cases without perineural invasion (P = 0.030), those in age group <70 years when compared ≥70 years (P = 0.008), primary cases when compared to secondary cases (P = 0.009), and cases in which the primary treatment was surgery only (P = 0.007). The",
+      "study_methods": "",
+      "methods": "",
+      "results": "showed that in SAC of the parotid gland, the death rate from cancer (66.7%) was higher than that for skin SAC, while the 5-year survival rate (71.4%) was lower than that in skin SAC.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41565505/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41499198",
       "title": "Risk Factors of Persistent Opioid Use After Forehead Flap Reconstruction.",
       "authors": [
@@ -1798,6 +1973,33 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41499198/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41407646",
+      "title": "Effects of surgical orthodontic treatment on masticatory behaviour of patients with jaw deformities measured by wearable device.",
+      "authors": [
+        "M M Maung",
+        "R Takeuchi",
+        "K Haga",
+        "D Hasebe",
+        "J Nihara",
+        "T Kobayashi"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Evaluating masticatory behaviour before and after surgical orthodontic treatment is crucial for successful postoperative oral rehabilitation of patients with jaw deformities. In this study, masticatory function was evaluated by measuring masticatory behaviour quantitatively in patients with jaw deformities before and after surgical orthodontic treatment. The untreated group included 42 patients with jaw deformities. The post-treatment group included 55 patients whose jaw deformities had been corrected surgically at least 1 year previously. The control group included 53 adults with individual normal occlusion. Masticatory behaviour was measured using a Bitescan device, and the occlusal contact area and maximum occlusal force were measured using Dental Prescale II system. The post-treatment group had the longest eating time (P = 0.008 compared to the control group). There was no significant difference in the right-left imbalance among the groups (P = 0.078). Both occlusal contact area and maximum occlusal force of the untreated group and post-treatment group were significantly lower than those of the control group (all P < 0.001). This study revealed that postoperative masticatory behaviour was not sufficiently improved, suggesting the possibility of insufficient adaptation to postoperative occlusion, a state of recovery of masticatory muscles, and a reliance on habitual masticatory behaviour.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41407646/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1826,6 +2028,152 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41352995/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41198463",
+      "title": "Early soft tissue changes in the nasolabial angle following maxillary advancement: a comparison of two surgical methods.",
+      "authors": [
+        "H Rushinek",
+        "M Nassar",
+        "M Alterman",
+        "A Cohen",
+        "N Casap"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Le Fort I osteotomy is a common orthognathic surgery procedure, but can result in unpredictable nasolabial changes, highlighting the need for a greater understanding of its effects on the soft tissue and evaluation of alternative techniques. The aim of this study was to compare the subspinal Le Fort I osteotomy (SSLFI) to conventional Le Fort I osteotomy (cLFI) regarding their impact on the nasolabial angle (NLA), with the goal of clarifying their clinical implications and assessing the utility of the subspinal approach. This retrospective analysis included 38 patients who underwent maxillary advancement between 2010 and 2023, using either the cLFI or SSLFI. Soft tissue changes were evaluated at a minimum of six months postoperatively, corresponding to the early healing phase when some residual swelling may persist. The mean maxillary advancement was 6.16 mm in the cLFI group and 6.37 mm in the SSLFI group. NLA tended to decrease in the cLFI group and increase in the SSLFI group, with the most pronounced differences observed when advancement exceeded 5 mm. Sex had no effect on NLA change. These findings underscore the importance of careful surgical planning and patient counseling, while recognizing that soft tissue adaptations may continue beyond the early postoperative period.",
+      "objective": "of this study was to compare the subspinal Le Fort I osteotomy (SSLFI) to conventional Le Fort I osteotomy (cLFI) regarding their impact on the nasolabial angle (NLA), with the goal of clarifying their clinical implications and assessing the utility of the subspinal approach. This retrospective analysis included 38 patients who underwent maxillary advancement between 2010 and 2023, using either the cLFI or SSLFI. Soft tissue changes were evaluated at a minimum of six months postoperatively, corresponding to the early healing phase when some residual swelling may persist. The mean maxillary advancement was 6.16 mm in the cLFI group and 6.37 mm in the SSLFI group. NLA tended to decrease in the cLFI group and increase in the SSLFI group, with the most pronounced differences observed when advancement exceeded 5 mm. Sex had no effect on NLA change. These findings underscore the importance of careful surgical planning and patient counseling, while recognizing that soft tissue adaptations may continue beyond the early postoperative period.",
+      "study_methods": "",
+      "methods": "",
+      "results": "in unpredictable nasolabial changes, highlighting the need for a greater understanding of its effects on the soft tissue and evaluation of alternative techniques. The aim of this study was to compare the subspinal Le Fort I osteotomy (SSLFI) to conventional Le Fort I osteotomy (cLFI) regarding their impact on the nasolabial angle (NLA), with the goal of clarifying their clinical implications and assessing the utility of the subspinal approach. This retrospective analysis included 38 patients who underwent maxillary advancement between 2010 and 2023, using either the cLFI or SSLFI. Soft tissue changes were evaluated at a minimum of six months postoperatively, corresponding to the early healing phase when some residual swelling may persist. The mean maxillary advancement was 6.16 mm in the cLFI group and 6.37 mm in the SSLFI group. NLA tended to decrease in the cLFI group and increase in the SSLFI group, with the most pronounced differences observed when advancement exceeded 5 mm. Sex had no effect on NLA change. These findings underscore the importance of careful surgical planning and patient counseling, while recognizing that soft tissue adaptations may continue beyond the early postoperative period.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41198463/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41177719",
+      "title": "Identifying the optimal mandibular midsagittal plane for systematic asymmetry correction: application in virtual surgery planning.",
+      "authors": [
+        "D Kim",
+        "H-K Noh"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "The plane-matching method is a bone-reference virtual surgery protocol determining bone position by matching the local midsagittal plane (MSP) with the global MSP. Using an optimized mandibular MSP may ensure the optimal surgery planning, but is limited by its complex optimization process. A simpler yet clinically viable alternative would enhance its utility. The aim of this retrospective cross-sectional study was to identify the optimal pretreatment skeletal Class III patients were included. A total of 727 landmarks were digitized on the distal segment of the mandible. The root mean square (RMS) distances between the original and mirrored landmarks across six candidate mandibular MSPs (one optimized and five cephalometric) were compared in symmetric and asymmetric groups. The results revealed no significant interaction between facial asymmetry and the MSPs (P = 0.39). The asymmetric group had a significantly larger RMS distance than the symmetric group (2.5 ± 1.7 mm vs 1.7 ± 1.5 mm; P < 0.001). Among the cephalometric MSPs, Go.Go.Me_Me.midGo, MF.MF.PM_Me.bisectMF, and B.Me.midGo had the lowest RMS distances and were statistically equivalent (P = 1.0). In conclusion, these three cephalometric MSPs are viable alternatives to the optimized MSP. With proper selection guidelines, the plane-matching method utilizing these cephalometric MSPs may enhance the diagnostic benefits of bone-referenced virtual surgery planning.",
+      "objective": "of this retrospective cross-sectional study was to identify the optimal pretreatment skeletal Class III patients were included. A total of 727 landmarks were digitized on the distal segment of the mandible. The root mean square (RMS) distances between the original and mirrored landmarks across six candidate mandibular MSPs (one optimized and five cephalometric) were compared in symmetric and asymmetric groups. The",
+      "study_methods": "",
+      "methods": "",
+      "results": "revealed no significant interaction between facial asymmetry and the MSPs (P = 0.39). The asymmetric group had a significantly larger RMS distance than the symmetric group (2.5 ± 1.7 mm vs 1.7 ± 1.5 mm; P < 0.001). Among the cephalometric MSPs, Go.Go.Me_Me.midGo, MF.MF.PM_Me.bisectMF, and B.Me.midGo had the lowest RMS distances and were statistically equivalent (P = 1.0). In",
+      "conclusion": ", these three cephalometric MSPs are viable alternatives to the optimized MSP. With proper selection guidelines, the plane-matching method utilizing these cephalometric MSPs may enhance the diagnostic benefits of bone-referenced virtual surgery planning.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41177719/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42106709",
+      "title": "Effect of concentrated growth factors on early soft tissue healing and postoperative recovery after mesioangular impacted lower third-molar extraction: a randomised split-mouth clinical trial.",
+      "authors": [
+        "Moatasem Alshtawi",
+        "Gamil Al-Madhagy",
+        "Khaldoun Darwich"
+      ],
+      "publication_date": "2026-May-09",
+      "publication_date_iso": "2026-05-09",
+      "abstract": "The purpose of this randomised, split-mouth clinical trial study is to investigate the effect of concentrated growth factors (CGF) on the healing of soft tissues and postoperative sequelae following the extraction of mesioangular impacted lower third molars in a split-mouth design. Twenty-five patients, systematically healthy, aged between 18 and 35, were subjected to bilateral lower third molar extraction (Class II, division B) at the oral surgery clinics in Damascus University, Syria, from October 2023 to July 2025. CGF was applied to one extraction site (test), and the opposite side served as a control (no treatment). Randomization was achieved through sealed envelopes, and the patients, outcome assessor, and data analyst were blinded. The main outcome was soft tissue healing, which was assessed by the Landry healing score at the 7th postoperative day. Secondary outcomes investigated were pain, which was assessed by the Visual Analog Scale throughout the 7th postoperative days, facial swelling, evaluated by the tape method at baseline, day 3, and day 7, and trismus by measuring the inter-incisal distance at baseline, third, and seventh postoperative days. Bonferroni correction was applied for repeated postoperative comparisons. At postoperative day 7, the CGF-treated sides exhibited superior healing compared with control sides (p = 0.008). Lower pain scores were observed in the test group during the first four postoperative days (unadjusted p < 0.05); however, these differences did not remain statistically significant after Bonferroni correction. (p > 0.05). Facial swelling was significantly lower in the CGF group on day 3 (p = 0.011) but not at day 7 (p = 0.247). No significant differences were found for trismus at any time-point (p = 0.260 & 0.615). The application of CGF to extraction sockets following surgical removal of mesioangular impacted mandibular third molars was associated with improved early soft tissue healing and reduced facial swelling at day 3. Although lower early postoperative pain scores were observed, these differences did not persist after multiplicity adjustment. No significant effects were observed for trismus or at later time points. CGF may represent a promising adjunctive local approach to support early postoperative recovery, particularly for enhancing soft tissue healing. Further research with larger samples and extended follow-up is recommended. Thailand Clinical Trial Registry (TCTR). Registration number (ID: TCTR20251102008). Registered on 02/11/2025 (retrospective registration). URL: (https://www.thaiclinicaltrials.org/show/TCTR20251102008).",
+      "objective": "of this randomised, split-mouth clinical trial study is to investigate the effect of concentrated growth factors (CGF) on the healing of soft tissues and postoperative sequelae following the extraction of mesioangular impacted lower third molars in a split-mouth design. Twenty-five patients, systematically healthy, aged between 18 and 35, were subjected to bilateral lower third molar extraction (Class II, division B) at the oral surgery clinics in Damascus University, Syria, from October 2023 to July 2025. CGF was applied to one extraction site (test), and the opposite side served as a control (no treatment). Randomization was achieved through sealed envelopes, and the patients, outcome assessor, and data analyst were blinded. The main outcome was soft tissue healing, which was assessed by the Landry healing score at the 7th postoperative day. Secondary outcomes investigated were pain, which was assessed by the Visual Analog Scale throughout the 7th postoperative days, facial swelling, evaluated by the tape",
+      "study_methods": "Twenty-five patients, systematically healthy, aged between 18 and 35, were subjected to bilateral lower third molar extraction (Class II, division B) at the oral surgery clinics in Damascus University, Syria, from October 2023 to July 2025. CGF was applied to one extraction site (test), and the opposite side served as a control (no treatment). Randomization was achieved through sealed envelopes, and the patients, outcome assessor, and data analyst were blinded. The main outcome was soft tissue healing, which was assessed by the Landry healing score at the 7th postoperative day. Secondary outcomes investigated were pain, which was assessed by the Visual Analog Scale throughout the 7th postoperative days, facial swelling, evaluated by the tape method at baseline, day 3, and day 7, and trismus by measuring the inter-incisal distance at baseline, third, and seventh postoperative days. Bonferroni correction was applied for repeated postoperative comparisons.",
+      "methods": "Twenty-five patients, systematically healthy, aged between 18 and 35, were subjected to bilateral lower third molar extraction (Class II, division B) at the oral surgery clinics in Damascus University, Syria, from October 2023 to July 2025. CGF was applied to one extraction site (test), and the opposite side served as a control (no treatment). Randomization was achieved through sealed envelopes, and the patients, outcome assessor, and data analyst were blinded. The main outcome was soft tissue healing, which was assessed by the Landry healing score at the 7th postoperative day. Secondary outcomes investigated were pain, which was assessed by the Visual Analog Scale throughout the 7th postoperative days, facial swelling, evaluated by the tape method at baseline, day 3, and day 7, and trismus by measuring the inter-incisal distance at baseline, third, and seventh postoperative days. Bonferroni correction was applied for repeated postoperative comparisons.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42106709/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42107885",
+      "title": "MRI-Histopathological Correlation Analysis of Tumor Infiltration in Squamous Cell Carcinomas of the Floor of the Mouth.",
+      "authors": [
+        "Deroussen Lauren",
+        "Pellat Andréanne",
+        "Lenfant Marc",
+        "Issad Mehdi",
+        "Zwetyenga Narcisse"
+      ],
+      "publication_date": "2026-May-08",
+      "publication_date_iso": "2026-05-08",
+      "abstract": "To retrospectively analyze the existence of a correlation between MRI findings and histopathological data on tumor infiltration in squamous cell carcinomas of the floor of the mouth. A retrospective study from January 1, 2015 to January 31, 2023 including Dijon University Hospital patients who were diagnosed with squamous cell carcinoma of the floor of the mouth and underwent surgical management and histopathological examination. The correlation between MRI and histopathological measurements was assessed using Spearman's rank correlation test, with a p-value ≤ 0.05 considered statistically significant. Twenty patients were included, 15 were male (75%), with a mean age of 66 years. All patients had exposure to major risk factors such as tobacco and/or alcohol consumption. The eighth edition of the TNM classification was used. A significant correlation was found between MRI and histological measurements (p=0.0005). This correlation remained significant for patients with a treatment delay of four weeks or less (p=0.0310), but was not significant for delays greater than four weeks (p=0.0830). There is significant MRI-histopathological correlation with tumor infiltration in squamous cell carcinomas of the floor of the mouth, underlining the importance of prompt care to maximize the reliability of imaging assessments and optimize therapeutic decisions.",
+      "objective": "",
+      "study_methods": "A retrospective study from January 1, 2015 to January 31, 2023 including Dijon University Hospital patients who were diagnosed with squamous cell carcinoma of the floor of the mouth and underwent surgical management and histopathological examination. The correlation between MRI and histopathological measurements was assessed using Spearman's rank correlation test, with a p-value ≤ 0.05 considered statistically significant.",
+      "methods": "A retrospective study from January 1, 2015 to January 31, 2023 including Dijon University Hospital patients who were diagnosed with squamous cell carcinoma of the floor of the mouth and underwent surgical management and histopathological examination. The correlation between MRI and histopathological measurements was assessed using Spearman's rank correlation test, with a p-value ≤ 0.05 considered statistically significant.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42107885/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42106250",
+      "title": "In reply to the comment on \"Mixed reality-assisted orthognathic surgery with pre-bent titanium plates\".",
+      "authors": [
+        "L Huang",
+        "H Li",
+        "V Yau",
+        "E Luo"
+      ],
+      "publication_date": "2026-May-08",
+      "publication_date_iso": "2026-05-08",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42106250/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42106248",
+      "title": "Comment on: \"Mixed reality-assisted orthognathic surgery with pre-bent titanium plates\".",
+      "authors": [
+        "R Grillo"
+      ],
+      "publication_date": "2026-May-08",
+      "publication_date_iso": "2026-05-08",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42106248/",
       "pmcid": "",
       "figure_urls": []
     },
