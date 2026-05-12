@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T06:03:59Z",
+  "updated_at": "2026-05-12T05:44:35Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -33,12 +33,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
       "pmcid": "PMC12943813",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42005095",
@@ -70,9 +65,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005095/",
       "pmcid": "PMC13087713",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087713/bin/gr1.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41858234",
@@ -114,12 +107,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41858234/",
       "pmcid": "PMC13007456",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_PB.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_PB.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41582805",
@@ -146,12 +134,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41582805/",
       "pmcid": "PMC12851390",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41563872",
@@ -174,12 +157,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41563872/",
       "pmcid": "PMC12825576",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41431197",
@@ -203,11 +181,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41431197/",
       "pmcid": "PMC12777812",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0002_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0003_C.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41379645",
@@ -238,12 +212,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41379645/",
       "pmcid": "PMC12773631",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_PB.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_PB.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41895021",
@@ -276,6 +245,30 @@
       "figure_urls": []
     },
     {
+      "pmid": "42111417",
+      "title": "Impact of infrapopliteal artery variants and peripheral artery disease on fibula free flap planning.",
+      "authors": [
+        "Jiaxin Yuan",
+        "Michael G Snow",
+        "Kevin C Lee"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "The fibula free flap (FFF) is a mainstay of head and neck reconstruction, however its safety depends on adequate lower-extremity perfusion. We present three patients evaluated for FFF reconstruction in whom preoperative computed tomography angiography identified infrapopliteal arterial variants or peripheral artery disease. In the first patient, congenital absence of the posterior tibial artery raised concern for inadequate collateral perfusion and a diagnostic angiogram was considered, but reconstruction was ultimately deferred given progression of her metastatic disease. The second patient had a peronea arteria magna variant which precluded fibula harvest from the right leg, and reconstruction was successfully performed using the contralateral fibula with normal three vessel runoff. In the third patient, severe bilateral posterior tibial artery occlusion increased the risk of postoperative ischemia. To confirm adequate perfusion, a diagnostic angiography and intraoperative peroneal artery clamping were completed which confirmed adequate collateral perfusion and allowed safe fibula harvest. Both patients in cases two and three successfully underwent FFF reconstruction without lower-extremity ischemic complications. These cases highlight the importance of preoperative vascular imaging in guiding safe surgical planning.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42111417/",
+      "pmcid": "PMC13156564",
+      "figure_urls": []
+    },
+    {
       "pmid": "41909511",
       "title": "Three-dimensional niche-like porous structure locoregionally regulating macrophage immunosenescence rejuvenates aged bone repair.",
       "authors": [
@@ -305,12 +298,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41909511/",
       "pmcid": "PMC13022701",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/sc1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41909504",
@@ -349,12 +337,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41909504/",
       "pmcid": "PMC13019078",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/gr1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41810018",
@@ -391,12 +374,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41810018/",
       "pmcid": "PMC12969335",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/sc1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41740295",
@@ -537,12 +515,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005717/",
       "pmcid": "PMC13091407",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42001840",
@@ -686,9 +659,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41847346/",
       "pmcid": "PMC12989833",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12989833/bin/gr1.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41809095",
@@ -726,12 +697,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41809095/",
       "pmcid": "PMC12969315",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/gr1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41802456",
@@ -912,6 +878,33 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41691797/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42114937",
+      "title": "EFFECT OF AROMATHERAPY AND MUSIC THERAPY ON PATIENTS ANXIETY, PAIN AND PHYSIOLOGIC PARAMETERS DURING EXTRACTION OF INCLUDED THIRD MOLARS: A RANDOMIZED CONTROLLED TRIAL.",
+      "authors": [
+        "Antonio Francisco Ferrández Martínez",
+        "Ana Rocío García Carricondo",
+        "Javier Trenchs Soto",
+        "Raúl Romero Del Rey",
+        "Fernando Espín Gálvez",
+        "Raquel Alarcón Rodríguez"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "This study evaluated the anxiolytic and analgesic effects of aromatherapy and music therapy in patients undergoing mandibular third molar extraction. A three-arm randomized clinical trial was conducted with 279 patients, divided into an aromatherapy group (93), a music therapy group (93), and a control group (93). Interventions took place during surgery. Anxiety was measured using the State-Trait Anxiety Inventory, and pain with a visual analog scale. Physiological parameters, including heart rate, oxygen saturation, and systolic/diastolic blood pressure (SBP and DBP), were recorded. The aromatherapy and music therapy groups demonstrated a significantly greater reduction in total, state, and trait anxiety compared to controls (reduction in total anxiety in the aromatherapy group: 3.11; 95% CI, 2.83-5.45; Rosenthal r, 0.28; P = .006; reduction in total anxiety in the music group: 6.01; 95% CI, 3.69-8.30; Rosenthal r, 0.52; P < .001; reduction in total anxiety in the control group: 1.47; 95% CI, 0.39-4.54; Rosenthal r, 0.21; P = .06). The intervention groups also showed reduced heart rate, SBP, and DBP (P < .05), and increased saturation (P < .05). Postoperative pain was significantly lower in these groups compared to controls (P < .05). Aromatherapy and music therapy appear to be promising nonpharmacological strategies for reducing perioperative anxiety and pain during mandibular third molar extractions. Music therapy produced a greater reduction in anxiety levels, while aromatherapy showed a more pronounced effect on physiological parameters. Both interventions were associated with lower postoperative pain.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42114937/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1255,12 +1248,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41962510/",
       "pmcid": "PMC13091443",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091443/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091443/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091443/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091443/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41955959",
@@ -1285,9 +1273,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41955959/",
       "pmcid": "PMC13091431",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091431/bin/gr1.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41950661",
@@ -1383,17 +1369,11 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery",
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41938139/",
       "pmcid": "PMC13049611",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049611/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049611/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049611/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049611/bin/sc1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41934826",
@@ -1417,7 +1397,6 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery",
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41934826/",
@@ -1450,12 +1429,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41932098/",
       "pmcid": "PMC13085069",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13085069/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13085069/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13085069/bin/gr3.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13085069/bin/gr4.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41932097",
@@ -1481,12 +1455,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41932097/",
       "pmcid": "PMC13084668",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13084668/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13084668/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13084668/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13084668/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41904886",
@@ -1514,10 +1483,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41904886/",
       "pmcid": "PMC13058978",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13058978/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13058978/bin/gr2.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41895029",
@@ -1569,12 +1535,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41861582/",
       "pmcid": "PMC13018947",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018947/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018947/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018947/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018947/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41861577",
@@ -1598,11 +1559,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41861577/",
       "pmcid": "PMC13018927",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr3.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41853327",
@@ -1633,10 +1590,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41853327/",
       "pmcid": "PMC12992975",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12992975/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12992975/bin/gr1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41806541",
@@ -1694,12 +1648,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41775013/",
       "pmcid": "PMC12969292",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41773293",
@@ -1729,12 +1678,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41773293/",
       "pmcid": "PMC12994450",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41759452",
@@ -2077,6 +2021,116 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41177719/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42115030",
+      "title": "Stability of orthognathic surgery and condylar resorption in mild craniofacial microsomia compared to non-syndromic Class II asymmetry.",
+      "authors": [
+        "Y-F Chen",
+        "F Baan",
+        "S Bergé",
+        "Y-F Liao",
+        "T Maal",
+        "T Xi"
+      ],
+      "publication_date": "2026-May-11",
+      "publication_date_iso": "2026-05-11",
+      "abstract": "This study was performed to compare skeletal stability and condylar resorption after bimaxillary surgery between adults with mild craniofacial microsomia (CFM) and those with non-syndromic skeletal Class II asymmetry. Cone-beam computed tomography images of two groups were analysed: CFM group (n = 20), Class II group (n = 20). Voxel- and landmark-based methods were used to quantify the translation and rotation of osteotomy segments during surgery and at follow-up. Changes in condylar volume were measured at follow-up. Compared to the Class II group, the surgical movements were significantly larger in the CFM group for several parameters (P < 0.05). The maxilla demonstrated similarly good stability in the CFM group as in the Class II group, except at A-point (P = 0.024). Similarly good stability in mandibular projection was also observed in the CFM group. Regarding symmetry, less stability was found on the non-affected side of the mandibular body in the CFM group (sagittal, P = 0.038; vertical, P = 0.018) and in the anterior mandible in the Class II group (P = 0.56; clinically relevant). The CFM group showed significantly less condylar resorption on the affected side (P = 0.042). In conclusion, the stability of mild CFM was clinically good and not inferior to that of non-CFM Class II asymmetry, despite the greater surgical movements in CFM. Moreover, the hypoplastic condyles in CFM were not vulnerable to resorption.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": ", the stability of mild CFM was clinically good and not inferior to that of non-CFM Class II asymmetry, despite the greater surgical movements in CFM. Moreover, the hypoplastic condyles in CFM were not vulnerable to resorption.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42115030/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42113008",
+      "title": "Comparative Outcomes of Fronto-Orbital Advancement and Strip Craniectomy in the Management of Metopic Craniosynostosis.",
+      "authors": [
+        "Jason Sivieng",
+        "Damian Marucci",
+        "Michael Rtshiladze",
+        "Urska Cebron",
+        "Tanya Low",
+        "Roseanna Nakhla",
+        "Gemma Olsson",
+        "Ruth Mitchell",
+        "Raj Reddy",
+        "Christopher Huang",
+        "Erica Jacobson",
+        "Jeffrey R Marcus",
+        "Christopher R Forrest"
+      ],
+      "publication_date": "2026-May-11",
+      "publication_date_iso": "2026-05-11",
+      "abstract": "Metopic craniosynostosis results in characteristic trigonocephaly and may impair cranial growth. Surgical correction is traditionally performed using fronto-orbital advancement (FOAR), while strip craniectomy with postoperative helmet therapy (SC) has emerged as a minimally invasive alternative. This study compares perioperative outcomes and postoperative cranial shape between FOAR and SC. A retrospective cohort study was conducted at a tertiary pediatric craniofacial unit. Patients with isolated metopic craniosynostosis treated with FOAR or SC between 2015 and 2024 were included. Primary outcomes were operative time, blood transfusion volume, hospital stay, and complication rates. Postoperative cranial morphology was assessed using two-dimensional photograph-derived craniometrics, including the anterior arc angle (AAA). Thirty-six patients were included (FOAR n=18, SC n=18). SC was associated with significantly shorter operative time (83.8±29.2 versus 177.6±31.6 min), shorter hospital stay (1.28±0.46 versus 4.22±0.55 d), and lower transfusion volume (10.1±10.9 versus 33.0±13.8 mL/kg) (all P<0.0001). Total complication rates were 11 percent for SC and 27.8 percent for FOAR. Among patients with available images (n=20), both cohorts showed significant postoperative AAA improvement, without a statistically significant difference between groups. Strip craniectomy with helmet therapy is a safe and effective alternative to FOAR for appropriately selected infants, offering reduced perioperative morbidity and cost while achieving significant short-term improvement in frontal cranial morphology.",
+      "objective": "",
+      "study_methods": "A retrospective cohort study was conducted at a tertiary pediatric craniofacial unit. Patients with isolated metopic craniosynostosis treated with FOAR or SC between 2015 and 2024 were included. Primary outcomes were operative time, blood transfusion volume, hospital stay, and complication rates. Postoperative cranial morphology was assessed using two-dimensional photograph-derived craniometrics, including the anterior arc angle (AAA).",
+      "methods": "A retrospective cohort study was conducted at a tertiary pediatric craniofacial unit. Patients with isolated metopic craniosynostosis treated with FOAR or SC between 2015 and 2024 were included. Primary outcomes were operative time, blood transfusion volume, hospital stay, and complication rates. Postoperative cranial morphology was assessed using two-dimensional photograph-derived craniometrics, including the anterior arc angle (AAA).",
+      "results": "in characteristic trigonocephaly and may impair cranial growth. Surgical correction is traditionally performed using fronto-orbital advancement (FOAR), while strip craniectomy with postoperative helmet therapy (SC) has emerged as a minimally invasive alternative. This study compares perioperative outcomes and postoperative cranial shape between FOAR and SC. A retrospective cohort study was conducted at a tertiary pediatric craniofacial unit. Patients with isolated metopic craniosynostosis treated with FOAR or SC between 2015 and 2024 were included. Primary outcomes were operative time, blood transfusion volume, hospital stay, and complication rates. Postoperative cranial morphology was assessed using two-dimensional photograph-derived craniometrics, including the anterior arc angle (AAA). Thirty-six patients were included (FOAR n=18, SC n=18). SC was associated with significantly shorter operative time (83.8±29.2 versus 177.6±31.6 min), shorter hospital stay (1.28±0.46 versus 4.22±0.55 d), and lower transfusion volume (10.1±10.9 versus 33.0±13.8 mL/kg) (all P<0.0001). Total complication rates were 11 percent for SC and 27.8 percent for FOAR. Among patients with available images (n=20), both cohorts showed significant postoperative AAA improvement, without a statistically significant difference between groups. Strip craniectomy with helmet therapy is a safe and effective alternative to FOAR for appropriately selected infants, offering reduced perioperative morbidity and cost while achieving significant short-term improvement in frontal cranial morphology.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42113008/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42112986",
+      "title": "The Relationship Between Mandibular Movement and Condylar Resorption in Mandibular Advancement Surgery.",
+      "authors": [
+        "Mehmet C Nergizoğullari",
+        "Ahmet F Yücel",
+        "Şahin Bariş",
+        "Erol Kozanoğlu"
+      ],
+      "publication_date": "2026-May-11",
+      "publication_date_iso": "2026-05-11",
+      "abstract": "It is acknowledged that the degree of mandibular advancement exerts an influence on condyle resorption; however, there remains a paucity of data concerning the extent of resorption when the mandible is advanced. The objective of the present study was to investigate the change in condyle volume after mandibular advancement and to determine the amount of advancement causing resorption, if indeed such a phenomenon occurs. In a retrospective study of cases involving mandibular advancement or double jaw advancement, with preoperative and postoperative CBCT images of adequate quality available in our hospital archive, condyle volumes were calculated by surface-based registration, semiautomated segmentation, and 3D modeling using ITK-SNAP software. The study was performed on 16 patients (32 condyles). Of the cases, 10 (62.5%) were classified as double jaw advancement, while 6 (37.5%) were classified as mandibular advancement. The mean advancement measurement was 5.6±1.4 mm on the right side and 5.8±0.9 mm on the left side. The condyle volume loss was found to be significant (P=0.01). A significant increase in resorption was observed when the advancement was 6 mm or more (P<0.05). In orthognathic surgery for class II malocclusion, condylar volume reduction has been found to be correlated with the amount of mandibular movement. It has been demonstrated that resorption increases significantly when the amount of advancement is 6 mm or more.",
+      "objective": "of the present study was to investigate the change in condyle volume after mandibular advancement and to determine the amount of advancement causing resorption, if indeed such a phenomenon occurs. In a retrospective study of cases involving mandibular advancement or double jaw advancement, with preoperative and postoperative CBCT images of adequate quality available in our hospital archive, condyle volumes were calculated by surface-based registration, semiautomated segmentation, and 3D modeling using ITK-SNAP software. The study was performed on 16 patients (32 condyles). Of the cases, 10 (62.5%) were classified as double jaw advancement, while 6 (37.5%) were classified as mandibular advancement. The mean advancement measurement was 5.6±1.4 mm on the right side and 5.8±0.9 mm on the left side. The condyle volume loss was found to be significant (P=0.01). A significant increase in resorption was observed when the advancement was 6 mm or more (P<0.05). In orthognathic surgery for class II malocclusion, condylar volume reduction has been found to be correlated with the amount of mandibular movement. It has been demonstrated that resorption increases significantly when the amount of advancement is 6 mm or more.",
+      "study_methods": "In a retrospective study of cases involving mandibular advancement or double jaw advancement, with preoperative and postoperative CBCT images of adequate quality available in our hospital archive, condyle volumes were calculated by surface-based registration, semiautomated segmentation, and 3D modeling using ITK-SNAP software.",
+      "methods": "In a retrospective study of cases involving mandibular advancement or double jaw advancement, with preoperative and postoperative CBCT images of adequate quality available in our hospital archive, condyle volumes were calculated by surface-based registration, semiautomated segmentation, and 3D modeling using ITK-SNAP software.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42112986/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42112677",
+      "title": "Masseter and Pterygoid Muscle Hypertrophy in a Cat.",
+      "authors": [
+        "Jennifer B Alterman",
+        "Cynthia M Bell",
+        "Erin E Epperly"
+      ],
+      "publication_date": "2026-May-11",
+      "publication_date_iso": "2026-05-11",
+      "abstract": "A 6-year-old neutered male feline patient was presented with left sided facial swelling. A diagnosis of benign hypertrophy of the masseter and pterygoid muscles was made based on clinical, imaging, and histopathologic findings. Benign hypertrophy of masticatory muscles is an uncommon condition described in the human literature. Masseter muscle hypertrophy has been diagnosed rarely in humans with few references reporting concurrent hypertrophy of the medial and lateral pterygoid muscles. The primary inciting cause of this condition is unknown. Treatment in humans is primarily sought for cosmetic reasons with multiple treatment modalities being described including medical and surgical management. This article describes the first reported case of benign masseter and pterygoid muscle hypertrophy in the veterinary literature.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42112677/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2627,110 +2681,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42084259/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42094944",
-      "title": "The Use of Artificial Intelligence in Cleft Care: A Scoping Review.",
-      "authors": [
-        "Brooke Streeter",
-        "Michael Bezuhly"
-      ],
-      "publication_date": "2026-May-04",
-      "publication_date_iso": "2026-05-04",
-      "abstract": "Introduction: Artificial intelligence (AI) is increasingly being used to support the diagnosis and treatment of medical and surgical conditions. This scoping review examined AI applications in cleft lip and palate care, focusing on diagnosis/detection, surgical planning, and patient education. Methods: PubMed, Embase, and Scopus databases were searched. Results were uploaded to the Covidence systematic review software. Studies were included in the analysis if they described the use of AI in the context of cleft lip and palate diagnosis and detection, surgical planning, or patient education. Results: A total of 17 papers were identified. The use of AI in the context of cleft lip and palate surgery was recorded and collated. AI was found to enhance diagnostic accuracy and speed through deep learning-based image classification and cephalometric landmark detection, particularly using convolutional neural networks. In surgical planning, AI models enabled automated presurgical plate design, severity grading, and postoperative outcome evaluation following orthognathic surgery. For patient education, large language models like ChatGPT show promise in improving the readability and clarity of materials, although challenges remain in maintaining medical accuracy and ensuring actionability. Conclusion: While AI applications in cleft lip and palate care are promising across diagnostic, surgical, and educational domains, translation into routine clinical practice is hindered by limited validation, small homogeneous datasets, and inconsistent methodologies. Future research should focus on clinical integration, standardized evaluation, equity, and interdisciplinary collaboration to optimize the potential of AI in cleft lip and palate care.",
-      "objective": "",
-      "study_methods": "Methods: PubMed, Embase, and Scopus databases were searched. Results were uploaded to the Covidence systematic review software. Studies were included in the analysis if they described the use of AI in the context of cleft lip and palate diagnosis and detection, surgical planning, or patient education.",
-      "methods": "Methods: PubMed, Embase, and Scopus databases were searched. Results were uploaded to the Covidence systematic review software. Studies were included in the analysis if they described the use of AI in the context of cleft lip and palate diagnosis and detection, surgical planning, or patient education.",
-      "results": "were uploaded to the Covidence systematic review software. Studies were included in the analysis if they described the use of AI in the context of cleft lip and palate diagnosis and detection, surgical planning, or patient education. Results: A total of 17 papers were identified. The use of AI in the context of cleft lip and palate surgery was recorded and collated. AI was found to enhance diagnostic accuracy and speed through deep learning-based image classification and cephalometric landmark detection, particularly using convolutional neural networks. In surgical planning, AI models enabled automated presurgical plate design, severity grading, and postoperative outcome evaluation following orthognathic surgery. For patient education, large language models like ChatGPT show promise in improving the readability and clarity of materials, although challenges remain in maintaining medical accuracy and ensuring actionability.",
-      "conclusion": "While AI applications in cleft lip and palate care are promising across diagnostic, surgical, and educational domains, translation into routine clinical practice is hindered by limited validation, small homogeneous datasets, and inconsistent methodologies. Future research should focus on clinical integration, standardized evaluation, equity, and interdisciplinary collaboration to optimize the potential of AI in cleft lip and palate care.",
-      "limitations": "",
-      "topics": [
-        "cleft lip and palate surgery",
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42094944/",
-      "pmcid": "PMC13139309",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42082741",
-      "title": "Central hypothyroidism as a rare sequela of traumatic carotid cavernous fistula in a pediatric patient.",
-      "authors": [
-        "Domenico Napoletano",
-        "Aaron Higginbotham",
-        "Austin Reed",
-        "Gabriel LeBeau",
-        "Cody Heskett",
-        "Jeremy Peterson"
-      ],
-      "publication_date": "2026-May-04",
-      "publication_date_iso": "2026-05-04",
-      "abstract": "Direct carotid-cavernous fistulas (CCFs) are rare, high-flow shunts between the cavernous internal carotid artery and cavernous sinus, classified as Barrow Type A lesions. They commonly cause orbital venous congestion and cranial neuropathies, whereas endocrine dysfunction is exceedingly uncommon. We present the first case of a traumatic CCF in a pediatric patient complicated by transient central hypothyroidism, exploring whether severe venous congestion can impair hypothalamic-pituitary perfusion and emphasizing the importance of early vascular imaging and hormonal monitoring. Retrospective review of a 4-year-old female presenting with progressive proptosis, chemosis, elevated intraocular pressure, and central hypothyroidism after facial trauma. Initially treated for concussion, the patient developed persistent ocular pain and swelling during a 7-day admission. Delayed CTA demonstrated a direct right ICA-cavernous sinus fistula with bilateral superior ophthalmic vein engorgement and cortical venous reflux. Digital subtraction angiography confirmed a high-flow Barrow Type A CCF caused by cavernous ICA dissection and pseudoaneurysm rupture. Low TSH was observed. Initial transarterial coil embolization reduced shunting but left residual filling. Follow-up angiography showed improved ICA flow and resolution of cortical reflux, though persistent drainage remained. Due to ongoing symptoms, combined transvenous and transarterial embolization achieved near-complete occlusion while preserving carotid patency. At follow-up, complete interval thrombosis was observed with stable ICA, healing pseudoaneurysms, normalized venous drainage, and no recurrent shunting; hypothyroidism resolved at follow-up. Early vascular imaging is essential after craniofacial trauma with persistent orbital findings. Multimodal endovascular therapy can restore cavernous circulation and endocrine function while maintaining carotid integrity.",
-      "objective": "",
-      "study_methods": "Retrospective review of a 4-year-old female presenting with progressive proptosis, chemosis, elevated intraocular pressure, and central hypothyroidism after facial trauma.",
-      "methods": "Retrospective review of a 4-year-old female presenting with progressive proptosis, chemosis, elevated intraocular pressure, and central hypothyroidism after facial trauma.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42082741/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42081365",
-      "title": "Clinical Application of Moist Wound Healing Technique in the Repair of Facial Traumatic Wounds.",
-      "authors": [
-        "Wei Ran",
-        "HongYu Chi",
-        "Aliya Abudoula",
-        "Xianglin Dong"
-      ],
-      "publication_date": "2026-May-04",
-      "publication_date_iso": "2026-05-04",
-      "abstract": "To investigate the clinical efficacy of moist wound healing technique in the repair of facial traumatic wounds, and to evaluate its impact on the wound healing process, incidence of complications, as well as long-term scar formation and pigmentation, so as to provide clinical evidence for standardized wound care of facial traumatic injuries. A total of 60 patients with facial trauma admitted to our hospital from January 2024 to March 2025 were retrospectively enrolled as study subjects. They were divided into the observation group (moist wound healing group, n=30) and the control group (conventional dry wound healing group, n=30) according to the wound management protocol. The control group received conventional wound care with povidone-iodine disinfection combined with dry dressing, while the observation group was treated with a standardized wound care regimen based on the concept of moist wound healing. The wound healing time, epithelial migration rate, incidence of complications, as well as the occurrence of scar hyperplasia, pigmentation, and wound hyperemia after surgery were compared between the 2 groups. The wound healing time of the observation group was significantly shorter than that of the control group, and the epithelial migration rate of the wound at 3 days after surgery was significantly faster than that of the control group, with statistically significant differences (P<0.001). The total incidence of complications, including wound infection, delayed healing, subscab pus accumulation, and wound dehiscence after suture removal, was 10.00% in the observation group, which was significantly lower than 33.33% in the control group (P<0.05). During the postoperative follow-up of 6 to 12 months (mean: 10 mo), the Vancouver Scar Scale (VSS) scores of the observation group were significantly lower than those of the control group, and the incidence rates of hyperpigmentation and wound hyperemia were lower than those of the control group. The application of moist wound healing technique in facial trauma repair can effectively accelerate the re-epithelialization process of wounds, reduce the risk of wound complications, significantly diminish long-term scar hyperplasia, and reduce the incidence of postoperative hyperpigmentation and wound hyperemia, thus improving the facial aesthetic prognosis of patients. It is a safe, effective, and cost-effective regimen for facial trauma repair, which is worthy of widespread clinical promotion.",
-      "objective": "",
-      "study_methods": "A total of 60 patients with facial trauma admitted to our hospital from January 2024 to March 2025 were retrospectively enrolled as study subjects. They were divided into the observation group (moist wound healing group, n=30) and the control group (conventional dry wound healing group, n=30) according to the wound management protocol. The control group received conventional wound care with povidone-iodine disinfection combined with dry dressing, while the observation group was treated with a standardized wound care regimen based on the concept of moist wound healing. The wound healing time, epithelial migration rate, incidence of complications, as well as the occurrence of scar hyperplasia, pigmentation, and wound hyperemia after surgery were compared between the 2 groups.",
-      "methods": "A total of 60 patients with facial trauma admitted to our hospital from January 2024 to March 2025 were retrospectively enrolled as study subjects. They were divided into the observation group (moist wound healing group, n=30) and the control group (conventional dry wound healing group, n=30) according to the wound management protocol. The control group received conventional wound care with povidone-iodine disinfection combined with dry dressing, while the observation group was treated with a standardized wound care regimen based on the concept of moist wound healing. The wound healing time, epithelial migration rate, incidence of complications, as well as the occurrence of scar hyperplasia, pigmentation, and wound hyperemia after surgery were compared between the 2 groups.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42081365/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42080994",
-      "title": "Identification of",
-      "authors": [
-        "Yue You",
-        "Yan-Song Lin",
-        "Si-Xuan Jia",
-        "Si-Di Zhang",
-        "Jia-Lin Sun",
-        "Bing Shi",
-        "Zhong-Lin Jia"
-      ],
-      "publication_date": "2026-May-04",
-      "publication_date_iso": "2026-05-04",
-      "abstract": "ObjectiveGenome-wide association studies have identified over 80 loci associated with nonsyndromic orofacial cleft (NSOC), yet substantial heritability remains unexplained. Insights from syndromic orofacial cleft (SOC) implicated genes could help bridge this gap.DesignA case-control association study in a Han Chinese cohort was conducted to evaluate the association between SOC-implicated genes and NSOC subtypes using association, linkage disequilibrium (LD), and haplotype analyses.SettingTertiary medical center.Patients, ParticipantsThe study included 1626 cases of non-syndromic cleft lip with or without cleft palate, 930 cases of non-syndromic cleft palate only, and 2255 controls.InterventionsPeripheral blood (cases) and umbilical cord blood (controls) were collected for DNA extraction.Main Outcome MeasuresAllelic (Pearson' s χ2, 1 df) and genotypic (Pearson' s χ2, 2 df) associations between SNPs and NSOC subtypes were evaluated, with odds ratios (ORs) and 95% confidence intervals (CIs). LD and sliding-window haplotype association analyses were performed in Haploview. SNPs with minor allele frequency (MAF) >0.05 and in Hardy-Weinberg equilibrium in controls were analyzed. The significance threshold was P < 1.27 × 10-5 after Bonferroni correction.ResultsAllelic analysis identified 23 SNPs that were significantly associated with NSOC subtypes (lowest P = 2.02 × 10-22). Genotypic analysis identified 39 significant SNPs (lowest P = 1.09 × 10-36). Signals mapped to 7 genes. Haplotype analyses revealed a shared causal variant block at MYMK and TWIST2, and allelic heterogeneity at NEDD4L.ConclusionsWe identified MYMK, TWIST2, and NEDD4L as NSOC-associated genes. Using SOC genes as prior knowledge reveals loci missed by standard GWAS, offering key insights into NSOC pathogenesis.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Allelic analysis identified 23 SNPs that were significantly associated with NSOC subtypes (lowest P = 2.02 × 10-22). Genotypic analysis identified 39 significant SNPs (lowest P = 1.09 × 10-36). Signals mapped to 7 genes. Haplotype analyses revealed a shared causal variant block at MYMK and TWIST2, and allelic heterogeneity at NEDD4L.ConclusionsWe identified MYMK, TWIST2, and NEDD4L as NSOC-associated genes. Using SOC genes as prior knowledge reveals loci missed by standard GWAS, offering key insights into NSOC pathogenesis.",
-      "conclusion": "We identified MYMK, TWIST2, and NEDD4L as NSOC-associated genes. Using SOC genes as prior knowledge reveals loci missed by standard GWAS, offering key insights into NSOC pathogenesis.",
-      "limitations": "",
-      "topics": [
-        "cleft lip and palate surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42080994/",
       "pmcid": "",
       "figure_urls": []
     }
