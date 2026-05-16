@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T06:00:05Z",
+  "updated_at": "2026-05-16T05:33:31Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -10,6 +10,31 @@
     "cleft lip and palate surgery"
   ],
   "papers": [
+    {
+      "pmid": "42138295",
+      "title": "Psychosocial empowerment following orthognathic surgery for patients born with cleft lip and/or palate.",
+      "authors": [
+        "Joakim Lundberg",
+        "Mats Sjöström",
+        "Jenny Molin"
+      ],
+      "publication_date": "2026-Dec-31",
+      "publication_date_iso": "2026-12-31",
+      "abstract": "Individuals born with cleft lip and/or palate (CLP) may experience functional, esthetic and psychosocial challenges. While orthognathic surgery is performed to correct jaw discrepancies, knowledge about patients' experiences of this treatment remains limited, as previous research has largely relied on quantitative quality-of-life measures. This study aimed to illuminate the experiences of individuals with CLP undergoing orthognathic surgery. An inductive qualitative design was used. Individual semi-structured interviews were conducted with 16 adults treated with orthognathic surgery. Data were analyzed using qualitative content analysis. One overarching theme, Emerging empowered through a life-changing challenge, described surgery as, for many, a transformative process extending beyond functional and esthetic correction. Three themes described participants' experiences: being highly motivated for change, overcoming tough setbacks through a stable backing system, and enhancing self-confidence. While many participants described increased confidence and social ease over time, empowerment was neither universal nor immediate, with some reported neutral or context-dependent psychosocial outcomes. Orthognathic surgery may be experienced as a transformative process within a lifelong CLP trajectory, with potential to foster psychosocial empowerment and renewed self-confidence. These findings highlight both the transformative possibilities and the contextual variability of surgical outcomes in person-centered cleft care.",
+      "objective": "",
+      "study_methods": "An inductive qualitative design was used. Individual semi-structured interviews were conducted with 16 adults treated with orthognathic surgery. Data were analyzed using qualitative content analysis.",
+      "methods": "An inductive qualitative design was used. Individual semi-structured interviews were conducted with 16 adults treated with orthognathic surgery. Data were analyzed using qualitative content analysis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42138295/",
+      "pmcid": "",
+      "figure_urls": []
+    },
     {
       "pmid": "41742445",
       "title": "Unlocking the \"undruggable\": current landscape and emerging frontiers in lysosomal receptor-mediated protein degradation.",
@@ -33,12 +58,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
       "pmcid": "PMC12943813",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42005095",
@@ -70,9 +90,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005095/",
       "pmcid": "PMC13087713",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087713/bin/gr1.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41858234",
@@ -114,12 +132,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41858234/",
       "pmcid": "PMC13007456",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_PB.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_PB.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41582805",
@@ -146,12 +159,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41582805/",
       "pmcid": "PMC12851390",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41563872",
@@ -174,12 +182,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41563872/",
       "pmcid": "PMC12825576",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41431197",
@@ -203,11 +206,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41431197/",
       "pmcid": "PMC12777812",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0002_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0003_C.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41379645",
@@ -238,12 +237,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41379645/",
       "pmcid": "PMC12773631",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_PB.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_PB.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41895021",
@@ -329,12 +323,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41909511/",
       "pmcid": "PMC13022701",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/sc1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41909504",
@@ -373,12 +362,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41909504/",
       "pmcid": "PMC13019078",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/gr1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41810018",
@@ -415,12 +399,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41810018/",
       "pmcid": "PMC12969335",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/sc1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41740295",
@@ -561,12 +540,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005717/",
       "pmcid": "PMC13091407",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42001840",
@@ -737,9 +711,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41847346/",
       "pmcid": "PMC12989833",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12989833/bin/gr1.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41809095",
@@ -777,12 +749,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41809095/",
       "pmcid": "PMC12969315",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/gr1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41802456",
@@ -967,6 +934,72 @@
       "figure_urls": []
     },
     {
+      "pmid": "42138606",
+      "title": "Clinical Outcomes of Adjunctive Corticosteroid Therapy Versus Standard Treatment Alone in Patients With Bacterial Facial Infections: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Umer Hussain",
+        "Wajiha Abbas",
+        "Inayat Ur Rahman",
+        "Imad Ali",
+        "Umer Ullah",
+        "Muhammad Yousaf Ali",
+        "Nadia Mansoor",
+        "Nuha Abdalla Osman Mustafa",
+        "Riyadh Alroomy",
+        "Roqayah Ibrahim Aljuailan",
+        "Asif Rehman",
+        "Badi Alotaibi"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Objectives: To evaluate the clinical effectiveness and safety of adjunctive corticosteroid versus standard treatment alone in facial infections. Eligibility criteria: Included clinical comparative studies (randomized or non-randomized) evaluating adjunctive corticosteroids versus standard care in patients with bacterial facial infections such as odontogenic/facial space infections, dental abscesses, orbital cellulitis, periorbital cellulitis, and Ludwig's angina. An unrestricted literature search of five databases was conducted up to December 15, 2025. Risk of bias: The quality assessment of the studies was conducted using the Cochrane Risk of Bias Tool (ROBINS-I) for non-randomized and a new risk of bias tool (RoB-2) for randomized studies. Random effects meta-analyses using mean difference (MD) or standardized mean differences (SMDs) were performed, followed by sensitivity analyses, and assessment of the quality of evidence using GRADE. Included studies: Fifteen comparative studies (three randomized and 12 non-randomized) including 13,905 patients with bacterial facial infections (61.5% male) were included. Low-certainty evidence showed that the use of adjunctive steroids significantly reduced hospital stay compared with standard treatment alone (10 studies; MD = -1.61 [-3.17, -0.05] days; p = 0.04; I2 = 99.3%). Low-certainty evidence also showed that pre-treatment CRP was higher in the steroid groups (3 studies; SMD = 0.33 [0.09, 0.58]; p = 0.03; I2 = 0%). Low-certainty evidence indicated no significant difference in the number of surgeries (p = 0.13), while very low-certainty evidence showed no significant differences in intensive care unit admissions (p = 0.07) or airway compromise (p = 0.18). Sensitivity and subgroup analyses showed no significant differences by study design, infection type, or risk of bias, confirming robust results; only ethnicity had a significant effect on hospital stay (p = 0.0027). Limitations of evidence: Certainty of evidence was low to very low for all outcomes, with hospital stay rated low due to methodological limitations, high risk of bias, and the predominance of non-randomized studies. The low level of evidence suggests that adjunctive corticosteroids may provide a reduction in hospital length of stay for patients with bacterial facial infections. Further well-designed, randomized, and prospective comparative studies are needed to confirm these findings. PROPSERO Registration Number: (CRD420261329331).",
+      "objective": "To evaluate the clinical effectiveness and safety of adjunctive corticosteroid versus standard treatment alone in facial infections. Eligibility criteria: Included clinical comparative studies (randomized or non-randomized) evaluating adjunctive corticosteroids versus standard care in patients with bacterial facial infections such as odontogenic/facial space infections, dental abscesses, orbital cellulitis, periorbital cellulitis, and Ludwig's angina. An unrestricted literature search of five databases was conducted up to December 15, 2025. Risk of bias: The quality assessment of the studies was conducted using the Cochrane Risk of Bias Tool (ROBINS-I) for non-randomized and a new risk of bias tool (RoB-2) for randomized studies. Random effects meta-analyses using mean difference (MD) or standardized mean differences (SMDs) were performed, followed by sensitivity analyses, and assessment of the quality of evidence using GRADE. Included studies: Fifteen comparative studies (three randomized and 12 non-randomized) including 13,905 patients with bacterial facial infections (61.5% male) were included. Low-certainty evidence showed that the use of adjunctive steroids significantly reduced hospital stay compared with standard treatment alone (10 studies; MD = -1.61 [-3.17, -0.05] days; p = 0.04; I2 = 99.3%). Low-certainty evidence also showed that pre-treatment CRP was higher in the steroid groups (3 studies; SMD = 0.33 [0.09, 0.58]; p = 0.03; I2 = 0%). Low-certainty evidence indicated no significant difference in the number of surgeries (p = 0.13), while very low-certainty evidence showed no significant differences in intensive care unit admissions (p = 0.07) or airway compromise (p = 0.18). Sensitivity and subgroup analyses showed no significant differences by study design, infection type, or risk of bias, confirming robust",
+      "study_methods": "Eligibility criteria: Included clinical comparative studies (randomized or non-randomized) evaluating adjunctive corticosteroids versus standard care in patients with bacterial facial infections such as odontogenic/facial space infections, dental abscesses, orbital cellulitis, periorbital cellulitis, and Ludwig's angina.",
+      "methods": "Eligibility criteria: Included clinical comparative studies (randomized or non-randomized) evaluating adjunctive corticosteroids versus standard care in patients with bacterial facial infections such as odontogenic/facial space infections, dental abscesses, orbital cellulitis, periorbital cellulitis, and Ludwig's angina.",
+      "results": "; only ethnicity had a significant effect on hospital stay (p = 0.0027). Limitations of evidence: Certainty of evidence was low to very low for all outcomes, with hospital stay rated low due to methodological limitations, high risk of bias, and the predominance of non-randomized studies. The low level of evidence suggests that adjunctive corticosteroids may provide a reduction in hospital length of stay for patients with bacterial facial infections. Further well-designed, randomized, and prospective comparative studies are needed to confirm these findings. PROPSERO Registration Number: (CRD420261329331).",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42138606/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42138577",
+      "title": "Erosive Potential of Commercially Available Cannabis Beverages.",
+      "authors": [
+        "Budsaraporn Boonsuth",
+        "Lawan Boonprakong",
+        "Ajjima Chansaenroj",
+        "Sureeporn Tantisak",
+        "Thawanrat Singthong",
+        "Vorapat Trachoo",
+        "Sant Ananchanachai",
+        "Naruporn Monmaturapoj",
+        "Supreda Suphanantachat Srithanyarat",
+        "Dusit Nantanapiboon",
+        "Junji Tagami",
+        "Thanaphum Osathanon"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "To evaluate the erosive potential of commercially available cannabis beverages by assessing fluoride content and pH, as well as changes in microhardness and surface roughness. Sixteen cannabis-infused beverages were analyzed, with distilled water used as the control. Fluoride concentration and pH were measured using a fluoride ion-selective electrode and a calibrated pH meter. Eighty-five synthetic enamel-like hydroxyapatite blocks (5 mm diameter × 5 mm thickness) were prepared and allocated into 16 experimental groups and 1 control group (n = 5/group). Specimens were immersed in 5 mL of each beverage for 30 min at 37°C. Knoop microhardness (KHN) and surface roughness (Ra) were measured before and after immersion. The percentage of surface hardness loss (%SHL) and percentage change in surface roughness (%Raalt) were calculated. Statistical analysis was performed using one-way ANOVA followed by Tukey's post hoc test (p < 0.05). Most beverages exhibited acidic pH values, with 12 samples showing pH < 4. Fluoride concentrations ranged from 0.0268 to 1.8233 mg/L, with most samples containing levels insufficient to counteract erosive effects, although one beverage exceeded recommended fluoride limits. Beverages with lower pH were associated with significant reductions in microhardness and increases in surface roughness (p < 0.05). The percentage of surface hardness loss (%SHL) ranged from approximately 27% to 74% among acidic beverages, with the highest values observed in the most acidic formulations. In contrast, beverages with near-neutral pH showed minimal changes, with %SHL below 10%. Similarly, %Raalt ranged from less than 10% in low-erosive groups to over 900% in highly acidic beverages. Cannabis beverages with low pH exhibited significant erosive potential, as evidenced by decreased microhardness and increased surface roughness on synthetic enamel-like hydroxyapatite substrates. Beverage acidity and formulation were key determinants of these effects.",
+      "objective": "",
+      "study_methods": "Sixteen cannabis-infused beverages were analyzed, with distilled water used as the control. Fluoride concentration and pH were measured using a fluoride ion-selective electrode and a calibrated pH meter. Eighty-five synthetic enamel-like hydroxyapatite blocks (5 mm diameter × 5 mm thickness) were prepared and allocated into 16 experimental groups and 1 control group (n = 5/group). Specimens were immersed in 5 mL of each beverage for 30 min at 37°C. Knoop microhardness (KHN) and surface roughness (Ra) were measured before and after immersion. The percentage of surface hardness loss (%SHL) and percentage change in surface roughness (%Raalt) were calculated. Statistical analysis was performed using one-way ANOVA followed by Tukey's post hoc test (p < 0.05).",
+      "methods": "Sixteen cannabis-infused beverages were analyzed, with distilled water used as the control. Fluoride concentration and pH were measured using a fluoride ion-selective electrode and a calibrated pH meter. Eighty-five synthetic enamel-like hydroxyapatite blocks (5 mm diameter × 5 mm thickness) were prepared and allocated into 16 experimental groups and 1 control group (n = 5/group). Specimens were immersed in 5 mL of each beverage for 30 min at 37°C. Knoop microhardness (KHN) and surface roughness (Ra) were measured before and after immersion. The percentage of surface hardness loss (%SHL) and percentage change in surface roughness (%Raalt) were calculated. Statistical analysis was performed using one-way ANOVA followed by Tukey's post hoc test (p < 0.05).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42138577/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42132365",
       "title": "Crestal Bone Loss and Peri-Implant Conditions at Tissue-Level Implants: Influence of Prosthesis Type After 25 Years.",
       "authors": [
@@ -991,7 +1024,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42132365/",
-      "pmcid": "",
+      "pmcid": "PMC13174906",
       "figure_urls": []
     },
     {
@@ -1332,32 +1365,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41992493",
-      "title": "Surgical Reconstructive Peri-Implantitis Treatment for 3- and 4-Wall Bone Defects: A Single-Blind Randomised Controlled Trial With a 1-Year Follow-Up.",
-      "authors": [
-        "Jarno Hakkers",
-        "Yvonne C M de Waal",
-        "Barzi Gareb",
-        "Henny J A Meijer",
-        "Gerry M Raghoebar"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "To evaluate the effect of a reconstructive procedure during surgical treatment of peri-implantitis in 3- or 4-wall bone defects on clinical and radiographic outcomes after 1 year follow-up. Fifty-two patients with peri-implantitis were randomly assigned to surgical treatment with (n = 27) or without (n = 25) a reconstructive procedure using autologous bone, xenograft and a collagen membrane. Primary outcomes were the mean peri-implant probing depth (PPD) and radiographic marginal bone level (MBL). Bleeding on probing (BoP) was the prespecified primary outcome in the original protocol; the present report emphasises PPD and MBL outcomes relevant to reconstructive treatment. Secondary outcomes included BoP, disease resolution (composite treatment outcome), suppuration (SoP), mid-buccal recession (Midbuc REC) and keratinised mucosa (Midbuc KM). Data were analysed using multilevel mixed-effects models. Mixed-effects models showed that patients in the test group showed enhanced marginal bone levels at all follow-ups (β = -0.85 to -1.65 mm; p ≤ 0.04) and less mid-buccal recession (β = -1.06 to -1.68 mm; p ≤ 0.01) compared to the control group. No significant differences were observed for PPD, BoP, SoP, Midbuc KM or disease resolution. While the adjunctive reconstructive procedure did not significantly influence peri-implant PPD, BoP, SoP or disease resolution, it was associated with improved radiographic marginal bone levels and reduced mid-buccal soft-tissue recession.",
-      "objective": "",
-      "study_methods": "Fifty-two patients with peri-implantitis were randomly assigned to surgical treatment with (n = 27) or without (n = 25) a reconstructive procedure using autologous bone, xenograft and a collagen membrane. Primary outcomes were the mean peri-implant probing depth (PPD) and radiographic marginal bone level (MBL). Bleeding on probing (BoP) was the prespecified primary outcome in the original protocol; the present report emphasises PPD and MBL outcomes relevant to reconstructive treatment. Secondary outcomes included BoP, disease resolution (composite treatment outcome), suppuration (SoP), mid-buccal recession (Midbuc REC) and keratinised mucosa (Midbuc KM). Data were analysed using multilevel mixed-effects models.",
-      "methods": "Fifty-two patients with peri-implantitis were randomly assigned to surgical treatment with (n = 27) or without (n = 25) a reconstructive procedure using autologous bone, xenograft and a collagen membrane. Primary outcomes were the mean peri-implant probing depth (PPD) and radiographic marginal bone level (MBL). Bleeding on probing (BoP) was the prespecified primary outcome in the original protocol; the present report emphasises PPD and MBL outcomes relevant to reconstructive treatment. Secondary outcomes included BoP, disease resolution (composite treatment outcome), suppuration (SoP), mid-buccal recession (Midbuc REC) and keratinised mucosa (Midbuc KM). Data were analysed using multilevel mixed-effects models.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41992493/",
-      "pmcid": "PMC13167631",
-      "figure_urls": []
-    },
-    {
       "pmid": "41966788",
       "title": "A comparative study of three pterygomaxillary disjunction methods in Le Fort I osteotomy: a clinical and morphological analysis.",
       "authors": [
@@ -1375,48 +1382,11 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41966788/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "41962510",
-      "title": "Chemerin Promotes Oral Squamous Cell Carcinoma Progression via NLRP3-Mediated Pyroptosis and the GSDMD-N Pathway.",
-      "authors": [
-        "Xuan Zhang",
-        "Yan Guo",
-        "Fei Gao",
-        "Xiangning Ni",
-        "Tongtong Li",
-        "Chengqin Wang",
-        "Mei Lin",
-        "Xiaohua Tan",
-        "Ning Wang",
-        "Yuanyong Feng"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Oral squamous cell carcinoma (OSCC) is a common malignant tumour of the head and neck region. In recent years, the relationship between pyroptosis and tumours has received increasing attention. However, its regulatory mechanism and effects on tumour behaviour remain unclear. The purpose of this study was to explore the effect of chemerin expression on pyroptosis of OSCC tumour cells and its underlying molecular mechanism. In this study, chemerin expression and pyroptosis-related proteins in 145 OSCC tissues were detected using immunohistochemical methods. The effect of chemerin expression on the expression of pyroptosis related proteins (GSDMD,GSDMD-N and IL-1β) in OSCC cells was explored by Western blot analysis. The influence of chemerin-induced pyroptosis on the proliferation, migration, invasion, epithelial-mesenchymal transition (EMT) and lipid metabolism of OSCC cells was investigated through scratch test, transwell, flow cytometry experiments and CCK-8 assays. Nude mice experiments were also done to explore the effects of chemerin expression on tumour cell pyroptosis and tumour growth. Our findings suggested that elevated expression of chemerin enhances pyroptosis in OSCC cells both in vivo and in vitro. Pyoptosis-related proteins were highly expressed in OSCC, and Gasdermin D (GSDMD) expression was associated with poor clinical prognosis and short survival time in OSCC patients. The combination of chemerin and GSDMD expression was correlated with a poorer clinical prognosis. In vitro experimental results showed that pyroptosis of OSCC cells promoted cell proliferation by regulating cell cycles via increasing the number of cells entering the S phase, as well as cell invasion and migration through EMT. The pyroptosis of OSCC cells also affected lipid metabolism, promoting tumour progression. Our findings indicate that chemerin mostly facilitated pyroptosis of OSCC cells via the NLRP3/GSDMD-N pathway, and pyroptosis promoted tumor progression through different pathways. Both overexpression of chemerin and elevated pyroptosis in OSCC cells appear to be poor prognostic jndicators in OSCC.",
-      "objective": "of this study was to explore the effect of chemerin expression on pyroptosis of OSCC tumour cells and its underlying molecular mechanism. In this study, chemerin expression and pyroptosis-related proteins in 145 OSCC tissues were detected using immunohistochemical",
-      "study_methods": "In this study, chemerin expression and pyroptosis-related proteins in 145 OSCC tissues were detected using immunohistochemical methods. The effect of chemerin expression on the expression of pyroptosis related proteins (GSDMD,GSDMD-N and IL-1β) in OSCC cells was explored by Western blot analysis. The influence of chemerin-induced pyroptosis on the proliferation, migration, invasion, epithelial-mesenchymal transition (EMT) and lipid metabolism of OSCC cells was investigated through scratch test, transwell, flow cytometry experiments and CCK-8 assays. Nude mice experiments were also done to explore the effects of chemerin expression on tumour cell pyroptosis and tumour growth.",
-      "methods": "In this study, chemerin expression and pyroptosis-related proteins in 145 OSCC tissues were detected using immunohistochemical methods. The effect of chemerin expression on the expression of pyroptosis related proteins (GSDMD,GSDMD-N and IL-1β) in OSCC cells was explored by Western blot analysis. The influence of chemerin-induced pyroptosis on the proliferation, migration, invasion, epithelial-mesenchymal transition (EMT) and lipid metabolism of OSCC cells was investigated through scratch test, transwell, flow cytometry experiments and CCK-8 assays. Nude mice experiments were also done to explore the effects of chemerin expression on tumour cell pyroptosis and tumour growth.",
-      "results": "showed that pyroptosis of OSCC cells promoted cell proliferation by regulating cell cycles via increasing the number of cells entering the S phase, as well as cell invasion and migration through EMT. The pyroptosis of OSCC cells also affected lipid metabolism, promoting tumour progression. Our findings indicate that chemerin mostly facilitated pyroptosis of OSCC cells via the NLRP3/GSDMD-N pathway, and pyroptosis promoted tumor progression through different pathways. Both overexpression of chemerin and elevated pyroptosis in OSCC cells appear to be poor prognostic jndicators in OSCC.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41962510/",
-      "pmcid": "PMC13091443",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091443/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091443/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091443/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091443/bin/gr2.gif"
-      ]
     },
     {
       "pmid": "41955959",
@@ -1441,9 +1411,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41955959/",
       "pmcid": "PMC13091431",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091431/bin/gr1.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41938139",
@@ -1474,12 +1442,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41938139/",
       "pmcid": "PMC13049611",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049611/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049611/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049611/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049611/bin/sc1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41934826",
@@ -1535,12 +1498,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41932098/",
       "pmcid": "PMC13085069",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13085069/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13085069/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13085069/bin/gr3.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13085069/bin/gr4.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41932097",
@@ -1566,12 +1524,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41932097/",
       "pmcid": "PMC13084668",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13084668/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13084668/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13084668/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13084668/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41904886",
@@ -1599,10 +1552,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41904886/",
       "pmcid": "PMC13058978",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13058978/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13058978/bin/gr2.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41895029",
@@ -1654,12 +1604,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41861582/",
       "pmcid": "PMC13018947",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018947/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018947/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018947/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018947/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41861577",
@@ -1683,11 +1628,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41861577/",
       "pmcid": "PMC13018927",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr3.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41853327",
@@ -1718,10 +1659,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41853327/",
       "pmcid": "PMC12992975",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12992975/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12992975/bin/gr1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41806541",
@@ -1779,12 +1717,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41775013/",
       "pmcid": "PMC12969292",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41773293",
@@ -1814,12 +1747,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41773293/",
       "pmcid": "PMC12994450",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994450/bin/dmm-19-052511-g2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41759452",
@@ -2089,6 +2017,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "41368692",
+      "title": "A Retrospective Study of Facial Fractures Associated With the Amazon Region at a Trauma Center in Northern Brazil.",
+      "authors": [
+        "Clarina Louis Silva Meira",
+        "Natália Silva de Meira",
+        "Helen Patricia da Silva Araujo",
+        "Diego Pacheco Ferreira",
+        "Hélder Antônio Rebelo Pontes",
+        "Nicolau Conte Neto"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Facial trauma is a major public health challenge due to its aesthetic, functional, psychological, and socioeconomic impacts. In Northern Brazil, particularly in the Amazon region, subsistence activities such as plant extraction, animal handling, and river transportation are essential to daily life and may contribute to an increased risk of facial injuries. These environmental and cultural factors are often underrepresented in the literature. This study aimed to investigate the epidemiological profile of facial fractures associated with etiologies specific to the Amazon region. This was a retrospective study conducted over an 8-year period (2013-2020) at a trauma referral center in Northern Brazil. Medical records of patients with facial fractures resulting from boat accidents, animal-related incidents, plant extraction, and hunting and fishing accidents were reviewed. A total of 97 patients met the inclusion criteria, with males accounting for 88.7% of cases and adults (20-64 years) being the most affected age group. Boat accidents were the most frequent cause of trauma (40.2%) and were associated with a higher median number of surgical fractures compared to animal-related trauma (p = 0.041) and hunting and fishing accidents (p < 0.001). The middle third of the face was most commonly affected (78%), and the mean FISS score was 4.4. The average length of hospital stay was 11 days, with a significant correlation between FISS and hospital stay (p = 0.0078). Hunting and fishing accidents were the leading cause of long-term sequelae. Facial fractures related to the Amazon region are associated with distinct occupational and environmental risks, imposing not only a burden on public health but also resulting in specific morbidities within traditional populations. Although these injuries do not necessarily reflect the characteristics of the broader population, they highlight the need for public policies tailored to the regional context.",
+      "objective": "",
+      "study_methods": "This was a retrospective study conducted over an 8-year period (2013-2020) at a trauma referral center in Northern Brazil. Medical records of patients with facial fractures resulting from boat accidents, animal-related incidents, plant extraction, and hunting and fishing accidents were reviewed.",
+      "methods": "This was a retrospective study conducted over an 8-year period (2013-2020) at a trauma referral center in Northern Brazil. Medical records of patients with facial fractures resulting from boat accidents, animal-related incidents, plant extraction, and hunting and fishing accidents were reviewed.",
+      "results": "ing from boat accidents, animal-related incidents, plant extraction, and hunting and fishing accidents were reviewed. A total of 97 patients met the inclusion criteria, with males accounting for 88.7% of cases and adults (20-64 years) being the most affected age group. Boat accidents were the most frequent cause of trauma (40.2%) and were associated with a higher median number of surgical fractures compared to animal-related trauma (p = 0.041) and hunting and fishing accidents (p < 0.001). The middle third of the face was most commonly affected (78%), and the mean FISS score was 4.4. The average length of hospital stay was 11 days, with a significant correlation between FISS and hospital stay (p = 0.0078). Hunting and fishing accidents were the leading cause of long-term sequelae. Facial fractures related to the Amazon region are associated with distinct occupational and environmental risks, imposing not only a burden on public health but also resulting in specific morbidities within traditional populations. Although these injuries do not necessarily reflect the characteristics of the broader population, they highlight the need for public policies tailored to the regional context.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41368692/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41352995",
       "title": "Ozone therapy for medication-related osteonecrosis of the jaw: a scoping review.",
       "authors": [
@@ -2162,6 +2117,359 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41177719/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40518866",
+      "title": "Quality of Life in Craniofacial Microsomia: Resilience Through Young Adulthood.",
+      "authors": [
+        "Dominic J Romeo",
+        "Leigh Friedman",
+        "Manisha Banala",
+        "Carlos E Barrero",
+        "Benjamin B Massenburg",
+        "Jinggang J Ng",
+        "Meagan Wu",
+        "Leanne Magee",
+        "Jordan W Swanson",
+        "Jesse A Taylor",
+        "Scott P Bartlett"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "ObjectiveWhile studies have analyzed the quality of life (QOL) in children with craniofacial microsomia (CFM), little is known about QOL in adults with CFM. This study compares QOL in adults with CFM to a comparative group using a validated questionnaire.DesignCross-sectional.SettingTertiary care center.Patients, ParticipantsAdults aged 18 years or older with CFM were contacted and administered the World Health Organization (WHO) QOL Biomedical Research and Educating Foundation questionnaire.Main Outcome Measure(s)Quality of life in adults with CFM.ResultsOne hundred and fourteen patients met inclusion criteria, 40 (35.1%) were successfully contacted, and 28 (24.6%) completed the questionnaire in 8.6 ± 2.6 min. Respondents were 23.3 ± 4.6 years old (minimum 18.4, maximum 32.8 years) with 16 (57.1%) females and 12 (42.9%) males. This cohort of adults with CFM scored lower in the physical domain (13.8 ± 1.7 vs 15.5 ± 3.2, P < .01), similar in the psychological (14.7 ± 1.9 vs 13.8 ± 3.2, P > .05), and higher in both the social (16.0 ± 3.2 vs 13.2 ± 3.2, P < .01) and environmental (16.8 ± 1.6 vs 11.7 ± 2.7, P < .01) domains than the WHO norm sample. There was no association between overall phenotypic severity or craniofacial surgical burden and QOL (P > .05).ConclusionsAdults treated for CFM perceive their physical health QOL to be lower than the WHO norms but report higher QOL in the social and environmental domains. Adult patients with CFM may demonstrate resilience and can live high-quality lives. These results underscore that their lives are not defined by CFM.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "One hundred and fourteen patients met inclusion criteria, 40 (35.1%) were successfully contacted, and 28 (24.6%) completed the questionnaire in 8.6 ± 2.6 min. Respondents were 23.3 ± 4.6 years old (minimum 18.4, maximum 32.8 years) with 16 (57.1%) females and 12 (42.9%) males. This cohort of adults with CFM scored lower in the physical domain (13.8 ± 1.7 vs 15.5 ± 3.2, P < .01), similar in the psychological (14.7 ± 1.9 vs 13.8 ± 3.2, P > .05), and higher in both the social (16.0 ± 3.2 vs 13.2 ± 3.2, P < .01) and environmental (16.8 ± 1.6 vs 11.7 ± 2.7, P < .01) domains than the WHO norm sample. There was no association between overall phenotypic severity or craniofacial surgical burden and QOL (P > .05).ConclusionsAdults treated for CFM perceive their physical health QOL to be lower than the WHO norms but report higher QOL in the social and environmental domains. Adult patients with CFM may demonstrate resilience and can live high-quality lives. These results underscore that their lives are not defined by CFM.",
+      "conclusion": "Adults treated for CFM perceive their physical health QOL to be lower than the WHO norms but report higher QOL in the social and environmental domains. Adult patients with CFM may demonstrate resilience and can live high-quality lives. These results underscore that their lives are not defined by CFM.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40518866/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40432408",
+      "title": "The First & Second Digital Medical Illustration Workshop for Cleft Providers.",
+      "authors": [
+        "Roland K Assaf",
+        "Robert A Younan",
+        "Wassim Najjar",
+        "Jose A Garcia Garcia",
+        "Dana Andari",
+        "Beyhan Annan",
+        "Raj M Vyas",
+        "Usama S Hamdan",
+        "David W Low"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "ObjectiveThe paper highlights the potential benefits of digital medical illustration for improving patient care and medical education.DesignThe first and second medical illustration workshops were offered for participants of two annual meetings for cleft providers. Data was collected through a survey distributed to the participants at the end of the workshop.Main Outcome MeasuresThe survey consisted of three parts. The first part assessed participants' background. The second part focused on the participants' opinion on illustration in medical practice. The third part focused on the satisfaction of the workshop.ResultsA total of 38 participants filled the survey. 9 participants considered themselves having poor artistic ability, 11 responded fair, 14 considered themselves good, and 4 reported having very good artistic ability. One person somewhat disagreed that learning illustration would help in surgical practice, 14 were neutral and 22 somewhat agreed. 13 participants were neutral about medical illustration helping in academic practice and 24 somewhat agreed. 23 participants strongly agreed that the content of the workshop was relevant to their job, 5 somewhat agreed and 2 were neutral. 27 strongly agreed that the workshop has increased their interest in the subject, 2 somewhat agreed and 1 was neutral.ConclusionsThe Medical illustration workshops done were a success and received positive feedback. Digital medical illustration is already being used by a few cleft providers; many of whom acknowledge its potential benefits in surgical and academic practice.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "A total of 38 participants filled the survey. 9 participants considered themselves having poor artistic ability, 11 responded fair, 14 considered themselves good, and 4 reported having very good artistic ability. One person somewhat disagreed that learning illustration would help in surgical practice, 14 were neutral and 22 somewhat agreed. 13 participants were neutral about medical illustration helping in academic practice and 24 somewhat agreed. 23 participants strongly agreed that the content of the workshop was relevant to their job, 5 somewhat agreed and 2 were neutral. 27 strongly agreed that the workshop has increased their interest in the subject, 2 somewhat agreed and 1 was neutral.ConclusionsThe Medical illustration workshops done were a success and received positive feedback. Digital medical illustration is already being used by a few cleft providers; many of whom acknowledge its potential benefits in surgical and academic practice.",
+      "conclusion": "The Medical illustration workshops done were a success and received positive feedback. Digital medical illustration is already being used by a few cleft providers; many of whom acknowledge its potential benefits in surgical and academic practice.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40432408/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40388645",
+      "title": "Orthodontic-Surgical Approach for Treating Skeletal Class II Malocclusion with Severe Mandibular Hypoplasia in Williams Syndrome.",
+      "authors": [
+        "Tomoya Murotani",
+        "Hiroshi Kurosaka",
+        "Sayuri Yamamoto",
+        "Aikawa Tomonao",
+        "Susumu Tanaka",
+        "Takashi Yamashiro"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "This case report details the successful treatment of a severe malocclusion of a patient with Williams syndrome, characterized by a retrognathic profile, severe constriction of the lower arch and mandibular hypoplasia. The procedure involved symphyseal distraction and anterior mandibular alveolar osteotomy for mandibular expansion. Subsequent treatment involved LeFort I osteotomy, mandibular advancement with bilateral sagittal split osteotomy, and genioplasty, resulting in significant improvement in occlusion and facial profile. The purpose of this case report is to present the treatment outcomes of a Williams syndrome patient with severe lower arch constriction and mandibular hypoplasia, treated using an orthodontic-surgical approach.",
+      "objective": "of this case report is to present the treatment outcomes of a Williams syndrome patient with severe lower arch constriction and mandibular hypoplasia, treated using an orthodontic-surgical approach.",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing in significant improvement in occlusion and facial profile. The purpose of this case report is to present the treatment outcomes of a Williams syndrome patient with severe lower arch constriction and mandibular hypoplasia, treated using an orthodontic-surgical approach.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40388645/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40302530",
+      "title": "Evaluation of Upper Airway and Sleep Quality in Patients With Unilateral Cleft Lip and Palate Undergoing Orthognathic Surgery: A Pilot Study.",
+      "authors": [
+        "Marina de Almeida Barbosa Mello",
+        "Caroline de Paula Oliveira Gringo",
+        "Ana Carolina Bonetti Valente",
+        "Bruno Marcos Zeponi Fernandes de Mello",
+        "Luiz Fernando Manzoni Lourençone",
+        "Sergio Henrique Kiemle Trindade",
+        "Ivy Kiemle Trindade Suedam",
+        "Renato Yassutaka Faria Yaedú"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "ObjectiveTo evaluate the impact of bimaxillary osteotomy on upper airway metrics and patient-reported sleep quality in patients with cleft lip and palate.DesignRetrospective cohort study involving Class III patients.SettingA specialized craniofacial surgery center within a tertiary care institution.Patients/ParticipantsEight patients with unilateral cleft lip and palate were included, undergoing pre- and postoperative assessments (≥1 year after surgery).InterventionsBimaxillary orthognathic surgery, including mandibular setback and maxillary advancement. Cone-beam computed tomography (CBCT), nasopharyngoscopy, and polysomnography were performed, along with sleep quality questionnaires (Epworth and Berlin scales).Main outcomesUpper airway (UA) volume and minimum cross-sectional area assessed via CBCT; apnea-hypopnea index (AHI) from polysomnography; airflow analysis and sleep quality assessments.ResultsNo significant changes were observed in UA volume or minimum cross-sectional area, including the oropharynx and hypopharynx regions. Similarly, there were no clinical repercussions on sleep, with AHI remaining stable between pre- and postoperative assessments.ConclusionsIn this cohort of 8 patients with unilateral cleft lip and palate, bimaxillary osteotomy did not result in significant changes in upper airway metrics or patient-reported sleep quality.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "No significant changes were observed in UA volume or minimum cross-sectional area, including the oropharynx and hypopharynx regions. Similarly, there were no clinical repercussions on sleep, with AHI remaining stable between pre- and postoperative assessments.ConclusionsIn this cohort of 8 patients with unilateral cleft lip and palate, bimaxillary osteotomy did not result in significant changes in upper airway metrics or patient-reported sleep quality.",
+      "conclusion": "In this cohort of 8 patients with unilateral cleft lip and palate, bimaxillary osteotomy did not result in significant changes in upper airway metrics or patient-reported sleep quality.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40302530/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42141321",
+      "title": "Does adjunctive low-level laser therapy provide additional benefit following temporomandibular joint arthrocentesis with hyaluronic acid? A randomized clinical trial.",
+      "authors": [
+        "Moataz Bahaa",
+        "Abdelrahman Mohamed Fahmy Abdelhameed Azab",
+        "Mahmoud Ahmed Elfarmawy",
+        "Hesham Osama Morsi"
+      ],
+      "publication_date": "2026-May-16",
+      "publication_date_iso": "2026-05-16",
+      "abstract": "This study aimed to evaluate whether adjunctive low-level laser therapy (LLLT) provides additional clinical benefit over an optimized arthrocentesis protocol with hyaluronic acid in patients with ADDwoR. From December 2022 to December 2023, a single-blinded prospective randomized clinical trial was conducted at The British University in Egypt's Department of Oral and Maxillofacial Surgery. The study involved 40 female participants diagnosed with Anterior Disc Displacement without Reduction (ADDwoR). Following TMJ arthrocentesis, subjects were assigned to one of two parallel cohorts: Group A received ten subsequent sessions of low-level laser therapy (LLLT), while Group B served as the control, receiving arthrocentesis alone. Treatment efficacy was evaluated based on pain intensity measured via a Visual Analogue Scale (VAS) and maximum mouth opening (MMO). Clinical assessments were performed at 2-week intervals over a 12-week follow-up period. No significant age-related differences were detected when comparing the intervention group to the control group (p = 0.087). No significant intergroup differences were observed in maximum mouth opening (MMO) or pain scores (VAS) at any follow-up time point (p > 0.05). Over the 12-week period, both study arms demonstrated significant clinical enhancement in terms of MMO and pain intensity (p < 0.001). Improvements in MMO were large in both groups, with postoperative values significantly higher than preoperative measurements. Pain scores decreased markedly following treatment, with preoperative scores significantly higher than all postoperative values. Overall, both interventions resulted in significant functional improvement and pain reduction, with no added benefit of the intervention over the control. While both TMJ arthrocentesis alone and arthrocentesis supplemented with LLLT significantly improved maximum mouth opening and reduced pain, LLLT did not provide a significant incremental benefit over arthrocentesis with hyaluronic acid. These findings suggest that clinical improvements are primarily driven by the main intervention and may reflect a possible therapeutic ceiling effect, beyond which adjunctive LLLT does not confer measurable short-term benefit. Not applicable.",
+      "objective": "",
+      "study_methods": "From December 2022 to December 2023, a single-blinded prospective randomized clinical trial was conducted at The British University in Egypt's Department of Oral and Maxillofacial Surgery. The study involved 40 female participants diagnosed with Anterior Disc Displacement without Reduction (ADDwoR). Following TMJ arthrocentesis, subjects were assigned to one of two parallel cohorts: Group A received ten subsequent sessions of low-level laser therapy (LLLT), while Group B served as the control, receiving arthrocentesis alone. Treatment efficacy was evaluated based on pain intensity measured via a Visual Analogue Scale (VAS) and maximum mouth opening (MMO). Clinical assessments were performed at 2-week intervals over a 12-week follow-up period.",
+      "methods": "From December 2022 to December 2023, a single-blinded prospective randomized clinical trial was conducted at The British University in Egypt's Department of Oral and Maxillofacial Surgery. The study involved 40 female participants diagnosed with Anterior Disc Displacement without Reduction (ADDwoR). Following TMJ arthrocentesis, subjects were assigned to one of two parallel cohorts: Group A received ten subsequent sessions of low-level laser therapy (LLLT), while Group B served as the control, receiving arthrocentesis alone. Treatment efficacy was evaluated based on pain intensity measured via a Visual Analogue Scale (VAS) and maximum mouth opening (MMO). Clinical assessments were performed at 2-week intervals over a 12-week follow-up period.",
+      "results": "ed in significant functional improvement and pain reduction, with no added benefit of the intervention over the control. While both TMJ arthrocentesis alone and arthrocentesis supplemented with LLLT significantly improved maximum mouth opening and reduced pain, LLLT did not provide a significant incremental benefit over arthrocentesis with hyaluronic acid. These findings suggest that clinical improvements are primarily driven by the main intervention and may reflect a possible therapeutic ceiling effect, beyond which adjunctive LLLT does not confer measurable short-term benefit. Not applicable.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42141321/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42140773",
+      "title": "Global research trends andintellectual structure of genioplasty: A 45-year bibliometric analysis (1980-2025).",
+      "authors": [
+        "A F Derin",
+        "M S Şimşek",
+        "I Üstündağ"
+      ],
+      "publication_date": "2026-May-15",
+      "publication_date_iso": "2026-05-15",
+      "abstract": "This study aims to analyze global research trends, influential authors and institutions, citation dynamics, and the intellectual structure within the field of genioplasty using bibliometric methods. Studies on genioplasty published between 1980 and 2025 were retrieved from the Web of Science Core Collection (WoSCC). Bibliometric analyses were conducted using R Studio and VOSviewer. Publication counts, citation trends, country productivity, author impact, journal distribution, co-citation networks, and keyword co-occurrence patterns were evaluated. The number of publications related to genioplasty has shown a steady increase over the years, reaching its peak in 2022 (n=77). The total number of citations peaked in 2024, indicating sustained interest and continued relevance in the field. The United States produced the highest number of publications and citations (302 publications, 5448 citations). China (n=118) and South Korea (n=87) also ranked among the most productive countries, reflecting the strong academic output driven by the high cultural demand for facial contouring procedures in Asia. Author analyses revealed that Hu J. and Posnick J.C. were the most influential contributors, while co-citation analysis identified Trauner R. and Bell W.H. as foundational figures in the intellectual structure of the genioplasty literature. Keyword analysis showed that \"genioplasty\", \"orthognathic surgery\", \"osteotomy\", and \"chin\" were the most prominent terms, supporting the observation that genioplasty is frequently performed as a complementary procedure to orthognathic surgery. Research on genioplasty has gained significant momentum over the past 45 years, resulting in a global research network predominantly led by the United States and Asian countries. The literature demonstrates that genioplasty remains a crucial component of aesthetic and functional facial surgery, with contemporary studies focusing on refining surgical techniques and improving long-term stability.",
+      "objective": "to analyze global research trends, influential authors and institutions, citation dynamics, and the intellectual structure within the field of genioplasty using bibliometric",
+      "study_methods": "Studies on genioplasty published between 1980 and 2025 were retrieved from the Web of Science Core Collection (WoSCC). Bibliometric analyses were conducted using R Studio and VOSviewer. Publication counts, citation trends, country productivity, author impact, journal distribution, co-citation networks, and keyword co-occurrence patterns were evaluated.",
+      "methods": "Studies on genioplasty published between 1980 and 2025 were retrieved from the Web of Science Core Collection (WoSCC). Bibliometric analyses were conducted using R Studio and VOSviewer. Publication counts, citation trends, country productivity, author impact, journal distribution, co-citation networks, and keyword co-occurrence patterns were evaluated.",
+      "results": "ing in a global research network predominantly led by the United States and Asian countries. The literature demonstrates that genioplasty remains a crucial component of aesthetic and functional facial surgery, with contemporary studies focusing on refining surgical techniques and improving long-term stability.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42140773/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42138853",
+      "title": "Determinants of Early Airway Remodeling After Maxillomandibular Advancement: The Role of Maxillary Repositioning.",
+      "authors": [
+        "Maria G Barrón Barrera",
+        "David Alfi",
+        "Francisco J Carrillo-Morales"
+      ],
+      "publication_date": "2026-May-15",
+      "publication_date_iso": "2026-05-15",
+      "abstract": "To evaluate early (3 mo) changes in oropharyngeal airway dimensions following maxillomandibular advancement (MMA) and to determine whether specific skeletal movements, particularly maxillary advancement, are associated with the magnitude of airway expansion. A retrospective cohort study was conducted including 80 consecutive patients who underwent MMA with custom-made fixation plates. Preoperative and 3-month postoperative cone-beam computed tomography (CBCT) scans were analyzed to measure total airway volume and minimal cross-sectional area. Skeletal movements were quantified using virtual surgical planning data. Paired t tests were used to assess pre- and postoperative differences. Pearson correlation and multivariable linear regression analyses were performed to identify predictors of airway change. Mean minimal cross-sectional area increased from 144.0±73.8 mm2 to 298.1±126.1 mm2 (Δ=154.1±112.8 mm2; P<0.001). Mean total airway volume increased from 19.4±17.8 cc to 30.2±20.8 cc (Δ=10.8±7.9 cc; P<0.001). Maxillary advancement was significantly associated with increased minimal cross-sectional area (r=0.29, P=0.009) and modestly associated with volumetric change (r=0.22, P=0.049). BMI was independently associated with changes in minimal area, while sex was the only independent predictor of volumetric change in multivariable analysis. Maxillomandibular advancement produces significant early expansion of the oropharyngeal airway. Maxillary advancement plays a meaningful role in increasing minimal cross-sectional area, suggesting its importance in surgical planning aimed at optimizing airway outcomes.",
+      "objective": "",
+      "study_methods": "A retrospective cohort study was conducted including 80 consecutive patients who underwent MMA with custom-made fixation plates. Preoperative and 3-month postoperative cone-beam computed tomography (CBCT) scans were analyzed to measure total airway volume and minimal cross-sectional area. Skeletal movements were quantified using virtual surgical planning data. Paired t tests were used to assess pre- and postoperative differences. Pearson correlation and multivariable linear regression analyses were performed to identify predictors of airway change.",
+      "methods": "A retrospective cohort study was conducted including 80 consecutive patients who underwent MMA with custom-made fixation plates. Preoperative and 3-month postoperative cone-beam computed tomography (CBCT) scans were analyzed to measure total airway volume and minimal cross-sectional area. Skeletal movements were quantified using virtual surgical planning data. Paired t tests were used to assess pre- and postoperative differences. Pearson correlation and multivariable linear regression analyses were performed to identify predictors of airway change.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42138853/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42138615",
+      "title": "Optimized Approach for Retrieval of Multiple Impacted Teeth in Cleidocranial Dysplasia.",
+      "authors": [
+        "Roohi Sobti",
+        "Shilpa Upadhyay",
+        "Andrew Paige",
+        "Juliana Panchura",
+        "Yi Lin",
+        "Sunil Kapila"
+      ],
+      "publication_date": "2026-May-15",
+      "publication_date_iso": "2026-05-15",
+      "abstract": "Cleidocranial dysplasia (CCD) is a rare congenital condition characterized by patients presenting with craniofacial anomalies, multiple supernumerary and impacted teeth, retained primary teeth, and delayed eruption, necessitating multi-stage and innovative treatment mechanics to facilitate tooth eruption. This case report highlights the orthodontic management of a 21-year-old female with CCD using a sequential, interdisciplinary approach including the extraction of retained primary and supernumerary teeth, and exposure, bonding, and forced eruption of impacted teeth. The latter was achieved with a custom-fabricated lower appliance and a modified transpalatal arch designed to reinforce anchorage and facilitate simultaneous traction of multiple impacted teeth via a closed surgical technique, achieving their successful retrieval and good orthodontic outcomes.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42138615/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42138319",
+      "title": "Complications in Orthognathic Surgery.",
+      "authors": [
+        "Gabriel Conceição Brito",
+        "Márcio de Moraes",
+        "Luciana Asprino"
+      ],
+      "publication_date": "2026-May-15",
+      "publication_date_iso": "2026-05-15",
+      "abstract": "The study aimed to evaluate complications in orthognathic surgery in a teaching hospital in Brazil over 10 years. Medical records were collected of patients who underwent surgery in the Division of Oral and Maxillofacial Surgery from January 1, 2014, to January 1, 2024. The dependent variables were intraoperative and postoperative complications, and the surgical procedure performed (monomaxillary or bimaxillary surgery). They were evaluated and compared with the independent variables of age, sex, substance abuse, presence of paresthesia or complications, and regions of complication. Specific complications were characterized as bad split, dental or skeletal recurrence, hardware failure, breakage/fracture of a surgical instrument, dental or periodontal damage, hemorrhage, and \"others\". In the results, 183 orthognathic surgeries were included, with 31 participants having some complications, with 10 having intraoperative complications and 21 postoperative. No correlation was found between the complications and variables evaluated (P>0.05). Despite the limitations related to retrospective studies, the evaluation and disclosure of complications in orthognathic surgery are important for surgeons to understand the factors that contribute to their occurrence and how to avoid and treat them earlier and more effectively.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": ", 183 orthognathic surgeries were included, with 31 participants having some complications, with 10 having intraoperative complications and 21 postoperative. No correlation was found between the complications and variables evaluated (P>0.05). Despite the limitations related to retrospective studies, the evaluation and disclosure of complications in orthognathic surgery are important for surgeons to understand the factors that contribute to their occurrence and how to avoid and treat them earlier and more effectively.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42138319/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42138308",
+      "title": "Oral Cancer Management Outcomes and Their Association With the Oral Health-Related Quality of Life in Resource-Limited Settings: A Prospective Cohort Study.",
+      "authors": [
+        "Fidele Nyimi Bushabu",
+        "Junior Panoumvita Kapamona",
+        "Bruce Kazadi Ilunga",
+        "Grace Paka Lubamba",
+        "Fadi Titinchi",
+        "David Kayembe Mwimbi",
+        "Em Kalala Kazadi",
+        "Augustin Mantshumba Milolo",
+        "Edize Ekofo Inganya",
+        "Pierre Muyembi Muinaminayi",
+        "Bing Liu"
+      ],
+      "publication_date": "2026-May-15",
+      "publication_date_iso": "2026-05-15",
+      "abstract": "The management of oral cancer (OC), particularly in developing countries, presents significant challenges. This study aimed to identify the challenges faced by patients with OC in resource-limited settings and evaluate their impact on the Oral Health-Related QOL (OHRQoL). A prospective cohort study was conducted among Congolese participants using clinical data and an Oral Health Impact Profile (OHIP-14) questionnaire. Predictor variables included treatment methods and clinical characteristics. Main outcome variables included the challenges (delayed treatment, lack of information, access to health care, and perception of OC) and QOL. The χ2 tests and analysis of variance were used to compare the study groups, with a significance level set at P<0.05. Of 827 participants, 459 were OC patients, and 368 were healthy controls. The cohort was predominantly male (>60%). Over 60% of OC patients reported delayed treatment, 78% had not disclosed their diagnosis, and 72% were uninformed about their disease. Among the few (22%) who were informed, 89% refused treatment. The mean OHIP-14 total score was significantly higher in OC patients (with therapy: 19.18±6.05; without therapy: 25.67±5.56) than in healthy controls (11.76±4.58; P<0.005). Delayed or refusal of treatment, lack of information, and negative perceptions of OC were all significantly associated with worse OHRQoL. Multiple factors contribute to the challenges in managing OC in resource-limited settings. Patients who had delayed or refused treatment, lacked information, and had a negative perception of OC exhibited significantly worse OHRQoL than healthy participants.",
+      "objective": "",
+      "study_methods": "A prospective cohort study was conducted among Congolese participants using clinical data and an Oral Health Impact Profile (OHIP-14) questionnaire. Predictor variables included treatment methods and clinical characteristics. Main outcome variables included the challenges (delayed treatment, lack of information, access to health care, and perception of OC) and QOL. The χ2 tests and analysis of variance were used to compare the study groups, with a significance level set at P<0.05.",
+      "methods": "A prospective cohort study was conducted among Congolese participants using clinical data and an Oral Health Impact Profile (OHIP-14) questionnaire. Predictor variables included treatment methods and clinical characteristics. Main outcome variables included the challenges (delayed treatment, lack of information, access to health care, and perception of OC) and QOL. The χ2 tests and analysis of variance were used to compare the study groups, with a significance level set at P<0.05.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42138308/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42138304",
+      "title": "Incidence of Velopharyngeal Insufficiency Surgery Following Orthognathic Surgery in Cleft Lip and Palate.",
+      "authors": [
+        "Lucas M Harrison",
+        "Paul Hung",
+        "Rami R Hallac",
+        "Alex A Kane",
+        "Paymon Sanati-Mehrizy"
+      ],
+      "publication_date": "2026-May-15",
+      "publication_date_iso": "2026-05-15",
+      "abstract": "Orthognathic surgery is associated with a risk of compromising velopharyngeal function in patients with cleft lip and/or palate (CL/P), potentially necessitating subsequent velopharyngeal insufficiency (VPI) surgery. This study aimed to determine the incidence and predictors associated with VPI surgery following orthognathic surgery. Retrospective review of the TriNetX database of patients with CL/P who underwent orthognathic surgery to evaluate the incidence of subsequent VPI surgery. Subgroup analyses were performed to compare orthognathic surgery type, cleft classification, history of palatal revision surgery, and previous fistula repair. A total of 1626 patients with CL/P who underwent orthognathic surgery, including 1010 single-jaw and 616 double-jaw procedures, were reviewed. A total of 199 (12.24%) patients required subsequent VPI surgery. The incidence was significantly higher in single-jaw compared with double-jaw surgery (15.25% versus 7.31%; P<0.001). CL/P had a significantly greater rate than those with isolated cleft palate (13.30% versus 3.43%; P<0.001). Bilateral CL/P had a higher incidence than unilateral CL/P, but the difference was not significant (16.36% versus 14.02%; P=0.543). Patients with a history of palatal revision surgery had a significantly higher incidence of subsequent VPI surgery (22.83% versus 11.18%; P=0.001). A history of previous fistula repair was associated with a higher incidence, but the difference was not significant (15.83% versus 11.90%; P=0.239). Velopharyngeal insufficiency surgery was performed in ∼1 in 8 patients with CL/P following orthognathic surgery. Single-jaw surgery, CL/P diagnosis, and history of palatal revision surgery are predictors of subsequent VPI surgery. These findings provide important guidance for patient counseling before orthognathic surgery.",
+      "objective": "",
+      "study_methods": "Retrospective review of the TriNetX database of patients with CL/P who underwent orthognathic surgery to evaluate the incidence of subsequent VPI surgery. Subgroup analyses were performed to compare orthognathic surgery type, cleft classification, history of palatal revision surgery, and previous fistula repair.",
+      "methods": "Retrospective review of the TriNetX database of patients with CL/P who underwent orthognathic surgery to evaluate the incidence of subsequent VPI surgery. Subgroup analyses were performed to compare orthognathic surgery type, cleft classification, history of palatal revision surgery, and previous fistula repair.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42138304/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42138281",
+      "title": "Clinical Efficacy of Titanium-Nickel Shape Memory Alloy Suture for the Repair of Facial Lacerations in Emergency Trauma.",
+      "authors": [
+        "Di Qi",
+        "Meiyao Lv",
+        "Yiwei Liu",
+        "Qingqian Wei",
+        "Lu Zhang",
+        "Xueqin Ao",
+        "Wenxi Xian",
+        "Keye Lin",
+        "Haidong Li"
+      ],
+      "publication_date": "2026-May-15",
+      "publication_date_iso": "2026-05-15",
+      "abstract": "To evaluate the clinical efficacy of Titanium-Nickel (Ti-Ni) shape memory alloy sutures in the deep subcutaneous closure of facial emergency lacerations compared with traditional absorbable sutures. Forty patients were randomized into a treatment group (n=20, Ti-Ni alloy sutures removed at 14 d) and a control group (n=20, traditional absorbable sutures). Both groups received 7-0 nylon for epidermal closure. Outcomes included wound healing, complication rates (infection/rejection), patient satisfaction, and 4-week Vancouver Scar Scale (VSS) scores. The treatment group achieved a 100% primary healing rate with no infections or suture rejections. In the control group, 10% (2/20) of patients experienced infection and suture rejection (P<0.05). Patient satisfaction was 100% in the treatment group compared with 90% in the control group. At 4 weeks postoperatively, the treatment group demonstrated significantly lower VSS scores for scar widening, erythema, and overall impression than the control group (P<0.05). Titanium-nickel (Ti-Ni) memory alloy sutures provide stable tension relief and minimize complications by eliminating long-term subcutaneous foreign bodies. This technique offers a superior alternative for enhancing early cosmetic repair in facial trauma.",
+      "objective": "",
+      "study_methods": "Forty patients were randomized into a treatment group (n=20, Ti-Ni alloy sutures removed at 14 d) and a control group (n=20, traditional absorbable sutures). Both groups received 7-0 nylon for epidermal closure. Outcomes included wound healing, complication rates (infection/rejection), patient satisfaction, and 4-week Vancouver Scar Scale (VSS) scores.",
+      "methods": "Forty patients were randomized into a treatment group (n=20, Ti-Ni alloy sutures removed at 14 d) and a control group (n=20, traditional absorbable sutures). Both groups received 7-0 nylon for epidermal closure. Outcomes included wound healing, complication rates (infection/rejection), patient satisfaction, and 4-week Vancouver Scar Scale (VSS) scores.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42138281/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42140425",
+      "title": "What Are the Functional, Esthetic, and Psychosocial Effects of Orthognathic Surgery on Quality of Life? A Prospective Observational Study.",
+      "authors": [
+        "Fadime İnaç",
+        "Alparslan Esen"
+      ],
+      "publication_date": "2026-May-14",
+      "publication_date_iso": "2026-05-14",
+      "abstract": "Dentofacial deformities are associated with functional, esthetic, and psychosocial impairments that negatively affect quality of life. Orthognathic surgery is used to correct these deformities; however, changes in postoperative quality-of-life may be influenced by both clinical and psychosocial factors. This prospective observational study included 71 patients who underwent orthognathic surgery between June 2023 and June 2024. Oral health-related quality of life was assessed preoperatively, at 6 weeks postoperatively, and at 6 months postoperatively using the Oral Health Impact Profile-14 (OHIP-14) and the Orthognathic Quality of Life Questionnaire (OQLQ). Sociodemographic and psychosocial characteristics were recorded preoperatively. Changes in total and subscale scores were analyzed over time and according to gender, malocclusion type, clinical symptoms, and psychosocial variables. Significant improvements in all OHIP-14 and OQLQ subscale and total scores were observed over time (p < 0.05), with the greatest improvements at the 6-month follow-up. Greater improvements were observed among patients with preoperative speech-related symptoms, school-, work-, or social life-related problems, and mandibular complaints. Gender-related differences were noted, with females showing greater esthetic-related improvements and males showing greater functional improvement. Higher preoperative esthetic severity perception and motivation levels were associated with smaller changes in quality-of-life scores. No significant differences were observed according to malocclusion type or occupation. Improvements in functional, esthetic, and psychosocial aspects of quality of life were observed over time following orthognathic surgery. These changes appear to be associated not only with surgical treatment but also with patients' baseline impairments, expectations, and psychosocial characteristics, highlighting the importance of a multidisciplinary, patient-centered approach in orthognathic treatment planning.",
+      "objective": "",
+      "study_methods": "This prospective observational study included 71 patients who underwent orthognathic surgery between June 2023 and June 2024. Oral health-related quality of life was assessed preoperatively, at 6 weeks postoperatively, and at 6 months postoperatively using the Oral Health Impact Profile-14 (OHIP-14) and the Orthognathic Quality of Life Questionnaire (OQLQ). Sociodemographic and psychosocial characteristics were recorded preoperatively. Changes in total and subscale scores were analyzed over time and according to gender, malocclusion type, clinical symptoms, and psychosocial variables.",
+      "methods": "This prospective observational study included 71 patients who underwent orthognathic surgery between June 2023 and June 2024. Oral health-related quality of life was assessed preoperatively, at 6 weeks postoperatively, and at 6 months postoperatively using the Oral Health Impact Profile-14 (OHIP-14) and the Orthognathic Quality of Life Questionnaire (OQLQ). Sociodemographic and psychosocial characteristics were recorded preoperatively. Changes in total and subscale scores were analyzed over time and according to gender, malocclusion type, clinical symptoms, and psychosocial variables.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42140425/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2930,11 +3238,11 @@
       ],
       "publication_date": "2026-May-11",
       "publication_date_iso": "2026-05-11",
-      "abstract": "Metopic craniosynostosis results in characteristic trigonocephaly and may impair cranial growth. Surgical correction is traditionally performed using fronto-orbital advancement (FOAR), while strip craniectomy with postoperative helmet therapy (SC) has emerged as a minimally invasive alternative. This study compares perioperative outcomes and postoperative cranial shape between FOAR and SC. A retrospective cohort study was conducted at a tertiary pediatric craniofacial unit. Patients with isolated metopic craniosynostosis treated with FOAR or SC between 2015 and 2024 were included. Primary outcomes were operative time, blood transfusion volume, hospital stay, and complication rates. Postoperative cranial morphology was assessed using two-dimensional photograph-derived craniometrics, including the anterior arc angle (AAA). Thirty-six patients were included (FOAR n=18, SC n=18). SC was associated with significantly shorter operative time (83.8±29.2 versus 177.6±31.6 min), shorter hospital stay (1.28±0.46 versus 4.22±0.55 d), and lower transfusion volume (10.1±10.9 versus 33.0±13.8 mL/kg) (all P<0.0001). Total complication rates were 11 percent for SC and 27.8 percent for FOAR. Among patients with available images (n=20), both cohorts showed significant postoperative AAA improvement, without a statistically significant difference between groups. Strip craniectomy with helmet therapy is a safe and effective alternative to FOAR for appropriately selected infants, offering reduced perioperative morbidity and cost while achieving significant short-term improvement in frontal cranial morphology.",
+      "abstract": "Metopic craniosynostosis results in characteristic trigonocephaly and may impair cranial growth. Surgical correction is traditionally performed using fronto-orbital advancement (FOAR), while strip craniectomy with postoperative helmet therapy (SC) has emerged as a minimally invasive alternative. This study compares perioperative outcomes and postoperative cranial shape between FOAR and SC. A retrospective cohort study was conducted at a tertiary pediatric craniofacial unit. Patients with isolated metopic craniosynostosis treated with FOAR or SC between 2015 and 2024 were included. Primary outcomes were operative time, blood transfusion volume, hospital stay, and complication rates. Postoperative cranial morphology was assessed using two-dimensional photograph-derived craniometrics, including the anterior arc angle (AAA). Thirty-six patients were included (FOAR n=18, SC n=18). SC was associated with significantly shorter operative time (83.8±29.2 versus 177.6±31.6 min), shorter hospital stay (1.28±0.46 versus 4.22±0.55 d), and lower transfusion volume (10.1±10.9 versus 33.0±13.8 mL/kg) (all P <0.0001). Total complication rates were 11 percent for SC and 27.8 percent for FOAR. Among patients with available images (n=20), both cohorts showed significant postoperative AAA improvement, without a statistically significant difference between groups. Strip craniectomy with helmet therapy is a safe and effective alternative to FOAR for appropriately selected infants, offering reduced perioperative morbidity and cost while achieving significant short-term improvement in frontal cranial morphology.",
       "objective": "",
       "study_methods": "A retrospective cohort study was conducted at a tertiary pediatric craniofacial unit. Patients with isolated metopic craniosynostosis treated with FOAR or SC between 2015 and 2024 were included. Primary outcomes were operative time, blood transfusion volume, hospital stay, and complication rates. Postoperative cranial morphology was assessed using two-dimensional photograph-derived craniometrics, including the anterior arc angle (AAA).",
       "methods": "A retrospective cohort study was conducted at a tertiary pediatric craniofacial unit. Patients with isolated metopic craniosynostosis treated with FOAR or SC between 2015 and 2024 were included. Primary outcomes were operative time, blood transfusion volume, hospital stay, and complication rates. Postoperative cranial morphology was assessed using two-dimensional photograph-derived craniometrics, including the anterior arc angle (AAA).",
-      "results": "in characteristic trigonocephaly and may impair cranial growth. Surgical correction is traditionally performed using fronto-orbital advancement (FOAR), while strip craniectomy with postoperative helmet therapy (SC) has emerged as a minimally invasive alternative. This study compares perioperative outcomes and postoperative cranial shape between FOAR and SC. A retrospective cohort study was conducted at a tertiary pediatric craniofacial unit. Patients with isolated metopic craniosynostosis treated with FOAR or SC between 2015 and 2024 were included. Primary outcomes were operative time, blood transfusion volume, hospital stay, and complication rates. Postoperative cranial morphology was assessed using two-dimensional photograph-derived craniometrics, including the anterior arc angle (AAA). Thirty-six patients were included (FOAR n=18, SC n=18). SC was associated with significantly shorter operative time (83.8±29.2 versus 177.6±31.6 min), shorter hospital stay (1.28±0.46 versus 4.22±0.55 d), and lower transfusion volume (10.1±10.9 versus 33.0±13.8 mL/kg) (all P<0.0001). Total complication rates were 11 percent for SC and 27.8 percent for FOAR. Among patients with available images (n=20), both cohorts showed significant postoperative AAA improvement, without a statistically significant difference between groups. Strip craniectomy with helmet therapy is a safe and effective alternative to FOAR for appropriately selected infants, offering reduced perioperative morbidity and cost while achieving significant short-term improvement in frontal cranial morphology.",
+      "results": "in characteristic trigonocephaly and may impair cranial growth. Surgical correction is traditionally performed using fronto-orbital advancement (FOAR), while strip craniectomy with postoperative helmet therapy (SC) has emerged as a minimally invasive alternative. This study compares perioperative outcomes and postoperative cranial shape between FOAR and SC. A retrospective cohort study was conducted at a tertiary pediatric craniofacial unit. Patients with isolated metopic craniosynostosis treated with FOAR or SC between 2015 and 2024 were included. Primary outcomes were operative time, blood transfusion volume, hospital stay, and complication rates. Postoperative cranial morphology was assessed using two-dimensional photograph-derived craniometrics, including the anterior arc angle (AAA). Thirty-six patients were included (FOAR n=18, SC n=18). SC was associated with significantly shorter operative time (83.8±29.2 versus 177.6±31.6 min), shorter hospital stay (1.28±0.46 versus 4.22±0.55 d), and lower transfusion volume (10.1±10.9 versus 33.0±13.8 mL/kg) (all P <0.0001). Total complication rates were 11 percent for SC and 27.8 percent for FOAR. Among patients with available images (n=20), both cohorts showed significant postoperative AAA improvement, without a statistically significant difference between groups. Strip craniectomy with helmet therapy is a safe and effective alternative to FOAR for appropriately selected infants, offering reduced perioperative morbidity and cost while achieving significant short-term improvement in frontal cranial morphology.",
       "conclusion": "",
       "limitations": "",
       "topics": [
@@ -2966,235 +3274,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42112986/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42112677",
-      "title": "Masseter and Pterygoid Muscle Hypertrophy in a Cat.",
-      "authors": [
-        "Jennifer B Alterman",
-        "Cynthia M Bell",
-        "Erin E Epperly"
-      ],
-      "publication_date": "2026-May-11",
-      "publication_date_iso": "2026-05-11",
-      "abstract": "A 6-year-old neutered male feline patient was presented with left sided facial swelling. A diagnosis of benign hypertrophy of the masseter and pterygoid muscles was made based on clinical, imaging, and histopathologic findings. Benign hypertrophy of masticatory muscles is an uncommon condition described in the human literature. Masseter muscle hypertrophy has been diagnosed rarely in humans with few references reporting concurrent hypertrophy of the medial and lateral pterygoid muscles. The primary inciting cause of this condition is unknown. Treatment in humans is primarily sought for cosmetic reasons with multiple treatment modalities being described including medical and surgical management. This article describes the first reported case of benign masseter and pterygoid muscle hypertrophy in the veterinary literature.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42112677/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42106709",
-      "title": "Effect of concentrated growth factors on early soft tissue healing and postoperative recovery after mesioangular impacted lower third-molar extraction: a randomised split-mouth clinical trial.",
-      "authors": [
-        "Moatasem Alshtawi",
-        "Gamil Al-Madhagy",
-        "Khaldoun Darwich"
-      ],
-      "publication_date": "2026-May-09",
-      "publication_date_iso": "2026-05-09",
-      "abstract": "The purpose of this randomised, split-mouth clinical trial study is to investigate the effect of concentrated growth factors (CGF) on the healing of soft tissues and postoperative sequelae following the extraction of mesioangular impacted lower third molars in a split-mouth design. Twenty-five patients, systematically healthy, aged between 18 and 35, were subjected to bilateral lower third molar extraction (Class II, division B) at the oral surgery clinics in Damascus University, Syria, from October 2023 to July 2025. CGF was applied to one extraction site (test), and the opposite side served as a control (no treatment). Randomization was achieved through sealed envelopes, and the patients, outcome assessor, and data analyst were blinded. The main outcome was soft tissue healing, which was assessed by the Landry healing score at the 7th postoperative day. Secondary outcomes investigated were pain, which was assessed by the Visual Analog Scale throughout the 7th postoperative days, facial swelling, evaluated by the tape method at baseline, day 3, and day 7, and trismus by measuring the inter-incisal distance at baseline, third, and seventh postoperative days. Bonferroni correction was applied for repeated postoperative comparisons. At postoperative day 7, the CGF-treated sides exhibited superior healing compared with control sides (p = 0.008). Lower pain scores were observed in the test group during the first four postoperative days (unadjusted p < 0.05); however, these differences did not remain statistically significant after Bonferroni correction. (p > 0.05). Facial swelling was significantly lower in the CGF group on day 3 (p = 0.011) but not at day 7 (p = 0.247). No significant differences were found for trismus at any time-point (p = 0.260 & 0.615). The application of CGF to extraction sockets following surgical removal of mesioangular impacted mandibular third molars was associated with improved early soft tissue healing and reduced facial swelling at day 3. Although lower early postoperative pain scores were observed, these differences did not persist after multiplicity adjustment. No significant effects were observed for trismus or at later time points. CGF may represent a promising adjunctive local approach to support early postoperative recovery, particularly for enhancing soft tissue healing. Further research with larger samples and extended follow-up is recommended. Thailand Clinical Trial Registry (TCTR). Registration number (ID: TCTR20251102008). Registered on 02/11/2025 (retrospective registration). URL: (https://www.thaiclinicaltrials.org/show/TCTR20251102008).",
-      "objective": "of this randomised, split-mouth clinical trial study is to investigate the effect of concentrated growth factors (CGF) on the healing of soft tissues and postoperative sequelae following the extraction of mesioangular impacted lower third molars in a split-mouth design. Twenty-five patients, systematically healthy, aged between 18 and 35, were subjected to bilateral lower third molar extraction (Class II, division B) at the oral surgery clinics in Damascus University, Syria, from October 2023 to July 2025. CGF was applied to one extraction site (test), and the opposite side served as a control (no treatment). Randomization was achieved through sealed envelopes, and the patients, outcome assessor, and data analyst were blinded. The main outcome was soft tissue healing, which was assessed by the Landry healing score at the 7th postoperative day. Secondary outcomes investigated were pain, which was assessed by the Visual Analog Scale throughout the 7th postoperative days, facial swelling, evaluated by the tape",
-      "study_methods": "Twenty-five patients, systematically healthy, aged between 18 and 35, were subjected to bilateral lower third molar extraction (Class II, division B) at the oral surgery clinics in Damascus University, Syria, from October 2023 to July 2025. CGF was applied to one extraction site (test), and the opposite side served as a control (no treatment). Randomization was achieved through sealed envelopes, and the patients, outcome assessor, and data analyst were blinded. The main outcome was soft tissue healing, which was assessed by the Landry healing score at the 7th postoperative day. Secondary outcomes investigated were pain, which was assessed by the Visual Analog Scale throughout the 7th postoperative days, facial swelling, evaluated by the tape method at baseline, day 3, and day 7, and trismus by measuring the inter-incisal distance at baseline, third, and seventh postoperative days. Bonferroni correction was applied for repeated postoperative comparisons.",
-      "methods": "Twenty-five patients, systematically healthy, aged between 18 and 35, were subjected to bilateral lower third molar extraction (Class II, division B) at the oral surgery clinics in Damascus University, Syria, from October 2023 to July 2025. CGF was applied to one extraction site (test), and the opposite side served as a control (no treatment). Randomization was achieved through sealed envelopes, and the patients, outcome assessor, and data analyst were blinded. The main outcome was soft tissue healing, which was assessed by the Landry healing score at the 7th postoperative day. Secondary outcomes investigated were pain, which was assessed by the Visual Analog Scale throughout the 7th postoperative days, facial swelling, evaluated by the tape method at baseline, day 3, and day 7, and trismus by measuring the inter-incisal distance at baseline, third, and seventh postoperative days. Bonferroni correction was applied for repeated postoperative comparisons.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42106709/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42107885",
-      "title": "MRI-Histopathological Correlation Analysis of Tumor Infiltration in Squamous Cell Carcinomas of the Floor of the Mouth.",
-      "authors": [
-        "Deroussen Lauren",
-        "Pellat Andréanne",
-        "Lenfant Marc",
-        "Issad Mehdi",
-        "Zwetyenga Narcisse"
-      ],
-      "publication_date": "2026-May-08",
-      "publication_date_iso": "2026-05-08",
-      "abstract": "To retrospectively analyze the existence of a correlation between MRI findings and histopathological data on tumor infiltration in squamous cell carcinomas of the floor of the mouth. A retrospective study from January 1, 2015 to January 31, 2023 including Dijon University Hospital patients who were diagnosed with squamous cell carcinoma of the floor of the mouth and underwent surgical management and histopathological examination. The correlation between MRI and histopathological measurements was assessed using Spearman's rank correlation test, with a p-value ≤ 0.05 considered statistically significant. Twenty patients were included, 15 were male (75%), with a mean age of 66 years. All patients had exposure to major risk factors such as tobacco and/or alcohol consumption. The eighth edition of the TNM classification was used. A significant correlation was found between MRI and histological measurements (p=0.0005). This correlation remained significant for patients with a treatment delay of four weeks or less (p=0.0310), but was not significant for delays greater than four weeks (p=0.0830). There is significant MRI-histopathological correlation with tumor infiltration in squamous cell carcinomas of the floor of the mouth, underlining the importance of prompt care to maximize the reliability of imaging assessments and optimize therapeutic decisions.",
-      "objective": "",
-      "study_methods": "A retrospective study from January 1, 2015 to January 31, 2023 including Dijon University Hospital patients who were diagnosed with squamous cell carcinoma of the floor of the mouth and underwent surgical management and histopathological examination. The correlation between MRI and histopathological measurements was assessed using Spearman's rank correlation test, with a p-value ≤ 0.05 considered statistically significant.",
-      "methods": "A retrospective study from January 1, 2015 to January 31, 2023 including Dijon University Hospital patients who were diagnosed with squamous cell carcinoma of the floor of the mouth and underwent surgical management and histopathological examination. The correlation between MRI and histopathological measurements was assessed using Spearman's rank correlation test, with a p-value ≤ 0.05 considered statistically significant.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42107885/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42106250",
-      "title": "In reply to the comment on \"Mixed reality-assisted orthognathic surgery with pre-bent titanium plates\".",
-      "authors": [
-        "L Huang",
-        "H Li",
-        "V Yau",
-        "E Luo"
-      ],
-      "publication_date": "2026-May-08",
-      "publication_date_iso": "2026-05-08",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42106250/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42106248",
-      "title": "Comment on: \"Mixed reality-assisted orthognathic surgery with pre-bent titanium plates\".",
-      "authors": [
-        "R Grillo"
-      ],
-      "publication_date": "2026-May-08",
-      "publication_date_iso": "2026-05-08",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42106248/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42104099",
-      "title": "Detection of mandibular condylar fractures on head CT scans in infants with witnessed falls.",
-      "authors": [
-        "Bethelhem Belachew",
-        "Marcus Meneses",
-        "Taisa Guarilha",
-        "Carmen R Cerron-Vela",
-        "Karuna Shekdar",
-        "Savvas Andronikou"
-      ],
-      "publication_date": "2026-May-08",
-      "publication_date_iso": "2026-05-08",
-      "abstract": "Infants experience facial fractures infrequently due to their limited mobility, and when such injuries do occur, the mandible is among the most affected facial bones. Isolated mandibular condylar fractures, however, are rarely reported in this age group. Clinical detection is particularly challenging in nonverbal infants, making careful imaging assessment essential when evaluating facial trauma. This case series presents infants with condylar fractures that were first identified on head CT studies, emphasizing key clinical considerations and the importance of evaluating the mandibular condyles on every head CT.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42104099/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42101739",
-      "title": "Temporomandibular joint (TMJ) morphology in jaw deformity patients (class II and III) before and after surgical orthodontic treatment: a narrative review.",
-      "authors": [
-        "Koichiro Ueki",
-        "Karen Gomi",
-        "Kohara Riku",
-        "Yusuke Kurosawa",
-        "Kunio Yoshizawa",
-        "Akinori Moroi"
-      ],
-      "publication_date": "2026-May-08",
-      "publication_date_iso": "2026-05-08",
-      "abstract": "Understanding changes in temporomandibular joint (TMJ) and ramus morphology in skeletal Class II and Class III jaw deformity patients before and after surgical orthodontic treatment is essential for achieving stable postoperative outcomes. Alterations in the positional relationship and morphology of the condyle, TMJ disc, and glenoid fossa can significantly influence postoperative occlusion and skeletal stability. Previous studies have demonstrated close associations among maxillofacial morphology, occlusion, and TMJ structure.In this narrative review, we summarize findings from our previous investigations regarding changes in TMJ morphology-including disc position, joint space, macroscopic morphology of the condyle and ramus, and computed tomography (CT) values-as well as considerations based on stress analysis in skeletal Class II and Class III deformities. These insights may contribute to a better understanding of anatomical characteristics of the TMJ in jaw deformity patients and may aid in predicting postoperative morphological changes.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42101739/",
-      "pmcid": "PMC13158313",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42101549",
-      "title": "The use of internal irrigation versus external and combined irrigation during dental implant bed preparation, a systematic review.",
-      "authors": [
-        "Valerio Cimini",
-        "Alexandre Perez",
-        "Hamzah Shabana",
-        "Roberto Di Felice",
-        "Tommaso Lombardi"
-      ],
-      "publication_date": "2026-May-08",
-      "publication_date_iso": "2026-05-08",
-      "abstract": "The aim of this study was to analyze the role and capacity of internal irrigation compared to external irrigation and, when applicable, combined irrigation to reduce and control bone heating during implant bed preparation. This systematic review was conducted according to predefined inclusion and exclusion criteria. A comprehensive literature search was performed in PubMed, Embase, Cochrane, Web of Science, and Google Scholar up to September 2025. Studies evaluating irrigation methods during implant osteotomy were included. Screening, selection, and risk of bias assessment were performed following a standardized protocol. 201 records were found. After deduplication, screening, and full-text evaluation, 10 in vitro studies were included for qualitative analysis and evaluation of risk of bias. At the same time, no animal studies fully met the inclusion criteria, and no randomized clinical trials were identified. Reports show that the peak temperature changes (ΔT) varied substantially, from 1.48 to 75.4 °C. In most studies, internal irrigation was shown to have superior cooling efficiency during the implant bed preparation compared to external irrigation, particularly in deeper osteotomies or when surgical guides were used. Combined irrigation also appeared to be a beneficial method. However, its performance varied depending on drill design and experimental setup. Risk of bias, assessed with the QUIN tool, was moderate to high, reflecting heterogeneity in study model, sampling, and reporting. Within the limitations of current evidence, internal irrigation emerges as an efficient method to control thermal and heat elevation during implant osteotomy.",
-      "objective": "of this study was to analyze the role and capacity of internal irrigation compared to external irrigation and, when applicable, combined irrigation to reduce and control bone heating during implant bed preparation. This systematic review was conducted according to predefined inclusion and exclusion criteria. A comprehensive literature search was performed in PubMed, Embase, Cochrane, Web of Science, and Google Scholar up to September 2025. Studies evaluating irrigation",
-      "study_methods": "This systematic review was conducted according to predefined inclusion and exclusion criteria. A comprehensive literature search was performed in PubMed, Embase, Cochrane, Web of Science, and Google Scholar up to September 2025. Studies evaluating irrigation methods during implant osteotomy were included. Screening, selection, and risk of bias assessment were performed following a standardized protocol.",
-      "methods": "This systematic review was conducted according to predefined inclusion and exclusion criteria. A comprehensive literature search was performed in PubMed, Embase, Cochrane, Web of Science, and Google Scholar up to September 2025. Studies evaluating irrigation methods during implant osteotomy were included. Screening, selection, and risk of bias assessment were performed following a standardized protocol.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42101549/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42101071",
-      "title": "Three Data-Driven Lip Soft-Tissue Phenotypes and Their Dento-Skeletal Associations in Orthodontic Patients: An Exploratory Unsupervised Learning Study.",
-      "authors": [
-        "Xiaoqi Zhang",
-        "Lu Xing",
-        "Waseem Ai-Gumaei",
-        "Xiaoqian Zhang",
-        "Hu Long",
-        "Minqi Li",
-        "Wenli Lai"
-      ],
-      "publication_date": "2026-May-08",
-      "publication_date_iso": "2026-05-08",
-      "abstract": "Conventional facial diagnosis emphasizes skeletal and dental measures while lip features are assessed piecemeal. We aimed to identify data-driven lip soft-tissue phenotypes using unsupervised machine learning and examine their associations with skeletal and dental characteristics. In a retrospective cross-sectional study, 10 lip measurements were extracted from standardized lateral cephalometric radiographs. Variables were z-score standardized and analysed using k-means clustering. Of 26 NbClust validation indices, 14 (53.8%) supported a three-cluster solution. Cluster stability was assessed by bootstrap resampling (B = 100) and 10-fold cross-validation. Post hoc feature importance was evaluated using PCA, Random Forest, SVM and XGBoost. A decision tree was trained and evaluated by 10-fold cross-validation repeated five times. Associations with craniofacial parameters were examined via within-class ANOVA, Cramér's V and hierarchical regression. Concordant pairings were defined as Cluster 1-Class I, Cluster 2-Class II and Cluster 3-Class III; all others were classified as discordant. Three phenotypes emerged-Thin-Straight (n = 638), Protrusive-Convex (n = 644) and Thick-Concave (n = 389)-showing broad correspondence with skeletal Classes I, II and III, respectively (Cramér's V = 0.386; overall concordance 52.8%). Lip protrusion and thickness were the primary discriminators (4/4 method consensus for UL_EP_mm, Cm_Sn_Ls, SSD; 3/4 for ULT). Within each skeletal class, all lip variables differed significantly across phenotypes (all p < 0.001; η2 = 0.10-0.54 for lip variables), and lip phenotype independently predicted incisor inclination beyond skeletal covariates (ΔR2adj = 0.058-0.078, p < 0.001). An interpretable decision tree achieved 88.0% cross-validated accuracy (macro-F1 = 0.876) for phenotype assignment. Unsupervised learning identified three reproducible lip soft-tissue phenotypes that complement conventional dentoskeletal description by capturing within-class soft-tissue heterogeneity. The framework is exploratory and requires prospective external validation and outcome-based studies before clinical triage application.",
-      "objective": "",
-      "study_methods": "In a retrospective cross-sectional study, 10 lip measurements were extracted from standardized lateral cephalometric radiographs. Variables were z-score standardized and analysed using k-means clustering. Of 26 NbClust validation indices, 14 (53.8%) supported a three-cluster solution. Cluster stability was assessed by bootstrap resampling (B = 100) and 10-fold cross-validation. Post hoc feature importance was evaluated using PCA, Random Forest, SVM and XGBoost. A decision tree was trained and evaluated by 10-fold cross-validation repeated five times. Associations with craniofacial parameters were examined via within-class ANOVA, Cramér's V and hierarchical regression. Concordant pairings were defined as Cluster 1-Class I, Cluster 2-Class II and Cluster 3-Class III; all others were classified as discordant.",
-      "methods": "In a retrospective cross-sectional study, 10 lip measurements were extracted from standardized lateral cephalometric radiographs. Variables were z-score standardized and analysed using k-means clustering. Of 26 NbClust validation indices, 14 (53.8%) supported a three-cluster solution. Cluster stability was assessed by bootstrap resampling (B = 100) and 10-fold cross-validation. Post hoc feature importance was evaluated using PCA, Random Forest, SVM and XGBoost. A decision tree was trained and evaluated by 10-fold cross-validation repeated five times. Associations with craniofacial parameters were examined via within-class ANOVA, Cramér's V and hierarchical regression. Concordant pairings were defined as Cluster 1-Class I, Cluster 2-Class II and Cluster 3-Class III; all others were classified as discordant.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42101071/",
       "pmcid": "",
       "figure_urls": []
     }
