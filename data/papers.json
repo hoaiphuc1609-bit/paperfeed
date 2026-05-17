@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T05:33:31Z",
+  "updated_at": "2026-05-17T05:55:48Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -362,6 +362,35 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41909504/",
       "pmcid": "PMC13019078",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41819044",
+      "title": "Comparative effects of Vitex agnus-castus and estradiol on bone tissue and osteoblasts under estrogen-deficient and oxidative stress conditions.",
+      "authors": [
+        "Maria Carolina Coelho",
+        "Luiz Gabriel Plasier Guedes de Mello",
+        "Yasmin Tavares Camargo",
+        "Roger Rodrigo Fernandes",
+        "Sayuri Poli Suguimoto",
+        "Roberta Okamoto",
+        "Selma Siessere",
+        "Karina Fittipaldi Bombonato-Prado"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "In estrogen-deficient osteoporosis, oxidative stress plays a pathogenic role and represents a target for strategies to prevent bone loss. Current treatments may cause side effects, motivating the search for alternatives, including phytoestrogens like Vitex agnus-castus (VAC), which structurally resemble endogenous estrogens. However, whether VAC alone is sufficient to exert osteoprotective effects under estrogen deficiency remains unclear. This study evaluated the isolated effects of VAC compared to estrogen replacement in ovariectomized rats and osteoblastic cells exposed to oxidative stress. VAC (200 mg/kg) and β-estradiol (20 µg/kg) were administered for 12 weeks after ovariectomy, and femur and mandible bones were analyzed by histomorphometry and micro-computed tomography. Bone marrow-derived mesenchymal cells and MC3T3-E1 cells were cultured with VAC (1 µg/mL) or β-estradiol (10-8 mol/L), followed by 400 μmol/L hydrogen peroxide exposure. In situ alkaline phosphatase (ALP) detection, mineralization, and gene expression were evaluated. Ovariectomy impaired bone microarchitecture and decreased femoral bone volume up to 60%, whereas estradiol preserved trabecular structure and VAC showed limited protective effects. Micro-CT confirmed reduced trabecular number and increased trabecular separation in the femur after ovariectomy, prevented by estradiol but not by VAC. Oxidative stress reduced ALP detection and mineralization. Estradiol improved mineralization, whereas VAC partially restored ALP deposition and upregulated Alp, Runx2, Bsp, and Sod3 expression under oxidative stress conditions. These findings indicate that, although VAC modulates osteogenic and antioxidant pathways, its isolated administration is insufficient to replace estrogen therapy, highlighting the need for optimized dosing and combination strategies.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41819044/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -1328,7 +1357,6 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery",
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42019204/",
