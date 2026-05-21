@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T06:16:00Z",
+  "updated_at": "2026-05-21T06:15:11Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -322,7 +322,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42111417/",
       "pmcid": "PMC13156564",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13156564/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13156564/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13156564/bin/gr3.jpg"
+      ]
     },
     {
       "pmid": "41909511",
@@ -529,7 +533,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42099751/",
       "pmcid": "PMC13147769",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13147769/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13147769/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13147769/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13147769/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42063745",
@@ -1056,7 +1065,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42138606/",
       "pmcid": "PMC13178280",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13178280/bin/CRE2-12-e70377-g003.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13178280/bin/CRE2-12-e70377-g003.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13178280/bin/CRE2-12-e70377-g004.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13178280/bin/CRE2-12-e70377-g004.gif"
+      ]
     },
     {
       "pmid": "42138577",
@@ -1117,7 +1131,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42132365/",
       "pmcid": "PMC13174906",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g002.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g003.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g003.gif"
+      ]
     },
     {
       "pmid": "42125759",
@@ -1199,7 +1218,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42100133/",
       "pmcid": "PMC13144587",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144587/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144587/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144587/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144587/bin/gr1.gif"
+      ]
     },
     {
       "pmid": "42093738",
@@ -1231,7 +1255,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42093738/",
       "pmcid": "PMC13139972",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13139972/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13139972/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13139972/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13139972/bin/gr1.gif"
+      ]
     },
     {
       "pmid": "42093736",
@@ -1257,7 +1286,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42093736/",
       "pmcid": "PMC13142119",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13142119/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13142119/bin/sc1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13142119/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13142119/bin/gr2.jpg"
+      ]
     },
     {
       "pmid": "42059007",
@@ -2286,6 +2320,36 @@
       "figure_urls": []
     },
     {
+      "pmid": "41108135",
+      "title": "Mussel-Inspired Etchant with Catechol-Lys-Methacrylate for Bond Durability.",
+      "authors": [
+        "Y T Hu",
+        "C Y Yang",
+        "D J Wang",
+        "X R Feng",
+        "F R Tay",
+        "J H Chen",
+        "X D Xing",
+        "Y H Xiao",
+        "L Zhang"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Resin-dentin bonding technology is the primary method for tooth restoration in clinical practice. However, the formation of a defect zone at the bonding interface due to inadequate moisture control at the interface remains a major challenge. Inspired by mussel wet-adhesion mechanisms, this study functionalized phosphoric acid etchants with catechol-lysine-methacrylate (CLM), a polymerizable small-molecule monomer. During dentin demineralization, catechol binding to demineralized dentin was confirmed using an incubation-rinsing technique, while lysine's role in facilitating rapid water release at the bonding interface was validated by freeze-drying mass loss, surface charge distribution, and thermogravimetric analysis. Confocal laser scanning microscopy revealed increased resin tag lengths in the CLM-treated groups, indicating enhanced resin infiltration. Ultimate tensile strength, dry mass loss, sodium dodecyl sulfate-polyacrylamide gel electrophoresis, and in situ zymography demonstrated catechol-enabled collagen stabilization via Schiff base/ester bonds and endogenous enzyme inhibition. Micro-tensile testing revealed that the 4- to 5-mg/mL CLM groups maintained bond strength after 10,000 thermal cycles. Thus, CLM-functionalized etchants may enhance bonding durability in vitro by improving moisture control and collagen stability.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41108135/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "40681156",
       "title": "Complications and Hardware Failure Following Synthetic Cranioplasty Implants and Free Flap Coverage.",
       "authors": [
@@ -2432,6 +2496,65 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40302530/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42160811",
+      "title": "The Efficacy and Safety of Intranasal Dexmedetomidine Spray Followed by Nitrous Oxide for Paediatric Oral Procedures.",
+      "authors": [
+        "Yu-Jie Xiao",
+        "Hong-Yu Zhang",
+        "Meng-Di Nie",
+        "Guo-Sheng Liu",
+        "Wei Peng",
+        "Ji-Hong Zhao",
+        "Zhen-Hao Hu",
+        "Huan Sun",
+        "Yang Wu"
+      ],
+      "publication_date": "2026-May-20",
+      "publication_date_iso": "2026-05-20",
+      "abstract": "The management of uncooperative children requiring complex outpatient oral procedures presents a significant clinical challenge. This study aimed to evaluate the safety and efficacy of intranasal dexmedetomidine (DEX) spray combined with nitrous oxide/oxygen (N₂O/O₂) inhalation sedation for the extraction of impacted supernumerary teeth in paediatric patients. This retrospective clinical study enrolled uncooperative children aged 6 to 12 years (Frankl Scale score 2-3). Preoperative sedation was achieved using 2 µg/kg intranasal DEX spray. After sedation onset, heart rate (HR), blood pressure (BP), and oxygen saturation (SpO₂) were monitored. Throughout the procedure, N₂O/O₂ inhalation was administered to maintain a moderate sedation level, with HR, BP, SpO₂, and sedation depth recorded at 5-minute intervals. Postoperatively, patients were observed in the recovery room until all discharge criteria were met. All 63 patients (34 boys and 29 girls) cooperated with nasal hood placement and successfully underwent parental separation. Sixty children (95.24%) completed the procedure successfully, with 56 (88.89%) maintaining moderate sedation depth throughout. There were significant decreases in HR and BP (P < .001), while SpO₂ (P = .120) remained stable during procedures. Adverse events included drowsiness (5 cases, 7.94%), dizziness (2 cases, 3.17%), and hypotension (8 cases, 12.70%). Only one (1.59%) case experienced hypoxemia concurrently presenting with bradycardia and hypotension, which required brief clinical intervention. The combination of intranasal DEX spray and N₂O/O₂ appears to be a promising sedation technique for impacted supernumerary tooth extraction in paediatric patients, with minimal adverse effects rarely requiring clinical intervention. This protocol shows promise in addressing the challenge of non-cooperation prior to N₂O administration, and may offer an effective, convenient, and relatively safe approach for managing uncooperative paediatric patients undergoing complex oral surgery.",
+      "objective": "",
+      "study_methods": "This retrospective clinical study enrolled uncooperative children aged 6 to 12 years (Frankl Scale score 2-3). Preoperative sedation was achieved using 2 µg/kg intranasal DEX spray. After sedation onset, heart rate (HR), blood pressure (BP), and oxygen saturation (SpO₂) were monitored. Throughout the procedure, N₂O/O₂ inhalation was administered to maintain a moderate sedation level, with HR, BP, SpO₂, and sedation depth recorded at 5-minute intervals. Postoperatively, patients were observed in the recovery room until all discharge criteria were met.",
+      "methods": "This retrospective clinical study enrolled uncooperative children aged 6 to 12 years (Frankl Scale score 2-3). Preoperative sedation was achieved using 2 µg/kg intranasal DEX spray. After sedation onset, heart rate (HR), blood pressure (BP), and oxygen saturation (SpO₂) were monitored. Throughout the procedure, N₂O/O₂ inhalation was administered to maintain a moderate sedation level, with HR, BP, SpO₂, and sedation depth recorded at 5-minute intervals. Postoperatively, patients were observed in the recovery room until all discharge criteria were met.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42160811/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42160810",
+      "title": "Corrigendum to 'Significance of methyltransferase-like 5 expression in oral squamous cell carcinoma' [Volume 76, Issue 3, June 2026, 109533].",
+      "authors": [
+        "Yuka Kajiya",
+        "Kaori Shima",
+        "Yudai Shimojukkoku",
+        "Yasunobu Oku",
+        "Takahiro Tsuchiyama",
+        "Kanako Higashimoto",
+        "Miyako Kurihara-Shimomura",
+        "Tomonori Sasahira"
+      ],
+      "publication_date": "2026-May-20",
+      "publication_date_iso": "2026-05-20",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42160810/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3141,140 +3264,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42129519/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42130417",
-      "title": "Orthognathic Surgery in Syndromic Craniosynostosis: A Narrative Review of Predictive Factors and Outcomes.",
-      "authors": [
-        "Ruby Ar Fussell",
-        "Rhodri Ohl Davies"
-      ],
-      "publication_date": "2026-May-13",
-      "publication_date_iso": "2026-05-13",
-      "abstract": "Syndromic craniosynostosis presents significant surgical challenges, requiring staged management from infancy through adolescence. Early interventions such as cranial vault expansion and midface advancement address intracranial pressure, airway compromise, and psychosocial concerns, yet often residual midface retrusion and malocclusion persists or re-develops by skeletal maturity. Orthognathic surgery is therefore frequently required, but early predictors of this long-term need remain poorly defined. For this narrative review, relevant English-language articles published between 2004 and 2024 were identified by searching PubMed using a combination of MeSH terms and free-text keywords (\"Craniosynostoses/surgery,\" \"Orthognathic Surgery,\" and \"Syndromic Craniosynostosis\"). Reference lists of key papers were manually searched to identify additional studies. Eligible publications included peer-reviewed clinical studies, outcome reports, and reviews describing orthognathic surgery in syndromic craniosynostosis, with particular focus on prognostic factors. Data were extracted and synthesised thematically. Eighteen studies met the inclusion criteria. The severity of midface hypoplasia, especially as measured by SNA angle and morphometric CT analyses, emerged as the most consistent indicator of orthognathic need. Most Apert and Crouzon patients required definitive orthognathic procedures despite earlier midface advancement, while Muenke patients demonstrated a lower likelihood of further intervention. Orthognathic surgery was consistently reported as safe and produced occlusal outcomes comparable to nonsyndromic populations. In conclusion, although midface retrusion severity correlates with surgical need, validated predictive tools are lacking. Exploratory and further longitudinal research is required to improve prognostication tools and guide surgical sequencing in this high-need patient group.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": ", although midface retrusion severity correlates with surgical need, validated predictive tools are lacking. Exploratory and further longitudinal research is required to improve prognostication tools and guide surgical sequencing in this high-need patient group.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42130417/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42128998",
-      "title": "Volumetric analysis of bone resorption rate during lateral sinus lift: a retrospective study.",
-      "authors": [
-        "Thouveny Gabriel",
-        "Cuny Constance",
-        "Zitouni Anissa",
-        "Pujos Théo",
-        "Canceill Thibault",
-        "Cousty Sarah",
-        "Dubuc Antoine"
-      ],
-      "publication_date": "2026-May-13",
-      "publication_date_iso": "2026-05-13",
-      "abstract": "To evaluate 1-year bone resorption after lateral sinus lift and assess the influence of contributing factors (Schneiderian membrane perforation, sinus anatomy, and surgical variables). This observational retrospective monocentric study compared CBCT-based volumetric outcomes in patients undergoing lateral sinus lift between 2020 and 2025. Scans were obtained immediately postoperatively and at 1-year follow-up, allowing precise three-dimensional assessment of grafted bone volume and evaluation of the impact of intraoperative membrane perforation. Bone volumes were measured using 3D Slicer® with semi-automatic segmentation, a 3D imaging method enabling precise volumetric assessment of grafted bone. Multivariate analyses were performed to explore associations between anatomical features, graft characteristics, and bone resorption. Forty-one sinuses were analyzed (mean age 62.8 ± 11.4 years). Bone loss was classified as < 10% (n = 4), 10-25% (n = 12), 25-50% (n = 18), and ≥ 50% (n = 7). No significant differences in age, sex, initial bone height, volume, or membrane thickness were observed between perforation and control groups. Multivariate analysis suggested that initial graft volume and sinus morphology influenced cases with ≥ 50% resorption, while properly managed membrane perforations did not significantly affect graft stability. One-year bone resorption after lateral sinus lift is multifactorial, and proper management of Schneiderian membrane perforations minimizes their impact on graft volume. The management of perforations and surgical technique appear to play a more significant role in graft stability than the simple occurrence of a perforation.",
-      "objective": "",
-      "study_methods": "This observational retrospective monocentric study compared CBCT-based volumetric outcomes in patients undergoing lateral sinus lift between 2020 and 2025. Scans were obtained immediately postoperatively and at 1-year follow-up, allowing precise three-dimensional assessment of grafted bone volume and evaluation of the impact of intraoperative membrane perforation. Bone volumes were measured using 3D Slicer® with semi-automatic segmentation, a 3D imaging method enabling precise volumetric assessment of grafted bone. Multivariate analyses were performed to explore associations between anatomical features, graft characteristics, and bone resorption.",
-      "methods": "This observational retrospective monocentric study compared CBCT-based volumetric outcomes in patients undergoing lateral sinus lift between 2020 and 2025. Scans were obtained immediately postoperatively and at 1-year follow-up, allowing precise three-dimensional assessment of grafted bone volume and evaluation of the impact of intraoperative membrane perforation. Bone volumes were measured using 3D Slicer® with semi-automatic segmentation, a 3D imaging method enabling precise volumetric assessment of grafted bone. Multivariate analyses were performed to explore associations between anatomical features, graft characteristics, and bone resorption.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42128998/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42126277",
-      "title": "Orthodontic Patients' Motivation and Decision-Making for Seeking Treatment With Traditional Fixed Appliances, Clear Aligners and Direct-To-Consumer Clear Aligners: A Qualitative Study-Part I.",
-      "authors": [
-        "Sherry Lee",
-        "Ben Daniel",
-        "Li Mei",
-        "Mauro Farella",
-        "Fiona A Firth"
-      ],
-      "publication_date": "2026-May-13",
-      "publication_date_iso": "2026-05-13",
-      "abstract": "Qualitative data helps explore factors surrounding patients' decisions with orthodontic treatment. The objectives were (1) to understand patients' motivation to undertake orthodontic treatment, (2) to understand their choices of a specific treatment modality, and (3) to determine the kinds of information provided to patients prior to receiving treatment. The study was an exploratory case study design. Thirty adults who completed orthodontic treatment with three different treatment modalities within the last twelve months in New Zealand were recruited. Patients undergoing treatment and those who had orthognathic surgery were excluded. Semi-structured, one-to-one interviews were conducted. The transcripts were analysed with NVivo software using a qualitative thematic analysis inductive approach. Three principal themes were identified in the data: Motivation for orthodontic treatment, the decision for treatment with a specific treatment modality, and patient information and education. Self-consciousness, aesthetics, relapse of previous orthodontic treatment, cleanability, and a previous financial barrier to seeking orthodontic treatment were motivating factors. Patients opted for traditional fixed appliances due to recommendation and trust; clear aligners due to age, working environment, and aesthetics; and direct-to-consumer clear aligners due to low cost. All participants had little knowledge about orthodontics prior to commencing treatment, and the provision of information for informed consent was not equal for each of the three groups. The primary motivators of individuals seeking treatment were self-consciousness, aesthetics, and previous financial constraints. Cost had the most significant impact when selecting a specific treatment modality.",
-      "objective": "were (1) to understand patients' motivation to undertake orthodontic treatment, (2) to understand their choices of a specific treatment modality, and (3) to determine the kinds of information provided to patients prior to receiving treatment. The study was an exploratory case study design. Thirty adults who completed orthodontic treatment with three different treatment modalities within the last twelve months in New Zealand were recruited. Patients undergoing treatment and those who had orthognathic surgery were excluded. Semi-structured, one-to-one interviews were conducted. The transcripts were analysed with NVivo software using a qualitative thematic analysis inductive approach. Three principal themes were identified in the data: Motivation for orthodontic treatment, the decision for treatment with a specific treatment modality, and patient information and education. Self-consciousness, aesthetics, relapse of previous orthodontic treatment, cleanability, and a previous financial barrier to seeking orthodontic treatment were motivating factors. Patients opted for traditional fixed appliances due to recommendation and trust; clear aligners due to age, working environment, and aesthetics; and direct-to-consumer clear aligners due to low cost. All participants had little knowledge about orthodontics prior to commencing treatment, and the provision of information for informed consent was not equal for each of the three groups. The primary motivators of individuals seeking treatment were self-consciousness, aesthetics, and previous financial constraints. Cost had the most significant impact when selecting a specific treatment modality.",
-      "study_methods": "The study was an exploratory case study design. Thirty adults who completed orthodontic treatment with three different treatment modalities within the last twelve months in New Zealand were recruited. Patients undergoing treatment and those who had orthognathic surgery were excluded. Semi-structured, one-to-one interviews were conducted. The transcripts were analysed with NVivo software using a qualitative thematic analysis inductive approach.",
-      "methods": "The study was an exploratory case study design. Thirty adults who completed orthodontic treatment with three different treatment modalities within the last twelve months in New Zealand were recruited. Patients undergoing treatment and those who had orthognathic surgery were excluded. Semi-structured, one-to-one interviews were conducted. The transcripts were analysed with NVivo software using a qualitative thematic analysis inductive approach.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42126277/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42121154",
-      "title": "Effectiveness of real-time dynamic navigation in third molar extraction: a systematic review.",
-      "authors": [
-        "Maria Nabil Aziz",
-        "Akram Thabet Nasher",
-        "Omar Ali Al-Aroomi"
-      ],
-      "publication_date": "2026-May-13",
-      "publication_date_iso": "2026-05-13",
-      "abstract": "Impacted third-molar surgery can be technically challenging because of anatomical variability and proximity to critical neurovascular structures, which may increase operative difficulty and the risk of complications. Real-time dynamic navigation (RDN) has been introduced to improve surgical precision through real-time instrument tracking and three-dimensional guidance.This systematic review evaluated the clinical effectiveness of RDN in impacted third-molar surgery compared with conventional techniques, with emphasis on operative time, surgical precision, intraoperative complications, and postoperative recovery.A systematic search of major electronic databases was conducted for English-language studies published up to January 2026 in accordance with PRISMA guidelines. The protocol was registered in PROSPERO (CRD420251025269). Eligible studies included clinical trials, case series, and case reports evaluating RDN-assisted extraction, coronectomy, or retrieval of impacted third molars. Study quality was assessed using Cochrane and Joanna Briggs Institute tools. Meta-analysis was not performed because of methodological heterogeneity.Out of 364 publications, 13 studies met the eligibility criteria. RDN introduced an additional preparation phase of approximately 10-20 min but may shorten the operative phase in some cases by facilitating guided osteotomy and reducing intraoperative adjustments. Several studies suggested improved spatial control, reduced adjacent-tooth injuries, improved bleeding control, and favorable performance near critical anatomical structures. Some reports also described lower pain and swelling, faster healing, and favorable neurosensory outcomes; however, these findings were not consistent across studies. Reported complications were more frequent in anatomically or pathologically complex cases.Current evidence suggests that RDN may have clinical value in impacted third-molar surgery, particularly in selected high-risk or anatomically complex cases. Although it requires additional preparation time and training, it may offer a favorable balance between precision and efficiency. However, the certainty of the available evidence remains limited. RDN should therefore be considered a selective adjunct rather than a routine alternative to conventional techniques until higher-quality studies better define its indications, outcomes, and cost-effectiveness.Trial registration: PROSPERO registration number: CRD420251025269.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42121154/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42120795",
-      "title": "Electromyographic patterns and masticatory muscles activity changes in patients with dentoskeletal deformities before and after orthognathic surgery: a pilot study.",
-      "authors": [
-        "Stefania Troise",
-        "Federica Calabria",
-        "Vitanna Canterino",
-        "Umberto Committeri",
-        "Gabriele Monarchi",
-        "Giuseppe Consorti",
-        "Giovanni Salzano",
-        "Gianluca Renato De Fazio",
-        "Marco Friscia",
-        "Paola Bonavolontà",
-        "Vincenzo Abbate",
-        "Giovanni Dell'Aversana Orabona"
-      ],
-      "publication_date": "2026-May-13",
-      "publication_date_iso": "2026-05-13",
-      "abstract": "Orthognathic surgery involves repositioning the skeletal bases to correct dentoskeletal deformities and malocclusions. While its impact on occlusion is well documented, its effects on masticatory muscle activity remain under investigation. This pilot study evaluates changes in static electromyographic (sEMG) patterns of masseter and temporal muscles, and explores correlations with TMJ-related muscular symptoms before and after surgery. A surface electromyography (sEMG), by employing TeethanTM, based on occlusal contacts, was performed recording the activation patterns of masseter and temporal muscles, in ten patients with dentoskeletal malocclusions, undergoing orthognathic surgery. The registration assessed the muscles patterns sEMG preoperatively (T0), postoperatively at one month (T1), and at six months (T2) after surgery. Across the cohort, temporal POC increased by 6.76 ± 8.36 from T0 to T1 and by 5.68 ± 5.33 from T1 to T2. Masseter POC rose by 8.74 ± 7.38 (T0-T1) and 8.12 ± 7.42 (T1-T2). Barycentre values shifted by 7.36 ± 4.13 (T0-T1) and 10.65 ± 9.17 (T1-T2), indicating progressive rebalancing of occlusal force distribution. Patients with Class III malocclusion showed greater masseter activation post-surgery, while Class II patients exhibited increased temporal muscle activity. Three patients with preoperative muscular discomfort reported complete symptom resolution at T2, while one patient experienced mild residual symptoms. Data obtained from this preliminary study seem to confirm that skeletal bases repositioning modifies the occlusal contacts and, consequently, the neuromuscular proprioceptive stimuli and the activation of the masticatory muscles. sEMG may provide useful complementary information on neuromuscular adaptation following orthognathic surgery. However, larger controlled studies with standardized outcomes and statistical analyses are required before drawing definitive conclusions or recommending its routine clinical use.",
-      "objective": "",
-      "study_methods": "A surface electromyography (sEMG), by employing TeethanTM, based on occlusal contacts, was performed recording the activation patterns of masseter and temporal muscles, in ten patients with dentoskeletal malocclusions, undergoing orthognathic surgery. The registration assessed the muscles patterns sEMG preoperatively (T0), postoperatively at one month (T1), and at six months (T2) after surgery.",
-      "methods": "A surface electromyography (sEMG), by employing TeethanTM, based on occlusal contacts, was performed recording the activation patterns of masseter and temporal muscles, in ten patients with dentoskeletal malocclusions, undergoing orthognathic surgery. The registration assessed the muscles patterns sEMG preoperatively (T0), postoperatively at one month (T1), and at six months (T2) after surgery.",
-      "results": "",
-      "conclusion": "or recommending its routine clinical use.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42120795/",
-      "pmcid": "PMC13167831",
       "figure_urls": []
     }
   ]
