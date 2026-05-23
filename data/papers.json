@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T06:12:59Z",
+  "updated_at": "2026-05-23T05:44:32Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -547,6 +547,38 @@
       "figure_urls": []
     },
     {
+      "pmid": "42171481",
+      "title": "Digital Versus in-Person Pre-Anaesthetic Assessment and Postoperative Outcomes in Low-Risk Patients: A Protocol for a Single-Centre Cohort Study.",
+      "authors": [
+        "Mathilde Nellemann",
+        "Moritz Kilian German Denneborg",
+        "Sofie Amalie Bosholdt",
+        "Camilla Meno Kristensen",
+        "Constance Thyra Giertz Christiansen",
+        "Janus Christian Jakobsen",
+        "Rasmus Hesselfeldt",
+        "Morten Hylander Møller",
+        "Andreas Møgelmose",
+        "Markus Harboe Olsen",
+        "Katrine Bredahl Buggeskov"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Pre-anaesthetic assessment is essential for identifying perioperative risk and optimising patient safety. Digital alternatives, including video consultation and structured electronic health record (EHR) review, may improve efficiency, but comparative evidence regarding postoperative safety remains limited. We hypothesise that digital pre-anaesthetic assessment modalities will be associated with low rates of major postoperative complications in selected low-risk patients. This protocol describes a single-centre study with retrospective data collection including adult patients scheduled for elective otorhinolaryngologic, oral or maxillofacial surgery at Copenhagen University Hospital-Rigshospitalet, Copenhagen, Denmark. Patients underwent preoperative assessment using one of three modalities: in-person consultation (2019-2020), EHR review (2021-2022) or video consultation (2024-2025). The primary outcome is a composite of major postoperative complications within 30 days, including all-cause mortality, admission to the intensive care unit, bleeding requiring transfusion, infection requiring antibiotics, or hospital readmission. Secondary outcomes include number of days spent hospitalised within 30 days after surgery, changes in anaesthesia plan, airway management modifications, delay in surgical start time, intubation attempts and same-day cancellations. Associations between assessment modality and dichotomous outcomes will be examined using multivariable generalised linear models with a log-link function, adjusted for prespecified covariates. Sensitivity analyses will include inverse probability weighting and win ratio analysis. This single-centre cohort study will examine whether digital pre-anaesthetic assessment strategies, such as video consultation and EHR review, are associated with differences in major postoperative complications compared with in-person assessment. The findings may inform the implementation of patient-centred, resource-efficient preoperative assessment strategies within the Danish healthcare system and similar international settings.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42171481/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42099751",
       "title": "A systematic approach to patient safety and surgical education during a surgical mission in a resource-limited setting: A case report of double free flap reconstruction for a lower facial defect.",
       "authors": [
@@ -698,12 +730,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005717/",
       "pmcid": "PMC13091407",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42001840",
@@ -967,12 +994,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41809095/",
       "pmcid": "PMC12969315",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/gr1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41802456",
@@ -1444,42 +1466,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42114937/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "42100133",
-      "title": "Augmented Reality in Navigated Surgery: A Systematic Review of Clinical Accuracy and System Performance.",
-      "authors": [
-        "Noa Nicolai",
-        "Sander J C Tabernée Heijtmeijer",
-        "Mohamed Benmahdjoub",
-        "Joep Kraeima",
-        "Sarina E C Pichardo",
-        "Max J H Witjes",
-        "Peter A J Pijpker",
-        "Joël Kortes",
-        "Nard G Janssen",
-        "Jan Eelco Bergsma"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "To evaluate the current state of clinically tested augmented reality and mixed reality, hereafter referred to as AR, navigation systems, with a focus on accuracy, usability, and factors influencing clinical implementation. A systematic search was conducted in Embase, PubMed, Scopus, and Web of Science Core Collection including studies published between January 1, 2018, and July 14, 2025. Only clinical studies involving patients were included. Data extraction covered study characteristics, surgical specialty, AR system type, reported accuracy, usability assessments, and implementation-related factors. Of 1956 screened records, 61 studies met the inclusion criteria. The applications spanned oral and maxillofacial surgery (k=17), neurosurgery (k=12), spinal surgery (k=11), and orthopedics (k=10), among others. Reported accuracy metrics varied substantially across studies. Moreover, AR navigation often reduced radiation exposure during surgery and sometimes shortened operative time, although timing effects varied by specialty. Usability was rarely measured with standardized tools and was mostly described qualitatively. Common limitations were limited accuracy, ergonomic issues, and workflow-integration challenges. Grading of Recommendations Assessment, Development, and Evaluation ratings were generally low or very low owing to small samples, heterogeneous methods, and risk of bias. Although AR navigation demonstrates encouraging technical performance and potential reductions in radiation exposure, the underlying evidence is predominantly of very low certainty, and any impression of pooled robustness should be avoided. Furthermore, clinical integration is hindered by technical, ergonomic, and workflow-related barriers. Future work should incorporate robust methodological designs aimed at improving registration accuracy, overcoming hardware shortcomings, and systematically evaluating usability through validated, standardized tools.",
-      "objective": "",
-      "study_methods": "A systematic search was conducted in Embase, PubMed, Scopus, and Web of Science Core Collection including studies published between January 1, 2018, and July 14, 2025. Only clinical studies involving patients were included. Data extraction covered study characteristics, surgical specialty, AR system type, reported accuracy, usability assessments, and implementation-related factors.",
-      "methods": "A systematic search was conducted in Embase, PubMed, Scopus, and Web of Science Core Collection including studies published between January 1, 2018, and July 14, 2025. Only clinical studies involving patients were included. Data extraction covered study characteristics, surgical specialty, AR system type, reported accuracy, usability assessments, and implementation-related factors.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42100133/",
-      "pmcid": "PMC13144587",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144587/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144587/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144587/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144587/bin/gr1.gif"
-      ]
     },
     {
       "pmid": "42057273",
@@ -2146,7 +2132,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41693682/",
-      "pmcid": "",
+      "pmcid": "PMC13193350",
       "figure_urls": []
     },
     {
@@ -2636,6 +2622,101 @@
       "figure_urls": []
     },
     {
+      "pmid": "42172001",
+      "title": "Modified T-Shaped Closure of Rostral Maxillary Defects in Dogs Following Rostral Maxillectomy.",
+      "authors": [
+        "Amanda Riddile",
+        "Kendall Taney"
+      ],
+      "publication_date": "2026-May-22",
+      "publication_date_iso": "2026-05-22",
+      "abstract": "Rostral maxillary defects following curative intent surgery for maxillary neoplasms can be difficult to close. This paper describes a modified T-shaped closure following rostral maxillectomy that permits the primary mucosal closure of larger rostral maxillary defects that may not be amenable to standard closure techniques. The technique facilitates decreased incision site tension, results in a more cosmetic closure (decreased concave deformity of the muzzle), maintains normal vestibule size, preserves critical vasculature, and maintains the greatest amount of available tissue for repair of defects, should they occur. Retrospective evaluation of medical records from January 1, 2015, through January 31, 2023, at the Center for Veterinary Dentistry and Oral Surgery, Gaithersburg, MD, United States, identified 23 dogs having undergone bilateral incisivectomy and unilateral or bilateral rostral maxillectomy where this closure was utilized. Evaluation of available medical records and client interviews demonstrated successful outcomes; however, further studies are needed to validate the success rate of this technique.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "in a more cosmetic closure (decreased concave deformity of the muzzle), maintains normal vestibule size, preserves critical vasculature, and maintains the greatest amount of available tissue for repair of defects, should they occur. Retrospective evaluation of medical records from January 1, 2015, through January 31, 2023, at the Center for Veterinary Dentistry and Oral Surgery, Gaithersburg, MD, United States, identified 23 dogs having undergone bilateral incisivectomy and unilateral or bilateral rostral maxillectomy where this closure was utilized. Evaluation of available medical records and client interviews demonstrated successful outcomes; however, further studies are needed to validate the success rate of this technique.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42172001/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42171526",
+      "title": "Perioperative Adverse Events in Primary Palatoplasty: \"Risk Factors and Impact on Care Escalation in a Multicenter Cohort\".",
+      "authors": [
+        "Febina Padiyath",
+        "Elizabeth M O'Brien",
+        "Jennifer Nam",
+        "Paula Hu",
+        "Nishil Mehta",
+        "Marc Parris",
+        "Anthony Alexander",
+        "Ashley Hodges",
+        "Goretti Chiang",
+        "Vinícius Caldeira Quintão",
+        "Ricardo Vieira Carlos",
+        "Gabriel Soares de Sousa",
+        "Asif Padiyath",
+        "Susan C Nicolson",
+        "John Fiadjoe",
+        "Oksana A Jackson",
+        "Lisa K Lee",
+        "Annery G Garcia-Marcinkiewicz"
+      ],
+      "publication_date": "2026-May-22",
+      "publication_date_iso": "2026-05-22",
+      "abstract": "Patients undergoing palatoplasty experience perioperative adverse events. Identifying risk factors for perioperative adverse events and escalation of care may improve outcomes. Pediatric patients undergoing primary palatoplasty were included in this retrospective observational study performed at two academic children's hospitals from 2014 to 2020. Four hundred fifty-nine patients with a median age of 12 months (IQR: 10-17) and median weight of 9.3 kg (IQR: 8.3-10.9) were included. A perioperative adverse event occurred in 15% (69/459) patients. Multiple (> 1) perioperative adverse events occurred in 18 patients. Hypoxemia (42 events, 9.2%) was the most common perioperative adverse event, followed by upper airway obstruction (29 events, 6.3%), vomiting (11 events, 2.4%), hypoventilation (10 events, 2.2%), and bleeding (7 events, 1.5%). Two events required a rapid response team, and there was 1 cardiac arrest. Forty percent of perioperative adverse events occurred in the post-anesthesia recovery area, and 24% occurred within 12 h of arriving to the floor. Prolonged emergence time (OR 1.04 [95% CI 1.02-1.06], p < 0.001) and nasal stent placement (OR 6.02 [95% CI 2.7-13.6], p < 0.001) were significantly associated with perioperative adverse events and increased odds of unanticipated admission to the pediatric intensive care unit (OR 1.02 [95% CI, 1.01-1.04], p < 0.001) and (OR 3.39 [95% CI, 1.19-8.83], p = 0.016), respectively. The occurrence of any perioperative adverse event (OR 8.47 [95% CI, 4.06-18], p < 0.001) and increasing number of perioperative adverse events (OR 1.75 [95% CI, 1.41-2.24], p < 0.001) were also associated with increased odds of unanticipated PICU admission. Patients undergoing palatoplasty are at risk of perioperative adverse events, particularly in post-operative recovery areas, which may result in unanticipated escalation of care. Recognizing the risk factors associated with the development of perioperative adverse events may improve planning of post-operative care and outcomes.",
+      "objective": "",
+      "study_methods": "Pediatric patients undergoing primary palatoplasty were included in this retrospective observational study performed at two academic children's hospitals from 2014 to 2020.",
+      "methods": "Pediatric patients undergoing primary palatoplasty were included in this retrospective observational study performed at two academic children's hospitals from 2014 to 2020.",
+      "results": "in unanticipated escalation of care. Recognizing the risk factors associated with the development of perioperative adverse events may improve planning of post-operative care and outcomes.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42171526/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41989020",
+      "title": "Monitoring Nitric Oxide in Trigeminal Neuralgia Rats with a Cerium Single-Atom Nanozyme Electrochemical Biosensor.",
+      "authors": [
+        "Kangling Tian",
+        "Fuhua Li",
+        "Yuxuan Yang",
+        "Ran Chen",
+        "Shihong Chen",
+        "Wenbin Wei",
+        "Yihang Shen",
+        "Muzi Xu",
+        "Chunxian Guo",
+        "Luigi G Occhipinti",
+        "Hong Bin Yang",
+        "Fangxin Hu"
+      ],
+      "publication_date": "2026-May-22",
+      "publication_date_iso": "2026-05-22",
+      "abstract": "Trigeminal neuralgia (TN) is the most common neuropathic disorder; however, its pathogenesis remains unclear. A prevailing theory suggests that nitric oxide (NO) may induce nerve compression and irritation via vascular dilation, thereby being responsible for the condition, making real-time detection of generated NO critical. However, traditional evaluations of NO rely on indirect colorimetric or chemiluminescence techniques, which offer limited sensitivity and spatial resolution for its real-time assessment in biological environments. Herein, we reported the development of a highly sensitive NO electrochemical biosensor based on a cerium single-atom nanozyme (Ce1-CN) with an ultrawide linear range from 1.08 nM to 143.9 μM and an ultralow detection limit of 0.36 nM, which enables efficient and real-time evaluation of NO in TN rats. In situ attenuated total reflection surface-enhanced infrared spectroscopy combined with density functional theory calculations revealed the high-performance biosensing mechanism, whereby the Ce centers in Ce1-CN nanoenzymes adsorb NO and subsequently react with OH- to form *HNO2. Results demonstrated that NO concentration was associated with the TN onset. Following carbamazepine treatment, NO production from nerves decreased, accompanied by an alleviation of pain. These findings indicate that the biosensor serves as a valuable tool for investigating the pathogenesis of TN and guiding subsequent therapeutic strategies.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "demonstrated that NO concentration was associated with the TN onset. Following carbamazepine treatment, NO production from nerves decreased, accompanied by an alleviation of pain. These findings indicate that the biosensor serves as a valuable tool for investigating the pathogenesis of TN and guiding subsequent therapeutic strategies.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41989020/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42166883",
       "title": "Distinct synovial proinflammatory cytokine and hyaluronic acid profiles in temporomandibular joint of patients with Class Ⅱ and Class Ⅲ dentofacial deformities.",
       "authors": [
@@ -2992,251 +3073,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42142304/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42142092",
-      "title": "Postoperative pain after dental procedures: The National Dental Practice-Based Research Network observational study using an mobile health platform.",
-      "authors": [
-        "Muhammad F Walji",
-        "Alfa-Ibrahim Yansane",
-        "Sayali Tungare",
-        "Rahma Mungia",
-        "David Holmes",
-        "Kim Funkhouser",
-        "Celeste Machen",
-        "Janelle Urata",
-        "Christoffer Redlund",
-        "Gautam Shirodkar",
-        "Hans Malmstrom",
-        "David H Yu",
-        "Oluwabunmi Tokede",
-        "D Brad Rindal",
-        "Gregg H Gilbert",
-        "Heiko Spallek",
-        "Joel White",
-        "Elsbeth Kalenderian"
-      ],
-      "publication_date": "2026-May-16",
-      "publication_date_iso": "2026-05-16",
-      "abstract": "Managing postoperative dental pain is essential, but patient-reported data on pain and medication practices are scarce. The authors examined patient-reported pain, functional interference, and medication use after common dental procedures. In this prospective observational cohort study, 2,674 adults in a multicenter US practice-based network reported pain intensity and interference via a mobile application. Outcomes were collected on days 0, 1, 3, 5, and 7 to assess trajectories across endodontics, periodontal surgery, oral surgery, and implant dentistry as well as multiple procedures within these 4 categories. Among 2,674 participants (mean age, 49.8 years; 55.6% were female), mean (SD) pain intensity scores (numerical rating scale in which 0 represents no pain and 10 represents worst imaginable pain) decreased from 3.0 (3.5) on day 0 (preoperative), 2.2 (2.4) on day 1, and to 0.9 (1.5) on day 7. Patient-reported opioid use declined from 6.6% on day 1 to 1.8% on day 7. After adjusting for various factors, undergoing multiple procedures at 1 visit yielded the highest odds of moderate pain, with an adjusted odds ratio (aOR) of 4.2 (95% CI, 2.1 to 8.5; P < .01). Surgical periodontal procedures had the next highest odds of moderate pain with an aOR of 3.9 (95% CI, 1.9 to 8.2; P < .01). Multiple procedures were also associated with severe difficulty falling asleep (aOR, 4.6; 95% CI, 1.7 to 11.9; P < .01). Postoperative pain and functional interference vary significantly according to procedure. Surgical tooth extractions and multiple procedures confer the highest risk of experiencing moderate through severe pain, which patients primarily managed with nonopioid analgesics. These study findings can guide patient counseling on pain trajectories and help develop procedure-specific, nonopioid pain management protocols to improve care and promote opioid stewardship.",
-      "objective": "",
-      "study_methods": "In this prospective observational cohort study, 2,674 adults in a multicenter US practice-based network reported pain intensity and interference via a mobile application. Outcomes were collected on days 0, 1, 3, 5, and 7 to assess trajectories across endodontics, periodontal surgery, oral surgery, and implant dentistry as well as multiple procedures within these 4 categories.",
-      "methods": "In this prospective observational cohort study, 2,674 adults in a multicenter US practice-based network reported pain intensity and interference via a mobile application. Outcomes were collected on days 0, 1, 3, 5, and 7 to assess trajectories across endodontics, periodontal surgery, oral surgery, and implant dentistry as well as multiple procedures within these 4 categories.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42142092/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42141321",
-      "title": "Does adjunctive low-level laser therapy provide additional benefit following temporomandibular joint arthrocentesis with hyaluronic acid? A randomized clinical trial.",
-      "authors": [
-        "Moataz Bahaa",
-        "Abdelrahman Mohamed Fahmy Abdelhameed Azab",
-        "Mahmoud Ahmed Elfarmawy",
-        "Hesham Osama Morsi"
-      ],
-      "publication_date": "2026-May-16",
-      "publication_date_iso": "2026-05-16",
-      "abstract": "This study aimed to evaluate whether adjunctive low-level laser therapy (LLLT) provides additional clinical benefit over an optimized arthrocentesis protocol with hyaluronic acid in patients with ADDwoR. From December 2022 to December 2023, a single-blinded prospective randomized clinical trial was conducted at The British University in Egypt's Department of Oral and Maxillofacial Surgery. The study involved 40 female participants diagnosed with Anterior Disc Displacement without Reduction (ADDwoR). Following TMJ arthrocentesis, subjects were assigned to one of two parallel cohorts: Group A received ten subsequent sessions of low-level laser therapy (LLLT), while Group B served as the control, receiving arthrocentesis alone. Treatment efficacy was evaluated based on pain intensity measured via a Visual Analogue Scale (VAS) and maximum mouth opening (MMO). Clinical assessments were performed at 2-week intervals over a 12-week follow-up period. No significant age-related differences were detected when comparing the intervention group to the control group (p = 0.087). No significant intergroup differences were observed in maximum mouth opening (MMO) or pain scores (VAS) at any follow-up time point (p > 0.05). Over the 12-week period, both study arms demonstrated significant clinical enhancement in terms of MMO and pain intensity (p < 0.001). Improvements in MMO were large in both groups, with postoperative values significantly higher than preoperative measurements. Pain scores decreased markedly following treatment, with preoperative scores significantly higher than all postoperative values. Overall, both interventions resulted in significant functional improvement and pain reduction, with no added benefit of the intervention over the control. While both TMJ arthrocentesis alone and arthrocentesis supplemented with LLLT significantly improved maximum mouth opening and reduced pain, LLLT did not provide a significant incremental benefit over arthrocentesis with hyaluronic acid. These findings suggest that clinical improvements are primarily driven by the main intervention and may reflect a possible therapeutic ceiling effect, beyond which adjunctive LLLT does not confer measurable short-term benefit. Not applicable.",
-      "objective": "",
-      "study_methods": "From December 2022 to December 2023, a single-blinded prospective randomized clinical trial was conducted at The British University in Egypt's Department of Oral and Maxillofacial Surgery. The study involved 40 female participants diagnosed with Anterior Disc Displacement without Reduction (ADDwoR). Following TMJ arthrocentesis, subjects were assigned to one of two parallel cohorts: Group A received ten subsequent sessions of low-level laser therapy (LLLT), while Group B served as the control, receiving arthrocentesis alone. Treatment efficacy was evaluated based on pain intensity measured via a Visual Analogue Scale (VAS) and maximum mouth opening (MMO). Clinical assessments were performed at 2-week intervals over a 12-week follow-up period.",
-      "methods": "From December 2022 to December 2023, a single-blinded prospective randomized clinical trial was conducted at The British University in Egypt's Department of Oral and Maxillofacial Surgery. The study involved 40 female participants diagnosed with Anterior Disc Displacement without Reduction (ADDwoR). Following TMJ arthrocentesis, subjects were assigned to one of two parallel cohorts: Group A received ten subsequent sessions of low-level laser therapy (LLLT), while Group B served as the control, receiving arthrocentesis alone. Treatment efficacy was evaluated based on pain intensity measured via a Visual Analogue Scale (VAS) and maximum mouth opening (MMO). Clinical assessments were performed at 2-week intervals over a 12-week follow-up period.",
-      "results": "ed in significant functional improvement and pain reduction, with no added benefit of the intervention over the control. While both TMJ arthrocentesis alone and arthrocentesis supplemented with LLLT significantly improved maximum mouth opening and reduced pain, LLLT did not provide a significant incremental benefit over arthrocentesis with hyaluronic acid. These findings suggest that clinical improvements are primarily driven by the main intervention and may reflect a possible therapeutic ceiling effect, beyond which adjunctive LLLT does not confer measurable short-term benefit. Not applicable.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42141321/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42144362",
-      "title": "Assessment of Incidence of Lateral Incisive Canals in a Japanese Population Using Dental Cone-Beam Computed Tomography.",
-      "authors": [
-        "Atsushi Ogawa",
-        "Yunosuke Ikeda",
-        "Tadashi Kawai",
-        "Akira Fujimura",
-        "Hiroyuki Yamada"
-      ],
-      "publication_date": "2026-May-15",
-      "publication_date_iso": "2026-05-15",
-      "abstract": "This observational study employed dental cone-beam computed tomography (CBCT) to evaluate the incidence and anatomical features of neurovascular structures within the lateral incisive canal (LIC). Images obtained from 221 patients were evaluated to determine the presence, diameter, and length of the LIC. Lateral incisive canals were identified in 24.4% of the CBCT images examined (bilaterally in 61.1% and unilaterally in 38.9%). One LIC was observed in 57.4% of cases, 2 in 16.7%, and 3 in 14.8%, with only a minority of cases displaying 4 to 6 LICs. The mean diameter of the LIC was 0.7±0.3 mm (0.3-1.8 mm) while that of the foramen was 0.8±0.4 mm (0.3-2.3 mm). Moreover, the mean length of the LIC was 8.9±4.1 mm (2.1-32.3 mm). The incidence of LICs (24.4%) was lower than that reported in previous CBCT studies of Asian populations. However, there may be regional differences in the incidence of anatomical structures, even among individuals of the same ethnic group. These results show that using CBCT to identify LICs can provide valuable information in the planning of surgical procedures involving the anterior maxilla.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "show that using CBCT to identify LICs can provide valuable information in the planning of surgical procedures involving the anterior maxilla.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42144362/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42140773",
-      "title": "Global research trends andintellectual structure of genioplasty: A 45-year bibliometric analysis (1980-2025).",
-      "authors": [
-        "A F Derin",
-        "M S Şimşek",
-        "I Üstündağ"
-      ],
-      "publication_date": "2026-May-15",
-      "publication_date_iso": "2026-05-15",
-      "abstract": "This study aims to analyze global research trends, influential authors and institutions, citation dynamics, and the intellectual structure within the field of genioplasty using bibliometric methods. Studies on genioplasty published between 1980 and 2025 were retrieved from the Web of Science Core Collection (WoSCC). Bibliometric analyses were conducted using R Studio and VOSviewer. Publication counts, citation trends, country productivity, author impact, journal distribution, co-citation networks, and keyword co-occurrence patterns were evaluated. The number of publications related to genioplasty has shown a steady increase over the years, reaching its peak in 2022 (n=77). The total number of citations peaked in 2024, indicating sustained interest and continued relevance in the field. The United States produced the highest number of publications and citations (302 publications, 5448 citations). China (n=118) and South Korea (n=87) also ranked among the most productive countries, reflecting the strong academic output driven by the high cultural demand for facial contouring procedures in Asia. Author analyses revealed that Hu J. and Posnick J.C. were the most influential contributors, while co-citation analysis identified Trauner R. and Bell W.H. as foundational figures in the intellectual structure of the genioplasty literature. Keyword analysis showed that \"genioplasty\", \"orthognathic surgery\", \"osteotomy\", and \"chin\" were the most prominent terms, supporting the observation that genioplasty is frequently performed as a complementary procedure to orthognathic surgery. Research on genioplasty has gained significant momentum over the past 45 years, resulting in a global research network predominantly led by the United States and Asian countries. The literature demonstrates that genioplasty remains a crucial component of aesthetic and functional facial surgery, with contemporary studies focusing on refining surgical techniques and improving long-term stability.",
-      "objective": "to analyze global research trends, influential authors and institutions, citation dynamics, and the intellectual structure within the field of genioplasty using bibliometric",
-      "study_methods": "Studies on genioplasty published between 1980 and 2025 were retrieved from the Web of Science Core Collection (WoSCC). Bibliometric analyses were conducted using R Studio and VOSviewer. Publication counts, citation trends, country productivity, author impact, journal distribution, co-citation networks, and keyword co-occurrence patterns were evaluated.",
-      "methods": "Studies on genioplasty published between 1980 and 2025 were retrieved from the Web of Science Core Collection (WoSCC). Bibliometric analyses were conducted using R Studio and VOSviewer. Publication counts, citation trends, country productivity, author impact, journal distribution, co-citation networks, and keyword co-occurrence patterns were evaluated.",
-      "results": "ing in a global research network predominantly led by the United States and Asian countries. The literature demonstrates that genioplasty remains a crucial component of aesthetic and functional facial surgery, with contemporary studies focusing on refining surgical techniques and improving long-term stability.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42140773/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42138853",
-      "title": "Determinants of Early Airway Remodeling After Maxillomandibular Advancement: The Role of Maxillary Repositioning.",
-      "authors": [
-        "Maria G Barrón Barrera",
-        "David Alfi",
-        "Francisco J Carrillo-Morales"
-      ],
-      "publication_date": "2026-May-15",
-      "publication_date_iso": "2026-05-15",
-      "abstract": "To evaluate early (3 mo) changes in oropharyngeal airway dimensions following maxillomandibular advancement (MMA) and to determine whether specific skeletal movements, particularly maxillary advancement, are associated with the magnitude of airway expansion. A retrospective cohort study was conducted including 80 consecutive patients who underwent MMA with custom-made fixation plates. Preoperative and 3-month postoperative cone-beam computed tomography (CBCT) scans were analyzed to measure total airway volume and minimal cross-sectional area. Skeletal movements were quantified using virtual surgical planning data. Paired t tests were used to assess pre- and postoperative differences. Pearson correlation and multivariable linear regression analyses were performed to identify predictors of airway change. Mean minimal cross-sectional area increased from 144.0±73.8 mm2 to 298.1±126.1 mm2 (Δ=154.1±112.8 mm2; P<0.001). Mean total airway volume increased from 19.4±17.8 cc to 30.2±20.8 cc (Δ=10.8±7.9 cc; P<0.001). Maxillary advancement was significantly associated with increased minimal cross-sectional area (r=0.29, P=0.009) and modestly associated with volumetric change (r=0.22, P=0.049). BMI was independently associated with changes in minimal area, while sex was the only independent predictor of volumetric change in multivariable analysis. Maxillomandibular advancement produces significant early expansion of the oropharyngeal airway. Maxillary advancement plays a meaningful role in increasing minimal cross-sectional area, suggesting its importance in surgical planning aimed at optimizing airway outcomes.",
-      "objective": "",
-      "study_methods": "A retrospective cohort study was conducted including 80 consecutive patients who underwent MMA with custom-made fixation plates. Preoperative and 3-month postoperative cone-beam computed tomography (CBCT) scans were analyzed to measure total airway volume and minimal cross-sectional area. Skeletal movements were quantified using virtual surgical planning data. Paired t tests were used to assess pre- and postoperative differences. Pearson correlation and multivariable linear regression analyses were performed to identify predictors of airway change.",
-      "methods": "A retrospective cohort study was conducted including 80 consecutive patients who underwent MMA with custom-made fixation plates. Preoperative and 3-month postoperative cone-beam computed tomography (CBCT) scans were analyzed to measure total airway volume and minimal cross-sectional area. Skeletal movements were quantified using virtual surgical planning data. Paired t tests were used to assess pre- and postoperative differences. Pearson correlation and multivariable linear regression analyses were performed to identify predictors of airway change.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42138853/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42138615",
-      "title": "Optimized Approach for Retrieval of Multiple Impacted Teeth in Cleidocranial Dysplasia.",
-      "authors": [
-        "Roohi Sobti",
-        "Shilpa Upadhyay",
-        "Andrew Paige",
-        "Juliana Panchura",
-        "Yi Lin",
-        "Sunil Kapila"
-      ],
-      "publication_date": "2026-May-15",
-      "publication_date_iso": "2026-05-15",
-      "abstract": "Cleidocranial dysplasia (CCD) is a rare congenital condition characterized by patients presenting with craniofacial anomalies, multiple supernumerary and impacted teeth, retained primary teeth, and delayed eruption, necessitating multi-stage and innovative treatment mechanics to facilitate tooth eruption. This case report highlights the orthodontic management of a 21-year-old female with CCD using a sequential, interdisciplinary approach including the extraction of retained primary and supernumerary teeth, and exposure, bonding, and forced eruption of impacted teeth. The latter was achieved with a custom-fabricated lower appliance and a modified transpalatal arch designed to reinforce anchorage and facilitate simultaneous traction of multiple impacted teeth via a closed surgical technique, achieving their successful retrieval and good orthodontic outcomes.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42138615/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42138319",
-      "title": "Complications in Orthognathic Surgery.",
-      "authors": [
-        "Gabriel Conceição Brito",
-        "Márcio de Moraes",
-        "Luciana Asprino"
-      ],
-      "publication_date": "2026-May-15",
-      "publication_date_iso": "2026-05-15",
-      "abstract": "The study aimed to evaluate complications in orthognathic surgery in a teaching hospital in Brazil over 10 years. Medical records were collected of patients who underwent surgery in the Division of Oral and Maxillofacial Surgery from January 1, 2014, to January 1, 2024. The dependent variables were intraoperative and postoperative complications, and the surgical procedure performed (monomaxillary or bimaxillary surgery). They were evaluated and compared with the independent variables of age, sex, substance abuse, presence of paresthesia or complications, and regions of complication. Specific complications were characterized as bad split, dental or skeletal recurrence, hardware failure, breakage/fracture of a surgical instrument, dental or periodontal damage, hemorrhage, and \"others\". In the results, 183 orthognathic surgeries were included, with 31 participants having some complications, with 10 having intraoperative complications and 21 postoperative. No correlation was found between the complications and variables evaluated (P>0.05). Despite the limitations related to retrospective studies, the evaluation and disclosure of complications in orthognathic surgery are important for surgeons to understand the factors that contribute to their occurrence and how to avoid and treat them earlier and more effectively.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": ", 183 orthognathic surgeries were included, with 31 participants having some complications, with 10 having intraoperative complications and 21 postoperative. No correlation was found between the complications and variables evaluated (P>0.05). Despite the limitations related to retrospective studies, the evaluation and disclosure of complications in orthognathic surgery are important for surgeons to understand the factors that contribute to their occurrence and how to avoid and treat them earlier and more effectively.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42138319/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42138304",
-      "title": "Incidence of Velopharyngeal Insufficiency Surgery Following Orthognathic Surgery in Cleft Lip and Palate.",
-      "authors": [
-        "Lucas M Harrison",
-        "Paul Hung",
-        "Rami R Hallac",
-        "Alex A Kane",
-        "Paymon Sanati-Mehrizy"
-      ],
-      "publication_date": "2026-May-15",
-      "publication_date_iso": "2026-05-15",
-      "abstract": "Orthognathic surgery is associated with a risk of compromising velopharyngeal function in patients with cleft lip and/or palate (CL/P), potentially necessitating subsequent velopharyngeal insufficiency (VPI) surgery. This study aimed to determine the incidence and predictors associated with VPI surgery following orthognathic surgery. Retrospective review of the TriNetX database of patients with CL/P who underwent orthognathic surgery to evaluate the incidence of subsequent VPI surgery. Subgroup analyses were performed to compare orthognathic surgery type, cleft classification, history of palatal revision surgery, and previous fistula repair. A total of 1626 patients with CL/P who underwent orthognathic surgery, including 1010 single-jaw and 616 double-jaw procedures, were reviewed. A total of 199 (12.24%) patients required subsequent VPI surgery. The incidence was significantly higher in single-jaw compared with double-jaw surgery (15.25% versus 7.31%; P<0.001). CL/P had a significantly greater rate than those with isolated cleft palate (13.30% versus 3.43%; P<0.001). Bilateral CL/P had a higher incidence than unilateral CL/P, but the difference was not significant (16.36% versus 14.02%; P=0.543). Patients with a history of palatal revision surgery had a significantly higher incidence of subsequent VPI surgery (22.83% versus 11.18%; P=0.001). A history of previous fistula repair was associated with a higher incidence, but the difference was not significant (15.83% versus 11.90%; P=0.239). Velopharyngeal insufficiency surgery was performed in ∼1 in 8 patients with CL/P following orthognathic surgery. Single-jaw surgery, CL/P diagnosis, and history of palatal revision surgery are predictors of subsequent VPI surgery. These findings provide important guidance for patient counseling before orthognathic surgery.",
-      "objective": "",
-      "study_methods": "Retrospective review of the TriNetX database of patients with CL/P who underwent orthognathic surgery to evaluate the incidence of subsequent VPI surgery. Subgroup analyses were performed to compare orthognathic surgery type, cleft classification, history of palatal revision surgery, and previous fistula repair.",
-      "methods": "Retrospective review of the TriNetX database of patients with CL/P who underwent orthognathic surgery to evaluate the incidence of subsequent VPI surgery. Subgroup analyses were performed to compare orthognathic surgery type, cleft classification, history of palatal revision surgery, and previous fistula repair.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42138304/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42138281",
-      "title": "Clinical Efficacy of Titanium-Nickel Shape Memory Alloy Suture for the Repair of Facial Lacerations in Emergency Trauma.",
-      "authors": [
-        "Di Qi",
-        "Meiyao Lv",
-        "Yiwei Liu",
-        "Qingqian Wei",
-        "Lu Zhang",
-        "Xueqin Ao",
-        "Wenxi Xian",
-        "Keye Lin",
-        "Haidong Li"
-      ],
-      "publication_date": "2026-May-15",
-      "publication_date_iso": "2026-05-15",
-      "abstract": "To evaluate the clinical efficacy of Titanium-Nickel (Ti-Ni) shape memory alloy sutures in the deep subcutaneous closure of facial emergency lacerations compared with traditional absorbable sutures. Forty patients were randomized into a treatment group (n=20, Ti-Ni alloy sutures removed at 14 d) and a control group (n=20, traditional absorbable sutures). Both groups received 7-0 nylon for epidermal closure. Outcomes included wound healing, complication rates (infection/rejection), patient satisfaction, and 4-week Vancouver Scar Scale (VSS) scores. The treatment group achieved a 100% primary healing rate with no infections or suture rejections. In the control group, 10% (2/20) of patients experienced infection and suture rejection (P<0.05). Patient satisfaction was 100% in the treatment group compared with 90% in the control group. At 4 weeks postoperatively, the treatment group demonstrated significantly lower VSS scores for scar widening, erythema, and overall impression than the control group (P<0.05). Titanium-nickel (Ti-Ni) memory alloy sutures provide stable tension relief and minimize complications by eliminating long-term subcutaneous foreign bodies. This technique offers a superior alternative for enhancing early cosmetic repair in facial trauma.",
-      "objective": "",
-      "study_methods": "Forty patients were randomized into a treatment group (n=20, Ti-Ni alloy sutures removed at 14 d) and a control group (n=20, traditional absorbable sutures). Both groups received 7-0 nylon for epidermal closure. Outcomes included wound healing, complication rates (infection/rejection), patient satisfaction, and 4-week Vancouver Scar Scale (VSS) scores.",
-      "methods": "Forty patients were randomized into a treatment group (n=20, Ti-Ni alloy sutures removed at 14 d) and a control group (n=20, traditional absorbable sutures). Both groups received 7-0 nylon for epidermal closure. Outcomes included wound healing, complication rates (infection/rejection), patient satisfaction, and 4-week Vancouver Scar Scale (VSS) scores.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42138281/",
       "pmcid": "",
       "figure_urls": []
     }
