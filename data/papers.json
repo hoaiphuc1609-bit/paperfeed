@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T05:44:32Z",
+  "updated_at": "2026-05-24T06:08:29Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -365,6 +365,31 @@
       ]
     },
     {
+      "pmid": "42044723",
+      "title": "Attenuation behavior of blue (laser) light in dentin: A literature-based evaluation regarding the validity of the Bouguer-Beer-Lambert law for dental applications.",
+      "authors": [
+        "Inés Lusche",
+        "Matthias Frentzen",
+        "Richard Johannes Wierichs",
+        "Jörg Meister"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Knowledge about light propagation in dental hard tissue is indispensable in aesthetic dentistry and therapeutic applications of lasers. Since the blue (laser) wavelength is suitable for oral surgery, reducing bacteria in dentinal structures and light curing of composite resin fillings, this study aims to examine the attenuation properties for the wavelength of approx. 450 nm in dentin and to determine a clinically relevant attenuation coefficient. As a basis to evaluate an optical attenuation coefficient in coronal human dentin it was necessary to compare the optical transmittance of our own measurement for dentin thicknesses of 0.5 and 1 mm with transmittance values from studies with similar experimental setups. PubMed, Web of Science, Cochrane, Google Scholar and Scopus served as databases for data acquisition. 11 studies using various blue light sources (tungsten halogen, LED, diode laser, xenon and standard illuminants) around the spectral region 450 nm were gathered to determine optical transmittance values. Data (n = 30) in the thickness range of 0.2 mm up to 6 mm dentin were investigated regarding a possible applicability of the Bouguer-Beer-Lambert law for describing the attenuation behavior of anisotropic dentin in interaction with light of blue wavelength. The distribution of the extinction values of all the cited studies illustrates a linear rising trend with increasing dentin thicknesses with the result of applicability of the BBL-law in a first approximation. Based on the transmittance values, a mean attenuation coefficient of 1.22 mm-1 was determined, which corresponds to an attenuation of approx. 70%. This allows the determination of an apparent optical penetration depth of 0.8 mm for light in the blue wavelength range in coronal dentin. The results show that, despite the inhomogeneous structure of the dentin, the Bouguer-Beer-Lambert law provides a reliable order of magnitude for determining the optical penetration depth of blue light in dentin. Clinical laser applications require an understanding of the light propagation of defined wavelengths in biological tissues to protect adjacent structures, amongst other things. The established therapeutically relevant mean attenuation coefficient of 1.22 mm-1 for the blue wavelength of approx. 450 nm in dentin is a further step towards ensuring the safe use of photonic technologies in dentistry.",
+      "objective": "to examine the attenuation properties for the wavelength of approx. 450 nm in dentin and to determine a clinically relevant attenuation coefficient. As a basis to evaluate an optical attenuation coefficient in coronal human dentin it was necessary to compare the optical transmittance of our own measurement for dentin thicknesses of 0.5 and 1 mm with transmittance values from studies with similar experimental setups. PubMed, Web of Science, Cochrane, Google Scholar and Scopus served as databases for data acquisition. 11 studies using various blue light sources (tungsten halogen, LED, diode laser, xenon and standard illuminants) around the spectral region 450 nm were gathered to determine optical transmittance values. Data (n = 30) in the thickness range of 0.2 mm up to 6 mm dentin were investigated regarding a possible applicability of the Bouguer-Beer-Lambert law for describing the attenuation behavior of anisotropic dentin in interaction with light of blue wavelength. The distribution of the extinction values of all the cited studies illustrates a linear rising trend with increasing dentin thicknesses with the",
+      "study_methods": "As a basis to evaluate an optical attenuation coefficient in coronal human dentin it was necessary to compare the optical transmittance of our own measurement for dentin thicknesses of 0.5 and 1 mm with transmittance values from studies with similar experimental setups. PubMed, Web of Science, Cochrane, Google Scholar and Scopus served as databases for data acquisition. 11 studies using various blue light sources (tungsten halogen, LED, diode laser, xenon and standard illuminants) around the spectral region 450 nm were gathered to determine optical transmittance values. Data (n = 30) in the thickness range of 0.2 mm up to 6 mm dentin were investigated regarding a possible applicability of the Bouguer-Beer-Lambert law for describing the attenuation behavior of anisotropic dentin in interaction with light of blue wavelength.",
+      "methods": "As a basis to evaluate an optical attenuation coefficient in coronal human dentin it was necessary to compare the optical transmittance of our own measurement for dentin thicknesses of 0.5 and 1 mm with transmittance values from studies with similar experimental setups. PubMed, Web of Science, Cochrane, Google Scholar and Scopus served as databases for data acquisition. 11 studies using various blue light sources (tungsten halogen, LED, diode laser, xenon and standard illuminants) around the spectral region 450 nm were gathered to determine optical transmittance values. Data (n = 30) in the thickness range of 0.2 mm up to 6 mm dentin were investigated regarding a possible applicability of the Bouguer-Beer-Lambert law for describing the attenuation behavior of anisotropic dentin in interaction with light of blue wavelength.",
+      "results": "of applicability of the BBL-law in a first approximation. Based on the transmittance values, a mean attenuation coefficient of 1.22 mm-1 was determined, which corresponds to an attenuation of approx. 70%. This allows the determination of an apparent optical penetration depth of 0.8 mm for light in the blue wavelength range in coronal dentin. The results show that, despite the inhomogeneous structure of the dentin, the Bouguer-Beer-Lambert law provides a reliable order of magnitude for determining the optical penetration depth of blue light in dentin. Clinical laser applications require an understanding of the light propagation of defined wavelengths in biological tissues to protect adjacent structures, amongst other things. The established therapeutically relevant mean attenuation coefficient of 1.22 mm-1 for the blue wavelength of approx. 450 nm in dentin is a further step towards ensuring the safe use of photonic technologies in dentistry.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42044723/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41909511",
       "title": "Three-dimensional niche-like porous structure locoregionally regulating macrophage immunosenescence rejuvenates aged bone repair.",
       "authors": [
@@ -579,6 +604,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42107221",
+      "title": "Artificial intelligence model predicts malignant transformation of oral leukoplakia and optimizes interventions.",
+      "authors": [
+        "Alessandro Villa",
+        "Douglas E Peterson",
+        "Mark W Lingen",
+        "Alexander Pearson",
+        "Saideep Gona",
+        "Anthony Morlandt"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Oral leukoplakia (OL), the most common oral potentially malignant disorder (OPMD), poses a significant risk for transformation to oral squamous cell carcinoma (OSCC). Despite its prevalence and variable malignant transformation rates, optimal management remains controversial due to limited evidence on causation, risk stratification, and treatment efficacy. This commentary addresses these unresolved challenges and delineates opportunities for development of precision prognostic technologies in context of future clinical trials. We reviewed current OL literature, focusing on epidemiology, molecular biomarkers, and management strategies. Data were synthesized from systematic reviews, cohort studies, and clinical trials (2020-2025), assessing malignant transformation rates, genomic and immune biomarkers (e.g., LOH, TP53, PD-L1), and emerging artificial intelligence (AI) applications. OL malignant transformation rates vary by subtype: localized OL (4-40%) and proliferative leukoplakia (65-100%). Non-dysplastic lesions transform at an approximately 5% rate, while dysplastic lesions carry a 12-18% 5-year transformation risk. Genomic alterations (e.g., 9p21 LOH, TP53 mutations) and immune markers (e.g., PD-L1) show prognostic promise but lack clinical validation. Despite surgical excision, OL can exhibit a high recurrence rate at the site of surgery (e.g., 30%), and non-surgical therapies (e.g., immunotherapy) are currently under investigation. AI-driven models integrating multi-omic data offer potential for personalized risk prediction but require standardized validation. OL management is hindered by heterogeneous transformation risks, limited high-quality studies, and reliance on histopathology. Multidisciplinary care, AI-enhanced risk stratification, and large-scale randomized controlled trials have now become essential in order to refine surveillance, optimize interventions, and reduce OSCC burden. Until then, the treat-or-observe dilemma persists, underscoring the need for interprofessional collaboration at the international level.",
+      "objective": "",
+      "study_methods": "We reviewed current OL literature, focusing on epidemiology, molecular biomarkers, and management strategies. Data were synthesized from systematic reviews, cohort studies, and clinical trials (2020-2025), assessing malignant transformation rates, genomic and immune biomarkers (e.g., LOH, TP53, PD-L1), and emerging artificial intelligence (AI) applications.",
+      "methods": "We reviewed current OL literature, focusing on epidemiology, molecular biomarkers, and management strategies. Data were synthesized from systematic reviews, cohort studies, and clinical trials (2020-2025), assessing malignant transformation rates, genomic and immune biomarkers (e.g., LOH, TP53, PD-L1), and emerging artificial intelligence (AI) applications.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42107221/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42099751",
       "title": "A systematic approach to patient safety and surgical education during a surgical mission in a resource-limited setting: A case report of double free flap reconstruction for a lower facial defect.",
       "authors": [
@@ -607,6 +659,33 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13147769/bin/gr2.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13147769/bin/gr2.gif"
       ]
+    },
+    {
+      "pmid": "42090992",
+      "title": "A kinase-related gene signature predicts prognosis and therapeutic response in head and neck squamous cell carcinoma.",
+      "authors": [
+        "Yang Zhang",
+        "Pin Lv",
+        "Guangrui Cao",
+        "Na Qi",
+        "Miao Yu",
+        "Yaping Wu"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Protein kinases dysregulation is implicated in various cancer-related processes; however, its clinical utility and biological significance in head and neck squamous cell carcinoma (HNSCC) remain incompletely understood. This study aimed to establish a novel prognostic signature using kinase-related genes (KRGs) for prognostic and therapeutic prediction in HNSCC. A KRG-related predictive signature was constructed using LASSO-Cox regression. A nomogram incorporating this signature and selected clinicopathological variables was developed through multivariate Cox regression. The predictive value of KRG signature for immune status and chemotherapeutic or immunotherapeutic responses was further evaluated. Finally, both in vitro and in vivo experiments were performed to validate the oncogenic role of ABL2 in HNSCC. Patients were stratified into high- and low-risk groups based on a seven-gene KRG signature (TRIB3, RPS6KA4, ABL2, FJX1, JAK3, PIM2, and NEK6), with high-risk patients showing significantly worse prognosis. Additionally, the high-risk group was characterized by an immunosuppressive status, reduced predicted immunotherapeutic response, and enhanced chemoresistance. In vitro and in vivo experimental validation further demonstrated that ABL2 knockdown significantly suppressed tumor proliferation, migration and invasion, while alleviating chemoresistance and reversing the immunosuppressive phenotype. This study demonstrates that the KRG-derived signature and corresponding nomogram serves as a robust prognostic biomarker and a reliable predictor of therapeutic response in HNSCC.",
+      "objective": "",
+      "study_methods": "A KRG-related predictive signature was constructed using LASSO-Cox regression. A nomogram incorporating this signature and selected clinicopathological variables was developed through multivariate Cox regression. The predictive value of KRG signature for immune status and chemotherapeutic or immunotherapeutic responses was further evaluated. Finally, both in vitro and in vivo experiments were performed to validate the oncogenic role of ABL2 in HNSCC.",
+      "methods": "A KRG-related predictive signature was constructed using LASSO-Cox regression. A nomogram incorporating this signature and selected clinicopathological variables was developed through multivariate Cox regression. The predictive value of KRG signature for immune status and chemotherapeutic or immunotherapeutic responses was further evaluated. Finally, both in vitro and in vivo experiments were performed to validate the oncogenic role of ABL2 in HNSCC.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42090992/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "42063745",
@@ -1351,39 +1430,6 @@
       ]
     },
     {
-      "pmid": "42138577",
-      "title": "Erosive Potential of Commercially Available Cannabis Beverages.",
-      "authors": [
-        "Budsaraporn Boonsuth",
-        "Lawan Boonprakong",
-        "Ajjima Chansaenroj",
-        "Sureeporn Tantisak",
-        "Thawanrat Singthong",
-        "Vorapat Trachoo",
-        "Sant Ananchanachai",
-        "Naruporn Monmaturapoj",
-        "Supreda Suphanantachat Srithanyarat",
-        "Dusit Nantanapiboon",
-        "Junji Tagami",
-        "Thanaphum Osathanon"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "To evaluate the erosive potential of commercially available cannabis beverages by assessing fluoride content and pH, as well as changes in microhardness and surface roughness. Sixteen cannabis-infused beverages were analyzed, with distilled water used as the control. Fluoride concentration and pH were measured using a fluoride ion-selective electrode and a calibrated pH meter. Eighty-five synthetic enamel-like hydroxyapatite blocks (5 mm diameter × 5 mm thickness) were prepared and allocated into 16 experimental groups and 1 control group (n = 5/group). Specimens were immersed in 5 mL of each beverage for 30 min at 37°C. Knoop microhardness (KHN) and surface roughness (Ra) were measured before and after immersion. The percentage of surface hardness loss (%SHL) and percentage change in surface roughness (%Raalt) were calculated. Statistical analysis was performed using one-way ANOVA followed by Tukey's post hoc test (p < 0.05). Most beverages exhibited acidic pH values, with 12 samples showing pH < 4. Fluoride concentrations ranged from 0.0268 to 1.8233 mg/L, with most samples containing levels insufficient to counteract erosive effects, although one beverage exceeded recommended fluoride limits. Beverages with lower pH were associated with significant reductions in microhardness and increases in surface roughness (p < 0.05). The percentage of surface hardness loss (%SHL) ranged from approximately 27% to 74% among acidic beverages, with the highest values observed in the most acidic formulations. In contrast, beverages with near-neutral pH showed minimal changes, with %SHL below 10%. Similarly, %Raalt ranged from less than 10% in low-erosive groups to over 900% in highly acidic beverages. Cannabis beverages with low pH exhibited significant erosive potential, as evidenced by decreased microhardness and increased surface roughness on synthetic enamel-like hydroxyapatite substrates. Beverage acidity and formulation were key determinants of these effects.",
-      "objective": "",
-      "study_methods": "Sixteen cannabis-infused beverages were analyzed, with distilled water used as the control. Fluoride concentration and pH were measured using a fluoride ion-selective electrode and a calibrated pH meter. Eighty-five synthetic enamel-like hydroxyapatite blocks (5 mm diameter × 5 mm thickness) were prepared and allocated into 16 experimental groups and 1 control group (n = 5/group). Specimens were immersed in 5 mL of each beverage for 30 min at 37°C. Knoop microhardness (KHN) and surface roughness (Ra) were measured before and after immersion. The percentage of surface hardness loss (%SHL) and percentage change in surface roughness (%Raalt) were calculated. Statistical analysis was performed using one-way ANOVA followed by Tukey's post hoc test (p < 0.05).",
-      "methods": "Sixteen cannabis-infused beverages were analyzed, with distilled water used as the control. Fluoride concentration and pH were measured using a fluoride ion-selective electrode and a calibrated pH meter. Eighty-five synthetic enamel-like hydroxyapatite blocks (5 mm diameter × 5 mm thickness) were prepared and allocated into 16 experimental groups and 1 control group (n = 5/group). Specimens were immersed in 5 mL of each beverage for 30 min at 37°C. Knoop microhardness (KHN) and surface roughness (Ra) were measured before and after immersion. The percentage of surface hardness loss (%SHL) and percentage change in surface roughness (%Raalt) were calculated. Statistical analysis was performed using one-way ANOVA followed by Tukey's post hoc test (p < 0.05).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42138577/",
-      "pmcid": "PMC13178140",
-      "figure_urls": []
-    },
-    {
       "pmid": "42132365",
       "title": "Crestal Bone Loss and Peri-Implant Conditions at Tissue-Level Implants: Influence of Prosthesis Type After 25 Years.",
       "authors": [
@@ -1409,12 +1455,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42132365/",
       "pmcid": "PMC13174906",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g002.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g003.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g003.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42125759",
@@ -1438,33 +1479,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42125759/",
       "pmcid": "PMC13158579",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42114937",
-      "title": "EFFECT OF AROMATHERAPY AND MUSIC THERAPY ON PATIENTS ANXIETY, PAIN AND PHYSIOLOGIC PARAMETERS DURING EXTRACTION OF INCLUDED THIRD MOLARS: A RANDOMIZED CONTROLLED TRIAL.",
-      "authors": [
-        "Antonio Francisco Ferrández Martínez",
-        "Ana Rocío García Carricondo",
-        "Javier Trenchs Soto",
-        "Raúl Romero Del Rey",
-        "Fernando Espín Gálvez",
-        "Raquel Alarcón Rodríguez"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "This study evaluated the anxiolytic and analgesic effects of aromatherapy and music therapy in patients undergoing mandibular third molar extraction. A three-arm randomized clinical trial was conducted with 279 patients, divided into an aromatherapy group (93), a music therapy group (93), and a control group (93). Interventions took place during surgery. Anxiety was measured using the State-Trait Anxiety Inventory, and pain with a visual analog scale. Physiological parameters, including heart rate, oxygen saturation, and systolic/diastolic blood pressure (SBP and DBP), were recorded. The aromatherapy and music therapy groups demonstrated a significantly greater reduction in total, state, and trait anxiety compared to controls (reduction in total anxiety in the aromatherapy group: 3.11; 95% CI, 2.83-5.45; Rosenthal r, 0.28; P = .006; reduction in total anxiety in the music group: 6.01; 95% CI, 3.69-8.30; Rosenthal r, 0.52; P < .001; reduction in total anxiety in the control group: 1.47; 95% CI, 0.39-4.54; Rosenthal r, 0.21; P = .06). The intervention groups also showed reduced heart rate, SBP, and DBP (P < .05), and increased saturation (P < .05). Postoperative pain was significantly lower in these groups compared to controls (P < .05). Aromatherapy and music therapy appear to be promising nonpharmacological strategies for reducing perioperative anxiety and pain during mandibular third molar extractions. Music therapy produced a greater reduction in anxiety levels, while aromatherapy showed a more pronounced effect on physiological parameters. Both interventions were associated with lower postoperative pain.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42114937/",
-      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2622,6 +2636,140 @@
       "figure_urls": []
     },
     {
+      "pmid": "42174330",
+      "title": "Anthropometric analysis of the relationship between mandibular biotypes and condylar fracture patterns and degree of condylar displacement in victims of facial trauma.",
+      "authors": [
+        "Eduardo Luis de Souza Cruz",
+        "Christian Ruben Cusi Fernandez",
+        "José Thiers Carneiro Junior"
+      ],
+      "publication_date": "2026-May-23",
+      "publication_date_iso": "2026-05-23",
+      "abstract": "This project aimed to investigate the relationship between gender, age, mandibular biotype, condylar fracture patterns, and their degree of displacement. To this end, a sample of 200 facial trauma patients was analyzed to collect data such as age, gender, condylar fracture type, and the degree of displacement. Furthermore, computed tomography scans were analyzed to define mandibular biotypes and the degree of displacement of the condylar bone stumps. There was a strong and statistically significant association between mandibular biotype and the type of condylar fracture (p < 0.001). It is likely that the gender variable is associated with mandibular biotype in the analyzed sample, with V-shaped mandibles more common in women (p = 0.0004), and smaller fracture displacement angles (p = 0.01) due to a greater tendency for high fractures (p = 0.01). There is relationship between mandibular biotype and its role as a marker of sexual dimorphism, in addition to its contribution to the degree of displacement and type of condylar fractures in patients who have suffered facial trauma. Mandibular structure, such as shape, height, and width; bone density, cortical and medullary volume; and the mechanical action of the masticatory muscles can affect the variability, stability, and location of fractures, interfering with the response to the magnitude, dissipation, and direction of external mechanical forces originating from the energy of the trauma. Anthropometric study of anatomical features can provide relevant data for better forensic understanding. Regarding the mandible, it can be considered an important tool for understanding mandibular trauma, influencing diagnosis and treatment decision-making.",
+      "objective": "",
+      "study_methods": "To this end, a sample of 200 facial trauma patients was analyzed to collect data such as age, gender, condylar fracture type, and the degree of displacement. Furthermore, computed tomography scans were analyzed to define mandibular biotypes and the degree of displacement of the condylar bone stumps.",
+      "methods": "To this end, a sample of 200 facial trauma patients was analyzed to collect data such as age, gender, condylar fracture type, and the degree of displacement. Furthermore, computed tomography scans were analyzed to define mandibular biotypes and the degree of displacement of the condylar bone stumps.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42174330/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42174625",
+      "title": "Naringin and hesperidin protect ovarian granulosa cells from cisplatin-induced mitochondrial dysfunction by enhancing bioenergetics and mitophagy.",
+      "authors": [
+        "Jiying Liu",
+        "Ekramy M Elmorsy",
+        "Ahmed Abdeen",
+        "Nuha Anajirih",
+        "Farouk S Elgendy",
+        "Heba M Abdelkareem",
+        "Hend E Nasr",
+        "Sania K Elwia",
+        "Mai A Sherif",
+        "Noha O El-Shaer",
+        "Hend S El-Wakeel",
+        "Mustafa Shukry",
+        "Samah F Ibrahim",
+        "Shaymaa Ali",
+        "Mohammed A Gebba",
+        "Amal S Abu-Almakarem",
+        "Qingda Ge"
+      ],
+      "publication_date": "2026-May-22",
+      "publication_date_iso": "2026-05-22",
+      "abstract": "Cisplatin (CDDP) is a widely deployed chemotherapeutic medication used to treat various solid tumors, but its clinical utility is limited by dose-dependent ovarian toxicity. Naringin (NG) and hesperidin (HD) are two naturally occurring flavonoids found in citrus fruits and have protective effects on mitochondrial function. The current study examined the protective effects of NG and HD on CDDP-induced mitochondrial dysfunction and cytotoxicity in granulosa cells. The cells are treated with CDDP alone or with NG or HD. CDDP reduced cell viability, ATP synthesis, oxygen consumption rate (OCR), mitochondrial membrane potential (MMP), and mitochondrial complex functions in a dose-dependent pattern. It also altered mitochondrial dynamics and enhanced glycolytic activity, as exhibited by lactate levels. MMF increased, and fatty acid composition changed, resulting in a higher unsaturated/saturated ratio. PINK1 and PARKIN levels were reduced upon CDDP treatment, suggesting mitophagy disruption. Co-treatment of NG and HD enhanced complex activity, MMP, OCR, ATP generation, and cell viability. MMF was protected by NG and HD, which also stabilized fatty acids and enhanced ion permeability and mitochondrial swelling. Compared to NG, HD preserved numerous attributes more effectively and restored them almost completely. NG and HD effectively preserve mitochondrial bioenergetics, structure, and dynamics in granulosa cells, mitigating CDDP-induced dysfunction. These findings highlight their potential as natural adjuvants to reduce ovarian toxicity and support fertility preservation in female cancer patients.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing in a higher unsaturated/saturated ratio. PINK1 and PARKIN levels were reduced upon CDDP treatment, suggesting mitophagy disruption. Co-treatment of NG and HD enhanced complex activity, MMP, OCR, ATP generation, and cell viability. MMF was protected by NG and HD, which also stabilized fatty acids and enhanced ion permeability and mitochondrial swelling. Compared to NG, HD preserved numerous attributes more effectively and restored them almost completely. NG and HD effectively preserve mitochondrial bioenergetics, structure, and dynamics in granulosa cells, mitigating CDDP-induced dysfunction. These findings highlight their potential as natural adjuvants to reduce ovarian toxicity and support fertility preservation in female cancer patients.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42174625/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42173762",
+      "title": "Odontogenic cyst with verrucous proliferation.",
+      "authors": [
+        "S Asoda",
+        "M Morita",
+        "S Kawai",
+        "T Nakagawa"
+      ],
+      "publication_date": "2026-May-22",
+      "publication_date_iso": "2026-05-22",
+      "abstract": "Verrucous proliferation in the lining of odontogenic cysts occurs infrequently. A search of the literature identified only four previously reported cases. This report presents the case of a 5-year-old female patient with an odontogenic cyst that exhibited verrucous proliferation. A biopsy was performed at another hospital's oral surgery centre for swelling of the right upper gingiva, which revealed papillary growth of an apparent intraosseous cyst lined with stratified squamous epithelium. The patient was referred to the author's hospital for definitive enucleation of the cystic lesion. However, it was difficult to classify this cyst according to the extant World Health Organization (WHO) classifications of odontogenic cysts due to the unusual morphology of its lining. According to the existing literature, the following will be only the fifth case reported of an odontogenic cyst with verrucous proliferation of its lining.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42173762/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42173711",
+      "title": "Jael syndrome, or the nasty arrow.",
+      "authors": [
+        "L Hassler",
+        "J-B Morvan",
+        "M Fieux"
+      ],
+      "publication_date": "2026-May-22",
+      "publication_date_iso": "2026-05-22",
+      "abstract": "The term \"Jael syndrome\" is a symbolic analogy referring to penetrating craniofacial trauma caused, intentionally or accidentally, by blade or similar weapon in which the foreign body is kept in-situ during initial management. It is rare in clinical and medicolegal practice, but is potentially life-threatening or with neurologic and functional impact. Its name comes from an episode in the Book of Judges in the Hebrew Bible (Old Testament) in which Jael, a woman, kills the Canaanite general Sisera by hammering a tent peg through his temple while he is asleep, thus ensuring the liberation of the people of Israel. Over the centuries, the story had an enduring influence on the European artistic and cultural imagination, with numerous paintings, sculptures, musical and literary compositions memorializing the symbolic power of a unique act of violence. Artists such as Abraham Godyn and Artemisia Gentileschi, baroque sculptors, composers such as Georg Friedrich Haendel and French writers such as Victor Hugo gave the figure of Jael a lasting place in our cultural heritage. In medicine, the first description of a penetrating craniofacial injury with the foreign body in-situ was by Geoffrey Jefferson, a British neurosurgeon, in the mid-20th century, who reported a case of orbitocranial impalement. Subsequently, a few rare cases mainly involved isolated case reports or retrospective series, with consequently low levels of evidence for optimal management. Via a present-day case of penetrating facial trauma involving an arrow, this article reviews diagnostic and therapeutic issues in Jael syndrome. The case illustrates the importance of management in a well-equipped tertiary referral center with specialized medical-surgical multidisciplinary teamwork. Management is based on fundamental principles: systematized initial clinical assessment using the ABCDE (ATLS®) algorithm; not moving or removing the foreign body during the initial stage; early protection of the airway and vascular system; and adapted imaging, ideally by head-and-neck CT angiography. Current strategies favor personalized, selective management based on clinical examination, lesion topography and hemodynamic stability, rather than systematic surgical exploration. However, multicenter prospective studies are needed to refine guidelines, notably by integrating advanced imaging and minimally invasive techniques in order to improve functional prognosis in these rare but high-risk trauma.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42173711/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42172911",
+      "title": "Nonsurgical treatment of an adult Class II division 1 right-subdivision malocclusion with reduced periodontal support using third-molar extraction and palatal miniscrew-assisted distalization: A case report.",
+      "authors": [
+        "Viet Anh Nguyen",
+        "Thi Hanh Nguyen"
+      ],
+      "publication_date": "2026-May-22",
+      "publication_date_iso": "2026-05-22",
+      "abstract": "Adult Class II patients with protrusive maxillary incisors, a constricted maxillary arch, deep overbite, and reduced periodontal support are challenging to manage when orthognathic surgery is refused and preservation of the soft-tissue profile is a major concern. This case report describes the nonsurgical treatment of an adult patient with an Angle Class II division 1 right-subdivision malocclusion using maxillary third-molar extraction, self-ligating appliances, and miniscrew-assisted maxillary distalization, with successful transfer of anchorage from failed buccal miniscrews to palatal miniscrews. A 30-year-old man presented with maxillary anterior spacing, a constricted maxillary arch, excessive overjet, traumatic deep overbite, mild mandibular crowding, and generalized reduced periodontal support. Treatment was performed without premolar extraction using bite turbos, sequential archwires, intermaxillary elastics, maxillary third-molar extraction, and en masse maxillary distalization supported initially by buccal miniscrews and subsequently by palatal miniscrews after buccal screw failure. After 16 months of active treatment, facial and smile aesthetics were improved, with full maxillary incisor display and reduced buccal corridors. Bilateral Class I canine and molar relationships, coincident dental midlines, normal overjet and overbite, and good intercuspation were achieved. Periodontal re-evaluation showed a clinically stable periodontium. Successful nonsurgical correction of this adult Class II division 1 right-subdivision malocclusion was achieved without premolar extraction. Transfer of anchorage from failed buccal miniscrews to stable palatal miniscrews was a key factor in completing treatment and obtaining favourable occlusal, dentoalveolar, periodontal, and aesthetic outcomes.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42172911/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42172001",
       "title": "Modified T-Shaped Closure of Rostral Maxillary Defects in Dogs Following Rostral Maxillectomy.",
       "authors": [
@@ -2713,6 +2861,33 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41989020/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42173484",
+      "title": "Effect of Arnica Montana on postoperative Edema, Pain, and Trismus Following Surgical Extraction of Impacted Third Molars: A Double-Blind Clinical Trial.",
+      "authors": [
+        "Christian Makary",
+        "Josephine Balaa",
+        "Nancy Mansour",
+        "Abdallah Menhall",
+        "Pierre Lahoud",
+        "Krikor Sahakian"
+      ],
+      "publication_date": "2026-May-21",
+      "publication_date_iso": "2026-05-21",
+      "abstract": "This study evaluated Arnica Montana 's effect on postoperative edema, pain, and trismus after impacted third molar extraction. In a double-blind clinical trial, 10 patients scheduled for the extraction of symmetrically impacted maxillary or mandibular third molars were recruited. Patients received either Arnica Montana 12 CH or a placebo, starting 1 day before surgery and continuing for 7 days postoperatively. The alternate treatment was given during a second surgery after at least two weeks. Pain scores, maximum mouth opening, and facial measurements were recorded. Pain scores were significantly lower in the Arnica Montana group on days 1-5 postoperatively, but not on days 6 and 7. The Arnica Montana group required fewer painkillers over the 7-day period. Facial swelling was significantly reduced on day 2 in the Arnica group, with no significant difference on day 7. Trismus, measured by mouth opening, was lower in the Arnica group but not statistically significant. Arnica Montana significantly reduces pain and swelling following impacted third molar removal but does not affect trismus.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42173484/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2888,65 +3063,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42160811",
-      "title": "The Efficacy and Safety of Intranasal Dexmedetomidine Spray Followed by Nitrous Oxide for Paediatric Oral Procedures.",
-      "authors": [
-        "Yu-Jie Xiao",
-        "Hong-Yu Zhang",
-        "Meng-Di Nie",
-        "Guo-Sheng Liu",
-        "Wei Peng",
-        "Ji-Hong Zhao",
-        "Zhen-Hao Hu",
-        "Huan Sun",
-        "Yang Wu"
-      ],
-      "publication_date": "2026-May-20",
-      "publication_date_iso": "2026-05-20",
-      "abstract": "The management of uncooperative children requiring complex outpatient oral procedures presents a significant clinical challenge. This study aimed to evaluate the safety and efficacy of intranasal dexmedetomidine (DEX) spray combined with nitrous oxide/oxygen (N₂O/O₂) inhalation sedation for the extraction of impacted supernumerary teeth in paediatric patients. This retrospective clinical study enrolled uncooperative children aged 6 to 12 years (Frankl Scale score 2-3). Preoperative sedation was achieved using 2 µg/kg intranasal DEX spray. After sedation onset, heart rate (HR), blood pressure (BP), and oxygen saturation (SpO₂) were monitored. Throughout the procedure, N₂O/O₂ inhalation was administered to maintain a moderate sedation level, with HR, BP, SpO₂, and sedation depth recorded at 5-minute intervals. Postoperatively, patients were observed in the recovery room until all discharge criteria were met. All 63 patients (34 boys and 29 girls) cooperated with nasal hood placement and successfully underwent parental separation. Sixty children (95.24%) completed the procedure successfully, with 56 (88.89%) maintaining moderate sedation depth throughout. There were significant decreases in HR and BP (P < .001), while SpO₂ (P = .120) remained stable during procedures. Adverse events included drowsiness (5 cases, 7.94%), dizziness (2 cases, 3.17%), and hypotension (8 cases, 12.70%). Only one (1.59%) case experienced hypoxemia concurrently presenting with bradycardia and hypotension, which required brief clinical intervention. The combination of intranasal DEX spray and N₂O/O₂ appears to be a promising sedation technique for impacted supernumerary tooth extraction in paediatric patients, with minimal adverse effects rarely requiring clinical intervention. This protocol shows promise in addressing the challenge of non-cooperation prior to N₂O administration, and may offer an effective, convenient, and relatively safe approach for managing uncooperative paediatric patients undergoing complex oral surgery.",
-      "objective": "",
-      "study_methods": "This retrospective clinical study enrolled uncooperative children aged 6 to 12 years (Frankl Scale score 2-3). Preoperative sedation was achieved using 2 µg/kg intranasal DEX spray. After sedation onset, heart rate (HR), blood pressure (BP), and oxygen saturation (SpO₂) were monitored. Throughout the procedure, N₂O/O₂ inhalation was administered to maintain a moderate sedation level, with HR, BP, SpO₂, and sedation depth recorded at 5-minute intervals. Postoperatively, patients were observed in the recovery room until all discharge criteria were met.",
-      "methods": "This retrospective clinical study enrolled uncooperative children aged 6 to 12 years (Frankl Scale score 2-3). Preoperative sedation was achieved using 2 µg/kg intranasal DEX spray. After sedation onset, heart rate (HR), blood pressure (BP), and oxygen saturation (SpO₂) were monitored. Throughout the procedure, N₂O/O₂ inhalation was administered to maintain a moderate sedation level, with HR, BP, SpO₂, and sedation depth recorded at 5-minute intervals. Postoperatively, patients were observed in the recovery room until all discharge criteria were met.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42160811/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42160810",
-      "title": "Corrigendum to 'Significance of methyltransferase-like 5 expression in oral squamous cell carcinoma' [Volume 76, Issue 3, June 2026, 109533].",
-      "authors": [
-        "Yuka Kajiya",
-        "Kaori Shima",
-        "Yudai Shimojukkoku",
-        "Yasunobu Oku",
-        "Takahiro Tsuchiyama",
-        "Kanako Higashimoto",
-        "Miyako Kurihara-Shimomura",
-        "Tomonori Sasahira"
-      ],
-      "publication_date": "2026-May-20",
-      "publication_date_iso": "2026-05-20",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42160810/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42153735",
       "title": "Factors Associated With Longitudinal Quality of Life Related to Facial Differences in Youth With Cleft Lip and Palate in Treatment for Class III Malocclusion.",
       "authors": [
@@ -3049,30 +3165,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42148626/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42142304",
-      "title": "Oncogenic signaling pathways in ameloblastoma and their implications for precision based therapy.",
-      "authors": [
-        "S Boukssim",
-        "H Soualem",
-        "L Benjelloun"
-      ],
-      "publication_date": "2026-May-16",
-      "publication_date_iso": "2026-05-16",
-      "abstract": "Ameloblastoma is an odontogenic epithelial tumor characterized by a paradoxical clinical behavior. Although histologically benign and typically non-metastatic, it demonstrates aggressive local growth, extensive bone destruction, and a high propensity for recurrence. Surgical resection remains the primary treatment modality but is frequently associated with significant functional and aesthetic morbidity, highlighting the need for alternative, biology-driven therapeutic approaches. Advances in molecular profiling have revealed that ameloblastoma is driven by recurrent, highly specific oncogenic alterations rather than generalized genomic instability. Constitutive activation of the mitogen-activated protein kinase (MAPK) pathway-most commonly through BRAF V600E mutations and particularly prominent in mandibular ameloblastomas-represents the principal oncogenic mechanism in a major molecular subset, with additional involvement of FGFR2 and Hedgehog signaling in distinct subgroups. These pathways, which are key regulators of odontogenic development, confer strong oncogenic pathway dependency while maintaining a developmentally constrained tumor phenotype. Accumulating clinical evidence indicates that pathway-directed therapies, particularly combined BRAF and MEK inhibition, can induce rapid and durable responses in patients with locally advanced, recurrent, or metastatic ameloblastoma. Targeted therapy has also demonstrated potential roles in neoadjuvant tumor downstaging and long-term disease control, enabling surgical de-escalation in selected cases. Emerging strategies targeting FGFR, Hedgehog, epigenetic regulators, and PI3K signaling remain investigational but highlight additional therapeutic vulnerabilities. The objective of this review is to summarize current molecular and clinical evidence supporting pathway-directed targeted therapy in ameloblastoma and to explore its implications for precision-based treatment strategies beyond traditional surgical management.",
-      "objective": "of this review is to summarize current molecular and clinical evidence supporting pathway-directed targeted therapy in ameloblastoma and to explore its implications for precision-based treatment strategies beyond traditional surgical management.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42142304/",
       "pmcid": "",
       "figure_urls": []
     }
