@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T06:08:29Z",
+  "updated_at": "2026-05-25T06:40:52Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -809,7 +809,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005717/",
       "pmcid": "PMC13091407",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091407/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42001840",
@@ -1073,7 +1078,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41809095/",
       "pmcid": "PMC12969315",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969315/bin/gr1.gif"
+      ]
     },
     {
       "pmid": "41802456",
@@ -1455,7 +1465,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42132365/",
       "pmcid": "PMC13174906",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g002.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g003.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13174906/bin/CID-28-0-g003.gif"
+      ]
     },
     {
       "pmid": "42125759",
@@ -2147,7 +2162,10 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41693682/",
       "pmcid": "PMC13193350",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13193350/bin/JERD-38-1243-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13193350/bin/JERD-38-1243-g002.jpg"
+      ]
     },
     {
       "pmid": "41693281",
@@ -2407,6 +2425,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "41271534",
+      "title": "Facial injuries in major trauma patients in Ireland.",
+      "authors": [
+        "David M McGoldrick",
+        "Rachel O'Donoghue",
+        "Olga Brych",
+        "Pamela Hickey",
+        "Conor M Bowe"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Major trauma is associated with significant morbidity and mortality. Facial injuries are often present in those sustaining major trauma. We sought to examine the Irish trauma registry to further assess this association. A retrospective analysis of the Irish trauma registry, the Major Trauma Audit, from 2017 to 2022 was performed. Patients over 16 years who had sustained major trauma were included in the analysis. The presence of an associated facial injury was further analysed. A total of 8943 patients were included in the analysis. A facial injury was seen in 18.9 % of patients. The majority of those sustaining a concurrent facial injury were male (69 %) and the median age was 59 years. Falls <2m (42.9 %) and road traffic collisions (27.6 %) were the commonest mechanisms of injury. A significant head injury was more commonly seen in those who also sustained facial trauma (84.9 % vs 58 %). Facial injuries are commonly seen in patients who sustain major trauma. They may also indicate the presence of a concurrent head injury.",
+      "objective": "",
+      "study_methods": "A retrospective analysis of the Irish trauma registry, the Major Trauma Audit, from 2017 to 2022 was performed. Patients over 16 years who had sustained major trauma were included in the analysis. The presence of an associated facial injury was further analysed.",
+      "methods": "A retrospective analysis of the Irish trauma registry, the Major Trauma Audit, from 2017 to 2022 was performed. Patients over 16 years who had sustained major trauma were included in the analysis. The presence of an associated facial injury was further analysed.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41271534/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41198463",
       "title": "Early soft tissue changes in the nasolabial angle following maxillary advancement: a comparison of two surgical methods.",
       "authors": [
@@ -2636,6 +2680,35 @@
       "figure_urls": []
     },
     {
+      "pmid": "42177665",
+      "title": "Periodontal changes in patients with skeletal Class III malocclusion with and without prophylactic gingival grafting during presurgical orthodontic treatment.",
+      "authors": [
+        "Minji Kang",
+        "Dong-Won Lee",
+        "Jae Hyun Park",
+        "Yoon Jeong Choi",
+        "Sanghee Lee",
+        "Ji-Hyun Lee",
+        "Chooryung J Chung",
+        "Kyung-Ho Kim"
+      ],
+      "publication_date": "2026-May-23",
+      "publication_date_iso": "2026-05-23",
+      "abstract": "This study aimed to evaluate periodontal tissue changes after prophylactic gingival grafting in patients with skeletal Class III malocclusion undergoing presurgical orthodontic treatment involving mandibular incisor proclination. A total of 28 patients with skeletal Class III malocclusion scheduled for orthognathic surgery were included. Thirteen received subepithelial connective tissue grafts before orthodontic treatment (graft group), whereas 15 did not (nongraft group). Lateral cephalograms and cone-beam computed tomography images were taken before and after treatment to perform cephalometric and periodontal measurements. The primary outcomes were supracrestal gingival area (GA) and gingival thickness (GT) 1-5. Secondary outcomes included alveolar bone thickness (BT) 1-5, vertical bone height, and clinical crown length. Statistical analyses included intragroup changes, intergroup comparisons, and regression analyses. In the graft group, GA and GT significantly increased. In contrast, BT2 and BT3 decreased, and vertical bone height increased, indicating vertical bone loss. No gingival recession was observed in either group. In exploratory analyses, increases in GA, GT1, and GT2 were negatively associated with a change in the incisor mandibular plane angle, whereas increases in GT3-5 were negatively associated with age. Prophylactic gingival grafting before presurgical orthodontic treatment increased GT and GA in patients with skeletal Class III malocclusion, even in the presence of alveolar bone loss.",
+      "objective": "",
+      "study_methods": "A total of 28 patients with skeletal Class III malocclusion scheduled for orthognathic surgery were included. Thirteen received subepithelial connective tissue grafts before orthodontic treatment (graft group), whereas 15 did not (nongraft group). Lateral cephalograms and cone-beam computed tomography images were taken before and after treatment to perform cephalometric and periodontal measurements. The primary outcomes were supracrestal gingival area (GA) and gingival thickness (GT) 1-5. Secondary outcomes included alveolar bone thickness (BT) 1-5, vertical bone height, and clinical crown length. Statistical analyses included intragroup changes, intergroup comparisons, and regression analyses.",
+      "methods": "A total of 28 patients with skeletal Class III malocclusion scheduled for orthognathic surgery were included. Thirteen received subepithelial connective tissue grafts before orthodontic treatment (graft group), whereas 15 did not (nongraft group). Lateral cephalograms and cone-beam computed tomography images were taken before and after treatment to perform cephalometric and periodontal measurements. The primary outcomes were supracrestal gingival area (GA) and gingival thickness (GT) 1-5. Secondary outcomes included alveolar bone thickness (BT) 1-5, vertical bone height, and clinical crown length. Statistical analyses included intragroup changes, intergroup comparisons, and regression analyses.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42177665/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42174330",
       "title": "Anthropometric analysis of the relationship between mandibular biotypes and condylar fracture patterns and degree of condylar displacement in victims of facial trauma.",
       "authors": [
@@ -2656,7 +2729,7 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42174330/",
-      "pmcid": "",
+      "pmcid": "PMC13197344",
       "figure_urls": []
     },
     {
