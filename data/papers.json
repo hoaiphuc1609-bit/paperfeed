@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T06:40:52Z",
+  "updated_at": "2026-05-26T06:12:49Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -139,12 +139,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41858234/",
       "pmcid": "PMC13007456",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_PB.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_PB.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41582805",
@@ -271,6 +266,39 @@
       ]
     },
     {
+      "pmid": "42181171",
+      "title": "Stage-specific biomimetic nanoparticles reprogram osteoblast-adipocyte equilibrium for targeted osteoporosis therapy.",
+      "authors": [
+        "Kehan Cai",
+        "Zhe Fan",
+        "Jun Tan",
+        "Wei Cai",
+        "Minghang Zhang",
+        "Haojie Tang",
+        "Jianzhong Xu",
+        "Han Lu",
+        "Wei He",
+        "Qian Xu",
+        "Yazhou Chen",
+        "Tao Chen"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Cell membrane-camouflaged nanoparticles have emerged as powerful tools for targeted drug delivery; however, current strategies typically utilize membranes from static cell states, overlooking the dynamic functional evolution that occurs during lineage commitment. Here, we established a stepwise osteogenic differentiation model for BMSCs and isolated cell membranes from distinct stages of this process to construct a series of cell membrane-camouflaged mesoporous silica nanoparticles (CM-MSNs). Proteomic profiling revealed stage-dependent remodeling of membrane protein composition, with early osteogenic (EO) stage membranes uniquely enriched in phosphatases and cadherins. Functional evaluations showed stage-dependent activity among CM-MSNs, and EO membrane-camouflaged nanoparticles (EO-MSNs) exhibited the strongest capacity to promote calcium deposition and enhance BMSC osteogenesis in vitro via the Wnt/β-catenin signaling pathway. In a rat model of osteoporosis, EO-MSN exhibited prolonged circulation time, precise bone-specific accumulation, and potent anti-osteoporotic efficacy. Collectively, our findings suggest that utilizing stage-specific cell membranes offers a novel strategy to remodel the osteoporotic microenvironment by modulating the osteoblast-adipocyte equilibrium.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42181171/",
+      "pmcid": "PMC13196569",
+      "figure_urls": []
+    },
+    {
       "pmid": "42164998",
       "title": "Hit the bull's eye: Engineered extracellular vesicles for targeted therapy.",
       "authors": [
@@ -386,6 +414,36 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42044723/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41980535",
+      "title": "Prevalence of restless legs syndrome during pregnancy: a systematic review and meta-analysis.",
+      "authors": [
+        "Farag M A Altalbawy",
+        "Muthena Kareem",
+        "Gaurav Sanghvi",
+        "Roopashree R",
+        "Aditya Kashyap",
+        "S M Indumathi",
+        "Rajashree Panigrahi",
+        "Aziz Kubaev",
+        "Kamal Kant Joshi"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Restless legs syndrome (RLS) is known as one of the most common movement disorders during pregnancy, which is most aggravated in the third trimester of pregnancy and can affect up to one-third of pregnant women. This study intends to determine the total prevalence of RLS during pregnancy through a systematic review and meta-analysis. The present study was conducted using a systematic review approach based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. A comprehensive search for relevant studies was performed in the Scopus, Web of Science (WOS), ScienceDirect, and Medline databases using keywords related to RLS and pregnancy. Following data extraction, the necessary statistical analyses were conducted using the random-effects model and performed with the second version of the Comprehensive Meta-Analysis software. In the final 35 studies, a total of 56,989 individuals were examined. Due to the heterogeneity observed based on the related tests (I2: 99.1%), a random-effects model was used to synthesize the results. Publication bias was assessed using the Egger's test, which indicated no significant bias in the final results the pooled results, the prevalence of RLS in pregnant women was calculated to be 21.9% (CI: 17.3% - 27.4% P ≤ 0.001). the prevalence of RLS in pregnant women in Asia was calculated to be 19.2% (effect size: 19.2%, CI 95% 12.9-27.6, P ≤ 0.001). Furthermore, the prevalence of RLS in Europe (effect size: 22.4%, CI 95% 17.2-28.6, P ≤ 0.001), America (effect size: 19.9%, CI 95% 12.6-29.9, P ≤ 0.001), and Africa (effect size: 58.1%, CI 95% 54.4-61.8, P ≤ 0.001). This study reveals a global prevalence of 21.9% for RLS among pregnant women. The subgroup analysis further highlights significant regional variation in RLS prevalence, with Africa exhibiting the highest rate at 58.1%, followed by Europe at 22.4%, the Americas at 19.9%, and Asia at 19.2%. These findings underscore the impact of geographical, cultural, and possibly environmental factors on the manifestation of RLS in pregnant women. Such variability calls for further research to explore the underlying causes of these differences, particularly in relation to genetic, nutritional, and healthcare access factors.",
+      "objective": "",
+      "study_methods": "The present study was conducted using a systematic review approach based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. A comprehensive search for relevant studies was performed in the Scopus, Web of Science (WOS), ScienceDirect, and Medline databases using keywords related to RLS and pregnancy. Following data extraction, the necessary statistical analyses were conducted using the random-effects model and performed with the second version of the Comprehensive Meta-Analysis software.",
+      "methods": "The present study was conducted using a systematic review approach based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. A comprehensive search for relevant studies was performed in the Scopus, Web of Science (WOS), ScienceDirect, and Medline databases using keywords related to RLS and pregnancy. Following data extraction, the necessary statistical analyses were conducted using the random-effects model and performed with the second version of the Comprehensive Meta-Analysis software.",
+      "results": "Publication bias was assessed using the Egger's test, which indicated no significant bias in the final results the pooled results, the prevalence of RLS in pregnant women was calculated to be 21.9% (CI: 17.3% - 27.4% P ≤ 0.001). the prevalence of RLS in pregnant women in Asia was calculated to be 19.2% (effect size: 19.2%, CI 95% 12.9-27.6, P ≤ 0.001). Furthermore, the prevalence of RLS in Europe (effect size: 22.4%, CI 95% 17.2-28.6, P ≤ 0.001), America (effect size: 19.9%, CI 95% 12.6-29.9, P ≤ 0.001), and Africa (effect size: 58.1%, CI 95% 54.4-61.8, P ≤ 0.001). This study reveals a global prevalence of 21.9% for RLS among pregnant women. The subgroup analysis further highlights significant regional variation in RLS prevalence, with Africa exhibiting the highest rate at 58.1%, followed by Europe at 22.4%, the Americas at 19.9%, and Asia at 19.2%. These findings underscore the impact of geographical, cultural, and possibly environmental factors on the manifestation of RLS in pregnant women. Such variability calls for further research to explore the underlying causes of these differences, particularly in relation to genetic, nutritional, and healthcare access factors.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41980535/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -568,6 +626,33 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41740295/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42155375",
+      "title": "Bioconvection MHD casson hybrid nanofluid (Ag-TiO",
+      "authors": [
+        "D Prabu",
+        "Shajar Abbas",
+        "Assmaa Abd-Elmonem",
+        "Nagat A A Siddig",
+        "Farzona Alimova",
+        "Firdavs Kuchkarov"
+      ],
+      "publication_date": "2026-Jul-15",
+      "publication_date_iso": "2026-07-15",
+      "abstract": "The biomedical engineering and polymer processing industries experience rising needs for thermal management systems because of continuous technology improvements. The study investigates how a Casson fluid magnetohydrodynamic (MHD) stagnation-point flow behaves when used with an expanding surface while including viscous dissipation, chemical reaction, Joule heating, and thermal radiation through the Rosseland approximation. The model uses velocity slip and convective boundary conditions to create more realistic physical behavior. The governing nonlinear partial differential equations(PDEs) are transformed into a system of coupled ordinary differential equations(ODEs) using similarity transformations and solved numerically via the shooting method with a fourth-order Runge-Kutta scheme implemented in MATLAB. The results show that increasing the Casson parameter leads to a 15 to 25 percent improvement in the velocity profile because it decreases the resistance from yield stress. The temperature profile rises significantly (about 20-30%) with an increasing magnetic parameter as a result of intensified Joule heating effects. Higher Schmidt number values result in a significant reduction in concentration profiles which decreases by almost 10 to 20 percent because of decreased mass diffusivity. The Peclet number shows an inverse relationship with the motile microorganism density which causes a decrease of about 12 to 18 percent when it rises. The findings provide valuable insights which help industries and biomedical fields to improve their thermal systems that use non-Newtonian fluids.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "show that increasing the Casson parameter leads to a 15 to 25 percent improvement in the velocity profile because it decreases the resistance from yield stress. The temperature profile rises significantly (about 20-30%) with an increasing magnetic parameter as a result of intensified Joule heating effects. Higher Schmidt number values result in a significant reduction in concentration profiles which decreases by almost 10 to 20 percent because of decreased mass diffusivity. The Peclet number shows an inverse relationship with the motile microorganism density which causes a decrease of about 12 to 18 percent when it rises. The findings provide valuable insights which help industries and biomedical fields to improve their thermal systems that use non-Newtonian fluids.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42155375/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1352,42 +1437,23 @@
       "figure_urls": []
     },
     {
-      "pmid": "41478785",
-      "title": "Do demographic and socioeconomic factors influence the management of nasal bone fractures?",
+      "pmid": "42182879",
+      "title": "Met@MPDA rejuvenates BMSC energy metabolism to promote bone regeneration in semaglutide-treated obese periodontitis.",
       "authors": [
-        "Jordan S Elmowitz",
-        "Gregory Benz",
-        "Frank Zimmerman",
-        "Sajjad Shirazi",
-        "William Brigode",
-        "Max R Emmerling"
+        "Ting Jiang",
+        "Tian-Hao Wan",
+        "Min-Jie Wang",
+        "Xue-Qin Zhu",
+        "Yu-Ran Jiang",
+        "Feng Yang",
+        "Zhi-Chen Ling",
+        "Xin-Yi Tan",
+        "Jun Wang",
+        "Ning-Juan Ouyang"
       ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "The study purpose was to measure the association between demographic and socioeconomic factors in the management of nasal bone fractures. This was a retrospective cohort study of 995 adult patients presenting to John H. Stroger Jr. Hospital of Cook County from 2016 to 2024 with nasal bone fractures. The primary outcome variable was operative versus non-operative management. Data analysis was performed using chi-squared, Pearson's correlation, Mann-Whitney U tests, and multivariate logistic regressions. Females were more frequently scheduled for follow-up (P = .015). Patients who attended follow-up (P < .001) and underwent surgery (P = .01) were younger on average. Detainees, or incarcerated/jailed patients, were more likely to attend follow-up (P < .001). High median household incomes and non-Chicago zip codes were associated with lower follow-up rates (P = .023). In bivariate analysis, Black/African American patients were less likely to undergo surgery than White patients (P = .035). In the subgroup, higher median household incomes were more likely to undergo surgery (P = .031). Demographic and socioeconomic factors are associated with the management of nasal bone fractures, including likelihood of operative intervention. Surgeons should consider the role that these factors and unconscious bias play in treatment.",
-      "objective": "was to measure the association between demographic and socioeconomic factors in the management of nasal bone fractures. This was a retrospective cohort study of 995 adult patients presenting to John H. Stroger Jr. Hospital of Cook County from 2016 to 2024 with nasal bone fractures. The primary outcome variable was operative versus non-operative management. Data analysis was performed using chi-squared, Pearson's correlation, Mann-Whitney U tests, and multivariate logistic regressions. Females were more frequently scheduled for follow-up (P = .015). Patients who attended follow-up (P < .001) and underwent surgery (P = .01) were younger on average. Detainees, or incarcerated/jailed patients, were more likely to attend follow-up (P < .001). High median household incomes and non-Chicago zip codes were associated with lower follow-up rates (P = .023). In bivariate analysis, Black/African American patients were less likely to undergo surgery than White patients (P = .035). In the subgroup, higher median household incomes were more likely to undergo surgery (P = .031). Demographic and socioeconomic factors are associated with the management of nasal bone fractures, including likelihood of operative intervention. Surgeons should consider the role that these factors and unconscious bias play in treatment.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41478785/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41475943",
-      "title": "Coronectomy for high-risk mandibular third molars: neuroprotection efficacy, long-term outcomes, and clinical controversies.",
-      "authors": [
-        "Jing Li",
-        "Wei Zhang"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Coronectomy, a surgical procedure involving intentional crown removal with root retention of mandibular third molars at high risk of inferior alveolar nerve injury, represents a validated nerve-sparing alternative to complete extraction. This review summarizes evidence demonstrating its superior neuroprotective efficacy: Coronectomy reduces inferior alveolar nerve injury risk by 87% (0%-0.65% vs. 3.7%-19% in conventional extraction), with significantly lower rates of permanent sensory deficit (0.6% vs. 0.9%). Long-term outcomes (>5 years) reveal predictable root migration (>90% of cases; mean 2.5-4.6 mm, predominantly within 6-12 months), minimal chronic pain (0% after 3 years), and enhanced bone regeneration at the distal aspect of adjacent second molars (mean gain: 3.2-3.5 mm). Secondary extraction rates remain low (3.1%-5.4%), primarily indicated for root exposure (2.1%-3.5%) or infection (0.3%-1.6%). Key controversies include the contraindication of routine root canal treatment (failure rate: 87.5% vs. 12.5% without) and emerging two-stage extraction techniques. Strict cone beam computed tomography-guided selection criteria are critical to success. Future priorities include migration prediction models and bioactive material-enhanced healing. Taken together, coronectomy represents a clinically robust strategy for high-risk mandibular third molars when balancing nerve preservation against manageable complications.",
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Obesity is closely linked to periodontitis development. Although semaglutide is increasingly used to manage obesity, its effects on alveolar bone repair in periodontitis are not well understood. In a mouse model of obesity-related periodontitis, we found that obesity exacerbates alveolar bone loss in an inflammatory setting. Semaglutide treatment slightly reduced periodontal inflammation and osteoclast markers but did not improve osteogenesis or regenerate alveolar defects. Transcriptomic analysis revealed increased fatty-acid uptake but suppressed AMPK signaling and reduced fatty-acid oxidation (FAO) in inflamed alveolar bone of obese mice. In vitro, macrophage FAO was largely unaffected by inflammation or semaglutide, while FAO in bone marrow-derived mesenchymal stem cells (BMSCs) was significantly reduced, impairing osteogenic differentiation. To tackle metabolic and osteogenic issues, we created a metformin-loaded mesoporous polydopamine system (Met@MPDA) that acts as an AMPK agonist. Met@MPDA is absorbed by BMSCs, restoring cellular energy and promoting alveolar bone regeneration in periodontitis. While semaglutide provides anti-inflammatory benefits in obesity-related periodontitis, it falls short in boosting bone regeneration due to metabolic issues in BMSCs. Thus, Met@MPDA's sustained metformin delivery could enhance bone regeneration in these cases.",
       "objective": "",
       "study_methods": "",
       "methods": "",
@@ -1395,49 +1461,11 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41475943/",
-      "pmcid": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42182879/",
+      "pmcid": "PMC13197780",
       "figure_urls": []
-    },
-    {
-      "pmid": "42138606",
-      "title": "Clinical Outcomes of Adjunctive Corticosteroid Therapy Versus Standard Treatment Alone in Patients With Bacterial Facial Infections: A Systematic Review and Meta-Analysis.",
-      "authors": [
-        "Umer Hussain",
-        "Wajiha Abbas",
-        "Inayat Ur Rahman",
-        "Imad Ali",
-        "Umer Ullah",
-        "Muhammad Yousaf Ali",
-        "Nadia Mansoor",
-        "Nuha Abdalla Osman Mustafa",
-        "Riyadh Alroomy",
-        "Roqayah Ibrahim Aljuailan",
-        "Asif Rehman",
-        "Badi Alotaibi"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Objectives: To evaluate the clinical effectiveness and safety of adjunctive corticosteroid versus standard treatment alone in facial infections. Eligibility criteria: Included clinical comparative studies (randomized or non-randomized) evaluating adjunctive corticosteroids versus standard care in patients with bacterial facial infections such as odontogenic/facial space infections, dental abscesses, orbital cellulitis, periorbital cellulitis, and Ludwig's angina. An unrestricted literature search of five databases was conducted up to December 15, 2025. Risk of bias: The quality assessment of the studies was conducted using the Cochrane Risk of Bias Tool (ROBINS-I) for non-randomized and a new risk of bias tool (RoB-2) for randomized studies. Random effects meta-analyses using mean difference (MD) or standardized mean differences (SMDs) were performed, followed by sensitivity analyses, and assessment of the quality of evidence using GRADE. Included studies: Fifteen comparative studies (three randomized and 12 non-randomized) including 13,905 patients with bacterial facial infections (61.5% male) were included. Low-certainty evidence showed that the use of adjunctive steroids significantly reduced hospital stay compared with standard treatment alone (10 studies; MD = -1.61 [-3.17, -0.05] days; p = 0.04; I2 = 99.3%). Low-certainty evidence also showed that pre-treatment CRP was higher in the steroid groups (3 studies; SMD = 0.33 [0.09, 0.58]; p = 0.03; I2 = 0%). Low-certainty evidence indicated no significant difference in the number of surgeries (p = 0.13), while very low-certainty evidence showed no significant differences in intensive care unit admissions (p = 0.07) or airway compromise (p = 0.18). Sensitivity and subgroup analyses showed no significant differences by study design, infection type, or risk of bias, confirming robust results; only ethnicity had a significant effect on hospital stay (p = 0.0027). Limitations of evidence: Certainty of evidence was low to very low for all outcomes, with hospital stay rated low due to methodological limitations, high risk of bias, and the predominance of non-randomized studies. The low level of evidence suggests that adjunctive corticosteroids may provide a reduction in hospital length of stay for patients with bacterial facial infections. Further well-designed, randomized, and prospective comparative studies are needed to confirm these findings. PROPSERO Registration Number: (CRD420261329331).",
-      "objective": "To evaluate the clinical effectiveness and safety of adjunctive corticosteroid versus standard treatment alone in facial infections. Eligibility criteria: Included clinical comparative studies (randomized or non-randomized) evaluating adjunctive corticosteroids versus standard care in patients with bacterial facial infections such as odontogenic/facial space infections, dental abscesses, orbital cellulitis, periorbital cellulitis, and Ludwig's angina. An unrestricted literature search of five databases was conducted up to December 15, 2025. Risk of bias: The quality assessment of the studies was conducted using the Cochrane Risk of Bias Tool (ROBINS-I) for non-randomized and a new risk of bias tool (RoB-2) for randomized studies. Random effects meta-analyses using mean difference (MD) or standardized mean differences (SMDs) were performed, followed by sensitivity analyses, and assessment of the quality of evidence using GRADE. Included studies: Fifteen comparative studies (three randomized and 12 non-randomized) including 13,905 patients with bacterial facial infections (61.5% male) were included. Low-certainty evidence showed that the use of adjunctive steroids significantly reduced hospital stay compared with standard treatment alone (10 studies; MD = -1.61 [-3.17, -0.05] days; p = 0.04; I2 = 99.3%). Low-certainty evidence also showed that pre-treatment CRP was higher in the steroid groups (3 studies; SMD = 0.33 [0.09, 0.58]; p = 0.03; I2 = 0%). Low-certainty evidence indicated no significant difference in the number of surgeries (p = 0.13), while very low-certainty evidence showed no significant differences in intensive care unit admissions (p = 0.07) or airway compromise (p = 0.18). Sensitivity and subgroup analyses showed no significant differences by study design, infection type, or risk of bias, confirming robust",
-      "study_methods": "Eligibility criteria: Included clinical comparative studies (randomized or non-randomized) evaluating adjunctive corticosteroids versus standard care in patients with bacterial facial infections such as odontogenic/facial space infections, dental abscesses, orbital cellulitis, periorbital cellulitis, and Ludwig's angina.",
-      "methods": "Eligibility criteria: Included clinical comparative studies (randomized or non-randomized) evaluating adjunctive corticosteroids versus standard care in patients with bacterial facial infections such as odontogenic/facial space infections, dental abscesses, orbital cellulitis, periorbital cellulitis, and Ludwig's angina.",
-      "results": "; only ethnicity had a significant effect on hospital stay (p = 0.0027). Limitations of evidence: Certainty of evidence was low to very low for all outcomes, with hospital stay rated low due to methodological limitations, high risk of bias, and the predominance of non-randomized studies. The low level of evidence suggests that adjunctive corticosteroids may provide a reduction in hospital length of stay for patients with bacterial facial infections. Further well-designed, randomized, and prospective comparative studies are needed to confirm these findings. PROPSERO Registration Number: (CRD420261329331).",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42138606/",
-      "pmcid": "PMC13178280",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13178280/bin/CRE2-12-e70377-g003.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13178280/bin/CRE2-12-e70377-g003.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13178280/bin/CRE2-12-e70377-g004.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13178280/bin/CRE2-12-e70377-g004.gif"
-      ]
     },
     {
       "pmid": "42132365",
@@ -2680,6 +2708,163 @@
       "figure_urls": []
     },
     {
+      "pmid": "42185696",
+      "title": "A multicentric prospective analysis of the management of edentulous jaw fractures in the elderly population: a World Oral Maxillofacial Trauma (WORMAT) project.",
+      "authors": [
+        "Fabio Roccia",
+        "Michela Omedè",
+        "Federica Sobrero",
+        "Giulia Cremona",
+        "Utku Nezih Yilmaz",
+        "Mikail Atabay",
+        "Malamatenia Bourazani",
+        "Stavros Skiadas",
+        "Žiga Kovačič",
+        "Nik Krebs",
+        "Anamaria Sivrić",
+        "Mario Kordić",
+        "Gian Battista Bottini",
+        "Maximilian Goetzinger",
+        "Luis Fernando de Oliveira Gorla",
+        "Valfrido Antonio Pereira-Filho",
+        "Emil Dediol",
+        "Boris Kos",
+        "Vitomir S Konstantinovic",
+        "Nikola Miković",
+        "Sahand Samieirad",
+        "Antonio Mari Roig",
+        "Aguilera Padros Ferran",
+        "Sean Laverick",
+        "Tamay Mehmet",
+        "Rodolfo Benech",
+        "Maria Taheny Dmd",
+        "Carlo Strada",
+        "Mehul Raiesh Jaisani",
+        "Ahmed Gaber Hassanein",
+        "Mahmoud Sobhi Allam",
+        "Timothy Aladelusi Fwacs",
+        "Fabio Volpe",
+        "Chiara Copelli"
+      ],
+      "publication_date": "2026-May-26",
+      "publication_date_iso": "2026-05-26",
+      "abstract": "Data on edentulous jaw fractures in elderly patients are limited, particularly for maxillary injuries. This prospective multicentre observational study aimed to evaluate the characteristics, management, and outcomes of edentulous maxillary and mandibular fractures in elderly patients. Patients aged ≥ 60 years with edentulous maxillary and/or mandibular fractures admitted to 17 centres participating in the World Oral and Maxillofacial Trauma (WORMAT) project between March 2024 and March 2025 were prospectively enrolled. The following data were collected: age, sex, cause, fracture site and type, grade of bone atrophy, Facial Injury Severity Scale (FISS), associated injuries, surgical approach, type of treatment, use of a bone graft, length of hospitalisation. Clinical outcomes were assessed at 6 weeks and 3 months. Among 364 elderly patients with maxillofacial trauma, 93 (25.5%) were edentulous and 69 sustained jaw fractures. Falls were the most common mechanism of injury. Maxillary fractures mainly involved the zygomaticomaxillary complex and were frequently managed conservatively, whereas mandibular fractures predominantly affected the body and symphysis/parasymphysis and were treated with open reduction and internal fixation in 89% of cases, usually with rigid fixation. Fracture site displacement was statistically associated with ORIF, both for maxillary (p = 0.010) and mandibular fractures (p = 0.026). Complications were mainly plate exposure in three patients with mandibular fractures. Edentulous jaw fractures in the elderly are rare and typically result from low-energy trauma. Displaced fractures, especially of the atrophic mandible, are mainly managed surgically, with a clear tendency to employ rigid fixation.",
+      "objective": "",
+      "study_methods": "Patients aged ≥ 60 years with edentulous maxillary and/or mandibular fractures admitted to 17 centres participating in the World Oral and Maxillofacial Trauma (WORMAT) project between March 2024 and March 2025 were prospectively enrolled. The following data were collected: age, sex, cause, fracture site and type, grade of bone atrophy, Facial Injury Severity Scale (FISS), associated injuries, surgical approach, type of treatment, use of a bone graft, length of hospitalisation. Clinical outcomes were assessed at 6 weeks and 3 months.",
+      "methods": "Patients aged ≥ 60 years with edentulous maxillary and/or mandibular fractures admitted to 17 centres participating in the World Oral and Maxillofacial Trauma (WORMAT) project between March 2024 and March 2025 were prospectively enrolled. The following data were collected: age, sex, cause, fracture site and type, grade of bone atrophy, Facial Injury Severity Scale (FISS), associated injuries, surgical approach, type of treatment, use of a bone graft, length of hospitalisation. Clinical outcomes were assessed at 6 weeks and 3 months.",
+      "results": "from low-energy trauma. Displaced fractures, especially of the atrophic mandible, are mainly managed surgically, with a clear tendency to employ rigid fixation.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42185696/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42183631",
+      "title": "The Most Influential Publications in Genioplasty: A Bibliometric Review.",
+      "authors": [
+        "Baylee Brochu",
+        "Mark Jessup",
+        "Anshul Ratnaparkhi",
+        "Dylan Treger",
+        "Seth Ray Thaller"
+      ],
+      "publication_date": "2026-May-25",
+      "publication_date_iso": "2026-05-25",
+      "abstract": "Genioplasty is a widely performed procedure for correcting chin deformities. Given its clinical importance and expanding applications, we believe a bibliometric review of the 50 most-cited genioplasty articles is warranted. This is especially relevant given the innovative developments in biomaterials and 3-D planning. The Clarivate Web of Science database was queried to obtain the bibliometric data used in this study. The keyword \"genioplasty\" was entered on May 6, 2024. Search results identified 917 publications from 1945 to 2024. The included studies were assessed for citation density by year, authorship, affiliated institution, publication year, journal, country of origin, topic categorization, and level of evidence (LOE). Each publication was also categorized into its respective LOE. The top 50 most-cited genioplasty publications were cited a total of 2777 times, averaging 55.54 citations per article. The United States contributed the majority of influential genioplasty studies (58%), followed by South Korea. The most common topic was outcomes alone (n=12), followed by outcomes alone and combined (n=4), and outcomes combined (n=10). Most studies were LOE IV (n=29), followed by LOE V (n=15) and LOE 3 (n=6). None was LOE I or II. The literature on genioplasty is predominantly low-level evidence, emphasizing outcomes and technical advancements. This review highlights key contributors and trends of the current body of literature. We believe it will provide a framework for future developments in genioplasty research.",
+      "objective": "",
+      "study_methods": "The Clarivate Web of Science database was queried to obtain the bibliometric data used in this study. The keyword \"genioplasty\" was entered on May 6, 2024. Search results identified 917 publications from 1945 to 2024. The included studies were assessed for citation density by year, authorship, affiliated institution, publication year, journal, country of origin, topic categorization, and level of evidence (LOE). Each publication was also categorized into its respective LOE.",
+      "methods": "The Clarivate Web of Science database was queried to obtain the bibliometric data used in this study. The keyword \"genioplasty\" was entered on May 6, 2024. Search results identified 917 publications from 1945 to 2024. The included studies were assessed for citation density by year, authorship, affiliated institution, publication year, journal, country of origin, topic categorization, and level of evidence (LOE). Each publication was also categorized into its respective LOE.",
+      "results": "identified 917 publications from 1945 to 2024. The included studies were assessed for citation density by year, authorship, affiliated institution, publication year, journal, country of origin, topic categorization, and level of evidence (LOE). Each publication was also categorized into its respective LOE. The top 50 most-cited genioplasty publications were cited a total of 2777 times, averaging 55.54 citations per article. The United States contributed the majority of influential genioplasty studies (58%), followed by South Korea. The most common topic was outcomes alone (n=12), followed by outcomes alone and combined (n=4), and outcomes combined (n=10). Most studies were LOE IV (n=29), followed by LOE V (n=15) and LOE 3 (n=6). None was LOE I or II. The literature on genioplasty is predominantly low-level evidence, emphasizing outcomes and technical advancements. This review highlights key contributors and trends of the current body of literature. We believe it will provide a framework for future developments in genioplasty research.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42183631/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42183625",
+      "title": "Pseudoaneurysm After Orthognathic Surgery: Expanding the Evidence and Proposing a Framework for Diagnosis and Management After 38 Years of Publications.",
+      "authors": [
+        "Jose Carlos Román Padilla",
+        "Clara López Martínez",
+        "Luis Ortiz Peces",
+        "Pol Alavedra Martínez",
+        "Alvaro Sada Malumbres",
+        "Jose Luis Del Castillo Pardo de Vera",
+        "Jose Luis Cebrián Carretero"
+      ],
+      "publication_date": "2026-May-25",
+      "publication_date_iso": "2026-05-25",
+      "abstract": "Pseudoaneurysm is a rare but serious vascular complication of orthognathic surgery, typically presenting with delayed or recurrent bleeding. Evidence is limited to small case series. This systematic review provides the largest synthesis to date and includes 1 new institutional case. Following PRISMA 2020 and PROSPERO registration (CRD420251207990), we searched PubMed, Scopus, Web of Science, and Google Scholar (1987-2025) for imaging-confirmed pseudoaneurysms after orthognathic surgery. Demographic, clinical, diagnostic, and therapeutic data were extracted and analyzed descriptively. Fifty-five published cases met the inclusion criteria, plus 1 institutional case (n=56). Most occurred after Le Fort I or bimaxillary surgery and involved branches of the internal maxillary artery, particularly the sphenopalatine and maxillary arteries. Median time to first symptoms was 14 days, with over half of patients experiencing recurrent bleeding before diagnosis. Endovascular embolization was used in 85% of cases and had the lowest failure rate (14.3%). Complications were uncommon and generally transient. Pseudoaneurysm after orthognathic surgery is rare but potentially life-threatening. Prompt angiographic evaluation and super-selective embolization are critical for effective management.",
+      "objective": "",
+      "study_methods": "Following PRISMA 2020 and PROSPERO registration (CRD420251207990), we searched PubMed, Scopus, Web of Science, and Google Scholar (1987-2025) for imaging-confirmed pseudoaneurysms after orthognathic surgery. Demographic, clinical, diagnostic, and therapeutic data were extracted and analyzed descriptively.",
+      "methods": "Following PRISMA 2020 and PROSPERO registration (CRD420251207990), we searched PubMed, Scopus, Web of Science, and Google Scholar (1987-2025) for imaging-confirmed pseudoaneurysms after orthognathic surgery. Demographic, clinical, diagnostic, and therapeutic data were extracted and analyzed descriptively.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42183625/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42183621",
+      "title": "Impact of Correcting Skeletal Facial Pattern Types II and III on Quality of Life After Orthognathic Surgery.",
+      "authors": [
+        "Alexandre Augusto Ferreira da Silva",
+        "Max Domingues Pereira"
+      ],
+      "publication_date": "2026-May-25",
+      "publication_date_iso": "2026-05-25",
+      "abstract": "To evaluate quality of life (QoL) after orthognathic surgery according to the skeletal facial profile pattern and to identify whether the surgical site in the maxilla, mandible, or both influences QoL. Fifty adult patients were analyzed according to the facial profile pattern of the deformity and divided into 2 groups: facial pattern II (24 patients) and III (26 patients). At predetermined time points (T0: preoperative; T1: 3 mo postoperatively; and T2: 6 mo postoperatively), patients completed the Orthognathic Quality of Life Questionnaire (OQLQ) and the Oral Health Impact Profile Questionnaire (OHIP-14). At T0, in the total sample, facial pattern II showed higher QoL compared with facial pattern III (P<0.05). At T2, no difference was observed between the groups; however, the mean reductions in OQLQ and OHIP-14 scores from T0 to T2 were greater in facial pattern III across the total sample. For each group, the reduction in scores in both questionnaires from T0 to T2 was significant (P<0.001). The standardized response mean (SRM) was high and demonstrated large changes for most outcomes, demonstrating that both questionnaires showed substantial improvement in QoL. Facial pattern III showed a higher SRM than facial pattern II, suggesting a greater impact. Within each group, no differences were observed in OQLQ and OHIP-14 scores that influenced QoL related to unimaxillary or bimaxillary surgeries (P>0.05). Facial patterns II and III patients show improvements in QoL after orthognathic surgery. However, because facial pattern III patients present poorer QoL before surgery, they tend to experience greater improvement than facial pattern II patients. QoL is not influenced by whether the surgery is unimaxillary or bimaxillary surgery in either pattern II or III patients.",
+      "objective": "",
+      "study_methods": "Fifty adult patients were analyzed according to the facial profile pattern of the deformity and divided into 2 groups: facial pattern II (24 patients) and III (26 patients). At predetermined time points (T0: preoperative; T1: 3 mo postoperatively; and T2: 6 mo postoperatively), patients completed the Orthognathic Quality of Life Questionnaire (OQLQ) and the Oral Health Impact Profile Questionnaire (OHIP-14).",
+      "methods": "Fifty adult patients were analyzed according to the facial profile pattern of the deformity and divided into 2 groups: facial pattern II (24 patients) and III (26 patients). At predetermined time points (T0: preoperative; T1: 3 mo postoperatively; and T2: 6 mo postoperatively), patients completed the Orthognathic Quality of Life Questionnaire (OQLQ) and the Oral Health Impact Profile Questionnaire (OHIP-14).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42183621/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42183614",
+      "title": "Esthetic Nasal Reconstruction Using Forehead Flap.",
+      "authors": [
+        "Adira Kruayatidee",
+        "Pasha Shakoori",
+        "J Andres Hernandez",
+        "Jay W Calvert"
+      ],
+      "publication_date": "2026-May-25",
+      "publication_date_iso": "2026-05-25",
+      "abstract": "The paramedian forehead flap is the workhorse flap for major nasal defects involving multiple subunits and the lower third of the nose. Although the principles of soft-tissue envelope design are well described, a comprehensive, 3-dimensional conceptual framework to guide individualized reconstructive planning remains insufficiently articulated. The aims were to present an algorithmic approach to 3-dimensional reconstruction, discussing the skin and soft tissue, bony and cartilaginous foundation, and lining, and to assess the aesthetic form and function of multilayered reconstruction. Four patients who underwent forehead flap reconstruction with different etiologies were presented, highlighting the features of each reconstruction. In addition to restoration of form and function, there was 100% patient satisfaction, with no loss of reconstruction over an average follow-up period of 19.5 months. The success of forehead flap reconstruction relies on a comprehensive top-down and outside-in reconstruction of the nose. Considering the etiology, a patient-specific approach to graft selection and the timing of flap division will allow surgeons to achieve optimal functional and aesthetic outcomes in reconstructing major rhinoplasty defects.",
+      "objective": "were to present an algorithmic approach to 3-dimensional reconstruction, discussing the skin and soft tissue, bony and cartilaginous foundation, and lining, and to assess the aesthetic form and function of multilayered reconstruction. Four patients who underwent forehead flap reconstruction with different etiologies were presented, highlighting the features of each reconstruction. In addition to restoration of form and function, there was 100% patient satisfaction, with no loss of reconstruction over an average follow-up period of 19.5 months. The success of forehead flap reconstruction relies on a comprehensive top-down and outside-in reconstruction of the nose. Considering the etiology, a patient-specific approach to graft selection and the timing of flap division will allow surgeons to achieve optimal functional and aesthetic outcomes in reconstructing major rhinoplasty defects.",
+      "study_methods": "Four patients who underwent forehead flap reconstruction with different etiologies were presented, highlighting the features of each reconstruction.",
+      "methods": "Four patients who underwent forehead flap reconstruction with different etiologies were presented, highlighting the features of each reconstruction.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42183614/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42177665",
       "title": "Periodontal changes in patients with skeletal Class III malocclusion with and without prophylactic gingival grafting during presurgical orthodontic treatment.",
       "authors": [
@@ -2990,7 +3175,6 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42166883/",
@@ -3080,62 +3264,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42161514",
-      "title": "A case of dental implant treatment for occlusal reconstruction in a congenital acute myeloid leukemia survivor.",
-      "authors": [
-        "Ryo Kajihara",
-        "Hironori Sakai",
-        "Yuki Sakai",
-        "Hiroki Otagiri",
-        "Daisuke Higuchi",
-        "Hiroshi Kurita"
-      ],
-      "publication_date": "2026-May-20",
-      "publication_date_iso": "2026-05-20",
-      "abstract": "The patient was an 11-year-old boy with a medical history of congenital acute myeloid leukemia (AML). He received a series of treatments between 1 and 8 months of age, including chemotherapy, total body irradiation, and peripheral blood stem cell transplantation. Although the permanent incisors had erupted, both crown and root formation were incomplete. No tooth buds were observed for the remaining permanent teeth. The deciduous teeth were still present; however, their roots were shortened and showed mobility. At 18 years of age, growth of the upper and lower jaws had ceased; therefore, occlusal rehabilitation was performed using implants. All teeth except the first molars were extracted, and six implants were placed in the jaws. A screw-retained, implant-supported bridge was fitted, and regular follow-up and maintenance were scheduled. Four years and 9 months after placement of the final prosthesis, the occlusion has remained stable. This patient had congenital AML and received chemotherapy during early childhood, coinciding with the critical period of tooth development and resulting in root shortening, tooth microdontia, and absence of tooth buds for the permanent teeth. Following completion of maxillofacial growth, occlusal rehabilitation was performed using implants, and the occlusion has remained stable. The findings of the present case suggest that implant-supported prosthetic treatment represents an effective option for full occlusal reconstruction in congenital AML survivors with severe hypodontia. Dental implant treatment for full occlusal reconstruction in a patient with severe hypodontia who had received chemotherapy for AML is described herein.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in root shortening, tooth microdontia, and absence of tooth buds for the permanent teeth. Following completion of maxillofacial growth, occlusal rehabilitation was performed using implants, and the occlusion has remained stable. The findings of the present case suggest that implant-supported prosthetic treatment represents an effective option for full occlusal reconstruction in congenital AML survivors with severe hypodontia. Dental implant treatment for full occlusal reconstruction in a patient with severe hypodontia who had received chemotherapy for AML is described herein.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42161514/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42161311",
-      "title": "Frozen section biopsy is a feasible and accurate tool for diagnosing canine and feline oral tumors in a private veterinary oral surgery practice.",
-      "authors": [
-        "Sarah E Bronko",
-        "Alexandra M Harvey",
-        "Cynthia M Bell",
-        "Jason W Soukup",
-        "John R Lewis",
-        "Carlos A Rice",
-        "Scott J Hetzel",
-        "Danielle Mendelsohn"
-      ],
-      "publication_date": "2026-May-20",
-      "publication_date_iso": "2026-05-20",
-      "abstract": "To determine diagnostic agreement between frozen sectioning (FS) and formalin-fixed, paraffin-embedded (FFPE) tissue-processing methods for veterinary oral tumors and to chronicle the method and time required to perform FS sample processing in a private practice setting. 27 canine and feline oral tumor samples were collected between October 2024 and February 2025 and processed in 2 ways: (1) in-house using FS and (2) conventional FFPE. All biopsies were interpreted by 2 veterinary pathologists, one who read the FFPE samples for normal diagnostic turnaround time, who then blinded and digitized the FS slides for submission to the second pathologist. The final diagnoses for FS and FFPE tissue samples were compared for each tumor. Mitotic count and FS slide quality were also recorded for each sample. Time elapsed between surgical biopsy and completion of FS was recorded. Excellent diagnostic agreement (0.915 [95% CI, 0.775 to 1.0]) was documented in veterinary oral tumors processed with FS and FFPE methods. Poor to moderate agreement was documented between FS and FFPE mitotic counts (0.42 [95% CI, 0.12 to 0.65]). The mean total FS slide processing time was 19.80 minutes (SD, 8.58). High diagnostic concordance was documented in veterinary oral tumors processed with FS and FFPE methods, with results similar to human studies. Slides were processed in a reasonable amount of time. Future study evaluating veterinary oral tumor FS samples using telepathology is warranted. FS should be considered a feasible and accurate tool for intraoperative veterinary oral tumor diagnosis.",
-      "objective": "",
-      "study_methods": "27 canine and feline oral tumor samples were collected between October 2024 and February 2025 and processed in 2 ways: (1) in-house using FS and (2) conventional FFPE. All biopsies were interpreted by 2 veterinary pathologists, one who read the FFPE samples for normal diagnostic turnaround time, who then blinded and digitized the FS slides for submission to the second pathologist. The final diagnoses for FS and FFPE tissue samples were compared for each tumor. Mitotic count and FS slide quality were also recorded for each sample. Time elapsed between surgical biopsy and completion of FS was recorded.",
-      "methods": "27 canine and feline oral tumor samples were collected between October 2024 and February 2025 and processed in 2 ways: (1) in-house using FS and (2) conventional FFPE. All biopsies were interpreted by 2 veterinary pathologists, one who read the FFPE samples for normal diagnostic turnaround time, who then blinded and digitized the FS slides for submission to the second pathologist. The final diagnoses for FS and FFPE tissue samples were compared for each tumor. Mitotic count and FS slide quality were also recorded for each sample. Time elapsed between surgical biopsy and completion of FS was recorded.",
-      "results": "similar to human studies. Slides were processed in a reasonable amount of time. Future study evaluating veterinary oral tumor FS samples using telepathology is warranted. FS should be considered a feasible and accurate tool for intraoperative veterinary oral tumor diagnosis.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42161311/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42153735",
       "title": "Factors Associated With Longitudinal Quality of Life Related to Facial Differences in Youth With Cleft Lip and Palate in Treatment for Class III Malocclusion.",
       "authors": [
@@ -3186,58 +3314,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42153714/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42151990",
-      "title": "Association between condylar positional changes and postsurgical mandibular relapse following surgery-first approach in skeletal class III patients.",
-      "authors": [
-        "Yang Zhou",
-        "Guohua Ye",
-        "Xiaojing Liu",
-        "Zili Li",
-        "Bingshuang Zou"
-      ],
-      "publication_date": "2026-May-18",
-      "publication_date_iso": "2026-05-18",
-      "abstract": "This study aimed to investigate three-dimensional (3D) positional changes of the mandibular condyles following bimaxillary orthognathic surgery performed using the surgery-first approach (SFA) in skeletal Class III patients. The associations between condylar positional changes, other clinical variables, and postsurgical mandibular skeletal relapse were also assessed. Twenty-five adult skeletal Class III patients who underwent bimaxillary orthognathic surgery with the SFA were included retrospectively. Cone-beam computed tomography (CBCT) scans were acquired at three time points: preoperatively (T0), immediately postoperatively (T1), and at 1-year follow-up (T2). 3D translational and rotational condylar displacements, as well as dental and skeletal changes and postoperative stability, were quantified using analysis software. Repeated-measures analysis of variance (ANOVA), Pearson or Spearman correlation tests, and multiple linear regression were used for statistical analysis. A significant anterosuperior mandibular relapse was observed at the 1-year follow-up (T2). Immediately after surgery (T1), the condyles showed significant posterior and inferior translational displacement, accompanied by clockwise pitch and medial yaw rotation. While these positional changes tended to return toward their preoperative position by T2, no significant correlation was found between the magnitude or direction of condylar displacement and mandibular skeletal relapse. In contrast, the initial sagittal position and the surgical change in the upper incisors were significant predictors of relapse. Specifically, the initial anteroposterior position accounted for 20.3% of the variance in sagittal mandibular relapse, indicating that greater dental compensation of the upper incisors was associated with increased mandibular relapse. The modest proportion of explained variance suggests that other unmeasured factors also play important roles in postsurgical stability. Although postoperative condylar positional changes commonly occur following the SFA in skeletal Class III patients, these changes do not appear to be a primary contributor to mandibular skeletal relapse. Instead, postoperative mandibular stability seems more closely associated with surgical compensatory patterns, particularly upper incisor protrusion. While the SFA demonstrates acceptable skeletal stability, meticulous evaluation and appropriate control of dental decompensation during treatment planning are crucial to minimize postoperative relapse. The study was registered at the Chinese Clinical Trial Registry on October 24, 2025 (Identification number: ChiCTR2500111068).",
-      "objective": "",
-      "study_methods": "Twenty-five adult skeletal Class III patients who underwent bimaxillary orthognathic surgery with the SFA were included retrospectively. Cone-beam computed tomography (CBCT) scans were acquired at three time points: preoperatively (T0), immediately postoperatively (T1), and at 1-year follow-up (T2). 3D translational and rotational condylar displacements, as well as dental and skeletal changes and postoperative stability, were quantified using analysis software. Repeated-measures analysis of variance (ANOVA), Pearson or Spearman correlation tests, and multiple linear regression were used for statistical analysis.",
-      "methods": "Twenty-five adult skeletal Class III patients who underwent bimaxillary orthognathic surgery with the SFA were included retrospectively. Cone-beam computed tomography (CBCT) scans were acquired at three time points: preoperatively (T0), immediately postoperatively (T1), and at 1-year follow-up (T2). 3D translational and rotational condylar displacements, as well as dental and skeletal changes and postoperative stability, were quantified using analysis software. Repeated-measures analysis of variance (ANOVA), Pearson or Spearman correlation tests, and multiple linear regression were used for statistical analysis.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42151990/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42148626",
-      "title": "A Modified Subcondylar Endaural Approach for Proportional Condylectomy in Condylar Hyperplasia: Clinical Report.",
-      "authors": [
-        "Pedro Tapia-Contreras",
-        "Camilo Barrientos-Morales",
-        "Enrique Steffens",
-        "María J Flores-Mancilla",
-        "Sven Niklander"
-      ],
-      "publication_date": "2026-May-18",
-      "publication_date_iso": "2026-05-18",
-      "abstract": "Condylar hyperplasia is characterized by excessive unilateral growth of the mandibular condyle, resulting in facial asymmetry, occlusal disturbances, and functional impairment. It is usually managed by proportional condylectomy. Different surgical approaches have been described, each associated with functional and aesthetic implications. A systematic review was conducted following PRISMA guidelines using PubMed, Scopus, Web of Science, and Cochrane databases. Studies reporting extraoral approaches for proportional condylectomy in patients with condylar hyperplasia were included. In parallel, a retrospective case series of 10 patients treated with proportional condylectomy using a modified endaural approach with subcondylar blunt dissection was analyzed. Seven studies comprising 150 patients met the inclusion criteria. Preauricular approaches accounted for 75.9% of cases, whereas endaural approaches represented 24.1%. Complementary orthognathic surgery was required in 43.3% of patients, while 56.7% were treated exclusively with proportional condylectomy. Neurological complications were generally transient, and articular disc preservation was favored. In the clinical series, all patients underwent unilateral proportional condylectomy using the modified endaural approach without routine capsulotomy or disc manipulation. Sixty percent achieved functional and aesthetic stability without secondary orthognathic surgery. The modified endaural approach may represent a safe and conservative surgical option for the management of condylar hyperplasia in selected patients. However, given the retrospective design, small sample size, and the absence of a control group, further studies with larger cohorts and comparative designs are needed to confirm these findings.",
-      "objective": "",
-      "study_methods": "A systematic review was conducted following PRISMA guidelines using PubMed, Scopus, Web of Science, and Cochrane databases. Studies reporting extraoral approaches for proportional condylectomy in patients with condylar hyperplasia were included. In parallel, a retrospective case series of 10 patients treated with proportional condylectomy using a modified endaural approach with subcondylar blunt dissection was analyzed.",
-      "methods": "A systematic review was conducted following PRISMA guidelines using PubMed, Scopus, Web of Science, and Cochrane databases. Studies reporting extraoral approaches for proportional condylectomy in patients with condylar hyperplasia were included. In parallel, a retrospective case series of 10 patients treated with proportional condylectomy using a modified endaural approach with subcondylar blunt dissection was analyzed.",
-      "results": "ing in facial asymmetry, occlusal disturbances, and functional impairment. It is usually managed by proportional condylectomy. Different surgical approaches have been described, each associated with functional and aesthetic implications. A systematic review was conducted following PRISMA guidelines using PubMed, Scopus, Web of Science, and Cochrane databases. Studies reporting extraoral approaches for proportional condylectomy in patients with condylar hyperplasia were included. In parallel, a retrospective case series of 10 patients treated with proportional condylectomy using a modified endaural approach with subcondylar blunt dissection was analyzed. Seven studies comprising 150 patients met the inclusion criteria. Preauricular approaches accounted for 75.9% of cases, whereas endaural approaches represented 24.1%. Complementary orthognathic surgery was required in 43.3% of patients, while 56.7% were treated exclusively with proportional condylectomy. Neurological complications were generally transient, and articular disc preservation was favored. In the clinical series, all patients underwent unilateral proportional condylectomy using the modified endaural approach without routine capsulotomy or disc manipulation. Sixty percent achieved functional and aesthetic stability without secondary orthognathic surgery. The modified endaural approach may represent a safe and conservative surgical option for the management of condylar hyperplasia in selected patients. However, given the retrospective design, small sample size, and the absence of a control group, further studies with larger cohorts and comparative designs are needed to confirm these findings.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42148626/",
       "pmcid": "",
       "figure_urls": []
     }
