@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T06:12:49Z",
+  "updated_at": "2026-05-27T06:25:49Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -139,7 +139,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41858234/",
       "pmcid": "PMC13007456",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_PB.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_PB.jpg"
+      ]
     },
     {
       "pmid": "41582805",
@@ -365,6 +370,36 @@
       "figure_urls": []
     },
     {
+      "pmid": "42134202",
+      "title": "The astragaloside-brucea javanica oil nanoemulsion inhibiting the progression of oral squamous cell carcinoma through CDK1- HOXC10-MTFR2 pathway.",
+      "authors": [
+        "Yihan Lai",
+        "Runqiang Liu",
+        "Lanfei Zhou",
+        "Zhichao Wan",
+        "Juan Zhan",
+        "Mingqiao Xiong",
+        "Lin Jiang",
+        "Wei Wang",
+        "Yisen Shao"
+      ],
+      "publication_date": "2026-Aug-15",
+      "publication_date_iso": "2026-08-15",
+      "abstract": "This study aimed to investigate whether Astragaloside-Brucea javanica oil nanoemulsion (AS/BJO-NEs) inhibits the malignant progression of oral squamous cell carcinoma (OSCC) and to further explore its potential regulatory mechanisms. Immunohistochemistry (IHC) was used to evaluate the expression of related pathway proteins in human OSCC and adjacent normal tissues. Stable OSCC cell lines with knockdown or overexpression of CDK1/HOXC10 were established. The effects of AS/BJO-NEs and the underlying mechanisms were assessed in vitro through colony formation, wound healing, and Transwell invasion assays, as well as RT-qPCR, western blot, chromatin immunoprecipitation (ChIP), and dual-luciferase reporter assays. An OSCC subcutaneous xenograft model in nude mice was constructed for in vivo validation using RT-qPCR, western blot, hematoxylin and eosin (H&E) staining, and IHC. Analysis of clinical samples revealed upregulated expression of CDK1, P-EZH2, HOXC10, MTFR2, and N-cadherin, alongside downregulated expression of H3K27me3 and E-cadherin in OSCC tissues. In vitro experiments confirmed that AS/BJO-NEs downregulated CDK1 in a concentration-dependent manner, subsequently reducing the expression of P-EZH2, HOXC10, and MTFR2, increasing H3K27me3 levels, and inhibiting cell proliferation, migration, and invasion. H3K27me3 was enriched in the HOXC10 promoter region, and HOXC10 directly bound to and activated MTFR2 transcription. In vivo experiments demonstrated that AS/BJO-NEs effectively inhibited tumor growth, regulated molecules within this pathway and epithelial-mesenchymal transition (EMT) markers, whereas CDK1 overexpression counteracted these effects CONCLUSION: This study demonstrates that AS/BJO-NEs exert anti-OSCC effects by inhibiting CDK1, downregulating HOXC10, thereby reducing MTFR2 expression, and suppressing cell proliferation, migration, invasion, and the EMT process.",
+      "objective": "",
+      "study_methods": "Immunohistochemistry (IHC) was used to evaluate the expression of related pathway proteins in human OSCC and adjacent normal tissues. Stable OSCC cell lines with knockdown or overexpression of CDK1/HOXC10 were established. The effects of AS/BJO-NEs and the underlying mechanisms were assessed in vitro through colony formation, wound healing, and Transwell invasion assays, as well as RT-qPCR, western blot, chromatin immunoprecipitation (ChIP), and dual-luciferase reporter assays. An OSCC subcutaneous xenograft model in nude mice was constructed for in vivo validation using RT-qPCR, western blot, hematoxylin and eosin (H&E) staining, and IHC.",
+      "methods": "Immunohistochemistry (IHC) was used to evaluate the expression of related pathway proteins in human OSCC and adjacent normal tissues. Stable OSCC cell lines with knockdown or overexpression of CDK1/HOXC10 were established. The effects of AS/BJO-NEs and the underlying mechanisms were assessed in vitro through colony formation, wound healing, and Transwell invasion assays, as well as RT-qPCR, western blot, chromatin immunoprecipitation (ChIP), and dual-luciferase reporter assays. An OSCC subcutaneous xenograft model in nude mice was constructed for in vivo validation using RT-qPCR, western blot, hematoxylin and eosin (H&E) staining, and IHC.",
+      "results": "",
+      "conclusion": "This study demonstrates that AS/BJO-NEs exert anti-OSCC effects by inhibiting CDK1, downregulating HOXC10, thereby reducing MTFR2 expression, and suppressing cell proliferation, migration, invasion, and the EMT process.",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42134202/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42111417",
       "title": "Impact of infrapopliteal artery variants and peripheral artery disease on fibula free flap planning.",
       "authors": [
@@ -444,6 +479,34 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41980535/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41966283",
+      "title": "UHMK1 regulates VM formation in OSCC by interacting with STMN1.",
+      "authors": [
+        "Yan Guo",
+        "Yuanyong Feng",
+        "Xiangning Ni",
+        "Xuan Zhang",
+        "Xiao Fang",
+        "Tongtong Li",
+        "Ning Wang"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is a common malignant tumor in the head and neck region and clinically characterized by relatively high invasiveness and a propensity for metastasis. Patients generally exhibit nonsatisfactory prognosis. Beyond the classical endothelium-dependent angiogenesis pathway, vasculogenic mimicry (VM), a nonclassical blood supply mechanism whereby tumor cells themselves form microcirculatory conduits, plays a significant role in tumor progression. However, the regulatory mechanism of VM formation remains to be fully understood. U2AF homologous motif kinase 1 (UHMK1) is a regulatory protein possessing serine/threonine kinase activity and RNA-binding capability and was found to be overexpressed in OSCC tissues in our previous research. The present study aimed to explore the association between UHMK1 expression in OSCC and VM formation and elucidate the potential molecular mechanisms by which UHMK1 regulates VM development. Immunohistochemistry (IHC) results demonstrated that UHMK1 upregulation in OSCC was significantly correlated with VM structure, and both were associated with poor clinical outcomes and shortened patient survival time. In vitro experiments revealed that UHMK1 knockdown markedly suppressed VM formation in OSCC cells. Bioinformatics prediction and co-immunoprecipitation (co-IP) assays confirmed the interaction between UHMK1 and stathmin1 (STMN1). Further investigations indicated that UHMK1 stabilized STMN1 protein expression by inhibiting its ubiquitin-proteasome degradation pathway, and these two might jointly activate the PI3K/AKT/mTOR signaling pathway to regulate VM formation. The current study revealed the key role of UHMK1-STMN1 in coregulating VM formation in OSCC, providing new insights into the tumor microenvironment and identifying potential targets for anti-angiogenic therapy.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "demonstrated that UHMK1 upregulation in OSCC was significantly correlated with VM structure, and both were associated with poor clinical outcomes and shortened patient survival time. In vitro experiments revealed that UHMK1 knockdown markedly suppressed VM formation in OSCC cells. Bioinformatics prediction and co-immunoprecipitation (co-IP) assays confirmed the interaction between UHMK1 and stathmin1 (STMN1). Further investigations indicated that UHMK1 stabilized STMN1 protein expression by inhibiting its ubiquitin-proteasome degradation pathway, and these two might jointly activate the PI3K/AKT/mTOR signaling pathway to regulate VM formation. The current study revealed the key role of UHMK1-STMN1 in coregulating VM formation in OSCC, providing new insights into the tumor microenvironment and identifying potential targets for anti-angiogenic therapy.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41966283/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1375,64 +1438,6 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41707374/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41691797",
-      "title": "Artificial intelligence in biomaterials for oral oncology.",
-      "authors": [
-        "Xiao-Yu Miao",
-        "Lei Chen",
-        "Shu-Han Zhang",
-        "Jing Li",
-        "Yue Feng",
-        "Xiang Li",
-        "Jian-Hua Wei",
-        "Yang Xue",
-        "Shi-Zhu Bai",
-        "Franklin R Tay",
-        "Li-Na Niu"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Oral cancer and oral potentially malignant disorders (OPMDs) remain a significant challenge in diagnosis and therapy, primarily due to inherent limitations in early detection, targeted treatment, and postoperative rehabilitation. Conventional diagnostic and therapeutic modalities often lack sufficient sensitivity, specificity, and effectiveness in restoring oral function. Biomaterials including nanoparticles, hydrogels, and scaffolds, offer versatile solutions by virtue of their tuneable properties, biocompatibility, and versatility in drug delivery and tissue engineering. However, their clinical translation is limited by the need for personalisation and lingering efficacy concerns. Artificial intelligence (AI) has emerged as a transformative approach to advance the design, optimisation, and application of biomaterials in oral oncology. By integrating machine learning (ML) and data-driven modelling, AI enhances diagnostic accuracy through biosensing and radiomic analysis, guides the rational design of drug carriers and dosing regimens, and facilitates computer-aided scaffold fabrication for maxillofacial reconstruction. This review summarises recent advances at the intersection of AI and biomaterials in the context of oral cancer and OPMDs, highlighting innovations in early detection, targeted therapy, and postoperative repair. It also discusses current barriers, including data quality, model generalizability, and regulatory oversight, and outlines future directions for interdisciplinary research. When properly integrated, AI-enabled biomaterials hold considerable potential to deliver more precise, efficient, and patient-tailored solutions for oral cancer management.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41691797/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41577598",
-      "title": "Graftless sinus lift simultaneously with dental implants placement: a prospective cohort study.",
-      "authors": [
-        "George Kostakis",
-        "Dimitrios Banias",
-        "Maria Varela",
-        "Ilias Kouvaratis",
-        "Panagiotis Stathopoulos"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "This study aims to evaluate the clinical outcomes of a graftless sinus lift technique performed simultaneously with dental implant placement in the posterior maxilla, using a prospective cohort design. The primary objectives are to assess implant survival, bone gain, and complication rates over a minimum 60-month follow-up period. A prospective cohort study was conducted over an 8-year period. Patients were divided into 2 groups: the test group, consisting of 74 patients who underwent sinus membrane elevation without the use of any grafting material (graftless), and the control group, consisting of 15 patients who received sinus augmentation with bone grafts. Our results clearly showed a high implant success rate of 97.76% in the graftless group, outperforming the 86.6% success rate observed in the grafted control group. Further analysis revealed that residual bone height was a statistically significant factor influencing implant success across both groups. The findings of this study demonstrate that graftless sinus floor elevation performed simultaneously with dental implant placement in the posterior maxilla is a safe and reliable procedure. This study benefits from several strengths, including its prospective design, relatively large patient cohort, and long-term follow-up period of over 5 years.",
-      "objective": "to evaluate the clinical outcomes of a graftless sinus lift technique performed simultaneously with dental implant placement in the posterior maxilla, using a prospective cohort design. The primary objectives are to assess implant survival, bone gain, and complication rates over a minimum 60-month follow-up period. A prospective cohort study was conducted over an 8-year period. Patients were divided into 2 groups: the test group, consisting of 74 patients who underwent sinus membrane elevation without the use of any grafting material (graftless), and the control group, consisting of 15 patients who received sinus augmentation with bone grafts. Our",
-      "study_methods": "",
-      "methods": "",
-      "results": "clearly showed a high implant success rate of 97.76% in the graftless group, outperforming the 86.6% success rate observed in the grafted control group. Further analysis revealed that residual bone height was a statistically significant factor influencing implant success across both groups. The findings of this study demonstrate that graftless sinus floor elevation performed simultaneously with dental implant placement in the posterior maxilla is a safe and reliable procedure. This study benefits from several strengths, including its prospective design, relatively large patient cohort, and long-term follow-up period of over 5 years.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41577598/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2708,6 +2713,187 @@
       "figure_urls": []
     },
     {
+      "pmid": "42191967",
+      "title": "Long-term patient satisfaction and complication rates after orthognathic surgery: a minimum 3-year follow-up study.",
+      "authors": [
+        "Șerban Talpoș",
+        "Dan Loloș",
+        "Tareq Hajaj",
+        "Robert Avramut",
+        "Camelia Szuhanek",
+        "Bogdan Antonio Loloș",
+        "Andreea Raissa Hojda",
+        "Sorin Gheorghe Mihali",
+        "Daniel Raul Chioibaș",
+        "Mălina Popa"
+      ],
+      "publication_date": "2026-May-27",
+      "publication_date_iso": "2026-05-27",
+      "abstract": "Orthognathic surgery aims to correct dentofacial deformities and improve both function and facial esthetics. This study assessed long-term patient satisfaction and complication rates following bimaxillary orthognathic surgery, using a customized questionnaire to evaluate esthetic, functional, and psychosocial outcomes. A total of 126 patients who underwent bimaxillary surgery for Class II or III dentofacial deformities were included in this retrospective cohort study with prospectively collected data and evaluated after a minimum follow-up of 3 years. Surgical procedures included Le Fort I osteotomy, bilateral sagittal split osteotomy, multisegmental osteotomies, genioplasty, and SARPE, with all cases planned and managed by an interdisciplinary team. Patient satisfaction was assessed using a 20-item individualized questionnaire based on validated tools (OQLQ, DAS-59, OHIP-14, VAS). High levels of long-term satisfaction were reported, particularly in smile appearance and self-confidence. Smile-specific satisfaction remained stable regardless of skeletal class, gender, or complications. Postoperative complications occurred in 11.1% of patients and represented the main observed factor significantly associated with reduced overall satisfaction (p < 0.001). The most frequent complications included mandibular plate infection (n = 5), mandibular osteoperiostitis (n = 4), plate detachment (n = 2), plate fracture (n = 1), pseudoarthrosis (n = 1), and malunion with vicious callus (n = 1). All were successfully managed without long-term sequelae. Orthognathic surgery provides consistent long-term esthetic and psychosocial benefits. Individualized planning, interdisciplinary management, and the use of a customized satisfaction questionnaire may have contributed to the favorable patient-reported outcomes observed. These findings support the role of orthognathic surgery in enhancing quality of life beyond skeletal correction.",
+      "objective": "to correct dentofacial deformities and improve both function and facial esthetics. This study assessed long-term patient satisfaction and complication rates following bimaxillary orthognathic surgery, using a customized questionnaire to evaluate esthetic, functional, and psychosocial outcomes. A total of 126 patients who underwent bimaxillary surgery for Class II or III dentofacial deformities were included in this retrospective cohort study with prospectively collected data and evaluated after a minimum follow-up of 3 years. Surgical procedures included Le Fort I osteotomy, bilateral sagittal split osteotomy, multisegmental osteotomies, genioplasty, and SARPE, with all cases planned and managed by an interdisciplinary team. Patient satisfaction was assessed using a 20-item individualized questionnaire based on validated tools (OQLQ, DAS-59, OHIP-14, VAS). High levels of long-term satisfaction were reported, particularly in smile appearance and self-confidence. Smile-specific satisfaction remained stable regardless of skeletal class, gender, or complications. Postoperative complications occurred in 11.1% of patients and represented the main observed factor significantly associated with reduced overall satisfaction (p < 0.001). The most frequent complications included mandibular plate infection (n = 5), mandibular osteoperiostitis (n = 4), plate detachment (n = 2), plate fracture (n = 1), pseudoarthrosis (n = 1), and malunion with vicious callus (n = 1). All were successfully managed without long-term sequelae. Orthognathic surgery provides consistent long-term esthetic and psychosocial benefits. Individualized planning, interdisciplinary management, and the use of a customized satisfaction questionnaire may have contributed to the favorable patient-reported outcomes observed. These findings support the role of orthognathic surgery in enhancing quality of life beyond skeletal correction.",
+      "study_methods": "A total of 126 patients who underwent bimaxillary surgery for Class II or III dentofacial deformities were included in this retrospective cohort study with prospectively collected data and evaluated after a minimum follow-up of 3 years. Surgical procedures included Le Fort I osteotomy, bilateral sagittal split osteotomy, multisegmental osteotomies, genioplasty, and SARPE, with all cases planned and managed by an interdisciplinary team. Patient satisfaction was assessed using a 20-item individualized questionnaire based on validated tools (OQLQ, DAS-59, OHIP-14, VAS).",
+      "methods": "A total of 126 patients who underwent bimaxillary surgery for Class II or III dentofacial deformities were included in this retrospective cohort study with prospectively collected data and evaluated after a minimum follow-up of 3 years. Surgical procedures included Le Fort I osteotomy, bilateral sagittal split osteotomy, multisegmental osteotomies, genioplasty, and SARPE, with all cases planned and managed by an interdisciplinary team. Patient satisfaction was assessed using a 20-item individualized questionnaire based on validated tools (OQLQ, DAS-59, OHIP-14, VAS).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42191967/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42191522",
+      "title": "Parry-Romberg syndrome: a novel treatment algorithm derived from long-term follow-up and more than 40 years of surgeon's experience.",
+      "authors": [
+        "K Ueno",
+        "C-W Huang",
+        "M Fukui",
+        "P-Y Chou",
+        "Y-R Chen"
+      ],
+      "publication_date": "2026-May-26",
+      "publication_date_iso": "2026-05-26",
+      "abstract": "Parry-Romberg syndrome (PRS), or progressive hemifacial atrophy, is a rare, heterogeneous disorder characterized by unilateral facial atrophy affecting the skin, subcutaneous tissue, muscle, and sometimes osseocartilaginous structures. Due to its variability in severity and unclear treatment timing, a standardized surgical approach remains controversial. A retrospective review was conducted of patients diagnosed with PRS who were evaluated or treated by the senior author between 1978 and 2018. Inclusion criteria required availability of complete medical records and photographs. Patients were classified into four severity types based on a previously published grading system. Demographic, clinical, and surgical data were reviewed. Surgical approaches included fat grafting, dermal fat grafts, free flaps, and orthognathic surgery. A treatment algorithm was developed based on long-term outcomes and clinical experience. A total of 22 patients (17 women and five men; mean follow-up 197.7 ± 172.4 months) met the inclusion criteria. According to the severity classification, four patients were type 1, two were type 2, eight were type 3, and eight were type 4. Twenty patients (91%) underwent surgical reconstruction, while two declined treatment. A stepwise treatment algorithm was established, incorporating both soft and hard tissue reconstruction methods tailored to disease severity and progression. This study introduces a comprehensive and experience-based surgical treatment algorithm for PRS, developed over four decades of clinical practice. It provides a practical framework to support individualized surgical planning and may improve aesthetic and functional outcomes in patients with PRS.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42191522/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42190261",
+      "title": "Virtual Reality for Preoperative Anxiety in Patients Undergoing Odontectomy Under General Anesthesia: Protocol for a Randomized Controlled Trial.",
+      "authors": [
+        "Saptiadi Oktora",
+        "Harmas Yazid Yusuf",
+        "Eriska Riyanti",
+        "Firdaus Hariri"
+      ],
+      "publication_date": "2026-May-26",
+      "publication_date_iso": "2026-05-26",
+      "abstract": "Odontectomy is a common surgical procedure often associated with significant preoperative anxiety, particularly when performed under general anesthesia. Anxiety can lead to physiological changes, such as increased blood pressure and heart rate, and may affect anesthetic requirements and postoperative recovery. Virtual reality (VR) has emerged as a promising non-pharmacological intervention to reduce anxiety through immersive distraction. This study aims to evaluate the effectiveness of VR in reducing preoperative anxiety in patients undergoing odontectomy under general anesthesia. The study will assess anxiety using both subjective measures (Amsterdam Preoperative Anxiety and Information Scale, APAIS) and objective biomarkers (salivary alpha-amylase, salivary cortisol, and vital signs). This is a prospective, randomized controlled trial. Patients aged 17-40 years undergoing odontectomy under general anesthesia at the Dental and Oral Hospital, Universitas Padjadjaran, will be recruited. Participants (n=32) will be randomly assigned to either the intervention group (VR experience of the operating room) or the control group (standard verbal education). Data collection includes salivary samples (alpha-amylase and cortisol), vital signs (blood pressure, heart rate, respiratory rate), and APAIS scores measured at baseline, immediately post-intervention, and 15 minutes post-intervention. Data will be analyzed using independent and paired t tests or Mann-Whitney and Wilcoxon tests, depending on normality. The study is scheduled to be conducted between October 2026 and December 2026. The findings will provide evidence regarding the efficacy of VR as a standard anxiolytic tool in oral surgery. If effective, VR could serve as a non-invasive, safe alternative to pharmacological premedication for managing preoperative anxiety, potentially improving surgical outcomes and patient comfort.",
+      "objective": "to evaluate the effectiveness of VR in reducing preoperative anxiety in patients undergoing odontectomy under general anesthesia. The study will assess anxiety using both subjective measures (Amsterdam Preoperative Anxiety and Information Scale, APAIS) and objective biomarkers (salivary alpha-amylase, salivary cortisol, and vital signs). This is a prospective, randomized controlled trial. Patients aged 17-40 years undergoing odontectomy under general anesthesia at the Dental and Oral Hospital, Universitas Padjadjaran, will be recruited. Participants (n=32) will be randomly assigned to either the intervention group (VR experience of the operating room) or the control group (standard verbal education). Data collection includes salivary samples (alpha-amylase and cortisol), vital signs (blood pressure, heart rate, respiratory rate), and APAIS scores measured at baseline, immediately post-intervention, and 15 minutes post-intervention. Data will be analyzed using independent and paired t tests or Mann-Whitney and Wilcoxon tests, depending on normality. The study is scheduled to be conducted between October 2026 and December 2026. The findings will provide evidence regarding the efficacy of VR as a standard anxiolytic tool in oral surgery. If effective, VR could serve as a non-invasive, safe alternative to pharmacological premedication for managing preoperative anxiety, potentially improving surgical outcomes and patient comfort.",
+      "study_methods": "This is a prospective, randomized controlled trial. Patients aged 17-40 years undergoing odontectomy under general anesthesia at the Dental and Oral Hospital, Universitas Padjadjaran, will be recruited. Participants (n=32) will be randomly assigned to either the intervention group (VR experience of the operating room) or the control group (standard verbal education). Data collection includes salivary samples (alpha-amylase and cortisol), vital signs (blood pressure, heart rate, respiratory rate), and APAIS scores measured at baseline, immediately post-intervention, and 15 minutes post-intervention. Data will be analyzed using independent and paired t tests or Mann-Whitney and Wilcoxon tests, depending on normality.",
+      "methods": "This is a prospective, randomized controlled trial. Patients aged 17-40 years undergoing odontectomy under general anesthesia at the Dental and Oral Hospital, Universitas Padjadjaran, will be recruited. Participants (n=32) will be randomly assigned to either the intervention group (VR experience of the operating room) or the control group (standard verbal education). Data collection includes salivary samples (alpha-amylase and cortisol), vital signs (blood pressure, heart rate, respiratory rate), and APAIS scores measured at baseline, immediately post-intervention, and 15 minutes post-intervention. Data will be analyzed using independent and paired t tests or Mann-Whitney and Wilcoxon tests, depending on normality.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42190261/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42189842",
+      "title": "Clinical Outcomes of Photobiomodulation Therapy for Inferior Alveolar Nerve Injury: A Retrospective Analysis.",
+      "authors": [
+        "Halenur Ates",
+        "Yavuz Tolga Korkmaz"
+      ],
+      "publication_date": "2026-May-26",
+      "publication_date_iso": "2026-05-26",
+      "abstract": "This retrospective study evaluated the clinical outcomes associated with a photobiomodulation therapy (PBMT) protocol in patients with inferior alveolar nerve (IAN) injury following oral and maxillofacial surgery. The study specifically investigated whether the etiology of paresthesia, the time elapsed before treatment initiation, and the number of PBMT sessions were associated with variations in clinical outcomes. A retrospective analysis was conducted on 66 affected sides in 55 patients (39 female and 16 males; mean age 35.69 ± 14.49, range 15-80). The study sample consisted of patients with IAN injury due to maxillofacial surgery who were treated with PBMT and followed for at least 6 months. Patients were grouped based on the number of sessions (< 15 vs. ≥ 15), timing of treatment initiation (within vs. after 1 month), and surgical etiology (orthognathic vs. other procedures). Clinical neurosensory tests (two-point discrimination, light touch, pinprick) and Visual Analog Scale (VAS) assessments were performed. Improvements in VAS scores and clinical neurosensory test results were observed during the follow-up period (p < 0.05). No statistically significant differences were found between groups regarding overall outcomes. Although earlier treatment initiation and a higher number of sessions were associated with higher neurosensory scores, these factors did not reach statistical significance in multivariable analysis. Patients with orthognathic surgery-related injuries demonstrated significantly lower neurosensory scores compared to other surgical etiologies (p < 0.05). Follow-up duration was not significantly associated with clinical outcomes. Within the limitations of this retrospective observational study, PBMT was associated with improvements in neurosensory outcomes in patients with IAN injury. However, due to the absence of a control group and the heterogeneity of surgical etiologies, these findings should be interpreted with caution, and a causal relationship cannot be established. Further well-designed controlled studies are needed to clarify the potential role of PBMT.",
+      "objective": "",
+      "study_methods": "A retrospective analysis was conducted on 66 affected sides in 55 patients (39 female and 16 males; mean age 35.69 ± 14.49, range 15-80). The study sample consisted of patients with IAN injury due to maxillofacial surgery who were treated with PBMT and followed for at least 6 months. Patients were grouped based on the number of sessions (< 15 vs. ≥ 15), timing of treatment initiation (within vs. after 1 month), and surgical etiology (orthognathic vs. other procedures). Clinical neurosensory tests (two-point discrimination, light touch, pinprick) and Visual Analog Scale (VAS) assessments were performed.",
+      "methods": "A retrospective analysis was conducted on 66 affected sides in 55 patients (39 female and 16 males; mean age 35.69 ± 14.49, range 15-80). The study sample consisted of patients with IAN injury due to maxillofacial surgery who were treated with PBMT and followed for at least 6 months. Patients were grouped based on the number of sessions (< 15 vs. ≥ 15), timing of treatment initiation (within vs. after 1 month), and surgical etiology (orthognathic vs. other procedures). Clinical neurosensory tests (two-point discrimination, light touch, pinprick) and Visual Analog Scale (VAS) assessments were performed.",
+      "results": "were observed during the follow-up period (p < 0.05). No statistically significant differences were found between groups regarding overall outcomes. Although earlier treatment initiation and a higher number of sessions were associated with higher neurosensory scores, these factors did not reach statistical significance in multivariable analysis. Patients with orthognathic surgery-related injuries demonstrated significantly lower neurosensory scores compared to other surgical etiologies (p < 0.05). Follow-up duration was not significantly associated with clinical outcomes. Within the limitations of this retrospective observational study, PBMT was associated with improvements in neurosensory outcomes in patients with IAN injury. However, due to the absence of a control group and the heterogeneity of surgical etiologies, these findings should be interpreted with caution, and a causal relationship cannot be established. Further well-designed controlled studies are needed to clarify the potential role of PBMT.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42189842/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42189380",
+      "title": "\"Death due to cerebral angioinvasive mucormycosis: an autopsy diagnosis\".",
+      "authors": [
+        "P Sowmiya",
+        "R Mukesh",
+        "P Ch Toi",
+        "A Tino",
+        "K K Shaha"
+      ],
+      "publication_date": "2026-May-26",
+      "publication_date_iso": "2026-05-26",
+      "abstract": "Mucormycosis is an aggressive opportunistic fungal infection that primarily affects immunocompromised individuals and is associated with high mortality when diagnosis and treatment are delayed. Although commonly reported in clinical settings, autopsy-based documentation remains important for understanding fatal, clinically unrecognised cases. We report a fatal case of angioinvasive cerebral mucormycosis identified during medico-legal autopsy in a middle-aged individual with underlying diabetes mellitus. The decedent had a recent history of facial trauma and clinical deterioration prior to death. Autopsy examination revealed significant pathological changes in multiple organs, with histopathological evaluation demonstrating broad, pauciseptate fungal hyphae with angioinvasion consistent with mucormycosis, most prominently involving cerebral vessels and parenchyma. Secondary bacterial infection was also identified in clinical investigations, suggesting a possible contributory role in fulminant progression. The findings highlight the aggressive vascular invasion characteristic of mucormycosis and the diagnostic challenges encountered in the clinical setting. This case emphasises the critical role of meticulous autopsy examination and histopathological analysis in identifying invasive fungal infections that may remain undiagnosed during life. Recognition of such infections in medico-legal investigations is essential for accurate determination of the cause of death and for improving awareness of rapidly progressive opportunistic infections.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42189380/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42186910",
+      "title": "",
+      "authors": [
+        "Victoria Suoliang Tong",
+        "Matthew E Pontell"
+      ],
+      "publication_date": "2026-May-26",
+      "publication_date_iso": "2026-05-26",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42186910/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42186905",
+      "title": "Evaluating Appropriateness of Interfacility Transfers for Patients with Facial Trauma Including Acute Orbital Floor Fractures.",
+      "authors": [
+        "Atif M Islam",
+        "Robert B Baldwin",
+        "Brandon J Dyer",
+        "Alec E Dallas",
+        "Ryan Hudnall",
+        "Julia Toman"
+      ],
+      "publication_date": "2026-May-26",
+      "publication_date_iso": "2026-05-26",
+      "abstract": "Patients with orbital floor fractures are frequently transferred between facilities for suspected clinical need, although many of these transfers may be unnecessary. To compare the characteristics among patients with facial trauma and orbital floor fracture between those presenting directly compared to those transferred from an outside facility. Patients presenting to a single level 1 emergency department with facial trauma, including acute orbital floor fracture, were reviewed. Transfers were recorded as concordant if it resulted in additional clinical benefit. Data collection included surgery rates, age, insurance status, and area deprivation indices, which measure neighborhood-level socioeconomic disadvantage. Analysis included chi-square testing and logistic regression. Among 1335 patients (69% male, median age: 46 years [interquartile range: 31-63], 318 were transferred with a documented reason. Of the transfers, 45.9% (n = 146) were deemed concordant. Transferred patients were significantly older than primary presenters (53.5 [34.2-70.8] vs. 45.0 [31.0-61.0], p < 0.01). Surgery rates were similar among transfers and primary presenters (20.8% vs. 20.3%, p = 0.692). Transferred patients had significantly higher levels of national and state socioeconomic deprivation (p < 0.01). Nearly half of all interfacility transfers for facial trauma, including acute orbital floor fractures, did not result in additional intervention or a change in management, highlighting the need to identify opportunities for improvement.",
+      "objective": "",
+      "study_methods": "Patients presenting to a single level 1 emergency department with facial trauma, including acute orbital floor fracture, were reviewed. Transfers were recorded as concordant if it resulted in additional clinical benefit. Data collection included surgery rates, age, insurance status, and area deprivation indices, which measure neighborhood-level socioeconomic disadvantage. Analysis included chi-square testing and logistic regression.",
+      "methods": "Patients presenting to a single level 1 emergency department with facial trauma, including acute orbital floor fracture, were reviewed. Transfers were recorded as concordant if it resulted in additional clinical benefit. Data collection included surgery rates, age, insurance status, and area deprivation indices, which measure neighborhood-level socioeconomic disadvantage. Analysis included chi-square testing and logistic regression.",
+      "results": "ed in additional clinical benefit. Data collection included surgery rates, age, insurance status, and area deprivation indices, which measure neighborhood-level socioeconomic disadvantage. Analysis included chi-square testing and logistic regression. Among 1335 patients (69% male, median age: 46 years [interquartile range: 31-63], 318 were transferred with a documented reason. Of the transfers, 45.9% (n = 146) were deemed concordant. Transferred patients were significantly older than primary presenters (53.5 [34.2-70.8] vs. 45.0 [31.0-61.0], p < 0.01). Surgery rates were similar among transfers and primary presenters (20.8% vs. 20.3%, p = 0.692). Transferred patients had significantly higher levels of national and state socioeconomic deprivation (p < 0.01). Nearly half of all interfacility transfers for facial trauma, including acute orbital floor fractures, did not result in additional intervention or a change in management, highlighting the need to identify opportunities for improvement.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42186905/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42185696",
       "title": "A multicentric prospective analysis of the management of edentulous jaw fractures in the elderly population: a World Oral Maxillofacial Trauma (WORMAT) project.",
       "authors": [
@@ -2759,6 +2945,136 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42185696/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41837384",
+      "title": "Case-control study of mitragynine deaths in Florida.",
+      "authors": [
+        "Christian M Iuteri",
+        "Ryan J Sawyers",
+        "Connor M Byrne",
+        "Max Trojano",
+        "Josef Thundiyil"
+      ],
+      "publication_date": "2026-May-26",
+      "publication_date_iso": "2026-05-26",
+      "abstract": "Kratom use has increased in the USA, with its primary alkaloid, mitragynine, detected in postmortem toxicology, and implicated in reported fatalities. This study evaluated toxicologic concentrations and autopsy findings associated with deaths attributed to mitragynine. Autopsy and postmortem toxicology reports were obtained from the majority of Florida medical examiner districts over 5 years for decedents in whom mitragynine was listed as a cause of death (mitragynine-induced fatalities). A comparison group included cases from a single county in which mitragynine was detected but not deemed causal (mitragynine-associated deaths). Demographic, toxicologic, and autopsy data were abstracted using standardized instruments. Thirty-eight mitragynine-induced fatalities and 111 mitragynine-associated deaths were identified, with similar demographic characteristics between groups. Mitragynine-associated deaths all featured co-exposures, including fentanyl (n = 84), cocaine (n = 49), and ethanol (n = 29). Mitragynine-induced fatalities had no toxic levels of any other substance and demonstrated higher rates of pulmonary edema (55.6% vs 31.5%), hepatomegaly (47.4% vs 14.4%), minor facial trauma (18.4% vs 5.4%), and cardiomegaly (47.4% vs 11.8%). Mean blood mitragynine concentrations were substantially higher in mitragynine-induced fatalities (2486 µg/L; 95% CI 1607-2863) compared with mitragynine-associated deaths (179 µg/L; 95% CI 217-375), suggesting a concentration-dependent association with fatal toxicity. Mitragynine toxicity accounts for a notable number of deaths.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41837384/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42190437",
+      "title": "Prospective Pilot Clinical Study of High-Purity Magnesium Plates and Screws for Le Fort I Osteosynthesis.",
+      "authors": [
+        "Wei-Fa Yang",
+        "Pak Chuen Patrick Tai",
+        "Ling Qin",
+        "Yiu Yan Leung"
+      ],
+      "publication_date": "2026-May-25",
+      "publication_date_iso": "2026-05-25",
+      "abstract": "This prospective clinical study aimed to evaluate the feasibility, safety, and clinical performance of an innovative high-purity magnesium (HP-Mg) plate and screw system for internal fixation in orthognathic surgery. Patients indicated for orthognathic surgery fulfilling the study criteria were invited to participate. HP-Mg plates and screws were developed for the first time for Le Fort I fixation in the maxilla, while standard titanium fixation was used in the mandible for comparison. Clinical outcomes, wound healing, neurosensory function, radiographic imaging, systemic complications, and plasma electrolyte levels were assessed over a one-year follow-up. Seven patients were included. HP-Mg plates and screws were systemically safe, with no evidence of hypermagnesemia or related neurosensory impairment. Two patients experienced smooth recovery; 3 developed mild complications (e.g., wound dehiscence, fistula) that were managed conservatively; and 2 required reoperations due to maxillary nonunion. Radiographically, HP-Mg plates and screws were not visible on plain X-rays but were detectable on CBCT, exhibiting reduced radiodensity compared to cortical bone. The complications were attributed to unoptimized plate geometry and rapid in vivo degradation. Although HP-Mg plates and screws represent a promising biodegradable alternative for internal fixation in orthognathic surgery, the observed complications highlight opportunities for further optimization-particularly in enhancing degradation profiles and mechanical strength. With ongoing research and continued improvements, Mg has the potential to become a reliable and effective option for internal fixation in maxillofacial surgery. While HP-Mg is a promising biodegradable alternative for internal fixation in orthognathic surgery, further optimization of implant design and degradation profiles is necessary.",
+      "objective": "",
+      "study_methods": "Patients indicated for orthognathic surgery fulfilling the study criteria were invited to participate. HP-Mg plates and screws were developed for the first time for Le Fort I fixation in the maxilla, while standard titanium fixation was used in the mandible for comparison. Clinical outcomes, wound healing, neurosensory function, radiographic imaging, systemic complications, and plasma electrolyte levels were assessed over a one-year follow-up.",
+      "methods": "Patients indicated for orthognathic surgery fulfilling the study criteria were invited to participate. HP-Mg plates and screws were developed for the first time for Le Fort I fixation in the maxilla, while standard titanium fixation was used in the mandible for comparison. Clinical outcomes, wound healing, neurosensory function, radiographic imaging, systemic complications, and plasma electrolyte levels were assessed over a one-year follow-up.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42190437/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42189582",
+      "title": "Secondary Inferior Alveolar Nerve Repair During Revisional Orthognathic Surgery.",
+      "authors": [
+        "Yoshitsugu Hattori",
+        "Takahiro Yamamoto",
+        "Takanobu Mashiko"
+      ],
+      "publication_date": "2026-May-25",
+      "publication_date_iso": "2026-05-25",
+      "abstract": "Revisional orthognathic procedures are increasingly requested by patients who remain dissatisfied with facial aesthetics after primary correction of dentofacial deformities. Neurosensory disturbance of the inferior alveolar nerve (IAN) is a well-recognized complication of sagittal split ramus osteotomy (SSRO), and inadvertent IAN transection can result in severe permanent neurosensory deficits if not properly repaired. The authors report a 41-year-old woman who presented with persistent \"prognathic appearance\" and left lower lip hypesthesia 7 years after mandibular setback surgery using bilateral SSRO. Preoperative computed tomography revealed discontinuity of the left IAN, consistent with an untreated transection from the previous operation. Revisional orthognathic surgery with clockwise rotation of the maxillomandibular complex was performed, and simultaneous secondary repair of the IAN was achieved. Postoperatively, both facial profile and neurosensory function had improved, with high patient satisfaction. Secondary IAN repair at the time of revisional orthognathic surgery may promote sensory recovery and favorable functional and aesthetic outcomes.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "in severe permanent neurosensory deficits if not properly repaired. The authors report a 41-year-old woman who presented with persistent \"prognathic appearance\" and left lower lip hypesthesia 7 years after mandibular setback surgery using bilateral SSRO. Preoperative computed tomography revealed discontinuity of the left IAN, consistent with an untreated transection from the previous operation. Revisional orthognathic surgery with clockwise rotation of the maxillomandibular complex was performed, and simultaneous secondary repair of the IAN was achieved. Postoperatively, both facial profile and neurosensory function had improved, with high patient satisfaction. Secondary IAN repair at the time of revisional orthognathic surgery may promote sensory recovery and favorable functional and aesthetic outcomes.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42189582/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42189572",
+      "title": "A 10-Year Retrospective Analysis of Mandibular Fracture Patterns in Blunt and Penetrating Trauma.",
+      "authors": [
+        "Caroline C Kreh",
+        "Louisa B Ragsdale",
+        "Amber L Stefanski",
+        "Kevin Chen"
+      ],
+      "publication_date": "2026-May-25",
+      "publication_date_iso": "2026-05-25",
+      "abstract": "Mandibular fractures are common facial injuries with varying patterns depending on the mechanism of trauma. A retrospective review of 570 patients presenting with acute mandibular fractures to a single level 1 trauma center, from 2013 to 2023, was performed. Demographic data, injury mechanism, fracture locations, and patterns were analyzed. The cohort was predominantly male (75.4%) with a mean age of 39.1 years. Blunt trauma accounted for 82.5% of injuries, while penetrating trauma, primarily gunshot wounds, comprised 17.5%. A total of 845 fractures were identified, with 47.9% of patients sustaining multiple fractures. Isolated fractures most commonly involved the mandibular body, angle, condyle, and ramus, whereas the most frequent combination patterns were parasymphysis + angle, body + angle, body + ramus, and parasymphysis + subcondyle. Mechanism of injury influenced fracture distribution. Blunt trauma was associated with multiple fractures and posterior involvement (condyle, subcondyle), while penetrating trauma more often resulted in isolated anterior fractures (mandibular body). These findings highlight the utility of characterizing mandibular fractures by multisite patterns rather than individual sites alone. Understanding predictable fracture patterns in relation to trauma mechanism may improve surgical planning, classification, and risk stratification for patients with mandibular injuries.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ed in isolated anterior fractures (mandibular body). These findings highlight the utility of characterizing mandibular fractures by multisite patterns rather than individual sites alone. Understanding predictable fracture patterns in relation to trauma mechanism may improve surgical planning, classification, and risk stratification for patients with mandibular injuries.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42189572/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42186293",
+      "title": "Halitosis and Chemosensory Disorders in Individuals With Sjögren Disease.",
+      "authors": [
+        "Karolina Skarlet Silva Viana",
+        "Isabella Machado Silvano Cruz",
+        "Victor Zanetti Drumond",
+        "Mariana Silveira Souza",
+        "Sílvia Ferreira Sousa",
+        "Lucas Guimarães Abreu",
+        "Ricardo Alves Mesquita",
+        "Rafael Paschoal Esteves Lima",
+        "Luís Otávio Miranda Cota"
+      ],
+      "publication_date": "2026-May-25",
+      "publication_date_iso": "2026-05-25",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42186293/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2915,7 +3231,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42174330/",
       "pmcid": "PMC13197344",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13197344/bin/10006_2026_1576_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13197344/bin/10006_2026_1576_Fig2_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13197344/bin/10006_2026_1576_Fig3_HTML.jpg"
+      ]
     },
     {
       "pmid": "42174625",
@@ -3090,66 +3410,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41989020",
-      "title": "Monitoring Nitric Oxide in Trigeminal Neuralgia Rats with a Cerium Single-Atom Nanozyme Electrochemical Biosensor.",
-      "authors": [
-        "Kangling Tian",
-        "Fuhua Li",
-        "Yuxuan Yang",
-        "Ran Chen",
-        "Shihong Chen",
-        "Wenbin Wei",
-        "Yihang Shen",
-        "Muzi Xu",
-        "Chunxian Guo",
-        "Luigi G Occhipinti",
-        "Hong Bin Yang",
-        "Fangxin Hu"
-      ],
-      "publication_date": "2026-May-22",
-      "publication_date_iso": "2026-05-22",
-      "abstract": "Trigeminal neuralgia (TN) is the most common neuropathic disorder; however, its pathogenesis remains unclear. A prevailing theory suggests that nitric oxide (NO) may induce nerve compression and irritation via vascular dilation, thereby being responsible for the condition, making real-time detection of generated NO critical. However, traditional evaluations of NO rely on indirect colorimetric or chemiluminescence techniques, which offer limited sensitivity and spatial resolution for its real-time assessment in biological environments. Herein, we reported the development of a highly sensitive NO electrochemical biosensor based on a cerium single-atom nanozyme (Ce1-CN) with an ultrawide linear range from 1.08 nM to 143.9 μM and an ultralow detection limit of 0.36 nM, which enables efficient and real-time evaluation of NO in TN rats. In situ attenuated total reflection surface-enhanced infrared spectroscopy combined with density functional theory calculations revealed the high-performance biosensing mechanism, whereby the Ce centers in Ce1-CN nanoenzymes adsorb NO and subsequently react with OH- to form *HNO2. Results demonstrated that NO concentration was associated with the TN onset. Following carbamazepine treatment, NO production from nerves decreased, accompanied by an alleviation of pain. These findings indicate that the biosensor serves as a valuable tool for investigating the pathogenesis of TN and guiding subsequent therapeutic strategies.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "demonstrated that NO concentration was associated with the TN onset. Following carbamazepine treatment, NO production from nerves decreased, accompanied by an alleviation of pain. These findings indicate that the biosensor serves as a valuable tool for investigating the pathogenesis of TN and guiding subsequent therapeutic strategies.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41989020/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42173484",
-      "title": "Effect of Arnica Montana on postoperative Edema, Pain, and Trismus Following Surgical Extraction of Impacted Third Molars: A Double-Blind Clinical Trial.",
-      "authors": [
-        "Christian Makary",
-        "Josephine Balaa",
-        "Nancy Mansour",
-        "Abdallah Menhall",
-        "Pierre Lahoud",
-        "Krikor Sahakian"
-      ],
-      "publication_date": "2026-May-21",
-      "publication_date_iso": "2026-05-21",
-      "abstract": "This study evaluated Arnica Montana 's effect on postoperative edema, pain, and trismus after impacted third molar extraction. In a double-blind clinical trial, 10 patients scheduled for the extraction of symmetrically impacted maxillary or mandibular third molars were recruited. Patients received either Arnica Montana 12 CH or a placebo, starting 1 day before surgery and continuing for 7 days postoperatively. The alternate treatment was given during a second surgery after at least two weeks. Pain scores, maximum mouth opening, and facial measurements were recorded. Pain scores were significantly lower in the Arnica Montana group on days 1-5 postoperatively, but not on days 6 and 7. The Arnica Montana group required fewer painkillers over the 7-day period. Facial swelling was significantly reduced on day 2 in the Arnica group, with no significant difference on day 7. Trismus, measured by mouth opening, was lower in the Arnica group but not statistically significant. Arnica Montana significantly reduces pain and swelling following impacted third molar removal but does not affect trismus.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42173484/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42166883",
       "title": "Distinct synovial proinflammatory cytokine and hyaluronic acid profiles in temporomandibular joint of patients with Class Ⅱ and Class Ⅲ dentofacial deformities.",
       "authors": [
@@ -3260,60 +3520,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42161683/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42153735",
-      "title": "Factors Associated With Longitudinal Quality of Life Related to Facial Differences in Youth With Cleft Lip and Palate in Treatment for Class III Malocclusion.",
-      "authors": [
-        "Alexis L Johns",
-        "Julia Zukin",
-        "Cathrine Fong",
-        "Amarjit Dass",
-        "Barbara Sheller",
-        "Hitesh P Kapadia",
-        "Stephen L-K Yen"
-      ],
-      "publication_date": "2026-May-19",
-      "publication_date_iso": "2026-05-19",
-      "abstract": "This prospective longitudinal cohort study described quality of life (QoL) related to facial differences in youth with cleft lip and palate (CLP). Participants completed the Youth Quality of Life-Facial Differences (YQOL-FD) before (n=114) and after (n=95) treatment for class III malocclusion with protraction (58%) or orthognathic surgery (42%). The YQOL-FD has 5 perceptual scales (Positive Consequences, Coping, Negative Consequences, Negative Self-Image, and Stigma), scored 0 to 100 and 18 independent contextual items. Analyses included correlations and t tests for pretreatment to post-treatment and treatment outcome. Participants had a mean age of 14.8±2.9 years pretreatment and 16.9±2.4 post-treatment. They were mostly Latino (68%) males (57%) born with unilateral CLP (76%) with public insurance (62%) and low socioeconomic status (SES; 42%). QoL varied with medium positive scale means (47.6±31.2 to 59.7±23.4 out of 100) and low negative scale means (10.5±14.8 to 25.7±23.8 out of 100). Post-treatment, staring, teasing, being spoken to slowly/loudly, and having to repeat themselves significantly decreased with small effect sizes (Cohen's d = 0.24 to 0.37). While walking in public also decreased post-treatment for the total sample, the only significant change based on successful treatment outcome was increased walking in public. Correlations were small to large (r = -0.19 to 0.66) with both positive and negative associations across Perceptual Scales for medical, sociodemographic, and contextual items, reflecting the complexity of QoL. Completing treatment was associated with modest QoL improvements regardless of treatment outcome. Understanding factors associated with QoL informs screening and interventions for individuals with CLP.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42153735/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42153714",
-      "title": "Evaluating Implant Timing in Orthognathic Surgery for Edentulous Patients: A Systematic Review of Clinical Protocols and Outcomes.",
-      "authors": [
-        "Julia Ting",
-        "Yomna E Dean",
-        "Abigail Meyers",
-        "Bahar Bassiri Gharb",
-        "Antonio Rampazzo"
-      ],
-      "publication_date": "2026-May-19",
-      "publication_date_iso": "2026-05-19",
-      "abstract": "Edentulous patients undergoing orthognathic surgery present significant challenges due to the absence of occlusal landmarks and reduced bone support, complicating surgical planning and postoperative stability. Determining the optimal timing of dental implant placement-before, during, or after jaw surgery-is clinically important but remains unclear. This systematic review and meta-analysis evaluated how implant timing influences implant survival, complications, and clinical outcomes in edentulous patients undergoing orthognathic surgery. The review focused on adult and pediatric edentulous populations undergoing maxillary or mandibular osteotomies, with outcomes including implant survival rates, postoperative complications, and stability measures. Following PRISMA guidelines, PubMed and Embase were searched (November 15, 2024). Studies were included if they reported edentulous patients receiving dental implants in association with orthognathic surgery. Exclusion criteria were oncologic resections, free flap reconstructions, nonsurgical management, and insufficient outcome data. Two independent reviewers screened all studies, and 34 of 396 identified articles (8.6%) met eligibility criteria. A total of 396 patients were included. Implants were placed after surgery in 82.4% of cases, during surgery in 16.0%, and before surgery in 1.5%. Pooled implant survival rates were 99.1% for presurgical placement, 94.4% for intraoperative placement, and 92.8% for postoperative placement, with no significant differences between groups (P=0.68). Smoking status and posterior implant site were associated with lower survival, whereas graft type and surgical technique were not significant predictors. Implant timing relative to orthognathic surgery does not significantly influence implant survival, which remains high across all protocols. Patient-specific factors-particularly smoking and implant location-play a larger role in implant success. These findings support individualized surgical planning and highlight the need for prospective studies with standardized reporting.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42153714/",
       "pmcid": "",
       "figure_urls": []
     }
