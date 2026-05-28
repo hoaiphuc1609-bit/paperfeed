@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T06:25:49Z",
+  "updated_at": "2026-05-28T06:17:32Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -301,7 +301,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42181171/",
       "pmcid": "PMC13196569",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/sc1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/sc1.gif"
+      ]
     },
     {
       "pmid": "42164998",
@@ -910,6 +915,36 @@
       "figure_urls": []
     },
     {
+      "pmid": "42034032",
+      "title": "Targeted nanoemulsion Blocks MTFR2-HIF-1α-EZH2/FoxM1 axis to suppress tongue squamous cell carcinoma invasion and metastasis.",
+      "authors": [
+        "Juan Zhan",
+        "Jian Han Zhou",
+        "Run Qiang Liu",
+        "Chao Chen Wu",
+        "Yi Han Lai",
+        "Lin Jiang",
+        "Wei Wang",
+        "Meng Cheng",
+        "Yi Sen Shao"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Tongue squamous cell carcinoma (TSCC) is characterized by high invasiveness and early lymph node metastasis, leading to a poor prognosis.Current surgical and chemoradiotherapy regimens often cause functional impairment, drug resistance, and other drawbacks. Thus, developing highly effective, lowtoxicity treatments is a key research priority. Traditional Chinese medicine (TCM) offers unique advantages via multitarget synergistic effects, enabling innovative therapeutic approaches. In this study, we developed Astragaloside IV-Brucea javanica oil nanoemulsion (AS/BJO-NEs) and characterized its stability, polydispersity, and pharmacokinetic profile. The effects of AS/BJO-NEs on TSCC cells were evaluated through a series of functional assays, including CCK-8 (viability), colony formation (proliferation), and scratch wound healing (migration). Both in vitro and in vivo experiments were performed to investigate whether its mechanism involves regulation of the MTFR2-HIF-1α-EZH2/FoxM1 signaling axis. The optimized AS/BJONEs exhibited uniform spherical morphology at the nanoscale and demonstrated favorable stability. In both in vitro and in vivo models, AS/BJONEs significantly suppressed the malignant phenotype of TSCC cells. Mechanistic investigation further revealed that the anti-tumor effects of AS/BJONEs are mediated, at least in part, through targeting the MTFR2-HIF-1α-EZH2/FoxM1 signaling axis, as confirmed by establishing stable MTFR2/HIF-1α knockdown and overexpression cell models. This study demonstrates that AS/BJONEs inhibit TSCC progression by targeting the MTFR2-HIF-1α-EZH2/FoxM1 signaling axis. Our findings provide experimental evidence supporting the development of multi-target therapeutic strategies derived from traditional Chinese medicine for the treatment of TSCC.",
+      "objective": "",
+      "study_methods": "In this study, we developed Astragaloside IV-Brucea javanica oil nanoemulsion (AS/BJO-NEs) and characterized its stability, polydispersity, and pharmacokinetic profile. The effects of AS/BJO-NEs on TSCC cells were evaluated through a series of functional assays, including CCK-8 (viability), colony formation (proliferation), and scratch wound healing (migration). Both in vitro and in vivo experiments were performed to investigate whether its mechanism involves regulation of the MTFR2-HIF-1α-EZH2/FoxM1 signaling axis.",
+      "methods": "In this study, we developed Astragaloside IV-Brucea javanica oil nanoemulsion (AS/BJO-NEs) and characterized its stability, polydispersity, and pharmacokinetic profile. The effects of AS/BJO-NEs on TSCC cells were evaluated through a series of functional assays, including CCK-8 (viability), colony formation (proliferation), and scratch wound healing (migration). Both in vitro and in vivo experiments were performed to investigate whether its mechanism involves regulation of the MTFR2-HIF-1α-EZH2/FoxM1 signaling axis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42034032/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42009191",
       "title": "Zygomatic implants for rehabilitation of head and neck cancer patients: a systematic review and meta-analysis.",
       "authors": [
@@ -1415,31 +1450,36 @@
       "figure_urls": []
     },
     {
-      "pmid": "41707374",
-      "title": "Emerging functionalized artificial periostea: Diverse origins, multifaceted roles and therapeutic frontiers.",
+      "pmid": "42200177",
+      "title": "Analysis of 121 cases of osteosarcoma of jaws reported in the literature over the past two decades: a scoping review.",
       "authors": [
-        "Yankun Luo",
-        "Weidong Jiang",
-        "Hao Wu",
-        "Cancan Zhao",
-        "Hongpu Wei",
-        "Xudong Wang"
+        "Aisha A H Al-Jamaei",
+        "Sahar A O Al-Qayadhi",
+        "Marco N Helder",
+        "Prasanna Sirinivas Deshpande",
+        "R V Subramanyam",
+        "Tymour Forouzanfar",
+        "Jan G A M de Visscher"
       ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "The periosteum, a specialized connective tissue layer enveloping bone surfaces, serves as a critical regulator of bone healing through its integrated neurovascular architecture, stem cell niche properties, and mechanical barrier function. Clinically, traumatic injuries or pathological conditions frequently result in periosteal tearing, avulsion, or complete loss, fundamentally disrupting its biological integrity. In practice, repairing a torn or absent periosteum is difficult, because existing options rarely recreate its coordinated biological cues and protective function. The limited availability of viable autologous periosteal grafts has propelled the engineering of artificial periosteum (AP) - bioinspired constructs designed to replicate native tissue hierarchy and functional complexity for optimized osseous regeneration. Contemporary breakthroughs in multifunctional AP have substantially elevated their therapeutic relevance, demonstrating efficacy in resolving intricate bone repair challenges. This review systematically examines biomaterial fabrication approaches for AP. It is framed around three core mechanisms that define AP function: blocking external threats, rebalancing endogenous physiology, and enabling the hierarchical coupling of osteogenesis with angiogenesis and neurogenesis. Furthermore, we evaluate emerging functionalization strategies that enhance this therapeutic precision and critically analyze the practical challenges hindering clinical translation.",
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Osteosarcomas of the Jaw (OSJ) are rare malignant tumors with unique characteristics compared to those in long bones. This study aimed to describe and analyze reported cases of OSJ published within the past two decades with emphasis on demographic features, clinical presentation, radiological findings and treatment outcomes. A comprehensive search of four databases, including PubMed, Embase, Google Scholar, and Scopus, was conducted between 2003 and 2025 to identify publications reported cases of OSJ. There were 121 cases of OSJ with 84.3 % adult (median age: 35 years), and 15.7 % pediatric patients (median age: 13 years). Most cases were reported from Asia (66.9 %). Of all cases, 55.4 % occurred in the mandible. Approximately 65 % presented as painless swelling, 67.7 % (65/90) were smaller than 5 cm, and 53.3 % (31/55) exhibited paresthesia. Radiological features showed 18.8 % as radiolucent, 34.2 % as radiopaque, and 47.0 % as mixed. In 7 patients (5.8 %), OSJ occurred within fibro-osseous lesions, four of which were ossifying fibromas. OSJ presented as a periapical lesion in 4 patients (3.3 %) and developed during pregnancy in 4 patients (3.3 %). For treatment, 38.8 % underwent surgery alone, 34.7 % received surgery combined with chemotherapy, and 26.4 % received other modalities. Among 90 cases with follow-up data, 19 individuals (21.1 %) experienced local recurrence and 12 (14.3 %) developed distant metastasis. Surgical treatment showed the highest survival rates [pooled mean (standard error) = 54.2 (4.1) months]. Local recurrence and treatment approaches, particularly those integrating surgery with chemoradiation or alternative therapies, were associated with a significant reduced 5-year overall survival rate.",
       "objective": "",
       "study_methods": "",
       "methods": "",
-      "results": "in periosteal tearing, avulsion, or complete loss, fundamentally disrupting its biological integrity. In practice, repairing a torn or absent periosteum is difficult, because existing options rarely recreate its coordinated biological cues and protective function. The limited availability of viable autologous periosteal grafts has propelled the engineering of artificial periosteum (AP) - bioinspired constructs designed to replicate native tissue hierarchy and functional complexity for optimized osseous regeneration. Contemporary breakthroughs in multifunctional AP have substantially elevated their therapeutic relevance, demonstrating efficacy in resolving intricate bone repair challenges. This review systematically examines biomaterial fabrication approaches for AP. It is framed around three core mechanisms that define AP function: blocking external threats, rebalancing endogenous physiology, and enabling the hierarchical coupling of osteogenesis with angiogenesis and neurogenesis. Furthermore, we evaluate emerging functionalization strategies that enhance this therapeutic precision and critically analyze the practical challenges hindering clinical translation.",
+      "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41707374/",
-      "pmcid": "",
-      "figure_urls": []
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42200177/",
+      "pmcid": "PMC13199937",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13199937/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13199937/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13199937/bin/gr3.jpg"
+      ]
     },
     {
       "pmid": "42182879",
@@ -1470,7 +1510,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42182879/",
       "pmcid": "PMC13197780",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13197780/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13197780/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13197780/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13197780/bin/gr3.jpg"
+      ]
     },
     {
       "pmid": "42132365",
@@ -2563,6 +2608,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "40920568",
+      "title": "A 5-Step Simplification of the Fisher Anatomical Subunit Cleft Lip Repair.",
+      "authors": [
+        "Jeffrey R Marcus",
+        "Alexander C Allori",
+        "Kate B Krucoff",
+        "Rose Trotta",
+        "Anna R Carlson"
+      ],
+      "publication_date": "2026-Jun-01",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Unilateral cleft lip repair methods have evolved from straight-line repairs to geometric procedures, rotation advancement, and contemporary hybrid techniques. The Fisher anatomical subunit repair is a versatile, effective, and highly reproducible technique. It uses mathematical precision in design, avoids multipoint closure, minimizes scar burden, and does not compromise horizontal lip length for vertical height in various deformities. Despite these benefits, the repair has been criticized for its complexity. The authors describe a 5-step distillation of the repair to clarify the procedure and provide surgeons adopting the technique with an entry point.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40920568/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "40681156",
       "title": "Complications and Hardware Failure Following Synthetic Cranioplasty Implants and Free Flap Coverage.",
       "authors": [
@@ -2713,6 +2784,61 @@
       "figure_urls": []
     },
     {
+      "pmid": "42202386",
+      "title": "Middle-Term Follow-Up Outcomes of the Customised Temporomandibular Joint-Skull Base Combined Prosthesis by 3D Printing.",
+      "authors": [
+        "Qingyu Xu",
+        "Yuxin Zhang",
+        "Xiang Wei",
+        "Liang Huo",
+        "Zixiang Han",
+        "Lingtong Bu",
+        "Minjie Chen",
+        "Jisi Zheng",
+        "Chi Yang"
+      ],
+      "publication_date": "2026-May-27",
+      "publication_date_iso": "2026-05-27",
+      "abstract": "The combined lesions of the temporomandibular joint (TMJ) and skull base pose a considerable clinical challenge, frequently necessitating complex reconstructive procedures, yet established treatment protocols remain insufficient. This case series aims to assess the middle-term clinical safety, accuracy, and efficacy of our own customised temporomandibular joint-skull base combined prosthesis by 3D printing. This is a prospective single-centre consecutive case series study and planned to enrol 12 patients. Patients with TMJ-skull base combined lesions who visited the Department of Oral Surgery of our hospital from September 2016 to April 2024 were recruited. General conditions, clinical examinations, and radiological evaluations were conducted preoperatively and at 1 month, 3 months, 6 months, 1 year, 2 years, and possibly beyond 3 years postoperatively. Computed tomography scans were used to assess prosthesis position and bone contact. The 10 cm visual analogue scale (VAS) was used to assess pain, diet, and mandibular function. Objective evaluations included maximum internal opening, deviation of opening, and maximum mandibular forward and lateral movement. SPSS software was employed for data analysis. A total of 12 patients (6 females and 6 males, with an average age of 46.58 ± 12.17 years) were included; all patients underwent prosthesis implantation. After a follow-up period of 3.85 ± 2.63 years, patients showed no adverse symptoms such as infection and cerebrospinal fluid leakage. The occlusion and face type were stable. The prosthesis did not exhibit significant loosening, displacement, or fracture, and all had good bone integration. Postoperative pain, diet, mandibular function, and maximum internal opening underwent significant enhancement, whereas deviation of opening and mandibular movement towards the non-diseased side remained unchanged. The customised TMJ-skull base combined prosthesis developed in this study exhibited favourable mid-term clinical safety, accuracy, and efficacy in its application. Our findings offer promising prospects in and clinical translational value in terms of development of TMJ and skull base reconstruction technology in future.",
+      "objective": "to assess the middle-term clinical safety, accuracy, and efficacy of our own customised temporomandibular joint-skull base combined prosthesis by 3D printing. This is a prospective single-centre consecutive case series study and planned to enrol 12 patients. Patients with TMJ-skull base combined lesions who visited the Department of Oral Surgery of our hospital from September 2016 to April 2024 were recruited. General conditions, clinical examinations, and radiological evaluations were conducted preoperatively and at 1 month, 3 months, 6 months, 1 year, 2 years, and possibly beyond 3 years postoperatively. Computed tomography scans were used to assess prosthesis position and bone contact. The 10 cm visual analogue scale (VAS) was used to assess pain, diet, and mandibular function. Objective evaluations included maximum internal opening, deviation of opening, and maximum mandibular forward and lateral movement. SPSS software was employed for data analysis. A total of 12 patients (6 females and 6 males, with an average age of 46.58 ± 12.17 years) were included; all patients underwent prosthesis implantation. After a follow-up period of 3.85 ± 2.63 years, patients showed no adverse symptoms such as infection and cerebrospinal fluid leakage. The occlusion and face type were stable. The prosthesis did not exhibit significant loosening, displacement, or fracture, and all had good bone integration. Postoperative pain, diet, mandibular function, and maximum internal opening underwent significant enhancement, whereas deviation of opening and mandibular movement towards the non-diseased side remained unchanged. The customised TMJ-skull base combined prosthesis developed in this study exhibited favourable mid-term clinical safety, accuracy, and efficacy in its application. Our findings offer promising prospects in and clinical translational value in terms of development of TMJ and skull base reconstruction technology in future.",
+      "study_methods": "This is a prospective single-centre consecutive case series study and planned to enrol 12 patients. Patients with TMJ-skull base combined lesions who visited the Department of Oral Surgery of our hospital from September 2016 to April 2024 were recruited. General conditions, clinical examinations, and radiological evaluations were conducted preoperatively and at 1 month, 3 months, 6 months, 1 year, 2 years, and possibly beyond 3 years postoperatively. Computed tomography scans were used to assess prosthesis position and bone contact. The 10 cm visual analogue scale (VAS) was used to assess pain, diet, and mandibular function. Objective evaluations included maximum internal opening, deviation of opening, and maximum mandibular forward and lateral movement. SPSS software was employed for data analysis.",
+      "methods": "This is a prospective single-centre consecutive case series study and planned to enrol 12 patients. Patients with TMJ-skull base combined lesions who visited the Department of Oral Surgery of our hospital from September 2016 to April 2024 were recruited. General conditions, clinical examinations, and radiological evaluations were conducted preoperatively and at 1 month, 3 months, 6 months, 1 year, 2 years, and possibly beyond 3 years postoperatively. Computed tomography scans were used to assess prosthesis position and bone contact. The 10 cm visual analogue scale (VAS) was used to assess pain, diet, and mandibular function. Objective evaluations included maximum internal opening, deviation of opening, and maximum mandibular forward and lateral movement. SPSS software was employed for data analysis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42202386/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42201818",
+      "title": "Bone Healing and Skeletal Stability Following Orthognathic Surgery in Fibrous Dysplasia.",
+      "authors": [
+        "Martin Orozco-Fernández",
+        "Alejandra Rojas-Ponte",
+        "Mayra A Quintero",
+        "Juan Pablo López"
+      ],
+      "publication_date": "2026-May-27",
+      "publication_date_iso": "2026-05-27",
+      "abstract": "Fibrous dysplasia represents a challenge for orthognathic surgery due to the altered anatomy that generates significant asymmetries. In addition, skeletal instability and uncertainty about postoperative bone healing due to the lack of stability of the osteosynthetic material generate great concern in these cases. The authors present the case of a patient who underwent corrective orthognathic surgery. Clinical and radiographic follow-up lasted 2 years. The results showed adequate healing and maintained skeletal stability. This suggests that this procedure may be a safe and effective option for patients with fibrous dysplasia; however, more publications are required due to the limited existing literature.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "showed adequate healing and maintained skeletal stability. This suggests that this procedure may be a safe and effective option for patients with fibrous dysplasia; however, more publications are required due to the limited existing literature.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42201818/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42191967",
       "title": "Long-term patient satisfaction and complication rates after orthognathic surgery: a minimum 3-year follow-up study.",
       "authors": [
@@ -2740,6 +2866,35 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42191967/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42198907",
+      "title": "Three-dimensional fractal analysis of the mandibular condyle after bilateral sagittal split ramus osteotomy in class III patients: Rigid versus semirigid fixation.",
+      "authors": [
+        "Mehmet Alp Eriş",
+        "Meyra Durmaz",
+        "Gözde Haksayar",
+        "Mehmet Emre Yurttutan",
+        "Merve Berika Kadıoğlu",
+        "Mahzun Yıldız",
+        "Ömer Faruk Kocamaz",
+        "Mehmet Eray Kolsuz"
+      ],
+      "publication_date": "2026-May-26",
+      "publication_date_iso": "2026-05-26",
+      "abstract": "To evaluate postoperative adaptive changes in the mandibular condyle after bimaxillary orthognathic surgery in skeletal Class III patients and compare these changes according to mandibular fixation type. Twenty-six patients treated with Le Fort I osteotomy and bilateral sagittal split ramus osteotomy were divided into semirigid and rigid fixation groups. Preoperative and 1-year postoperative CBCT images were analyzed. Condylar trabecular microstructure was assessed by three-dimensional fractal analysis, and cortical bone thickness was measured in five regions. Baseline cephalometric variables, cortical thickness, and fractal dimension values were similar between groups. The semirigid group showed increased medial and decreased superior cortical thickness, while the rigid group showed no significant cortical changes. Fractal dimension values remained stable in both groups. Intergroup comparison showed a significant difference only in superior cortical thickness change. Fixation type did not markedly affect condylar trabecular microstructure, although superior cortical remodeling may differ by fixation method.",
+      "objective": "",
+      "study_methods": "Twenty-six patients treated with Le Fort I osteotomy and bilateral sagittal split ramus osteotomy were divided into semirigid and rigid fixation groups. Preoperative and 1-year postoperative CBCT images were analyzed. Condylar trabecular microstructure was assessed by three-dimensional fractal analysis, and cortical bone thickness was measured in five regions.",
+      "methods": "Twenty-six patients treated with Le Fort I osteotomy and bilateral sagittal split ramus osteotomy were divided into semirigid and rigid fixation groups. Preoperative and 1-year postoperative CBCT images were analyzed. Condylar trabecular microstructure was assessed by three-dimensional fractal analysis, and cortical bone thickness was measured in five regions.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42198907/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2945,7 +3100,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42185696/",
-      "pmcid": "",
+      "pmcid": "PMC13201277",
       "figure_urls": []
     },
     {
@@ -3276,31 +3431,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42173762",
-      "title": "Odontogenic cyst with verrucous proliferation.",
-      "authors": [
-        "S Asoda",
-        "M Morita",
-        "S Kawai",
-        "T Nakagawa"
-      ],
-      "publication_date": "2026-May-22",
-      "publication_date_iso": "2026-05-22",
-      "abstract": "Verrucous proliferation in the lining of odontogenic cysts occurs infrequently. A search of the literature identified only four previously reported cases. This report presents the case of a 5-year-old female patient with an odontogenic cyst that exhibited verrucous proliferation. A biopsy was performed at another hospital's oral surgery centre for swelling of the right upper gingiva, which revealed papillary growth of an apparent intraosseous cyst lined with stratified squamous epithelium. The patient was referred to the author's hospital for definitive enucleation of the cystic lesion. However, it was difficult to classify this cyst according to the extant World Health Organization (WHO) classifications of odontogenic cysts due to the unusual morphology of its lining. According to the existing literature, the following will be only the fifth case reported of an odontogenic cyst with verrucous proliferation of its lining.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42173762/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42173711",
       "title": "Jael syndrome, or the nasty arrow.",
       "authors": [
@@ -3348,68 +3478,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42172001",
-      "title": "Modified T-Shaped Closure of Rostral Maxillary Defects in Dogs Following Rostral Maxillectomy.",
-      "authors": [
-        "Amanda Riddile",
-        "Kendall Taney"
-      ],
-      "publication_date": "2026-May-22",
-      "publication_date_iso": "2026-05-22",
-      "abstract": "Rostral maxillary defects following curative intent surgery for maxillary neoplasms can be difficult to close. This paper describes a modified T-shaped closure following rostral maxillectomy that permits the primary mucosal closure of larger rostral maxillary defects that may not be amenable to standard closure techniques. The technique facilitates decreased incision site tension, results in a more cosmetic closure (decreased concave deformity of the muzzle), maintains normal vestibule size, preserves critical vasculature, and maintains the greatest amount of available tissue for repair of defects, should they occur. Retrospective evaluation of medical records from January 1, 2015, through January 31, 2023, at the Center for Veterinary Dentistry and Oral Surgery, Gaithersburg, MD, United States, identified 23 dogs having undergone bilateral incisivectomy and unilateral or bilateral rostral maxillectomy where this closure was utilized. Evaluation of available medical records and client interviews demonstrated successful outcomes; however, further studies are needed to validate the success rate of this technique.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "in a more cosmetic closure (decreased concave deformity of the muzzle), maintains normal vestibule size, preserves critical vasculature, and maintains the greatest amount of available tissue for repair of defects, should they occur. Retrospective evaluation of medical records from January 1, 2015, through January 31, 2023, at the Center for Veterinary Dentistry and Oral Surgery, Gaithersburg, MD, United States, identified 23 dogs having undergone bilateral incisivectomy and unilateral or bilateral rostral maxillectomy where this closure was utilized. Evaluation of available medical records and client interviews demonstrated successful outcomes; however, further studies are needed to validate the success rate of this technique.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42172001/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42171526",
-      "title": "Perioperative Adverse Events in Primary Palatoplasty: \"Risk Factors and Impact on Care Escalation in a Multicenter Cohort\".",
-      "authors": [
-        "Febina Padiyath",
-        "Elizabeth M O'Brien",
-        "Jennifer Nam",
-        "Paula Hu",
-        "Nishil Mehta",
-        "Marc Parris",
-        "Anthony Alexander",
-        "Ashley Hodges",
-        "Goretti Chiang",
-        "Vinícius Caldeira Quintão",
-        "Ricardo Vieira Carlos",
-        "Gabriel Soares de Sousa",
-        "Asif Padiyath",
-        "Susan C Nicolson",
-        "John Fiadjoe",
-        "Oksana A Jackson",
-        "Lisa K Lee",
-        "Annery G Garcia-Marcinkiewicz"
-      ],
-      "publication_date": "2026-May-22",
-      "publication_date_iso": "2026-05-22",
-      "abstract": "Patients undergoing palatoplasty experience perioperative adverse events. Identifying risk factors for perioperative adverse events and escalation of care may improve outcomes. Pediatric patients undergoing primary palatoplasty were included in this retrospective observational study performed at two academic children's hospitals from 2014 to 2020. Four hundred fifty-nine patients with a median age of 12 months (IQR: 10-17) and median weight of 9.3 kg (IQR: 8.3-10.9) were included. A perioperative adverse event occurred in 15% (69/459) patients. Multiple (> 1) perioperative adverse events occurred in 18 patients. Hypoxemia (42 events, 9.2%) was the most common perioperative adverse event, followed by upper airway obstruction (29 events, 6.3%), vomiting (11 events, 2.4%), hypoventilation (10 events, 2.2%), and bleeding (7 events, 1.5%). Two events required a rapid response team, and there was 1 cardiac arrest. Forty percent of perioperative adverse events occurred in the post-anesthesia recovery area, and 24% occurred within 12 h of arriving to the floor. Prolonged emergence time (OR 1.04 [95% CI 1.02-1.06], p < 0.001) and nasal stent placement (OR 6.02 [95% CI 2.7-13.6], p < 0.001) were significantly associated with perioperative adverse events and increased odds of unanticipated admission to the pediatric intensive care unit (OR 1.02 [95% CI, 1.01-1.04], p < 0.001) and (OR 3.39 [95% CI, 1.19-8.83], p = 0.016), respectively. The occurrence of any perioperative adverse event (OR 8.47 [95% CI, 4.06-18], p < 0.001) and increasing number of perioperative adverse events (OR 1.75 [95% CI, 1.41-2.24], p < 0.001) were also associated with increased odds of unanticipated PICU admission. Patients undergoing palatoplasty are at risk of perioperative adverse events, particularly in post-operative recovery areas, which may result in unanticipated escalation of care. Recognizing the risk factors associated with the development of perioperative adverse events may improve planning of post-operative care and outcomes.",
-      "objective": "",
-      "study_methods": "Pediatric patients undergoing primary palatoplasty were included in this retrospective observational study performed at two academic children's hospitals from 2014 to 2020.",
-      "methods": "Pediatric patients undergoing primary palatoplasty were included in this retrospective observational study performed at two academic children's hospitals from 2014 to 2020.",
-      "results": "in unanticipated escalation of care. Recognizing the risk factors associated with the development of perioperative adverse events may improve planning of post-operative care and outcomes.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42171526/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42166883",
       "title": "Distinct synovial proinflammatory cytokine and hyaluronic acid profiles in temporomandibular joint of patients with Class Ⅱ and Class Ⅲ dentofacial deformities.",
       "authors": [
@@ -3438,88 +3506,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42166883/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42162207",
-      "title": "Polynucleotide (PN) Therapy for Accelerated Wound Repair and Scar Modulation in Aesthetic Procedures.",
-      "authors": [
-        "Soo-Yeon Park",
-        "Michael Kim",
-        "Song-Eun Yoon",
-        "Jong-Keun Song",
-        "Jake Sloane",
-        "Jeremy B Green",
-        "Thomas Rappl",
-        "Jin-Hyun Kim",
-        "Kyu-Ho Yi"
-      ],
-      "publication_date": "2026-May-20",
-      "publication_date_iso": "2026-05-20",
-      "abstract": "Postoperative wound compromise after aesthetic procedures may manifest as delayed epithelialization, tissue ischemia, hypertrophic scarring, contour depression, or wound dehiscence. These problems are more common in patients with impaired microcirculation or other healing-related comorbidities. To describe the clinical use of injectable polynucleotide as an adjunctive treatment for postoperative wound healing and scar modulation after aesthetic procedures. This retrospective case series included eight consecutive patients treated in routine practice at a single aesthetic clinic over a continuous study accrual period. Eligible patients had clinically significant wound healing delay, early ischemic change, hypertrophic scarring, or postoperative contour depression after aesthetic surgery or facial trauma and were managed with injectable polynucleotide (Rejuran). Treatments were individualized according to wound status and tissue quality, typically using 1-2 mL per session at 2- to 3-week intervals. Because of the heterogeneous case mix and retrospective design, outcomes were evaluated by serial standardized clinical photographs and physician-rated changes in wound size, erythema, scar width/elevation, and contour rather than by a single validated scar scale. All eight patients demonstrated clinical improvement after treatment, including faster re-epithelialization, reduction of erythema, narrowing and flattening of scars, improved contour, or complete wound closure. Earlier treatment during the inflammatory or early proliferative phase appeared to produce the most favorable results. No treatment-related adverse events were documented. The application of injectable polynucleotide therapy appears to be a safe and useful adjunct for postoperative wound care and scar modulation in aesthetic practice. Early use may be especially helpful in patients at high risk for wound breakdown, although prospective studies using standardized outcome measures are needed. This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
-      "objective": "",
-      "study_methods": "This retrospective case series included eight consecutive patients treated in routine practice at a single aesthetic clinic over a continuous study accrual period. Eligible patients had clinically significant wound healing delay, early ischemic change, hypertrophic scarring, or postoperative contour depression after aesthetic surgery or facial trauma and were managed with injectable polynucleotide (Rejuran). Treatments were individualized according to wound status and tissue quality, typically using 1-2 mL per session at 2- to 3-week intervals. Because of the heterogeneous case mix and retrospective design, outcomes were evaluated by serial standardized clinical photographs and physician-rated changes in wound size, erythema, scar width/elevation, and contour rather than by a single validated scar scale.",
-      "methods": "This retrospective case series included eight consecutive patients treated in routine practice at a single aesthetic clinic over a continuous study accrual period. Eligible patients had clinically significant wound healing delay, early ischemic change, hypertrophic scarring, or postoperative contour depression after aesthetic surgery or facial trauma and were managed with injectable polynucleotide (Rejuran). Treatments were individualized according to wound status and tissue quality, typically using 1-2 mL per session at 2- to 3-week intervals. Because of the heterogeneous case mix and retrospective design, outcomes were evaluated by serial standardized clinical photographs and physician-rated changes in wound size, erythema, scar width/elevation, and contour rather than by a single validated scar scale.",
-      "results": "No treatment-related adverse events were documented. The application of injectable polynucleotide therapy appears to be a safe and useful adjunct for postoperative wound care and scar modulation in aesthetic practice. Early use may be especially helpful in patients at high risk for wound breakdown, although prospective studies using standardized outcome measures are needed. This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42162207/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42161685",
-      "title": "Efficacy and safety of tranexamic acid in bimaxillary orthognathic surgery: systematic review and network meta-analysis of randomized controlled trials.",
-      "authors": [
-        "J Felipe Junior",
-        "V R Barbosa de Menezes",
-        "A J Barbosa de França",
-        "S L Dantas de Moraes",
-        "B C do Egito Vasconcelos"
-      ],
-      "publication_date": "2026-May-20",
-      "publication_date_iso": "2026-05-20",
-      "abstract": "Bimaxillary orthognathic surgery often involves significant blood loss, requiring haemostatic control, which may include pharmacological interventions. Tranexamic acid (TXA) is widely used for this purpose; however uncertainty remains regarding its safety and optimal dosage. This systematic review and network meta-analysis was performed to evaluate the efficacy of intravenous TXA in reducing blood loss and transfusion need, and its safety in terms of thromboembolic risk. Randomized controlled trials (RCTs) comparing intravenous TXA at various doses and with placebo in bimaxillary procedures with quantitative outcomes were included. PubMed, Cochrane Library, Embase, Scopus, and Web of Science were searched, without language restriction, until April 2025. Risk of bias was assessed with the RoB 2.0 tool and certainty with the GRADE approach. The data were synthesized using a Bayesian model with surface under the cumulative ranking curve (SUCRA) classification. Five RCTs involving 353 participants were included. Only the 20 mg/kg dose of TXA was found to significantly reduce intraoperative blood loss compared to placebo. While the 10 and 15 mg/kg doses showed a reduction in blood loss, this was not statistically significant. No significant reduction in transfusion compared to placebo was observed, although SUCRA ranked the 2000 mg dose as most promising. No significant difference in thromboembolism risk was observed between the regimens. Intravenous TXA at 10-20 mg/kg appears to be effective and safe, with 20 mg/kg appearing most promising. However, the methodological heterogeneity and limited number of trials prevent any firm conclusions being drawn on the optimal dosage.",
-      "objective": "; however uncertainty remains regarding its safety and optimal dosage. This systematic review and network meta-analysis was performed to evaluate the efficacy of intravenous TXA in reducing blood loss and transfusion need, and its safety in terms of thromboembolic risk. Randomized controlled trials (RCTs) comparing intravenous TXA at various doses and with placebo in bimaxillary procedures with quantitative outcomes were included. PubMed, Cochrane Library, Embase, Scopus, and Web of Science were searched, without language restriction, until April 2025. Risk of bias was assessed with the RoB 2.0 tool and certainty with the GRADE approach. The data were synthesized using a Bayesian model with surface under the cumulative ranking curve (SUCRA) classification. Five RCTs involving 353 participants were included. Only the 20 mg/kg dose of TXA was found to significantly reduce intraoperative blood loss compared to placebo. While the 10 and 15 mg/kg doses showed a reduction in blood loss, this was not statistically significant. No significant reduction in transfusion compared to placebo was observed, although SUCRA ranked the 2000 mg dose as most promising. No significant difference in thromboembolism risk was observed between the regimens. Intravenous TXA at 10-20 mg/kg appears to be effective and safe, with 20 mg/kg appearing most promising. However, the methodological heterogeneity and limited number of trials prevent any firm",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "being drawn on the optimal dosage.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42161685/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42161683",
-      "title": "Soft-tissue chin profiles in aesthetically normative facial features: comparison of three-dimensional camera with two-dimensional radiography.",
-      "authors": [
-        "S Putpinij",
-        "S Panya",
-        "T Charoenrat",
-        "P Pittayapat",
-        "P Kamolratanakul"
-      ],
-      "publication_date": "2026-May-20",
-      "publication_date_iso": "2026-05-20",
-      "abstract": "Preoperative chin profile assessment in orthognathic surgery remains limited by reliance on two-dimensional (2D) cephalometric standards. Advances in three-dimensional (3D) facial scanning allow comprehensive, multi-dimensional evaluation of soft-tissue facial morphology; however, evidence-based aesthetic assessment of normative chin profiles using three-dimensional facial imaging remains limited. Hence, this study aimed to investigate soft-tissue chin profiles in clinically aesthetically normative participants using a 3D camera system, comparing with traditional 2D cephalometric values. A total of 100 aesthetically normative participants were enrolled based on expert assessment of silhouette images derived from 3D scans. Chin profile data including chin prominence (pogonion to subnasale vertical: Pg' to SnV), upper and lower lip position, chin-throat length, and lip-chin-throat angle (LCTA) were analysed. 3D facial scanning in male participants demonstrated significantly greater chin retrusion (P < 0.001), increased upper lip prominence (P = 0.028) and reduced LCTA (P < 0.001) compared with 2D cephalometric norms. Similarly, female participants showed significantly greater chin retrusion (P < 0.001), increased lower lip prominence (P = 0.018), decreased chin-throat length and LCTA (P < 0.001). In conclusion, based on the validated accuracy and precision of the 3D camera facial scan system which refer to clinical appraisal in our population, particularly Pg' to SnV and LCTA in both male and female participants, 3D camera facial scan revealed more chin retrusion and smaller LCTA angle with aesthetically normative profiles compared to traditional and individual 2D cephalometric norms.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": ", based on the validated accuracy and precision of the 3D camera facial scan system which refer to clinical appraisal in our population, particularly Pg' to SnV and LCTA in both male and female participants, 3D camera facial scan revealed more chin retrusion and smaller LCTA angle with aesthetically normative profiles compared to traditional and individual 2D cephalometric norms.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42161683/",
       "pmcid": "",
       "figure_urls": []
     }
