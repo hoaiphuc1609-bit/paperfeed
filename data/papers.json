@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T06:20:07Z",
+  "updated_at": "2026-05-30T05:53:00Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -64,6 +64,36 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
       ]
+    },
+    {
+      "pmid": "42211773",
+      "title": "Diagnostic accuracy of HPV DNA in oral gargle and rinse samples for Head and neck squamous cell carcinoma: A systematic review and meta-analysis.",
+      "authors": [
+        "Arbi Wijaya",
+        "Nurtami Soedarsono",
+        "Vera Julia",
+        "Turmidzi Fath",
+        "Bayu Brahma",
+        "Alif Rizqy Soeratman",
+        "Denni Joko Purwanto",
+        "Yutaro Higashi",
+        "Tsuyoshi Sugiura"
+      ],
+      "publication_date": "2026-Dec",
+      "publication_date_iso": "2026-12-01",
+      "abstract": "Early detection of head and neck squamous cell carcinoma (HNSCC) remains challenging because tissue biopsy is invasive and unsuitable for repeated monitoring or large-scale screening. This study systematically evaluated the diagnostic accuracy of human papillomavirus (HPV) DNA detection in oral gargle and rinse samples for HNSCC. This meta-analysis followed PRISMA guidelines and included 10 studies with 1315 participants. Pooled sensitivity, specificity, summary receiver operating characteristic (SROC), and diagnostic odds ratios (DOR) were calculated using random-effects models. Comprehensive subgroup analyses were conducted to explore pre-analytical and analytical heterogeneity. Pooled sensitivity and specificity were 0.68 (95% CI: 0.58-0.79) and 0.91 (95% CI: 0.88-0.95), respectively, with an AUC of 0.91. Higher pooled sensitivity was observed in subgroups using smaller collection volumes (≤10 mL), non-SPF10 PCR-based detection methods, and HPV16-specific targets, whereas specificity remained consistently high across subgroups. Fagan's nomogram showed that the test offers greater clinical value for ruling in than ruling out the disease. Oral HPV DNA testing via gargle and rinse samples shows high specificity but moderate, highly variable sensitivity. Therefore, it functions best as a non-invasive, supplementary tool for triage or monitoring, rather than as a standalone early detection or rule-out method for HNSCC.",
+      "objective": "",
+      "study_methods": "This meta-analysis followed PRISMA guidelines and included 10 studies with 1315 participants. Pooled sensitivity, specificity, summary receiver operating characteristic (SROC), and diagnostic odds ratios (DOR) were calculated using random-effects models. Comprehensive subgroup analyses were conducted to explore pre-analytical and analytical heterogeneity.",
+      "methods": "This meta-analysis followed PRISMA guidelines and included 10 studies with 1315 participants. Pooled sensitivity, specificity, summary receiver operating characteristic (SROC), and diagnostic odds ratios (DOR) were calculated using random-effects models. Comprehensive subgroup analyses were conducted to explore pre-analytical and analytical heterogeneity.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42211773/",
+      "pmcid": "PMC13213728",
+      "figure_urls": []
     },
     {
       "pmid": "42005095",
@@ -1415,37 +1445,32 @@
       "figure_urls": []
     },
     {
-      "pmid": "41713051",
-      "title": "Hydrogels in head and neck cancer: Innovations and translational advances in research and therapy.",
+      "pmid": "42212804",
+      "title": "Abnormal Stress Reduced miR-330 Supplementation Alleviates Osteoarthritis Progression by Suppressing Osteochondral Catabolism.",
       "authors": [
-        "Zongliang Wu",
-        "Yeung Wu",
-        "Jahedul Alam",
-        "Chi T Viet",
-        "Neeraja Dharmaraj",
-        "Andrea Molina",
-        "Gemalene Sunga",
-        "Simon Young",
-        "Moran Amit",
-        "Xin Li",
-        "Daniel Bernabe",
-        "Haogang Cai",
-        "Dong Meng",
-        "Yi Ye"
+        "Luxiang Zou",
+        "Kaiwen Yang",
+        "Chuyao Wang",
+        "Yeke Yu",
+        "Xiaoyu Zhang",
+        "Chuan Lu",
+        "Jieyun Zhao",
+        "An Qin",
+        "Dongmei He"
       ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Head and neck cancer (HNC) presents significant clinical challenges due to its complex tumor biology, heterogeneous microenvironment, and limited therapeutic outcomes. Hydrogels, an innovative biopolymeric material, have gained considerable attention in both basic and translational oncology owing to their biocompatibility, biodegradability, tunable physicochemical properties, and ability to recapitulate the native tissue environment. This review provides a comprehensive overview of HNC epidemiology, molecular and cellular mechanisms, current and emerging therapeutic approaches, and the defining features of the tumor microenvironment. We then highlight diverse hydrogel systems under development, detailing their structural characteristics and biomedical applications. Hydrogel-based platforms have advanced tumor modeling by enabling three-dimensional (3D) culture systems that more accurately reflect in vivo conditions compared to conventional two-dimensional (2D) models. Cutting-edge technologies, including 3D bioprinting and tumor-on-a-chip microfluidic systems, offer new opportunities for precision modeling and drug testing in HNC. In addition, hydrogels are being engineered for therapeutic applications, such as localized and sustained drug delivery, immunomodulation, and tissue regeneration following tumor resection. Finally, we critically examine the challenges and limitations of current hydrogel-based approaches and outline future directions for their integration into HNC research and clinical practice.",
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Abnormal mechanical stress plays a crucial role in the progression of osteoarthritis (OA). Key factors regulating mechanical response remain to be explored. This study harvested synovium fluids from 96 temporomandibular disorders (TMD) patients and revealed that miR-330 was significantly reduced under abnormal mechanical stress. Similarly, the expression of miR-330 is also decreased in cartilage and subchondral bone tissue from OA clinical specimens and animal models. Global knockout of miR-330 aggravated osteoarthritis development in both temporomandibular joint and knee joint. Conditional knockout of miR-330 in either chondrocytes or osteoclasts exhibited a similar phenotype in both knee and TMJ mechanical instable animal models, suggesting the importance of miR-330 in both types of cells. Further molecular mechanism exploration unveiled that miR-330 can regulate the catabolism of chondrocytes and osteoclasts via suppressing CTGF, FGFR1, and EPOR as well as key inflammatory cytokines such as IL-1β and TNF-α. More importantly, intra-articular supplement of miR-330 exerts a therapeutic effect by mitigating the detrimental impacts of abnormal mechanical stress, where inhibition of chondrocytes apoptosis, osteoclasts activation, and inflammation were further confirmed via single-cell RNA sequencing analysis. In conclusion, this study for the first time revealed that miR-330 is a mechanical responsive, osteoarthritis protective micro RNA. We provide evidence that miR-330 has potential diagnostic and therapeutic value for both temporomandibular and knee OA.",
       "objective": "",
       "study_methods": "",
       "methods": "",
       "results": "",
-      "conclusion": "",
+      "conclusion": ", this study for the first time revealed that miR-330 is a mechanical responsive, osteoarthritis protective micro RNA. We provide evidence that miR-330 has potential diagnostic and therapeutic value for both temporomandibular and knee OA.",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41713051/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42212804/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2219,6 +2244,34 @@
       ]
     },
     {
+      "pmid": "41848236",
+      "title": "Opioid Dependency After Craniomaxillofacial Trauma Surgery.",
+      "authors": [
+        "Amrita Hari-Raj",
+        "Sai D Challapalli",
+        "Matt Keller",
+        "Joanna Buss",
+        "Dorina Kallogjeri",
+        "Jay F Piccirillo",
+        "Emily A Spataro"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "The opioid crisis has led to significant morbidity and mortality. A component of this is attributable to overdoses on prescribed opioids. A prior study estimated that 39% of opioid prescriptions after craniomaxillofacial (CMF) trauma were potentially inappropriate prescriptions. The goal of this study was to identify factors associated with potentially inappropriate and prolonged opioid prescriptions in the postoperative CMF trauma patient population. Retrospective cohort. Merative™ MarketScan® Commercial & Multi-State Medicaid Databases (2015-2022). Patients undergoing CMF trauma surgery were identified and stratified based on whether they had commercial versus Medicaid insurance. The association of prolonged opioid prescription length with demographic, comorbid, and surgical factors was investigated. A total of 23,985 patients from 2015 to 2022 underwent CMF trauma surgery and received postoperative opioid prescriptions. The average prescription length was significantly lower in the commercially insured cohort versus the Medicaid cohort (24.6 days vs 33.7 days), and 22% of prescriptions were potentially inappropriate in nature. A diagnosis of chronic pain, as well as having 2 overlapping opioid prescriptions or an extended-release opioid prescription, had the highest adjusted odds of a prescription longer than 30 days. Although potentially inappropriate prescriptions after CMF trauma surgery decreased from a prior estimate (39% vs 22%), inappropriate prescribing practices are highly associated with prolonged opioid prescriptions. Providers must ensure patients do not have an existing opioid prescription before writing an additional one and should not dispense extended-release formulations in the acute postoperative setting.",
+      "objective": "",
+      "study_methods": "Patients undergoing CMF trauma surgery were identified and stratified based on whether they had commercial versus Medicaid insurance. The association of prolonged opioid prescription length with demographic, comorbid, and surgical factors was investigated.",
+      "methods": "Patients undergoing CMF trauma surgery were identified and stratified based on whether they had commercial versus Medicaid insurance. The association of prolonged opioid prescription length with demographic, comorbid, and surgical factors was investigated.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41848236/",
+      "pmcid": "PMC13060026",
+      "figure_urls": []
+    },
+    {
       "pmid": "41806541",
       "title": "Patient satisfaction in orthognathic surgery and the role of expectations.",
       "authors": [
@@ -2884,38 +2937,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "40518866",
-      "title": "Quality of Life in Craniofacial Microsomia: Resilience Through Young Adulthood.",
-      "authors": [
-        "Dominic J Romeo",
-        "Leigh Friedman",
-        "Manisha Banala",
-        "Carlos E Barrero",
-        "Benjamin B Massenburg",
-        "Jinggang J Ng",
-        "Meagan Wu",
-        "Leanne Magee",
-        "Jordan W Swanson",
-        "Jesse A Taylor",
-        "Scott P Bartlett"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "ObjectiveWhile studies have analyzed the quality of life (QOL) in children with craniofacial microsomia (CFM), little is known about QOL in adults with CFM. This study compares QOL in adults with CFM to a comparative group using a validated questionnaire.DesignCross-sectional.SettingTertiary care center.Patients, ParticipantsAdults aged 18 years or older with CFM were contacted and administered the World Health Organization (WHO) QOL Biomedical Research and Educating Foundation questionnaire.Main Outcome Measure(s)Quality of life in adults with CFM.ResultsOne hundred and fourteen patients met inclusion criteria, 40 (35.1%) were successfully contacted, and 28 (24.6%) completed the questionnaire in 8.6 ± 2.6 min. Respondents were 23.3 ± 4.6 years old (minimum 18.4, maximum 32.8 years) with 16 (57.1%) females and 12 (42.9%) males. This cohort of adults with CFM scored lower in the physical domain (13.8 ± 1.7 vs 15.5 ± 3.2, P < .01), similar in the psychological (14.7 ± 1.9 vs 13.8 ± 3.2, P > .05), and higher in both the social (16.0 ± 3.2 vs 13.2 ± 3.2, P < .01) and environmental (16.8 ± 1.6 vs 11.7 ± 2.7, P < .01) domains than the WHO norm sample. There was no association between overall phenotypic severity or craniofacial surgical burden and QOL (P > .05).ConclusionsAdults treated for CFM perceive their physical health QOL to be lower than the WHO norms but report higher QOL in the social and environmental domains. Adult patients with CFM may demonstrate resilience and can live high-quality lives. These results underscore that their lives are not defined by CFM.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "One hundred and fourteen patients met inclusion criteria, 40 (35.1%) were successfully contacted, and 28 (24.6%) completed the questionnaire in 8.6 ± 2.6 min. Respondents were 23.3 ± 4.6 years old (minimum 18.4, maximum 32.8 years) with 16 (57.1%) females and 12 (42.9%) males. This cohort of adults with CFM scored lower in the physical domain (13.8 ± 1.7 vs 15.5 ± 3.2, P < .01), similar in the psychological (14.7 ± 1.9 vs 13.8 ± 3.2, P > .05), and higher in both the social (16.0 ± 3.2 vs 13.2 ± 3.2, P < .01) and environmental (16.8 ± 1.6 vs 11.7 ± 2.7, P < .01) domains than the WHO norm sample. There was no association between overall phenotypic severity or craniofacial surgical burden and QOL (P > .05).ConclusionsAdults treated for CFM perceive their physical health QOL to be lower than the WHO norms but report higher QOL in the social and environmental domains. Adult patients with CFM may demonstrate resilience and can live high-quality lives. These results underscore that their lives are not defined by CFM.",
-      "conclusion": "Adults treated for CFM perceive their physical health QOL to be lower than the WHO norms but report higher QOL in the social and environmental domains. Adult patients with CFM may demonstrate resilience and can live high-quality lives. These results underscore that their lives are not defined by CFM.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40518866/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "40388645",
       "title": "Orthodontic-Surgical Approach for Treating Skeletal Class II Malocclusion with Severe Mandibular Hypoplasia in Williams Syndrome.",
       "authors": [
@@ -2968,6 +2989,123 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40302530/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42215803",
+      "title": "Three-dimensional virtual planning reduces operative time in orthognathic surgery: a procedure-specific retrospective study incorporating additive manufacturing.",
+      "authors": [
+        "Yuki Kunisada",
+        "Norie Yoshioka",
+        "Akiyoshi Nishiyama",
+        "Masanori Masui",
+        "Koichi Kadoya",
+        "Hiroaki Takakura",
+        "Kyoichi Obata",
+        "Kisho Ono",
+        "Koki Umemori",
+        "Soichiro Ibaragi"
+      ],
+      "publication_date": "2026-May-30",
+      "publication_date_iso": "2026-05-30",
+      "abstract": "Three-dimensional virtual surgical planning (3D-VSP) is increasingly used in orthognathic surgery; however, procedure-specific evidence regarding its real-world impact on operative efficiency and intraoperative blood loss remains limited. This study evaluated the association between 3D-VSP implementation and operative time, and intraoperative blood loss across different orthognathic procedures. This retrospective cohort study included consecutive patients who underwent orthognathic surgery at a single academic institution before (2019-2020) and after (2023-2024) the full implementation of 3D-VSP integrated with in-house additive manufacturing (n = 344). Procedure-specific multivariable linear regression analyses were performed, adjusting for age, sex, and surgeon experience. After 3D-VSP implementation, operative time was reduced by approximately 36 min in sagittal split ramus osteotomy (SSRO), 50 min in Le Fort I (LF1) combined with SSRO, and 42 min in segmental LF1 combined with SSRO, representing a 15-20% reduction in total operative time. No meaningful reduction was observed in intraoral vertical ramus osteotomy (IVRO)-based procedures. A statistically significant, but modest, reduction in intraoperative blood loss was observed only in SSRO. The time-saving effect was independent of surgeon experience. The clinical benefit of 3D-VSP in orthognathic surgery is procedure-dependent and most evident in geometrically complex SSRO-based operations. These findings support the targeted implementation of digital planning and additive manufacturing workflows to improve operative efficiency in routine practice.",
+      "objective": "",
+      "study_methods": "This retrospective cohort study included consecutive patients who underwent orthognathic surgery at a single academic institution before (2019-2020) and after (2023-2024) the full implementation of 3D-VSP integrated with in-house additive manufacturing (n = 344). Procedure-specific multivariable linear regression analyses were performed, adjusting for age, sex, and surgeon experience.",
+      "methods": "This retrospective cohort study included consecutive patients who underwent orthognathic surgery at a single academic institution before (2019-2020) and after (2023-2024) the full implementation of 3D-VSP integrated with in-house additive manufacturing (n = 344). Procedure-specific multivariable linear regression analyses were performed, adjusting for age, sex, and surgeon experience.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42215803/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42214412",
+      "title": "Interlayer-aware postoperative facial appearance prediction in orthognathic surgery with bio-geometric guidance.",
+      "authors": [
+        "Xinguo Zhang",
+        "Han Bao",
+        "Jiacheng Zhong",
+        "Lofti Senhadji",
+        "Huazhong Shu",
+        "Jiasong Wu",
+        "Luwei Liu",
+        "Bin Yan"
+      ],
+      "publication_date": "2026-May-29",
+      "publication_date_iso": "2026-05-29",
+      "abstract": "Accurate prediction of postoperative facial appearance is essential for orthognathic surgical planning, yet remains challenging due to the nonlinear biomechanical coupling between bone and soft tissue. While deep learning methods offer a faster alternative to traditional biomechanical simulation, they typically map bony displacements directly to facial surface deformation, overlooking the intervening soft-tissue layers with distinct biomechanical properties through which displacement is progressively transmitted. Moreover, the many-to-one effect of regional bony movements on each soft-tissue point remains insufficiently captured. We propose a novel network that introduces an Interlayer Mixture-of-Experts mechanism to decouple bone-to-surface deformation propagation into three biomechanically inspired proxy representations at different tissue depth levels. Since the contribution of each depth level varies across individuals and facial regions, a gated routing network adaptively weights each layer's contribution, providing a data-driven approximation of spatially heterogeneous, patient-specific deformation transmission. Additionally, a Bio-Geometric Convolution module captures regional bony influences through elastic-weighted neighborhood aggregation. Evaluations on 88 orthognathic surgery patients demonstrate that the proposed method achieves a mean whole-face error of 1.39 mm, below the 2 mm clinical threshold, with statistically significant improvements over all baselines (p < 0.05) and the highest clinician acceptance rate (94%). By incorporating bio-geometric priors into a deep learning framework, our approach enables a more physically grounded and interpretable prediction paradigm, supporting efficient and clinically reliable surgical planning.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42214412/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42212873",
+      "title": "Mechanisms Matter: Intentional Injury and Its Impact on Pediatric Facial Fractures.",
+      "authors": [
+        "Alexandra M Dunker",
+        "Christopher M Williams",
+        "Anthony V Basta",
+        "Tien Do",
+        "Ellen Wang",
+        "Dustin R McHalffey",
+        "Racquel V Lyn",
+        "Joseph K Moffitt",
+        "D'Arcy J Wainwright",
+        "Danielle L Sobol",
+        "Matthew R Greives"
+      ],
+      "publication_date": "2026-May-29",
+      "publication_date_iso": "2026-05-29",
+      "abstract": "Pediatric facial fractures resulting from violent mechanisms (eg, assault, gunshot wounds, and stabbings) represent a distinct subset of trauma with unique epidemiologic and clinical implications. This study evaluates how violent mechanisms influence pediatric facial fracture patterns, management, and demographic disparities. The authors retrospectively reviewed patients younger than 18 years with facial fractures, comparing violent mechanisms (VM) and nonviolent mechanisms (NVM). VM were defined as intentional injury inflicted by others or oneself. Patients were treated at a Level 1 trauma center between January 2006 and February 2025. Variables included demographics, fracture characteristics, surgical intervention, cervical spine injury, and traumatic brain injury (TBI). Categorical variables were analyzed using χ2 or Fisher's exact tests, and continuous variables with the Wilcoxon tests. Multivariable predictors of VM were assessed using logistic regression, adjusting for demographic and injury variables. Among 1845 patients, 320 (17%) sustained facial fractures due to VM. Most were male (86%) and African American (36%). Assault accounted for 63% of VM cases, followed by gunshot wounds (34%) and stabbings (3%). Male sex (OR 2.4, P<0.001), Hispanic ethnicity (OR 2.32, P<0.001), increasing age (OR 1.28/year, P<0.001), and mandibular fractures (OR 2.02, P<0.001) were independently associated with VM. Loss of consciousness was associated with lower odds of VM (OR 0.38, P<0.001). Violent injuries more often required operative management (54% versus 32%, P<0.001). Violent pediatric facial trauma is associated with higher operative rates, mandibular fractures, and disproportionate impact on older male adolescents. Recognition of these patterns may improve triage, imaging decisions, and timely surgical consultation.",
+      "objective": "",
+      "study_methods": "The authors retrospectively reviewed patients younger than 18 years with facial fractures, comparing violent mechanisms (VM) and nonviolent mechanisms (NVM). VM were defined as intentional injury inflicted by others or oneself. Patients were treated at a Level 1 trauma center between January 2006 and February 2025. Variables included demographics, fracture characteristics, surgical intervention, cervical spine injury, and traumatic brain injury (TBI). Categorical variables were analyzed using χ2 or Fisher's exact tests, and continuous variables with the Wilcoxon tests. Multivariable predictors of VM were assessed using logistic regression, adjusting for demographic and injury variables.",
+      "methods": "The authors retrospectively reviewed patients younger than 18 years with facial fractures, comparing violent mechanisms (VM) and nonviolent mechanisms (NVM). VM were defined as intentional injury inflicted by others or oneself. Patients were treated at a Level 1 trauma center between January 2006 and February 2025. Variables included demographics, fracture characteristics, surgical intervention, cervical spine injury, and traumatic brain injury (TBI). Categorical variables were analyzed using χ2 or Fisher's exact tests, and continuous variables with the Wilcoxon tests. Multivariable predictors of VM were assessed using logistic regression, adjusting for demographic and injury variables.",
+      "results": "ing from violent mechanisms (eg, assault, gunshot wounds, and stabbings) represent a distinct subset of trauma with unique epidemiologic and clinical implications. This study evaluates how violent mechanisms influence pediatric facial fracture patterns, management, and demographic disparities. The authors retrospectively reviewed patients younger than 18 years with facial fractures, comparing violent mechanisms (VM) and nonviolent mechanisms (NVM). VM were defined as intentional injury inflicted by others or oneself. Patients were treated at a Level 1 trauma center between January 2006 and February 2025. Variables included demographics, fracture characteristics, surgical intervention, cervical spine injury, and traumatic brain injury (TBI). Categorical variables were analyzed using χ2 or Fisher's exact tests, and continuous variables with the Wilcoxon tests. Multivariable predictors of VM were assessed using logistic regression, adjusting for demographic and injury variables. Among 1845 patients, 320 (17%) sustained facial fractures due to VM. Most were male (86%) and African American (36%). Assault accounted for 63% of VM cases, followed by gunshot wounds (34%) and stabbings (3%). Male sex (OR 2.4, P<0.001), Hispanic ethnicity (OR 2.32, P<0.001), increasing age (OR 1.28/year, P<0.001), and mandibular fractures (OR 2.02, P<0.001) were independently associated with VM. Loss of consciousness was associated with lower odds of VM (OR 0.38, P<0.001). Violent injuries more often required operative management (54% versus 32%, P<0.001). Violent pediatric facial trauma is associated with higher operative rates, mandibular fractures, and disproportionate impact on older male adolescents. Recognition of these patterns may improve triage, imaging decisions, and timely surgical consultation.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42212873/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42212868",
+      "title": "Rehabilitation of Atrophic Maxilla With Le-Fort I Osteotomy Combined With Dental and Zygomatic Implants: Ten-Year Follow-Up.",
+      "authors": [
+        "Ismail D Kocyigit",
+        "Rukiye C Beker",
+        "Fatih M Coskunses",
+        "Tolga Pekperdahci"
+      ],
+      "publication_date": "2026-May-29",
+      "publication_date_iso": "2026-05-29",
+      "abstract": "The aim of this report is to present a clinical case demonstrating the functional and esthetic rehabilitation of a patient with an atrophic maxilla using dental and zygomatic implants simultaneously, orthognathic surgery, and without the use of graft materials and techniques. In this case, a 40-year-old male patient with severe maxillary atrophy underwent combined dental and zygomatic implant placement following Le Fort I osteotomy in 2016. After a 10-year follow-up period, no complications or complaints were observed, and follow-up is still ongoing. This case report aims to emphasize the clinical feasibility of combining dental and zygomatic implants with Le Fort I osteotomy in the management of atrophic jaws and to provide insight for future clinical management of such cases.",
+      "objective": "of this report is to present a clinical case demonstrating the functional and esthetic rehabilitation of a patient with an atrophic maxilla using dental and zygomatic implants simultaneously, orthognathic surgery, and without the use of graft materials and techniques. In this case, a 40-year-old male patient with severe maxillary atrophy underwent combined dental and zygomatic implant placement following Le Fort I osteotomy in 2016. After a 10-year follow-up period, no complications or complaints were observed, and follow-up is still ongoing. This case report aims to emphasize the clinical feasibility of combining dental and zygomatic implants with Le Fort I osteotomy in the management of atrophic jaws and to provide insight for future clinical management of such cases.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42212868/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3470,53 +3608,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13197344/bin/10006_2026_1576_Fig2_HTML.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13197344/bin/10006_2026_1576_Fig3_HTML.jpg"
       ]
-    },
-    {
-      "pmid": "42173711",
-      "title": "Jael syndrome, or the nasty arrow.",
-      "authors": [
-        "L Hassler",
-        "J-B Morvan",
-        "M Fieux"
-      ],
-      "publication_date": "2026-May-22",
-      "publication_date_iso": "2026-05-22",
-      "abstract": "The term \"Jael syndrome\" is a symbolic analogy referring to penetrating craniofacial trauma caused, intentionally or accidentally, by blade or similar weapon in which the foreign body is kept in-situ during initial management. It is rare in clinical and medicolegal practice, but is potentially life-threatening or with neurologic and functional impact. Its name comes from an episode in the Book of Judges in the Hebrew Bible (Old Testament) in which Jael, a woman, kills the Canaanite general Sisera by hammering a tent peg through his temple while he is asleep, thus ensuring the liberation of the people of Israel. Over the centuries, the story had an enduring influence on the European artistic and cultural imagination, with numerous paintings, sculptures, musical and literary compositions memorializing the symbolic power of a unique act of violence. Artists such as Abraham Godyn and Artemisia Gentileschi, baroque sculptors, composers such as Georg Friedrich Haendel and French writers such as Victor Hugo gave the figure of Jael a lasting place in our cultural heritage. In medicine, the first description of a penetrating craniofacial injury with the foreign body in-situ was by Geoffrey Jefferson, a British neurosurgeon, in the mid-20th century, who reported a case of orbitocranial impalement. Subsequently, a few rare cases mainly involved isolated case reports or retrospective series, with consequently low levels of evidence for optimal management. Via a present-day case of penetrating facial trauma involving an arrow, this article reviews diagnostic and therapeutic issues in Jael syndrome. The case illustrates the importance of management in a well-equipped tertiary referral center with specialized medical-surgical multidisciplinary teamwork. Management is based on fundamental principles: systematized initial clinical assessment using the ABCDE (ATLS®) algorithm; not moving or removing the foreign body during the initial stage; early protection of the airway and vascular system; and adapted imaging, ideally by head-and-neck CT angiography. Current strategies favor personalized, selective management based on clinical examination, lesion topography and hemodynamic stability, rather than systematic surgical exploration. However, multicenter prospective studies are needed to refine guidelines, notably by integrating advanced imaging and minimally invasive techniques in order to improve functional prognosis in these rare but high-risk trauma.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42173711/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42172911",
-      "title": "Nonsurgical treatment of an adult Class II division 1 right-subdivision malocclusion with reduced periodontal support using third-molar extraction and palatal miniscrew-assisted distalization: A case report.",
-      "authors": [
-        "Viet Anh Nguyen",
-        "Thi Hanh Nguyen"
-      ],
-      "publication_date": "2026-May-22",
-      "publication_date_iso": "2026-05-22",
-      "abstract": "Adult Class II patients with protrusive maxillary incisors, a constricted maxillary arch, deep overbite, and reduced periodontal support are challenging to manage when orthognathic surgery is refused and preservation of the soft-tissue profile is a major concern. This case report describes the nonsurgical treatment of an adult patient with an Angle Class II division 1 right-subdivision malocclusion using maxillary third-molar extraction, self-ligating appliances, and miniscrew-assisted maxillary distalization, with successful transfer of anchorage from failed buccal miniscrews to palatal miniscrews. A 30-year-old man presented with maxillary anterior spacing, a constricted maxillary arch, excessive overjet, traumatic deep overbite, mild mandibular crowding, and generalized reduced periodontal support. Treatment was performed without premolar extraction using bite turbos, sequential archwires, intermaxillary elastics, maxillary third-molar extraction, and en masse maxillary distalization supported initially by buccal miniscrews and subsequently by palatal miniscrews after buccal screw failure. After 16 months of active treatment, facial and smile aesthetics were improved, with full maxillary incisor display and reduced buccal corridors. Bilateral Class I canine and molar relationships, coincident dental midlines, normal overjet and overbite, and good intercuspation were achieved. Periodontal re-evaluation showed a clinically stable periodontium. Successful nonsurgical correction of this adult Class II division 1 right-subdivision malocclusion was achieved without premolar extraction. Transfer of anchorage from failed buccal miniscrews to stable palatal miniscrews was a key factor in completing treatment and obtaining favourable occlusal, dentoalveolar, periodontal, and aesthetic outcomes.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42172911/",
-      "pmcid": "",
-      "figure_urls": []
     }
   ]
 }
