@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T06:26:02Z",
+  "updated_at": "2026-06-01T07:05:42Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1094,6 +1094,37 @@
       "figure_urls": []
     },
     {
+      "pmid": "41985722",
+      "title": "GDNF methylation is associated with pathological parameters in colorectal adenocarcinoma and the roles of circulating tumour cells.",
+      "authors": [
+        "Zhuo Chen",
+        "Jun Yu Woon",
+        "Neda Moetamedirad",
+        "Md Sajedul Islam",
+        "Gihani Vidanapathirana",
+        "Md Nurujjaman",
+        "Cu Tai Lu",
+        "Bin Qiao",
+        "Vinod Gopalan",
+        "Alfred King-Yin Lam"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Circulating tumour cells (CTCs) provide a minimally invasive platform for disease monitoring and molecular profiling in colorectal carcinoma (CRC). This study aimed to identify prognostically relevant DNA methylation biomarkers and assess their translational potential in CTC-based liquid biopsy. Candidate CpG sites were first screened in silico using differential methylation analysis, LASSO regression, and Cox proportional hazards modelling based on The Cancer Genome Atlas-Colon Adenocarcinoma (TCGA-COAD) dataset, which included 430 tumour and 39 non-tumour colon mucosa samples. Three representative CpG sites (GPR125, GDNF, and ADCY9) were subsequently validated in an independent cohort of 62 CRC patients using quantitative methylation-specific polymerase chain reaction (PCR), with paired comparisons between CTCs and tumour tissues available in 32 cases. A five-CpG prognostic model derived from TCGA data was significantly associated with overall survival (hazard ratio = 4.23, p < 0.001), with time-dependent area under the curves (AUC)s of 0.718, 0.765, and 0.787 at 1, 3, and 5 years. In tumour tissues, GDNF methylation showed significant associations with age, tumour site, histological grade, T stage, and lymphovascular invasion, while GPR125 methylation was associated with lymphovascular invasion, and ADCY9 showed no significant clinicopathological correlations. Network analysis further identified GDNF as a distinct methylation module linked to multiple adverse pathological features. These findings suggest that DNA methylation biomarkers, particularly GDNF, are closely associated with tumour aggressiveness in CRC and support their potential application in both tissue-based assessment and CTC-driven molecular profiling.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41985722/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41966874",
       "title": "Incidental multilocular radiolucencies of the mandibular angle.",
       "authors": [
@@ -1413,34 +1444,85 @@
       "figure_urls": []
     },
     {
-      "pmid": "41713052",
-      "title": "DNA tetrahedron-mediated vascular targeted delivery of astragaloside IV enhances distraction osteogenesis via PI3K/AKT/FOXO pathway.",
+      "pmid": "42219396",
+      "title": "Deep learning for automatic segmentation of the inferior alveolar nerve using a hybrid CNN-transformer framework.",
       "authors": [
-        "Yisheng Feng",
-        "Haojie Fu",
-        "Peiqi Zhu",
-        "Shebin Hong",
-        "Yinyu Shang",
-        "Yanchu Chen",
-        "Hongpu Wei",
-        "Hao Wu",
-        "Xuanping Huang",
-        "Weidong Jiang",
-        "Xudong Wang"
+        "Ho-Kyung Lim",
+        "Seok-Ki Jung",
+        "Yongwon Cho",
+        "In-Seok Song"
       ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Bone regeneration during distraction osteogenesis (DO) remains limited by insufficient vascularization, which delays consolidation and compromises clinical outcomes. Here, we developed a vascular-targeted DNA nanoplatform (TDN@Ast-AptCD34) for the delivery of Astragaloside IV (Ast), a natural compound with pro-angiogenic and osteogenic properties. The nanoplatform integrated a DNA tetrahedron carrier with a vascular-targeting aptamer (AptCD34) and was further incorporated into a biocompatible mHA-PVA hydrogel for localized and sustained release. Physicochemical analyses confirmed its stable structure, efficient Ast encapsulation, and enhanced uptake by endothelial progenitor cells (EPCs). Functionally, TDN@Ast-AptCD34 significantly promoted EPC migration, tube formation, and paracrine-mediated osteogenesis of jaw bone mesenchymal stem cells (JBMSCs), thereby reinforcing angiogenesis-osteogenesis coupling. Integrated network pharmacology, RNA sequencing, and molecular dynamics simulations identified PI3K/AKT/FOXO signaling as the central downstream axis. Mechanistically, TDN@Ast-AptCD34 activated PI3K/AKT signaling and relieved FOXO1-mediated repression of angiogenic genes, which was validated by rescue experiments under PI3K inhibition. In vivo, the hydrogel-delivered nanoplatform markedly enhanced early vascularization and robust bone regeneration in a mandibular DO model, whereas these effects were significantly attenuated upon PI3K inhibition by LY294002. Collectively, this study establishes TDN@Ast-AptCD34 as a multifunctional nanoplatform that couples angiogenesis with osteogenesis via PI3K/AKT/FOXO signaling, providing a promising strategy for vascularized bone regeneration in challenging clinical settings.",
+      "publication_date": "2026-Jun-01",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Accurate identification of the inferior alveolar nerve (IAN) is essential for preventing nerve injury during dental and maxillofacial procedures such as tooth extraction, implant placement, and orthognathic surgery. However, manual annotation of the IAN in cone-beam computed tomography (CBCT) is challenging because of image noise, anatomical variability, and the complex three-dimensional curvature of the nerve pathway. In this study, we propose an improved automatic segmentation framework for IAN identification in CBCTs using a hybrid CNN-attention architecture built upon the nnU-Net framework. The proposed framework introduces a task-specific CNN-attention hybrid architecture with stage-restricted Permuted Adaptive Instance Normalization (Permuted AdaIN) and decoder-stage contextual refinement to improve robustness to appearance variability while preserving anatomical continuity in thin tubular nerve segmentation. Permuted AdaIN is selectively applied to encoder stage 2 to encourage appearance-invariant feature representations while preserving boundary-sensitive anatomical structures. In addition, the decoder attention module refines contextual interactions between encoder and decoder features after skip fusion, improving segmentation consistency of the thin tubular nerve structure. A total of 130 CBCTs from two institutions were used for training and evaluation. The proposed method achieved Dice similarity coefficients of 0.63 ± 0.17 on the internal dataset (KUAH) and 0.62 ± 0.12 on the external dataset (KUGH), showing a modest numerical improvement compared with nnU-Net (0.60 ± 0.18 and 0.59 ± 0.11, respectively). In addition, the proposed method achieved lower boundary errors, with HD95 values of 2.96 ± 1.27 mm and 3.72 ± 7.63 mm, and ASSD values of 1.22 ± 0.49 mm and 1.29 ± 2.10 mm for the internal and external datasets, respectively. Qualitative analysis further demonstrated improved boundary alignment and continuity of the segmented nerve trajectory. These results suggest that the proposed framework may improve segmentation consistency and boundary agreement in automated IAN segmentation on CBCT images, although the magnitude of improvement over nnU-Net should be interpreted cautiously.",
       "objective": "",
       "study_methods": "",
       "methods": "",
+      "results": "suggest that the proposed framework may improve segmentation consistency and boundary agreement in automated IAN segmentation on CBCT images, although the magnitude of improvement over nnU-Net should be interpreted cautiously.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42219396/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42218011",
+      "title": "Imaging biomarkers as surrogate endpoints for clinical trials on permanent tooth regeneration in congenital tooth agenesis.",
+      "authors": [
+        "Akiko Murashima-Suginami",
+        "Takayoshi Ishimori",
+        "Takeshi Sawada",
+        "Akitoshi Takamine",
+        "Honoka Kiso",
+        "Hayato Ohshima",
+        "Katsu Takahashi"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Multiple genes are responsible for the absence of teeth at birth, known as congenital tooth agenesis. The humanized anti-USAG-1 antibody, TRG035, was developed for use in molecular-targeted therapy for the regeneration of congenitally absent teeth in patients with congenital tooth agenesis. Detecting congenital tooth agenesis in children aged 2-5 years using X-ray examination alone is challenging. Therefore, developing imaging biomarkers that identify early tooth buds and ridges during the bud and early cap stages is essential. In this study, the aim was to develop imaging biomarkers by combining MRI and CT/X-rays to identify each developmental stage from the dental lamina to the tooth germ. Ferret pups aged 0-25 days were photographed and micro-CT was performed. An imaging biomarker using MRI and CT/X-rays were developed that could visualize the dental lamina and pre-calcified tooth germ, both of which were previously difficult to accurately identify. This system is expected to enable the accurate diagnosis of congenital tooth agenesis and contribute to the clinical development of treatments for this condition.",
+      "objective": "was to develop imaging biomarkers by combining MRI and CT/X-rays to identify each developmental stage from the dental lamina to the tooth germ. Ferret pups aged 0-25 days were photographed and micro-CT was performed. An imaging biomarker using MRI and CT/X-rays were developed that could visualize the dental lamina and pre-calcified tooth germ, both of which were previously difficult to accurately identify. This system is expected to enable the accurate diagnosis of congenital tooth agenesis and contribute to the clinical development of treatments for this condition.",
+      "study_methods": "Ferret pups aged 0-25 days were photographed and micro-CT was performed.",
+      "methods": "Ferret pups aged 0-25 days were photographed and micro-CT was performed.",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41713052/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42218011/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42218010",
+      "title": "Contribution of the glossopharyngeal nerve in imidapril-mediated enhancement of the swallowing reflex in rats.",
+      "authors": [
+        "Takashi Moriya",
+        "Kiyomi Nakayama",
+        "Ayako Mochizuki",
+        "Masanori Dantsuji",
+        "Kiyohito Sasa",
+        "Seigo Ohba",
+        "Tatsuo Shirota",
+        "Tomio Inoue",
+        "Shiro Nakamura"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Imidapril, an angiotensin-converting enzyme inhibitor, enhances the swallowing reflex and reduces the incidence of aspiration pneumonia. The aim was to identify the primary afferent fibers involved in imidapril-mediated enhancement of the swallowing reflex in an arterially perfused rat model. Enhancement of swallowing burst amplitude was abolished following bilateral glossopharyngeal nerve transection, whereas enhancement persisted after bilateral superior laryngeal nerve transection. These findings suggest that the glossopharyngeal nerve is essential for imidapril-enhanced swallowing. The results provide insights into the neural mechanisms underlying modulation of the swallowing reflex by pharmacological agents.",
+      "objective": "was to identify the primary afferent fibers involved in imidapril-mediated enhancement of the swallowing reflex in an arterially perfused rat model. Enhancement of swallowing burst amplitude was abolished following bilateral glossopharyngeal nerve transection, whereas enhancement persisted after bilateral superior laryngeal nerve transection. These findings suggest that the glossopharyngeal nerve is essential for imidapril-enhanced swallowing. The",
+      "study_methods": "",
+      "methods": "",
+      "results": "provide insights into the neural mechanisms underlying modulation of the swallowing reflex by pharmacological agents.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42218010/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1846,6 +1928,35 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129251/bin/JHN-39-0-g002.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129251/bin/JHN-39-0-g002.gif"
       ]
+    },
+    {
+      "pmid": "42033993",
+      "title": "Outcomes of cosmetic suturing versus tissue adhesive for pediatric forehead lacerations: A retrospective cohort study adjusting for injury severity.",
+      "authors": [
+        "Yunzhen Zhang",
+        "Yingtie Cui",
+        "Fangfang Li",
+        "Lei Xue",
+        "Qi Liu",
+        "Yiming Wang",
+        "Xiang Li",
+        "Zhaoming Liu"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "To compare the clinical outcomes of cosmetic layered suturing versus medical tissue adhesive in pediatric forehead lacerations, with specific emphasis on the risk of dynamic expression dimpling and long-term scar quality, after adjusting for baseline wound severity. A retrospective cohort study was conducted on 265 pediatric patients with acute forehead trauma treated between October 2023 and May 2024. Patients were stratified into a Cosmetic Suture Group (n=135) and Tissue Adhesive Group (n=130). A post-hoc power analysis confirmed sample adequacy. Baseline characteristics were analyzed to identify selection bias. The primary outcomes were the incidence of dynamic expression dimpling and 12-month Vancouver Scar Scale (VSS) score. Multivariable regression and sensitivity analyses using propensity score matching (PSM) were performed. Significant selection bias was observed: the Suture Group managed wounds that were significantly deeper (P<0.001) and longer (P<0.001). Despite treating less severe injuries, the Adhesive Group exhibited a significantly higher incidence of postoperative dynamic expression dimpling (11.5% vs. 3.0%, P=0.007). Sensitivity analysis via PSM confirmed that tissue adhesive was an independent risk factor for expression dimpling (OR=3.92, P=0.029). Regarding long-term scar appearance, linear regression revealed that 12-month VSS scores were predicted by initial wound depth (β=0.312, P<0.001) and the use of postoperative laser therapy (β=-0.205, P=0.001), rather than the closure method itself (P=0.345). Although tissue adhesives offer procedural convenience, they are associated with a quadrupled risk of dynamic expression dimpling compared to suturing, likely owing to inadequate approximation of the underlying frontalis muscle. Layered cosmetic suturing is essential for preventing contour deformities in deep lacerations. Furthermore, postoperative laser therapy is a validated independent factor for optimizing scar outcomes.",
+      "objective": "",
+      "study_methods": "A retrospective cohort study was conducted on 265 pediatric patients with acute forehead trauma treated between October 2023 and May 2024. Patients were stratified into a Cosmetic Suture Group (n=135) and Tissue Adhesive Group (n=130). A post-hoc power analysis confirmed sample adequacy. Baseline characteristics were analyzed to identify selection bias. The primary outcomes were the incidence of dynamic expression dimpling and 12-month Vancouver Scar Scale (VSS) score. Multivariable regression and sensitivity analyses using propensity score matching (PSM) were performed.",
+      "methods": "A retrospective cohort study was conducted on 265 pediatric patients with acute forehead trauma treated between October 2023 and May 2024. Patients were stratified into a Cosmetic Suture Group (n=135) and Tissue Adhesive Group (n=130). A post-hoc power analysis confirmed sample adequacy. Baseline characteristics were analyzed to identify selection bias. The primary outcomes were the incidence of dynamic expression dimpling and 12-month Vancouver Scar Scale (VSS) score. Multivariable regression and sensitivity analyses using propensity score matching (PSM) were performed.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42033993/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "42019204",
@@ -2879,64 +2990,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "40920568",
-      "title": "A 5-Step Simplification of the Fisher Anatomical Subunit Cleft Lip Repair.",
-      "authors": [
-        "Jeffrey R Marcus",
-        "Alexander C Allori",
-        "Kate B Krucoff",
-        "Rose Trotta",
-        "Anna R Carlson"
-      ],
-      "publication_date": "2026-Jun-01",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Unilateral cleft lip repair methods have evolved from straight-line repairs to geometric procedures, rotation advancement, and contemporary hybrid techniques. The Fisher anatomical subunit repair is a versatile, effective, and highly reproducible technique. It uses mathematical precision in design, avoids multipoint closure, minimizes scar burden, and does not compromise horizontal lip length for vertical height in various deformities. Despite these benefits, the repair has been criticized for its complexity. The authors describe a 5-step distillation of the repair to clarify the procedure and provide surgeons adopting the technique with an entry point.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40920568/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "40681156",
-      "title": "Complications and Hardware Failure Following Synthetic Cranioplasty Implants and Free Flap Coverage.",
-      "authors": [
-        "Nicholas C Oleck",
-        "Kevin K Zhang",
-        "Ronnie L Shammas",
-        "Jonas A Nelson",
-        "Robert J Allen",
-        "Evan Matros",
-        "Yisong Geng",
-        "Amanda R Sergesketter",
-        "Hani I Naga",
-        "Detlev Erdmann",
-        "Brett T Phillips"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Composite defects of the scalp and calvarium are complex reconstructive problems. Bony reconstruction is often achieved with synthetic implants, demanding robust soft tissue coverage. In cases where the native scalp has been compromised, free tissue transfer may be indicated. The existing literature on this topic lacks a robust analysis of long-term outcomes and hardware retention rates. The current study is a multi-institutional review of composite calvarial reconstruction with free flap coverage of synthetic cranioplasty implants, focusing specifically on flap selection, long-term outcomes, hardware extrusion, and explantation rates. A retrospective review was conducted at two high-volume institutions for patients who had undergone cranioplasty and free tissue transfer between 2001 and 2022. Patient demographics and comorbidities, reconstructive indications, cranioplasty material, flap type, and complications within a 90-day period were collected. Implant exposure and explantation data were collected through follow-up. A total of 42 patients were identified with an average age of 59 years (SD 14.9). Prior scalp radiation was present in 54.7% of cases. Cranioplasty was most commonly indicated after tumor extirpation (88.0%), with titanium mesh as the most common material utilized (64.3%). The most commonly used free flaps were latissimus (45.2%), anterolateral thigh (ALT) (16.7%), and radial forearm (16.7%). The most common recipient vessels were the superficial temporal (64.2%), facial (21.4%), and superior thyroid (9.5%). Flap compromise requiring return to the operating room occurred in two patients (4.8%) and partial flap loss occurred in three patients (7.14%). Surgical complications occurred in 60% of cases with wound complications (33.3%) and surgical site infection (28.6%) being the most common. Implant extrusion occurred in 31% of cases at an average of 7.9 months (SD 30.1) after definitive reconstruction, and explantation was required in 42.9% of cases at an average of 12.8 months (SD 33.6). The average total length of follow-up was 27.1 months. This multi-institutional analysis found that patients who undergo composite cranial vault reconstruction and free flap coverage experience high rates of surgical complications, and over one-third of these patients experience implant extrusion or explantation. Although no individual patient-related risk factor was independently associated with increased complication rates, our findings suggest that flap composition and timing of reconstruction may influence hardware retention and should be carefully considered during preoperative planning.",
-      "objective": "",
-      "study_methods": "A retrospective review was conducted at two high-volume institutions for patients who had undergone cranioplasty and free tissue transfer between 2001 and 2022. Patient demographics and comorbidities, reconstructive indications, cranioplasty material, flap type, and complications within a 90-day period were collected. Implant exposure and explantation data were collected through follow-up.",
-      "methods": "A retrospective review was conducted at two high-volume institutions for patients who had undergone cranioplasty and free tissue transfer between 2001 and 2022. Patient demographics and comorbidities, reconstructive indications, cranioplasty material, flap type, and complications within a 90-day period were collected. Implant exposure and explantation data were collected through follow-up.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40681156/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "40388645",
       "title": "Orthodontic-Surgical Approach for Treating Skeletal Class II Malocclusion with Severe Mandibular Hypoplasia in Williams Syndrome.",
       "authors": [
@@ -3020,7 +3073,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42215803/",
-      "pmcid": "",
+      "pmcid": "PMC13221411",
       "figure_urls": []
     },
     {
