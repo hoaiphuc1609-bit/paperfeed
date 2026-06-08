@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T06:57:09Z",
+  "updated_at": "2026-06-08T06:50:16Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -58,7 +58,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
       "pmcid": "PMC12943813",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
+      ]
     },
     {
       "pmid": "42211773",
@@ -88,7 +93,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42211773/",
       "pmcid": "PMC13213728",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42005095",
@@ -120,7 +130,9 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005095/",
       "pmcid": "PMC13087713",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087713/bin/gr1.jpg"
+      ]
     },
     {
       "pmid": "41858234",
@@ -162,7 +174,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41858234/",
       "pmcid": "PMC13007456",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_PB.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_PB.jpg"
+      ]
     },
     {
       "pmid": "41582805",
@@ -189,7 +206,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41582805/",
       "pmcid": "PMC12851390",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.gif"
+      ]
     },
     {
       "pmid": "41563872",
@@ -212,7 +234,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41563872/",
       "pmcid": "PMC12825576",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.gif"
+      ]
     },
     {
       "pmid": "41431197",
@@ -236,7 +263,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41431197/",
       "pmcid": "PMC12777812",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0002_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0003_C.jpg"
+      ]
     },
     {
       "pmid": "41379645",
@@ -267,7 +298,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41379645/",
       "pmcid": "PMC12773631",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_PB.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_PB.jpg"
+      ]
     },
     {
       "pmid": "42160952",
@@ -361,7 +397,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42181171/",
       "pmcid": "PMC13196569",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/sc1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/sc1.gif"
+      ]
     },
     {
       "pmid": "42164998",
@@ -392,7 +433,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42164998/",
       "pmcid": "PMC13185783",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/gr1.gif"
+      ]
     },
     {
       "pmid": "42068619",
@@ -536,6 +582,43 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42236166/",
       "pmcid": "PMC13234206",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234206/bin/LSA-2026-03772_GA.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234206/bin/LSA-2026-03772_Fig1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234206/bin/LSA-2026-03772_FigS1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234206/bin/LSA-2026-03772_Fig2.jpg"
+      ]
+    },
+    {
+      "pmid": "42173451",
+      "title": "Local drug delivery for oral squamous cell carcinoma under oral cavity.",
+      "authors": [
+        "Muhammad Ruslin",
+        "Jiafu Cao",
+        "Muneeb Ullah",
+        "Juliana Palungan",
+        "Wafiq Azizah",
+        "Resti Cahyani Wa Ode",
+        "Apon Zaenal Mustopa",
+        "Erni Marlina",
+        "Satoshi Uchida",
+        "Jin-Wook Yoo",
+        "Nurhasni Hasan"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is a leading malignancy within head and neck cancers and is associated with substantial morbidity and mortality. Local drug delivery systems (LDDS) have emerged as an important strategy to increase site-specific drug exposure at oral lesions while limiting systemic distribution and associated toxicity. However, therapeutic success in the oral cavity is constrained by stringent \"hard constraints,\" including continuous salivary flow, enzymatic degradation, pH variability, and mechanical abrasion from chewing and tongue movement, which collectively reduce residence time and destabilize labile payloads. This review synthesizes major LDDS platforms for OSCC, including mucoadhesive films/patches, oral sprays, in situ gelling systems, and injectable hydrogels, and critically analyzes how platform performance is governed by interactions between payload properties (small molecules, biologics, nucleic acids), lesion characteristics (accessibility, geometry, margin control), and patient-centered factors. We highlight the need for decision-oriented frameworks that link clinical scenarios to platform selection and recommend standardized evaluation metrics for retention under salivary flow, resistance to mechanical stress, and biochemical stability in saliva-relevant conditions. Despite rapid progress in materials and delivery technologies, OSCC-specific optimization and translational testing remain limited. Future work should prioritize biocompatible, durable systems capable of maintaining predictable local exposure and controlled release under clinically relevant oral conditions, supported by rigorous preclinical validation and well-designed clinical studies to improve outcomes in OSCC.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42173451/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -820,7 +903,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42111417/",
       "pmcid": "PMC13156564",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13156564/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13156564/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13156564/bin/gr3.jpg"
+      ]
     },
     {
       "pmid": "42044723",
@@ -996,7 +1083,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41909511/",
       "pmcid": "PMC13022701",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/sc1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/sc1.gif"
+      ]
     },
     {
       "pmid": "41909504",
@@ -1035,7 +1127,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41909504/",
       "pmcid": "PMC13019078",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/gr1.gif"
+      ]
     },
     {
       "pmid": "41819044",
@@ -1101,7 +1198,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41810018/",
       "pmcid": "PMC12969335",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/sc1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/sc1.gif"
+      ]
     },
     {
       "pmid": "41740295",
@@ -1328,6 +1430,38 @@
       "figure_urls": []
     },
     {
+      "pmid": "42161047",
+      "title": "Dental Pain in Emergency Department Patients: Utilizing Point-of-Care Ultrasound for Dental Abscess Detection.",
+      "authors": [
+        "Kelly Goodsell",
+        "Kaylah Maloney",
+        "Anna Marie Chang",
+        "Resa E Lewiss",
+        "Zachary Risler",
+        "Mark Magee",
+        "Rishi Kalwani",
+        "Daniel Mirsch",
+        "Matthew Cervantes",
+        "Jason Matthew Fields",
+        "Arthur Au"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Dental infections are common and patients with dental abscesses (DA) often require emergency department (ED) incision and drainage (I&D). Computed tomography (CT) is frequently used to diagnose DA but has drawbacks. We sought to measure the accuracy of point-of-care ultrasound (POCUS) in identifying ED patients with DA compared to CT. A prospective, observational, convenience study of adults presenting to the ED with atraumatic dental pain and facial swelling. Patients were approached for enrollment if the treating physician suspected DA and ordered a CT scan of the face. Patients with airway or hemodynamic compromise were excluded. Enrolled patients had POCUS examinations of the face performed by blinded faculty while awaiting CT. These were interpreted as abscess versus no abscess and retrospectively compared with concurrent CT. The medical record was reviewed for subsequent ED visits and oral surgery follow-up within 30 days. A total of 29 patients were included in the final analysis. POCUS examinations were performed by 7 physicians. 66% of patients were female, 45% Caucasian. The sensitivity of POCUS for identifying DA was 1 (95% CI: 0.74-1), specificity 0.35 (95% CI: 0.13-0.64), PPV 0.63 and NPV 1. Nine patients had a DA on POCUS but only phlegmon or cellulitis on CT. One of these 9 patients had I&D yielding pus despite equivocal CT, and 2 others returned to the ED within 2 days with repeat CT showing definitive DA. Preliminary data suggests POCUS is highly sensitive, but less specific compared to CT for evaluating suspected DA in ED patients.",
+      "objective": "",
+      "study_methods": "A prospective, observational, convenience study of adults presenting to the ED with atraumatic dental pain and facial swelling. Patients were approached for enrollment if the treating physician suspected DA and ordered a CT scan of the face. Patients with airway or hemodynamic compromise were excluded. Enrolled patients had POCUS examinations of the face performed by blinded faculty while awaiting CT. These were interpreted as abscess versus no abscess and retrospectively compared with concurrent CT. The medical record was reviewed for subsequent ED visits and oral surgery follow-up within 30 days.",
+      "methods": "A prospective, observational, convenience study of adults presenting to the ED with atraumatic dental pain and facial swelling. Patients were approached for enrollment if the treating physician suspected DA and ordered a CT scan of the face. Patients with airway or hemodynamic compromise were excluded. Enrolled patients had POCUS examinations of the face performed by blinded faculty while awaiting CT. These were interpreted as abscess versus no abscess and retrospectively compared with concurrent CT. The medical record was reviewed for subsequent ED visits and oral surgery follow-up within 30 days.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42161047/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42150421",
       "title": "A predictive model for arthrogenous temporomandibular disorders based on clinical signs and symptoms.",
       "authors": [
@@ -1380,33 +1514,6 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42107279/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42107221",
-      "title": "Artificial intelligence model predicts malignant transformation of oral leukoplakia and optimizes interventions.",
-      "authors": [
-        "Alessandro Villa",
-        "Douglas E Peterson",
-        "Mark W Lingen",
-        "Alexander Pearson",
-        "Saideep Gona",
-        "Anthony Morlandt"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Oral leukoplakia (OL), the most common oral potentially malignant disorder (OPMD), poses a significant risk for transformation to oral squamous cell carcinoma (OSCC). Despite its prevalence and variable malignant transformation rates, optimal management remains controversial due to limited evidence on causation, risk stratification, and treatment efficacy. This commentary addresses these unresolved challenges and delineates opportunities for development of precision prognostic technologies in context of future clinical trials. We reviewed current OL literature, focusing on epidemiology, molecular biomarkers, and management strategies. Data were synthesized from systematic reviews, cohort studies, and clinical trials (2020-2025), assessing malignant transformation rates, genomic and immune biomarkers (e.g., LOH, TP53, PD-L1), and emerging artificial intelligence (AI) applications. OL malignant transformation rates vary by subtype: localized OL (4-40%) and proliferative leukoplakia (65-100%). Non-dysplastic lesions transform at an approximately 5% rate, while dysplastic lesions carry a 12-18% 5-year transformation risk. Genomic alterations (e.g., 9p21 LOH, TP53 mutations) and immune markers (e.g., PD-L1) show prognostic promise but lack clinical validation. Despite surgical excision, OL can exhibit a high recurrence rate at the site of surgery (e.g., 30%), and non-surgical therapies (e.g., immunotherapy) are currently under investigation. AI-driven models integrating multi-omic data offer potential for personalized risk prediction but require standardized validation. OL management is hindered by heterogeneous transformation risks, limited high-quality studies, and reliance on histopathology. Multidisciplinary care, AI-enhanced risk stratification, and large-scale randomized controlled trials have now become essential in order to refine surveillance, optimize interventions, and reduce OSCC burden. Until then, the treat-or-observe dilemma persists, underscoring the need for interprofessional collaboration at the international level.",
-      "objective": "",
-      "study_methods": "We reviewed current OL literature, focusing on epidemiology, molecular biomarkers, and management strategies. Data were synthesized from systematic reviews, cohort studies, and clinical trials (2020-2025), assessing malignant transformation rates, genomic and immune biomarkers (e.g., LOH, TP53, PD-L1), and emerging artificial intelligence (AI) applications.",
-      "methods": "We reviewed current OL literature, focusing on epidemiology, molecular biomarkers, and management strategies. Data were synthesized from systematic reviews, cohort studies, and clinical trials (2020-2025), assessing malignant transformation rates, genomic and immune biomarkers (e.g., LOH, TP53, PD-L1), and emerging artificial intelligence (AI) applications.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42107221/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1778,6 +1885,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "42252435",
+      "title": "Oral health in migrant population of Germany: a systematic review and meta-analysis.",
+      "authors": [
+        "Deniz Kosan",
+        "Zhen Mao",
+        "Jamila Yassine",
+        "Esra Kosan"
+      ],
+      "publication_date": "2026-Jun-08",
+      "publication_date_iso": "2026-06-08",
+      "abstract": "Migrants living in Germany constitute a large and heterogeneous population that is exposed to socioeconomic disadvantages, language barriers and difficulties navigating the health system, all of which may negatively affect oral health and access to dental care. The aim of this study was to systematically review and synthesize available evidence on differences in oral health status and dental service utilization between migrant and non-migrant populations in Germany. A systematic review of peer-reviewed observational and clinical studies conducted in Germany was performed. Studies meeting predefined inclusion criteria were selected, focusing on oral health indicators such as dental caries prevalence (DMFT scores), periodontal health, and access to preventive dental care. Data on study characteristics, population demographics and outcomes were extracted using a standardized form. Where at least three sufficiently homogeneous studies were available, a meta-analysis of DMFT outcomes was conducted. Seventeen studies were included in the qualitative synthesis and three in the meta-analysis. Across adult populations, migrants consistently showed worse oral health than non-migrants, with higher DMFT scores (SMD = 0.40; 95% CI: 0.31-0.49; p < 0.05) scores than non-migrants, driven primarily by a higher number of missing teeth (M) (SMD = 0.17; 95% CI: 0.08-0.26; p < 0.05), while differences in decayed (D) and filled (F) teeth were smaller and more heterogeneous. Children and adolescents with a migration background, particularly those living in socioeconomically disadvantaged areas, had higher caries experience and a lower probability of caries-free dentitions in permanent teeth. Evidence on caries in primary dentition (dmft) was limited and heterogeneous and therefore summarized qualitatively only. Across age groups, migrants had lower odds of attending regular preventive dental check-ups than non-migrants (OR approximately 0.64-0.67). Despite statutory health insurance in Germany, migrants struggle with access to dental services. Structural and social determinants, including socioeconomic position, health literacy, language barriers, and perceived discrimination, likely contribute to these disparities. Targeted public health strategies, culturally and linguistically adapted information, and measures to improve accessibility of dental care are needed to reduce oral health inequalities between migrants and the native German population.",
+      "objective": "of this study was to systematically review and synthesize available evidence on differences in oral health status and dental service utilization between migrant and non-migrant populations in Germany. A systematic review of peer-reviewed observational and clinical studies conducted in Germany was performed. Studies meeting predefined inclusion criteria were selected, focusing on oral health indicators such as dental caries prevalence (DMFT scores), periodontal health, and access to preventive dental care. Data on study characteristics, population demographics and outcomes were extracted using a standardized form. Where at least three sufficiently homogeneous studies were available, a meta-analysis of DMFT outcomes was conducted. Seventeen studies were included in the qualitative synthesis and three in the meta-analysis. Across adult populations, migrants consistently showed worse oral health than non-migrants, with higher DMFT scores (SMD = 0.40; 95% CI: 0.31-0.49; p < 0.05) scores than non-migrants, driven primarily by a higher number of missing teeth (M) (SMD = 0.17; 95% CI: 0.08-0.26; p < 0.05), while differences in decayed (D) and filled (F) teeth were smaller and more heterogeneous. Children and adolescents with a migration background, particularly those living in socioeconomically disadvantaged areas, had higher caries experience and a lower probability of caries-free dentitions in permanent teeth. Evidence on caries in primary dentition (dmft) was limited and heterogeneous and therefore summarized qualitatively only. Across age groups, migrants had lower odds of attending regular preventive dental check-ups than non-migrants (OR approximately 0.64-0.67). Despite statutory health insurance in Germany, migrants struggle with access to dental services. Structural and social determinants, including socioeconomic position, health literacy, language barriers, and perceived discrimination, likely contribute to these disparities. Targeted public health strategies, culturally and linguistically adapted information, and measures to improve accessibility of dental care are needed to reduce oral health inequalities between migrants and the native German population.",
+      "study_methods": "A systematic review of peer-reviewed observational and clinical studies conducted in Germany was performed. Studies meeting predefined inclusion criteria were selected, focusing on oral health indicators such as dental caries prevalence (DMFT scores), periodontal health, and access to preventive dental care. Data on study characteristics, population demographics and outcomes were extracted using a standardized form. Where at least three sufficiently homogeneous studies were available, a meta-analysis of DMFT outcomes was conducted.",
+      "methods": "A systematic review of peer-reviewed observational and clinical studies conducted in Germany was performed. Studies meeting predefined inclusion criteria were selected, focusing on oral health indicators such as dental caries prevalence (DMFT scores), periodontal health, and access to preventive dental care. Data on study characteristics, population demographics and outcomes were extracted using a standardized form. Where at least three sufficiently homogeneous studies were available, a meta-analysis of DMFT outcomes was conducted.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42252435/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42251201",
       "title": "Force effect of MRI scanner on dental appliances and instruments.",
       "authors": [
@@ -2130,7 +2262,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42234741/",
       "pmcid": "PMC13232566",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13232566/bin/sciadv.aeb2491-f1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13232566/bin/sciadv.aeb2491-f1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13232566/bin/sciadv.aeb2491-f2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13232566/bin/sciadv.aeb2491-f2.gif"
+      ]
     },
     {
       "pmid": "42248245",
@@ -2250,7 +2387,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42243073/",
       "pmcid": "PMC13236974",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236974/bin/41368_2026_442_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236974/bin/41368_2026_442_Fig2_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236974/bin/41368_2026_442_Fig3_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236974/bin/41368_2026_442_Fig4_HTML.jpg"
+      ]
     },
     {
       "pmid": "42242912",
@@ -2378,7 +2520,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42240865/",
       "pmcid": "PMC13236836",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236836/bin/784_2026_6959_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236836/bin/784_2026_6959_Fig1_HTML.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236836/bin/784_2026_6959_Fig2_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236836/bin/784_2026_6959_Fig2_HTML.gif"
+      ]
     },
     {
       "pmid": "42237863",
@@ -2806,36 +2953,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42229722",
-      "title": "Evaluation of text- and image-based generative artificial intelligence for simulating impacted third molar extraction.",
-      "authors": [
-        "Masakazu Hamada",
-        "Kyoko Nishiyama",
-        "Sachi Ichiyama",
-        "Shiori Yamamoto",
-        "Ayako Motoki",
-        "Yusei Fujita",
-        "Tatsuya Akitomo",
-        "Ryota Nomura",
-        "Narikazu Uzawa"
-      ],
-      "publication_date": "2026-Jun-01",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Recent advances in generative artificial intelligence (AI) have opened new opportunities in procedural simulation. However, its clinical accuracy for simulating impacted mandibular third molar extraction remains unclear. Both text-based and image-based surgical simulations were generated using generative AI. Simulations were produced based on a detailed description of a horizontally impacted mandibular third molar. Six expert evaluators independently assessed the quality of the generated images and text using the Global Quality Scale (GQS) and Likert Scale (LS). Statistical comparisons were performed using the Kruskal-Wallis test. Panoramic images appeared visually realistic but initially exhibited inaccurate tooth positioning. Iterative prompt adjustments improved anatomical representation, with panoramic image scores significantly increasing from the first to the final generation. No significant improvement was observed for intraoperative images. All text-based procedural outputs received generally high scores, with no significant differences among steps. Generative AI can generate text-based guidance appropriate for surgical simulation. However, image-based outputs demonstrated inconsistent improvement and may not provide sufficient anatomical accuracy for reliable use. To enhance clinical relevance, the development of specialized dental AI trained on diverse data sources-such as images, clinical records, and procedural data-and capable of supporting diagnosis and treatment planning is needed.",
-      "objective": "",
-      "study_methods": "Both text-based and image-based surgical simulations were generated using generative AI. Simulations were produced based on a detailed description of a horizontally impacted mandibular third molar. Six expert evaluators independently assessed the quality of the generated images and text using the Global Quality Scale (GQS) and Likert Scale (LS). Statistical comparisons were performed using the Kruskal-Wallis test.",
-      "methods": "Both text-based and image-based surgical simulations were generated using generative AI. Simulations were produced based on a detailed description of a horizontally impacted mandibular third molar. Six expert evaluators independently assessed the quality of the generated images and text using the Global Quality Scale (GQS) and Likert Scale (LS). Statistical comparisons were performed using the Kruskal-Wallis test.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42229722/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42229721",
       "title": "Perception of the Malar Midface of Patients with Class III Malocclusion after Le Fort I Osteotomy.",
       "authors": [
@@ -2856,7 +2973,6 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42229721/",
@@ -2974,7 +3090,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42206133/",
       "pmcid": "PMC13201742",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13201742/bin/12663_2024_2431_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13201742/bin/12663_2024_2431_Fig2_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13201742/bin/12663_2024_2431_Fig3_HTML.jpg"
+      ]
     },
     {
       "pmid": "42206130",
@@ -3049,7 +3169,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42057273/",
       "pmcid": "PMC13129251",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129251/bin/JHN-39-0-g003.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129251/bin/JHN-39-0-g003.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129251/bin/JHN-39-0-g002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129251/bin/JHN-39-0-g002.gif"
+      ]
     },
     {
       "pmid": "42033993",
@@ -3107,7 +3232,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42013518/",
       "pmcid": "PMC13122224",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13122224/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13122224/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13122224/bin/gr2.jpg"
+      ]
     },
     {
       "pmid": "41966788",
@@ -3130,6 +3259,32 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41966788/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41946616",
+      "title": "Altered sensation of the inferior alveolar nerve in sagittal spilt osteotomies: a review of cases at a major UK centre over 10 years.",
+      "authors": [
+        "Masa Shammout",
+        "Jeffrey Abdullah",
+        "Aya Shammout",
+        "Rhodri Williams",
+        "Kevin McMillan"
+      ],
+      "publication_date": "2026-Jun",
+      "publication_date_iso": "2026-06-01",
+      "abstract": "Inferior alveolar nerve (IAN) injuries are common complications of orthognathic surgery, with incidences reported from 0% to 85% due to inconsistent definitions, assessment methods and follow-up protocols. These limitations hinder comparisons, emphasising the need for standardised evaluation. This 10-year retrospective cohort study investigates IAN injury rates following mandibular osteotomies, focusing on medium-long term outcomes and risk factors. A retrospective cohort study was conducted at a tertiary orthognathic centre (2014-2024) on sagittal split osteotomies, performed either as stand-alone or as part of bimaxillary surgeries. Altered sensation was assessed via patient-reported outcomes during clinical follow ups (0-60+ months). While a final review was typically conducted at 6 months, extended follow ups addressed nerve symptoms, revision surgeries, or COVID-19 disruptions. Chi squared tests, Fisher's exact test and odds ratios evaluated associations with demographics, split quality, and nerve injuries. The primary outcome was altered sensation at ≥6 months. Of 221 procedures, 75.6% (n = 167) had follow ups ≥6 months, with 44.3% (n = 74/167) reporting altered sensation, primarily in the lower lip. Rates were 49% (n = 49/100) at 6-12 months, 50% (n = 13/26) at 13-18 months, and 29.2% (12/41) beyond 18 months. Females (OR = 1.07) and the 41-50 age group (50%, n = 2/4) showed slightly increased sensory changes, although they were not statistically significant. Unsatisfactory splits had higher altered sensation rates (60%, n = 6/10) compared with satisfactory splits (43.9%, n = 65/148) although these were not statistically significant (p = 0.15). Among documented nerve injuries, 100% (n = 7) resulted in sensory changes at ≥6 months. Altered sensation affected 44.3% (74/167); non-standardised follow up limits interpretation and supports standardised neurosensory reporting.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ed in sensory changes at ≥6 months. Altered sensation affected 44.3% (74/167); non-standardised follow up limits interpretation and supports standardised neurosensory reporting.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41946616/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3180,7 +3335,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41861577/",
       "pmcid": "PMC13018927",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr3.jpg"
+      ]
     },
     {
       "pmid": "41848236",
@@ -3265,7 +3424,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41775013/",
       "pmcid": "PMC12969292",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "41759452",
@@ -3338,30 +3502,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41724198/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41722612",
-      "title": "Is Osteotome Type Associated With Lateral Nasal Wall Separation and Nasal Mucosal Integrity in Le Fort I Osteotomy?",
-      "authors": [
-        "Emine Fulya Akkoyun",
-        "Taha Pergel",
-        "Doğan Dolanmaz"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Le Fort I maxillary osteotomy involves surgical manipulation near critical anatomical structures, including the lateral nasal wall (LNW), which may lead to complications such as improper bone separation and nasal mucosal perforation. The purpose of this study was to evaluate the association between osteotome type and LNW separation and nasal mucosal integrity. This unblinded randomized study included subjects undergoing bimaxillary orthognathic surgery at the Department of Oral and Maxillofacial Surgery, Bezmialem Vakif University, between 2023 and 2024. Subjects with cleft lip/palate, a history of orthognathic surgery, or previous rhinoplasty were excluded. The predictor variable was the type of osteotome used for LNW osteotomy. Subjects were randomized to undergo LNW osteotomy using either a blade osteotome or a single-guarded osteotome. The primary outcome variable was LNW separation type, categorized as type 1 (separation from the osteotomy line), type 2 (separation 2 to 4 mm above the osteotomy line), and type 3 (separation ≥4 mm above the osteotomy line). Type 1 separations were considered favorable, whereas type 2 and type 3 separations were considered unfavorable. The secondary outcome variable was nasal mucosal status coded as perforated or not perforated. The covariates were LNW length, LNW angle, age, and sex. Continuous variables were analyzed using the independent samples t test or Mann-Whitney U test. Categorical variables were analyzed using the χ2 test or Fisher's exact test. A P value of ≤ 0.05 was considered statistically significant. The sample consisted of 46 subjects who completed the study (median age, 23 years; interquartile range [IQR], 20 to 27; 31 females [67.4%] and 15 males [32.6%]). LNW type 1 separation was observed in 46 LNW (100.0%) in the blade osteotome group and in 40 LNW (87.0%) in the single-guarded osteotome group (P = .026). Nasal mucosal perforation occurred in 0 subjects (0.0%) in the blade osteotome group and in seven subjects (15.2%) in the single-guarded osteotome group (P = .012). LNW separation type was significantly associated with nasal mucosal perforation (P < .001). The use of a blade osteotome resulted in favorable LNW separation patterns, suggesting improved surgical control during Le Fort I osteotomy. These findings suggest that blade osteotomes may help preserve sinonasal anatomy and mucosal integrity during Le Fort I osteotomy.",
-      "objective": "of this study was to evaluate the association between osteotome type and LNW separation and nasal mucosal integrity. This unblinded randomized study included subjects undergoing bimaxillary orthognathic surgery at the Department of Oral and Maxillofacial Surgery, Bezmialem Vakif University, between 2023 and 2024. Subjects with cleft lip/palate, a history of orthognathic surgery, or previous rhinoplasty were excluded. The predictor variable was the type of osteotome used for LNW osteotomy. Subjects were randomized to undergo LNW osteotomy using either a blade osteotome or a single-guarded osteotome. The primary outcome variable was LNW separation type, categorized as type 1 (separation from the osteotomy line), type 2 (separation 2 to 4 mm above the osteotomy line), and type 3 (separation ≥4 mm above the osteotomy line). Type 1 separations were considered favorable, whereas type 2 and type 3 separations were considered unfavorable. The secondary outcome variable was nasal mucosal status coded as perforated or not perforated. The covariates were LNW length, LNW angle, age, and sex. Continuous variables were analyzed using the independent samples t test or Mann-Whitney U test. Categorical variables were analyzed using the χ2 test or Fisher's exact test. A P value of ≤ 0.05 was considered statistically significant. The sample consisted of 46 subjects who completed the study (median age, 23 years; interquartile range [IQR], 20 to 27; 31 females [67.4%] and 15 males [32.6%]). LNW type 1 separation was observed in 46 LNW (100.0%) in the blade osteotome group and in 40 LNW (87.0%) in the single-guarded osteotome group (P = .026). Nasal mucosal perforation occurred in 0 subjects (0.0%) in the blade osteotome group and in seven subjects (15.2%) in the single-guarded osteotome group (P = .012). LNW separation type was significantly associated with nasal mucosal perforation (P < .001). The use of a blade osteotome resulted in favorable LNW separation patterns, suggesting improved surgical control during Le Fort I osteotomy. These findings suggest that blade osteotomes may help preserve sinonasal anatomy and mucosal integrity during Le Fort I osteotomy.",
-      "study_methods": "",
-      "methods": "",
-      "results": "ed in favorable LNW separation patterns, suggesting improved surgical control during Le Fort I osteotomy. These findings suggest that blade osteotomes may help preserve sinonasal anatomy and mucosal integrity during Le Fort I osteotomy.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41722612/",
       "pmcid": "",
       "figure_urls": []
     },
