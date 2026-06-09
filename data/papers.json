@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T06:50:16Z",
+  "updated_at": "2026-06-09T06:14:16Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -306,6 +306,40 @@
       ]
     },
     {
+      "pmid": "42256884",
+      "title": "An injectable tough hydrogel sealant enabling rapid hemostasis and promoting oral tissue regeneration.",
+      "authors": [
+        "Jinghan Wang",
+        "Gang He",
+        "Zheng Pan",
+        "Yiwen Xian",
+        "Luyuan Chen",
+        "Wen Sui",
+        "Chong Zhang",
+        "Decheng Wu"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "Repair of oral soft-tissue injuries remains challenging due to the moist, bacteria-rich, and mechanically active oral environment, as well as the limitations of current sealants in wet adhesion, mechanical strength, biocompatibility, bioactivity, and sealing durability. Here, we report an injectable hydrogel sealant (PAG) composed of tetra-armed poly(ethylene glycol) succinimidyl succinate and amine-functionalized gelatin, which rapidly forms in situ via NHS-amine coupling without external triggers. The optimized formulation undergoes gelation within seconds and exhibits robust mechanical properties, as well as superior adhesive strength and burst pressure compared with commercial fibrin glue. PAG demonstrates excellent cytocompatibility, hemocompatibility, and biodegradability, while promoting fibroblast proliferation in vitro. In vivo, it enables rapid hemostasis within 3 s and effective tissue repair in an acute rat tongue perforation model, markedly outperforming suture, gelatin sponge, and fibrin glue controls. Moreover, PAG effectively protects early-stage wounds and accelerates repair in both rat and porcine oral mucosal defect models. Mechanistic studies indicate that PAG establishes a pro-regenerative microenvironment by attenuating excessive inflammation, enhancing angiogenesis, and promoting M2-dominant macrophage polarization. Collectively, these findings demonstrate that the engineered PAG hydrogel enables rapid, sutureless sealing and repair of oral soft-tissue wounds, highlighting its translational potential.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42256884/",
+      "pmcid": "PMC13240782",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/sc1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/gr2.jpg"
+      ]
+    },
+    {
       "pmid": "42160952",
       "title": "Zinc-based metal orchestrates early osteoimmune microenvironment to promote angiogenesis via macrophage-derived extracellular vesicles.",
       "authors": [
@@ -557,6 +591,34 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42134202/",
       "pmcid": "",
       "figure_urls": []
+    },
+    {
+      "pmid": "42253858",
+      "title": "Sarcomatoid squamous cell carcinoma of the mandible: Radiologic-pathologic correlation and diagnostic pitfalls of an aggressive osteolytic lesion.",
+      "authors": [
+        "Charaf Eddine Mohammed Chatar",
+        "Adil Eabdenbi Tsen"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Sarcomatoid squamous cell carcinoma (SSCC) of the mandible is an exceptionally rare and highly aggressive malignancy characterized by biphasic epithelial and mesenchymal differentiation. Its unusual presentation and overlapping imaging features with other odontogenic and primary bone tumors make diagnosis particularly challenging. Radiologic-pathologic correlation is therefore essential for accurate identification. We report the case of a 60-year-old woman presenting with rapidly progressive right mandibular swelling. Computed tomography (CT) demonstrated an ill-defined, aggressive osteolytic lesion centered in the mandibular body, with extensive cortical destruction, cortical breakthrough, and heterogeneous enhancing soft-tissue components extending into adjacent spaces. These imaging features suggested a high-grade malignant process but remained non-specific, raising a broad differential diagnosis including primary bone sarcomas and aggressive odontogenic tumors. No definitive radiologic features of matrix mineralization or periosteal reaction were identified. Histopathological examination revealed a biphasic malignant tumor composed of conventional squamous cell carcinoma and spindle-shaped sarcomatoid components. Immunohistochemical analysis showed co-expression of cytokeratin AE1/AE3 and vimentin, confirming the diagnosis of sarcomatoid squamous cell carcinoma. No histopathological evidence of lymph node metastasis was identified. Given the locally advanced stage, the patient was treated with concurrent chemoradiotherapy following multidisciplinary tumor board discussion. This case highlights the key imaging features of mandibular SSCC and underscores important diagnostic pitfalls related to its non-specific osteolytic presentation. It emphasizes the critical role of multimodal imaging and radiologic-pathologic correlation in differentiating this rare entity from other aggressive mandibular lesions, thereby facilitating timely and appropriate management.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42253858/",
+      "pmcid": "PMC13233747",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42236166",
@@ -850,6 +912,33 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42160798/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42134022",
+      "title": "P75NTR promotes radiation-induced submandibular gland epithelial cell apoptosis via the ceramide signaling.",
+      "authors": [
+        "Shen-Sui Li",
+        "Xu-Dong Tian",
+        "Ju-Kun Song",
+        "Ya-Dong Wu",
+        "Wei-Li Wang",
+        "Zheng-Long Tang"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Radiotherapy for head and neck cancers often damages normal tissues, including radiation-induced sialadenitis. The role of the p75 neurotrophin receptor (p75NTR) in radiation injury is dual; however, its mechanisms in salivary glands are unclear. This study examines p75NTR's role in radiation-induced submandibular gland injury. Acinar-like human salivary gland epithelial cells (HSG-AZA3) were irradiated after p75NTR overexpression (oe-p75NTR) or knockdown (sh-p75NTR). We assessed apoptosis, ceramide levels, oxidative stress, inflammatory factors, and apoptosis-related gene/protein expression. Additionally, we explored the impact of sh-p75NTR combined with the ceramidase inhibitor (Ceranib2) on irradiated HSG-AZA3 cells. Animal experiments evaluated the effects of sh-p75NTR and Ceranib2 on radiation damage to mouse mandibular glands. Oe-p75NTR increased radiation-induced oxidative stress, inflammatory responses, and apoptosis, whereas sh-p75NTR offered protection by reducing these effects. Ceranib2 reversed sh-p75NTR's protective effects, increasing ceramide levels, oxidative stress, and apoptosis. In mice, sh-p75NTR protected against radiation-induced gland injury, while Ceranib2 diminished this protection and increased damage. Interfering with p75NTR provides protection against radiation-induced salivary gland cell injury, while Ceranib2 negates this by boosting ceramide levels and promoting apoptosis. These findings suggest new molecular pathways involved in radiation-induced salivary gland injury and potential targets for developing radiation protection strategies.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42134022/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1398,38 +1487,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42171481",
-      "title": "Digital Versus in-Person Pre-Anaesthetic Assessment and Postoperative Outcomes in Low-Risk Patients: A Protocol for a Single-Centre Cohort Study.",
-      "authors": [
-        "Mathilde Nellemann",
-        "Moritz Kilian German Denneborg",
-        "Sofie Amalie Bosholdt",
-        "Camilla Meno Kristensen",
-        "Constance Thyra Giertz Christiansen",
-        "Janus Christian Jakobsen",
-        "Rasmus Hesselfeldt",
-        "Morten Hylander Møller",
-        "Andreas Møgelmose",
-        "Markus Harboe Olsen",
-        "Katrine Bredahl Buggeskov"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Pre-anaesthetic assessment is essential for identifying perioperative risk and optimising patient safety. Digital alternatives, including video consultation and structured electronic health record (EHR) review, may improve efficiency, but comparative evidence regarding postoperative safety remains limited. We hypothesise that digital pre-anaesthetic assessment modalities will be associated with low rates of major postoperative complications in selected low-risk patients. This protocol describes a single-centre study with retrospective data collection including adult patients scheduled for elective otorhinolaryngologic, oral or maxillofacial surgery at Copenhagen University Hospital-Rigshospitalet, Copenhagen, Denmark. Patients underwent preoperative assessment using one of three modalities: in-person consultation (2019-2020), EHR review (2021-2022) or video consultation (2024-2025). The primary outcome is a composite of major postoperative complications within 30 days, including all-cause mortality, admission to the intensive care unit, bleeding requiring transfusion, infection requiring antibiotics, or hospital readmission. Secondary outcomes include number of days spent hospitalised within 30 days after surgery, changes in anaesthesia plan, airway management modifications, delay in surgical start time, intubation attempts and same-day cancellations. Associations between assessment modality and dichotomous outcomes will be examined using multivariable generalised linear models with a log-link function, adjusted for prespecified covariates. Sensitivity analyses will include inverse probability weighting and win ratio analysis. This single-centre cohort study will examine whether digital pre-anaesthetic assessment strategies, such as video consultation and EHR review, are associated with differences in major postoperative complications compared with in-person assessment. The findings may inform the implementation of patient-centred, resource-efficient preoperative assessment strategies within the Danish healthcare system and similar international settings.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42171481/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42161047",
       "title": "Dental Pain in Emergency Department Patients: Utilizing Point-of-Care Ultrasound for Dental Abscess Detection.",
       "authors": [
@@ -1458,62 +1515,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42161047/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42150421",
-      "title": "A predictive model for arthrogenous temporomandibular disorders based on clinical signs and symptoms.",
-      "authors": [
-        "David Faustino Ângelo",
-        "Henrique José Cardoso",
-        "Carlos Geraldes",
-        "Ricardo São João",
-        "Francesco Maffia",
-        "David Sanz",
-        "Francisco Salvado"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "This study aimed to develop and internally evaluate a multivariable statistical model to identify arthrogenous temporomandibular disorders (TMD) using routinely collected clinical data. The model's performance was compared with the Fonseca Anamnestic Index (FAI) alone, using an imaging-based classification as the reference standard. This cross-sectional observational study included 1170 consecutive patients attending their first consultation at a tertiary TMD center between August 2019 and August 2024. Arthrogenous TMD was determined using combined clinical and imaging assessment according to the Dimitroulis classification. Clinical variables, including age, maximum mouth opening (MMO), individual FAI items, and joint-related complaints, were extracted from the EUROTMJ database. Generalized additive models (GAMs) were used to develop predictive models. Performance was assessed using receiver operating characteristic (ROC) curves, area under the curve (AUC), sensitivity, and specificity in training (60%) and test (40%) datasets. The final Fonseca-Dimitroulis (FD-Class) model incorporated age, MMO, selected FAI items (Q2, Q6, Q7), crepitus, and temporomandibular joint (TMJ) locking. The model achieved an AUC of 0.761 in the training dataset and 0.742 in the test dataset, outperforming the FAI alone (AUC = 0.662). This model may support the early identification of arthrogenous TMJ disease and improve decision-making regarding referral for advanced imaging in maxillofacial practice.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42150421/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42107279",
-      "title": "Endoscopic versus conventional open parotid gland surgery: a systematic review and meta-analysis.",
-      "authors": [
-        "Evangelos Kostares",
-        "Georgia Kostare",
-        "Styliani-Eleni Panourgia",
-        "Michael Kostares",
-        "Ourania Schoinohoriti",
-        "Christos Perisanidis",
-        "Maria Kantzanou"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Endoscopically-assisted parotid gland surgery has been increasingly adopted as a minimally invasive alternative to conventional open parotidectomy, aiming to improve perioperative outcomes and cosmetic results while maintaining surgical safety. This systematic review and meta-analysis synthesized contemporary comparative evidence on endoscopic versus conventional parotid gland surgery. A comprehensive search of PubMed/MEDLINE, Scopus, Web of Science, CENTRAL, and Google Scholar was conducted from inception to December 14, 2025. Observational and interventional studies comparing endoscopically-assisted or fully endoscopic parotidectomy with conventional open surgery in adult patients were included. Study quality was assessed using the Newcastle-Ottawa Scale and the Joanna Briggs Institute checklist, and certainty of evidence was evaluated using the GRADE framework. Random-effects meta-analyses were performed to calculate pooled mean differences (MD) for continuous outcomes and odds ratios (OR) for dichotomous outcomes, with heterogeneity quantified using the I2 statistic. Eleven studies involving 1188 patients were included. Tumor diameter and operative time did not differ significantly between the endoscopic and conventional groups. Endoscopic parotidectomy was associated with significantly reduced intraoperative blood loss (MD -42.28 mL, 95% CI -61.56 to -23.01) and lower postoperative drain output (MD -40.73 mL, 95% CI -68.60 to -12.86). No statistically significant differences were observed for drain duration, salivary fistula formation, auricular skin numbness, or Frey syndrome. A lower OR of temporary facial nerve dysfunction was observed in the endoscopic group, while permanent facial nerve paralysis and surgical site infection rates were low and comparable between approaches. All included studies were of moderate methodological quality, and the overall certainty of evidence was low. Endoscopic parotid gland surgery appears to be a feasible alternative to conventional parotid gland surgery in selected patients, providing modest perioperative advantages without compromising postoperative outcomes. However, the small absolute magnitude of these differences suggests limited clinical impact, indicating that this approach represents a cosmetically favorable and safe option rather than a clearly superior technique. Given the limited number of studies, regional concentration of the available evidence, and substantial heterogeneity across several outcomes, further high-quality, multicenter prospective studies are needed to better define its clinical significance and generalizability.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "while maintaining surgical safety. This systematic review and meta-analysis synthesized contemporary comparative evidence on endoscopic versus conventional parotid gland surgery. A comprehensive search of PubMed/MEDLINE, Scopus, Web of Science, CENTRAL, and Google Scholar was conducted from inception to December 14, 2025. Observational and interventional studies comparing endoscopically-assisted or fully endoscopic parotidectomy with conventional open surgery in adult patients were included. Study quality was assessed using the Newcastle-Ottawa Scale and the Joanna Briggs Institute checklist, and certainty of evidence was evaluated using the GRADE framework. Random-effects meta-analyses were performed to calculate pooled mean differences (MD) for continuous outcomes and odds ratios (OR) for dichotomous outcomes, with heterogeneity quantified using the I2 statistic. Eleven studies involving 1188 patients were included. Tumor diameter and operative time did not differ significantly between the endoscopic and conventional groups. Endoscopic parotidectomy was associated with significantly reduced intraoperative blood loss (MD -42.28 mL, 95% CI -61.56 to -23.01) and lower postoperative drain output (MD -40.73 mL, 95% CI -68.60 to -12.86). No statistically significant differences were observed for drain duration, salivary fistula formation, auricular skin numbness, or Frey syndrome. A lower OR of temporary facial nerve dysfunction was observed in the endoscopic group, while permanent facial nerve paralysis and surgical site infection rates were low and comparable between approaches. All included studies were of moderate methodological quality, and the overall certainty of evidence was low. Endoscopic parotid gland surgery appears to be a feasible alternative to conventional parotid gland surgery in selected patients, providing modest perioperative advantages without compromising postoperative outcomes. However, the small absolute magnitude of these differences suggests limited clinical impact, indicating that this approach represents a cosmetically favorable and safe option rather than a clearly superior technique. Given the limited number of studies, regional concentration of the available evidence, and substantial heterogeneity across several outcomes, further high-quality, multicenter prospective studies are needed to better define its clinical significance and generalizability.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42107279/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1809,6 +1810,64 @@
       "figure_urls": []
     },
     {
+      "pmid": "41642169",
+      "title": "Multi-institutional Normal Tissue Complication Probability (NTCP) Prediction Model for Mandibular Osteoradionecrosis: Results from the PREDMORN Study.",
+      "authors": [
+        "Laia Humbert-Vidan",
+        "Christian R Hansen",
+        "Steven Petit",
+        "Carles Muñoz-Montplet",
+        "Katrina Hueniken",
+        "Abdallah S R Mohamed",
+        "Deborah P Saunders",
+        "Vinod Patel",
+        "Gerda M Verduijn",
+        "Wilma D Heemsbergen",
+        "Arjen van der Schaaf",
+        "Max Witjes",
+        "Suzanne P M de Vette",
+        "Mohammad Moharrami",
+        "Abdul A Khan",
+        "Jordi Marruecos Querol",
+        "Irene Oliveras Cancio",
+        "Mike Oliver",
+        "Peter Reich",
+        "Stacey A Santi",
+        "Andrew G Pearce",
+        "Stephen Y Lai",
+        "Andrew P King",
+        "Ali Hosni",
+        "Andrew J Hope",
+        "Erin E Watson",
+        "Johannes A Langendijk",
+        "Jørgen Johansen",
+        "Amy C Moreno",
+        "Clifton D Fuller",
+        "Lisanne V van Dijk",
+        "Teresa Guerrero Urbano"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Mandibular osteoradionecrosis (ORN) is a severe late complication affecting patients with head and neck cancer (HNC) treated with radiation therapy (RT) that significantly impacts patients' quality of life and can require costly interventions. Although radiation dose is a key factor, other clinical and demographic risk factors also influence ORN development. Previous predictive models have primarily been single-institutional, limiting their generalizability. In this first analysis from the PREDMORN Consortium, we have aimed to reproduce existing statistical association and modeling analyses on the largest and most diverse mandibular ORN cohort worldwide to allow comparison with previous studies. This retrospective multi-institutional study included 3928 patients with HNC (622 ORN cases) from 8 institutions. Clinical, demographic, and dosimetric variables were analyzed to develop a prediction model (any grade ORN vs no ORN) using forward stepwise logistic regression with correlation-based variable preselection. The ORN normal tissue complication probability (NTCP) model was developed on 80% of data from 6 institutions, tested on the remaining unseen 20%, and externally validated on a matched cohort (58 patients, 19 ORN cases) and a large population-based cohort (2687 patients, 215 ORN cases). Key predictors of ORN were D30%, V70Gy, pre-RT dental extractions, and smoking status. The ORN NTCP model demonstrated very good calibration on the population-based external cohort (Brier score, 0.077; Log Loss, 0.281). Model discrimination improved on a subcohort including oropharyngeal and locally advanced larynx/hypopharynx cancer cases only (AUC from 0.69 to 0.75 and from 0.65 to 0.67 on the matched and the population-based external cohorts, respectively). The PREDMORN NTCP model is the largest multi-institutional effort to date aimed at predicting ORN risk in patients with HNC using real-world data. The model demonstrated good generalizability when externally validated to a large population-based cohort. Our observations align with current guidelines and corroborate findings from smaller single-institution studies.",
+      "objective": "",
+      "study_methods": "This retrospective multi-institutional study included 3928 patients with HNC (622 ORN cases) from 8 institutions. Clinical, demographic, and dosimetric variables were analyzed to develop a prediction model (any grade ORN vs no ORN) using forward stepwise logistic regression with correlation-based variable preselection. The ORN normal tissue complication probability (NTCP) model was developed on 80% of data from 6 institutions, tested on the remaining unseen 20%, and externally validated on a matched cohort (58 patients, 19 ORN cases) and a large population-based cohort (2687 patients, 215 ORN cases).",
+      "methods": "This retrospective multi-institutional study included 3928 patients with HNC (622 ORN cases) from 8 institutions. Clinical, demographic, and dosimetric variables were analyzed to develop a prediction model (any grade ORN vs no ORN) using forward stepwise logistic regression with correlation-based variable preselection. The ORN normal tissue complication probability (NTCP) model was developed on 80% of data from 6 institutions, tested on the remaining unseen 20%, and externally validated on a matched cohort (58 patients, 19 ORN cases) and a large population-based cohort (2687 patients, 215 ORN cases).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41642169/",
+      "pmcid": "PMC12930408",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0001.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0002.gif"
+      ]
+    },
+    {
       "pmid": "41620329",
       "title": "Does preoperative joint space affect accuracy in splint-based Le Fort I osteotomy?",
       "authors": [
@@ -1881,6 +1940,113 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41592975/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42259694",
+      "title": "Mapping gaps in CBCT-based evidence of external apical root resorption following orthognathic surgery: a scoping review.",
+      "authors": [
+        "P Kanpittaya",
+        "R Nantanee",
+        "K S Fakhruddin",
+        "R Sumetcherngpratya"
+      ],
+      "publication_date": "2026-Jun-08",
+      "publication_date_iso": "2026-06-08",
+      "abstract": "External apical root resorption (EARR) is a recognized adverse outcome of orthodontic treatment that may also be influenced by orthognathic surgery. However, the body of evidence on this combined effect is nascent and has not been mapped. The aim of this scoping review was to systematically map and characterize the available literature on EARR measured using cone-beam computed tomography (CBCT) in surgical versus non-surgical jaws in orthognathic patients, and to identify key methodological and knowledge gaps to guide future research. The PRISMA-ScR guidelines were followed. Five electronic databases were searched, to December 2025. Two reviewers independently performed the study selection and data extraction, followed by a synthesis to map the evidence. The review identified four retrospective cohort studies involving 250 patients and over 2300 teeth. Three of the four included studies (75%) originated from a single research group. All studies assessed EARR using CBCT-derived measurements of root length and volume .Three of the studies reported greater EARR in surgical jaws, particularly involving the maxillary incisors, canines, and premolars . Volumetric analysis showed more pronounced changes than analysis of linear measurements . All studies were judged to have a moderate risk of bias, and substantial methodological heterogeneity was observed. In conclusion, this scoping review maps a limited evidence base that preliminarily reports an association between orthognathic surgery and increased EARR. The certainty of the evidence is low, and independent validation is absent. Well-designed prospective studies with standardized protocols are required to clarify clinical significance.",
+      "objective": "of this scoping review was to systematically map and characterize the available literature on EARR measured using cone-beam computed tomography (CBCT) in surgical versus non-surgical jaws in orthognathic patients, and to identify key methodological and knowledge gaps to guide future research. The PRISMA-ScR guidelines were followed. Five electronic databases were searched, to December 2025. Two reviewers independently performed the study selection and data extraction, followed by a synthesis to map the evidence. The review identified four retrospective cohort studies involving 250 patients and over 2300 teeth. Three of the four included studies (75%) originated from a single research group. All studies assessed EARR using CBCT-derived measurements of root length and volume .Three of the studies reported greater EARR in surgical jaws, particularly involving the maxillary incisors, canines, and premolars . Volumetric analysis showed more pronounced changes than analysis of linear measurements . All studies were judged to have a moderate risk of bias, and substantial methodological heterogeneity was observed. In",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": ", this scoping review maps a limited evidence base that preliminarily reports an association between orthognathic surgery and increased EARR. The certainty of the evidence is low, and independent validation is absent. Well-designed prospective studies with standardized protocols are required to clarify clinical significance.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42259694/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42253157",
+      "title": "Peri-implantitis-Is it mainly a clinician-initiated complication of implant therapy?",
+      "authors": [
+        "Stephen T Chen",
+        "Alberto Monje",
+        "Franz J Strauss",
+        "Frank Schwarz",
+        "Andrea Roccuzzo",
+        "Irena Sailer",
+        "Dennis Tarnow",
+        "France Lambert",
+        "Sascha Jovanovic",
+        "Daniel Buser"
+      ],
+      "publication_date": "2026-Jun-08",
+      "publication_date_iso": "2026-06-08",
+      "abstract": "The high prevalence of peri-implantitis is concerning, with a growing consensus that the majority of cases are complications initiated by clinician-related errors rather than classic pathology. A primary predisposing factor for peri-implantitis is exposure of the micro-rough implant surfaces to the peri-implant sulcus after treatment. To identify surgical/prosthetic factors causing micro-rough surface exposure and advocate for prevention and evidence-based protocols. This paper reviews evidence linking surgical and prosthetic errors to micro-rough surface exposure to the sulcus and subsequent peri-implantitis development. Surgical factors for surface exposure include malposition, avascular necrosis, and incomplete bone regeneration of peri-implant defects. Prosthetic factors include cement remnants and wide prosthetic emergence angles. Clinician-influenceable co-factors-including patient compliance, history of periodontitis, uncontrolled systemic factors/habits, lack of keratinized mucosa, prosthetic misfit, overcontoured/uncleansable prostheses, failure to detect early bone loss or mucosal changes, and inadequate maintenance-contribute to the initiation and progression of peri-implantitis once micro-rough surfaces are exposed. Most peri-implantitis cases are preventable complications. Professional education and research must prioritize identifying clinician-related errors and adherence to foundational treatment principles. This requires a paradigm shift toward a complication-based model of peri-implantitis. To reduce the risk of peri-implantitis, clinicians should avoid clinical errors that lead to exposure of the micro-rough implant surface. Hybrid surface designs and subcrestal micro-rough surface placement should be considered as safety buffers. Success depends on meticulous diagnostics and planning, proper surgical/prosthetic execution, cleansable prosthesis design, and proactive maintenance to detect early bone loss and soft tissue changes.",
+      "objective": "",
+      "study_methods": "This paper reviews evidence linking surgical and prosthetic errors to micro-rough surface exposure to the sulcus and subsequent peri-implantitis development.",
+      "methods": "This paper reviews evidence linking surgical and prosthetic errors to micro-rough surface exposure to the sulcus and subsequent peri-implantitis development.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42253157/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42253035",
+      "title": "Positive Longitudinal Caregiver Behavioral Ratings and Self-Reported Quality of Life in Youth With Cleft Lip and Palate in Treatment for Class III Malocclusion.",
+      "authors": [
+        "Alexis L Johns",
+        "Julia Zukin",
+        "Leia Yen",
+        "Amarjit Dass",
+        "Barbara Sheller",
+        "Hitesh P Kapadia",
+        "Stephen L-K Yen"
+      ],
+      "publication_date": "2026-Jun-08",
+      "publication_date_iso": "2026-06-08",
+      "abstract": "ObjectiveThis study describes behavior and quality of life (QoL) in youth with cleft lip and palate (CLP) during treatment for class III malocclusion.DesignProspective cohorts followed at baseline, maximal correction, treatment completion with debanding, and 1-year follow-up.ParticipantsYouth with CLP (n = 64-114) undergoing protraction (58%) or orthognathic surgery (42%) and their caregivers (n = 47-97).Main Outcome Measure(s)Child/Adult Behavior Checklists (C/ABCL) and Youth Quality of Life-Facial Differences (YQOL-FD).ResultsC/ABCL Externalizing, Internalizing, and Total Problems and YQOL-FD Negative Consequences, Negative Self-Image, and Stigma were significantly lower than norms across time points (Cohen's d = -0.22 to -0.93). Highest proportions above clinical cutoffs were for Internalizing (10%-17%) and Negative Self-Image (13%-15%). There were a few changes over time, and no differences based on treatment outcome.ConclusionsYouth with CLP had overall positive adjustment during treatment for class III malocclusion. Supports may target internalizing and self-image concerns.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "C/ABCL Externalizing, Internalizing, and Total Problems and YQOL-FD Negative Consequences, Negative Self-Image, and Stigma were significantly lower than norms across time points (Cohen's d = -0.22 to -0.93). Highest proportions above clinical cutoffs were for Internalizing (10%-17%) and Negative Self-Image (13%-15%). There were a few changes over time, and no differences based on treatment outcome.ConclusionsYouth with CLP had overall positive adjustment during treatment for class III malocclusion. Supports may target internalizing and self-image concerns.",
+      "conclusion": "Youth with CLP had overall positive adjustment during treatment for class III malocclusion. Supports may target internalizing and self-image concerns.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42253035/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42253028",
+      "title": "Evaluation of Osteomeatal Complex Anatomical Variations, Pathologies and Nasal Cavity Volume in Patients with Cleft Lip and Palate.",
+      "authors": [
+        "Tuğba Cebeci",
+        "Berceste Polat Akmansoy"
+      ],
+      "publication_date": "2026-Jun-08",
+      "publication_date_iso": "2026-06-08",
+      "abstract": "ObjectiveTo compare osteomeatal complex (OMC) anatomical variations and nasal cavity airway volume between individuals with cleft lip and palate (CLP) and healthy controls using cone beam computed tomography (CBCT).DesignRetrospective, cross-sectional study.SettingDepartment of dentomaxillofacial radiology.Patients/ParticipantsCBCT images of 200 individuals were evaluated: 100 patients with CLP (mean age 13.64 ± 4.32 years) and 100 age- and sex-matched controls (mean age 13.67 ± 4.32 years). Patients with syndromes, maxillofacial trauma, prior orthognathic surgery, or inadequate image quality were excluded.Main Outcome MeasuresPresence of OMC anatomical variations and nasal cavity airway volume.ResultsAgger nasi cells were the most common anatomical variation and hypertrophic turbinates were the most frequent pathology in both groups. Haller cells (p = 0.006) and nasal septal pneumatization (p = 0.001) were more prevalent in controls. In contrast, paradoxical middle turbinate (p = 0.015), nasal septal deviation (p = 0.001), and mucosal thickening (p = 0.001) were more frequent in CLP. Total nasal cavity airway volume did not differ significantly between groups.ConclusionsIndividuals with CLP exhibit distinct OMC anatomical patterns compared with controls; however, total nasal cavity volume is not significantly altered. These findings indicate that regional OMC alterations and overall nasal cavity volume represent related but distinct anatomical constructs.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Agger nasi cells were the most common anatomical variation and hypertrophic turbinates were the most frequent pathology in both groups. Haller cells (p = 0.006) and nasal septal pneumatization (p = 0.001) were more prevalent in controls. In contrast, paradoxical middle turbinate (p = 0.015), nasal septal deviation (p = 0.001), and mucosal thickening (p = 0.001) were more frequent in CLP. Total nasal cavity airway volume did not differ significantly between groups.ConclusionsIndividuals with CLP exhibit distinct OMC anatomical patterns compared with controls; however, total nasal cavity volume is not significantly altered. These findings indicate that regional OMC alterations and overall nasal cavity volume represent related but distinct anatomical constructs.",
+      "conclusion": "Individuals with CLP exhibit distinct OMC anatomical patterns compared with controls; however, total nasal cavity volume is not significantly altered. These findings indicate that regional OMC alterations and overall nasal cavity volume represent related but distinct anatomical constructs.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42253028/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2845,33 +3011,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42229148",
-      "title": "Dental Antibiotic Prescribing Practices and Antimicrobial Resistance Knowledge in Singapore.",
-      "authors": [
-        "Jia Qi Low",
-        "Marietta Taylor",
-        "Behnjemyn Jeng Kit Loh",
-        "Jacob Ren Jie Chew",
-        "Leanne Teoh",
-        "Charlene Enhui Goh"
-      ],
-      "publication_date": "2026-Jun-02",
-      "publication_date_iso": "2026-06-02",
-      "abstract": "While dental antibiotic prescribing accounts for approximately 10% of all antibiotic prescriptions across human healthcare worldwide, up to 80% are inappropriate. These contribute to the growing global health threat of antimicrobial resistance (AMR). Effective antibiotic stewardship requires an up-to-date understanding of antibiotic prescribing practices and knowledge. This study aimed to assess the antibiotic prescribing practices, knowledge and attitudes among dentists in Singapore. A survey was distributed in 2024 to dentists using convenience sampling through the mailing lists of professional dental organisations. Appropriate use was assessed by comparing the responses with dental prescribing guidelines and stratified by clinical specialty. Multivariable logistic regressions were used to identify dentist characteristics predicting appropriate prescribing. Two hundred and eighty dentists completed the questionnaire. Appropriate antibiotic prescribing varied widely, ranging from 6.5% to 97.7% across clinical scenarios. The lowest appropriate prescribing rates were observed for periodontal scenarios (30.4% ± 37.5%). Rates were similarly low for oral surgery scenarios (34.0% ± 29.0%) but higher for restorative (58.3% ± 28.6%) and for the management of medically complex patients (56.6% ± 18.0%). When faced with nonclinical pressures (eg, patient request for antibiotics, lack of a definitive diagnosis), only 21.1% to 37.5% practised appropriate prescribing. In multivariable regressions, locally trained dentists, those in the public sector, and those with fewer years of experience showed higher rates of appropriate prescribing. Although dentists recognised the importance of appropriate antibiotic use and the threat of AMR, many demonstrated inappropriate prescribing and gaps in their understanding of AMR. Future training interventions could increase awareness of recently published local guidelines and offer digital resources to address knowledge gaps and meet training demand. Implementation strategies are also needed to translate interventions into practice. Understanding antibiotic prescribing practices, knowledge, and attitudes among dentists in Singapore can guide targeted interventions to enhance antibiotic stewardship within the dental profession.",
-      "objective": "",
-      "study_methods": "A survey was distributed in 2024 to dentists using convenience sampling through the mailing lists of professional dental organisations. Appropriate use was assessed by comparing the responses with dental prescribing guidelines and stratified by clinical specialty. Multivariable logistic regressions were used to identify dentist characteristics predicting appropriate prescribing.",
-      "methods": "A survey was distributed in 2024 to dentists using convenience sampling through the mailing lists of professional dental organisations. Appropriate use was assessed by comparing the responses with dental prescribing guidelines and stratified by clinical specialty. Multivariable logistic regressions were used to identify dentist characteristics predicting appropriate prescribing.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42229148/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42228506",
       "title": "Ultrasound-Guided Closed Reduction of Zygomatic Arch Fractures: Clinical Utility According to Fracture Type.",
       "authors": [
@@ -2925,663 +3064,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42228150/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42227668",
-      "title": "Investigation of the effectiveness of different suture materials used in impacted mandibular third molar extractions on wound healing and clinical features.",
-      "authors": [
-        "Mehmet Melih Ömezli",
-        "Damla Torul",
-        "Zehra Doğanay"
-      ],
-      "publication_date": "2026-Jun-02",
-      "publication_date_iso": "2026-06-02",
-      "abstract": "The aim of this study was to explore the physical and clinical efficacy of different suture materials used following impacted third molar surgery. This retrospective study included patients who underwent mandibular third molar extraction and fulfilled the inclusion criteria. A total of six types of sutures were evaluated: silk, PGLA, PGLA-c, PET, PTFE, and PGCL. Wound healing, pain, and suture-related factors such as ease of manipulation, ease of removal, knot security and plaque accumulation were evaluated. Sixty-two teeth in 58 patients (20 males, 38 females) with a mean age of 19.87 ± 4.25 were included. No significant differences were observed among sutures in terms of wound healing, ease of manipulation, and pain, while significant differences were observed regarding knot security (p<0.001), plaque accumulation (p<0.001) and ease of removal (p=0.017). After 1 week, the highest knot security was observed in the PTFE suture, while the lowest was observed in the PGLA suture. Silk suture was found to be the easiest to remove compared to other materials. With the data gathered from this study, it can be concluded that suture materials used in impacted wisdom tooth surgery have a limited effect on wound healing and pain; however, they show clinically significant differences in terms of knot security, plaque accumulation and ease of suture removal.",
-      "objective": "of this study was to explore the physical and clinical efficacy of different suture materials used following impacted third molar surgery. This retrospective study included patients who underwent mandibular third molar extraction and fulfilled the inclusion criteria. A total of six types of sutures were evaluated: silk, PGLA, PGLA-c, PET, PTFE, and PGCL. Wound healing, pain, and suture-related factors such as ease of manipulation, ease of removal, knot security and plaque accumulation were evaluated. Sixty-two teeth in 58 patients (20 males, 38 females) with a mean age of 19.87 ± 4.25 were included. No significant differences were observed among sutures in terms of wound healing, ease of manipulation, and pain, while significant differences were observed regarding knot security (p<0.001), plaque accumulation (p<0.001) and ease of removal (p=0.017). After 1 week, the highest knot security was observed in the PTFE suture, while the lowest was observed in the PGLA suture. Silk suture was found to be the easiest to remove compared to other materials. With the data gathered from this study, it can be concluded that suture materials used in impacted wisdom tooth surgery have a limited effect on wound healing and pain; however, they show clinically significant differences in terms of knot security, plaque accumulation and ease of suture removal.",
-      "study_methods": "This retrospective study included patients who underwent mandibular third molar extraction and fulfilled the inclusion criteria. A total of six types of sutures were evaluated: silk, PGLA, PGLA-c, PET, PTFE, and PGCL. Wound healing, pain, and suture-related factors such as ease of manipulation, ease of removal, knot security and plaque accumulation were evaluated.",
-      "methods": "This retrospective study included patients who underwent mandibular third molar extraction and fulfilled the inclusion criteria. A total of six types of sutures were evaluated: silk, PGLA, PGLA-c, PET, PTFE, and PGCL. Wound healing, pain, and suture-related factors such as ease of manipulation, ease of removal, knot security and plaque accumulation were evaluated.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42227668/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42229721",
-      "title": "Perception of the Malar Midface of Patients with Class III Malocclusion after Le Fort I Osteotomy.",
-      "authors": [
-        "Louis Brochet",
-        "Paul Cresseaux",
-        "Andrea Varazzani",
-        "Edouard Lange",
-        "Pierre Bouletreau",
-        "Simon Rasteau"
-      ],
-      "publication_date": "2026-Jun-01",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Maxillo-zygomatic hypoplasia is common in patients with a class III malocclusion, resulting in a flat and concave appearance of the midface. Le Fort I osteotomy is considered to be an effective treatment for occlusal and facial aesthetic but there are discrepancies regarding its impact on the volume of the maxillo-zygomatic region, while several studies reported no volumetric impact. The aim of the study was to assess the impact of Le Fort I osteotomy on the malar midface of patients with class III malocclusion, based on the perceptions of maxillofacial surgeons (MFS) and laypersons. MFS and laypersons evaluated the maxillo-zygomatic volume based on the photographs of 26 patients with Class III malocclusion, treated with or without conventional Le Fort I osteotomy. The questionnaire focused on the subjective analysis of the malar midface and the participants were asked to rate the maxillo-zygomatic volume using a Likert scale ranging from 1 to 5. The results were modelled to test the different distributions of the 5 scores between the pre-operative and post-operative assessment of the photographs. A total of 78 evaluators responded to the questionnaire; age and sex distributions were similar between the two groups. According to all evaluators, 52.5% of patients still presented insufficient maxillo-zygomatic volume after Le Fort I osteotomy; there was no significant difference regarding a decrease in the flat maxillo-zygomatic volume score between operated (17.1%) and non-operated patients (23.7%; p=0.320). Laypersons significantly reported lower flat and insufficient volumes (scores 1-2; 45.0%) compared to MFS (61.8%; p=0.003). Approximately half of patients with Class III malocclusion still present insufficient maxillo-zygomatic volume after Le Fort I osteotomy. Subjective perception of malar volume may remain insufficient in a substantial proportion of patients following conventional Le Fort I osteotomy leading to the need of additional surgical treatments on the maxillo-zygomatic region. Sex, ethnic, morphology and age should be considered in the therapeutic strategy for the midface.",
-      "objective": "of the study was to assess the impact of Le Fort I osteotomy on the malar midface of patients with class III malocclusion, based on the perceptions of maxillofacial surgeons (MFS) and laypersons. MFS and laypersons evaluated the maxillo-zygomatic volume based on the photographs of 26 patients with Class III malocclusion, treated with or without conventional Le Fort I osteotomy. The questionnaire focused on the subjective analysis of the malar midface and the participants were asked to rate the maxillo-zygomatic volume using a Likert scale ranging from 1 to 5. The",
-      "study_methods": "MFS and laypersons evaluated the maxillo-zygomatic volume based on the photographs of 26 patients with Class III malocclusion, treated with or without conventional Le Fort I osteotomy. The questionnaire focused on the subjective analysis of the malar midface and the participants were asked to rate the maxillo-zygomatic volume using a Likert scale ranging from 1 to 5. The results were modelled to test the different distributions of the 5 scores between the pre-operative and post-operative assessment of the photographs.",
-      "methods": "MFS and laypersons evaluated the maxillo-zygomatic volume based on the photographs of 26 patients with Class III malocclusion, treated with or without conventional Le Fort I osteotomy. The questionnaire focused on the subjective analysis of the malar midface and the participants were asked to rate the maxillo-zygomatic volume using a Likert scale ranging from 1 to 5. The results were modelled to test the different distributions of the 5 scores between the pre-operative and post-operative assessment of the photographs.",
-      "results": "ing in a flat and concave appearance of the midface. Le Fort I osteotomy is considered to be an effective treatment for occlusal and facial aesthetic but there are discrepancies regarding its impact on the volume of the maxillo-zygomatic region, while several studies reported no volumetric impact. The aim of the study was to assess the impact of Le Fort I osteotomy on the malar midface of patients with class III malocclusion, based on the perceptions of maxillofacial surgeons (MFS) and laypersons. MFS and laypersons evaluated the maxillo-zygomatic volume based on the photographs of 26 patients with Class III malocclusion, treated with or without conventional Le Fort I osteotomy. The questionnaire focused on the subjective analysis of the malar midface and the participants were asked to rate the maxillo-zygomatic volume using a Likert scale ranging from 1 to 5. The results were modelled to test the different distributions of the 5 scores between the pre-operative and post-operative assessment of the photographs. A total of 78 evaluators responded to the questionnaire; age and sex distributions were similar between the two groups. According to all evaluators, 52.5% of patients still presented insufficient maxillo-zygomatic volume after Le Fort I osteotomy; there was no significant difference regarding a decrease in the flat maxillo-zygomatic volume score between operated (17.1%) and non-operated patients (23.7%; p=0.320). Laypersons significantly reported lower flat and insufficient volumes (scores 1-2; 45.0%) compared to MFS (61.8%; p=0.003). Approximately half of patients with Class III malocclusion still present insufficient maxillo-zygomatic volume after Le Fort I osteotomy. Subjective perception of malar volume may remain insufficient in a substantial proportion of patients following conventional Le Fort I osteotomy leading to the need of additional surgical treatments on the maxillo-zygomatic region. Sex, ethnic, morphology and age should be considered in the therapeutic strategy for the midface.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42229721/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42224036",
-      "title": "Surgical Strategies Before Auricular Reconstruction: A Treatment Algorithm for Craniofacial Anomalies in Goldenhar Syndrome.",
-      "authors": [
-        "Kenzo A Fukumoto-Inukai",
-        "A Nicole Llamas-Ostos",
-        "Damián Palafox",
-        "Miguel A Domínguez-Varela",
-        "Stephany Flores-Saavedra",
-        "Mariana Gutiérrez-Neri-Pérez",
-        "Hernando A Vázquez-Sanchez",
-        "Daniela Guerrero-Salazar",
-        "Armando G Apellaniz-Campo"
-      ],
-      "publication_date": "2026-Jun-01",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Goldenhar syndrome (GS) presents complex craniofacial malformations and challenging timing for auricular reconstruction. This study characterizes the craniofacial phenotype and staged surgical management preceding ear reconstruction. Single-center retrospective cohort of 30 patients (2019-2024). Craniofacial anomalies and all procedures performed before auricular reconstruction were recorded. Categorical data were summarized as n (%), and ages as median. Auricular anomalies were universal; microtia occurred in 27/30 (90.0%) and external auditory canal atresia in 43.3%. Hemifacial microsomia with mandibular hypoplasia affected 100%, predominantly right-sided, with Pruzansky-Kaban types I 10.0%, IIA 40.0%, IIB 10.0%, and III 33.3%. Epibulbar dermoids were present in 93.3%, macrostomia in 43.3%, and congenital facial nerve palsy in 26.7%. Key procedures followed an age-adapted sequence: primary palatoplasty in 36.7% at 1.2 years [1.0-3.1]; macrostomia repair in 40.0% at 1.0 year [0.8-2.6]; primary mandibular distraction in 50.0% at 7.0 years [4.0-7.0]; secondary distraction in 23.3% at 11.0 years [7.0-14.0]; and microvascular free fibula flap in 40.0% at 14.0 years [10.0-14.5]. Orthognathic surgery was reserved for skeletal maturity (Le Fort I, BSSO, genioplasty at 18.0-20.5 y), while auricular reconstruction stages I to III were completed at 10.0 [9.0-14.8], 13.0 [10.8-15.3], and 18.0 [16.5-19.5] years, respectively. GS in this cohort showed near-universal syndromic microtia with frequent mandibular hypoplasia, macrostomia, and epibulbar dermoids. An age-based sequence, from early cleft/macrostomia repair, through childhood distraction and adolescent fibula/orthognathic surgery, to delayed costochondral auricular reconstruction, provides a structured framework for correction before ear reconstruction.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42224036/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42220238",
-      "title": "Evaluating Two-Piece Le Fort I Osteotomy for Residual Alveolar Clefts: Case Series Highlighting Occlusal Outcomes and Radiographic Results.",
-      "authors": [
-        "Thomas Ren",
-        "Jordan P Steinberg",
-        "Robin Yang",
-        "Pasha Shakoori",
-        "Ilana M Zinn"
-      ],
-      "publication_date": "2026-Jun-01",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "ObjectivesTo assess the clinical and radiographic outcomes of segmental two-piece Le Fort I osteotomy in patients with cleft lip and palate (CLP) with residual alveolar clefts.DesignThis retrospective case series assessed the occlusal outcomes after Le Fort I osteotomy, and radiographic alveolar continuity using cone-beam computed tomography (CBCT).SettingTertiary cleft and craniofacial center within an academic institution.Patients/ParticipantsPatients aged ≥12 years with unilateral cleft lip and palate (UCLP) who presented with an anterior crossbite and residual alveolar defect and underwent orthodontic treatment and Le Fort I osteotomy between 2019 and 2025.InterventionsFour patients with UCLP underwent pre-surgical orthodontic treatment to prepare for orthognathic surgery. Extractions were performed to correct crowding and/or dental impactions. Patients then underwent Le Fort I osteotomies to correct the anterior crossbite and close the cleft gap.Main Outcome MeasuresCorrection of dental malocclusion and assessment of alveolar bone support of the residual alveolar cleft following segmental two-piece Le Fort I osteotomy.ResultsIn all cases, anterior crossbite was corrected to positive overjet with normal overbite. Results were well accepted by all patients. Size of cleft defects was reduced with radiographic evidence of osseous continuity. The need for prosthodontic replacement teeth was eliminated in each case.ConclusionsAll four patients who underwent orthodontic treatment and segmental two-piece Le Fort I osteotomy resulted in corrected the anterior crossbite and closure of the cleft gap. Patients underwent several extractions to ensure that the remaining teeth were centered in alveolar bone, and their final occlusion was functional and stable.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "In all cases, anterior crossbite was corrected to positive overjet with normal overbite. Results were well accepted by all patients. Size of cleft defects was reduced with radiographic evidence of osseous continuity. The need for prosthodontic replacement teeth was eliminated in each case.ConclusionsAll four patients who underwent orthodontic treatment and segmental two-piece Le Fort I osteotomy resulted in corrected the anterior crossbite and closure of the cleft gap. Patients underwent several extractions to ensure that the remaining teeth were centered in alveolar bone, and their final occlusion was functional and stable.",
-      "conclusion": "All four patients who underwent orthodontic treatment and segmental two-piece Le Fort I osteotomy resulted in corrected the anterior crossbite and closure of the cleft gap. Patients underwent several extractions to ensure that the remaining teeth were centered in alveolar bone, and their final occlusion was functional and stable.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42220238/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42219396",
-      "title": "Deep learning for automatic segmentation of the inferior alveolar nerve using a hybrid CNN-transformer framework.",
-      "authors": [
-        "Ho-Kyung Lim",
-        "Seok-Ki Jung",
-        "Yongwon Cho",
-        "In-Seok Song"
-      ],
-      "publication_date": "2026-Jun-01",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Accurate identification of the inferior alveolar nerve (IAN) is essential for preventing nerve injury during dental and maxillofacial procedures such as tooth extraction, implant placement, and orthognathic surgery. However, manual annotation of the IAN in cone-beam computed tomography (CBCT) is challenging because of image noise, anatomical variability, and the complex three-dimensional curvature of the nerve pathway. In this study, we propose an improved automatic segmentation framework for IAN identification in CBCTs using a hybrid CNN-attention architecture built upon the nnU-Net framework. The proposed framework introduces a task-specific CNN-attention hybrid architecture with stage-restricted Permuted Adaptive Instance Normalization (Permuted AdaIN) and decoder-stage contextual refinement to improve robustness to appearance variability while preserving anatomical continuity in thin tubular nerve segmentation. Permuted AdaIN is selectively applied to encoder stage 2 to encourage appearance-invariant feature representations while preserving boundary-sensitive anatomical structures. In addition, the decoder attention module refines contextual interactions between encoder and decoder features after skip fusion, improving segmentation consistency of the thin tubular nerve structure. A total of 130 CBCTs from two institutions were used for training and evaluation. The proposed method achieved Dice similarity coefficients of 0.63 ± 0.17 on the internal dataset (KUAH) and 0.62 ± 0.12 on the external dataset (KUGH), showing a modest numerical improvement compared with nnU-Net (0.60 ± 0.18 and 0.59 ± 0.11, respectively). In addition, the proposed method achieved lower boundary errors, with HD95 values of 2.96 ± 1.27 mm and 3.72 ± 7.63 mm, and ASSD values of 1.22 ± 0.49 mm and 1.29 ± 2.10 mm for the internal and external datasets, respectively. Qualitative analysis further demonstrated improved boundary alignment and continuity of the segmented nerve trajectory. These results suggest that the proposed framework may improve segmentation consistency and boundary agreement in automated IAN segmentation on CBCT images, although the magnitude of improvement over nnU-Net should be interpreted cautiously.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "suggest that the proposed framework may improve segmentation consistency and boundary agreement in automated IAN segmentation on CBCT images, although the magnitude of improvement over nnU-Net should be interpreted cautiously.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42219396/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42206133",
-      "title": "Potential of Auriculotherapy in Pain, Edema and Anxiety Management Following Orthognathic Surgery: A Multicenter, Randomized, Placebo-Controlled and Triple-Blind Study.",
-      "authors": [
-        "Luigi Angelo Vaira",
-        "Giovanni Salzano",
-        "Fabio Maglitto",
-        "Umberto Committeri",
-        "Jerom R Lechien",
-        "Miguel Mayo-Yáñez",
-        "Marco Friscia",
-        "Vincenzo Abbate",
-        "Pasquale Piombino",
-        "Luigi Califano",
-        "Giacomo De Riu"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "This multicenter, triple-blind, randomized, placebo-controlled study aims to evaluate the efficacy and safety of auriculotherapy in managing pain, edema, and anxiety following orthognathic surgical procedures. The study involved patients undergoing bimaxillary orthognathic surgery at two centers. Participants were randomized into two groups: the auriculotherapy group (AG), where vaccaria seeds were applied to six auricular points, and a placebo group (PG), where patches without seeds were applied to the same points. For ten-day post-surgery, patients underwent assessments of their pain levels, swelling, and anxiety. Sixty-one patients were included (31 in the AG and 30 in the PG). The differences in pain level between the two groups were not significant until the 5-day check. Subsequently, the AG showed significantly lower levels of pain up to the 10-day follow-up. During the study period, patients in the AG consumed a significantly lower number of pain-relief medications compared to the PG (AG 18 [IQR 15.5-22.5], PG 22 [IQR 17.8-24], p = 0.025).The differences between the two groups regarding the severity of the edema were not significant at all time points. The two groups did not show significant differences in terms of preoperative anxiety score. Ten days after the surgical procedure, the PG exhibited significantly higher anxiety levels compared to the AG. Auriculotherapy has shown promise in managing post-orthognathic surgery pain and reducing patient anxiety, while also allowing reduced medication intake. For these reasons, it could serve as a cost-effective and side-effect-free therapeutic adjunct for these patients.",
-      "objective": "to evaluate the efficacy and safety of auriculotherapy in managing pain, edema, and anxiety following orthognathic surgical procedures. The study involved patients undergoing bimaxillary orthognathic surgery at two centers. Participants were randomized into two groups: the auriculotherapy group (AG), where vaccaria seeds were applied to six auricular points, and a placebo group (PG), where patches without seeds were applied to the same points. For ten-day post-surgery, patients underwent assessments of their pain levels, swelling, and anxiety. Sixty-one patients were included (31 in the AG and 30 in the PG). The differences in pain level between the two groups were not significant until the 5-day check. Subsequently, the AG showed significantly lower levels of pain up to the 10-day follow-up. During the study period, patients in the AG consumed a significantly lower number of pain-relief medications compared to the PG (AG 18 [IQR 15.5-22.5], PG 22 [IQR 17.8-24], p = 0.025).The differences between the two groups regarding the severity of the edema were not significant at all time points. The two groups did not show significant differences in terms of preoperative anxiety score. Ten days after the surgical procedure, the PG exhibited significantly higher anxiety levels compared to the AG. Auriculotherapy has shown promise in managing post-orthognathic surgery pain and reducing patient anxiety, while also allowing reduced medication intake. For these reasons, it could serve as a cost-effective and side-effect-free therapeutic adjunct for these patients.",
-      "study_methods": "The study involved patients undergoing bimaxillary orthognathic surgery at two centers. Participants were randomized into two groups: the auriculotherapy group (AG), where vaccaria seeds were applied to six auricular points, and a placebo group (PG), where patches without seeds were applied to the same points. For ten-day post-surgery, patients underwent assessments of their pain levels, swelling, and anxiety.",
-      "methods": "The study involved patients undergoing bimaxillary orthognathic surgery at two centers. Participants were randomized into two groups: the auriculotherapy group (AG), where vaccaria seeds were applied to six auricular points, and a placebo group (PG), where patches without seeds were applied to the same points. For ten-day post-surgery, patients underwent assessments of their pain levels, swelling, and anxiety.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42206133/",
-      "pmcid": "PMC13201742",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13201742/bin/12663_2024_2431_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13201742/bin/12663_2024_2431_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13201742/bin/12663_2024_2431_Fig3_HTML.jpg"
-      ]
-    },
-    {
-      "pmid": "42206130",
-      "title": "Impact of Nasal Intubation Tube Design on Nasal Morphology in Orthognathic Surgery: a Comparative Study.",
-      "authors": [
-        "Merve Öztürk Muhtar",
-        "Sabahat Zeynep Yey Özkeskin",
-        "Yusuf Bekir Kara",
-        "Pelin Corman Dincer",
-        "Erol Cansız"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "This study compared the effects of two different intubation tube designs used in orthognathic surgery on nasal morphology alterations, utilizing three-dimensional imaging. Three-dimensional facial scanning (3DFS) images obtained from 22 patients preoperatively (T0) and at six months postoperatively (T1) were retrospectively analyzed. The patients were categorized into two groups according to the type of the intubation tube used (Group I: Cuffed Reinforced Endotracheal Tube; Group II: North Polar Endotracheal Tube (Portex® North Polar tube)). Following the identification of reference anatomical landmarks, nasal soft tissue measurements were conducted. In Group I, a significant difference in right nostril axis was found between T0 and T1 (p = 0,038). Intragroup analysis of the right and left Nasal-Alar (N-A) angles revealed significant changes between T0 and T1 measurements. At T1, the right N-A angles in Group I were significantly different from those in Group II (53.00 ± 4.77 vs. 48.72 ± 4.70, respectively; p = 0.047). The right-left nostril width difference was statistically greater in Group I compared to Group II at T1 (median values 154; 60, respectively). The design and material of the intubation tube should be considered a contributing factor that may influence the nasal morphology.",
-      "objective": "",
-      "study_methods": "Three-dimensional facial scanning (3DFS) images obtained from 22 patients preoperatively (T0) and at six months postoperatively (T1) were retrospectively analyzed. The patients were categorized into two groups according to the type of the intubation tube used (Group I: Cuffed Reinforced Endotracheal Tube; Group II: North Polar Endotracheal Tube (Portex® North Polar tube)). Following the identification of reference anatomical landmarks, nasal soft tissue measurements were conducted.",
-      "methods": "Three-dimensional facial scanning (3DFS) images obtained from 22 patients preoperatively (T0) and at six months postoperatively (T1) were retrospectively analyzed. The patients were categorized into two groups according to the type of the intubation tube used (Group I: Cuffed Reinforced Endotracheal Tube; Group II: North Polar Endotracheal Tube (Portex® North Polar tube)). Following the identification of reference anatomical landmarks, nasal soft tissue measurements were conducted.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42206130/",
-      "pmcid": "PMC13201700",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42125759",
-      "title": "A Comparison of Outcomes and Complications Between Closed Reduction and Open Reduction of Mandibular Condylar and Subcondylar Fractures.",
-      "authors": [
-        "Robert E Africa",
-        "Brian J McKinnon",
-        "Viran J Ranasinghe"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "To compare postoperative outcomes and complications between closed reduction and open reduction and internal fixation (ORIF) of condylar and subcondylar fractures. This is a multicenter, retrospective database study utilizing data from 64 healthcare organizations in the United States from January 1, 2010 to July 31, 2025. The TriNetX database was used to identify adult patients ages 18 years or older with a history of condylar or subcondylar fractures. These patients were either treated with closed reduction or ORIF. The relative risks (RRs) with 95% confidence intervals (CIs) for outcomes and complications were assessed within 1 year postoperatively. Infection at or around the surgical site was more common with ORIF (RR: 0.64 [0.47-0.88]), while jaw pain and malocclusion were more frequent after closed reduction (RR: 1.73 [1.29-2.33]; 1.61 [1.21-2.15]). Malunion/nonunion and wound disruption rates were similar between groups (RR: 0.95 [0.61-1.48]; 1.33 [0.69-2.59]), and there were no facial nerve injuries. Patients treated with closed reduction had higher 30- and 90-day emergency department visit rates (RR: 1.90 [1.55-2.33]; 1.73 [1.44-2.09]). Closed reduction is associated with a higher rate of jaw pain, malocclusion, and visits to the emergency department when compared to ORIF, but associated with an increased risk of infection. There was no risk of facial nerve injury or osteomyelitis with either treatment options. 3.",
-      "objective": "",
-      "study_methods": "This is a multicenter, retrospective database study utilizing data from 64 healthcare organizations in the United States from January 1, 2010 to July 31, 2025. The TriNetX database was used to identify adult patients ages 18 years or older with a history of condylar or subcondylar fractures. These patients were either treated with closed reduction or ORIF. The relative risks (RRs) with 95% confidence intervals (CIs) for outcomes and complications were assessed within 1 year postoperatively.",
-      "methods": "This is a multicenter, retrospective database study utilizing data from 64 healthcare organizations in the United States from January 1, 2010 to July 31, 2025. The TriNetX database was used to identify adult patients ages 18 years or older with a history of condylar or subcondylar fractures. These patients were either treated with closed reduction or ORIF. The relative risks (RRs) with 95% confidence intervals (CIs) for outcomes and complications were assessed within 1 year postoperatively.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42125759/",
-      "pmcid": "PMC13158579",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42057273",
-      "title": "How Dietary Restrictions Can Lead to Being Caught in a Negative Spiral: A Qualitative Study of Patients' Experiences After Orthognathic Surgery.",
-      "authors": [
-        "Eva Dorby Vest Hansen",
-        "Line Lundell Andreasen",
-        "Ulrik Sundberg Simonsen",
-        "Charlotte Nielsen"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "The purpose of this qualitative study was to explore patients' experiences following orthognathic surgery with a focus on dietary management. To gain in-depth knowledge of patients' postoperative dietary management, a phenomenological-hermeneutic approach was applied, in which data were collected through individual semi-structured telephone interviews. Eleven patients (seven men, four women, aged 19-44) were recruited through purposive sampling during two periods in 2023 and 2024. The interviews were conducted 5-6 weeks postoperatively during home recovery and lasted on average 31 min. The data analysis was based on Ricoeur's theory of narrative interpretation. Four themes emerged describing challenges regarding dietary protocols: (1) patients struggle with dietary restrictions due to a lack of information, (2) to be in a negative spiral, (3) soft non-chew diet as a period of restrictions, and (4) dietary restrictions cause psychosocial burden. The dietary challenges were primarily practical and often linked to insufficient information. Consequently, patients reported psychosocial difficulties, often describing a sense of being caught in a negative spiral. These experiences may reflect limited health literacy. The findings highlight the need for a more structured approach to nutritional care to enhance patients' health literacy, strengthen their self-management skills and support better recovery outcomes in the orthognathic trajectory. The study has led to changes in both nutritional protocols and patient education for patients undergoing orthognathic surgery.",
-      "objective": "of this qualitative study was to explore patients' experiences following orthognathic surgery with a focus on dietary management. To gain in-depth knowledge of patients' postoperative dietary management, a phenomenological-hermeneutic approach was applied, in which data were collected through individual semi-structured telephone interviews. Eleven patients (seven men, four women, aged 19-44) were recruited through purposive sampling during two periods in 2023 and 2024. The interviews were conducted 5-6 weeks postoperatively during home recovery and lasted on average 31 min. The data analysis was based on Ricoeur's theory of narrative interpretation. Four themes emerged describing challenges regarding dietary protocols: (1) patients struggle with dietary restrictions due to a lack of information, (2) to be in a negative spiral, (3) soft non-chew diet as a period of restrictions, and (4) dietary restrictions cause psychosocial burden. The dietary challenges were primarily practical and often linked to insufficient information. Consequently, patients reported psychosocial difficulties, often describing a sense of being caught in a negative spiral. These experiences may reflect limited health literacy. The findings highlight the need for a more structured approach to nutritional care to enhance patients' health literacy, strengthen their self-management skills and support better recovery outcomes in the orthognathic trajectory. The study has led to changes in both nutritional protocols and patient education for patients undergoing orthognathic surgery.",
-      "study_methods": "To gain in-depth knowledge of patients' postoperative dietary management, a phenomenological-hermeneutic approach was applied, in which data were collected through individual semi-structured telephone interviews. Eleven patients (seven men, four women, aged 19-44) were recruited through purposive sampling during two periods in 2023 and 2024. The interviews were conducted 5-6 weeks postoperatively during home recovery and lasted on average 31 min. The data analysis was based on Ricoeur's theory of narrative interpretation.",
-      "methods": "To gain in-depth knowledge of patients' postoperative dietary management, a phenomenological-hermeneutic approach was applied, in which data were collected through individual semi-structured telephone interviews. Eleven patients (seven men, four women, aged 19-44) were recruited through purposive sampling during two periods in 2023 and 2024. The interviews were conducted 5-6 weeks postoperatively during home recovery and lasted on average 31 min. The data analysis was based on Ricoeur's theory of narrative interpretation.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42057273/",
-      "pmcid": "PMC13129251",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129251/bin/JHN-39-0-g003.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129251/bin/JHN-39-0-g003.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129251/bin/JHN-39-0-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13129251/bin/JHN-39-0-g002.gif"
-      ]
-    },
-    {
-      "pmid": "42033993",
-      "title": "Outcomes of cosmetic suturing versus tissue adhesive for pediatric forehead lacerations: A retrospective cohort study adjusting for injury severity.",
-      "authors": [
-        "Yunzhen Zhang",
-        "Yingtie Cui",
-        "Fangfang Li",
-        "Lei Xue",
-        "Qi Liu",
-        "Yiming Wang",
-        "Xiang Li",
-        "Zhaoming Liu"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "To compare the clinical outcomes of cosmetic layered suturing versus medical tissue adhesive in pediatric forehead lacerations, with specific emphasis on the risk of dynamic expression dimpling and long-term scar quality, after adjusting for baseline wound severity. A retrospective cohort study was conducted on 265 pediatric patients with acute forehead trauma treated between October 2023 and May 2024. Patients were stratified into a Cosmetic Suture Group (n=135) and Tissue Adhesive Group (n=130). A post-hoc power analysis confirmed sample adequacy. Baseline characteristics were analyzed to identify selection bias. The primary outcomes were the incidence of dynamic expression dimpling and 12-month Vancouver Scar Scale (VSS) score. Multivariable regression and sensitivity analyses using propensity score matching (PSM) were performed. Significant selection bias was observed: the Suture Group managed wounds that were significantly deeper (P<0.001) and longer (P<0.001). Despite treating less severe injuries, the Adhesive Group exhibited a significantly higher incidence of postoperative dynamic expression dimpling (11.5% vs. 3.0%, P=0.007). Sensitivity analysis via PSM confirmed that tissue adhesive was an independent risk factor for expression dimpling (OR=3.92, P=0.029). Regarding long-term scar appearance, linear regression revealed that 12-month VSS scores were predicted by initial wound depth (β=0.312, P<0.001) and the use of postoperative laser therapy (β=-0.205, P=0.001), rather than the closure method itself (P=0.345). Although tissue adhesives offer procedural convenience, they are associated with a quadrupled risk of dynamic expression dimpling compared to suturing, likely owing to inadequate approximation of the underlying frontalis muscle. Layered cosmetic suturing is essential for preventing contour deformities in deep lacerations. Furthermore, postoperative laser therapy is a validated independent factor for optimizing scar outcomes.",
-      "objective": "",
-      "study_methods": "A retrospective cohort study was conducted on 265 pediatric patients with acute forehead trauma treated between October 2023 and May 2024. Patients were stratified into a Cosmetic Suture Group (n=135) and Tissue Adhesive Group (n=130). A post-hoc power analysis confirmed sample adequacy. Baseline characteristics were analyzed to identify selection bias. The primary outcomes were the incidence of dynamic expression dimpling and 12-month Vancouver Scar Scale (VSS) score. Multivariable regression and sensitivity analyses using propensity score matching (PSM) were performed.",
-      "methods": "A retrospective cohort study was conducted on 265 pediatric patients with acute forehead trauma treated between October 2023 and May 2024. Patients were stratified into a Cosmetic Suture Group (n=135) and Tissue Adhesive Group (n=130). A post-hoc power analysis confirmed sample adequacy. Baseline characteristics were analyzed to identify selection bias. The primary outcomes were the incidence of dynamic expression dimpling and 12-month Vancouver Scar Scale (VSS) score. Multivariable regression and sensitivity analyses using propensity score matching (PSM) were performed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42033993/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42013518",
-      "title": "Advantages of Combined Multiple-Case Teaching and Narrative Medicine Teaching Methods in Orthognathic Surgery.",
-      "authors": [
-        "Kan Li",
-        "Chen Li",
-        "Xiang Li",
-        "Siyong Gao",
-        "Huanzhong Ji",
-        "Xueying Mei",
-        "Xueting Luo",
-        "Guangsen Zheng"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "This study aims to evaluate the effectiveness and efficiency of combined multiple-case teaching (MCT) and narrative medicine teaching (NMT) method compared with lecture-based learning (LBL) in the clinical practical teaching of orthognathic surgery.1 METHODS: This study included 102 fourth-year undergraduate students from the Guanghua School of Stomatology, Sun Yat-sen University, who were randomly divided into the MCT-NMT group or the LBL group. Learning outcomes and student satisfaction were evaluated through post-class test, medical record writing, and anonymous questionnaires. Compared with LBL group, students in the MCT-NMT group showed significant improvements in medical record scores, perceived ability and satisfaction with teaching. The course enhanced students' understanding of theoretical knowledge and improved their communication and expression abilities. MCT combined with NMT may be an effective method for improving dental students' technical and humanistic abilities, and is a teaching method that is more worthy of promotion than traditional education models. The essence of MCT-NMT is to transform 'fragmented knowledge' into 'systematic clinical capabilities.' This shift in teaching methodology ultimately may drive orthognathic surgery from 'technology-driven' to 'technology + humanities dual-driven' high-quality development.",
-      "objective": "to evaluate the effectiveness and efficiency of combined multiple-case teaching (MCT) and narrative medicine teaching (NMT)",
-      "study_methods": "METHODS: This study included 102 fourth-year undergraduate students from the Guanghua School of Stomatology, Sun Yat-sen University, who were randomly divided into the MCT-NMT group or the LBL group. Learning outcomes and student satisfaction were evaluated through post-class test, medical record writing, and anonymous questionnaires. Compared with LBL group, students in the MCT-NMT group showed significant improvements in medical record scores, perceived ability and satisfaction with teaching. The course enhanced students' understanding of theoretical knowledge and improved their communication and expression abilities. MCT combined with NMT may be an effective method for improving dental students' technical and humanistic abilities, and is a teaching method that is more worthy of promotion than traditional education models. The essence of MCT-NMT is to transform 'fragmented knowledge' into 'systematic clinical capabilities.' This shift in teaching methodology ultimately may drive orthognathic surgery from 'technology-driven' to 'technology + humanities dual-driven' high-quality development.",
-      "methods": "METHODS: This study included 102 fourth-year undergraduate students from the Guanghua School of Stomatology, Sun Yat-sen University, who were randomly divided into the MCT-NMT group or the LBL group. Learning outcomes and student satisfaction were evaluated through post-class test, medical record writing, and anonymous questionnaires. Compared with LBL group, students in the MCT-NMT group showed significant improvements in medical record scores, perceived ability and satisfaction with teaching. The course enhanced students' understanding of theoretical knowledge and improved their communication and expression abilities. MCT combined with NMT may be an effective method for improving dental students' technical and humanistic abilities, and is a teaching method that is more worthy of promotion than traditional education models. The essence of MCT-NMT is to transform 'fragmented knowledge' into 'systematic clinical capabilities.' This shift in teaching methodology ultimately may drive orthognathic surgery from 'technology-driven' to 'technology + humanities dual-driven' high-quality development.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42013518/",
-      "pmcid": "PMC13122224",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13122224/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13122224/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13122224/bin/gr2.jpg"
-      ]
-    },
-    {
-      "pmid": "41966788",
-      "title": "A comparative study of three pterygomaxillary disjunction methods in Le Fort I osteotomy: a clinical and morphological analysis.",
-      "authors": [
-        "Keigo Maeda",
-        "Shinsuke Yamamoto",
-        "Naoki Taniike"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "This study aimed to compare three pterygomaxillary disjunction (PMD) techniques-curved osteotome, non-instrumental technique, and ultrasonic bone scalpel-to identify the safest and most reliable method for Le Fort I osteotomy. This study included 152 patients who underwent orthognathic bimaxillary surgery to correct dentofacial deformities. Complete or incomplete PMD was evaluated using postoperative computed tomography (CT) images, and anatomical parameters of the pterygomaxillary junction were extracted from preoperative CT images. Patients were divided into three groups based on the PMD technique: curved osteotome, non-instrumental technique, and ultrasonic bone scalpel. No significant difference in achieving complete PMD was observed between the curved osteotome and non-instrumental technique (odds ratio [OD] = 1.09, 95% confidence interval [CI]: 0.59-2.02, p = 0.78). However, the ultrasonic bone scalpel had a significantly higher success rate of PMD than the curved osteotome (OD = 2.27, 95% CI: 1.24-4.22, p = 0.008). Younger age, female sex, skeletal Class III subjects, and a greater width and depth of the pterygomaxillary fissure are associated with complete PMD. No complications were observed in any of the patients. This study demonstrated that the ultrasonic bone scalpel is a safe technique with a high success rate for achieving complete PMD.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41966788/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41946616",
-      "title": "Altered sensation of the inferior alveolar nerve in sagittal spilt osteotomies: a review of cases at a major UK centre over 10 years.",
-      "authors": [
-        "Masa Shammout",
-        "Jeffrey Abdullah",
-        "Aya Shammout",
-        "Rhodri Williams",
-        "Kevin McMillan"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Inferior alveolar nerve (IAN) injuries are common complications of orthognathic surgery, with incidences reported from 0% to 85% due to inconsistent definitions, assessment methods and follow-up protocols. These limitations hinder comparisons, emphasising the need for standardised evaluation. This 10-year retrospective cohort study investigates IAN injury rates following mandibular osteotomies, focusing on medium-long term outcomes and risk factors. A retrospective cohort study was conducted at a tertiary orthognathic centre (2014-2024) on sagittal split osteotomies, performed either as stand-alone or as part of bimaxillary surgeries. Altered sensation was assessed via patient-reported outcomes during clinical follow ups (0-60+ months). While a final review was typically conducted at 6 months, extended follow ups addressed nerve symptoms, revision surgeries, or COVID-19 disruptions. Chi squared tests, Fisher's exact test and odds ratios evaluated associations with demographics, split quality, and nerve injuries. The primary outcome was altered sensation at ≥6 months. Of 221 procedures, 75.6% (n = 167) had follow ups ≥6 months, with 44.3% (n = 74/167) reporting altered sensation, primarily in the lower lip. Rates were 49% (n = 49/100) at 6-12 months, 50% (n = 13/26) at 13-18 months, and 29.2% (12/41) beyond 18 months. Females (OR = 1.07) and the 41-50 age group (50%, n = 2/4) showed slightly increased sensory changes, although they were not statistically significant. Unsatisfactory splits had higher altered sensation rates (60%, n = 6/10) compared with satisfactory splits (43.9%, n = 65/148) although these were not statistically significant (p = 0.15). Among documented nerve injuries, 100% (n = 7) resulted in sensory changes at ≥6 months. Altered sensation affected 44.3% (74/167); non-standardised follow up limits interpretation and supports standardised neurosensory reporting.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ed in sensory changes at ≥6 months. Altered sensation affected 44.3% (74/167); non-standardised follow up limits interpretation and supports standardised neurosensory reporting.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41946616/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41895029",
-      "title": "Three-dimensional evaluation of proximal segment positional changes and postoperative stability in bilateral sagittal split osteotomy using the novel index Co-B distance.",
-      "authors": [
-        "Shinsuke Yamamoto",
-        "Reiko Iwadate",
-        "Keigo Maeda",
-        "Naoki Taniike"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "The aim of this study was to evaluate three-dimensional changes in the mandibular segments following bilateral sagittal split osteotomy, focusing on the positional relationship between the proximal and distal segments and its impact on postoperative stability. Forty-one patients who underwent Le Fort I osteotomy and bilateral sagittal split osteotomy were retrospectively analyzed using computed tomography at preoperative, early postoperative, and 1-year postoperative stages. Segmental superimposition was performed using stable regions of the proximal segment, and the Co-B distance was introduced as a novel three-dimensional index to assess surgical and postoperative changes. In Class III, a significant increase in the Co-B distance (0.650 ± 0.462 mm) was observed postoperatively. Correlation analysis revealed that greater anterior displacement of the Co in Class III (r = 0.49, p = 0.027) and greater lateral (r = 0.69, p = 0.028) and posterior (r = 0.81, p = 0.004) displacements of the Co in Class II were significantly associated with relapse. These findings suggest that the Co-B distance is a valuable indicator for assessing postoperative stability and emphasize the need to prevent lateral displacement of the condyle, especially in Class II cases, to reduce the risk of relapse.",
-      "objective": "of this study was to evaluate three-dimensional changes in the mandibular segments following bilateral sagittal split osteotomy, focusing on the positional relationship between the proximal and distal segments and its impact on postoperative stability. Forty-one patients who underwent Le Fort I osteotomy and bilateral sagittal split osteotomy were retrospectively analyzed using computed tomography at preoperative, early postoperative, and 1-year postoperative stages. Segmental superimposition was performed using stable regions of the proximal segment, and the Co-B distance was introduced as a novel three-dimensional index to assess surgical and postoperative changes. In Class III, a significant increase in the Co-B distance (0.650 ± 0.462 mm) was observed postoperatively. Correlation analysis revealed that greater anterior displacement of the Co in Class III (r = 0.49, p = 0.027) and greater lateral (r = 0.69, p = 0.028) and posterior (r = 0.81, p = 0.004) displacements of the Co in Class II were significantly associated with relapse. These findings suggest that the Co-B distance is a valuable indicator for assessing postoperative stability and emphasize the need to prevent lateral displacement of the condyle, especially in Class II cases, to reduce the risk of relapse.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41895029/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41861577",
-      "title": "Long-Term Stability of the Use of Patient Specific Implants in Orthognathic Surgery: A Systematic Review.",
-      "authors": [
-        "Aaron Wu",
-        "Hui Wen Tay",
-        "Yiu Yan Leung"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "This systematic review aimed to evaluate the long-term stability of patient-specific implants (PSIs) in orthognathic surgery. The review was conducted based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement. A systematic search including an electronic search of numerous databases with keywords, manual and reference searches was performed. The search results were evaluated and underwent 2 rounds of elimination, first by title and abstract and second by fulfilling the 6 predetermined criteria. The included studies underwent the final systematic review. Six studies with a total of 171 subjects were included in the final review. The long-term stability of the use of PSIs in orthognathic surgery ranged from 0.27 mm to 0.5 mm for the x-axis and 0.3 mm to 1.07 mm for the y-axis. The mean change was 0.1°, 0.5° and 0.2° for the pitch, roll and yaw, respectively. The absolute mean difference of the SNA angle was 0.57°. The mean duration of operation for using PSIs was shorter than the use of conventional miniplates in orthognathic surgery by 15.7%. Complications and reoperation rates when using PSIs in orthognathic surgery were reported to be 0 in 3 studies and not reported in the other 3 studies. The results of this systematic review indicate that PSIs demonstrate clinically acceptable stability over the medium-to-long term and represent a reliable method of fixation in orthognathic surgery. Additional high-quality studies with standardised methodology and longer follow-up period of more than 24 months are recommended. This systematic review highlights the high level of long-term stability when using PSIs in orthognathic surgery in terms of bodily movements, complications and reoperation rates. Oral and maxillofacial surgeons and biomechanical engineers may now have a more comprehensive and deeper understanding of the use of PSIs in the long term, which can assist them in choosing the method of fixation in orthognathic surgery.",
-      "objective": "",
-      "study_methods": "The review was conducted based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement. A systematic search including an electronic search of numerous databases with keywords, manual and reference searches was performed. The search results were evaluated and underwent 2 rounds of elimination, first by title and abstract and second by fulfilling the 6 predetermined criteria. The included studies underwent the final systematic review.",
-      "methods": "The review was conducted based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement. A systematic search including an electronic search of numerous databases with keywords, manual and reference searches was performed. The search results were evaluated and underwent 2 rounds of elimination, first by title and abstract and second by fulfilling the 6 predetermined criteria. The included studies underwent the final systematic review.",
-      "results": "were evaluated and underwent 2 rounds of elimination, first by title and abstract and second by fulfilling the 6 predetermined criteria. The included studies underwent the final systematic review. Six studies with a total of 171 subjects were included in the final review. The long-term stability of the use of PSIs in orthognathic surgery ranged from 0.27 mm to 0.5 mm for the x-axis and 0.3 mm to 1.07 mm for the y-axis. The mean change was 0.1°, 0.5° and 0.2° for the pitch, roll and yaw, respectively. The absolute mean difference of the SNA angle was 0.57°. The mean duration of operation for using PSIs was shorter than the use of conventional miniplates in orthognathic surgery by 15.7%. Complications and reoperation rates when using PSIs in orthognathic surgery were reported to be 0 in 3 studies and not reported in the other 3 studies. The results of this systematic review indicate that PSIs demonstrate clinically acceptable stability over the medium-to-long term and represent a reliable method of fixation in orthognathic surgery. Additional high-quality studies with standardised methodology and longer follow-up period of more than 24 months are recommended. This systematic review highlights the high level of long-term stability when using PSIs in orthognathic surgery in terms of bodily movements, complications and reoperation rates. Oral and maxillofacial surgeons and biomechanical engineers may now have a more comprehensive and deeper understanding of the use of PSIs in the long term, which can assist them in choosing the method of fixation in orthognathic surgery.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41861577/",
-      "pmcid": "PMC13018927",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018927/bin/gr3.jpg"
-      ]
-    },
-    {
-      "pmid": "41848236",
-      "title": "Opioid Dependency After Craniomaxillofacial Trauma Surgery.",
-      "authors": [
-        "Amrita Hari-Raj",
-        "Sai D Challapalli",
-        "Matt Keller",
-        "Joanna Buss",
-        "Dorina Kallogjeri",
-        "Jay F Piccirillo",
-        "Emily A Spataro"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "The opioid crisis has led to significant morbidity and mortality. A component of this is attributable to overdoses on prescribed opioids. A prior study estimated that 39% of opioid prescriptions after craniomaxillofacial (CMF) trauma were potentially inappropriate prescriptions. The goal of this study was to identify factors associated with potentially inappropriate and prolonged opioid prescriptions in the postoperative CMF trauma patient population. Retrospective cohort. Merative™ MarketScan® Commercial & Multi-State Medicaid Databases (2015-2022). Patients undergoing CMF trauma surgery were identified and stratified based on whether they had commercial versus Medicaid insurance. The association of prolonged opioid prescription length with demographic, comorbid, and surgical factors was investigated. A total of 23,985 patients from 2015 to 2022 underwent CMF trauma surgery and received postoperative opioid prescriptions. The average prescription length was significantly lower in the commercially insured cohort versus the Medicaid cohort (24.6 days vs 33.7 days), and 22% of prescriptions were potentially inappropriate in nature. A diagnosis of chronic pain, as well as having 2 overlapping opioid prescriptions or an extended-release opioid prescription, had the highest adjusted odds of a prescription longer than 30 days. Although potentially inappropriate prescriptions after CMF trauma surgery decreased from a prior estimate (39% vs 22%), inappropriate prescribing practices are highly associated with prolonged opioid prescriptions. Providers must ensure patients do not have an existing opioid prescription before writing an additional one and should not dispense extended-release formulations in the acute postoperative setting.",
-      "objective": "",
-      "study_methods": "Patients undergoing CMF trauma surgery were identified and stratified based on whether they had commercial versus Medicaid insurance. The association of prolonged opioid prescription length with demographic, comorbid, and surgical factors was investigated.",
-      "methods": "Patients undergoing CMF trauma surgery were identified and stratified based on whether they had commercial versus Medicaid insurance. The association of prolonged opioid prescription length with demographic, comorbid, and surgical factors was investigated.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41848236/",
-      "pmcid": "PMC13060026",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41806541",
-      "title": "Patient satisfaction in orthognathic surgery and the role of expectations.",
-      "authors": [
-        "Giulio Cirignaco",
-        "Mariagrazia Paglianiti",
-        "Lisa Catarzi",
-        "Enrico Betti",
-        "Gabriele Monarchi",
-        "Massimiliano Gilli",
-        "Luigi Angelo Vaira",
-        "Giuseppe Consorti"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Orthognathic surgery (OGS) corrects dentofacial deformities and can substantially improve quality of life (QoL). How satisfaction relates to patients' preoperative expectations, surgical magnitude, and demographics remains a subject of debate. Our single-centre retrospective study included consecutive OGS patients with ≥ 6-month follow-up and completed PROMs. Validated instruments comprised the Orthognathic Quality of Life Questionnaire (OQLQ) and selected FACE-Q scales; global satisfaction was rated on a 0-10 VAS. Primary endpoints were postoperative satisfaction and change in QoL. The cohort comprised 290 patients (176 women, 114 men, mean age 23.4 years); 42% underwent single-jaw and 58% bimaxillary surgery. At a mean 12.2-month follow-up, satisfaction was high (VAS 9.1 ± 1.1), with 93.8% reporting that treatment met or exceeded expectations. OQLQ improved from 42.5 ± 17.3 preoperatively to 15.4 ± 12.1 postoperatively (p < 0.0001), with gains across domains; FACE-Q scores were similarly high. Satisfaction did not differ by surgery type (VAS 9.0 ± 1.2 vs 9.2 ± 1.0; p = 0.34), expectation focus (ANOVA p = 0.67), sex (p = 0.42), or age (ρ = -0.05; p = 0.37). OGS yields large QoL gains and very high satisfaction. When treatment plans address the patient's chief concern, satisfaction is independent of surgery magnitude, expectation focus, sex, and age. Structured preoperative counseling, paired with routine PROM monitoring, may help align expectations with achievable outcomes, and support optimal patient-centered results.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41806541/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41775013",
-      "title": "Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bibliometric Analysis.",
-      "authors": [
-        "Yingzhao Huang",
-        "Yuhong Wang",
-        "Chen Hou",
-        "Fan Song",
-        "Yaoqi Jiang",
-        "Kunyi Chen",
-        "Jinsong Hou"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Oral and maxillofacial surgery (OMFS) produces complex clinical data, while artificial intelligence (AI) applications in this field remain limited despite great potential. This study aimed to map the current status, hotspots, and emerging trends of AI in OMFS. Publications on AI and OMFS before January 10, 2025, were retrieved from the Web of Science Core Collection and Scopus. Data were analysed using CiteSpace and Carrot2 to construct co-citation networks, perform structural variation analysis, and generate a decade-long term co-occurrence network. A total of 5267 articles were included. The co-citation network showed a research base dominated by AI-driven medical image analysis, with a shift from traditional machine learning to deep learning and transformer models. Carrot2 clustering highlighted transfer learning and emerging applications in prognostic modeling for head and neck cancer. Structural variation analysis emphasised radiomics and pathology imaging as pivotal domains, while term co-occurrence networks revealed broad applications in radiomics, head and neck cancer, pathway analysis, maxillofacial surgery, and, more recently, orthognathic surgery. AI research in OMFS is currently centered on medical image analysis, particularly radiomics and pathology imaging. Methodological advances have shifted toward deep learning and transformer-based approaches, with ChatGPT as a representative model. Non-imaging applications, including pathway and prognostic analyses, represent promising directions for future integration of AI into OMFS. AI applications, particularly imaging-driven models and transformer-based architectures, offer practical tools for diagnosis, surgical planning, and prognostic assessment in OMFS. Transfer learning enables effective adaptation of AI models to institution-specific datasets, facilitating personalised patient management. By highlighting emerging opportunities in pathway analysis and outcome prediction, this study informs clinicians of actionable AI strategies, supporting evidence-based integration into routine practice and guiding the adoption of novel computational approaches for improved patient care.",
-      "objective": "",
-      "study_methods": "Publications on AI and OMFS before January 10, 2025, were retrieved from the Web of Science Core Collection and Scopus. Data were analysed using CiteSpace and Carrot2 to construct co-citation networks, perform structural variation analysis, and generate a decade-long term co-occurrence network.",
-      "methods": "Publications on AI and OMFS before January 10, 2025, were retrieved from the Web of Science Core Collection and Scopus. Data were analysed using CiteSpace and Carrot2 to construct co-citation networks, perform structural variation analysis, and generate a decade-long term co-occurrence network.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41775013/",
-      "pmcid": "PMC12969292",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969292/bin/gr2.gif"
-      ]
-    },
-    {
-      "pmid": "41759452",
-      "title": "A patient-specific PEEK fixation system for simultaneous maxillary advancement and midfacial contour restoration in Le Fort I osteotomy: A finite element analysis.",
-      "authors": [
-        "Yingjia Sun",
-        "Yuanyi Li",
-        "Zhijian Xie",
-        "Lingling Hu"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Severe maxillary hypoplasia often requires combined skeletal repositioning and midfacial contour restoration. While Le Fort I osteotomy effectively addresses dental and skeletal discrepancies, residual midfacial deficiencies - such as infraorbital depression and paranasal flatness - frequently persist, necessitating additional soft tissue or alloplastic procedures. This study introduces a novel patient-specific polyetheretherketone (PEEK) fixation system designed to simultaneously stabilize Le Fort I-advanced maxillary segments and restore midfacial morphology in a single surgical stage. A customized PEEK plate was digitally designed to match both the ideal bony anatomy and the desired facial profile. Finite element (FE) models were developed to compare the biomechanical performance of the PEEK fixation system with that of a conventional titanium fixation system under simulated physiological bite forces. Outcomes assessed included intersegmental maxillary displacement, von Mises stress distribution in the bone and implants, and screw stress levels. The PEEK fixation system demonstrated comparable maxillary stability to titanium fixation, with reduced overall displacement (0.08416 mm vs. 0.09285 mm) and a more physiologically balanced stress distribution across the maxillary buttresses. Screw stresses were slightly higher in the PEEK system (515.8 MPa vs. 414.2 MPa), but remained well below material yield limits (titanium alloy (TC4) ≈ 860 MPa). The externally contoured PEEK plates also facilitated direct midfacial contouring, eliminating the need for secondary soft tissue augmentation. Three-dimensional axis-wise analysis showed PEEK had lower Z-axis displacement (0.03178 mm vs. 0.07787 mm) and more uniform displacement fields, further supporting its enhanced segmental stability. This study suggests that a patient-specific PEEK fixation system can safely and effectively stabilize Le Fort I-advanced maxillary segments while concurrently addressing midfacial contour deficiencies. This integrated approach demonstrates potential advantages in postoperative stability, functional recovery, and aesthetic outcomes, supporting its future clinical application as a streamlined solution for combined skeletal and soft tissue reconstruction.",
-      "objective": "",
-      "study_methods": "A customized PEEK plate was digitally designed to match both the ideal bony anatomy and the desired facial profile. Finite element (FE) models were developed to compare the biomechanical performance of the PEEK fixation system with that of a conventional titanium fixation system under simulated physiological bite forces. Outcomes assessed included intersegmental maxillary displacement, von Mises stress distribution in the bone and implants, and screw stress levels.",
-      "methods": "A customized PEEK plate was digitally designed to match both the ideal bony anatomy and the desired facial profile. Finite element (FE) models were developed to compare the biomechanical performance of the PEEK fixation system with that of a conventional titanium fixation system under simulated physiological bite forces. Outcomes assessed included intersegmental maxillary displacement, von Mises stress distribution in the bone and implants, and screw stress levels.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41759452/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41747660",
-      "title": "Functional and psychosocial outcomes of simultaneous condylectomy and bimaxillary orthognathic surgery for unilateral condylar hyperplasia: Retrospective study.",
-      "authors": [
-        "Melis Haydarpasa-Yalcin",
-        "Canseda Avağ",
-        "Altan Varol"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Unilateral condylar hyperplasia (UCH) is a pathological growth disorder frequently associated with marked facial asymmetry. The objective of this study was to evaluate the functional and psychosocial outcomes of simultaneous high level or proportional condylectomy performed in conjunction with bimaxillary orthognathic surgery in individuals presenting with hemimandibular elongation or hyperplasia. Patient-reported outcomes were measured using the Orthognathic Quality of Life Questionnaire (OQLQ) and the Mandibular Function Impairment Questionnaire (MFIQ). Secondary outcomes included facial symmetry, aesthetic satisfaction, visibility of preauricular scars, limitation of mouth opening, temporomandibular joint (TMJ) pain and clicking, lower lip paresthesia (LLP), and facial nerve dysfunction. This retrospective analysis included 25 patients (19 females, 6 males; mean age 25.5 ± 5.41 years) who underwent simultaneous condylectomy (high level: n = 18; proportional: n = 2; with disc repositioning in 7 cases) and bimaxillary orthognathic surgery. Clinical and functional outcomes were assessed over a mean follow-up period of 3.5 ± 0.8 years. Statistically significant improvements were observed in both OQLQ and MFIQ scores following surgery (p < 0.001 for both). The majority of patients reported high satisfaction regarding facial symmetry and expressed minimal concern about preauricular scarring. TMJ pain and clicking, and LLP showed notable reduction or complete resolution. No major complications, including persistent facial paralysis, were encountered. Simultaneous condylectomy with bimaxillary orthognathic surgery demonstrates predictable and stable long-term outcomes in the management of unilateral condylar hyperplasia. This single stage approach effectively addresses both functional impairment and aesthetic concerns, eliminating the requirement for staged surgical procedures.",
-      "objective": "of this study was to evaluate the functional and psychosocial outcomes of simultaneous high level or proportional condylectomy performed in conjunction with bimaxillary orthognathic surgery in individuals presenting with hemimandibular elongation or hyperplasia. Patient-reported outcomes were measured using the Orthognathic Quality of Life Questionnaire (OQLQ) and the Mandibular Function Impairment Questionnaire (MFIQ). Secondary outcomes included facial symmetry, aesthetic satisfaction, visibility of preauricular scars, limitation of mouth opening, temporomandibular joint (TMJ) pain and clicking, lower lip paresthesia (LLP), and facial nerve dysfunction. This retrospective analysis included 25 patients (19 females, 6 males; mean age 25.5 ± 5.41 years) who underwent simultaneous condylectomy (high level: n = 18; proportional: n = 2; with disc repositioning in 7 cases) and bimaxillary orthognathic surgery. Clinical and functional outcomes were assessed over a mean follow-up period of 3.5 ± 0.8 years. Statistically significant improvements were observed in both OQLQ and MFIQ scores following surgery (p < 0.001 for both). The majority of patients reported high satisfaction regarding facial symmetry and expressed minimal concern about preauricular scarring. TMJ pain and clicking, and LLP showed notable reduction or complete resolution. No major complications, including persistent facial paralysis, were encountered. Simultaneous condylectomy with bimaxillary orthognathic surgery demonstrates predictable and stable long-term outcomes in the management of unilateral condylar hyperplasia. This single stage approach effectively addresses both functional impairment and aesthetic concerns, eliminating the requirement for staged surgical procedures.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41747660/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41724198",
-      "title": "Stereophotogrammetry as a Precise and Accurate Method for Facial Analysis in Patients With Cleft Lip and Palate Undergoing Orthognathic Surgery.",
-      "authors": [
-        "Lígia Gabrielle Sanches Mariotto",
-        "Luciano Reis de Araújo Carvalho",
-        "Caroline de Paula Oliveira Gringo",
-        "Renato Yassutaka Faria Yaedú"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Stereophotogrammetry is a promising tool for orthognathic surgical planning. However, its application in patients with cleft lip and palate (CLP) still requires validation. The objective of this study was to evaluate the accuracy and precision of portable stereophotogrammetry system (PSP) in facial analysis of patients with CLP. This is a cross-sectional study with patients with nonsyndromic CLP and skeletal Class III. Exclusion criteria included syndromic CLP, facial hair, mustaches, absence of the right upper central incisor, or use of facial prosthetics. The study was conducted at the Hospital for Rehabilitation of Craniofacial Anomalies, Bauru, Brazil. The predictor variable was the facial measurement method, PSP, or digital caliper. The primary outcome was accuracy, assessed by comparing PSP measurements with those obtained by digital calipers and categorized as excellent (<1.0 mm), good (1.0 to 2.0 mm), moderate (2.0 to 3.0 mm), or unsatisfactory (>3.0 mm). The secondary outcome was precision, evaluated through mean absolute deviation (MAD) and mean relative error (MRE). MAD used the same thresholds as accuracy, while MRE was classified as excellent (<3%), good (3 to 5%), moderate (5 to 10%), or unsatisfactory (>10%). The covariates included age, sex, and the type of cleft (complete unilateral or bilateral). Statistical tests were applied based on data distribution (Shapiro-Wilk, Student's t test, and Mann-Whitney U test), with the significance level set at P < .05. The sample comprised 11 subjects with a mean age of 23.0 years (±6.43); 6 (54.5%) were male. Regarding accuracy, 6 of 15 measurements were classified as excellent, 2 as good, and 3 as moderate. Four were unsatisfactory: Al-Al (6.04 mm), Sti-Me (5.81 mm), Me-C (9.03 mm), and UR1s (3.83 mm). Regarding precision, 13 (86.7%) measurements showed excellent MAD values, whereas MRE indicated excellent or good precision in 8 measurements (53.3%). The results indicate that the PSP achieves acceptable levels of accuracy and precision for facial analysis in patients with CLP and can be integrated with other technologies for 3-dimensional planning.",
-      "objective": "of this study was to evaluate the accuracy and precision of portable stereophotogrammetry system (PSP) in facial analysis of patients with CLP. This is a cross-sectional study with patients with nonsyndromic CLP and skeletal Class III. Exclusion criteria included syndromic CLP, facial hair, mustaches, absence of the right upper central incisor, or use of facial prosthetics. The study was conducted at the Hospital for Rehabilitation of Craniofacial Anomalies, Bauru, Brazil. The predictor variable was the facial measurement",
-      "study_methods": "",
-      "methods": "",
-      "results": "indicate that the PSP achieves acceptable levels of accuracy and precision for facial analysis in patients with CLP and can be integrated with other technologies for 3-dimensional planning.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41724198/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41499198",
-      "title": "Risk Factors of Persistent Opioid Use After Forehead Flap Reconstruction.",
-      "authors": [
-        "Alexander J Barna",
-        "Rahul K Sharma",
-        "Nicole G DeSisto",
-        "Scott J Stephan",
-        "Priyesh N Patel",
-        "Shiayin F Yang"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "To assess the risk of persistent opioid use after forehead flaps with preserved vascular pedicles. This multi-center cohort study used the TriNetX, LLC US Collaborative Network to identify patients undergoing forehead flaps with preservation of the vascular pedicle. Patients were grouped based on whether they received an opioid prescription within 1 week of surgery. Propensity matching controlled for age, race, sex, pain diagnoses, and previous opioid use. Baseline characteristics were analyzed with t-tests and chi-squares. Risk ratios assessed associations between variables and development of new persistent opioid use (new opioid prescription 3-9 months after forehead flap reconstruction). Overall, 7214 patients (3280 female [45.5%]) underwent forehead flap reconstruction with preservation of the vascular pedicle and 2660 (36.9%) receive a postoperative opioid prescription. Unadjusted analysis demonstrated a statistically significant association between gender and receipt of a postoperative opioid prescription, with male patients more likely than female patients to receive an opioid prescription (χ2 = 14.94, P < .001). After propensity score matching, 1352 patients (588 women [43.3%]) with a mean (SD) age of 67.3 (14.7) years, were included for analysis. Patients who receive a postoperative opioid prescription were at 3.21 times greater risk of developing new persistent opioid use compared to patients not prescribed postoperative opioids (RR = 3.21; 95% CI (2.27, 4.52)). Patients who receive postoperative opioid prescriptions after forehead flap reconstruction may be at greater risk of developing new persistent opioid use.",
-      "objective": "",
-      "study_methods": "This multi-center cohort study used the TriNetX, LLC US Collaborative Network to identify patients undergoing forehead flaps with preservation of the vascular pedicle. Patients were grouped based on whether they received an opioid prescription within 1 week of surgery. Propensity matching controlled for age, race, sex, pain diagnoses, and previous opioid use. Baseline characteristics were analyzed with t-tests and chi-squares. Risk ratios assessed associations between variables and development of new persistent opioid use (new opioid prescription 3-9 months after forehead flap reconstruction).",
-      "methods": "This multi-center cohort study used the TriNetX, LLC US Collaborative Network to identify patients undergoing forehead flaps with preservation of the vascular pedicle. Patients were grouped based on whether they received an opioid prescription within 1 week of surgery. Propensity matching controlled for age, race, sex, pain diagnoses, and previous opioid use. Baseline characteristics were analyzed with t-tests and chi-squares. Risk ratios assessed associations between variables and development of new persistent opioid use (new opioid prescription 3-9 months after forehead flap reconstruction).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41499198/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41368692",
-      "title": "A Retrospective Study of Facial Fractures Associated With the Amazon Region at a Trauma Center in Northern Brazil.",
-      "authors": [
-        "Clarina Louis Silva Meira",
-        "Natália Silva de Meira",
-        "Helen Patricia da Silva Araujo",
-        "Diego Pacheco Ferreira",
-        "Hélder Antônio Rebelo Pontes",
-        "Nicolau Conte Neto"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Facial trauma is a major public health challenge due to its aesthetic, functional, psychological, and socioeconomic impacts. In Northern Brazil, particularly in the Amazon region, subsistence activities such as plant extraction, animal handling, and river transportation are essential to daily life and may contribute to an increased risk of facial injuries. These environmental and cultural factors are often underrepresented in the literature. This study aimed to investigate the epidemiological profile of facial fractures associated with etiologies specific to the Amazon region. This was a retrospective study conducted over an 8-year period (2013-2020) at a trauma referral center in Northern Brazil. Medical records of patients with facial fractures resulting from boat accidents, animal-related incidents, plant extraction, and hunting and fishing accidents were reviewed. A total of 97 patients met the inclusion criteria, with males accounting for 88.7% of cases and adults (20-64 years) being the most affected age group. Boat accidents were the most frequent cause of trauma (40.2%) and were associated with a higher median number of surgical fractures compared to animal-related trauma (p = 0.041) and hunting and fishing accidents (p < 0.001). The middle third of the face was most commonly affected (78%), and the mean FISS score was 4.4. The average length of hospital stay was 11 days, with a significant correlation between FISS and hospital stay (p = 0.0078). Hunting and fishing accidents were the leading cause of long-term sequelae. Facial fractures related to the Amazon region are associated with distinct occupational and environmental risks, imposing not only a burden on public health but also resulting in specific morbidities within traditional populations. Although these injuries do not necessarily reflect the characteristics of the broader population, they highlight the need for public policies tailored to the regional context.",
-      "objective": "",
-      "study_methods": "This was a retrospective study conducted over an 8-year period (2013-2020) at a trauma referral center in Northern Brazil. Medical records of patients with facial fractures resulting from boat accidents, animal-related incidents, plant extraction, and hunting and fishing accidents were reviewed.",
-      "methods": "This was a retrospective study conducted over an 8-year period (2013-2020) at a trauma referral center in Northern Brazil. Medical records of patients with facial fractures resulting from boat accidents, animal-related incidents, plant extraction, and hunting and fishing accidents were reviewed.",
-      "results": "ing from boat accidents, animal-related incidents, plant extraction, and hunting and fishing accidents were reviewed. A total of 97 patients met the inclusion criteria, with males accounting for 88.7% of cases and adults (20-64 years) being the most affected age group. Boat accidents were the most frequent cause of trauma (40.2%) and were associated with a higher median number of surgical fractures compared to animal-related trauma (p = 0.041) and hunting and fishing accidents (p < 0.001). The middle third of the face was most commonly affected (78%), and the mean FISS score was 4.4. The average length of hospital stay was 11 days, with a significant correlation between FISS and hospital stay (p = 0.0078). Hunting and fishing accidents were the leading cause of long-term sequelae. Facial fractures related to the Amazon region are associated with distinct occupational and environmental risks, imposing not only a burden on public health but also resulting in specific morbidities within traditional populations. Although these injuries do not necessarily reflect the characteristics of the broader population, they highlight the need for public policies tailored to the regional context.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41368692/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41271534",
-      "title": "Facial injuries in major trauma patients in Ireland.",
-      "authors": [
-        "David M McGoldrick",
-        "Rachel O'Donoghue",
-        "Olga Brych",
-        "Pamela Hickey",
-        "Conor M Bowe"
-      ],
-      "publication_date": "2026-Jun",
-      "publication_date_iso": "2026-06-01",
-      "abstract": "Major trauma is associated with significant morbidity and mortality. Facial injuries are often present in those sustaining major trauma. We sought to examine the Irish trauma registry to further assess this association. A retrospective analysis of the Irish trauma registry, the Major Trauma Audit, from 2017 to 2022 was performed. Patients over 16 years who had sustained major trauma were included in the analysis. The presence of an associated facial injury was further analysed. A total of 8943 patients were included in the analysis. A facial injury was seen in 18.9 % of patients. The majority of those sustaining a concurrent facial injury were male (69 %) and the median age was 59 years. Falls <2m (42.9 %) and road traffic collisions (27.6 %) were the commonest mechanisms of injury. A significant head injury was more commonly seen in those who also sustained facial trauma (84.9 % vs 58 %). Facial injuries are commonly seen in patients who sustain major trauma. They may also indicate the presence of a concurrent head injury.",
-      "objective": "",
-      "study_methods": "A retrospective analysis of the Irish trauma registry, the Major Trauma Audit, from 2017 to 2022 was performed. Patients over 16 years who had sustained major trauma were included in the analysis. The presence of an associated facial injury was further analysed.",
-      "methods": "A retrospective analysis of the Irish trauma registry, the Major Trauma Audit, from 2017 to 2022 was performed. Patients over 16 years who had sustained major trauma were included in the analysis. The presence of an associated facial injury was further analysed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41271534/",
       "pmcid": "",
       "figure_urls": []
     }
