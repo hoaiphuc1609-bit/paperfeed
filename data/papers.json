@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T06:36:37Z",
+  "updated_at": "2026-06-11T06:54:23Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -475,6 +475,53 @@
       ]
     },
     {
+      "pmid": "42167478",
+      "title": "Further treatments of non-surgically root canal-treated teeth in public dental service: A long-term register-based study.",
+      "authors": [
+        "Milo Väisänen",
+        "Ulla Palotie",
+        "Battsetseg Tseveenjav"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Our objective was to assess further restorative treatments, extractions and endodontic retreatments registered for root canal-treated teeth (RCTT) in a 13- to 15-year follow-up at Public Dental Service (PDS), and to examine the association of the frequency of further treatments with patient-, tooth-, and operator-related factors. Data were collected from electronic patient records of the Helsinki PDS. Based on dental treatment codes, teeth with registered primary non-surgical root canal treatments (nsRCTs) (n = 16 954) between 2002 and 2004 were followed until the end of 2016. Estimation of incidence of further treatments was calculated with generalized linear model. Cox regression model was conducted to estimate the influence of patient-, tooth- and operator-related factors of the primary nsRCT for further restorative treatments, extractions, or endodontic retreatments. Further restorative treatments were the most often carried out treatments (38.2%) for RCTT, followed by extractions (19.5%), non-surgical retreatments (4.8%) and surgical retreatments (0.5%). Endodontic retreatments were often registered within few years of the primary nsRCT while the frequency of extractions remained nearly constant over the years. Younger age, anterior teeth, and teeth with indirect coronal restorations were mostly associated with lower incidence of further treatments. Our study demonstrated that RCTT were registered with mainly further restorative treatments after primary nsRCT. One-fifth of teeth were extracted during the study period, while endodontic retreatments were uncommon. Placement of indirect restoration was associated with lower incidence of further treatments, within the limitations of this study. Knowledge of further treatments that root canal-treated teeth may require is highly important for both dentists and patients. Identification of risk factors that could have influence on further treatments after primary non-surgical root canal treatment should be part of the treatment planning to ensure favorable outcomes.",
+      "objective": "was to assess further restorative treatments, extractions and endodontic retreatments registered for root canal-treated teeth (RCTT) in a 13- to 15-year follow-up at Public Dental Service (PDS), and to examine the association of the frequency of further treatments with patient-, tooth-, and operator-related factors. Data were collected from electronic patient records of the Helsinki PDS. Based on dental treatment codes, teeth with registered primary non-surgical root canal treatments (nsRCTs) (n = 16 954) between 2002 and 2004 were followed until the end of 2016. Estimation of incidence of further treatments was calculated with generalized linear model. Cox regression model was conducted to estimate the influence of patient-, tooth- and operator-related factors of the primary nsRCT for further restorative treatments, extractions, or endodontic retreatments. Further restorative treatments were the most often carried out treatments (38.2%) for RCTT, followed by extractions (19.5%), non-surgical retreatments (4.8%) and surgical retreatments (0.5%). Endodontic retreatments were often registered within few years of the primary nsRCT while the frequency of extractions remained nearly constant over the years. Younger age, anterior teeth, and teeth with indirect coronal restorations were mostly associated with lower incidence of further treatments. Our study demonstrated that RCTT were registered with mainly further restorative treatments after primary nsRCT. One-fifth of teeth were extracted during the study period, while endodontic retreatments were uncommon. Placement of indirect restoration was associated with lower incidence of further treatments, within the limitations of this study. Knowledge of further treatments that root canal-treated teeth may require is highly important for both dentists and patients. Identification of risk factors that could have influence on further treatments after primary non-surgical root canal treatment should be part of the treatment planning to ensure favorable outcomes.",
+      "study_methods": "Data were collected from electronic patient records of the Helsinki PDS. Based on dental treatment codes, teeth with registered primary non-surgical root canal treatments (nsRCTs) (n = 16 954) between 2002 and 2004 were followed until the end of 2016. Estimation of incidence of further treatments was calculated with generalized linear model. Cox regression model was conducted to estimate the influence of patient-, tooth- and operator-related factors of the primary nsRCT for further restorative treatments, extractions, or endodontic retreatments.",
+      "methods": "Data were collected from electronic patient records of the Helsinki PDS. Based on dental treatment codes, teeth with registered primary non-surgical root canal treatments (nsRCTs) (n = 16 954) between 2002 and 2004 were followed until the end of 2016. Estimation of incidence of further treatments was calculated with generalized linear model. Cox regression model was conducted to estimate the influence of patient-, tooth- and operator-related factors of the primary nsRCT for further restorative treatments, extractions, or endodontic retreatments.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42167478/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42150729",
+      "title": "Evaluating retrieval-augmented generation for guideline-grounded textual planning in implant dentistry: A comparative study.",
+      "authors": [
+        "Jinyan Chen",
+        "Feng Wang"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "To evaluate whether a retrieval-augmented generation (RAG) framework can enhance citation precision and improve the clinical reliability of large language models (LLMs) in implant dentistry. A domain-specific knowledge base was constructed using major international consensus reports and established clinical treatment guides. Forty standardized clinical vignettes (35 real-world, 5 synthetic) were each processed twice by both a standard LLM (GPT-4o) and a RAG-LLM, yielding 160 treatment plans. Intra-model agreement was quantified using the weighted Cohen's kappa. Two independent experts evaluated the plans across five clinical domains using a double-blinded, consensus-driven protocol. Overall clinical accuracy showed no significant difference between models (P = 0.642). However, domain-specific analysis revealed that the RAG-LLM significantly outperformed the standard model in evidence traceability and citation precision (P = 0.046). Neither model exhibited severe literature fabrication. Conversely, the standard LLM demonstrated superior biomechanical spatial planning (P = 0.025). The RAG architecture exhibited \"retrieval bias\" in soft-tissue complication scenarios, leading to inappropriate hard-tissue augmentation. Sensitivity analysis revealed the RAG model's superiority diminished in out-of-distribution synthetic cases lacking thematic overlap with the knowledge base. Implementing RAG significantly improves evidence traceability, enhances citation precision, and demonstrates high intra-model consistency, with severe diagnostic shifts being exceedingly rare. However, text-based retrieval introduces diagnostic biases causing overtreatment, and its superiority relies heavily on conceptual overlap with the knowledge base. RAG-LLMs are promising adjunctive tools but require continuous expert oversight to compensate for spatial reasoning limitations. This study demonstrates that retrieval-augmented generation (RAG) significantly enhances citation precision in implant dentistry by anchoring models to established clinical guidelines. While RAG enhances evidence traceability, clinicians must remain cautious of retrieval bias. This bias can lead to algorithmic overtreatment in soft-tissue complication management. Currently, RAG-enhanced AI serves as a valuable adjunctive tool but cannot replace the three-dimensional spatial reasoning of an experienced implantologist.",
+      "objective": "",
+      "study_methods": "A domain-specific knowledge base was constructed using major international consensus reports and established clinical treatment guides. Forty standardized clinical vignettes (35 real-world, 5 synthetic) were each processed twice by both a standard LLM (GPT-4o) and a RAG-LLM, yielding 160 treatment plans. Intra-model agreement was quantified using the weighted Cohen's kappa. Two independent experts evaluated the plans across five clinical domains using a double-blinded, consensus-driven protocol.",
+      "methods": "A domain-specific knowledge base was constructed using major international consensus reports and established clinical treatment guides. Forty standardized clinical vignettes (35 real-world, 5 synthetic) were each processed twice by both a standard LLM (GPT-4o) and a RAG-LLM, yielding 160 treatment plans. Intra-model agreement was quantified using the weighted Cohen's kappa. Two independent experts evaluated the plans across five clinical domains using a double-blinded, consensus-driven protocol.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42150729/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42068619",
       "title": "Ag-containing high-entropy nitride coatings promote bone regeneration by mediating the MAPK/ERK signaling pathway.",
       "authors": [
@@ -498,6 +545,88 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42068619/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42067488",
+      "title": "Long-term clinical performance of bilaminar veneers combined with the Dahl concept for the management of localized anterior tooth wear: An ambispective cohort study.",
+      "authors": [
+        "Edina Lempel",
+        "Kinga Dorottya Németh",
+        "Erika Katalin Dunavári",
+        "Sára Jeges",
+        "József Szalma"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "To evaluate the long-term clinical performance of bilaminar restorations-functional palatal resin-based composite (RBC) veneers (PVs) combined with labial ceramic veneers (LVs) - used for the rehabilitation of localized anterior tooth wear with the Dahl concept, with emphasis on survival, failure patterns, and material- and patient-related risk factors. Twenty-six patients (156 maxillary anterior teeth) received bilaminar restorations. PVs were fabricated from RBCs (Enamel Plus HRi BioFunction or Estelite Sigma Quick), and LVs from lithium disilicate ceramics (IPS e.max Press or GC Initial LiSi Press). Clinical evaluation was performed at 3-5 and 6-8 years using USPHS criteria. Outcomes were classified as success, survival with deficiencies, or failure requiring replacement. Survival was analyzed using Kaplan-Meier estimates, and risk factors were assessed by multivariable regression analysis (p < 0.05). Cumulative survival was 92.3% for PVs and 98.1% for LVs. Fifteen restorations (4.8%) required replacement, predominantly PVs due to wear- and fatigue-related deterioration. No survival difference was observed between LVs. PV performance showed significant material-related differences, with Estelite Sigma Quick exhibiting fewer failures and higher success rates than Enamel Plus HRi BioFunction. Unsatisfactory oral hygiene, bruxism, coffee/tea consumption, and increasing restoration age were associated with higher failure risk. Baseline erosion severity significantly affected PVs, but not LVs outcomes. Bilaminar restorations combined with the Dahl concept offer a durable, minimally invasive solution for localized anterior tooth wear over up to eight years. However, while LVs demonstrate excellent long-term stability, the performance of functional PVs remains material-dependent and requires ongoing maintenance.",
+      "objective": "",
+      "study_methods": "Twenty-six patients (156 maxillary anterior teeth) received bilaminar restorations. PVs were fabricated from RBCs (Enamel Plus HRi BioFunction or Estelite Sigma Quick), and LVs from lithium disilicate ceramics (IPS e.max Press or GC Initial LiSi Press). Clinical evaluation was performed at 3-5 and 6-8 years using USPHS criteria. Outcomes were classified as success, survival with deficiencies, or failure requiring replacement. Survival was analyzed using Kaplan-Meier estimates, and risk factors were assessed by multivariable regression analysis (p < 0.05).",
+      "methods": "Twenty-six patients (156 maxillary anterior teeth) received bilaminar restorations. PVs were fabricated from RBCs (Enamel Plus HRi BioFunction or Estelite Sigma Quick), and LVs from lithium disilicate ceramics (IPS e.max Press or GC Initial LiSi Press). Clinical evaluation was performed at 3-5 and 6-8 years using USPHS criteria. Outcomes were classified as success, survival with deficiencies, or failure requiring replacement. Survival was analyzed using Kaplan-Meier estimates, and risk factors were assessed by multivariable regression analysis (p < 0.05).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42067488/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42002022",
+      "title": "Fully digital and robot-assisted workflow for mandibular molar autotransplantation: A proof-of-concept.",
+      "authors": [
+        "Chen Liu",
+        "Rui Hou",
+        "Guangwei Chen",
+        "Libin Zhou",
+        "Yaru Zhang",
+        "Shizhu Bai",
+        "Yimin Zhao"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "To present a robot-assisted protocol for autogenous mandibular molar transplantation using an autonomous robotic system for shape-matched recipient socket preparation. The novel workflow comprises the following steps: 1) Preoperative planning: Based on preoperative intraoral scans and cone-beam computed tomography (CBCT) data, the transplant position of the donor tooth was precisely planned, and the surgical path was generated. An intraoral registration device was designed and fabricated, and a donor tooth replica was 3D-printed. 2) Intraoperative execution: Following the preoperative plan, the robot performed supervised autonomous, layer-by-layer, incremental milling to prepare a personalized osteotomy socket that accurately matched the donor root morphology. All remaining surgical steps were completed by the surgeon. 3) Post-operative evaluation: Intraoperative post-operative CBCT was acquired for accuracy analysis and assessment. The procedure was completed successfully, with no intra- or post-operative complications reported. All positional and angular deviations of the transplanted tooth fell within clinically acceptable limits. A workflow for tooth autotransplantation using an autonomous robotic system was successfully implemented, preliminarily demonstrating its ability to achieve accurate morphologically matched socket preparation. This study proposes and validates a complete digital and robot-assisted method for socket preparation in autotransplantation, offering a novel technical pathway toward personalized, high-precision tooth transplantation. The approach holds promise for improving procedural predictability and standardization; however, its clinical benefits require further validation through larger controlled studies.",
+      "objective": "",
+      "study_methods": "The novel workflow comprises the following steps: 1) Preoperative planning: Based on preoperative intraoral scans and cone-beam computed tomography (CBCT) data, the transplant position of the donor tooth was precisely planned, and the surgical path was generated. An intraoral registration device was designed and fabricated, and a donor tooth replica was 3D-printed. 2) Intraoperative execution: Following the preoperative plan, the robot performed supervised autonomous, layer-by-layer, incremental milling to prepare a personalized osteotomy socket that accurately matched the donor root morphology. All remaining surgical steps were completed by the surgeon. 3) Post-operative evaluation: Intraoperative post-operative CBCT was acquired for accuracy analysis and assessment.",
+      "methods": "The novel workflow comprises the following steps: 1) Preoperative planning: Based on preoperative intraoral scans and cone-beam computed tomography (CBCT) data, the transplant position of the donor tooth was precisely planned, and the surgical path was generated. An intraoral registration device was designed and fabricated, and a donor tooth replica was 3D-printed. 2) Intraoperative execution: Following the preoperative plan, the robot performed supervised autonomous, layer-by-layer, incremental milling to prepare a personalized osteotomy socket that accurately matched the donor root morphology. All remaining surgical steps were completed by the surgeon. 3) Post-operative evaluation: Intraoperative post-operative CBCT was acquired for accuracy analysis and assessment.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42002022/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41997835",
+      "title": "Wear resistance of composite repairs: Direct vs. semi-direct techniques in simulated oral aging.",
+      "authors": [
+        "Keyi Wu",
+        "Jaisson Cenci",
+        "Roderick Theunisz",
+        "Niels van Nistelrooij",
+        "X Frank Walboomers",
+        "Bas A C Loomans",
+        "Tatiana Pereira-Cenci"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Wear resistance of composite repairs, especially under severe chemical-mechanical challenge, has not been investigated. This in vitro study evaluated the wear resistance of composite restorations repaired using different techniques in simulated oral aging. Sixty human molars with direct Mesio-occluso-distal composite restorations were aged in the \"Rub&Roll\" device simulating two years of clinical service. The restorations were repaired using direct (n = 29) or semi-direct (n = 29) techniques. Specimens were randomly divided into three aging media for an additional two-year simulation: deionized water (control), 1% citric acid solution (chemical-mechanical challenge), and yellow millet seed solution (mechanical challenge). Wear was assessed using profilometry and 3D scan. t-test, two-way ANOVA, and multiple linear regression were used for statistical analysis. p < 0.05 was considered statistically significant. After repair, neither repair technique significantly influenced height or volume loss of specimens. The chemical-mechanical challenge had the greatest impact on height loss (coefficient = 0.11, 95% CI: 0.06-0.17 mm, p < 0.001) and volume loss (coefficient = 0.23, 95% CI: 0.13-0.32 mm3, p < 0.001) of specimens. The effect of techniques on height loss of repaired restorations was not significant. However, challenges affected height loss, with chemical-mechanical challenge showing the highest height loss (coefficient = 0.21, 95% CI: 0.16-0.28 mm, p < 0.001). The wear resistance of repaired composite restorations was not influenced by the repair technique. Instead, chemical-mechanical factors, were the primary determinants of wear, underscoring their critical role in the longevity of tooth-restoration complexes.",
+      "objective": "",
+      "study_methods": "Sixty human molars with direct Mesio-occluso-distal composite restorations were aged in the \"Rub&Roll\" device simulating two years of clinical service. The restorations were repaired using direct (n = 29) or semi-direct (n = 29) techniques. Specimens were randomly divided into three aging media for an additional two-year simulation: deionized water (control), 1% citric acid solution (chemical-mechanical challenge), and yellow millet seed solution (mechanical challenge). Wear was assessed using profilometry and 3D scan. t-test, two-way ANOVA, and multiple linear regression were used for statistical analysis. p < 0.05 was considered statistically significant.",
+      "methods": "Sixty human molars with direct Mesio-occluso-distal composite restorations were aged in the \"Rub&Roll\" device simulating two years of clinical service. The restorations were repaired using direct (n = 29) or semi-direct (n = 29) techniques. Specimens were randomly divided into three aging media for an additional two-year simulation: deionized water (control), 1% citric acid solution (chemical-mechanical challenge), and yellow millet seed solution (mechanical challenge). Wear was assessed using profilometry and 3D scan. t-test, two-way ANOVA, and multiple linear regression were used for statistical analysis. p < 0.05 was considered statistically significant.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41997835/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -680,6 +809,35 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42173451/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42173301",
+      "title": "Targeting AURKA by MiR-490-3p overcomes paclitaxel resistance in oral squamous cell carcinoma via NF-κB/STAT3 signaling.",
+      "authors": [
+        "Linfu Han",
+        "Liwei Peng",
+        "Xiqian Wang",
+        "Chunshi Tong",
+        "Yang Wu",
+        "Wen Li",
+        "Xin Meng",
+        "Yonggong Wang"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Paclitaxel (PTX) resistance remains a major barrier to effective treatment of oral squamous cell carcinoma (OSCC). Although Aurora kinase A (AURKA) has been implicated in tumor progression, its functional role and regulatory mechanisms in PTX resistance are not fully understood. PTX-resistant OSCC cell lines (CAL-27/PTX and SCC-9/PTX) were established from their PTX-naïve counterparts (CAL-27 and SCC-9, respectively) through stepwise exposure to increasing concentrations of PTX. AURKA was silenced using shRNA or regulated by miR-490-3p overexpression. Cell viability, apoptosis, migration, and invasion were assessed in vitro. NF-κB and STAT3 signaling activities were evaluated as downstream effectors. Direct targeting of AURKA by miR-490-3p was validated using dual-luciferase reporter assays. A xenograft model was used to assess the in vivo effects of AURKA knockdown on tumor growth and drug response. AURKA was significantly upregulated in PTX-resistant OSCC cells, accompanied by activation of NF-κB and STAT3 signaling. Functional inhibition of AURKA or restoration of miR-490-3p enhanced PTX sensitivity, promoted apoptosis, and suppressed migratory and invasive behaviors, together with attenuation of NF-κB/STAT3 activity. Mechanistically, miR-490-3p directly bound to the 3'-UTR of AURKA and negatively regulated its expression, whereas AURKA re-expression reversed these effects. In vivo, AURKA knockdown suppressed tumor growth, increased apoptotic activity, and inhibited NF-κB/STAT3 signaling in PTX-resistant xenografts. These findings identify a functional miR-490-3p/AURKA axis that regulates PTX resistance in OSCC through coordinated modulation of NF-κB and STAT3 signaling. Targeting this pathway may provide a promising strategy to overcome chemoresistance and inhibit OSCC progression.",
+      "objective": "",
+      "study_methods": "PTX-resistant OSCC cell lines (CAL-27/PTX and SCC-9/PTX) were established from their PTX-naïve counterparts (CAL-27 and SCC-9, respectively) through stepwise exposure to increasing concentrations of PTX. AURKA was silenced using shRNA or regulated by miR-490-3p overexpression. Cell viability, apoptosis, migration, and invasion were assessed in vitro. NF-κB and STAT3 signaling activities were evaluated as downstream effectors. Direct targeting of AURKA by miR-490-3p was validated using dual-luciferase reporter assays. A xenograft model was used to assess the in vivo effects of AURKA knockdown on tumor growth and drug response.",
+      "methods": "PTX-resistant OSCC cell lines (CAL-27/PTX and SCC-9/PTX) were established from their PTX-naïve counterparts (CAL-27 and SCC-9, respectively) through stepwise exposure to increasing concentrations of PTX. AURKA was silenced using shRNA or regulated by miR-490-3p overexpression. Cell viability, apoptosis, migration, and invasion were assessed in vitro. NF-κB and STAT3 signaling activities were evaluated as downstream effectors. Direct targeting of AURKA by miR-490-3p was validated using dual-luciferase reporter assays. A xenograft model was used to assess the in vivo effects of AURKA knockdown on tumor growth and drug response.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42173301/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -999,6 +1157,30 @@
       ]
     },
     {
+      "pmid": "42092414",
+      "title": "miR-33a promotes peri-implantitis by facilitating M1-type polarization of macrophages and inhibiting osteogenesis.",
+      "authors": [
+        "Jianan Kang",
+        "Yi Yang",
+        "Zhen Yan"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "miR-33a exhibits abnormal expression in patients with periodontitis. However, the underlying mechanism of miR-33a in peri-implantitis remains elusive. This study centered on investigating the mechanism of the miR-33a/SIRT6 axis in peri-implantitis. First, compare the expression levels of miR-33a in peri-implantitis tissues and healthy tissues. Second, examine the impacts of miR-33a on ALP, osteogenic markers (RUNX2, BMP-2, OCN, COL1A1), and M1-type markers (CD86, INOS, TNF-α, IL-6) in periodontal ligament stem cells (PDLSCs) or M1-type macrophages. Moreover, the effect of polarization on osteogenesis was explored by culturing PDLSCs in a medium obtained from M1-type macrophages. Finally, the regulatory effect of miR-33a on SIRT6 was validated via a dual luciferase reporter assay, and the influence of the miR-33a/SIRT6 axis on osteogenesis and macrophage polarization was investigated. In clinical investigations, the expression level of miR-33a was elevated in the peri-implantitis tissues. In PDLSCs, the overexpression of miR-33a led to a reduction in the activity of ALP and the expression of osteogenic factors at both the mRNA and protein levels. Nevertheless, as the downstream target of miR-33a, SIRT6 exerted a potent promotional effect on osteogenesis. The M1-type polarization of macrophages impeded osteogenic differentiation. Furthermore, the miR-33a/SIRT6 axis also played a regulatory role in the polarization. Inhibiting miR-33a significantly downregulated the expression of M1 markers in macrophages by upregulating SIRT6. Peri-implantitis may be associated with miR-33a. The miR-33a/SIRT6 axis might participate in the development of peri-implantitis through the regulation of periodontal bone formation and the bone immune microenvironment.",
+      "objective": "",
+      "study_methods": "First, compare the expression levels of miR-33a in peri-implantitis tissues and healthy tissues. Second, examine the impacts of miR-33a on ALP, osteogenic markers (RUNX2, BMP-2, OCN, COL1A1), and M1-type markers (CD86, INOS, TNF-α, IL-6) in periodontal ligament stem cells (PDLSCs) or M1-type macrophages. Moreover, the effect of polarization on osteogenesis was explored by culturing PDLSCs in a medium obtained from M1-type macrophages. Finally, the regulatory effect of miR-33a on SIRT6 was validated via a dual luciferase reporter assay, and the influence of the miR-33a/SIRT6 axis on osteogenesis and macrophage polarization was investigated.",
+      "methods": "First, compare the expression levels of miR-33a in peri-implantitis tissues and healthy tissues. Second, examine the impacts of miR-33a on ALP, osteogenic markers (RUNX2, BMP-2, OCN, COL1A1), and M1-type markers (CD86, INOS, TNF-α, IL-6) in periodontal ligament stem cells (PDLSCs) or M1-type macrophages. Moreover, the effect of polarization on osteogenesis was explored by culturing PDLSCs in a medium obtained from M1-type macrophages. Finally, the regulatory effect of miR-33a on SIRT6 was validated via a dual luciferase reporter assay, and the influence of the miR-33a/SIRT6 axis on osteogenesis and macrophage polarization was investigated.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42092414/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42044723",
       "title": "Attenuation behavior of blue (laser) light in dentin: A literature-based evaluation regarding the validity of the Bouguer-Beer-Lambert law for dental applications.",
       "authors": [
@@ -1180,121 +1362,6 @@
       ]
     },
     {
-      "pmid": "41909504",
-      "title": "A composite hydrogel enables the spatiotemporal delivery of distinct cytokines to drive the native vascularized bone regeneration.",
-      "authors": [
-        "Chengwei Zhou",
-        "Jinwu Bai",
-        "Jianhua Zhu",
-        "Jiayu Chen",
-        "Xiaoqiang Jin",
-        "Kanbin Wang",
-        "Xiaowen Jiang",
-        "Han Chen",
-        "Xiaoyong Wu",
-        "Bin Hu",
-        "Ruiquan Li",
-        "Man Zhang",
-        "Erman Chen",
-        "Deting Xue",
-        "Xiaohua Yu",
-        "Hua Zhang",
-        "Zhijun Pan",
-        "Jianxiang Xu"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Bone defect represents one of the most prevalent clinical conditions in orthopedics diseases, and the key to successful therapeutic outcomes lies in achieving early vascularization coupled with late-phase osteogenic differentiation. Growth factor delivery is among the most widely adopted strategies for bone tissue regeneration. However, achieving the spatiotemporal coupled regulation of vascularized bone regeneration remains a major challenge. Proprotein convertase subtilisin/kexin type 9 (PCSK9) exerts a pivotal role in bone metabolism. Our preliminary findings demonstrated that PCSK9 expression is upregulated during bone regeneration, while the supplementation of exogenous PCSK9 can enhance the osteogenic differentiation of bone marrow mesenchymal stem cells (BMMSC). Based on these findings, we fabricated a composite hydrogel by adsorbing PCSK9 onto vascular-derived extracellular matrix (ECM) and incorporating vascular endothelial growth factor (VEGF) into gelatin methacryloyl (GelMA). Taking advantage of the distinct sustained-release profiles of these biomaterials, this hydrogel system was engineered to recapitulate the natural bone defect healing process, thereby enabling the coupled regulation of accelerated early vascularization and enhanced late-phase osteogenic differentiation. Both in vitro and in vivo experimental results confirmed that the constructed composite hydrogel can further potentiate the therapeutic efficacy of PCSK9 and achieve efficient vascularized bone regeneration. Mechanistically, our findings revealed that PCSK9 promotes the osteogenic differentiation of BMMSC via activation of the ERK signaling pathway. Collectively, the PCSK9- and VEGF-loaded composite hydrogel exhibits promising pro-angiogenic and pro-osteogenic coupling capabilities for bone regeneration, which provides novel therapeutic targets and innovative strategies for the clinical management of bone defects.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "confirmed that the constructed composite hydrogel can further potentiate the therapeutic efficacy of PCSK9 and achieve efficient vascularized bone regeneration. Mechanistically, our findings revealed that PCSK9 promotes the osteogenic differentiation of BMMSC via activation of the ERK signaling pathway. Collectively, the PCSK9- and VEGF-loaded composite hydrogel exhibits promising pro-angiogenic and pro-osteogenic coupling capabilities for bone regeneration, which provides novel therapeutic targets and innovative strategies for the clinical management of bone defects.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41909504/",
-      "pmcid": "PMC13019078",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13019078/bin/gr1.gif"
-      ]
-    },
-    {
-      "pmid": "41819044",
-      "title": "Comparative effects of Vitex agnus-castus and estradiol on bone tissue and osteoblasts under estrogen-deficient and oxidative stress conditions.",
-      "authors": [
-        "Maria Carolina Coelho",
-        "Luiz Gabriel Plasier Guedes de Mello",
-        "Yasmin Tavares Camargo",
-        "Roger Rodrigo Fernandes",
-        "Sayuri Poli Suguimoto",
-        "Roberta Okamoto",
-        "Selma Siessere",
-        "Karina Fittipaldi Bombonato-Prado"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "In estrogen-deficient osteoporosis, oxidative stress plays a pathogenic role and represents a target for strategies to prevent bone loss. Current treatments may cause side effects, motivating the search for alternatives, including phytoestrogens like Vitex agnus-castus (VAC), which structurally resemble endogenous estrogens. However, whether VAC alone is sufficient to exert osteoprotective effects under estrogen deficiency remains unclear. This study evaluated the isolated effects of VAC compared to estrogen replacement in ovariectomized rats and osteoblastic cells exposed to oxidative stress. VAC (200 mg/kg) and β-estradiol (20 µg/kg) were administered for 12 weeks after ovariectomy, and femur and mandible bones were analyzed by histomorphometry and micro-computed tomography. Bone marrow-derived mesenchymal cells and MC3T3-E1 cells were cultured with VAC (1 µg/mL) or β-estradiol (10-8 mol/L), followed by 400 μmol/L hydrogen peroxide exposure. In situ alkaline phosphatase (ALP) detection, mineralization, and gene expression were evaluated. Ovariectomy impaired bone microarchitecture and decreased femoral bone volume up to 60%, whereas estradiol preserved trabecular structure and VAC showed limited protective effects. Micro-CT confirmed reduced trabecular number and increased trabecular separation in the femur after ovariectomy, prevented by estradiol but not by VAC. Oxidative stress reduced ALP detection and mineralization. Estradiol improved mineralization, whereas VAC partially restored ALP deposition and upregulated Alp, Runx2, Bsp, and Sod3 expression under oxidative stress conditions. These findings indicate that, although VAC modulates osteogenic and antioxidant pathways, its isolated administration is insufficient to replace estrogen therapy, highlighting the need for optimized dosing and combination strategies.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41819044/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41810018",
-      "title": "Local periodontal injection, systemic heart repair: A dual-functional hydrogel for non-invasive concurrent treatment of periodontitis and myocardial infarction.",
-      "authors": [
-        "Qinfeng Ding",
-        "Yilong Teng",
-        "Hong Zhu",
-        "Zhitong Jia",
-        "Shuo Xu",
-        "Bin Hu",
-        "Boyan Chen",
-        "Jiewen Dai",
-        "Jian Sun",
-        "Ping Nie",
-        "Zhixiang Liu",
-        "Qijing Chen",
-        "Xudong Wang",
-        "Xiaoyang Xu",
-        "Xueqing Zhang",
-        "Shengzhong Duan"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Periodontitis and myocardial infarction (MI), the leading cause of mortality worldwide, represent globally prevalent inflammatory diseases with bidirectional pathophysiological links. Despite the urgent demand for non-invasive strategies capable of alleviating local periodontal destruction while mitigating associated systemic cardiovascular complications, no integrated treatment modality currently exists. To address this challenge, a protein-loaded antibacterial hydrogel, thiolated chitosan/AMP-PEG-maleimide (C1.5P4/BMP-2), with novel sustained protein release properties was developed. This hydrogel features an interconnected microporous architecture that: (1) enables high-efficiency BMP-2 protein encapsulation, (2) preserves protein bioactivity while ensuring sustained release, thereby addressing the recognized challenge of hydrogel-based protein delivery, (3) confers potent antibacterial properties, (4) facilitates remote cardiac function improvement by resolving periodontal inflammation. In murine models, locally, it attenuated alveolar bone loss (2-fold greater bone regeneration vs controls) while systemically improving post-MI cardiac function (75.6% higher ejection fraction). Mechanistically, the hydrogel's protein-protective microenvironment synergized with its antimicrobial action selectively inhibiting Gram-negative (G-) anaerobic pathogens (primary periodontal culprits) while enriching Gram-positive (G+) commensals, regulating biofilm G-/G+ ratio. Concomitantly, this dual action modulates the oral-cardiac inflammatory axis, specifically downregulating B2 cell/TNF-α signaling to mitigate systemic inflammation associated with MI. Collectively, this study presents a novel non-invasive protein-stabilizing hydrogel that addresses periodontitis-MI comorbidity through sustained osteogenic factor delivery coupled with microbiome-immune modulation.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41810018/",
-      "pmcid": "PMC12969335",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12969335/bin/sc1.gif"
-      ]
-    },
-    {
       "pmid": "41740295",
       "title": "Cell-free fat extract attenuates temporomandibular joint osteoarthritis via repressing ATF3-binding chromatin accessibility.",
       "authors": [
@@ -1350,93 +1417,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41421853",
-      "title": "Atorvastatin improves postextraction wound healing and decreases inflammation in rats previously treated with zoledronic acid.",
-      "authors": [
-        "Filip Koneski",
-        "Danica Popovik Monevska",
-        "Icko Gjorgoski",
-        "Aleksandar Stamatoski",
-        "Suzana Dvojakovska",
-        "Antonio Kirkov",
-        "Aleksandar Grchev",
-        "Goran Panchevski",
-        "Sanela Idoska",
-        "Aleksandar Iliev",
-        "Jana Trambulova"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Bisphosphonates are widely used antiresorptive agents for osteoporosis, metastatic bone disease, and other disorders of bone metabolism, but their use may lead to medication-related osteonecrosis of the jaw (MRONJ), a condition associated with impaired post-extraction healing. Statins, beyond their cholesterol-lowering effects, exhibit pleiotropic properties including anti-inflammatory, antimicrobial, and bone-regenerative activity, suggesting a potential therapeutic role in counteracting bisphosphonate-induced complications. The present study investigated the effects of local and systemic administration of atorvastatin on post-extraction wound healing, inflammatory markers, and antioxidant capacity in Wistar rats pretreated with zoledronic acid. Thirty rats were randomized into six groups, including positive and negative controls, and four experimental groups receiving different combinations of zoledronic acid and atorvastatin. Macroscopic evaluation, cone-beam computed tomography, cytokine assays, and enzymatic analyses were performed. Rats treated solely with zoledronic acid demonstrated impaired healing, necrotic bone exposure, elevated TNF-α and IL-1β, and reduced catalase, superoxide dismutase, and glutathione reductase activity. In contrast, both local and systemic atorvastatin significantly improved wound healing, reduced cytokine levels, and restored antioxidant capacity, with effects comparable or superior to the positive control group. These findings suggest that atorvastatin may mitigate zoledronic acid-induced oxidative and inflammatory imbalance, supporting its potential application for wound healing.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41421853/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42155375",
-      "title": "Bioconvection MHD casson hybrid nanofluid (Ag-TiO",
-      "authors": [
-        "D Prabu",
-        "Shajar Abbas",
-        "Assmaa Abd-Elmonem",
-        "Nagat A A Siddig",
-        "Farzona Alimova",
-        "Firdavs Kuchkarov"
-      ],
-      "publication_date": "2026-Jul-15",
-      "publication_date_iso": "2026-07-15",
-      "abstract": "The biomedical engineering and polymer processing industries experience rising needs for thermal management systems because of continuous technology improvements. The study investigates how a Casson fluid magnetohydrodynamic (MHD) stagnation-point flow behaves when used with an expanding surface while including viscous dissipation, chemical reaction, Joule heating, and thermal radiation through the Rosseland approximation. The model uses velocity slip and convective boundary conditions to create more realistic physical behavior. The governing nonlinear partial differential equations(PDEs) are transformed into a system of coupled ordinary differential equations(ODEs) using similarity transformations and solved numerically via the shooting method with a fourth-order Runge-Kutta scheme implemented in MATLAB. The results show that increasing the Casson parameter leads to a 15 to 25 percent improvement in the velocity profile because it decreases the resistance from yield stress. The temperature profile rises significantly (about 20-30%) with an increasing magnetic parameter as a result of intensified Joule heating effects. Higher Schmidt number values result in a significant reduction in concentration profiles which decreases by almost 10 to 20 percent because of decreased mass diffusivity. The Peclet number shows an inverse relationship with the motile microorganism density which causes a decrease of about 12 to 18 percent when it rises. The findings provide valuable insights which help industries and biomedical fields to improve their thermal systems that use non-Newtonian fluids.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "show that increasing the Casson parameter leads to a 15 to 25 percent improvement in the velocity profile because it decreases the resistance from yield stress. The temperature profile rises significantly (about 20-30%) with an increasing magnetic parameter as a result of intensified Joule heating effects. Higher Schmidt number values result in a significant reduction in concentration profiles which decreases by almost 10 to 20 percent because of decreased mass diffusivity. The Peclet number shows an inverse relationship with the motile microorganism density which causes a decrease of about 12 to 18 percent when it rises. The findings provide valuable insights which help industries and biomedical fields to improve their thermal systems that use non-Newtonian fluids.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42155375/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42237748",
-      "title": "YAP-activated lymph node fibroblasts contribute to extracellular matrix remodeling associated with extranodal extension of oral squamous cell carcinoma.",
-      "authors": [
-        "Qian Zhang",
-        "Shanben Jiang",
-        "Ansardin Abliz",
-        "Sheng Chen",
-        "Qingang Hu",
-        "Liang Ding",
-        "Yuxin Wang"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Desmoplasia, characterized by excessive expansion of cancer-associated fibroblasts (CAFs) and aberrant extracellular matrix (ECM) deposition, is widely present especially in invasive cancers. The extranodal extension (ENE) of nodal metastasis involves the extension of invasive tumor cells through the lymph node capsule into the perinodal adipose tissue, leading to systemic metastasis. Thus, the specific roles of desmoplasia in ENE formation need to be identified. This study aimed to investigate the association between desmoplasia and its role in ENE formation of oral squamous cell carcinoma, with a focus on Yes-associated protein (YAP)-mediated fibroblast activation and ECM remodeling. Transcriptome profiling and histopathology study based on tissue microarrays were performed to explore the association of metastasis-associated CAFs (MAFs) in ECM remodeling with ENE formation. Primary MAFs were isolated from ENE-positive (ENE+) and ENE-negative (ENE-) lymph nodes for functional characterization. The regulatory role of YAP in MAF-mediated ECM remodeling was investigated through immunohistochemistry, gene knockdown, and co-culture assays with HSC-3 tumor cells. A high degree of desmoplasia and rich collagen remodeling in lymph nodes was associated with higher ENE risk. ENE+ MAFs exhibited superior proliferative capacity, enhanced migration, and increased ECM remodeling activity compared to ENE- MAFs. Co-culture experiments demonstrated that ENE+ MAFs significantly promoted HSC-3 cell invasion through Matrigel. Exploratory RNA sequencing revealed enrichment of ECM receptor interaction and Hippo-YAP pathway in ENE+ lymph nodes. Nuclear YAP localization in MAFs correlated with elevated expression of ECM components (collagen type I alpha 1 [COL1A1], fibronectin 1 [FN1], Tenascin C) and matrix metalloproteinase-2. YAP knockdown in ENE+ MAFs significantly attenuated both ECM remodeling capacity and pro-invasion ability in vitro. These findings suggest that YAP-activated MAFs contribute to ECM remodeling that may create a stromal environment permissive for ENE formation, though direct in vivo validation is needed to establish causality.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42237748/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42234335",
       "title": "Topographical Relationship Between the Plexus Pelvinus and Pelvic Peritoneal Reflections in Male Beagles.",
       "authors": [
@@ -1458,31 +1438,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42234335/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42231546",
-      "title": "Correction of Lateralization of the Perioral Insertion of Gracilis Muscle in Facial Reanimation in Children: A Report of Two Cases.",
-      "authors": [
-        "A Haumer",
-        "O Engström",
-        "R Dong",
-        "A Rodriguez-Lorenzo"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Facial palsy in pediatric patients can lead to severe functional impairments and psychosocial challenges. Free gracilis muscle transfer (FGMT) is to date the gold standard for dynamic facial reanimation, but suboptimal aesthetic outcomes (SAO), due to malpositioning of the nasolabial fold, still represent a challenge to the surgeons. Especially, craniolateral displacement of the medial insertion of the gracilis muscle at the nasolabial fold represents a true challenge. The purpose of these two case reports is to propose a novel technique for the medialization of the perioral insertion of the gracilis muscle using fascia lata slings in pediatric patients, which might be useful to the reconstructive surgeon in dealing with this challenging complication. We present the cases of two male pediatric patients with complete unilateral facial palsy; a 7-year-old affected by congenital, complete, right-sided and an 11-year-old post-oncological complete right-sided facial palsy. Both patients underwent FGMT and suffered from craniolateral displacement of the nasolabial fold postoperatively after different time spans. (3- and 5-years post FGMT). To correct this SAO, we performed our herein proposed technique for secondary repositioning of the gracilis muscle to correct the malpositioned nasolabial fold. Pre- and postoperative outcomes were evaluated using photography, videography, and the Terzis Functional and Aesthetic Grading System by seven independent investigators. These independent investigators found that the overall Terzis score increased from poor to moderate through FGMT and sustained another relevant increase from moderate to good through our proposed medialization technique. Moreover, within our follow-up period of 17 months, we observed no major or minor complications. The take home message of this report is that our technique of medialization of the gracilis muscle insertion using fascia lata slings represents an effective and low-risk approach for correcting a lateralized nasolabial fold. In these challenging cases, this novel technique can offer a surgical alternative which can improve both functional and aesthetic outcomes in pediatric facial reanimation. However, further investigation with larger cohorts is necessary to validate our surgical approach.",
-      "objective": "of these two case reports is to propose a novel technique for the medialization of the perioral insertion of the gracilis muscle using fascia lata slings in pediatric patients, which might be useful to the reconstructive surgeon in dealing with this challenging complication. We present the cases of two male pediatric patients with complete unilateral facial palsy; a 7-year-old affected by congenital, complete, right-sided and an 11-year-old post-oncological complete right-sided facial palsy. Both patients underwent FGMT and suffered from craniolateral displacement of the nasolabial fold postoperatively after different time spans. (3- and 5-years post FGMT). To correct this SAO, we performed our herein proposed technique for secondary repositioning of the gracilis muscle to correct the malpositioned nasolabial fold. Pre- and postoperative outcomes were evaluated using photography, videography, and the Terzis Functional and Aesthetic Grading System by seven independent investigators. These independent investigators found that the overall Terzis score increased from poor to moderate through FGMT and sustained another relevant increase from moderate to good through our proposed medialization technique. Moreover, within our follow-up period of 17 months, we observed no major or minor complications. The take home message of this report is that our technique of medialization of the gracilis muscle insertion using fascia lata slings represents an effective and low-risk approach for correcting a lateralized nasolabial fold. In these challenging cases, this novel technique can offer a surgical alternative which can improve both functional and aesthetic outcomes in pediatric facial reanimation. However, further investigation with larger cohorts is necessary to validate our surgical approach.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42231546/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2835,191 +2790,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42237857/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42236433",
-      "title": "Three-dimensional volumetric analysis of mandibular condyle changes in active growing condylar hyperplasia.",
-      "authors": [
-        "P Cholprasertsuk",
-        "S Sittisomwong",
-        "D Theerakulpisut",
-        "K Warin"
-      ],
-      "publication_date": "2026-Jun-03",
-      "publication_date_iso": "2026-06-03",
-      "abstract": "Condylar hyperplasia is characterized by excessive mandibular condylar growth, causing progressive facial asymmetry and occlusal discrepancies. This study investigates the transition from active to inactive growth stages, a critical determinant for optimizing surgical timing and selecting appropriate intervals for corrective orthognathic surgery. A retrospective study was conducted involving 30 patients with unilateral condylar hyperplasia (mean age 21.90 ± 4.16 years) at a university hospital. Assessment of condylar hyperplasia involved measuring metabolic activity through bone scintigraphy, in conjunction with three-dimensional volumetric and height evaluations via computed tomography (CT). This approach enabled a comparative analysis between the affected and unaffected condylar sides during the growth phase transition. Results showed a median duration of 27.75 months (interquartile range 18.87 months) for this transition. Metabolic activity, as recorded by bone scintigraphy, declined from a mean tracer uptake difference of 14.02 ± 4.17% in the active stage to 4.42 ± 2.65% in the inactive stage. Additionally, the mean condylar volume significantly increased from 2230 ± 630 mm3 in the active stage to 2390 ± 650 mm in the inactive stage, reflecting a mean increase of 156 mm3 (P < 0.001). In contrast, changes in mean condylar height were not statistically significant (24.05 ± 3.74 mm to 24.51 ± 3.67 mm, P = 0.21). In conclusion, volumetric changes are significant during the transition to inactivity, while height changes are not. This study emphasizes the importance of volumetric assessments in guiding surgical timing and intervention strategies for condylar hyperplasia management.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "showed a median duration of 27.75 months (interquartile range 18.87 months) for this transition. Metabolic activity, as recorded by bone scintigraphy, declined from a mean tracer uptake difference of 14.02 ± 4.17% in the active stage to 4.42 ± 2.65% in the inactive stage. Additionally, the mean condylar volume significantly increased from 2230 ± 630 mm3 in the active stage to 2390 ± 650 mm in the inactive stage, reflecting a mean increase of 156 mm3 (P < 0.001). In contrast, changes in mean condylar height were not statistically significant (24.05 ± 3.74 mm to 24.51 ± 3.67 mm, P = 0.21). In",
-      "conclusion": ", volumetric changes are significant during the transition to inactivity, while height changes are not. This study emphasizes the importance of volumetric assessments in guiding surgical timing and intervention strategies for condylar hyperplasia management.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42236433/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42236432",
-      "title": "Oral health-related quality of life of patients with class II and class III dentofacial deformity before and after orthognathic surgery: a prospective cohort study.",
-      "authors": [
-        "C Zhu",
-        "Y Guo",
-        "Q Deng",
-        "Y Le",
-        "Q Wan"
-      ],
-      "publication_date": "2026-Jun-03",
-      "publication_date_iso": "2026-06-03",
-      "abstract": "Dentofacial deformities affect patients' oral health-related quality of life (OHRQoL) and orthognathic surgery is commonly used to correct these skeletal deformities. Currently, few studies have compared patients with class II and class III dentofacial deformity using validated tools, with control groups and longer-term follow-up. This study evaluated OHRQoL in 94 patients with class II (n = 28) and class III (n = 66) dentofacial deformity before (baseline) and 1 (M1), 3 (M3), and 6 (M6) months after orthognathic surgery, using the Chinese version of the Orthognathic Quality of Life Questionnaire (OQLQ). A total of 118 college students without dentofacial deformity served as controls. Comparisons and longitudinal changes were analysed. Preoperatively (baseline), patients exhibited worse OQLQ scores than controls (P < 0.001). Significant improvements of OQLQ scores were observed in patients with class II and class III dentofacial deformity from baseline to M6 (P < 0.001). Patients with class II dentofacial deformity showed significantly worse OQLQ scores than those with class III dentofacial deformity in certain aspects at M6 (P < 0.05). This study provides novel evidence that while orthognathic surgery substantially improves OHRQoL, patients with class II dentofacial deformity may experience poorer OHRQoL at 6 months postoperatively compared to patients with class III dentofacial deformity.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42236432/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42233922",
-      "title": "Use of dental care provider types and dental services: A comparison between people with and without disabilities in the United States.",
-      "authors": [
-        "Huabin Luo",
-        "Ford T Grant",
-        "Sukyung Moon",
-        "Wanda Wright",
-        "Mark E Moss"
-      ],
-      "publication_date": "2026-Jun-03",
-      "publication_date_iso": "2026-06-03",
-      "abstract": "People with disabilities may experience challenges in access to oral health care. The authors examined differences in dental care provider mix (ie, type of dental care providers visited) and dental service mix (ie, types of dental services) between working-aged adults with and without disabilities. The authors analyzed data from the 2021-2022 Medical Expenditure Panel Survey. The sample included 10,397 adults aged 18 through 64 years who reported at least 1 dental visit in the past year. Disability status was determined from participants' responses to questions on physical, hearing, vision, or cognitive limitations. The authors estimated the rates of visiting 3 types of dental care providers (ie, general dentist, dental hygienist, and dental care specialists) and use of dental services, grouped into preventive dental procedures and treatment procedures, including restorative and endodontic, periodontic, oral surgery, prosthetic, and orthodontic. Weighted multiple logistic regression was used to estimate the association between disability status, dental service use, and dental care provider type. Adults with disabilities were less likely to undergo preventive dental procedures (adjusted odds ratio [AOR], 0.62; 95% CI, 0.52 to 0.74) and more likely to undergo treatment procedures (AOR, 1.45; 95% CI, 1.23 to 1.69) than those without disabilities. They were less likely to have visited a dental hygienist (AOR, 0.79; 95% CI, 0.65 to 0.95). According to the 2021-2022 Medical Expenditure Panel Survey data, adults with disabilities who visited a dentist were less likely to receive preventive care and more likely to undergo treatment, suggesting that oral health problems may have necessitated the dental visit. Interventions should be tailored to disability-related needs, improve preventive dental service use, and include expanded dental insurance coverage to reduce cost barriers.",
-      "objective": "",
-      "study_methods": "The authors analyzed data from the 2021-2022 Medical Expenditure Panel Survey. The sample included 10,397 adults aged 18 through 64 years who reported at least 1 dental visit in the past year. Disability status was determined from participants' responses to questions on physical, hearing, vision, or cognitive limitations. The authors estimated the rates of visiting 3 types of dental care providers (ie, general dentist, dental hygienist, and dental care specialists) and use of dental services, grouped into preventive dental procedures and treatment procedures, including restorative and endodontic, periodontic, oral surgery, prosthetic, and orthodontic. Weighted multiple logistic regression was used to estimate the association between disability status, dental service use, and dental care provider type.",
-      "methods": "The authors analyzed data from the 2021-2022 Medical Expenditure Panel Survey. The sample included 10,397 adults aged 18 through 64 years who reported at least 1 dental visit in the past year. Disability status was determined from participants' responses to questions on physical, hearing, vision, or cognitive limitations. The authors estimated the rates of visiting 3 types of dental care providers (ie, general dentist, dental hygienist, and dental care specialists) and use of dental services, grouped into preventive dental procedures and treatment procedures, including restorative and endodontic, periodontic, oral surgery, prosthetic, and orthodontic. Weighted multiple logistic regression was used to estimate the association between disability status, dental service use, and dental care provider type.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42233922/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42233411",
-      "title": "Salivary NLRP3 inflammasome as a promising biomarker for palatal mucosa healing in diabetes mellitus: A pilot study.",
-      "authors": [
-        "Manuela Maria Viana Miguel",
-        "Ana Carolina Ferreira Bonafé",
-        "Ingrid Fernandes Mathias-Santamaria",
-        "D Travis Thomas",
-        "Luciana Macchion Shaddox",
-        "Mauro Pedrine Santamaria"
-      ],
-      "publication_date": "2026-Jun-03",
-      "publication_date_iso": "2026-06-03",
-      "abstract": "The NOD-like receptor family pyrin domain-containing protein 3 (NLRP3) inflammasome is a protein complex that regulates IL-1β activation. Despite its known role in dermal healing, its involvement in oral mucosal healing remains poorly understood. Twenty-four subjects, including 12 with Type 2 diabetes mellitus (T2DM) and 12 normoglycemic controls (C), underwent a surgical procedure for mucogingival defect treatment in which a graft was harvested from the palate. The palatal wound was assessed for remaining wound area (RWA) and epithelialization (EPT) until 3 months. Wound exudate was collected on days 3 and 7 post-operatively to analyze inflammatory biomarkers, proteinases, and growth factors. NLRP3, PYCARD, CASPASE-1, and interleukin-1beta (IL-1β) salivary levels were assessed preoperatively and 7 days post-surgery. Lower EPT rates and greater RWA were observed in T2DM compared to Control on days 7 and 14 postoperatively. Higher MMP-9 concentration was detected in T2DM subjects on days 3 and 7 post-surgery (p < 0.05). Salivary NLRP3 and PYCARD increased in the C group at 7 days post-surgery (p ≤ 0.04), whereas IL-1β was higher over time in the T2DM group (p = 0.003). At baseline, NLRP3 and PYCARD levels were higher in T2DM (p ≤ 0.005), whereas PYCARD (p = 0.01) and CASPASE-1 (p = 0.05) remained elevated at 7 days compared with C. A positive association between salivary NLRP3 levels with IL-1β (r = 0.46) and tumor necrosis factor-alpha (TNF-α) (r = 0.47) from wound exudate on day 7 was observed. PYCARD levels associated with IL-1β (r = 0.48) and TNF-α (r = 0.50) at the same time point. Principal component analysis of inflammasome-related markers and wound biomarkers on day 7 suggested a potential impact on delayed wound closure by day 14. The NLRP3 inflammasome may be a promising biomarker for T2DM-related acute palatal healing due to its early upregulation and association with proinflammatory markers, with a potential impact on delayed wound closure.",
-      "objective": "",
-      "study_methods": "Twenty-four subjects, including 12 with Type 2 diabetes mellitus (T2DM) and 12 normoglycemic controls (C), underwent a surgical procedure for mucogingival defect treatment in which a graft was harvested from the palate. The palatal wound was assessed for remaining wound area (RWA) and epithelialization (EPT) until 3 months. Wound exudate was collected on days 3 and 7 post-operatively to analyze inflammatory biomarkers, proteinases, and growth factors. NLRP3, PYCARD, CASPASE-1, and interleukin-1beta (IL-1β) salivary levels were assessed preoperatively and 7 days post-surgery.",
-      "methods": "Twenty-four subjects, including 12 with Type 2 diabetes mellitus (T2DM) and 12 normoglycemic controls (C), underwent a surgical procedure for mucogingival defect treatment in which a graft was harvested from the palate. The palatal wound was assessed for remaining wound area (RWA) and epithelialization (EPT) until 3 months. Wound exudate was collected on days 3 and 7 post-operatively to analyze inflammatory biomarkers, proteinases, and growth factors. NLRP3, PYCARD, CASPASE-1, and interleukin-1beta (IL-1β) salivary levels were assessed preoperatively and 7 days post-surgery.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42233411/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42233288",
-      "title": "Manikin-Head-Based Demonstration Improves Suture Proficiency in Dental Residents.",
-      "authors": [
-        "Xiao-Heng Zhao",
-        "Yao Xiao",
-        "Wei Zhang"
-      ],
-      "publication_date": "2026-Jun-03",
-      "publication_date_iso": "2026-06-03",
-      "abstract": "This study aimed to evaluate the effectiveness of manikin-head simulator-based demonstration training in improving intraoral suturing proficiency among dental residents, and to understand the perspectives of residents in China's Standardized Residency Training (SRT) program on preclinical training. Eighteen postgraduate dental residents from the Hospital of Stomatology, Wuhan University, participated in the intraoral suturing training program. Theoretical instruction by a senior oral surgery instructor delivered lectures on four fundamental suturing techniques. Then, residents engaged in hands-on practice using a customized silicone model integrated into a manikin head simulator. Subsequently, optimal suturing techniques were demonstrated, after which residents replicated the suturing procedure. Completion time was recorded, and suture quality was assessed using a 32-point validated rubric evaluating seven domains. In addition, participants completed questionnaires to provide subjective feedback on the training. Paired t-tests compared pre- and post-demonstration completion times and scores. Residents' operational time significantly decreased (from 23.99 ± 2.55 to 14.54 ± 1.99 min, p < 0.001) with improved quality scores (from 21.22 ± 5.12 to 29.67 ± 2.35, p < 0.001). Junior participants showed greater score improvements than seniors, who maintained higher baseline scores and efficiency. Participants reported enhanced suturing speed, which was consistent with objective time metrics. Participants also noted improved instrument proficiency and reported improved perceived confidence. All participants agreed that the training effectively addressed clinical skill gaps. Manikin-head-based demonstration training effectively enhances simulated intraoral suturing performance and self-reported confidence among dental residents in a preclinical setting. This approach bridges critical gaps between undergraduate education and clinical demands in China's SRT program by providing scalable, cost-effective preclinical practice, which may ultimately contribute to improved patient safety and clinical outcomes.",
-      "objective": "time metrics. Participants also noted improved instrument proficiency and reported improved perceived confidence. All participants agreed that the training effectively addressed clinical skill gaps. Manikin-head-based demonstration training effectively enhances simulated intraoral suturing performance and self-reported confidence among dental residents in a preclinical setting. This approach bridges critical gaps between undergraduate education and clinical demands in China's SRT program by providing scalable, cost-effective preclinical practice, which may ultimately contribute to improved patient safety and clinical outcomes.",
-      "study_methods": "Eighteen postgraduate dental residents from the Hospital of Stomatology, Wuhan University, participated in the intraoral suturing training program. Theoretical instruction by a senior oral surgery instructor delivered lectures on four fundamental suturing techniques. Then, residents engaged in hands-on practice using a customized silicone model integrated into a manikin head simulator. Subsequently, optimal suturing techniques were demonstrated, after which residents replicated the suturing procedure. Completion time was recorded, and suture quality was assessed using a 32-point validated rubric evaluating seven domains. In addition, participants completed questionnaires to provide subjective feedback on the training. Paired t-tests compared pre- and post-demonstration completion times and scores.",
-      "methods": "Eighteen postgraduate dental residents from the Hospital of Stomatology, Wuhan University, participated in the intraoral suturing training program. Theoretical instruction by a senior oral surgery instructor delivered lectures on four fundamental suturing techniques. Then, residents engaged in hands-on practice using a customized silicone model integrated into a manikin head simulator. Subsequently, optimal suturing techniques were demonstrated, after which residents replicated the suturing procedure. Completion time was recorded, and suture quality was assessed using a 32-point validated rubric evaluating seven domains. In addition, participants completed questionnaires to provide subjective feedback on the training. Paired t-tests compared pre- and post-demonstration completion times and scores.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42233288/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42231550",
-      "title": "Modified Mylohyoid Nerve Anesthesia/Block With 4% Articaine and Dexamethasone Versus Halstead's IANB With 2% Lidocaine in Mandibular Molar Surgery: A Comparative Analysis of Efficacy and Safety Outcomes.",
-      "authors": [
-        "Kristina Burić",
-        "Simona Stojanović",
-        "Miloš Tijanic",
-        "Nikola Burić"
-      ],
-      "publication_date": "2026-Jun-03",
-      "publication_date_iso": "2026-06-03",
-      "abstract": "BACKGROUND The Halstead inferior alveolar nerve block (IANB) is the standard local anesthetic method for mandibular dental procedures, but it can fail due to anatomic variations. A modified mylohyoid anesthesia (MMA) block can be used as a supplemental injection technique for the surrounding tissues. Therefore, this study included patients undergoing mandibular molar surgery and aimed to compare outcomes following a modified mylohyoid nerve block with 4% articaine with epinephrine and dexamethasone, 4% articaine with epinephrine, and 2% lidocaine with epinephrine. MATERIAL AND METHODS Sixty patients were equally allocated into 3 groups (n=20). Group 1 received 4% articaine with epinephrine plus dexamethasone via modified mylohyoid anesthesia (MMA). Group 2 received MMA with 4% articaine and epinephrine alone. Group 3 (control) received 2% lidocaine with epinephrine using Halstead's inferior alveolar nerve block. Pain intensity was assessed using a visual analog scale (VAS). Secondary outcomes included quality of anesthesia score (QAS) and duration of anesthesia (DOA). RESULTS Groups were comparable in age (P=0.958). Median VAS scores were 3.5, 5.5, and 8 mm for Groups 1, 2, and 3, respectively, with no significant differences (P=0.232). Median QAS was 2 in all groups (P=0.168). Mean DOA was 189.2, 216.5, and 219 min, respectively. CONCLUSIONS MMA demonstrated clinical outcomes comparable to the conventional inferior alveolar nerve block, although no statistically significant differences were observed among groups.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Groups were comparable in age (P=0.958). Median VAS scores were 3.5, 5.5, and 8 mm for Groups 1, 2, and 3, respectively, with no significant differences (P=0.232). Median QAS was 2 in all groups (P=0.168). Mean DOA was 189.2, 216.5, and 219 min, respectively.",
-      "conclusion": "MMA demonstrated clinical outcomes comparable to the conventional inferior alveolar nerve block, although no statistically significant differences were observed among groups.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42231550/",
-      "pmcid": "PMC13245107",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13245107/bin/medscimonit-32-e951821-g001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13245107/bin/medscimonit-32-e951821-g002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13245107/bin/medscimonit-32-e951821-g003.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13245107/bin/medscimonit-32-e951821-g004.jpg"
-      ]
-    },
-    {
-      "pmid": "42230179",
-      "title": "Analysis of surgical timing and treatment patterns in patients with cleft lip and palate using Korean Health Insurance Review and Assessment Service (HIRA) big data.",
-      "authors": [
-        "J-H Yun",
-        "J-H Baek",
-        "Y-J Jeong",
-        "E-S Lee",
-        "I-S Song",
-        "H-K Lim"
-      ],
-      "publication_date": "2026-Jun-03",
-      "publication_date_iso": "2026-06-03",
-      "abstract": "In cleft lip and palate (CLP), the long-term impacts of surgical timing, use of presurgical orthopaedic appliances, and cleft extent on craniofacial growth remain debated. Claims data from the Korean Health Insurance Review and Assessment Service were leveraged to perform a retrospective analysis based on diagnostic and procedure codes. The study included 23,401 patients aged <40 years treated between 2007 and 2023. The surgical timing, cleft type and extent, use of presurgical orthopaedic appliances, and their associations with maxillary growth-related interventions, revision procedures, otitis media, and tympanostomy tube insertion were evaluated. Overall, 53.03% of the patients underwent cleft-related surgeries. Most cleft lip (CL) repair, cleft palate (CP) repair, and primary rhinoplasty were performed before age 2 years. Early CL surgery (<2 years) was associated with higher rates of orthodontic treatment (P = 0.007) and palatal expansion (P < 0.001), and early CP surgery (<2 years) with an increased frequency of orthognathic surgery (P < 0.001). These findings indicate associations that may reflect the influence of surgical timing on maxillary growth. Compared to CL alone, orthodontic treatment, arch expansion, and orthognathic surgery were more frequent with CP involvement (all P < 0.001). Presurgical orthopaedic appliance use was associated with reduced revision surgery (P < 0.001). Incidences of otitis media and tympanostomy tube insertion were higher for clefts involving the soft palate (both P < 0.001). In conclusion, surgical timing, cleft extent, and presurgical orthopaedic appliance use were observed to significantly influence long-term treatment patterns and growth-related sequelae in CLP.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": ", surgical timing, cleft extent, and presurgical orthopaedic appliance use were observed to significantly influence long-term treatment patterns and growth-related sequelae in CLP.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42230179/",
       "pmcid": "",
       "figure_urls": []
     }
