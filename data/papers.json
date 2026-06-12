@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T06:54:23Z",
+  "updated_at": "2026-06-12T06:47:59Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -842,6 +842,35 @@
       "figure_urls": []
     },
     {
+      "pmid": "42168049",
+      "title": "Machine learning-based approach for predicting the extraction time of a mandibular third molar.",
+      "authors": [
+        "Atsushi Danjo",
+        "Motoki Fukuda",
+        "Reona Aijima",
+        "Asana Kamohara",
+        "Chiaki Kuwada",
+        "Yoshiko Ariji",
+        "Eiichiro Ariji",
+        "Yoshio Yamashita"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Predicting the surgical time required for mandibular third molar extraction is challenging because patient-, tooth-, and operator-related factors interact in complex ways. This study aimed to develop an interpretable machine-learning model using patient demographics, panoramic radiographic features, and surgeon-related variables. We retrospectively reviewed 713 mandibular third molar extractions at a single university hospital. Models were developed using Prediction One, a no-code machine-learning platform. Because continuous-time prediction showed limited performance, we reframed the primary task as binary classification at clinically relevant thresholds (≥31, ≥46, and ≥61 minutes). Performance was benchmarked against three traditional models and feature contribution scores were calculated to assess variable importance. The ≥31-minute model showed the best performance (accuracy, 0.75; area under the curve, 0.80), and outperformed the comparator models. Surgeon experience and specialist certification were the strongest contributors, followed by root-related radiographic morphology. In contrast, indices such as the Pell and Gregory classification and the number of roots, showed limited predictive value. Minute-by-minute prediction was difficult, but threshold-based prediction was feasible, and we identified factors that contributed substantially to time prediction and those with minimal impact.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42168049/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42166885",
       "title": "Immediate PEEK patient-specific cranioplasty in sphenoid wing meningioma resection: 10-year clinical outcomes of a contemporary approach to complex orbital reconstruction.",
       "authors": [
@@ -1181,6 +1210,28 @@
       "figure_urls": []
     },
     {
+      "pmid": "42045061",
+      "title": "Letter to the editor on \"Cannabis-related facial trauma: a 10-year review of facial trauma in Victoria, Australia\".",
+      "authors": [
+        "Vaibhav Sahni"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42045061/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42044723",
       "title": "Attenuation behavior of blue (laser) light in dentin: A literature-based evaluation regarding the validity of the Bouguer-Beer-Lambert law for dental applications.",
       "authors": [
@@ -1236,6 +1287,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "41974605",
+      "title": "Development of a highly accurate machine learning model for the differential diagnosis of ameloblastoma and odontogenic keratocyst on computed tomography images.",
+      "authors": [
+        "Daisuke Nomoto",
+        "Motoki Fukuda",
+        "Yoshiko Ariji",
+        "Tamaki Nakanishi",
+        "Kaname Tsuji",
+        "Hirohito Kubo"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "To develop a machine learning model using computed tomography (CT) images for preoperative differential diagnosis of ameloblastoma (AM) and odontogenic keratocyst (OKC), and to compare its performance with that of an oral and maxillofacial radiologist. This retrospective study analyzed CT images from 154 patients (70 AM, 84 OKC). Seventeen clinical and imaging features were extracted and compiled into a CSV file. The data were randomly divided into five subsets for five-fold cross-validation. In each fold, 80% of the data were used for training and 20% for testing. Two machine learning models-Prediction One and Random Forest-were trained on the training data and evaluated on the test data. Diagnostic performance was assessed using receiver operating characteristic (ROC) curves, and the AUC were calculated. The performance of each model was compared with that of a radiologist blinded to clinical data. Variable importance was also analyzed to identify key diagnostic features. Prediction One achieved an AUC of 0.95. Random Forest achieved an AUC of 0.96. Both models significantly outperformed the radiologist (AUC: 0.80, P < .05). The most influential diagnostic features were root resorption and locularity. Machine learning models accurately distinguished AM from OKC and may assist preoperative diagnosis and planning.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41974605/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41966486",
       "title": "Inhibition of extracellular vesicle secretion by cannabidiol: A promising approach for oral squamous cell carcinoma therapy.",
       "authors": [
@@ -1264,34 +1342,6 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41966486/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41966283",
-      "title": "UHMK1 regulates VM formation in OSCC by interacting with STMN1.",
-      "authors": [
-        "Yan Guo",
-        "Yuanyong Feng",
-        "Xiangning Ni",
-        "Xuan Zhang",
-        "Xiao Fang",
-        "Tongtong Li",
-        "Ning Wang"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Oral squamous cell carcinoma (OSCC) is a common malignant tumor in the head and neck region and clinically characterized by relatively high invasiveness and a propensity for metastasis. Patients generally exhibit nonsatisfactory prognosis. Beyond the classical endothelium-dependent angiogenesis pathway, vasculogenic mimicry (VM), a nonclassical blood supply mechanism whereby tumor cells themselves form microcirculatory conduits, plays a significant role in tumor progression. However, the regulatory mechanism of VM formation remains to be fully understood. U2AF homologous motif kinase 1 (UHMK1) is a regulatory protein possessing serine/threonine kinase activity and RNA-binding capability and was found to be overexpressed in OSCC tissues in our previous research. The present study aimed to explore the association between UHMK1 expression in OSCC and VM formation and elucidate the potential molecular mechanisms by which UHMK1 regulates VM development. Immunohistochemistry (IHC) results demonstrated that UHMK1 upregulation in OSCC was significantly correlated with VM structure, and both were associated with poor clinical outcomes and shortened patient survival time. In vitro experiments revealed that UHMK1 knockdown markedly suppressed VM formation in OSCC cells. Bioinformatics prediction and co-immunoprecipitation (co-IP) assays confirmed the interaction between UHMK1 and stathmin1 (STMN1). Further investigations indicated that UHMK1 stabilized STMN1 protein expression by inhibiting its ubiquitin-proteasome degradation pathway, and these two might jointly activate the PI3K/AKT/mTOR signaling pathway to regulate VM formation. The current study revealed the key role of UHMK1-STMN1 in coregulating VM formation in OSCC, providing new insights into the tumor microenvironment and identifying potential targets for anti-angiogenic therapy.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "demonstrated that UHMK1 upregulation in OSCC was significantly correlated with VM structure, and both were associated with poor clinical outcomes and shortened patient survival time. In vitro experiments revealed that UHMK1 knockdown markedly suppressed VM formation in OSCC cells. Bioinformatics prediction and co-immunoprecipitation (co-IP) assays confirmed the interaction between UHMK1 and stathmin1 (STMN1). Further investigations indicated that UHMK1 stabilized STMN1 protein expression by inhibiting its ubiquitin-proteasome degradation pathway, and these two might jointly activate the PI3K/AKT/mTOR signaling pathway to regulate VM formation. The current study revealed the key role of UHMK1-STMN1 in coregulating VM formation in OSCC, providing new insights into the tumor microenvironment and identifying potential targets for anti-angiogenic therapy.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41966283/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1325,41 +1375,90 @@
       "figure_urls": []
     },
     {
-      "pmid": "41909511",
-      "title": "Three-dimensional niche-like porous structure locoregionally regulating macrophage immunosenescence rejuvenates aged bone repair.",
+      "pmid": "41934075",
+      "title": "Reactive gingival lesions: a multicenter study of 8,625 cases from South America.",
       "authors": [
-        "Da-Wang Zhao",
-        "Xiangyu Fei",
-        "Haoxin Zhai",
-        "Yuxuan Zhang",
-        "Rui Hu",
-        "Huanyu Liu",
-        "Shihao Li",
-        "Xiangzhen Kong",
-        "Yuanqiang Zhang",
-        "Zhonghua Zhang",
-        "Lei Cheng"
+        "Israel Leal Cavalcante",
+        "Caio César da Silva Barros",
+        "Maria Luisa Paparella",
+        "Krissya Villegas",
+        "Nathalie Amaya",
+        "Eveline Turatti",
+        "Roberta Barroso Cavalcante",
+        "Luiza Maria Silva Aderaldo",
+        "Elton Fernandes Barros",
+        "Maurília Raquel de Souto Medeiros",
+        "Pollianna Muniz Alves",
+        "Cassiano Francisco Weege Nonaka",
+        "Éricka Janine Dantas da Silveira",
+        "Julia Biliato Javaroni",
+        "Magdalena Raquel Torres Reyes",
+        "Jorge Esquiche León",
+        "Kallana Mezzomo Faccin",
+        "Rogério Gondak",
+        "Gerardo Gilligan",
+        "René Panico",
+        "Juan Cruz Romero Panico",
+        "Francisco Frascaroli",
+        "Cleiton Rone Dos Santos Lima",
+        "Luciano Alberto de Castro",
+        "Diego Antônio Costa Arantes",
+        "Elismauro Francisco de Mendonça",
+        "Juan Manuel Arteaga Legarrea",
+        "Patrícia Carlos Caldeira",
+        "Felipe Paiva Fonseca",
+        "Flavio Veiga do Pilar Cobra",
+        "José Victor Lemos Ventura",
+        "Ericles Otávio Santos",
+        "José Alcides Almeida de Arruda",
+        "Jefferson R Tenório",
+        "Michelle Agostini",
+        "Maria Augusta Visconti",
+        "Bruno Augusto Benevenuto de Andrade"
       ],
       "publication_date": "2026-Aug",
       "publication_date_iso": "2026-08-01",
-      "abstract": "The decreased reconstruction potential of aging bone marrow mesenchymal stem cells (BMMSCs) fails to resist compromised bone healing, and strategies to remodel the regeneration capacity of senescent BMMSCs are urgently needed. A depletion of ARG1+ macrophages in aging murine exacerbates the impaired reconstructive functionality of BMMSCs, eventually becomes a critical obstacle for aged osteointegration. Herein, we fabricated a niche-like multiscale porous Titanium (p-Ti) implant using a vapor-phase-assisted alloying-dealloying strategy for in-situ manipulating the regenerative repair potential of BMMSCs while alleviating immunosenescence during bone reconstruction. This versatile method can be used to fabricate a porous surface layer on commercial implants with complex geometries. As benchmarked with commercial Ti, the in vitro and in vivo results of rabbits and rats show our niche-like p-Ti efficiently promotes BMMSCs to engender an osteogenic phenotype and attune the areas of bone defect. Moreover, niche-like multiscale porous structure yields rejuvenated ARG1+ macrophages in tandem with BMMSCs osteogenic differentiation at the bone-implant interface, modulating the immunosenescence, and synergistically promoting the osteointegration. Our findings establish that the macrophage can be re-engineered to be youthful for maintaining immune homeostasis, thereby providing a reversible treatment strategy for bone reconstruction of old people with broad applications in other senescence-related diseases.",
+      "abstract": "This study analyzed the frequency and clinical features of reactive gingival lesions (RGL) across South America. This observational, cross-sectional, multicenter study was based on retrospective data from 10 oral pathology centers in Brazil and Argentina (1996-2022). Cases of RGL with a confirmed histopathological diagnosis were included. The variables analyzed comprised age, sex, skin color, anatomical site, clinical characteristics of the lesion, biopsy type, and clinical diagnostic hypothesis. Data were obtained from histopathological reports and analyzed descriptively and analytically. RGL accounted for 6.1% (n = 8,625) of oral biopsies. Females were more frequently affected (n = 5,851; 68.1%) with a median age of 47 years. The most common lesions were inflammatory fibrous hyperplasia (40.8%), fibrous hyperplasia (21.3%), and pyogenic granuloma (16.1%). Most cases were asymptomatic (88.6%), sessile (64.9%), and exhibited red/pink coloration. Clinical-histopathological agreement was minimal (kappa = 0.229), with giant cell fibroma showing the lowest level of agreement. RGL represent a relevant proportion of oral biopsies in South America and predominantly affect adult women. Their clinical presentation is largely nonspecific, reinforcing diagnostic challenges in routine practice. Inclusion of less emphasized entities, such as giant cell fibroma and traumatic neuroma, broadens the clinical perspective.",
       "objective": "",
       "study_methods": "",
       "methods": "",
-      "results": "of rabbits and rats show our niche-like p-Ti efficiently promotes BMMSCs to engender an osteogenic phenotype and attune the areas of bone defect. Moreover, niche-like multiscale porous structure yields rejuvenated ARG1+ macrophages in tandem with BMMSCs osteogenic differentiation at the bone-implant interface, modulating the immunosenescence, and synergistically promoting the osteointegration. Our findings establish that the macrophage can be re-engineered to be youthful for maintaining immune homeostasis, thereby providing a reversible treatment strategy for bone reconstruction of old people with broad applications in other senescence-related diseases.",
+      "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41909511/",
-      "pmcid": "PMC13022701",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022701/bin/sc1.gif"
-      ]
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41934075/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41862371",
+      "title": "Patterns of questions asked by patients when receiving the diagnosis of oral potentially malignant disorders and oral cancer: a cross-sectional study.",
+      "authors": [
+        "Beatriz Nascimento Figueiredo Lebre Martins",
+        "Caique Mariano Pedroso",
+        "Cristina Saldivia-Siracusa",
+        "Mariana de Pauli Paglioni",
+        "César Augusto Migliorati",
+        "Marcio Ajudarte Lopes",
+        "Alan Roger Santos-Silva"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "To analyze question patterns of patients receiving oral potentially malignant disorders (OPMD) or oral malignant tumors (OMT) diagnosis. This cross-sectional study was conducted in a clinical setting. Questions asked during diagnosis disclosure were recorded and categorized into five themes: disease, treatment, next steps, emotional and spiritual. Chi-squared tests with Bonferroni corrections and standardized residuals compared question types between groups. Mann-Whitney U and Kruskal-Wallis tests evaluated differences in question frequency. Analyses were performed in RStudio with P < .05. A total of 118 patients participated, 68 with OPMD and 50 with OMT. Two hundred ninety-one questions were asked: OPMD patients mostly questioned about disease (49.64%) and treatment. OMT patients mainly asked about treatment (42.45%) and next steps (31.13%). There was a significant difference in question types between groups (P < .001). These findings can guide training programs to improve dentists' communication skills when diagnosing OPMD or OMT, potentially reducing communication-related stress.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41862371/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "41740295",
@@ -1413,6 +1512,152 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41500926/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42276610",
+      "title": "The Expanding Role of Virtual Surgical Planning in Maxillofacial Trauma Management.",
+      "authors": [
+        "Sierra van den Dries",
+        "Puhan He",
+        "Neeraj Panchal"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Advances in virtual surgical planning (VSP) and computer-aided design/computer-aided manufacturing continue to transform the management of craniomaxillofacial surgical care. There has been a demonstrable shift toward fully personalized surgical care in postablative head and neck reconstruction, orthognathic and temporomandibular joint surgeries, and in surgery for congenital and acquired anomalies. Surgical management of facial trauma exhibits timing and budgetary challenges that have delayed the adoption of VSP into common practice in the area. This review explores the scope, advantages, and evolution of VSP in craniomaxillofacial trauma, with an emphasis on the authors' institutional integration of VSP in management of facial trauma.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42276610/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42276609",
+      "title": "Revision Surgery for Occlusal Correction in Facial Trauma.",
+      "authors": [
+        "Wai Bun Liew",
+        "Justin Pisano",
+        "Paul S Tiwana"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Revision surgery for occlusal correction in facial trauma is a highly specialized and technically demanding aspect of reconstructive surgery. While contemporary practices in primary fracture management have reduced the incidence of posttraumatic malocclusion, circumstances such as delayed treatment, insufficient fracture reduction, overlooked injuries, and complex comminution continue to create challenging cases in which revision becomes inevitable. Effective secondary correction of occlusion involves a deep understanding of both trauma principles and orthognathic concepts, rigorous diagnostic steps and precise surgical technique.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42276609/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42276607",
+      "title": "Occlusion Management in Facial Trauma: A Literature Review.",
+      "authors": [
+        "Neeraj Panchal",
+        "Kristie Cheng",
+        "Dylan Crann"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Post-traumatic malocclusion is a significant complication of facial trauma with broad functional consequences, including impairments in speech, breathing, mastication, and oral health. This literature review synthesizes current evidence on the adverse outcomes of inadequately managed malocclusion and describes the surgical and postoperative techniques used to restore premorbid occlusal relationships following facial trauma. Management strategies reviewed include maxillomandibular fixation, open reduction and internal fixation, occlusal splinting, and orthognathic surgery, each with distinct indications and technical considerations. Postoperative care incorporating elastic occlusal guidance and jaw physiotherapy further supports functional recovery.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42276607/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42276606",
+      "title": "Dental Implants in Rehabilitation of Patients with Facial Trauma: a Review of Most Current Practices.",
+      "authors": [
+        "Sierra van den Dries",
+        "Nicholas Johnston",
+        "Neeraj Panchal"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Facial trauma can cause complex hard and soft tissue defects that significantly affect function, appearance, and quality of life. Dental implants are a useful tool that can offer dramatic improvement in reconstructive options for patients who have sustained orofacial trauma and are key in rehabilitating these injuries, helping restore chewing, speech, and facial esthetics. Successful outcomes depend on careful timing, consideration of tissue integrity, and a multidisciplinary approach, including surgical optimization including bone and soft tissue grafting, orthodontics, and prosthodontics.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42276606/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42276600",
+      "title": "Pediatric Facial Trauma: Growth Disturbance and Occlusion Management.",
+      "authors": [
+        "Caleb Morales",
+        "Kaivon Moradi",
+        "Diariza Lopez",
+        "David Yates"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Maxillofacial trauma involves injury to the facial skeleton, dentition, and associated soft tissues. Although relatively uncommon, such trauma in pediatric patients presents unique challenges due to the potential for growth disturbance and long-term occlusal alteration. Differences in anatomy, biomechanics, and epidemiologic patterns between children and adults necessitate specialized diagnostic and therapeutic approaches. Furthermore, advances in imaging, fixation materials, and surgical planning have transformed management strategies in this population. This article aims to provide an overview of the current principles, classifications, and evidence-based practices in the evaluation and treatment of pediatric maxillofacial trauma, with emphasis on growth preservation and occlusal rehabilitation.",
+      "objective": "to provide an overview of the current principles, classifications, and evidence-based practices in the evaluation and treatment of pediatric maxillofacial trauma, with emphasis on growth preservation and occlusal rehabilitation.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42276600/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42276597",
+      "title": "Facial Trauma Prevention in Adults and Children.",
+      "authors": [
+        "Elizabeth Powell",
+        "Azza T Ahmed",
+        "Scott Spreat"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Facial trauma is a growing public health concern with substantial physical, psychological, and financial consequences. Injuries arise from multiple causes, including motor vehicle accidents, falls, assaults, and sports, and their impact differs across age, gender, and social groups. Older adults are increasingly affected by fall-related trauma, while women are more likely to experience violence-related injuries. Children and individuals with disabilities also face unique risks that require targeted approaches. Preventive strategies such as helmet use, seatbelts, fall-prevention programs, and early recognition of domestic violence are essential. Interdisciplinary collaboration and community-based initiatives remain central to reducing the burden of facial trauma.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42276597/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1955,6 +2200,352 @@
       "figure_urls": []
     },
     {
+      "pmid": "40665709",
+      "title": "Long-Term Midfacial Growth and Speech Outcomes Following Modified Furlow Double-Opposing Z-Palatoplasty.",
+      "authors": [
+        "Sameer Shakir",
+        "Mychajlo S Kosyk",
+        "Michelle Scott",
+        "Hyun-Duck Nah-Cederquist",
+        "Marilyn Cohen",
+        "Jesse A Taylor",
+        "Scott P Bartlett",
+        "Oksana H Jackson",
+        "David W Low",
+        "Jordan W Swanson"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "ObjectiveModified Furlow palatoplasty shows favorable early speech results, however long-term outcomes of midfacial growth and speech have not been fully described.DesignA retrospective cohort study was performed of subjects undergoing modified Furlow palatoplasty for primary repair of Veau III and IV cleft lip/palate during a 20-year period. Dentofacial and speech results were analyzed at skeletal maturity using cephalometrics and Pittsburgh Weighted Speech Scores, respectively.ResultsSubjects (n = 186) presented with Veau III (62.9%) and IV (37.1%) clefts. Rates of oronasal fistula (ONF) and velopharyngeal dysfunction (VPD) indicating secondary surgery for speech following palatoplasty were 6.5% and 5.9% in the nonsyndromic cohort. Competent velopharyngeal mechanisms (Pittsburgh Weight Speech Score 0-2) in nonsyndromic subjects were noted in 88.3% postpalatoplasty; resonance deterioration was noted in 5.9% postorthodontic expansion and 14.7% postorthognathic surgery (cumulative VPD 27.8%). At skeletal maturity, 59.2% of nonsyndromic subjects (Veau III 51.4%, Veau IV 74.1%) demonstrated midface hypoplasia according to Steiner analysis and 54.0% ultimately underwent orthognathic surgery (OGS) (III 46.2%, IV 68.4%). Presence of midface hypoplasia correlated with Veau class (P < .003) and presurgical nasoalveolar molding (P < .02). Neither age at repair (P < .90), surgeon (P < 1.0), prior lip adhesion (P < .72), use of vomerine flaps at time of palate repair (P < .33), nor syndromic status (P < .074) correlated with midface hypoplasia. Veau IV clefts demonstrated the highest rate of midface hypoplasia (P < .004).ConclusionsSpeech outcomes in the long term indicate adequate velopharyngeal competency using the modified Furlow palatoplasty. OGS for midface hypoplasia was indicated in over half of patients presenting with severe Veau type cleft phenotypes.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": ", however long-term outcomes of midfacial growth and speech have not been fully described.DesignA retrospective cohort study was performed of subjects undergoing modified Furlow palatoplasty for primary repair of Veau III and IV cleft lip/palate during a 20-year period. Dentofacial and speech results were analyzed at skeletal maturity using cephalometrics and Pittsburgh Weighted Speech Scores, respectively.ResultsSubjects (n = 186) presented with Veau III (62.9%) and IV (37.1%) clefts. Rates of oronasal fistula (ONF) and velopharyngeal dysfunction (VPD) indicating secondary surgery for speech following palatoplasty were 6.5% and 5.9% in the nonsyndromic cohort. Competent velopharyngeal mechanisms (Pittsburgh Weight Speech Score 0-2) in nonsyndromic subjects were noted in 88.3% postpalatoplasty; resonance deterioration was noted in 5.9% postorthodontic expansion and 14.7% postorthognathic surgery (cumulative VPD 27.8%). At skeletal maturity, 59.2% of nonsyndromic subjects (Veau III 51.4%, Veau IV 74.1%) demonstrated midface hypoplasia according to Steiner analysis and 54.0% ultimately underwent orthognathic surgery (OGS) (III 46.2%, IV 68.4%). Presence of midface hypoplasia correlated with Veau class (P < .003) and presurgical nasoalveolar molding (P < .02). Neither age at repair (P < .90), surgeon (P < 1.0), prior lip adhesion (P < .72), use of vomerine flaps at time of palate repair (P < .33), nor syndromic status (P < .074) correlated with midface hypoplasia. Veau IV clefts demonstrated the highest rate of midface hypoplasia (P < .004).ConclusionsSpeech outcomes in the long term indicate adequate velopharyngeal competency using the modified Furlow palatoplasty. OGS for midface hypoplasia was indicated in over half of patients presenting with severe Veau type cleft phenotypes.",
+      "conclusion": "Speech outcomes in the long term indicate adequate velopharyngeal competency using the modified Furlow palatoplasty. OGS for midface hypoplasia was indicated in over half of patients presenting with severe Veau type cleft phenotypes.",
+      "limitations": "",
+      "topics": [
+        "oral surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40665709/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40590056",
+      "title": "Patient-Reported Outcomes of Primary Cleft Rhinoplasty: A Long-Term Assessment Using CLEFT-Q.",
+      "authors": [
+        "Isabel A Ryan",
+        "Jinggang J Ng",
+        "Jusung Kim",
+        "Philip D Tolley",
+        "Oksana A Jackson",
+        "David W Low",
+        "Scott P Bartlett",
+        "Jesse A Taylor",
+        "Eric C Liao",
+        "Jordan W Swanson"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "ObjectiveRhinoplasty maneuvers at the time of cleft lip (CL) repair remain controversial. Particularly, the impact of primary rhinoplasty (PR) on patient-reported outcomes (PROs) and quality of life (QoL) is largely unknown. This study aims to compare PROs and QoL in patients with CL who did or did not undergo PR.DesignRetrospective study.SettingAcademic tertiary care center.Patients, ParticipantsPatients with CL who completed the CLEFT-Q from 2021 to 2024 and had undergone definitive CL repair at our institution.InterventionsPR or no primary rhinoplasty (NPR) at the time of CL repair.Main Outcome Measure(s)The primary outcome was CLEFT-Q scores across facial appearance, health-related QoL, and facial function domains.ResultsA total of 109 patients with 110 CLEFT-Q responses were included. 22% (n = 24) underwent NPR and 78% (n = 85) PR at time of CL repair. Median age at lip repair was 4.6 [1.6] months, and at CLEFT-Q survey was 10.2 [1.6] years. Among those with intermediate rhinoplasty, nose scores were significantly higher in PR compared to NPR on overall (75 vs. 57, P = .026) and unilateral CL analysis (75 vs. 57, P = .018). NPR patients were significantly more likely to undergo intermediate rhinoplasty than PR patients (71%, n = 17 vs 33%, n = 28, P < .001).ConclusionsPR is associated with improved self-perception of nasal appearance in school-aged children with CL compared to those who did not undergo PR.",
+      "objective": "to compare PROs and QoL in patients with CL who did or did not undergo PR.DesignRetrospective study.SettingAcademic tertiary care center.Patients, ParticipantsPatients with CL who completed the CLEFT-Q from 2021 to 2024 and had undergone definitive CL repair at our institution.InterventionsPR or no primary rhinoplasty (NPR) at the time of CL repair.Main Outcome Measure(s)The primary outcome was CLEFT-Q scores across facial appearance, health-related QoL, and facial function domains.ResultsA total of 109 patients with 110 CLEFT-Q responses were included. 22% (n = 24) underwent NPR and 78% (n = 85) PR at time of CL repair. Median age at lip repair was 4.6 [1.6] months, and at CLEFT-Q survey was 10.2 [1.6] years. Among those with intermediate rhinoplasty, nose scores were significantly higher in PR compared to NPR on overall (75 vs. 57, P = .026) and unilateral CL analysis (75 vs. 57, P = .018). NPR patients were significantly more likely to undergo intermediate rhinoplasty than PR patients (71%, n = 17 vs 33%, n = 28, P < .001).ConclusionsPR is associated with improved self-perception of nasal appearance in school-aged children with CL compared to those who did not undergo PR.",
+      "study_methods": "",
+      "methods": "",
+      "results": "A total of 109 patients with 110 CLEFT-Q responses were included. 22% (n = 24) underwent NPR and 78% (n = 85) PR at time of CL repair. Median age at lip repair was 4.6 [1.6] months, and at CLEFT-Q survey was 10.2 [1.6] years. Among those with intermediate rhinoplasty, nose scores were significantly higher in PR compared to NPR on overall (75 vs. 57, P = .026) and unilateral CL analysis (75 vs. 57, P = .018). NPR patients were significantly more likely to undergo intermediate rhinoplasty than PR patients (71%, n = 17 vs 33%, n = 28, P < .001).ConclusionsPR is associated with improved self-perception of nasal appearance in school-aged children with CL compared to those who did not undergo PR.",
+      "conclusion": "PR is associated with improved self-perception of nasal appearance in school-aged children with CL compared to those who did not undergo PR.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40590056/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40519124",
+      "title": "From Hip to Tip: Harvesting Iliac Crest Cartilage for Delayed Cleft Rhinoplasty.",
+      "authors": [
+        "Savannah C Braud",
+        "Zachary D Zapatero",
+        "Yuliia Kovach",
+        "Mangalam Karuppiah",
+        "Milind Sangani",
+        "David W Low"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "ObjectiveThis study evaluates nasal symmetry outcomes in patients with unilateral cleft lip (UCL) who underwent delayed rhinoplasty during iliac bone grafting (IBG), allowing concurrent bone grafting and cartilage harvesting to reduce donor sites.DesignRetrospective cohort study.SettingTertiary care pediatric hospital.PatientsThose with UCL who underwent IBG and primary rhinoplasty during the same operation.InterventionsPrimary rhinoplasty at the time of IBG.Main outcome measuresCephalometric analyses of pre- and postoperative basilar view nasal images assessed nostril height, nostril width, nasal circumference, and angle of columellar deviation.ResultsThe final cohort included 52 patients with a mean age of 7.61 years (range 5.51-13.7) at the time of concurrent IBG and delayed rhinoplasty, with a mean follow-up of 4.6 years (range 1.02-15.1). Cephalometric measurements were evaluated by the ratio of the shorter or smaller side to the longer or larger side. Average preoperative nostril height was 0.70 (range 0.23-0.95) which increased postoperatively to 1.0 (range 0.60-8.35) (P = 0.047). Average preoperative circumference was 1.27 (range 0.67-2.01) which decreased to 1.12 (range 0.70-1.68) postoperatively (P = 0.011). The angle of columellar deviation averaged 8.0 degrees (range 1.57-18.7) preoperatively which decreased to 6.0 degrees (range 0.22-18.4) postoperatively (P = 0.010).ConclusionsDelaying primary rhinoplasty until the time of IBG yields satisfactory outcomes, with iliac crest cartilage providing favorable, longlasting results in patients with UCL. This approach reduces the need for an additional donor site and may reduce the need for subsequent definitive rhinoplasty.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "The final cohort included 52 patients with a mean age of 7.61 years (range 5.51-13.7) at the time of concurrent IBG and delayed rhinoplasty, with a mean follow-up of 4.6 years (range 1.02-15.1). Cephalometric measurements were evaluated by the ratio of the shorter or smaller side to the longer or larger side. Average preoperative nostril height was 0.70 (range 0.23-0.95) which increased postoperatively to 1.0 (range 0.60-8.35) (P = 0.047). Average preoperative circumference was 1.27 (range 0.67-2.01) which decreased to 1.12 (range 0.70-1.68) postoperatively (P = 0.011). The angle of columellar deviation averaged 8.0 degrees (range 1.57-18.7) preoperatively which decreased to 6.0 degrees (range 0.22-18.4) postoperatively (P = 0.010).ConclusionsDelaying primary rhinoplasty until the time of IBG yields satisfactory outcomes, with iliac crest cartilage providing favorable, longlasting results in patients with UCL. This approach reduces the need for an additional donor site and may reduce the need for subsequent definitive rhinoplasty.",
+      "conclusion": "Delaying primary rhinoplasty until the time of IBG yields satisfactory outcomes, with iliac crest cartilage providing favorable, longlasting results in patients with UCL. This approach reduces the need for an additional donor site and may reduce the need for subsequent definitive rhinoplasty.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40519124/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40518851",
+      "title": "Implant-Prosthetic Rehabilitation of a Patient With EEC Syndrome Using Additively Manufactured Custom-Made Subperiosteal Implants: A Case Report.",
+      "authors": [
+        "Giacomo De Riu",
+        "Andrea Biglio",
+        "Giovanni Spano",
+        "Giuseppe Consorti",
+        "Jerome R Lechien",
+        "Luigi Angelo Vaira"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Ectrodactyly-ectodermal dysplasia-cleft (EEC) syndrome is a rare genetic disorder presenting significant challenges for dental rehabilitation due to severe maxillary atrophy and altered anatomy. This report describes a 23-year-old female with EEC syndrome successfully rehabilitated using a custom-made subperiosteal implant. Despite multiple grafting procedures, conventional implants were not viable. A computer-aided design/computer-aided manufacturing-designed, laser-melted titanium subperiosteal implant was planned based on the cone beam computed tomography imaging and digital scans, ensuring optimal adaptation. At 18 months postsurgery, the implant remained stable, with no complications. This case highlights the potential of modern subperiosteal implants as a viable alternative for complex craniofacial reconstructions.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40518851/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42275994",
+      "title": "Skeletal changes between the surgical-first and conventional orthognathic approaches in skeletal Class III patients after excluding occlusal interference effects: Systematic review and meta-analysis.",
+      "authors": [
+        "Phitchapha Tangviroon",
+        "Pimsiri Kanpittaya",
+        "Thanit Chareonrat",
+        "Paiboon Techalertpaisarn"
+      ],
+      "publication_date": "2026-Jun-11",
+      "publication_date_iso": "2026-06-11",
+      "abstract": "The stability of the surgery-first approach (SFA) remains debated, as studies comparing SFA and conventional orthognathic surgery (COS) lack measurements at equivalent time points, and the period during which relapse is most likely to occur has not been established. This meta-analysis isolated the interval following occlusal-interference correction to compare skeletal changes during the later post-surgical period. Studies comparing skeletal stability between SFA and COS in Class III patients were identified through searches of six databases (MEDLINE, EBSCO, Cochrane Library, LILACS, SCOPUS, and Google Scholar) up to April 2025, supplemented by manual reference searches. Two independent reviewers screened, extracted, and selected studies with comparable cephalometric measures and time points. Pooled analyses used a random-effects model, with study quality assessed by ROBINS-I and evidence certainty by GRADE. Nineteen studies were included. SFA showed greater upward and forward mandibular movement during the 3-6-month postoperatively. After this period, no significant differences in horizontal or vertical skeletal stability were observed between SFA and COS from 6 months to 2 years postoperatively with very low to moderate evidence. Relapse occurred primarily during the 3-6-month post-surgical interval, with SFA showing greater relapse than COS during this period. Beyond this window, skeletal stability was comparable between approaches in Class III patients. Clinicians should prioritize the 3-6-month post-surgical period when planning SFA treatment to account for its higher relapse risk. CRD420251019537.",
+      "objective": "",
+      "study_methods": "Studies comparing skeletal stability between SFA and COS in Class III patients were identified through searches of six databases (MEDLINE, EBSCO, Cochrane Library, LILACS, SCOPUS, and Google Scholar) up to April 2025, supplemented by manual reference searches. Two independent reviewers screened, extracted, and selected studies with comparable cephalometric measures and time points. Pooled analyses used a random-effects model, with study quality assessed by ROBINS-I and evidence certainty by GRADE.",
+      "methods": "Studies comparing skeletal stability between SFA and COS in Class III patients were identified through searches of six databases (MEDLINE, EBSCO, Cochrane Library, LILACS, SCOPUS, and Google Scholar) up to April 2025, supplemented by manual reference searches. Two independent reviewers screened, extracted, and selected studies with comparable cephalometric measures and time points. Pooled analyses used a random-effects model, with study quality assessed by ROBINS-I and evidence certainty by GRADE.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42275994/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42275743",
+      "title": "A Letter to the Editor: The Role of Artificial Intelligence in Dental Education-A Tool or a Crutch?",
+      "authors": [
+        "Soukaina Abidi",
+        "Youssra Azzouz",
+        "Yasmine Hanine",
+        "Rime Chraibi",
+        "Oumaima Finnaoui",
+        "Hanae Bouzakhnin",
+        "Saliha Chbicheb"
+      ],
+      "publication_date": "2026-Jun-11",
+      "publication_date_iso": "2026-06-11",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42275743/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42274805",
+      "title": "Spring-mediated cranioplasty for scaphocephaly: techniques and outcomes.",
+      "authors": [
+        "Maura R Guyler",
+        "David P Perrault",
+        "Kirin Naidu",
+        "Santiago Lopez-Becerra",
+        "Jordan W Swanson",
+        "Scott P Bartlett",
+        "Jesse A Taylor",
+        "Sameer Shakir"
+      ],
+      "publication_date": "2026-Jun-11",
+      "publication_date_iso": "2026-06-11",
+      "abstract": "Spring-mediated cranioplasty (SMC) is an established minimally invasive technique for the treatment of sagittal craniosynostosis. This study describes our surgical technique and evaluates long-term morphometric outcomes following SMC. A retrospective review was performed of subjects who underwent SMC as primary treatment of sagittal craniosynostosis at our institution between 2011 and 2019. Demographic variables, perioperative data, spring characteristics, and cranial index (CI) were obtained. Subjects were stratified by their use of post-operative helmeting. Longitudinal CI changes were evaluated using linear mixed-effects models. Differences in CI change between subjects receiving 2 vs 3 springs were compared using Mann-Whitney U tests. Linear regression was used to evaluate total spring force as a predictor of percent change in CI. Seventy subjects were included. Seventy-four percent (n = 52) of the cohort received springs treatment only, whereas 26% (n = 18) additionally underwent post-operative helmeting. Mean pre-operative CI was 0.67. Mean age at spring placement was 3.5 months and mean time to spring removal was 108 days. The mean total spring force independent of spring number, measured to 20 mm initial opening, was 26.3 N. Mean post-operative CI at >10 years was 0.76 and 0.74 for non-helmeted and post-operative helmeted subjects, respectively. There was no significant difference in change in CI between subjects who received 2 or 3 springs, despite a significantly different mean total spring force (18.6 N versus 27.9, p < 0.001). Linear regression demonstrated that different minimum spring forces were required to reach adequate CI improvement based on total spring number. Spring-mediated cranioplasty is associated with durable correction of sagittal craniosynostosis with sustained long-term improvement as measured by cranial index. Further evidence is needed to elucidate predictors of CI change when using SMC, its effects on regional head shape changes in three dimensions, and to further explore the role of adjunct therapies such as helmeting.",
+      "objective": "",
+      "study_methods": "A retrospective review was performed of subjects who underwent SMC as primary treatment of sagittal craniosynostosis at our institution between 2011 and 2019. Demographic variables, perioperative data, spring characteristics, and cranial index (CI) were obtained. Subjects were stratified by their use of post-operative helmeting. Longitudinal CI changes were evaluated using linear mixed-effects models. Differences in CI change between subjects receiving 2 vs 3 springs were compared using Mann-Whitney U tests. Linear regression was used to evaluate total spring force as a predictor of percent change in CI.",
+      "methods": "A retrospective review was performed of subjects who underwent SMC as primary treatment of sagittal craniosynostosis at our institution between 2011 and 2019. Demographic variables, perioperative data, spring characteristics, and cranial index (CI) were obtained. Subjects were stratified by their use of post-operative helmeting. Longitudinal CI changes were evaluated using linear mixed-effects models. Differences in CI change between subjects receiving 2 vs 3 springs were compared using Mann-Whitney U tests. Linear regression was used to evaluate total spring force as a predictor of percent change in CI.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42274805/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42274635",
+      "title": "Regional Variation in Reimbursement for Reduction Mammaplasty: A Claims-Based Analysis Across the United States.",
+      "authors": [
+        "Christina Colon-Sanchez",
+        "Victoria N Yi",
+        "Amanda R Sergesketter",
+        "Scott T Hollenbeck",
+        "Detlev Erdmann"
+      ],
+      "publication_date": "2026-Jun-11",
+      "publication_date_iso": "2026-06-11",
+      "abstract": "Numerous factors contribute to the preoperative planning and coverage determination of reduction mammaplasty. Insurer guidelines, determination of medical necessity, and mathematical models for resection volume are only a few examples that are well studied. However, identifying regional patterns in payer amounts for reduction mammaplasty requires further exploration and can inform health care access and policy interpretation. The purpose of this study is to examine regional variation in reimbursement values for reduction mammaplasty across the United States. The PearlDiver Mariner insurance claims database was used to extract records for female patients who underwent reduction mammaplasty (CPT 19318) between 2010 and 2023. A total of 11,670 records were analyzed by insurance payer-type among 4 United States census-defined regions (Northeast, Midwest, South, and West). The US South had the lowest reimbursement value for reduction mammaplasty, with an average of $3426.6 per record. The West demonstrated the highest reimbursement value, with an average of $4550.22 per record. The West also demonstrated the greatest amount of interstate variability within a region ($7049.89 per record). When stratified by payer type, private insurers contributed to the majority of claims and reimbursed at higher rates compared with public insurers across all regions. State and regional differences exist in payer reimbursement for reduction mammaplasty in the United States. The West had the highest and most variable reimbursement values, while the South had the lowest reimbursement values. Understanding regional variability in insurance coverage can facilitate discussions regarding regional and payer-based payment structures and access to care.",
+      "objective": "of this study is to examine regional variation in reimbursement values for reduction mammaplasty across the United States. The PearlDiver Mariner insurance claims database was used to extract records for female patients who underwent reduction mammaplasty (CPT 19318) between 2010 and 2023. A total of 11,670 records were analyzed by insurance payer-type among 4 United States census-defined regions (Northeast, Midwest, South, and West). The US South had the lowest reimbursement value for reduction mammaplasty, with an average of $3426.6 per record. The West demonstrated the highest reimbursement value, with an average of $4550.22 per record. The West also demonstrated the greatest amount of interstate variability within a region ($7049.89 per record). When stratified by payer type, private insurers contributed to the majority of claims and reimbursed at higher rates compared with public insurers across all regions. State and regional differences exist in payer reimbursement for reduction mammaplasty in the United States. The West had the highest and most variable reimbursement values, while the South had the lowest reimbursement values. Understanding regional variability in insurance coverage can facilitate discussions regarding regional and payer-based payment structures and access to care.",
+      "study_methods": "The PearlDiver Mariner insurance claims database was used to extract records for female patients who underwent reduction mammaplasty (CPT 19318) between 2010 and 2023. A total of 11,670 records were analyzed by insurance payer-type among 4 United States census-defined regions (Northeast, Midwest, South, and West).",
+      "methods": "The PearlDiver Mariner insurance claims database was used to extract records for female patients who underwent reduction mammaplasty (CPT 19318) between 2010 and 2023. A total of 11,670 records were analyzed by insurance payer-type among 4 United States census-defined regions (Northeast, Midwest, South, and West).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42274635/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42273316",
+      "title": "Impact of Heart Disease and Multimorbidity on Oral Frailty in Japanese Community-Dwelling Older Adults.",
+      "authors": [
+        "Nobuhide Ohashi",
+        "Akira Yoshizawa",
+        "Chiaki Matsubara",
+        "Yusuke Saigusa",
+        "Jun Aida",
+        "Haruka Tohara",
+        "Yumi Chiba"
+      ],
+      "publication_date": "2026-Jun-10",
+      "publication_date_iso": "2026-06-10",
+      "abstract": "Oral frailty (OF), defined as a multidimensional decline in oral function, is an early marker of functional vulnerability in older adults. Although frailty is linked to cardiovascular disease incidence and prognosis, the relationship between OF, heart disease (HD), and multimorbidity (MM) remains unclear. We conducted a cross-sectional analysis of 16,294 community-dwelling adults aged ≥65 years in the 2022 Japan Gerontological Evaluation Study. OF was assessed using the Oral Frailty 5-item Checklist. Among 1,575 participants with HD, we compared those with HD alone and those with HD plus comorbidities (HD+MM). We also compared OF and its components across the 4 groups based on HD and MM status. The overall prevalence of OF was 33.9%, increasing to 42.9% in individuals with HD. OF was significantly more prevalent in the HD+MM group than in the HD-only group (44.3% vs. 36.2%). Respiratory, digestive, immune, and ear diseases were strongly associated with OF. Furthermore, OF, lower Tokyo Metropolitan Institute of Gerontology Index of Competence scores, and higher body mass index were independently associated with a greater comorbidity burden in older adults. OF is common in older adults with HD, particularly in those with MM. Incorporating oral function assessment into cardiovascular risk evaluation may help identify high-risk individuals and support comprehensive management strategies for the aging population.",
+      "objective": "",
+      "study_methods": "We conducted a cross-sectional analysis of 16,294 community-dwelling adults aged ≥65 years in the 2022 Japan Gerontological Evaluation Study. OF was assessed using the Oral Frailty 5-item Checklist. Among 1,575 participants with HD, we compared those with HD alone and those with HD plus comorbidities (HD+MM). We also compared OF and its components across the 4 groups based on HD and MM status. The overall prevalence of OF was 33.9%, increasing to 42.9% in individuals with HD. OF was significantly more prevalent in the HD+MM group than in the HD-only group (44.3% vs. 36.2%). Respiratory, digestive, immune, and ear diseases were strongly associated with OF. Furthermore, OF, lower Tokyo Metropolitan Institute of Gerontology Index of Competence scores, and higher body mass index were independently associated with a greater comorbidity burden in older adults.",
+      "methods": "We conducted a cross-sectional analysis of 16,294 community-dwelling adults aged ≥65 years in the 2022 Japan Gerontological Evaluation Study. OF was assessed using the Oral Frailty 5-item Checklist. Among 1,575 participants with HD, we compared those with HD alone and those with HD plus comorbidities (HD+MM). We also compared OF and its components across the 4 groups based on HD and MM status. The overall prevalence of OF was 33.9%, increasing to 42.9% in individuals with HD. OF was significantly more prevalent in the HD+MM group than in the HD-only group (44.3% vs. 36.2%). Respiratory, digestive, immune, and ear diseases were strongly associated with OF. Furthermore, OF, lower Tokyo Metropolitan Institute of Gerontology Index of Competence scores, and higher body mass index were independently associated with a greater comorbidity burden in older adults.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42273316/",
+      "pmcid": "PMC13249489",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13249489/bin/circrep-8-917-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13249489/bin/circrep-8-917-g002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13249489/bin/circrep-8-917-g003.jpg"
+      ]
+    },
+    {
+      "pmid": "42270592",
+      "title": "Targeting NFATc1-regulated MTHFD2 one-carbon metabolism to suppress sustained T-cell-mediated inflammation in rheumatoid arthritis.",
+      "authors": [
+        "Theodora Manolakou",
+        "Jianyu Shen",
+        "Sanjaykumar Boddul",
+        "Martina Samiotaki",
+        "Michail Angelos Panagias",
+        "George Sentis",
+        "Tarcília Aparecida Silva",
+        "Alexandra Argyriou",
+        "Dionysis Nikolopoulos",
+        "Kumar Sanjiv",
+        "Karine Chemin",
+        "Fredrik Wermeling",
+        "Martin Henriksson",
+        "Ana Slipicevic",
+        "Per-Johan Jakobsson",
+        "Katerina Chatzidionysiou",
+        "Thomas Helleday"
+      ],
+      "publication_date": "2026-Jun-10",
+      "publication_date_iso": "2026-06-10",
+      "abstract": "T cells are central drivers of inflammation across autoimmune and inflammatory diseases, yet current therapies inadequately target pathogenic T-cell pathways, limiting durable disease control. Here, we identified a novel, targetable transcriptional-metabolic axis that sustains inflammatory T-cell responses, characterized by NFATc1-regulated activation of MTHFD2-dependent one-carbon metabolism. We demonstrate that NFATc1 directly binds the MTHFD2 promoter region, driving metabolic reprogramming in activated T cells from rheumatoid arthritis (RA) patients as well as in experimental arthritis models. Pharmacological inhibition of MTHFD1/2 using the novel small molecule TH9619 suppresses proinflammatory cytokine production, expands Foxp3⁺ regulatory T cells and protects against cartilage and bone damage in vivo. Proteomic profiling reveals that TH9619 elicits a distinct molecular response in patients' T cells, divergent from the currently used anti-folate therapy, particularly in inadequate responders. These findings use RA as the proving ground to establish NFATc1-mediated MTHFD2 activation as a critical regulator of sustained T-cell-driven inflammation and support selective MTHFD1/2 inhibition as a novel, mechanism-based therapeutic strategy for RA.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42270592/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42269693",
+      "title": "Magnesium for Pain Management in Dental Practice: A Scoping Review of Current Evidence and Mapping Clinical Applications.",
+      "authors": [
+        "Chocktipat Trerayapiwat",
+        "Kittipit Klanliang",
+        "Bhumrapee Srivichit",
+        "Warit Powcharoen"
+      ],
+      "publication_date": "2026-Jun-10",
+      "publication_date_iso": "2026-06-10",
+      "abstract": "This scoping review systematically maps the extent and nature of evidence regarding magnesium use for pain management in dental practice, characterizes the heterogeneity of administration protocols across different dental procedures, and identifies gaps in current evidence. Following the Joanna Briggs Institute and PRISMA-ScR guidelines, systematic searches were conducted in PubMed, Scopus, Embase, and Google Scholar through December 2025. Eligible studies included clinical trials evaluating magnesium salts administered via any route for pain management in dental settings. Two independent reviewers performed study selection and data extraction, synthesizing results through descriptive thematic analysis and evidence gap mapping. A total of 14 studies were included, spanning endodontic treatment (n = 6), third molar surgery (n = 5), orthognathic surgery (n = 1), and temporomandibular disorders (n = 2). Magnesium sulfate (MgSO4) emerged as the predominant formulation studied (78.6%). In cases of symptomatic irreversible pulpitis, magnesium significantly enhanced local anesthetic success rates and reduced postoperative pain intensity. For third molar and orthognathic surgeries, magnesium demonstrated substantial early analgesic effects, along with sustained pain reduction and functional benefits. In patients with temporomandibular disorders, it produced superior long-term pain relief with improved jaw mobility. No serious adverse events were reported across the included trials. Despite its promising clinical efficacy as an adjunct analgesic across various dental procedures, evidence mapping revealed substantial gaps. The literature indicates that while magnesium's utility varies by procedure, the choice of formulation remains largely empirical rather than evidence-based. Furthermore, the concentration of research in specific procedural domains often neglects broader patient-centered outcomes, which limits the translation of its analgesic efficacy into meaningful clinical improvements.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "through descriptive thematic analysis and evidence gap mapping. A total of 14 studies were included, spanning endodontic treatment (n = 6), third molar surgery (n = 5), orthognathic surgery (n = 1), and temporomandibular disorders (n = 2). Magnesium sulfate (MgSO4) emerged as the predominant formulation studied (78.6%). In cases of symptomatic irreversible pulpitis, magnesium significantly enhanced local anesthetic success rates and reduced postoperative pain intensity. For third molar and orthognathic surgeries, magnesium demonstrated substantial early analgesic effects, along with sustained pain reduction and functional benefits. In patients with temporomandibular disorders, it produced superior long-term pain relief with improved jaw mobility. No serious adverse events were reported across the included trials. Despite its promising clinical efficacy as an adjunct analgesic across various dental procedures, evidence mapping revealed substantial gaps. The literature indicates that while magnesium's utility varies by procedure, the choice of formulation remains largely empirical rather than evidence-based. Furthermore, the concentration of research in specific procedural domains often neglects broader patient-centered outcomes, which limits the translation of its analgesic efficacy into meaningful clinical improvements.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42269693/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42275922",
+      "title": "Local vitamin D",
+      "authors": [
+        "Oleh Andrukhov",
+        "Sandra Hilberath",
+        "Marlies Holzmann",
+        "Markus Laky",
+        "Christian Behm"
+      ],
+      "publication_date": "2026-Jun-08",
+      "publication_date_iso": "2026-06-08",
+      "abstract": "Vitamin D3 status profoundly affects oral health and disease. Over the last decade, evidence has emerged that vitamin D3 activation can also occur in peripheral tissues. This narrative review was conducted to critically analyze the state of the art about the presence and activity of enzymes involved in the bioactivation of vitamin D3 in the oral tissues. A comprehensive literature search was performed in PubMed and Google Scholar. The search included articles published in English without any time limit. Keywords included but not limited to the combinations of: \"vitamin D3\", \"25(OH)D3\", \"1,25(OH)2D3\", \"oral tissues\", \"megalin\", \"CYP27B1\", \"extrarenal\", and \"antimicrobial peptides\". Further studies were identified by screening the reference lists of the relevant publications. Various vitamin D3 metabolites influence the inflammatory response and the production of antimicrobial peptides in various oral cells. The enzyme CYP27B1, which is responsible for the conversion of 25(OH)D3 into 1,25(OH)2D3 and its bioactivation, is present in various oral tissues and cells. The existence and physiological significance of local vitamin D3 activation in oral tissues remain unclear. Most of 25(OH)D3 is bound to the vitamin D-binding protein (DBP) and must be dissociated for activation. It is unclear whether and how this uncoupling occurs in oral tissue. Currently, there is rather indirect evidence that vitamin D3 could be bioactivated in oral tissues. Further studies on the local conversion of vitamin D3 to 25(OH)D3 and, subsequently, to 1,25(OH)2D3 in oral tissue, their regulation, and the role of free and bioavailable vitamin D3 metabolites are required.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42275922/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42260402",
       "title": "Feasibility and safety of oxygen-free nasal high flow therapy in the acute postoperative period: a single-center randomized study.",
       "authors": [
@@ -2392,32 +2983,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42243813",
-      "title": "Efficacy of Er:YAG laser in removal of impacted mandibular third molars (a randomized controlled clinical trial).",
-      "authors": [
-        "Karim A Elhaw",
-        "Ahmed A Abdelhakim",
-        "Arnabat Dominguez J",
-        "Riham M Eldibany",
-        "España Tost A"
-      ],
-      "publication_date": "2026-Jun-05",
-      "publication_date_iso": "2026-06-05",
-      "abstract": "Removal of impacted mandibular third molars is associated with postoperative discomfort and delayed bone healing. Er:YAG laser osteotomy has been proposed as a minimally invasive alternative to conventional rotary instrumentation. To compare Er:YAG laser osteotomy and conventional rotary osteotomy regarding postoperative radiographic bone density and clinical healing outcomes following impacted mandibular third molar removal (pain, edema, and trismus). Twenty-four patients (n = 24) were randomized equally (laser n = 12; rotary n = 12). CBCT scans were obtained preoperatively and at 3 months for voxel-based grayscale bone density assessment. Standardized 3D ellipsoid VOIs were used. A single trained examiner performed all CBCT measurements twice, two weeks apart (ICC > 0.90). Postoperative pain, edema, and trismus were clinically assessed. Immediate postoperative bone density showed no significant difference between groups (p = 0.319). At 3 months, bone density was significantly higher in the laser group compared with the rotary group (median: 310.7 vs. 270.0; p = 0.017), with a moderate effect size (r = 0.477). Bone density significantly increased over time in both groups (p = 0.002), with a significantly greater increase observed in the laser group (p = 0.017). Pain scores on day 2 were significantly lower in the laser group (p = 0.020). Edema and trismus showed significant improvement over time within both groups, with no statistically significant differences between groups. Operation time was significantly longer in the laser group. Er:YAG laser osteotomy was associated with lower postoperative pain and higher radiographic grayscale values at 3 months compared with rotary osteotomy. Edema and trismus improved over time in both groups, with no significant differences between the two techniques. Er:YAG laser may improve patient comfort by reducing postoperative pain and may be associated with improved radiographic bone healing. However, further studies are needed to confirm its long-term effects on bone density. ClinicalTrials.gov (Identifier: NCT07297043). Registered 09 December 2025 (retrospective).",
-      "objective": "",
-      "study_methods": "Twenty-four patients (n = 24) were randomized equally (laser n = 12; rotary n = 12). CBCT scans were obtained preoperatively and at 3 months for voxel-based grayscale bone density assessment. Standardized 3D ellipsoid VOIs were used. A single trained examiner performed all CBCT measurements twice, two weeks apart (ICC > 0.90). Postoperative pain, edema, and trismus were clinically assessed.",
-      "methods": "Twenty-four patients (n = 24) were randomized equally (laser n = 12; rotary n = 12). CBCT scans were obtained preoperatively and at 3 months for voxel-based grayscale bone density assessment. Standardized 3D ellipsoid VOIs were used. A single trained examiner performed all CBCT measurements twice, two weeks apart (ICC > 0.90). Postoperative pain, edema, and trismus were clinically assessed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42243813/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42242688",
       "title": "Benign Paroxysmal Positional Vertigo in Oral Surgery and Implantology: A Review.",
       "authors": [
@@ -2435,361 +3000,9 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42242688/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42234741",
-      "title": "Identification of a shared antigen linking CD4",
-      "authors": [
-        "Masaru Takeshita",
-        "Jun Inamo",
-        "Seiki Wakui",
-        "Ryosuke Nagashima",
-        "Takahiro Nishino",
-        "Kazuyuki Tsunoda",
-        "Satoshi Usuda",
-        "Hajime Inokuchi",
-        "Kazuyoshi Ishigaki",
-        "Takashi Sasaki",
-        "Yuki Kagoya",
-        "Katsuya Suzuki",
-        "Yuko Kaneko"
-      ],
-      "publication_date": "2026-Jun-05",
-      "publication_date_iso": "2026-06-05",
-      "abstract": "Sjögren's disease (SjD) is an autoimmune disorder characterized by lymphocytic infiltration of exocrine glands. Although B cells producing anti-Ro60 autoantibodies are frequently found in salivary gland lesions, the antigen specificity of CD4+ T cells has remained unclear. Given accumulating evidence for T cell involvement in local autoantibody production, we comprehensively investigated Ro60 reactivity among lesion-infiltrating CD4+ T cells. Over 200 T cell receptors (TCRs) enriched in salivary glands from Japanese and Caucasian patients with SjD were screened using a TCR reporter system, identifying 13 Ro60-reactive TCRs predominantly expressed in T peripheral helper/T follicular helper subset, along with human leukocyte antigen alleles linked to SjD susceptibility. Ro60 was efficiently phagocytosed by antigen-presenting cells in the presence of autoantibodies and presented to Ro60-specific T cells, triggering their activation. This suggests that Ro60-specific B and CD4+ T cells orchestrate a pathological loop in salivary glands. Our study provides the first molecular identification of a major CD4+ T cell antigen in systemic autoimmunity and highlights coordinated T-B cell responses against a shared autoantigen.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42234741/",
-      "pmcid": "PMC13232566",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13232566/bin/sciadv.aeb2491-f1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13232566/bin/sciadv.aeb2491-f1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13232566/bin/sciadv.aeb2491-f2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13232566/bin/sciadv.aeb2491-f2.gif"
-      ]
-    },
-    {
-      "pmid": "42248245",
-      "title": "Influence of Maxillomandibular Skeletal Discrepancy on the Position and Course of the Retromandibular Vein in Patients with Jaw Deformities.",
-      "authors": [
-        "Chie Tachiki",
-        "Keisuke Sugahara",
-        "Kumiko Kawasumi",
-        "Kento Odaka",
-        "Satoru Matsunaga",
-        "Akira Katakura",
-        "Glenn Jou",
-        "Glenn T Sameshima",
-        "Yasushi Nishii"
-      ],
-      "publication_date": "2026-Jun-04",
-      "publication_date_iso": "2026-06-04",
-      "abstract": "The retromandibular vein (RMV) is considered a potential risk for hemorrhage during sagittal split ramus osteotomy (SSRO), depending on its course patterns. This retrospective study investigated the relationship between the course of the RMV and craniofacial morphology in patients with jaw deformities. Forty sides from 20 patients were evaluated using contrast-enhanced computed tomography (CECT) and cephalometric analysis. The RMV courses were classified based on lateral and posterior views of the mandible. Cephalometric and dental cast measurements were compared between groups, and multiple logistic regression was performed to identify the factors influencing the RMV course patterns, with the RMV classification as the dependent variable and cephalometric and model analysis values as the independent variables. RMVs running posterior to the mandibular ramus were associated with high-angle skeletal patterns, characterized by increased mandibular plane angle and gonial angle (p < 0.05). The lower RMV position showed a significant association with an increased mandibular plane angle and narrow nasal width, tending to run along the posterior border of the mandibular ramus. The findings suggest that vertical skeletal features and mandibular shape, rather than anteoposterior jaw discrepancies, influence RMV positioning. Cephalometric analysis may serve as a practical and non-invasive method for preoperative screening of RMV injury risk, contributing to improved safety in orthognathic surgery.",
-      "objective": "",
-      "study_methods": "Forty sides from 20 patients were evaluated using contrast-enhanced computed tomography (CECT) and cephalometric analysis. The RMV courses were classified based on lateral and posterior views of the mandible. Cephalometric and dental cast measurements were compared between groups, and multiple logistic regression was performed to identify the factors influencing the RMV course patterns, with the RMV classification as the dependent variable and cephalometric and model analysis values as the independent variables.",
-      "methods": "Forty sides from 20 patients were evaluated using contrast-enhanced computed tomography (CECT) and cephalometric analysis. The RMV courses were classified based on lateral and posterior views of the mandible. Cephalometric and dental cast measurements were compared between groups, and multiple logistic regression was performed to identify the factors influencing the RMV course patterns, with the RMV classification as the dependent variable and cephalometric and model analysis values as the independent variables.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42248245/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42244200",
-      "title": "Volumetric Analysis of the Maxillary Sinus in Patients with Cleft Lip and Palate Before and After Orthognathic Surgery.",
-      "authors": [
-        "Peterson Rogério Garcia",
-        "Caroline De Paula Oliveira Gringo",
-        "Gustavo Ribeiro Ferreira",
-        "Isabela Toledo Teixeira Da Silveira",
-        "Isabelle Ferreira De Souza",
-        "Renato Yassutaka Faria Yaedú"
-      ],
-      "publication_date": "2026-Jun-04",
-      "publication_date_iso": "2026-06-04",
-      "abstract": "ObjectiveTo evaluate maxillary sinus volumetric changes in patients with unilateral cleft lip and palate (UCLP) and bilateral cleft lip and palate (BCLP) undergoing Le Fort I osteotomy.DesignRetrospective observational study.SettingSingle tertiary craniofacial rehabilitation center.ParticipantsA total of 200 patients aged 18 years or older were included, comprising 100 individuals with UCLP and 100 with BCLP, all presenting preoperative and 1-year postoperative cone-beam computed tomography scans.InterventionsAll participants underwent Le Fort I osteotomy as part of orthognathic surgical treatment.Main Outcome MeasuresVolumetric segmentation of the maxillary sinuses and sinus lesions was performed using ITK-SNAP software. Volumes were measured in cubic millimeters using preoperative and 1-year postoperative cone-beam computed tomography scans.ResultsIn UCLP patients, no significant differences were observed in total maxillary sinus volume between preoperative and postoperative periods, although lesion volume was significantly reduced. In BCLP patients, a significant postoperative increase in sinus volume was observed, accompanied by a reduction in lesion volume. In both groups, the cleft side consistently presented smaller sinus volumes.ConclusionsMaxillary sinus volume remains smaller on the cleft side regardless of surgical intervention. Le Fort I osteotomy does not significantly affect sinus volume in UCLP patients, whereas BCLP patients demonstrate a postoperative volumetric increase.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "In UCLP patients, no significant differences were observed in total maxillary sinus volume between preoperative and postoperative periods, although lesion volume was significantly reduced. In BCLP patients, a significant postoperative increase in sinus volume was observed, accompanied by a reduction in lesion volume. In both groups, the cleft side consistently presented smaller sinus volumes.ConclusionsMaxillary sinus volume remains smaller on the cleft side regardless of surgical intervention. Le Fort I osteotomy does not significantly affect sinus volume in UCLP patients, whereas BCLP patients demonstrate a postoperative volumetric increase.",
-      "conclusion": "Maxillary sinus volume remains smaller on the cleft side regardless of surgical intervention. Le Fort I osteotomy does not significantly affect sinus volume in UCLP patients, whereas BCLP patients demonstrate a postoperative volumetric increase.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42244200/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42243073",
-      "title": "Expert consensus on treatment of condylar hyperplasia and secondary dento-maxillofacial deformities.",
-      "authors": [
-        "Ruiye Bi",
-        "Bassam M Abotaleb",
-        "Xiaofeng Bai",
-        "Kun Cao",
-        "Gang Chen",
-        "Jie Cheng",
-        "Weihua Guo",
-        "Min Hu",
-        "Li Huang",
-        "Xuanping Huang",
-        "Hongbing Jiang",
-        "Lingyong Jiang",
-        "Xiaolei Jin",
-        "Feiwu Kang",
-        "Tangxin Li",
-        "Wenyang Li",
-        "Shuguang Liu",
-        "Yanpu Liu",
-        "Yanshan Liu",
-        "Li Lu",
-        "Yisen Shao",
-        "Bin Shi",
-        "Guodong Song",
-        "Yuxiong Su",
-        "Jian Sun",
-        "Zhenglong Tang",
-        "Lei Tian",
-        "Maimaitituxun Tuerdi",
-        "Qilong Wan",
-        "Xiaoxia Wang",
-        "Xuejiu Wang",
-        "Yong Wang",
-        "Guomin Wu",
-        "Zhijian Xie",
-        "Guangqi Yan",
-        "Xuewen Yang",
-        "Meng You",
-        "Fenghe Zhang",
-        "Shilei Zhang",
-        "Guangsen Zheng",
-        "Songsong Zhu",
-        "En Luo"
-      ],
-      "publication_date": "2026-Jun-04",
-      "publication_date_iso": "2026-06-04",
-      "abstract": "Condylar hyperplasia (CH), characterized by progressive facial deviation, occlusion disorders, and temporomandibular joint dysfunction, often requires combined temporomandibular joint (TMJ)-orthognathic interventions to reconstruct joint and occlusal functions as well as rebuilding harmonious facial expressions. Managing the dentomaxillofacial deformities secondary to CH involves hyperplastic condylar resection, orthognathic surgery, facial contour surgery and orthodontic treatment. Based on the activity of condylar hypertrophy, the severity of dentomaxillofacial deformity and malocclusion, an individualized treatment plan should be formulated to reconstruct joint functions, correct deformities and recover occlusal relationships. This expert consensus, informed by the latest clinical research and practical experience, addresses clinical considerations for surgical treatment strategies for patients with different CH types, delineating indications, objectives, procedures, and principles with the aim of providing clear and practical guidance for clinical practitioners.",
-      "objective": ", procedures, and principles with the aim of providing clear and practical guidance for clinical practitioners.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42243073/",
-      "pmcid": "PMC13236974",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236974/bin/41368_2026_442_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236974/bin/41368_2026_442_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236974/bin/41368_2026_442_Fig3_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236974/bin/41368_2026_442_Fig4_HTML.jpg"
-      ]
-    },
-    {
-      "pmid": "42242912",
-      "title": "Predictors and Outcomes of Delayed Wound Healing Following Modified Sommerlad-Furlow Repair: An Analysis of 1355 Consecutive Cases.",
-      "authors": [
-        "Min Wu",
-        "Sadam Ahmed Elayah",
-        "Che Wang",
-        "Jun Yang",
-        "Yingmeng Liu",
-        "Bing Shi",
-        "Yang Li"
-      ],
-      "publication_date": "2026-Jun-04",
-      "publication_date_iso": "2026-06-04",
-      "abstract": "This study aims to evaluate the healing process and identify risk factors associated with delayed healing and outcomes. 1355 consecutive participants with nonsyndromic cleft palate, treated with the Sommerlad-Furlow modified palatoplasty. Sixteen variables were recorded including sex, age, cleft type (Veau class), surgeons' qualification, antibiotics, relaxing incision (RI), postoperative upper respiratory tract infection (PURI), preoperative leukocyte count, preoperative hemoglobin (HGB), the cleft width, inter maxillary tuberosity width, the cleft ratio, operation duration, the initial time of poor healing wound observed after surgery, depth and location of the poor healing wound. In total, 1148 patients demonstrated normal healing (84.7%, 1148/1355), while 207 patients exhibited delayed wound healing issues (15.3%, 207/1355), among whom 131 healed within 3 months (9.7%, 131/1355; 63.3%, 131/207), 15 healed after 3 months and within 6 months (1.1%, 15/1355; 7.2%, 15/207), and fistula remained after 6 months in 61 patients (4.5%, 61/1355; 29.5%, 61/207). A total of 1294 (95.5%, 1294/1355) of the participants had healed palatal wounds after 6 months postoperatively. Surgeons' qualifications, PURI, the cleft width, cleft ratio, and operation duration were significantly different in the delayed healing group. Preoperative measurement of the cleft ratio might help the cleft surgeons to predict the palate healing outcome. Surgeons' improved operation skills, shortened operation duration, and prevention of PURI were supposed to reduce the occurrence of poor wound healing. Moreover, focusing on delayed wound depth and location is critical for estimating the process and outcomes of delayed healing.",
-      "objective": "to evaluate the healing process and identify risk factors associated with delayed healing and outcomes. 1355 consecutive participants with nonsyndromic cleft palate, treated with the Sommerlad-Furlow modified palatoplasty. Sixteen variables were recorded including sex, age, cleft type (Veau class), surgeons' qualification, antibiotics, relaxing incision (RI), postoperative upper respiratory tract infection (PURI), preoperative leukocyte count, preoperative hemoglobin (HGB), the cleft width, inter maxillary tuberosity width, the cleft ratio, operation duration, the initial time of poor healing wound observed after surgery, depth and location of the poor healing wound. In total, 1148 patients demonstrated normal healing (84.7%, 1148/1355), while 207 patients exhibited delayed wound healing issues (15.3%, 207/1355), among whom 131 healed within 3 months (9.7%, 131/1355; 63.3%, 131/207), 15 healed after 3 months and within 6 months (1.1%, 15/1355; 7.2%, 15/207), and fistula remained after 6 months in 61 patients (4.5%, 61/1355; 29.5%, 61/207). A total of 1294 (95.5%, 1294/1355) of the participants had healed palatal wounds after 6 months postoperatively. Surgeons' qualifications, PURI, the cleft width, cleft ratio, and operation duration were significantly different in the delayed healing group. Preoperative measurement of the cleft ratio might help the cleft surgeons to predict the palate healing outcome. Surgeons' improved operation skills, shortened operation duration, and prevention of PURI were supposed to reduce the occurrence of poor wound healing. Moreover, focusing on delayed wound depth and location is critical for estimating the process and outcomes of delayed healing.",
-      "study_methods": "1355 consecutive participants with nonsyndromic cleft palate, treated with the Sommerlad-Furlow modified palatoplasty. Sixteen variables were recorded including sex, age, cleft type (Veau class), surgeons' qualification, antibiotics, relaxing incision (RI), postoperative upper respiratory tract infection (PURI), preoperative leukocyte count, preoperative hemoglobin (HGB), the cleft width, inter maxillary tuberosity width, the cleft ratio, operation duration, the initial time of poor healing wound observed after surgery, depth and location of the poor healing wound.",
-      "methods": "1355 consecutive participants with nonsyndromic cleft palate, treated with the Sommerlad-Furlow modified palatoplasty. Sixteen variables were recorded including sex, age, cleft type (Veau class), surgeons' qualification, antibiotics, relaxing incision (RI), postoperative upper respiratory tract infection (PURI), preoperative leukocyte count, preoperative hemoglobin (HGB), the cleft width, inter maxillary tuberosity width, the cleft ratio, operation duration, the initial time of poor healing wound observed after surgery, depth and location of the poor healing wound.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "cleft lip and palate surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42242912/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42241842",
-      "title": "Association between psychosomatic factors and dental care utilization: A cross-sectional study.",
-      "authors": [
-        "Barbara Kirnbauer",
-        "Omid Fakheran",
-        "Alina Irimia",
-        "Christian Fazekas"
-      ],
-      "publication_date": "2026-Jun-04",
-      "publication_date_iso": "2026-06-04",
-      "abstract": "Psychosomatic factors such as mental well-being, sleep quality, and satisfaction with social life play a key role in both general and oral health, but their association with the use of dental services has not yet been sufficiently investigated. The aim of this study was to examine the psychosomatic well-being of dental patients. For this purpose, the Psychosomatic Assessment Health Disc (PAHD) was applied, and two patient groups were compared: a group of individuals who attended scheduled dental appointments and a group of emergency dental care users. A total of 232 study participants aged 25 to 50 took part in this study at the University Clinic for Dentistry and Oral Health at Medical University of Graz. The group with scheduled appointments comprised 126 study participants, while the group with emergency treatment consisted of 106 participants. Results showed that patients with scheduled appointments had higher satisfaction with sleep as compared to participants in the urgent care group. In the overall sample, women expressed lower satisfaction with mental and physical well-being than men. In this sample, age was not associated with psychosomatic well-being. Additionally, individuals with a history of mental illness (8.2%) reported lower satisfaction in all PAHD domains except sleep. These findings highlight a link between psychosomatic well-being and forms of dental care use. Further research should investigate potential benefits of an integrated approach in dental practice, which also takes mental and social health into account.",
-      "objective": "of this study was to examine the psychosomatic well-being of dental patients. For this purpose, the Psychosomatic Assessment Health Disc (PAHD) was applied, and two patient groups were compared: a group of individuals who attended scheduled dental appointments and a group of emergency dental care users. A total of 232 study participants aged 25 to 50 took part in this study at the University Clinic for Dentistry and Oral Health at Medical University of Graz. The group with scheduled appointments comprised 126 study participants, while the group with emergency treatment consisted of 106 participants.",
-      "study_methods": "",
-      "methods": "",
-      "results": "showed that patients with scheduled appointments had higher satisfaction with sleep as compared to participants in the urgent care group. In the overall sample, women expressed lower satisfaction with mental and physical well-being than men. In this sample, age was not associated with psychosomatic well-being. Additionally, individuals with a history of mental illness (8.2%) reported lower satisfaction in all PAHD domains except sleep. These findings highlight a link between psychosomatic well-being and forms of dental care use. Further research should investigate potential benefits of an integrated approach in dental practice, which also takes mental and social health into account.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42241842/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42241100",
-      "title": "Trigeminocardiac Reflex Complications During Orthognathic Surgery: Our Clinical Experience.",
-      "authors": [
-        "Xinyi Li",
-        "Zhongxing Wu"
-      ],
-      "publication_date": "2026-Jun-04",
-      "publication_date_iso": "2026-06-04",
-      "abstract": "The trigeminocardiac reflex (TCR) is an extremely rare but potentially catastrophic complication during orthognathic surgery, warranting immediate recognition and precise intraoperative management. This article reports 2 cases of cardiac arrest during orthognathic surgery induced by TCR and shares the corresponding management experience. Two patients with severe obstructive sleep apnea (OSA) and mandibular retrognathia experienced cardiac arrest, one during nasal intubation (February 2025) and the other during mandibular elevation (August 2025). Both events were attributed to stimulation of the mandibular branch of the trigeminal nerve during surgical manipulation, eliciting the TCR. After receiving timely chest compressions and medications, both patients recovered spontaneous circulation rapidly, and surgeries finished smoothly with no postoperative complications. During dental and maxillofacial surgeries, vigilance for the occurrence of TCR is essential, as severe cases can be life-threatening. The authors' experience indicates that prompt recognition and appropriate management can lead to favorable outcomes.",
-      "objective": "",
-      "study_methods": "Two patients with severe obstructive sleep apnea (OSA) and mandibular retrognathia experienced cardiac arrest, one during nasal intubation (February 2025) and the other during mandibular elevation (August 2025). Both events were attributed to stimulation of the mandibular branch of the trigeminal nerve during surgical manipulation, eliciting the TCR. After receiving timely chest compressions and medications, both patients recovered spontaneous circulation rapidly, and surgeries finished smoothly with no postoperative complications.",
-      "methods": "Two patients with severe obstructive sleep apnea (OSA) and mandibular retrognathia experienced cardiac arrest, one during nasal intubation (February 2025) and the other during mandibular elevation (August 2025). Both events were attributed to stimulation of the mandibular branch of the trigeminal nerve during surgical manipulation, eliciting the TCR. After receiving timely chest compressions and medications, both patients recovered spontaneous circulation rapidly, and surgeries finished smoothly with no postoperative complications.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42241100/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42240992",
-      "title": "Young Male With Multifocal Oral Ulcers.",
-      "authors": [
-        "Tyler R Selkin",
-        "Elizabeth A Bilodeau",
-        "Bradley A Shessel"
-      ],
-      "publication_date": "2026-Jun-04",
-      "publication_date_iso": "2026-06-04",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42240992/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42240865",
-      "title": "Simultaneous implant placement with guided bone regeneration for horizontal ridge augmentation using a 3D-preformed resorbable PLGA membrane: A prospective single-arm clinical study.",
-      "authors": [
-        "Sang-Hyun Son",
-        "Kyeong-Ok Lim",
-        "Seo-Hee Han",
-        "Gwi-Hyeon Min",
-        "Jooseong Kim",
-        "Tadeusz Morawiec",
-        "Won-Pyo Lee"
-      ],
-      "publication_date": "2026-Jun-04",
-      "publication_date_iso": "2026-06-04",
-      "abstract": "This study aimed to evaluate the clinical effectiveness and safety of guided bone regeneration (GBR) using a three-dimensional preformed resorbable Polylactic-co-glycolic acid membrane (3D-PRPM) with simultaneous implant placement. Twenty patients (21 sites) with localized ridge defects were treated using implants placed concurrently with GBR using a 3D-PRPM. Cone-beam computed tomography scans were taken preoperatively, immediately postoperatively, and at 5 months. Horizontal bone augmentation (BA), hard tissue gain (HG), bone resorption (BR), and hard tissue gain rate (HGR) were assessed. Changes beyond the original bony envelope were evaluated. Statistical analyses included the Wilcoxon signed-rank and Friedman tests. Mean BA was 2.99 ± 1.15 mm, and mean HG at 5 months was 2.64 ± 1.10 mm. Mean BR was 0.35 ± 0.23 mm, and mean HGR was 87.2% ± 8.2%. Envelope analysis confirmed a significant increase after augmentation with partial reduction during healing; however, ridge dimensions at 5 months remained significantly greater than baseline (P < 0.001). No membrane exposure, infection, or wound dehiscence occurred. 3D-PRPM enabled predictable horizontal ridge augmentation with excellent volumetric stability and favorable short-term safety. A 3D-PRPM may provide a stable, fixation-free resorbable barrier for horizontal ridge augmentation, potentially simplifying GBR procedures and reducing the need for secondary removal.",
-      "objective": "",
-      "study_methods": "Twenty patients (21 sites) with localized ridge defects were treated using implants placed concurrently with GBR using a 3D-PRPM. Cone-beam computed tomography scans were taken preoperatively, immediately postoperatively, and at 5 months. Horizontal bone augmentation (BA), hard tissue gain (HG), bone resorption (BR), and hard tissue gain rate (HGR) were assessed. Changes beyond the original bony envelope were evaluated. Statistical analyses included the Wilcoxon signed-rank and Friedman tests.",
-      "methods": "Twenty patients (21 sites) with localized ridge defects were treated using implants placed concurrently with GBR using a 3D-PRPM. Cone-beam computed tomography scans were taken preoperatively, immediately postoperatively, and at 5 months. Horizontal bone augmentation (BA), hard tissue gain (HG), bone resorption (BR), and hard tissue gain rate (HGR) were assessed. Changes beyond the original bony envelope were evaluated. Statistical analyses included the Wilcoxon signed-rank and Friedman tests.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42240865/",
-      "pmcid": "PMC13236836",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236836/bin/784_2026_6959_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236836/bin/784_2026_6959_Fig1_HTML.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236836/bin/784_2026_6959_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236836/bin/784_2026_6959_Fig2_HTML.gif"
-      ]
-    },
-    {
-      "pmid": "42237863",
-      "title": "Computationally Guided Simulation-Based Surgical Correction of Nasal Airway Obstruction in Patients With Cleft Lip Nasal Deformity.",
-      "authors": [
-        "Elaine Lin",
-        "Ryan M Sicard",
-        "Hannah L Martin",
-        "Raluca E Gosman",
-        "Reanna Shah",
-        "Rose Trotta",
-        "Jeffrey R Marcus",
-        "Dennis O Frank-Ito"
-      ],
-      "publication_date": "2026-Jun-04",
-      "publication_date_iso": "2026-06-04",
-      "abstract": "ObjectiveTo evaluate different virtual-surgical interventions for the correction of unilateral cleft lip nasal deformity (uCLND)-induced nasal airway obstruction (NAO) using computational fluid dynamics (CFD) modeling.DesignPreliminary pilot study involving virtual-surgical interventions based on pre-surgery computed tomography (CT) imaging with CFD analysis.SettingAcademic medical center.Patients, ParticipantsFive subjects aged ≥15 years with uCLND who underwent preoperative CT imaging.InterventionsVirtual-surgical procedures involving varying combinations of inferior turbinate reduction (ITR), anterior (cartilaginous) septoplasty (AS), and posterior (osseous) septoplasty (PS).Main Outcome Measure(s)CFD-identified greatest obstructive site, changes in nasal resistance and airflow distribution calculated from airflow simulations in preoperative and virtual-surgery nasal models, correlation of resistance changes with the minimal clinically important difference (MCID) for patient-reported Nasal Obstruction Symptom Evaluation (NOSE) scores, and evaluation of efficacious virtual procedures balancing surgical complexity.ResultsPreoperatively, all subjects had greater resistance on the cleft side. Isolated septoplasty reduced bilateral resistance by <10%. Cleft-side ITR ± AS and/or PS reduced bilateral resistance by 32% to 54%. Bilateral ITR ± AS/PS achieved the largest improvements, with median reductions of 50% to 66% in bilateral resistance. Non-cleft ITR reduced resistance on the non-cleft side but often worsened airflow asymmetry. The number of procedures resulting in resistance improvements past the MCID threshold varied among subjects.ConclusionsCFD-based virtual-surgical procedures indicated that ITR alone or with septoplasty provided the most effective improvement in nasal resistance and airflow for uCLND. Patient-specific anatomy strongly influenced efficacy, supporting the rationale for the use of computational modeling to assist in personalized surgical planning.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Preoperatively, all subjects had greater resistance on the cleft side. Isolated septoplasty reduced bilateral resistance by <10%. Cleft-side ITR ± AS and/or PS reduced bilateral resistance by 32% to 54%. Bilateral ITR ± AS/PS achieved the largest improvements, with median reductions of 50% to 66% in bilateral resistance. Non-cleft ITR reduced resistance on the non-cleft side but often worsened airflow asymmetry. The number of procedures resulting in resistance improvements past the MCID threshold varied among subjects.ConclusionsCFD-based virtual-surgical procedures indicated that ITR alone or with septoplasty provided the most effective improvement in nasal resistance and airflow for uCLND. Patient-specific anatomy strongly influenced efficacy, supporting the rationale for the use of computational modeling to assist in personalized surgical planning.",
-      "conclusion": "CFD-based virtual-surgical procedures indicated that ITR alone or with septoplasty provided the most effective improvement in nasal resistance and airflow for uCLND. Patient-specific anatomy strongly influenced efficacy, supporting the rationale for the use of computational modeling to assist in personalized surgical planning.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42237863/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42237857",
-      "title": "Progressive Overgrowth of Costochondral Graft in a Case of Hemifacial Microsomia: A Rare and Severe Case.",
-      "authors": [
-        "Lobredia Zarasade",
-        "Carolus Aldo Windura",
-        "Magda R Hutagalung",
-        "Alki Andana"
-      ],
-      "publication_date": "2026-Jun-04",
-      "publication_date_iso": "2026-06-04",
-      "abstract": "Costochondral grafts (CCGs) are widely used for mandibular condyle reconstruction in children due to their growth potential, yet their unpredictable behavior remains a challenge. We present a rare case of progressive CCG overgrowth in a 17-year-old male with hemifacial microsomia, resulting in severe facial asymmetry despite prior corrective surgeries. Clinical assessment revealed a 2.5 cm ramus discrepancy and marked mandibular deviation. Management required staged surgical correction, including graft excision, osteotomies, and genioplasty. This case illustrates the potential for extreme CCG overgrowth beyond skeletal maturity and emphasizes the need for vigilant long-term surveillance and individualized treatment planning.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in severe facial asymmetry despite prior corrective surgeries. Clinical assessment revealed a 2.5 cm ramus discrepancy and marked mandibular deviation. Management required staged surgical correction, including graft excision, osteotomies, and genioplasty. This case illustrates the potential for extreme CCG overgrowth beyond skeletal maturity and emphasizes the need for vigilant long-term surveillance and individualized treatment planning.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42237857/",
       "pmcid": "",
       "figure_urls": []
     }
