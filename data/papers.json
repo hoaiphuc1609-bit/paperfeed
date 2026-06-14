@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T06:22:47Z",
+  "updated_at": "2026-06-14T06:46:40Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -58,7 +58,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
       "pmcid": "PMC12943813",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
+      ]
     },
     {
       "pmid": "42211773",
@@ -88,7 +93,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42211773/",
       "pmcid": "PMC13213728",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42005095",
@@ -120,7 +130,9 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005095/",
       "pmcid": "PMC13087713",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087713/bin/gr1.jpg"
+      ]
     },
     {
       "pmid": "41858234",
@@ -162,7 +174,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41858234/",
       "pmcid": "PMC13007456",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_PB.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_PB.jpg"
+      ]
     },
     {
       "pmid": "41582805",
@@ -189,7 +206,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41582805/",
       "pmcid": "PMC12851390",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.gif"
+      ]
     },
     {
       "pmid": "41563872",
@@ -212,7 +234,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41563872/",
       "pmcid": "PMC12825576",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.gif"
+      ]
     },
     {
       "pmid": "41431197",
@@ -236,7 +263,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41431197/",
       "pmcid": "PMC12777812",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0002_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0003_C.jpg"
+      ]
     },
     {
       "pmid": "41379645",
@@ -267,7 +298,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41379645/",
       "pmcid": "PMC12773631",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_PB.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_PB.jpg"
+      ]
     },
     {
       "pmid": "42256884",
@@ -296,7 +332,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42256884/",
       "pmcid": "PMC13240782",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/sc1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/gr2.jpg"
+      ]
     },
     {
       "pmid": "42160952",
@@ -390,7 +431,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42181171/",
       "pmcid": "PMC13196569",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/sc1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/sc1.gif"
+      ]
     },
     {
       "pmid": "42164998",
@@ -421,7 +467,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42164998/",
       "pmcid": "PMC13185783",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/gr1.gif"
+      ]
     },
     {
       "pmid": "42167478",
@@ -691,7 +742,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42253858/",
       "pmcid": "PMC13233747",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42236166",
@@ -717,7 +773,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42236166/",
       "pmcid": "PMC13234206",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234206/bin/LSA-2026-03772_GA.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234206/bin/LSA-2026-03772_Fig1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234206/bin/LSA-2026-03772_FigS1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234206/bin/LSA-2026-03772_Fig2.jpg"
+      ]
     },
     {
       "pmid": "42235336",
@@ -2109,7 +2170,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41642169/",
       "pmcid": "PMC12930408",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0001.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0002.gif"
+      ]
     },
     {
       "pmid": "41637216",
@@ -2330,6 +2396,38 @@
       "figure_urls": []
     },
     {
+      "pmid": "42286781",
+      "title": "Correction: MRC1 and LYVE1 expressing macrophages in vascular beds of GNAQ p.R183Q driven capillary malformations in Sturge Weber syndrome.",
+      "authors": [
+        "Sana Nasim",
+        "Colette Bichsel",
+        "Stephen Dayneka",
+        "Robert Mannix",
+        "Annegret Holm",
+        "Mathew Vivero",
+        "Sanda Alexandrescu",
+        "Anna Pinto",
+        "Arin K Greene",
+        "Donald E Ingber",
+        "Joyce Bischoff"
+      ],
+      "publication_date": "2026-Jun-12",
+      "publication_date_iso": "2026-06-12",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42286781/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42283519",
       "title": "Unilateral Mandible Hyperplasia: Individualized Protocols Integrating Digital Technology and Modified Techniques.",
       "authors": [
@@ -2512,8 +2610,13 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42274805/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC13260254",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13260254/bin/381_2026_7300_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13260254/bin/381_2026_7300_Fig1_HTML.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13260254/bin/381_2026_7300_Fig2_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13260254/bin/381_2026_7300_Fig2_HTML.gif"
+      ]
     },
     {
       "pmid": "42274635",
@@ -2567,7 +2670,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42273316/",
       "pmcid": "PMC13249489",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13249489/bin/circrep-8-917-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13249489/bin/circrep-8-917-g002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13249489/bin/circrep-8-917-g003.jpg"
+      ]
     },
     {
       "pmid": "42270592",
@@ -2605,7 +2712,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42270592/",
       "pmcid": "PMC13254404",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13254404/bin/41392_2026_2752_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13254404/bin/41392_2026_2752_Fig2_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13254404/bin/41392_2026_2752_Fig3_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13254404/bin/41392_2026_2752_Fig4_HTML.jpg"
+      ]
     },
     {
       "pmid": "42269693",
@@ -2818,81 +2930,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42252435/",
       "pmcid": "PMC13244935",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42251201",
-      "title": "Force effect of MRI scanner on dental appliances and instruments.",
-      "authors": [
-        "Wiranut Kitisriworapan",
-        "Yuka Uchiyama",
-        "Sanjay M Mallya",
-        "Shumei Murakami"
-      ],
-      "publication_date": "2026-Jun-06",
-      "publication_date_iso": "2026-06-06",
-      "abstract": "This study aimed to measure magnetically induced displacement forces on metallic dental appliances and instruments in a 3 T MRI scanner and to examine its relationship with magnetic flux density. Magnetic flux density was measured along the gantry centreline, and both the spatial field gradient and the product of magnetic flux density and spatial field gradient were calculated. Displacement force measurements were conducted according to ASTM F2052-21. Tests were performed on a representative material along the gantry centreline and on 29 metallic dental materials-including fixed and removable dental appliances, and dental and medical instruments-at two positions outside the gantry entrance. Displacement force increased rapidly near the scanner entrance, reflecting trends in spatial field gradient and the product of magnetic flux density and gradient, with a maximum observed between 0 and 5 cm inside the gantry entrance. At 25 cm outside the gantry, all tested single fixed and removable dental appliances exhibited displacement forces below 0.03 N. In contrast, nearly all stainless steel dental and medical instruments demonstrated deflection angles exceeding 90° at the same position. In the MRI environment, dental appliances composed of stainless steel or iron that are not securely fixed in the patient's oral cavity are subject to magnetically induced displacement forces. Therefore, assessing intraoral fixation is essential before and after MRI. Additionally, most stainless steel dental and medical instruments, if inadvertently brought into the MRI environment, pose significant safety risks and must be strictly excluded.",
-      "objective": "",
-      "study_methods": "Magnetic flux density was measured along the gantry centreline, and both the spatial field gradient and the product of magnetic flux density and spatial field gradient were calculated. Displacement force measurements were conducted according to ASTM F2052-21. Tests were performed on a representative material along the gantry centreline and on 29 metallic dental materials-including fixed and removable dental appliances, and dental and medical instruments-at two positions outside the gantry entrance.",
-      "methods": "Magnetic flux density was measured along the gantry centreline, and both the spatial field gradient and the product of magnetic flux density and spatial field gradient were calculated. Displacement force measurements were conducted according to ASTM F2052-21. Tests were performed on a representative material along the gantry centreline and on 29 metallic dental materials-including fixed and removable dental appliances, and dental and medical instruments-at two positions outside the gantry entrance.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42251201/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42250969",
-      "title": "Superiorly based facial artery musculomucosal flap with maxillary sinus access for palate defects.",
-      "authors": [
-        "A Manfuso",
-        "M Forte",
-        "G D'Albis",
-        "C Copelli"
-      ],
-      "publication_date": "2026-Jun-06",
-      "publication_date_iso": "2026-06-06",
-      "abstract": "Reconstruction of medium-sized palatal defects following maxillectomy represents a major challenge in maxillofacial surgery. The facial artery musculomucosal (FAMM) flap has become a reliable reconstructive option due to its valid vascular supply and mucosal similarity. Numerous technical variants, have expanded its clinical applicability. However, limitations related to flap rotation through dentition or prosthetic structures may compromise outcomes. This note describes a novel surgical technique employing a superiorly based, reverse-flow FAMM flap transposed through a lateral maxillary sinus window. In a patient treated for invasive oral squamous cell carcinoma, the residual class IIa palatal defect, following the Brown classification, was planned to be reconstructed with a superiorly based FAMM flap. A lateral maxillary sinus access was created to allow direct insertion of the flap into the defect, avoiding conventional transoral passage. Donor site closure was achieved using a Bichat fat pad flap. The flap was successfully rotated through a 180° arc and positioned precisely within the defect, achieving tension-free closure and reliable re-establishment of the oro-antral barrier. No complications were observed. The patient was discharged seven days after surgery, with satisfactory primary healing and preservation of dentition and prosthetic structures. Clinical and radiographical follow-ups were performed every 6 months. Trans-sinus application of a reverse-flow FAMM flap represents a novel and versatile approach for medium-sized palatal defect reconstruction, minimizing mechanical trauma, preserving dental and prosthetic integrity, and offering an alternative to free tissue transfer, supporting functional and aesthetic rehabilitation.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42250969/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42250217",
-      "title": "Sericin-based biomaterial for craniomaxillofacial regeneration: Preclinical evidence and translational potential.",
-      "authors": [
-        "Łukasz Mazurek",
-        "Marek Konop",
-        "Fernando P S Guastaldi"
-      ],
-      "publication_date": "2026-Jun-06",
-      "publication_date_iso": "2026-06-06",
-      "abstract": "Significant craniomaxillofacial (CMF) bone defects after trauma, tumor removal, or congenital disabilities are a major clinical challenge. Therefore, new methods are continually sought to improve treatment effectiveness. In this context, next-generation biomaterials deserve special attention. Sericin, a protein component of silk, demonstrates regenerative potential. Current evidence suggests that sericin actively stimulates osteogenesis by promoting the differentiation of osteoprogenitor cells and upregulating key markers, including Runx2, osteocalcin, and osteopontin. In addition, it exhibits a favorable biocompatibility profile and promising immunomodulatory properties. By exerting anti-inflammatory effects, sericin may promote a pro-healing polarization of M2 macrophages and reduce TNF-α expression. The antimicrobial potential of sericin-based biomaterials is also highlighted, though the evidence remains debated and further validation is needed, particularly for grafts and scaffolds used in CMF regeneration. Sericin also appears to promote angiogenesis and the organized deposition of mineralized extracellular matrix, which are crucial factors in bone regeneration. In preclinical animal models, sericin-based biomaterials have shown statistically significant improvements in the healing of calvarial, alveolar, and long bone defects. Despite these encouraging findings, the translation of sericin into clinical practice remains limited, with only two human studies available, primarily for minor applications in oral surgery. This review summarizes the current literature focusing on sericin-based biomaterials and relates the available evidence to potential applications in CMF regeneration. In a structured manner, it begins with the physical and biological properties of sericin, proceeds to cellular and tissue interactions, and presents preclinical and clinical evidence, critically evaluating the advantages and limitations.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42250217/",
-      "pmcid": "",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13244935/bin/12889_2026_27927_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13244935/bin/12889_2026_27927_Fig1_HTML.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13244935/bin/12889_2026_27927_Tab2_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13244935/bin/12889_2026_27927_Tab3_HTML.jpg"
+      ]
     }
   ]
 }
