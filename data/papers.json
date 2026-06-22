@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T06:56:57Z",
+  "updated_at": "2026-06-22T07:30:20Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -85,7 +85,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
       "pmcid": "PMC12943813",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
+      ]
     },
     {
       "pmid": "42293988",
@@ -114,7 +119,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42293988/",
       "pmcid": "PMC13262288",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262288/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262288/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262288/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262288/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42211773",
@@ -144,7 +154,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42211773/",
       "pmcid": "PMC13213728",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213728/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42005095",
@@ -176,7 +191,9 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005095/",
       "pmcid": "PMC13087713",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087713/bin/gr1.jpg"
+      ]
     },
     {
       "pmid": "41858234",
@@ -218,7 +235,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41858234/",
       "pmcid": "PMC13007456",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0001_PB.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007456/bin/ZGHA_A_2623345_F0002_PB.jpg"
+      ]
     },
     {
       "pmid": "41582805",
@@ -245,7 +267,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41582805/",
       "pmcid": "PMC12851390",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.gif"
+      ]
     },
     {
       "pmid": "41563872",
@@ -297,7 +324,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41431197/",
       "pmcid": "PMC12777812",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0002_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0003_C.jpg"
+      ]
     },
     {
       "pmid": "41379645",
@@ -2587,6 +2618,58 @@
       "figure_urls": []
     },
     {
+      "pmid": "42324024",
+      "title": "Towards an Integrative Understanding of the Human Temporalis Muscle: Anatomical, Histological, and Imaging Evidence.",
+      "authors": [
+        "Carlos Torres-Villar",
+        "Eva Maranillo",
+        "R Shane Tubbs",
+        "Nicolas E Ottone"
+      ],
+      "publication_date": "2026-Jun-21",
+      "publication_date_iso": "2026-06-21",
+      "abstract": "Traditionally defined as attaching to the mandibular coronoid process, the temporalis muscle (TM) has instead been shown, through anatomical evidence, including dissection, histology, and imaging, to have more variable distal insertions relevant to mastication, deglutition, temporomandibular disorders, and facial reanimation. We have assembled this evidence and propose a classification based on insertion. A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected. From 276 records reviewed, only 22 met the inclusion criteria, with 815 cadaveric TMs recorded by dissection, 26 TMs recorded histologically, and 183 TMs recorded by use of imaging across multiple regions. Overall, AQUA ratings for study objectives, descriptive anatomy, and reporting were rated as low risk but were rated higher risk regarding methodological characterisation. Three bony insertions were identified: (1) on or through the coronoid; (2) between the coronoid and ramus; and (3) between the coronoid, ramus, and retromolar triangle of the mandible. These bony insertions may be modified by accompanying soft-tissue attachments. This information could assist in standardising anatomical communication and aid in research on the TM region. It may also help clarify the function of the TM during chewing and swallowing and improve understanding of temporomandibular joint disorders.",
+      "objective": ", descriptive anatomy, and reporting were rated as low risk but were rated higher risk regarding methodological characterisation. Three bony insertions were identified: (1) on or through the coronoid; (2) between the coronoid and ramus; and (3) between the coronoid, ramus, and retromolar triangle of the mandible. These bony insertions may be modified by accompanying soft-tissue attachments. This information could assist in standardising anatomical communication and aid in research on the TM region. It may also help clarify the function of the TM during chewing and swallowing and improve understanding of temporomandibular joint disorders.",
+      "study_methods": "A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected.",
+      "methods": "A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324024/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42322584",
+      "title": "upsFISH: An Occupancy-Reporting Fluorescence In Situ Hybridization Method for Single-Cell Detection of Chromatin Interactions.",
+      "authors": [
+        "Yifen Shen",
+        "Liang Chen",
+        "Xiaosong Li",
+        "Le Zhang",
+        "Wenbin Wei",
+        "Yihang Shen"
+      ],
+      "publication_date": "2026-Jun-20",
+      "publication_date_iso": "2026-06-20",
+      "abstract": "Understanding chromatin interactions is fundamental to gene regulation; however, existing approaches rely on spatial distance measurements or population-averaged contact frequencies, limiting their ability to directly report regulatory engagement at single-cell resolution. Here, we present ultraproximal specificity FISH (upsFISH), an occupancy-reporting fluorescence in situ hybridization method that detects chromatin interaction states through probe occupancy rather than spatial proximity. upsFISH employs a dual-arm primary probe targeting two genomic elements, together with secondary probes that bind unoccupied probe arms, generating combinatorial fluorescence signals that provide a binary, resolution-independent readout in single cells. Using the β-globin locus as a model, we show that upsFISH accurately detects enhancer-promoter interactions with high sequence specificity, including sensitivity to transcription factor binding motifs. Genetic and pharmacological perturbations demonstrate that upsFISH captures biologically meaningful changes in chromatin interactions and resolves allele-specific and cell-to-cell heterogeneity. Comparative analyses indicate that upsFISH outperforms conventional DNA FISH and micro-4C in detecting short-range regulatory interactions, although its advantage decreases with increasing genomic distance. Together, upsFISH establishes an occupancy-based framework for studying chromatin interactions in single cells.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42322584/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42321528",
       "title": "Improving healing after surgical extraction of partially impacted lower third molar by modification of three sided flap: a clinical pilot study.",
       "authors": [
@@ -2605,7 +2688,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42321528/",
-      "pmcid": "",
+      "pmcid": "PMC13282430",
       "figure_urls": []
     },
     {
@@ -2838,39 +2921,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42314433/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42313426",
-      "title": "Artificial Intelligence-Based Risk Prediction Models for Complications After Tongue Cancer Surgery.",
-      "authors": [
-        "Dany Y Matar",
-        "Anthony Y Matar",
-        "Anahita Nimbalkar",
-        "Charbel G Saad",
-        "John J Lee",
-        "William Huang",
-        "Thomas Ren",
-        "Samuel Knoedler",
-        "Iman Ghanad",
-        "Dennis P Orgill",
-        "Gabriel Hundeshagen",
-        "Adriana C Panayi"
-      ],
-      "publication_date": "2026-Jun-18",
-      "publication_date_iso": "2026-06-18",
-      "abstract": "Glossectomy and reconstruction for tongue tumors carries substantial risk of postoperative morbidity, yet current tools offer limited individualized risk stratification. To develop and validate machine learning (ML) models to predict major 30-day postoperative complications after glossectomy and to compare performance with the American College of Surgeons National Surgical Quality Improvement Program (ACS-NSQIP) risk calculator. This retrospective cohort study used 2008-2024 data from the ACS-NSQIP database, comprising more than 700 hospitals predominantly in the US. Thirty-one preoperatively available variables were used to train a logistic regression model and 5 ML models (neural network, support vector classifier, LightGBM, XGBoost, and stacked generalization). Among adult patients with tongue cancer, data for 2008 to 2023 were split 85:15 into training and validation sets, while data for 2024 were used as a test set. Glossectomy of malignant tongue tumors. Six 30-day outcomes: surgical site infection, bleeding requiring transfusion, pneumonia, unplanned reoperation, any complication, and serious complications. Model prediction performance was primarily assessed on the test set using risk stratification (lift). Discrimination (area under the receiver operating characteristic and area under the precision-recall curve) and calibration (Brier score) were compared with the ACS-NSQIP risk calculator. Data from 8266 adults (median [IQR] age, 63 [54-71] years; 4895 [59.2%] male) undergoing tongue resection for cancer were used to develop PRO-TONGUE (Postresection and Reconstruction Outcome Prediction Tool for Tongue Cancer Surgery), a publicly available, outcome-specific risk prediction tool that provides individualized, interpretable risk estimates to support preoperative planning. Procedures included partial glossectomy among 6132 patients (74.2%), composite/extended glossectomy among 784 (9.5%), total glossectomy among 341 (4.1%), and minor excisions among 1274 (15.4%). Unplanned reoperation occurred among 708 patients (8.6%), surgical site infection among 510 (6.2%), bleeding requiring transfusion among 546 (6.6%), pneumonia among 262 (3.2%), serious complications among 1197 (14.5%), and any complications among 1428 (17.3%). Outcome-specific model selection based on risk stratification of the test set identified XGBoost as optimal for bleeding, serious complications, and any complications, and LightGBM for reoperation, surgical site infection, and pneumonia. ML and logistic regression models demonstrated discriminative performance of the test set comparable to the ACS-NSQIP risk calculator across outcomes. Prediction of bleeding requiring transfusion, which was not available in the ACS-NSQIP risk calculator, showed the highest area under the receiver operating characteristic (range, 0.88-0.90) and area under the precision-recall curve (range, 0.41-0.52) across all outcomes. In this cohort study of a large, nationally representative sample, ML demonstrated excellent performance for predicting major 30-day complications after glossectomy in patients with tongue cancer. These models informed development of a tongue cancer surgery risk calculator, warranting further external validation studies.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42313426/",
-      "pmcid": "PMC13280765",
       "figure_urls": []
     },
     {
