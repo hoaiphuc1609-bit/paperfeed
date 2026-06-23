@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T07:30:20Z",
+  "updated_at": "2026-06-23T06:13:01Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -91,6 +91,33 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
       ]
+    },
+    {
+      "pmid": "42327006",
+      "title": "Long-term expandable auricular chondrocytes reveal a conserved nine-gene decline module underlying senescence-independent dedifferentiation.",
+      "authors": [
+        "Dilinapa Alemujiang",
+        "Naoki Tsuji",
+        "Tomoaki Sakamoto",
+        "Yu-Ying Chu",
+        "Kazuto Hoshi",
+        "Atsuhiko Hikita"
+      ],
+      "publication_date": "2026-Dec",
+      "publication_date_iso": "2026-12-01",
+      "abstract": "Primary chondrocytes often lose matrix-forming capacity during in vitro expansion, limiting scalable cartilage engineering. Here, we examined aging-independent regulation of chondrogenic function during long-term expansion of primary auricular chondrocytes and sought molecular features associated with late-passage functional decline. Mouse auricular chondrocytes (mACs) were serially expanded in 2D culture up to passage 40 or 50 (P50) under high- or low-seeding conditions. Proliferation, morphology, and senescence status were assessed by growth curves, phase-contrast imaging, and SA-β-gal staining. Chondrogenic capacity was evaluated using 3D pellet culture and toluidine blue staining. Bulk RNA sequencing of matched 2D and 3D samples was followed by PCA, differential expression, and pathway enrichment analyses. Key transcriptional signatures were validated by RT-qPCR in mouse auricular chondrocytes. Both seeding conditions supported sustained proliferation across extended passaging. Although not immortalized, mACs maintained stable proliferation for more than P 50 with minimal senescence-associated features, exhibiting cell line-like proliferative behavior. Despite preserved growth, proteoglycan-rich matrix production declined at P50. Transcriptomic analyses identified culture dimensionality as the dominant source of variance, with 2D cultures showing passage-dependent drift and 3D pellets retaining a more stable chondrogenic profile. Cross-comparisons identified a conserved nine-gene decline module (Gpx7, Krba1, Plxdc2, Ptgr2, Rarres1, Pxdc1, Ctsh, Pigh, and Diras2), which was validated by RT-qPCR. Enrichment analyses indicated coordinated attenuation of adhesion-, extracellular-, and differentiation-related programs at late passages. Auricular chondrocytes exhibit cell line-like proliferative capacity with limited senescence activation while progressively losing matrix-forming competence at ultra-late passages. A conserved nine-gene decline module provides molecular benchmarks for passage-resolved assessment and may inform optimization of scalable auricular cartilage manufacturing.",
+      "objective": "",
+      "study_methods": "Mouse auricular chondrocytes (mACs) were serially expanded in 2D culture up to passage 40 or 50 (P50) under high- or low-seeding conditions. Proliferation, morphology, and senescence status were assessed by growth curves, phase-contrast imaging, and SA-β-gal staining. Chondrogenic capacity was evaluated using 3D pellet culture and toluidine blue staining. Bulk RNA sequencing of matched 2D and 3D samples was followed by PCA, differential expression, and pathway enrichment analyses. Key transcriptional signatures were validated by RT-qPCR in mouse auricular chondrocytes.",
+      "methods": "Mouse auricular chondrocytes (mACs) were serially expanded in 2D culture up to passage 40 or 50 (P50) under high- or low-seeding conditions. Proliferation, morphology, and senescence status were assessed by growth curves, phase-contrast imaging, and SA-β-gal staining. Chondrogenic capacity was evaluated using 3D pellet culture and toluidine blue staining. Bulk RNA sequencing of matched 2D and 3D samples was followed by PCA, differential expression, and pathway enrichment analyses. Key transcriptional signatures were validated by RT-qPCR in mouse auricular chondrocytes.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42327006/",
+      "pmcid": "PMC13280340",
+      "figure_urls": []
     },
     {
       "pmid": "42293988",
@@ -1304,38 +1331,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42160798",
-      "title": "Primary versus secondary microvascular bony jaw reconstruction in patients with oral squamous cell carcinoma and adjuvant therapy - a retrospective cohort study.",
-      "authors": [
-        "Moritz Bleymehl",
-        "Oliver Ristow",
-        "Nicole Weber",
-        "Maximilian Smielowski",
-        "Gregor Schnug",
-        "Thomas Rückschloß",
-        "Reinald Kuehle",
-        "Michael Engel",
-        "Maximilian Pilz",
-        "Jürgen Hoffmann",
-        "Julius Moratin"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "There are two established timepoints for microvascular bone reconstruction of the jaw in patients with oral squamous cell carcinoma (OSCC): 1. Primary reconstruction together with tumour resection and 2. Secondary reconstruction after successful adjuvant therapy. However, the decision between primary and secondary reconstruction remains controversial and is often made on a case-by-case basis. This study aimed to compare clinical outcomes of primary versus secondary osseous jaw reconstruction in patients with OSCC. The aim of this study was to retrospectively describe and compare clinically relevant oncological, functional, and perioperative outcomes of primary versus secondary microvascular osseous jaw reconstruction in patients with oral squamous cell carcinoma receiving adjuvant therapy. A retrospective cohort study was conducted including OSCC patients who underwent continuity resection of the jaw followed by microvascular reconstruction and adjuvant therapy between 01/2017 and 06/2024. Patients were retrospectively categorized into primary and secondary osseous reconstruction cohorts. Data on oncological, surgical, economical and functional outcomes were analyzed. A total of n = 191 patients were included (n = 133 primary, n = 58 secondary). The primary reconstruction group showed significantly lower time to dental rehabilitation (p < .001) and days of hospitalisation (p < .001), but no significant difference in local recurrence-free survival (p = .44) and transplant loss (p > .93) compared to the secondary group. None of the therapies can be considered superior in terms of oncological success. The results do not allow for a clear recommendation in favour of one therapy over the other.",
-      "objective": "of this study was to retrospectively describe and compare clinically relevant oncological, functional, and perioperative outcomes of primary versus secondary microvascular osseous jaw reconstruction in patients with oral squamous cell carcinoma receiving adjuvant therapy. A retrospective cohort study was conducted including OSCC patients who underwent continuity resection of the jaw followed by microvascular reconstruction and adjuvant therapy between 01/2017 and 06/2024. Patients were retrospectively categorized into primary and secondary osseous reconstruction cohorts. Data on oncological, surgical, economical and functional outcomes were analyzed. A total of n = 191 patients were included (n = 133 primary, n = 58 secondary). The primary reconstruction group showed significantly lower time to dental rehabilitation (p < .001) and days of hospitalisation (p < .001), but no significant difference in local recurrence-free survival (p = .44) and transplant loss (p > .93) compared to the secondary group. None of the therapies can be considered superior in terms of oncological success. The",
-      "study_methods": "A retrospective cohort study was conducted including OSCC patients who underwent continuity resection of the jaw followed by microvascular reconstruction and adjuvant therapy between 01/2017 and 06/2024. Patients were retrospectively categorized into primary and secondary osseous reconstruction cohorts. Data on oncological, surgical, economical and functional outcomes were analyzed.",
-      "methods": "A retrospective cohort study was conducted including OSCC patients who underwent continuity resection of the jaw followed by microvascular reconstruction and adjuvant therapy between 01/2017 and 06/2024. Patients were retrospectively categorized into primary and secondary osseous reconstruction cohorts. Data on oncological, surgical, economical and functional outcomes were analyzed.",
-      "results": "do not allow for a clear recommendation in favour of one therapy over the other.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42160798/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42045061",
       "title": "Letter to the editor on \"Cannabis-related facial trauma: a 10-year review of facial trauma in Victoria, Australia\".",
       "authors": [
@@ -1580,6 +1575,34 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41335106/",
       "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42327868",
+      "title": "Management of a Symphyseal Multilocular Odontogenic Keratocyst.",
+      "authors": [
+        "Laurianne Giraudeau",
+        "Bruno Meymandi-Nejad",
+        "Philippe Alessi",
+        "Stephanie Carier",
+        "Anne Vidil",
+        "Fredric Denis",
+        "Laurent Estrade"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Multilocular odontogenic keratocyst (MOK) is a benign odontogenic lesion with significant aggressive behavior and a high risk of recurrence. Its occurrence in the symphyseal region is rare, with the posterior mandible being the usual site of predilection. We report the case of an MOK diagnosed incidentally in a 30-year-old female patient. Treatment consisted of endodontic therapy, complete excision via a vestibular approach, and immediate reconstruction using an autologous composite biomaterial known as \"sticky bone,\" supplemented with platelet-rich fibrin membranes. Bacteriological analysis revealed a secondary infection with Actinomyces odontolyticus, requiring a 3-month course of prolonged antibiotic therapy. At 3 months, follow-up examinations showed homogeneous ossification, preservation of the inferior alveolar nerve, and no evidence of recurrence. Given the high risk of recurrence, conservative marginal resection combined with the use of sticky bone allowed for reliable reconstruction. The addition of platelet-rich fibrin contributed to enhanced healing and bone maturation. The anatomical and functional outcomes are satisfactory, although long-term follow-up remains necessary. This case highlights several important clinical and therapeutic points. MOKs may be discovered incidentally and require careful radiological and histopathological evaluation for accurate diagnosis and appropriate management. Conservative marginal resection, when combined with modern biomaterials such as sticky bone, can achieve effective bone reconstruction while minimizing surgical morbidity. In addition, the adjunctive use of platelet-rich fibrin enhances soft tissue healing and promotes bone regeneration. Clinicians should also be aware that secondary infection, such as Actinomyces odontolyticus, may occur and can require prolonged, targeted antibiotic therapy. Finally, close multidisciplinary coordination among practitioners is essential to optimize sequential management and to reduce the need for more invasive surgical procedures.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42327868/",
+      "pmcid": "PMC13278709",
       "figure_urls": []
     },
     {
@@ -1957,6 +1980,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42007935",
+      "title": "Evaluation of pharyngeal airway volume, soft-tissue changes, and risk of obstructive sleep apnea after bimaxillary orthognathic surgery in patients with skeletal Class III malocclusion using cone-beam computed tomography and the STOP-BANG questionnaire: A long-term study.",
+      "authors": [
+        "Seyedeh Zahra Hashemi",
+        "Azadeh Torkzadeh",
+        "Roshanak Ghaffari",
+        "Hasan Momeni",
+        "Seyed Sasan Aryanezhad",
+        "S Marjan Arianezhad"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Bimaxillary surgery is increasingly used for Class III malocclusion, but concerns about potential airway narrowing and its role in obstructive sleep apnea (OSA) remain. This study aimed to evaluate the long-term effects of bimaxillary surgery on the upper airway and soft tissues and the risk of OSA development in patients with skeletal Class III malocclusion using cone-beam computed tomography (CBCT) and the STOP-BANG (snoring, tiredness, observed apnea, high blood pressure, body mass index, age, neck circumference, and gender) questionnaire. In this retrospective descriptive-analytical study, 50 female patients with Class III malocclusion were treated with LeFort I advancement and bilateral sagittal split osteotomy. They all scored 0-2 on the STOP-BANG questionnaire. CBCTs were performed preoperatively and 5 years postoperatively with standardized head and neck positioning. They filled out the questionnaire in the follow-up. Confounding factors were minimized as much as possible. CBCTs were evaluated using OnDemand 3D software (version 10.0.1; Cybermed, Seoul, South Korea). Data were analyzed using an independent-samples t test, Pearson correlation, and chi-square test. In the long-term, bimaxillary surgery statistically significantly increased the nasopharyngeal volume by 14.06% (P = 0.015) and decreased hypopharyngeal and upper airway volumes by 20.13% (P <0.001) and 7.71% (P = 0.015), respectively. Although there was a decrease in the oropharynx and the position of the soft palate, the changes were not statistically significant. The tongue moved backward (P = 0.005). No significant differences in STOP-BANG scores were observed (P >0.05). Although bimaxillary surgery with the studied method significantly alters airway volume parameters, it may not increase the risk of OSA in healthy individuals. Our results can aid orthodontists and surgeons in selecting the proper treatment plans.",
+      "objective": "",
+      "study_methods": "In this retrospective descriptive-analytical study, 50 female patients with Class III malocclusion were treated with LeFort I advancement and bilateral sagittal split osteotomy. They all scored 0-2 on the STOP-BANG questionnaire. CBCTs were performed preoperatively and 5 years postoperatively with standardized head and neck positioning. They filled out the questionnaire in the follow-up. Confounding factors were minimized as much as possible. CBCTs were evaluated using OnDemand 3D software (version 10.0.1; Cybermed, Seoul, South Korea). Data were analyzed using an independent-samples t test, Pearson correlation, and chi-square test.",
+      "methods": "In this retrospective descriptive-analytical study, 50 female patients with Class III malocclusion were treated with LeFort I advancement and bilateral sagittal split osteotomy. They all scored 0-2 on the STOP-BANG questionnaire. CBCTs were performed preoperatively and 5 years postoperatively with standardized head and neck positioning. They filled out the questionnaire in the follow-up. Confounding factors were minimized as much as possible. CBCTs were evaluated using OnDemand 3D software (version 10.0.1; Cybermed, Seoul, South Korea). Data were analyzed using an independent-samples t test, Pearson correlation, and chi-square test.",
+      "results": "can aid orthodontists and surgeons in selecting the proper treatment plans.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42007935/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42000655",
       "title": "Stability and complications following mandibular supra-foraminal high oblique osteotomy.",
       "authors": [
@@ -2066,6 +2116,34 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41966577/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41954541",
+      "title": "Orthognathic surgery need following BAMP therapy in unilateral complete cleft lip and palate with moderate to severe maxillary deficiency: a prospective study.",
+      "authors": [
+        "Julia Petruccelli",
+        "Vanessa Couto",
+        "Renato Faco",
+        "Renata T R M Bastos",
+        "David Normando",
+        "Hugo de Clerck",
+        "Daniela Garib"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "The objective of this study was to assess the long-term stability of bone-anchored maxillary protraction (BAMP) in patients with unilateral complete cleft lip and palate (UCLP) and sagittal midface deficiency. The sample comprised 30 patients with UCLP (20 males and 10 females), with a mean age of 11.8 years (standard deviation = 0.79 years). All patients presented with moderate to severe maxillary deficiencies and were prospectively treated with BAMP for 18 months. Cone-beam computed tomography was obtained before (T1) and after BAMP therapy (T2), whereas conventional lateral cephalograms were acquired at least 5 years after BAMP therapy (T3: mean age = 20.15 years, standard deviation = 2.38 years). Moreover, 3 patients were lost during the follow-up, and 1 was excluded because of missing T2 records. Interphase comparisons were performed using analysis of variance and Tukey honest significant difference test (P <0.05). Discriminant analysis was used to identify pre and posttreatment predictive variables associated with surgical or nonsurgical outcomes. Among the 26 patients included in the final sample, 46.2% (n = 12) received nonsurgical treatment in phase 2, whereas 53.8% (n = 14) required orthognathic surgery. In the nonsurgical subgroup, the outcomes achieved with BAMP therapy remained stable from T2 to T3. In the surgical subgroup, treatment changes were negligible, and an impairment of facial convexity was observed during the posttreatment follow-up. Discriminant analysis revealed that pretreatment indicators predictive of nonsurgical outcomes included a less negative overjet, a smaller mandibular plane angle, and a reduced gonial angle. Greater improvements in the ANB angle and overjet during treatment were associated with a higher likelihood of a nonsurgical outcome. Patients with UCLP who achieved a positive overjet during BAMP therapy remained stable in the long-term, and orthognathic surgery was avoided. Hyperdivergent growth pattern with obtuse gonial angle and more severe negative overjet were initial predictors of the need for orthognathic surgery. Greater correction of the skeletal maxillomandibular relationship and overjet during BAMP therapy was associated with nonsurgical outcomes.",
+      "objective": "of this study was to assess the long-term stability of bone-anchored maxillary protraction (BAMP) in patients with unilateral complete cleft lip and palate (UCLP) and sagittal midface deficiency. The sample comprised 30 patients with UCLP (20 males and 10 females), with a mean age of 11.8 years (standard deviation = 0.79 years). All patients presented with moderate to severe maxillary deficiencies and were prospectively treated with BAMP for 18 months. Cone-beam computed tomography was obtained before (T1) and after BAMP therapy (T2), whereas conventional lateral cephalograms were acquired at least 5 years after BAMP therapy (T3: mean age = 20.15 years, standard deviation = 2.38 years). Moreover, 3 patients were lost during the follow-up, and 1 was excluded because of missing T2 records. Interphase comparisons were performed using analysis of variance and Tukey honest significant difference test (P <0.05). Discriminant analysis was used to identify pre and posttreatment predictive variables associated with surgical or nonsurgical outcomes. Among the 26 patients included in the final sample, 46.2% (n = 12) received nonsurgical treatment in phase 2, whereas 53.8% (n = 14) required orthognathic surgery. In the nonsurgical subgroup, the outcomes achieved with BAMP therapy remained stable from T2 to T3. In the surgical subgroup, treatment changes were negligible, and an impairment of facial convexity was observed during the posttreatment follow-up. Discriminant analysis revealed that pretreatment indicators predictive of nonsurgical outcomes included a less negative overjet, a smaller mandibular plane angle, and a reduced gonial angle. Greater improvements in the ANB angle and overjet during treatment were associated with a higher likelihood of a nonsurgical outcome. Patients with UCLP who achieved a positive overjet during BAMP therapy remained stable in the long-term, and orthognathic surgery was avoided. Hyperdivergent growth pattern with obtuse gonial angle and more severe negative overjet were initial predictors of the need for orthognathic surgery. Greater correction of the skeletal maxillomandibular relationship and overjet during BAMP therapy was associated with nonsurgical outcomes.",
+      "study_methods": "The sample comprised 30 patients with UCLP (20 males and 10 females), with a mean age of 11.8 years (standard deviation = 0.79 years). All patients presented with moderate to severe maxillary deficiencies and were prospectively treated with BAMP for 18 months. Cone-beam computed tomography was obtained before (T1) and after BAMP therapy (T2), whereas conventional lateral cephalograms were acquired at least 5 years after BAMP therapy (T3: mean age = 20.15 years, standard deviation = 2.38 years). Moreover, 3 patients were lost during the follow-up, and 1 was excluded because of missing T2 records. Interphase comparisons were performed using analysis of variance and Tukey honest significant difference test (P <0.05). Discriminant analysis was used to identify pre and posttreatment predictive variables associated with surgical or nonsurgical outcomes.",
+      "methods": "The sample comprised 30 patients with UCLP (20 males and 10 females), with a mean age of 11.8 years (standard deviation = 0.79 years). All patients presented with moderate to severe maxillary deficiencies and were prospectively treated with BAMP for 18 months. Cone-beam computed tomography was obtained before (T1) and after BAMP therapy (T2), whereas conventional lateral cephalograms were acquired at least 5 years after BAMP therapy (T3: mean age = 20.15 years, standard deviation = 2.38 years). Moreover, 3 patients were lost during the follow-up, and 1 was excluded because of missing T2 records. Interphase comparisons were performed using analysis of variance and Tukey honest significant difference test (P <0.05). Discriminant analysis was used to identify pre and posttreatment predictive variables associated with surgical or nonsurgical outcomes.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41954541/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2618,6 +2696,180 @@
       "figure_urls": []
     },
     {
+      "pmid": "42329110",
+      "title": "Perioperative Opioid Exposure and Postoperative Complications Following Facial Fracture Repair: A Propensity-Matched Analysis of 71,738 Patients.",
+      "authors": [
+        "Aneeq S Chaudhry",
+        "Anshumi Desai",
+        "Sinan K Jabori",
+        "Henry H Chi",
+        "Katherine Kozlowski",
+        "Kashyap K Tadisina",
+        "Wrood Kassira",
+        "Seth R Thaller"
+      ],
+      "publication_date": "2026-Jun-23",
+      "publication_date_iso": "2026-06-23",
+      "abstract": "Facial fracture repair is commonly performed following traumatic injury. Postoperative pain is frequently managed with opioid prescriptions. However, opioid exposure has been associated with impaired wound healing and increased postoperative complications in several surgical populations. This study aims to evaluate the association between perioperative opioid prescriptions and postoperative complications following facial fracture repair procedures. A retrospective cohort study using the TriNetX Research Network identified patients undergoing facial fracture repair between 2005 and 2025 using Current Procedural Terminology codes. Patients were stratified by documented opioid prescriptions within 2 weeks postoperatively. Individuals with prior opioid-related disorders or malignancy were excluded. Outcomes were assessed during early (1-30 d) and late (31-365 d) postoperative intervals. A total of 207,750 patients undergoing facial fracture repair were identified. This included 162,449 patients with perioperative opioid exposure and 45,301 controls. After propensity score matching, 35,869 patients remained in each cohort. During the early postoperative period, opioid exposure was associated with higher rates of overall complications (OR: 1.75, P < 0.0001), surgical site complications (OR: 2.07, P < 0.0001), infection (OR: 3.00, P < 0.0001), wound disruption (OR: 2.35, P < 0.0001), and emergency department visits or readmissions (OR: 1.67, P < 0.0001). During late follow-up, opioid exposure remained associated with higher rates of surgical site complications (OR: 1.37, P < 0.0001), infection (OR: 2.05, P < 0.0001), and wound disruption (OR: 2.10, P < 0.0001). Perioperative opioid prescriptions were associated with increased postoperative complications following facial fracture repair. These findings support continued efforts to optimize opioid-sparing analgesic strategies in patients undergoing facial trauma reconstruction.",
+      "objective": "to evaluate the association between perioperative opioid prescriptions and postoperative complications following facial fracture repair procedures. A retrospective cohort study using the TriNetX Research Network identified patients undergoing facial fracture repair between 2005 and 2025 using Current Procedural Terminology codes. Patients were stratified by documented opioid prescriptions within 2 weeks postoperatively. Individuals with prior opioid-related disorders or malignancy were excluded. Outcomes were assessed during early (1-30 d) and late (31-365 d) postoperative intervals. A total of 207,750 patients undergoing facial fracture repair were identified. This included 162,449 patients with perioperative opioid exposure and 45,301 controls. After propensity score matching, 35,869 patients remained in each cohort. During the early postoperative period, opioid exposure was associated with higher rates of overall complications (OR: 1.75, P < 0.0001), surgical site complications (OR: 2.07, P < 0.0001), infection (OR: 3.00, P < 0.0001), wound disruption (OR: 2.35, P < 0.0001), and emergency department visits or readmissions (OR: 1.67, P < 0.0001). During late follow-up, opioid exposure remained associated with higher rates of surgical site complications (OR: 1.37, P < 0.0001), infection (OR: 2.05, P < 0.0001), and wound disruption (OR: 2.10, P < 0.0001). Perioperative opioid prescriptions were associated with increased postoperative complications following facial fracture repair. These findings support continued efforts to optimize opioid-sparing analgesic strategies in patients undergoing facial trauma reconstruction.",
+      "study_methods": "A retrospective cohort study using the TriNetX Research Network identified patients undergoing facial fracture repair between 2005 and 2025 using Current Procedural Terminology codes. Patients were stratified by documented opioid prescriptions within 2 weeks postoperatively. Individuals with prior opioid-related disorders or malignancy were excluded. Outcomes were assessed during early (1-30 d) and late (31-365 d) postoperative intervals.",
+      "methods": "A retrospective cohort study using the TriNetX Research Network identified patients undergoing facial fracture repair between 2005 and 2025 using Current Procedural Terminology codes. Patients were stratified by documented opioid prescriptions within 2 weeks postoperatively. Individuals with prior opioid-related disorders or malignancy were excluded. Outcomes were assessed during early (1-30 d) and late (31-365 d) postoperative intervals.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42329110/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42332088",
+      "title": "Derivation of elephant induced pluripotent stem cells.",
+      "authors": [
+        "Evan Appleton",
+        "Nataly Korover",
+        "Kyunghee Hong",
+        "Xochitl Ambriz-Peña",
+        "Yoshiaki Tanaka",
+        "Asaf Ashkenazy-Titelman",
+        "Cody Rasmussen-Ivey",
+        "Cristina Rodríguez-Caycedo",
+        "Ketaki Bhide",
+        "Hao Bai",
+        "Ana Queiroz",
+        "Jorgen W Nelson",
+        "Grishma Rathod",
+        "Miles Morgan",
+        "Anthony Mastracci",
+        "Theodore M Nelson",
+        "Gregory Knox",
+        "Brody McNutt",
+        "Nandini Malviya",
+        "Kairui Zhang",
+        "Amanda Kowalczyk",
+        "Austin Bow",
+        "Bryan McLendon",
+        "Jaroslav Slamecka",
+        "Krista Ryon",
+        "Jackie Proszynski",
+        "Nadia Houerbi",
+        "Ashley S Kleinman",
+        "Chi-Lam Poon",
+        "Wendy Kiso",
+        "Matt James",
+        "In-Hyun Park",
+        "Charlie Gray",
+        "Virginia R Pearson",
+        "Christopher E Mason",
+        "Brandi L Cantarel",
+        "Karl R Koehler",
+        "Beth Shapiro",
+        "James Kehler",
+        "Ben Lamm",
+        "George Church",
+        "Eriona Hysolli"
+      ],
+      "publication_date": "2026-Jun-22",
+      "publication_date_iso": "2026-06-22",
+      "abstract": "Biodiversity loss in the present era requires new tools for studying nonmodel organisms. Elephants are both an endangered species and excellent models for studying complex phenotypes including size, social behavior and longevity. Here we report the first derivation of elephant (Elephas maximus) induced pluripotent stem (emiPS) cells. We achieved emiPS cells using two approaches: (1) a two-step process of chemical media induction and colony selection followed by over-expression of elephant transcription factors; and (2) a one-step process with transcription factors and HRAS mutant, HRASG12V. For both protocols, we inhibited TP53 retrogenes, which are hypothesized to confer unique cancer resistance in elephants. To confirm their reprogrammed state, we generated a functional omics catalog of emiPS cells. While these emiPS cells remain transgene-dependent, we inactivated the transgenes and differentiated emiPS cells into all three germ layers via tri-lineage differentiation, embryoid body generation and direct differentiation into putative cell types from all three layers. These methods will open new frontiers for cellular models of nonmodel organisms, including for genetic rescue and conservation.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42332088/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42330576",
+      "title": "Masseter microvascular perfusion after minimally invasive sagittal split ramus osteotomy: A long-term split-mouth study.",
+      "authors": [
+        "Mert Şahin",
+        "Canay Yılmaz Asan",
+        "Aykağan Çukurluoğlu",
+        "Melisa Oya Acar",
+        "Gökhan Çoban",
+        "Ahmet Emin Demirbaş"
+      ],
+      "publication_date": "2026-Jun-22",
+      "publication_date_iso": "2026-06-22",
+      "abstract": "Sagittal split ramus osteotomy (SSRO), a widely used mandibular procedure in orthognathic surgery, may affect the masticatory muscles through subperiosteal dissection and soft-tissue manipulation. Although minimally invasive modifications aim to reduce surgical trauma, their long-term effect on masseter muscle microvascular perfusion remains unclear. This cross-sectional observational split-mouth study compared minimally invasive SSRO (MISSRO) and conventional SSRO using superb microvascular imaging (SMI). Twenty-one patients who underwent bilateral SSRO for mandibular advancement and completed at least 18 months of follow-up were included. In each patient, the conventional Hunsuck technique was performed on one side, while MISSRO was performed on the contralateral side. Microvascular perfusion was quantified using the vascular index (VI) calculated from SMI images with ImageJ software; masseter muscle thickness was then measured on B-mode ultrasonographic images. The minimally invasive side showed significantly higher microvascular perfusion than the conventional side (VI: 13.72 ± 7.43 vs. 8.24 ± 7.33; p = 0.001), whereas masseter muscle thickness did not differ significantly between sides (9.71 ± 1.87 mm vs. 10.27 ± 1.89 mm; p = 0.052). These findings indicate higher long-term masseter microvascular perfusion on the minimally invasive side; however, in the absence of preoperative or normative reference values and of functional correlates, the clinical significance of this difference remains to be determined.",
+      "objective": "to reduce surgical trauma, their long-term effect on masseter muscle microvascular perfusion remains unclear. This cross-sectional observational split-mouth study compared minimally invasive SSRO (MISSRO) and conventional SSRO using superb microvascular imaging (SMI). Twenty-one patients who underwent bilateral SSRO for mandibular advancement and completed at least 18 months of follow-up were included. In each patient, the conventional Hunsuck technique was performed on one side, while MISSRO was performed on the contralateral side. Microvascular perfusion was quantified using the vascular index (VI) calculated from SMI images with ImageJ software; masseter muscle thickness was then measured on B-mode ultrasonographic images. The minimally invasive side showed significantly higher microvascular perfusion than the conventional side (VI: 13.72 ± 7.43 vs. 8.24 ± 7.33; p = 0.001), whereas masseter muscle thickness did not differ significantly between sides (9.71 ± 1.87 mm vs. 10.27 ± 1.89 mm; p = 0.052). These findings indicate higher long-term masseter microvascular perfusion on the minimally invasive side; however, in the absence of preoperative or normative reference values and of functional correlates, the clinical significance of this difference remains to be determined.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42330576/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42329213",
+      "title": "Oral mucosal lesions in xeroderma pigmentosum type C in Mayotte.",
+      "authors": [
+        "Marc Dumas",
+        "Antoine Willemart",
+        "Nolwenn Lepouriel",
+        "Alice Miquel",
+        "Smail Hadj-Rabia",
+        "Antoine Bertolotti"
+      ],
+      "publication_date": "2026-Jun-22",
+      "publication_date_iso": "2026-06-22",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42329213/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42324613",
+      "title": "Maxillofacial Injuries in Female Victims of Domestic Violence: A 5-Year Retrospective Analysis.",
+      "authors": [
+        "Saleh AlKadi",
+        "Areej Alqadi",
+        "Ikhlas Bani Baker",
+        "Rund Khasawneh",
+        "Manar AlTayyar",
+        "Hamza Al Salieti",
+        "Abdelrahman Alzoubi"
+      ],
+      "publication_date": "2026-Jun-21",
+      "publication_date_iso": "2026-06-21",
+      "abstract": "Maxillofacial injuries are commonly observed among women who have experienced domestic violence. The prevalence and characteristics of these injuries in Jordan remain underexplored. This study aimed to evaluate the frequency and patterns of maxillofacial injuries among females affected by domestic violence in Jordan. A total of 2643 records of domestic violence-related maxillofacial injuries in females were retrieved from the Family Protection and Juvenile Department and the Accident and Emergency (A&E) departments of two major hospitals in Jordan. Descriptive statistics were computed, and associations were evaluated using Chi-square and Kruskal-Wallis tests. Significance was set at p ≤ 0.05. The mean age at the time of injury was 29.19 years (SD: 11.8). The spouse was responsible for violent acts in 20% of cases. In 89.9% of cases, injuries were caused by direct blows. Soft tissue injuries were observed in most cases (98.1%), followed by midfacial fractures (5.6%), dentoalveolar injuries (1.7%), upper face fractures (1.2%), and lower face fractures (0.9%). The vast majority did not require surgical intervention (98.9%). Concomitant injuries to other body regions were identified in 70.6% of cases, with the upper extremities the most frequently affected (50.4%). Trauma to the upper extremities showed a significant inverse association with midfacial fractures (p < 0.001). Recurrent trauma was documented in 7.6% of cases. Individuals with recurrent trauma were more likely to present with concomitant injuries to other body regions (84.2%) than first-time trauma victims (69.5%). Facial soft-tissue injuries were the most frequent. Midfacial fractures were the most common facial fracture type, though they were rare and less likely when an upper-limb injury occurred. Repeated trauma increases the likelihood of multiple fractures, emphasizing the need for early detection, reporting, and referral by healthcare professionals including oral & maxillofacial surgeons and dental health professionals.",
+      "objective": "",
+      "study_methods": "A total of 2643 records of domestic violence-related maxillofacial injuries in females were retrieved from the Family Protection and Juvenile Department and the Accident and Emergency (A&E) departments of two major hospitals in Jordan. Descriptive statistics were computed, and associations were evaluated using Chi-square and Kruskal-Wallis tests. Significance was set at p ≤ 0.05.",
+      "methods": "A total of 2643 records of domestic violence-related maxillofacial injuries in females were retrieved from the Family Protection and Juvenile Department and the Accident and Emergency (A&E) departments of two major hospitals in Jordan. Descriptive statistics were computed, and associations were evaluated using Chi-square and Kruskal-Wallis tests. Significance was set at p ≤ 0.05.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324613/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42324024",
       "title": "Towards an Integrative Understanding of the Human Temporalis Muscle: Anatomical, Histological, and Imaging Evidence.",
       "authors": [
@@ -2769,61 +3021,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42320261",
-      "title": "The Impact of Dental Prostheses in Patients With Cardiovascular Disease: A Scoping Review With Exploratory Analysis.",
-      "authors": [
-        "Monika Werdiningsih",
-        "En-Chih Weng",
-        "Yoko Hasegawa",
-        "Ma Therese Sta Maria",
-        "Kazuhiro Hori",
-        "Yasuyuki Nagasawa",
-        "Ken Shinmura"
-      ],
-      "publication_date": "2026-Jun-19",
-      "publication_date_iso": "2026-06-19",
-      "abstract": "Dental prostheses not only restore oral function but may also impact systemic health outcomes. This scoping review sought to synthesize evidence on the association between dental prostheses, hypertension, and physical function, including frailty, in adults with established cardiovascular disease (CVD) or elevated cardiovascular risk. This review was conducted following the PRISMA-ScR guidelines and Joanna Briggs Institute methodology. Literature searches were performed in PubMed and Google Scholar up to November 10, 2024. Eligible studies were observational investigations involving adults with established CVD or elevated cardiovascular risk who used dental prostheses. An exploratory quantitative approach was used to summarize the direction and patterns of association. Seven studies met the inclusion criteria: 5 assessed hypertension and 2 examined physical function. Exploratory pooled analysis based on unadjusted data indicated that individuals with dental prostheses had a lower odds of hypertension (odds ratio = 0.69; 95% confidence interval, 0.52-0.91), although substantial heterogeneity (I² = 95%) and the use of unadjusted estimates imply a high risk of residual confounding. Limited evidence suggests that dental prosthesis use may help preserve mobility and mitigate frailty in patients with CVD; however, differences in frailty definitions and limited adjustment for confounding factors reduce comparability and indicate that these findings should be interpreted as exploratory and hypothesis-generating. Current evidence suggests that dental prosthesis use may offer benefits beyond oral rehabilitation, potentially linked to better hypertension-related outcomes and physical function in adults with CVD or elevated cardiovascular risk, but certainty is limited by the small number of studies and methodological heterogeneity. These exploratory, hypothesis-generating findings highlight the need for well-designed longitudinal studies to clarify potential associations and underlying mechanisms. Beyond restoring oral function, prosthodontic rehabilitation may have broader systemic implications, contributing to better cardiovascular-related outcomes in aging populations.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42320261/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42319891",
-      "title": "Dual-Circle: a new way of assessing Temporomandibular joint (TMJ) disc position at coronal MRI.",
-      "authors": [
-        "Wei Zhang",
-        "Jianfeng Sun",
-        "Zhu Liu",
-        "Yuhongkang Li",
-        "Jing Guo",
-        "Chi Yang"
-      ],
-      "publication_date": "2026-Jun-19",
-      "publication_date_iso": "2026-06-19",
-      "abstract": "Temporomandibular disorders (TMD) are frequently associated with internal derangement (ID) of the temporomandibular joint (TMJ), and MRI is the gold standard for diagnosis. However, most studies focus on sagittal disc position, neglecting coronal mediolateral displacement, while traditional quantitative methods have limitations. This study aimed to validate a novel dual-circle method for assessing coronal mediolateral disc displacement. Thirty-eight asymptomatic volunteers (76 TMJs) underwent 3.0 T MRI. Two observers measured mediolateral displacement using both the classical schmitter method and the dual-circle method. Inter-observer reliability was evaluated via ICC and Cronbach's α, with correlation and diagnostic efficacy analyzed using Spearman's coefficient and McNemar's test. Results showed the dual-circle method detected 15 (19.7%) disc displacements versus 7 (9.2%) via the conventional method, with significantly higher sensitivity (P < 0.05). Measurements of the two methods were strongly positively correlated (r = 0.868, P < 0.05). All dual-circle parameters achieved excellent inter-observer reliability (ICC = 0.715-0.965), markedly superior to the conventional method (partial ICC = 0.525) with better consistency. The dual-circle method offers intuitive, accurate quantification of mediolateral disc displacement, reducing misdiagnoses. It is recommended as a practical option for coronal MRI analysis of TMJ disc position, with the potential to optimize TMD diagnosis and advance understanding of the morphological diversity of the TMJ disc.",
-      "objective": "",
-      "study_methods": "Thirty-eight asymptomatic volunteers (76 TMJs) underwent 3.0 T MRI. Two observers measured mediolateral displacement using both the classical schmitter method and the dual-circle method. Inter-observer reliability was evaluated via ICC and Cronbach's α, with correlation and diagnostic efficacy analyzed using Spearman's coefficient and McNemar's test.",
-      "methods": "Thirty-eight asymptomatic volunteers (76 TMJs) underwent 3.0 T MRI. Two observers measured mediolateral displacement using both the classical schmitter method and the dual-circle method. Inter-observer reliability was evaluated via ICC and Cronbach's α, with correlation and diagnostic efficacy analyzed using Spearman's coefficient and McNemar's test.",
-      "results": "showed the dual-circle method detected 15 (19.7%) disc displacements versus 7 (9.2%) via the conventional method, with significantly higher sensitivity (P < 0.05). Measurements of the two methods were strongly positively correlated (r = 0.868, P < 0.05). All dual-circle parameters achieved excellent inter-observer reliability (ICC = 0.715-0.965), markedly superior to the conventional method (partial ICC = 0.525) with better consistency. The dual-circle method offers intuitive, accurate quantification of mediolateral disc displacement, reducing misdiagnoses. It is recommended as a practical option for coronal MRI analysis of TMJ disc position, with the potential to optimize TMD diagnosis and advance understanding of the morphological diversity of the TMJ disc.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42319891/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42214412",
       "title": "Interlayer-aware postoperative facial appearance prediction in orthognathic surgery with bio-geometric guidance.",
       "authors": [
@@ -2849,51 +3046,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42214412/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42320903",
-      "title": "Orofacial pain beyond trigeminal neuralgia.",
-      "authors": [
-        "Tara Renton"
-      ],
-      "publication_date": "2026-Jun-18",
-      "publication_date_iso": "2026-06-18",
-      "abstract": "Orofacial pain is complex and can arise from over 160 conditions. It can significantly impact patients both psychosocially and functionally, reflecting the importance of the trigeminal nerve neurobiology. The high misdiagnosis rates are often blamed on siloed training, resulting in delayed diagnosis and patient harm. Dental pain (the most common form of orofacial pain) can vary in its presentation depending on the stage of dental abscess formation, resulting in misdiagnosis of headaches and trigeminal neuralgia. Trigeminal neuralgia is the rarest form of orofacial pain. Other conditions including temporomandibular joint disorders and post-traumatic neuropathic pain related to dental interventions are far more common but often overlooked. This review aims to break down this siloed approach and highlight the more common conditions that present with paroxysmal, elicited or spontaneous allodynia/neuralgia within the trigeminal system, conditions that should be considered before diagnosing a patient with trigeminal neuralgia.",
-      "objective": "to break down this siloed approach and highlight the more common conditions that present with paroxysmal, elicited or spontaneous allodynia/neuralgia within the trigeminal system, conditions that should be considered before diagnosing a patient with trigeminal neuralgia.",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in delayed diagnosis and patient harm. Dental pain (the most common form of orofacial pain) can vary in its presentation depending on the stage of dental abscess formation, resulting in misdiagnosis of headaches and trigeminal neuralgia. Trigeminal neuralgia is the rarest form of orofacial pain. Other conditions including temporomandibular joint disorders and post-traumatic neuropathic pain related to dental interventions are far more common but often overlooked. This review aims to break down this siloed approach and highlight the more common conditions that present with paroxysmal, elicited or spontaneous allodynia/neuralgia within the trigeminal system, conditions that should be considered before diagnosing a patient with trigeminal neuralgia.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42320903/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42316219",
-      "title": "Dental implant rehabilitation in a patient with primary hyperoxaluria type 1: a 14-month case report.",
-      "authors": [
-        "Abdalla R Sulaiman",
-        "Ghassan E Bassit"
-      ],
-      "publication_date": "2026-Jun-18",
-      "publication_date_iso": "2026-06-18",
-      "abstract": "Primary Hyperoxaluria Type 1 (PH1) is a rare metabolic disorder characterized by systemic oxalate deposition, which may influence bone metabolism through mechanisms such as oxalate accumulation in alveolar bone, renal osteodystrophy, and the long‑term effects of immunosuppressive therapy following transplantation. In the present case, conventional prosthetic options were unsuitable due to external root resorption and the poor prognosis of the remaining dentition. This report describes implant‑supported oral rehabilitation in a medically complex patient with PH1 and a history of combined liver-kidney transplantation and multiple systemic comorbidities. Dental implant therapy was selected following comprehensive clinical and radiographic assessment. At six months, resonance frequency analysis demonstrated secondary stability with ISQ values of 75 (right) and 74 (left). Clinical and radiographic evaluation at 14 months showed stable peri‑implant conditions without detectable complications. This case suggests that implant therapy may be feasible in selected patients with PH1 when thorough risk assessment, individualized planning, and close postoperative monitoring are ensured. However, the findings are limited by the single‑case design and relatively short follow‑up period, and should be interpreted as hypothesis‑generating rather than conclusive evidence regarding long‑term implant outcomes in this population.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42316219/",
       "pmcid": "",
       "figure_urls": []
     },
