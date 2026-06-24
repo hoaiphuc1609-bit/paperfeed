@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T06:13:01Z",
+  "updated_at": "2026-06-24T06:11:40Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -34,7 +34,7 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42316890/",
-      "pmcid": "",
+      "pmcid": "PMC13285645",
       "figure_urls": []
     },
     {
@@ -2090,6 +2090,36 @@
       "figure_urls": []
     },
     {
+      "pmid": "41975127",
+      "title": "A case of pseudoaneurysm of the descending palatine artery after orthognathic surgery.",
+      "authors": [
+        "Yuta Kanno",
+        "Shigeru Yamano",
+        "Tomoka Shima",
+        "Akiko Takeuchi",
+        "Hiroyuki Kameda",
+        "Masaaki Suzuka",
+        "Nanami Iwai",
+        "Daisuke Yoshida",
+        "Kazuyuki Minowa"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Orthognathic surgery is widely performed to correct dentofacial deformities and is generally associated with a low risk of vascular complications. This report describes a case of pseudoaneurysm of the descending palatine artery following orthognathic surgery. The patient was a woman in her 50s who was diagnosed with dentofacial deformity and underwent orthognathic surgery involving both the maxilla and mandible. Postoperatively, she developed recurrent epistaxis that was difficult to control. Dynamic contrast-enhanced computed tomography and angiography were performed to identify the source of bleeding and revealed a pseudoaneurysm that was treated successfully by endovascular embolization. The etiology of bleeding after orthognathic surgery, including pseudoaneurysm formation, remains incompletely understood. In this case, substantial posterior repositioning of the maxilla was performed. Although there is a suggestion of a correlation between the extent of repositioning of bone fragments and vascular injury, this association has yet to be confirmed by large-scale studies. Preoperative computed tomography in this case also demonstrated calcification in the carotid arteries, suggesting underlying arteriosclerosis. In orthopedic surgery involving the lower limbs, iatrogenic arterial injury occurs more often in patients with atherosclerosis, implicating arterial fragility as a contributing factor. Decreased arterial elasticity as a result of atherosclerosis may increase the risk of vascular injury during orthognathic procedures. Although no definitive association has been established between atherosclerosis and vascular complications such as pseudoaneurysm, preoperative imaging findings may provide valuable information when assessing risk factors for postoperative complications.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "of atherosclerosis may increase the risk of vascular injury during orthognathic procedures. Although no definitive association has been established between atherosclerosis and vascular complications such as pseudoaneurysm, preoperative imaging findings may provide valuable information when assessing risk factors for postoperative complications.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41975127/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41966577",
       "title": "Predictors of prolonged ICU stay after bimaxillary orthognathic surgery: the role of blood loss and intraoperative fluid management. A retrospective study.",
       "authors": [
@@ -2287,6 +2317,35 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41794595/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41733774",
+      "title": "Caries imaging using T1 StarVIBE and PETRA sequences compared to normal dental work-up: a proof-of-concept study.",
+      "authors": [
+        "Gintare Burian",
+        "Jonas Stief",
+        "Tobias Greve",
+        "Ulrich Grosse",
+        "Adib Al-Haj Husain",
+        "Gustav Andreisek",
+        "Monika Probst",
+        "Egon Burian"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "To compare caries detection using T1-based Free-breathing 3D Stack of Stars GRE (StarVIBE) and T1-weighted pointwise encoding time reduction with radial acquisition (PETRA) MRI sequences with the gold standard consisting of a combination of clinical evaluation and bitewing radiography. Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions. 80 teeth were analyzed. Among these, 10 showed caries during clinical assessments and bitewing imaging, all of which were also detected on MRI. Furthermore, 5 additional lesions were identified exclusively on MRI. Overall image quality and diagnostic confidence were significantly higher in PETRA than in StarVIBE (4.7 vs. 3.9, p = 0.006). The SI for caries lesions was significantly higher in the PETRA sequence (-0.5 a.u. ± 1.5 a.u. vs. -4.2 a.u. ± 4.0 a.u., p = 0.002). Caries lesion volume was also significantly larger in PETRA (18 mm3± 14.8 mm3) compared to StarVIBE (11 mm3± 14.8 mm3, p = 0.003). CONCLUSION : MRI identified all caries lesions that were detected both clinically and through bitewing imaging, along with additional lesions exclusive to MRI. The PETRA sequence outperformed StarVIBE in quantitative caries visualization.",
+      "objective": "",
+      "study_methods": "Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions.",
+      "methods": "Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions.",
+      "results": "",
+      "conclusion": "MRI identified all caries lesions that were detected both clinically and through bitewing imaging, along with additional lesions exclusive to MRI. The PETRA sequence outperformed StarVIBE in quantitative caries visualization.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41733774/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2696,6 +2755,114 @@
       "figure_urls": []
     },
     {
+      "pmid": "42335338",
+      "title": "Surgical Ergonomics in Craniofacial Surgery: Evaluation of Surgeon Posture.",
+      "authors": [
+        "Janey Y Lee",
+        "Rachel Segal",
+        "Keeley D Newsom",
+        "Amanda Gosman",
+        "Chris M Reid",
+        "Benjamin B Massenburg"
+      ],
+      "publication_date": "2026-Jun-24",
+      "publication_date_iso": "2026-06-24",
+      "abstract": "Poor operating room ergonomics contribute significantly to musculoskeletal strain among surgeons. Craniofacial surgery presents unique ergonomic challenges due to variable operative fields, yet objective data characterizing ergonomic risk across craniofacial procedures remain limited. A prospective study was conducted at a single academic institution, measuring surgeon posture during craniofacial procedures. Surgeons at varying levels of training wore a continuous posture-monitoring device during craniofacial cases to measure cervical and thoracic alignment relative to an individualized neutral baseline. Time in upright versus non-neutral posture was recorded. Associations between posture and surgeon height, level of training, gender, and procedure type were analyzed using ANOVA and post hoc Tukey testing. Five surgeons contributed data from 48 surgical cases across 8 procedure categories, yielding 72 analyzable data points. The proportion of time in upright posture varied significantly by surgeon height and training level (P<0.05), with surgeons at shorter or taller height extremes and residents demonstrating worse posture. Gender was not significantly associated with posture (P=0.12). Overall differences among procedure types were not significant (P=0.17); however, post hoc analysis revealed significant pairwise differences. Intraoral procedures, including cleft palate repair, orthognathic surgery, and alveolar bone grafting, were associated with lower proportions of upright posture compared with external procedures such as cleft lip repair and craniosynostosis surgery. Craniofacial surgeons spend a substantial proportion of operative time in non-neutral posture, with ergonomic risk influenced by surgeon height, training level, and procedure-specific demands. Objective posture monitoring identifies high-risk scenarios and supports targeted interventions to reduce musculoskeletal injury risk.",
+      "objective": "data characterizing ergonomic risk across craniofacial procedures remain limited. A prospective study was conducted at a single academic institution, measuring surgeon posture during craniofacial procedures. Surgeons at varying levels of training wore a continuous posture-monitoring device during craniofacial cases to measure cervical and thoracic alignment relative to an individualized neutral baseline. Time in upright versus non-neutral posture was recorded. Associations between posture and surgeon height, level of training, gender, and procedure type were analyzed using ANOVA and post hoc Tukey testing. Five surgeons contributed data from 48 surgical cases across 8 procedure categories, yielding 72 analyzable data points. The proportion of time in upright posture varied significantly by surgeon height and training level (P<0.05), with surgeons at shorter or taller height extremes and residents demonstrating worse posture. Gender was not significantly associated with posture (P=0.12). Overall differences among procedure types were not significant (P=0.17); however, post hoc analysis revealed significant pairwise differences. Intraoral procedures, including cleft palate repair, orthognathic surgery, and alveolar bone grafting, were associated with lower proportions of upright posture compared with external procedures such as cleft lip repair and craniosynostosis surgery. Craniofacial surgeons spend a substantial proportion of operative time in non-neutral posture, with ergonomic risk influenced by surgeon height, training level, and procedure-specific demands. Objective posture monitoring identifies high-risk scenarios and supports targeted interventions to reduce musculoskeletal injury risk.",
+      "study_methods": "A prospective study was conducted at a single academic institution, measuring surgeon posture during craniofacial procedures. Surgeons at varying levels of training wore a continuous posture-monitoring device during craniofacial cases to measure cervical and thoracic alignment relative to an individualized neutral baseline. Time in upright versus non-neutral posture was recorded. Associations between posture and surgeon height, level of training, gender, and procedure type were analyzed using ANOVA and post hoc Tukey testing.",
+      "methods": "A prospective study was conducted at a single academic institution, measuring surgeon posture during craniofacial procedures. Surgeons at varying levels of training wore a continuous posture-monitoring device during craniofacial cases to measure cervical and thoracic alignment relative to an individualized neutral baseline. Time in upright versus non-neutral posture was recorded. Associations between posture and surgeon height, level of training, gender, and procedure type were analyzed using ANOVA and post hoc Tukey testing.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42335338/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42336005",
+      "title": "Whole exome sequencing uncovers key genetic variants in congenital tooth agenesis: an integrative omics approach.",
+      "authors": [
+        "Prashant Ranjan",
+        "Chandra Devi",
+        "Neha Verma",
+        "Rajesh Bansal",
+        "Vinay Kumar Srivastava",
+        "Rimjhim Kumari",
+        "Parimal Das"
+      ],
+      "publication_date": "2026-Jun-23",
+      "publication_date_iso": "2026-06-23",
+      "abstract": "This study investigates the genetic basis of congenital tooth agenesis (CTA) using an omics approach. Whole exome sequencing (WES) identified novel variants, which were further analyzed in combination with RNA expression data to uncover genes associated with CTA, molecular mechanisms, and systemic disease links. WES was performed on 11 samples (6 CTA patients and 5 controls) to identify pathogenic variants. Integrative approaches, including gene expression profiling, protein interaction mapping, pathway enrichment, in silico functional assessments and molecular dynamics (MD) simulations, linked genetic findings to functional outcomes. qRT-PCR was used to evaluate signaling pathway alterations, and Sanger sequencing validated key variants. 4 Known and 2 novel variants were identified in candidate genes such as EDA, WNT10A, PAX9, and TSPEAR. Novel variants in WNT10A p.(Ala135Ser) and TSPEAR p.(Leu219Pro), p.(Ile419Leu fs*150) showed functional disruption in signaling pathways. Computational analyses predicted deleterious effects on protein stability for six variants. WES identified 21 genes with variants consistently present in all patients (MAF ≤ 20%), including novel variants in OR4F21 and LCORL. Notably, OR4F21 p.(Lys310Arg) and MRTFB p.(Ala135=) were detected in all affected individuals. Integrated omics analysis revealed 18 upregulated and 15 downregulated genes associated with developmental and systemic pathways. Our findings highlight the genetic heterogeneity of congenital tooth agenesis and demonstrate the utility of integrating whole exome sequencing with multi-omics analyses to better understand the molecular basis of tooth development and identify potential genetic contributors to CTA.",
+      "objective": "",
+      "study_methods": "WES was performed on 11 samples (6 CTA patients and 5 controls) to identify pathogenic variants. Integrative approaches, including gene expression profiling, protein interaction mapping, pathway enrichment, in silico functional assessments and molecular dynamics (MD) simulations, linked genetic findings to functional outcomes. qRT-PCR was used to evaluate signaling pathway alterations, and Sanger sequencing validated key variants.",
+      "methods": "WES was performed on 11 samples (6 CTA patients and 5 controls) to identify pathogenic variants. Integrative approaches, including gene expression profiling, protein interaction mapping, pathway enrichment, in silico functional assessments and molecular dynamics (MD) simulations, linked genetic findings to functional outcomes. qRT-PCR was used to evaluate signaling pathway alterations, and Sanger sequencing validated key variants.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42336005/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42334772",
+      "title": "Injury Patterns in Soccer-Induced Maxillofacial Fractures and Ocular Trauma: A Narrative Review.",
+      "authors": [
+        "Anaas M Mergoum",
+        "Jacob Lentner",
+        "Brooke Echter",
+        "Jacob Roskam",
+        "Grant S Hamilton",
+        "James D Smith"
+      ],
+      "publication_date": "2026-Jun-23",
+      "publication_date_iso": "2026-06-23",
+      "abstract": "Maxillofacial fractures and ocular trauma are significant injuries in soccer, with potential functional, aesthetic, and visual consequences if unrecognized. Few reviews have specifically examined both injury patterns in this sport. The purpose of this narrative review is to synthesize the current literature to identify injury patterns associated with maxillofacial fractures and ocular trauma in soccer, thereby aiding clinicians in timely diagnosis and management. Given the heterogeneity and limited quality of the available evidence, this review also highlights areas where further research is needed. The zygoma was the most commonly fractured maxillofacial bone in soccer (32.8%), followed by the nasal (28.4%), mandibular (25.8%), orbital (6.5%), maxillary (3.6%), and frontal sinus (2.8%) regions. Among mandibular fractures, the angle was the most vulnerable site, accounting for 39.2% of cases. Head-to-head contact was the most frequent mechanism resulting in injury; however, although less common, arm or elbow impacts were more likely to result in fracture when they occurred. Ocular injuries most often present as orbital or eyelid contusions and lacerations (37.1%) and hyphemas (19.5%), with direct ball impact as the primary cause. Boys (60.4%-69.5%) were at greater risk than girls for ball sport-related ocular trauma, particularly those aged 2-9 years, with soccer being the leading sport implicated. Overall, these trends are based largely on small case series, reflecting the low quality of available evidence. The zygoma is the most frequently fractured maxillofacial bone, typically resulting from head-to-head collisions. Direct soccer ball impact accounts for most ocular injuries in this sport, with orbital or eyelid contusions and lacerations most common, followed by hyphemas. Pediatric players may be particularly susceptible to soccer-related ocular trauma, possibly due to an underdeveloped orbital rim. Fundoscopic examination is essential after ball impact to detect vitreoretinal injury, even when visual acuity is normal. Further well-designed studies are needed to confirm these findings.",
+      "objective": "of this narrative review is to synthesize the current literature to identify injury patterns associated with maxillofacial fractures and ocular trauma in soccer, thereby aiding clinicians in timely diagnosis and management. Given the heterogeneity and limited quality of the available evidence, this review also highlights areas where further research is needed. The zygoma was the most commonly fractured maxillofacial bone in soccer (32.8%), followed by the nasal (28.4%), mandibular (25.8%), orbital (6.5%), maxillary (3.6%), and frontal sinus (2.8%) regions. Among mandibular fractures, the angle was the most vulnerable site, accounting for 39.2% of cases. Head-to-head contact was the most frequent mechanism resulting in injury; however, although less common, arm or elbow impacts were more likely to",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing in injury; however, although less common, arm or elbow impacts were more likely to result in fracture when they occurred. Ocular injuries most often present as orbital or eyelid contusions and lacerations (37.1%) and hyphemas (19.5%), with direct ball impact as the primary cause. Boys (60.4%-69.5%) were at greater risk than girls for ball sport-related ocular trauma, particularly those aged 2-9 years, with soccer being the leading sport implicated. Overall, these trends are based largely on small case series, reflecting the low quality of available evidence. The zygoma is the most frequently fractured maxillofacial bone, typically resulting from head-to-head collisions. Direct soccer ball impact accounts for most ocular injuries in this sport, with orbital or eyelid contusions and lacerations most common, followed by hyphemas. Pediatric players may be particularly susceptible to soccer-related ocular trauma, possibly due to an underdeveloped orbital rim. Fundoscopic examination is essential after ball impact to detect vitreoretinal injury, even when visual acuity is normal. Further well-designed studies are needed to confirm these findings.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42334772/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42332679",
+      "title": "Attitudes and practices regarding preoperative psychological evaluation in orthognathic surgery: a scenario-based national survey of Turkish oral and maxillofacial surgeons.",
+      "authors": [
+        "Şeydanur Urhan Güçlü",
+        "Pelin Aydın",
+        "Murat Kaan Erdem",
+        "Mustafa Ercüment Önder",
+        "Reha Ş Kişnişci"
+      ],
+      "publication_date": "2026-Jun-23",
+      "publication_date_iso": "2026-06-23",
+      "abstract": "Orthognathic surgery is known to influence patients' psychological status and quality of life. While psychosocial outcomes have been widely investigated, limited data exist regarding oral and maxillofacial surgeons' attitudes and clinical practices related to preoperative psychological evaluation. Understanding these perspectives is important, as unrecognized psychological concerns may affect treatment adherence, outcomes, and patient satisfaction. This study aimed to assess surgeons' perspectives and reported practices regarding preoperative psychological evaluation in orthognathic surgery candidates and to identify any attitude-practice gap. Secondary aims were to evaluate variations across patient profiles using scenario-based assessments and to identify barriers influencing referral decisions. A cross-sectional, scenario-based online survey was conducted among oral and maxillofacial surgeons in Türkiye. The questionnaire included demographic items and scenario-based questions representing different clinical and psychosocial conditions, assessing both the perceived necessity and actual implementation of preoperative psychological evaluation. Descriptive statistics were used. Associations between categorical variables were analyzed using chi-square or Fisher's exact tests. Differences between perceived necessity and actual practice were evaluated using the Wilcoxon signed-rank test. Scenario-based comparisons were performed using the Friedman test with Bonferroni-adjusted post hoc analyses where appropriate. A p-value < 0.05 was considered statistically significant. Fifty-nine surgeons participated. Although most respondents (81.4%) considered preoperative psychological evaluation necessary, only 35.6% reported routinely conducting evaluations or referring patients. Among specific clinical scenarios, the highest level of support for preoperative psychological evaluation was observed in patients requesting gender transition (91.5%), although the survey did not distinguish supportive psychosocial assessment from mandatory psychiatric approval or clearance processes in these cases. High levels of support were also observed for patients presenting with unrealistic expectations (91.5%) or body dysmorphic features (86.4%), whereas support was lowest for patients with obstructive sleep apnea (27.1%) and older patients (49.2%). Perceived necessity varied significantly according to medical and surgical history (p < 0.001) but not by deformity type (p = 0.708). The most common barriers were anticipated negative patient reactions (40.7%) and limited knowledge of standardized tools (16.9%). Despite broad recognition of its importance, routine psychological evaluation remains inconsistently implemented in orthognathic surgery practice. Surgeons appeared more likely to support psychological referral in scenarios involving prominent psychosocial or identity-related concerns, whereas psychosocial considerations were less consistently emphasized in functionally indicated cases. These findings highlight the context-dependent nature of psychological referral tendencies and underscore the importance of context-sensitive multidisciplinary approaches in preoperative orthognathic care.",
+      "objective": "were to evaluate variations across patient profiles using scenario-based assessments and to identify barriers influencing referral decisions. A cross-sectional, scenario-based online survey was conducted among oral and maxillofacial surgeons in Türkiye. The questionnaire included demographic items and scenario-based questions representing different clinical and psychosocial conditions, assessing both the perceived necessity and actual implementation of preoperative psychological evaluation. Descriptive statistics were used. Associations between categorical variables were analyzed using chi-square or Fisher's exact tests. Differences between perceived necessity and actual practice were evaluated using the Wilcoxon signed-rank test. Scenario-based comparisons were performed using the Friedman test with Bonferroni-adjusted post hoc analyses where appropriate. A p-value < 0.05 was considered statistically significant. Fifty-nine surgeons participated. Although most respondents (81.4%) considered preoperative psychological evaluation necessary, only 35.6% reported routinely conducting evaluations or referring patients. Among specific clinical scenarios, the highest level of support for preoperative psychological evaluation was observed in patients requesting gender transition (91.5%), although the survey did not distinguish supportive psychosocial assessment from mandatory psychiatric approval or clearance processes in these cases. High levels of support were also observed for patients presenting with unrealistic expectations (91.5%) or body dysmorphic features (86.4%), whereas support was lowest for patients with obstructive sleep apnea (27.1%) and older patients (49.2%). Perceived necessity varied significantly according to medical and surgical history (p < 0.001) but not by deformity type (p = 0.708). The most common barriers were anticipated negative patient reactions (40.7%) and limited knowledge of standardized tools (16.9%). Despite broad recognition of its importance, routine psychological evaluation remains inconsistently implemented in orthognathic surgery practice. Surgeons appeared more likely to support psychological referral in scenarios involving prominent psychosocial or identity-related concerns, whereas psychosocial considerations were less consistently emphasized in functionally indicated cases. These findings highlight the context-dependent nature of psychological referral tendencies and underscore the importance of context-sensitive multidisciplinary approaches in preoperative orthognathic care.",
+      "study_methods": "A cross-sectional, scenario-based online survey was conducted among oral and maxillofacial surgeons in Türkiye. The questionnaire included demographic items and scenario-based questions representing different clinical and psychosocial conditions, assessing both the perceived necessity and actual implementation of preoperative psychological evaluation. Descriptive statistics were used. Associations between categorical variables were analyzed using chi-square or Fisher's exact tests. Differences between perceived necessity and actual practice were evaluated using the Wilcoxon signed-rank test. Scenario-based comparisons were performed using the Friedman test with Bonferroni-adjusted post hoc analyses where appropriate. A p-value < 0.05 was considered statistically significant.",
+      "methods": "A cross-sectional, scenario-based online survey was conducted among oral and maxillofacial surgeons in Türkiye. The questionnaire included demographic items and scenario-based questions representing different clinical and psychosocial conditions, assessing both the perceived necessity and actual implementation of preoperative psychological evaluation. Descriptive statistics were used. Associations between categorical variables were analyzed using chi-square or Fisher's exact tests. Differences between perceived necessity and actual practice were evaluated using the Wilcoxon signed-rank test. Scenario-based comparisons were performed using the Friedman test with Bonferroni-adjusted post hoc analyses where appropriate. A p-value < 0.05 was considered statistically significant.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42332679/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42329110",
       "title": "Perioperative Opioid Exposure and Postoperative Complications Following Facial Fracture Repair: A Propensity-Matched Analysis of 71,738 Patients.",
       "authors": [
@@ -2895,55 +3062,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42322584",
-      "title": "upsFISH: An Occupancy-Reporting Fluorescence In Situ Hybridization Method for Single-Cell Detection of Chromatin Interactions.",
-      "authors": [
-        "Yifen Shen",
-        "Liang Chen",
-        "Xiaosong Li",
-        "Le Zhang",
-        "Wenbin Wei",
-        "Yihang Shen"
-      ],
-      "publication_date": "2026-Jun-20",
-      "publication_date_iso": "2026-06-20",
-      "abstract": "Understanding chromatin interactions is fundamental to gene regulation; however, existing approaches rely on spatial distance measurements or population-averaged contact frequencies, limiting their ability to directly report regulatory engagement at single-cell resolution. Here, we present ultraproximal specificity FISH (upsFISH), an occupancy-reporting fluorescence in situ hybridization method that detects chromatin interaction states through probe occupancy rather than spatial proximity. upsFISH employs a dual-arm primary probe targeting two genomic elements, together with secondary probes that bind unoccupied probe arms, generating combinatorial fluorescence signals that provide a binary, resolution-independent readout in single cells. Using the β-globin locus as a model, we show that upsFISH accurately detects enhancer-promoter interactions with high sequence specificity, including sensitivity to transcription factor binding motifs. Genetic and pharmacological perturbations demonstrate that upsFISH captures biologically meaningful changes in chromatin interactions and resolves allele-specific and cell-to-cell heterogeneity. Comparative analyses indicate that upsFISH outperforms conventional DNA FISH and micro-4C in detecting short-range regulatory interactions, although its advantage decreases with increasing genomic distance. Together, upsFISH establishes an occupancy-based framework for studying chromatin interactions in single cells.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42322584/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42321528",
-      "title": "Improving healing after surgical extraction of partially impacted lower third molar by modification of three sided flap: a clinical pilot study.",
-      "authors": [
-        "Suha Abdulateef Aloosi"
-      ],
-      "publication_date": "2026-Jun-20",
-      "publication_date_iso": "2026-06-20",
-      "abstract": "Sulcular deepitheliazation (SD) means the formation, maintenance, and regeneration of the thin, non-keratinized epithelial lining (sulcular epithelium) that covers the soft tissue wall of the gingival sulcus. SD is a critical, rapid healing process following periodontal surgery, where epithelial cells migrate to cover denuded connective tissue and re-establish a barrier against bacteria. To assess the healing outcomes of SD during the extraction of partially impacted mandibular third molars. This clinical pilot study enrolled forty patients at the Oral Surgery Clinic, College of Dentistry, University of Sulaimani, Sulaimaniyah, Iraq, from January 2024 to June 2025. Participants were randomly assigned to a control group treated with a modified three-sided flap (n = 20) or a study group receiving additional SD (n = 20), as an approach for surgical extraction of partially erupted lower third molars. Then, surgical difficulties were assessed, postoperative care was recommended, and postoperative assessments (pain, mouth opening, facial swelling, and soft-tissue healing) were evaluated using different protocols. Finally, the correlations between different variables were determined and compared. SD did not significantly affect postoperative pain, swelling, trismus, or mouth opening, but eliminated dry socket, impaired healing, and second-molar sensitivity, which occurred in the control group at rates of 10%, 15%, and 25%, respectively. Postoperative pain correlated significantly with tooth splitting (p = 0.000) and difficulty score (p = 0.001), while limitation of mouth opening was associated with tooth splitting (p = 0.001). SD can improve soft-tissue healing and might prevent socket-related complications, whereas postoperative morbidity is mainly driven by surgical difficulty.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42321528/",
-      "pmcid": "PMC13282430",
-      "figure_urls": []
-    },
-    {
       "pmid": "42321121",
       "title": "Transformative comprehensive functional and esthetic rehabilitation of amelogenesis imperfecta: An interdisciplinary approach.",
       "authors": [
@@ -3124,60 +3242,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42302387/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42303228",
-      "title": "Impact of CBCT-Assessed Mandibular Anatomy on Neurosensory Disturbance Following Sagittal Split Osteotomy.",
-      "authors": [
-        "Tuncer Akdogan",
-        "Ufuk Tatli",
-        "Mehmet Emre Benlidayi",
-        "Huseyin Can Tukel"
-      ],
-      "publication_date": "2026-Jun-16",
-      "publication_date_iso": "2026-06-16",
-      "abstract": "This study aimed to evaluate whether specific mandibular anatomical features are associated with postoperative neurosensory disturbance (NSD) in patients undergoing sagittal split osteotomy (SSO) and to identify cone-beam computed tomography (CBCT)-based measurements that may improve preoperative risk assessment. Preoperative CBCT scans and patient-related variables, including demographic characteristics, type of deformity, side, fixation method, and third molar status, were retrospectively evaluated in patients who underwent SSO between 2016 and 2022. Measurements between the mandibular canal and key anatomical landmarks related to SSO were obtained. Neurosensory disturbance of the inferior alveolar nerve (IAN) was assessed using clinical sensory tests and patient-reported assessments. Outcomes were compared between patients with and without NSD. A total of 52 patients (35 women and 17 men; mean age, 24.2 ± 6.1 years) were included. In univariate analysis, female sex was associated with a higher frequency of NSD. The distance between the lingula and sigmoid notch, total bone thickness inferior to the canal, and cancellous bone thickness buccal to the canal at the mesial aspect of the second molar were significantly shorter in patients with NSD. At the distal aspect of the second molar, total bone thickness buccal and inferior to the mandibular canal, as well as cancellous bone thickness inferior to the canal, were also significantly reduced. However, none of these variables remained significant in multivariate analysis. Although no independent predictive factor for NSD was identified, female sex and reduced mandibular canal-related bone dimensions may be associated with a higher incidence of postoperative NSD. Preoperative CBCT evaluation of these parameters may support surgical planning and help reduce the risk of inferior alveolar nerve injury.",
-      "objective": "",
-      "study_methods": "Preoperative CBCT scans and patient-related variables, including demographic characteristics, type of deformity, side, fixation method, and third molar status, were retrospectively evaluated in patients who underwent SSO between 2016 and 2022. Measurements between the mandibular canal and key anatomical landmarks related to SSO were obtained. Neurosensory disturbance of the inferior alveolar nerve (IAN) was assessed using clinical sensory tests and patient-reported assessments. Outcomes were compared between patients with and without NSD.",
-      "methods": "Preoperative CBCT scans and patient-related variables, including demographic characteristics, type of deformity, side, fixation method, and third molar status, were retrospectively evaluated in patients who underwent SSO between 2016 and 2022. Measurements between the mandibular canal and key anatomical landmarks related to SSO were obtained. Neurosensory disturbance of the inferior alveolar nerve (IAN) was assessed using clinical sensory tests and patient-reported assessments. Outcomes were compared between patients with and without NSD.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42303228/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42301259",
-      "title": "Functional analysis of masticatory muscles after intraoral proportional condylectomy.",
-      "authors": [
-        "Orion Luiz Haas Junior",
-        "Jaqueline Colaço",
-        "Rubens Martins Bastos",
-        "Adaia Valls-Ontañón",
-        "Federico Hernández-Alfaro",
-        "Bibiana Mello da Rosa",
-        "Rogério Belle de Oliveira",
-        "Rafael Reimann Baptista"
-      ],
-      "publication_date": "2026-Jun-16",
-      "publication_date_iso": "2026-06-16",
-      "abstract": "To evaluate muscle activity during maximum voluntary clenching (MVC) in patients treated with intraoral proportional condylectomy and minimally invasive orthognathic surgery, assessing neuromuscular balance between operated and contralateral sides. Thirteen patients (11 women; mean age 28.2 ± 5.23 years) were evaluated. Electromyographic activity of the masseter and anterior temporalis muscles was recorded using the Teethan® system during MVC. Asymmetry, POC, impact, and global indices were analyzed. Maximum mouth opening was measured, and sides were compared using paired t-tests (p < .05). Mean maximum mouth opening was 39.6 ± 4.05 mm, with a median follow-up of 2 years. No significant differences were found between sides for anterior temporalis (23.69 ± 3.01 vs 25.37 ± 2.60; p = .161) or masseter activity (25.52 ± 4.11 vs 25.26 ± 3.22; p = .887). The global index was 85.90 ± 3.43 and asymmetry index 0.17 ± 8.04. This combined approach preserved neuromuscular balance during MVC, supporting its role as a functionally conservative treatment.",
-      "objective": "",
-      "study_methods": "Thirteen patients (11 women; mean age 28.2 ± 5.23 years) were evaluated. Electromyographic activity of the masseter and anterior temporalis muscles was recorded using the Teethan® system during MVC. Asymmetry, POC, impact, and global indices were analyzed. Maximum mouth opening was measured, and sides were compared using paired t-tests (p < .05).",
-      "methods": "Thirteen patients (11 women; mean age 28.2 ± 5.23 years) were evaluated. Electromyographic activity of the masseter and anterior temporalis muscles was recorded using the Teethan® system during MVC. Asymmetry, POC, impact, and global indices were analyzed. Maximum mouth opening was measured, and sides were compared using paired t-tests (p < .05).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42301259/",
       "pmcid": "",
       "figure_urls": []
     }
