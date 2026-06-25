@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T06:11:40Z",
+  "updated_at": "2026-06-25T06:13:03Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -893,7 +893,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42290666/",
       "pmcid": "PMC13263681",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13263681/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13263681/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13263681/bin/gr3.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13263681/bin/gr4.jpg"
+      ]
     },
     {
       "pmid": "42253858",
@@ -1574,6 +1579,50 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41335106/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42340837",
+      "title": "Advancing the Science, Timing, and Long-Term Impact of Cleft and Craniofacial Care.",
+      "authors": [
+        "Jesse A Taylor"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42340837/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42340831",
+      "title": "Discussion: Maxilla First versus Mandible First in 2-Jaw Orthognathic Surgery: Determining Factors and Outcomes.",
+      "authors": [
+        "Demetrius M Coombs"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42340831/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2586,6 +2635,35 @@
       "figure_urls": []
     },
     {
+      "pmid": "41400369",
+      "title": "The APERT Severity Scale: A Quantitative Tool for Risk Stratification in Apert Syndrome.",
+      "authors": [
+        "Allison C Hu",
+        "Philip D Tolley",
+        "Nicholas A Han",
+        "Isabel A Ryan",
+        "Eric C Liao",
+        "Jordan W Swanson",
+        "Scott P Bartlett",
+        "Jesse A Taylor"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Apert syndrome is a rare congenital disorder characterized by craniosynostosis, midface hypoplasia, and syndactyly. The multisystem complexity and lack of standardized surgical guidelines complicate diagnosis and treatment. This study introduces a quantitative severity scale for Apert syndrome to support objective risk stratification and personalized care. The authors retrospectively reviewed children with Apert syndrome who were at least 11 years of age and treated from 1988 through 2024. A 5-domain severity scale based on literature review and clinical data was developed. Scoring was performed using preoperative photographs and documentation. Of 65 identified patients, 37 (56.9%) met inclusion criteria. The mean follow-up age was 17.0 ± 5.0 years, with an average of 4.4 ± 2.2 craniofacial surgical procedures. Patients were scored from 1 (least severe) to 3 (most severe) in 5 domains: airway compromise, pressure (intracranial), eyes, retrusion of midface, and turribrachycephaly (APERT), with total scores ranging from 5 to 15. Severity categories were defined as mild (5 to 7), moderate (8 to 11), or severe (12 to 15). Fifteen patients (40.5%) had mild disease, 20 (54.1%) moderate, and 2 (5.4%) severe, with a mean score of 8.1 ± 1.8. Higher APERT scores correlated with increased surgical frequency ( r = 0.851; P < 0.001). Subscores in airway, pressure, eyes, and skull shape were also predictive. A score of 9 or greater predicted 6 or more surgical procedures with 100% sensitivity and 86.7% specificity. The APERT score is the first quantitative classification of Apert syndrome severity, correlating with phenotypic burden and surgical volume. The APERT score may improve clinical communication, institutional comparisons, and risk-based treatment planning.",
+      "objective": "risk stratification and personalized care. The authors retrospectively reviewed children with Apert syndrome who were at least 11 years of age and treated from 1988 through 2024. A 5-domain severity scale based on literature review and clinical data was developed. Scoring was performed using preoperative photographs and documentation. Of 65 identified patients, 37 (56.9%) met inclusion criteria. The mean follow-up age was 17.0 ± 5.0 years, with an average of 4.4 ± 2.2 craniofacial surgical procedures. Patients were scored from 1 (least severe) to 3 (most severe) in 5 domains: airway compromise, pressure (intracranial), eyes, retrusion of midface, and turribrachycephaly (APERT), with total scores ranging from 5 to 15. Severity categories were defined as mild (5 to 7), moderate (8 to 11), or severe (12 to 15). Fifteen patients (40.5%) had mild disease, 20 (54.1%) moderate, and 2 (5.4%) severe, with a mean score of 8.1 ± 1.8. Higher APERT scores correlated with increased surgical frequency ( r = 0.851; P < 0.001). Subscores in airway, pressure, eyes, and skull shape were also predictive. A score of 9 or greater predicted 6 or more surgical procedures with 100% sensitivity and 86.7% specificity. The APERT score is the first quantitative classification of Apert syndrome severity, correlating with phenotypic burden and surgical volume. The APERT score may improve clinical communication, institutional comparisons, and risk-based treatment planning.",
+      "study_methods": "The authors retrospectively reviewed children with Apert syndrome who were at least 11 years of age and treated from 1988 through 2024. A 5-domain severity scale based on literature review and clinical data was developed. Scoring was performed using preoperative photographs and documentation.",
+      "methods": "The authors retrospectively reviewed children with Apert syndrome who were at least 11 years of age and treated from 1988 through 2024. A 5-domain severity scale based on literature review and clinical data was developed. Scoring was performed using preoperative photographs and documentation.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41400369/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41283567",
       "title": "JOSAQ: Development and Delphi-Vignette evaluation of a craniofacial-focused screening tool for obstructive sleep apnoea in oral and maxillofacial surgery.",
       "authors": [
@@ -2604,6 +2682,62 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41283567/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41264803",
+      "title": "The S-Flap Modification: A Short-Scar Reduction Mammaplasty.",
+      "authors": [
+        "Daniel Hilewitz",
+        "Oren Ganor",
+        "Neta Adler",
+        "Asaf Olshinka",
+        "Dafna Shilo Yaacobi",
+        "Itay Chen",
+        "Tamir Shay",
+        "Yehiel Hayun",
+        "Dean Ad-El",
+        "Sagit Meshulam-Derazon"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Despite the documented advantages of short-scar reduction mammaplasty, its broad applicability remains debated. Critics argue that it does not manage lower-pole skin excess as effectively as the T-scar technique. The S-flap modification of the Hall-Findlay technique potentially retains the advantages of the short scar while providing a stabler lower pole. Out of 147 single-surgeon consecutive cases operated on between 2016 and 2022, 58 (39.5%) completed at least 1 year of follow-up and answered a reduction mammaplasty BREAST-Q. They were divided into 3 groups: vertical scar, J scar, and S scar. The S-scar modification was analyzed in relation to the previously used vertical and J-scar techniques. The S-scar group was characterized by a significantly ( P = 0.002) higher mean resection weight (456 ± 226 g) versus the vertical scar group (317 ± 158 g), longer preoperative nipple-intramammary fold (IMF) distance (20 ± 3 cm) than the V-scar and J-scar groups (both 16 ± 2 cm), and shorter follow-up time (57 ± 3 weeks versus 128 ± 80 and 110 ± 55 weeks, respectively). Long-term improvement rates in nipple-IMF distance in the J-scar, V-scar, and S-scar groups were 12.44% ± 13.08%, 13.01% ± 13.63%, and 21.83% ± 8.8%, respectively ( P = 0.003). BREAST-Q scores across all measures ranged from 72.35 to 98.63, with no significant differences among the groups, except for general outcome and information criteria, which were higher in the S-scar group ( P = 0.001 for both). The S-flap modification maintains short-scar advantages in terms of shape, projection, and lower pole stability, as reflected by a shorter nipple-IMF distance and a better general outcome score. Studies with a follow-up period exceeding 1 year and a larger cohort are needed.",
+      "objective": "",
+      "study_methods": "Out of 147 single-surgeon consecutive cases operated on between 2016 and 2022, 58 (39.5%) completed at least 1 year of follow-up and answered a reduction mammaplasty BREAST-Q. They were divided into 3 groups: vertical scar, J scar, and S scar. The S-scar modification was analyzed in relation to the previously used vertical and J-scar techniques.",
+      "methods": "Out of 147 single-surgeon consecutive cases operated on between 2016 and 2022, 58 (39.5%) completed at least 1 year of follow-up and answered a reduction mammaplasty BREAST-Q. They were divided into 3 groups: vertical scar, J scar, and S scar. The S-scar modification was analyzed in relation to the previously used vertical and J-scar techniques.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41264803/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41217364",
+      "title": "Maxilla First versus Mandible First in 2-Jaw Orthognathic Surgery: Determining Factors and Outcomes.",
+      "authors": [
+        "Michika Fukui",
+        "Chuan-Fong Yao",
+        "Sambovithyea Mam",
+        "Lun-Jou Lo"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "The choice between maxilla first or mandible first in the double-splint method for orthognathic surgery remains controversial. There is little comprehensive analysis regarding the factors that affect sequence selection, subsequent accuracy, and stability outcomes. This retrospective study was conducted on patients with jaw deformities who underwent orthognathic surgery at our center from 2020 through 2024. Inclusion criteria were preoperative simulation using 3-dimensional software and either maxilla-first or mandible-first procedures. Exclusion criteria were single-jaw surgery and incomplete data. Data pertaining to patients' anatomical characteristics and surgical plans were collected. Statistical analysis was performed to identify factors influencing the choice of sequencing. Preoperative plans and cephalometric comparisons of the immediate and long-term postoperative stages were used to evaluate accuracy and stability. A total of 308 patients were included, with 232 undergoing maxilla-first and 76 undergoing mandible-first sequences. Mandible-first sequences were determined by factors such as vertical maxillary lengthening procedure (odds ratio [OR], 42.03), obstructive sleep apnea (OR, 25.7), counterclockwise pitch rotation (OR, 13.74), cleft (OR, 5.89), segmental Le Fort I (OR, 3.21), and asymmetry (OR, 2.58). In the subgroup analysis, the degree of intermediate mandibular autorotation on virtual surgical planning was correlated with the planned pitch rotation. However, this was significantly reduced when the surgical sequence was reversed. Sagittal movement of the maxilla was more accurate with the maxilla-first sequence. Stability was similar for both sequencing approaches. Surgical sequence selection was influenced by a combination of anatomical and planning factors. Virtual surgical planning played an important role in sequence determination. Both sequences achieved acceptable accuracy and stability.",
+      "objective": "",
+      "study_methods": "This retrospective study was conducted on patients with jaw deformities who underwent orthognathic surgery at our center from 2020 through 2024. Inclusion criteria were preoperative simulation using 3-dimensional software and either maxilla-first or mandible-first procedures. Exclusion criteria were single-jaw surgery and incomplete data. Data pertaining to patients' anatomical characteristics and surgical plans were collected. Statistical analysis was performed to identify factors influencing the choice of sequencing. Preoperative plans and cephalometric comparisons of the immediate and long-term postoperative stages were used to evaluate accuracy and stability.",
+      "methods": "This retrospective study was conducted on patients with jaw deformities who underwent orthognathic surgery at our center from 2020 through 2024. Inclusion criteria were preoperative simulation using 3-dimensional software and either maxilla-first or mandible-first procedures. Exclusion criteria were single-jaw surgery and incomplete data. Data pertaining to patients' anatomical characteristics and surgical plans were collected. Statistical analysis was performed to identify factors influencing the choice of sequencing. Preoperative plans and cephalometric comparisons of the immediate and long-term postoperative stages were used to evaluate accuracy and stability.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41217364/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2755,6 +2889,66 @@
       "figure_urls": []
     },
     {
+      "pmid": "42340570",
+      "title": "Immunohistochemical Expression of CK13 and Molecular Analysis of KRT13 and APC in Odontogenic Ghost Cell Lesions, Adenoid Ameloblastoma, and Conventional Ameloblastoma.",
+      "authors": [
+        "Lucas Fabian Polti",
+        "Juan Manuel Arteaga Legarrea",
+        "Estefanía Sicco",
+        "Felipe Martins Silveira",
+        "Lauren Frenzel Schuch",
+        "Vanesa Pereira Prado",
+        "Ronell Bologna Molina",
+        "María Luisa Paparella",
+        "Fernanda Faria Rocha",
+        "Marina Gonçalves Diniz",
+        "Ricardo Santiago Gomez",
+        "Silvia Ferreira de Sousa",
+        "Felipe Paiva Fonseca"
+      ],
+      "publication_date": "2026-Jun-24",
+      "publication_date_iso": "2026-06-24",
+      "abstract": "The aim of this study was to evaluate the immunohistochemical expression of CK13 and specific mutations in KRT13 and APC genes in cases of calcifying odontogenic cyst (COC), dentinogenic ghost cell tumor (DGCT), adenoid ameloblastoma (AA), and conventional ameloblastoma (CA). Twenty-nine cases (22 COC, 2 DGCT, 1 AA, and 4 CA) were collected from two diagnostic centers. Immunohistochemical analysis of CK13 expression and polymerase chain reaction (PCR)-based molecular investigation of specific mutations (APC E1080* and KRT13 M239V and Y281H) were performed. CK13 expression in COC was observed in the suprabasal/superficial layers of the cystic epithelium in 14 cases-64%; ghost cells showed positivity in 12 cases-54%. DGCT cases were negative in the epithelial proliferation but positive in ghost cells. The AA case was negative. Three CA cases demonstrated positivity in suprabasal/central cells. None of the cases harbored the investigated mutations. However, the intronic polymorphism KRT13 c.735 + 10A > G (dbSNP rs7211235) was identified in 16 COC cases, one DGCT case, one AA case, and one CA case, whereas KRT13 c.735 + 6C > T (dbSNP rs181122697) was detected in one COC case. Additionally, one case harbored a previously unreported silent/synonymous mutation, KRT13 c.690G > A (p.E230E), of unknown significance. CK13 expression in COC and CA suggests squamous differentiation of odontogenic epithelium. The detected KRT13 genetic variations are probably not associated with tumorigenic mechanisms in COC, DGCT, AA, and CA. The APC E1080* mutation was not identified in any of the entities included in the present study. Further studies are therefore required to more precisely define the genetic profile of these entities and, particularly, to clarify the potential biological relationship between dentinogenic ghost cell tumor and adenoid ameloblastoma.",
+      "objective": "of this study was to evaluate the immunohistochemical expression of CK13 and specific mutations in KRT13 and APC genes in cases of calcifying odontogenic cyst (COC), dentinogenic ghost cell tumor (DGCT), adenoid ameloblastoma (AA), and conventional ameloblastoma (CA). Twenty-nine cases (22 COC, 2 DGCT, 1 AA, and 4 CA) were collected from two diagnostic centers. Immunohistochemical analysis of CK13 expression and polymerase chain reaction (PCR)-based molecular investigation of specific mutations (APC E1080* and KRT13 M239V and Y281H) were performed. CK13 expression in COC was observed in the suprabasal/superficial layers of the cystic epithelium in 14 cases-64%; ghost cells showed positivity in 12 cases-54%. DGCT cases were negative in the epithelial proliferation but positive in ghost cells. The AA case was negative. Three CA cases demonstrated positivity in suprabasal/central cells. None of the cases harbored the investigated mutations. However, the intronic polymorphism KRT13 c.735 + 10A > G (dbSNP rs7211235) was identified in 16 COC cases, one DGCT case, one AA case, and one CA case, whereas KRT13 c.735 + 6C > T (dbSNP rs181122697) was detected in one COC case. Additionally, one case harbored a previously unreported silent/synonymous mutation, KRT13 c.690G > A (p.E230E), of unknown significance. CK13 expression in COC and CA suggests squamous differentiation of odontogenic epithelium. The detected KRT13 genetic variations are probably not associated with tumorigenic mechanisms in COC, DGCT, AA, and CA. The APC E1080* mutation was not identified in any of the entities included in the present study. Further studies are therefore required to more precisely define the genetic profile of these entities and, particularly, to clarify the potential biological relationship between dentinogenic ghost cell tumor and adenoid ameloblastoma.",
+      "study_methods": "Twenty-nine cases (22 COC, 2 DGCT, 1 AA, and 4 CA) were collected from two diagnostic centers. Immunohistochemical analysis of CK13 expression and polymerase chain reaction (PCR)-based molecular investigation of specific mutations (APC E1080* and KRT13 M239V and Y281H) were performed.",
+      "methods": "Twenty-nine cases (22 COC, 2 DGCT, 1 AA, and 4 CA) were collected from two diagnostic centers. Immunohistochemical analysis of CK13 expression and polymerase chain reaction (PCR)-based molecular investigation of specific mutations (APC E1080* and KRT13 M239V and Y281H) were performed.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42340570/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42340271",
+      "title": "Assessment of the Impact of Two-Jaw Orthognathic Surgery on Three-Dimensional Airway Volume in Patients with Skeletal Class III Patterns.",
+      "authors": [
+        "Yu-Jen Chang",
+        "Tzu-Chuan Hsu",
+        "Chia-Hsuan Chan",
+        "Jui-Pin Lai",
+        "Shiu-Shiung Lin"
+      ],
+      "publication_date": "2026-Jun-24",
+      "publication_date_iso": "2026-06-24",
+      "abstract": "ObjectiveTo evaluate 3-dimensional pharyngeal airway changes following 2-jaw orthognathic surgery in skeletal Class III patients and to assess their association with surgical movements.DesignRetrospective observational study.SettingSingle tertiary care center.PatientsTwenty-seven adult patients with skeletal Class III malocclusion who underwent Le Fort I maxillary advancement combined with bilateral sagittal split osteotomy mandibular setback.InterventionsAll patients received 2-jaw orthognathic surgery with preoperative (T0) and postoperative (T1, 6 months) computed tomography imaging.Main Outcome MeasuresThree-dimensional airway volumes of the nasopharynx, oropharynx, and hypopharynx were measured. Correlations between airway volume changes and skeletal movements were analyzed.ResultsSignificant regional differences in airway changes were observed. The nasopharyngeal airway volume increased (+1979.1 mm3), while the oropharyngeal airway showed minimal change (+336.4 mm3). In contrast, the hypopharyngeal airway demonstrated a significant reduction (-1087.5 mm3). A strong correlation was found between mandibular setback and hypopharyngeal airway reduction at Point B (r = 0.73, P = .023).ConclusionsTwo-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Significant regional differences in airway changes were observed. The nasopharyngeal airway volume increased (+1979.1 mm3), while the oropharyngeal airway showed minimal change (+336.4 mm3). In contrast, the hypopharyngeal airway demonstrated a significant reduction (-1087.5 mm3). A strong correlation was found between mandibular setback and hypopharyngeal airway reduction at Point B (r = 0.73, P = .023).ConclusionsTwo-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
+      "conclusion": "Two-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42340271/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42335338",
       "title": "Surgical Ergonomics in Craniofacial Surgery: Evaluation of Surgeon Posture.",
       "authors": [
@@ -2782,30 +2976,26 @@
       "figure_urls": []
     },
     {
-      "pmid": "42336005",
-      "title": "Whole exome sequencing uncovers key genetic variants in congenital tooth agenesis: an integrative omics approach.",
+      "pmid": "42337829",
+      "title": "Are CT-Based Commercial Dental Splints Useful in Pediatric Facial Trauma?",
       "authors": [
-        "Prashant Ranjan",
-        "Chandra Devi",
-        "Neha Verma",
-        "Rajesh Bansal",
-        "Vinay Kumar Srivastava",
-        "Rimjhim Kumari",
-        "Parimal Das"
+        "Rebecca Paquin",
+        "J Fredrik Grimmer",
+        "Andrew R Scott"
       ],
       "publication_date": "2026-Jun-23",
       "publication_date_iso": "2026-06-23",
-      "abstract": "This study investigates the genetic basis of congenital tooth agenesis (CTA) using an omics approach. Whole exome sequencing (WES) identified novel variants, which were further analyzed in combination with RNA expression data to uncover genes associated with CTA, molecular mechanisms, and systemic disease links. WES was performed on 11 samples (6 CTA patients and 5 controls) to identify pathogenic variants. Integrative approaches, including gene expression profiling, protein interaction mapping, pathway enrichment, in silico functional assessments and molecular dynamics (MD) simulations, linked genetic findings to functional outcomes. qRT-PCR was used to evaluate signaling pathway alterations, and Sanger sequencing validated key variants. 4 Known and 2 novel variants were identified in candidate genes such as EDA, WNT10A, PAX9, and TSPEAR. Novel variants in WNT10A p.(Ala135Ser) and TSPEAR p.(Leu219Pro), p.(Ile419Leu fs*150) showed functional disruption in signaling pathways. Computational analyses predicted deleterious effects on protein stability for six variants. WES identified 21 genes with variants consistently present in all patients (MAF ≤ 20%), including novel variants in OR4F21 and LCORL. Notably, OR4F21 p.(Lys310Arg) and MRTFB p.(Ala135=) were detected in all affected individuals. Integrated omics analysis revealed 18 upregulated and 15 downregulated genes associated with developmental and systemic pathways. Our findings highlight the genetic heterogeneity of congenital tooth agenesis and demonstrate the utility of integrating whole exome sequencing with multi-omics analyses to better understand the molecular basis of tooth development and identify potential genetic contributors to CTA.",
+      "abstract": "",
       "objective": "",
-      "study_methods": "WES was performed on 11 samples (6 CTA patients and 5 controls) to identify pathogenic variants. Integrative approaches, including gene expression profiling, protein interaction mapping, pathway enrichment, in silico functional assessments and molecular dynamics (MD) simulations, linked genetic findings to functional outcomes. qRT-PCR was used to evaluate signaling pathway alterations, and Sanger sequencing validated key variants.",
-      "methods": "WES was performed on 11 samples (6 CTA patients and 5 controls) to identify pathogenic variants. Integrative approaches, including gene expression profiling, protein interaction mapping, pathway enrichment, in silico functional assessments and molecular dynamics (MD) simulations, linked genetic findings to functional outcomes. qRT-PCR was used to evaluate signaling pathway alterations, and Sanger sequencing validated key variants.",
+      "study_methods": "",
+      "methods": "",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "facial trauma"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42336005/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42337829/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2892,69 +3082,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42332088",
-      "title": "Derivation of elephant induced pluripotent stem cells.",
-      "authors": [
-        "Evan Appleton",
-        "Nataly Korover",
-        "Kyunghee Hong",
-        "Xochitl Ambriz-Peña",
-        "Yoshiaki Tanaka",
-        "Asaf Ashkenazy-Titelman",
-        "Cody Rasmussen-Ivey",
-        "Cristina Rodríguez-Caycedo",
-        "Ketaki Bhide",
-        "Hao Bai",
-        "Ana Queiroz",
-        "Jorgen W Nelson",
-        "Grishma Rathod",
-        "Miles Morgan",
-        "Anthony Mastracci",
-        "Theodore M Nelson",
-        "Gregory Knox",
-        "Brody McNutt",
-        "Nandini Malviya",
-        "Kairui Zhang",
-        "Amanda Kowalczyk",
-        "Austin Bow",
-        "Bryan McLendon",
-        "Jaroslav Slamecka",
-        "Krista Ryon",
-        "Jackie Proszynski",
-        "Nadia Houerbi",
-        "Ashley S Kleinman",
-        "Chi-Lam Poon",
-        "Wendy Kiso",
-        "Matt James",
-        "In-Hyun Park",
-        "Charlie Gray",
-        "Virginia R Pearson",
-        "Christopher E Mason",
-        "Brandi L Cantarel",
-        "Karl R Koehler",
-        "Beth Shapiro",
-        "James Kehler",
-        "Ben Lamm",
-        "George Church",
-        "Eriona Hysolli"
-      ],
-      "publication_date": "2026-Jun-22",
-      "publication_date_iso": "2026-06-22",
-      "abstract": "Biodiversity loss in the present era requires new tools for studying nonmodel organisms. Elephants are both an endangered species and excellent models for studying complex phenotypes including size, social behavior and longevity. Here we report the first derivation of elephant (Elephas maximus) induced pluripotent stem (emiPS) cells. We achieved emiPS cells using two approaches: (1) a two-step process of chemical media induction and colony selection followed by over-expression of elephant transcription factors; and (2) a one-step process with transcription factors and HRAS mutant, HRASG12V. For both protocols, we inhibited TP53 retrogenes, which are hypothesized to confer unique cancer resistance in elephants. To confirm their reprogrammed state, we generated a functional omics catalog of emiPS cells. While these emiPS cells remain transgene-dependent, we inactivated the transgenes and differentiated emiPS cells into all three germ layers via tri-lineage differentiation, embryoid body generation and direct differentiation into putative cell types from all three layers. These methods will open new frontiers for cellular models of nonmodel organisms, including for genetic rescue and conservation.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42332088/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42330576",
       "title": "Masseter microvascular perfusion after minimally invasive sagittal split ramus osteotomy: A long-term split-mouth study.",
       "authors": [
@@ -2982,63 +3109,8 @@
       "figure_urls": []
     },
     {
-      "pmid": "42329213",
-      "title": "Oral mucosal lesions in xeroderma pigmentosum type C in Mayotte.",
-      "authors": [
-        "Marc Dumas",
-        "Antoine Willemart",
-        "Nolwenn Lepouriel",
-        "Alice Miquel",
-        "Smail Hadj-Rabia",
-        "Antoine Bertolotti"
-      ],
-      "publication_date": "2026-Jun-22",
-      "publication_date_iso": "2026-06-22",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42329213/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42324613",
-      "title": "Maxillofacial Injuries in Female Victims of Domestic Violence: A 5-Year Retrospective Analysis.",
-      "authors": [
-        "Saleh AlKadi",
-        "Areej Alqadi",
-        "Ikhlas Bani Baker",
-        "Rund Khasawneh",
-        "Manar AlTayyar",
-        "Hamza Al Salieti",
-        "Abdelrahman Alzoubi"
-      ],
-      "publication_date": "2026-Jun-21",
-      "publication_date_iso": "2026-06-21",
-      "abstract": "Maxillofacial injuries are commonly observed among women who have experienced domestic violence. The prevalence and characteristics of these injuries in Jordan remain underexplored. This study aimed to evaluate the frequency and patterns of maxillofacial injuries among females affected by domestic violence in Jordan. A total of 2643 records of domestic violence-related maxillofacial injuries in females were retrieved from the Family Protection and Juvenile Department and the Accident and Emergency (A&E) departments of two major hospitals in Jordan. Descriptive statistics were computed, and associations were evaluated using Chi-square and Kruskal-Wallis tests. Significance was set at p ≤ 0.05. The mean age at the time of injury was 29.19 years (SD: 11.8). The spouse was responsible for violent acts in 20% of cases. In 89.9% of cases, injuries were caused by direct blows. Soft tissue injuries were observed in most cases (98.1%), followed by midfacial fractures (5.6%), dentoalveolar injuries (1.7%), upper face fractures (1.2%), and lower face fractures (0.9%). The vast majority did not require surgical intervention (98.9%). Concomitant injuries to other body regions were identified in 70.6% of cases, with the upper extremities the most frequently affected (50.4%). Trauma to the upper extremities showed a significant inverse association with midfacial fractures (p < 0.001). Recurrent trauma was documented in 7.6% of cases. Individuals with recurrent trauma were more likely to present with concomitant injuries to other body regions (84.2%) than first-time trauma victims (69.5%). Facial soft-tissue injuries were the most frequent. Midfacial fractures were the most common facial fracture type, though they were rare and less likely when an upper-limb injury occurred. Repeated trauma increases the likelihood of multiple fractures, emphasizing the need for early detection, reporting, and referral by healthcare professionals including oral & maxillofacial surgeons and dental health professionals.",
-      "objective": "",
-      "study_methods": "A total of 2643 records of domestic violence-related maxillofacial injuries in females were retrieved from the Family Protection and Juvenile Department and the Accident and Emergency (A&E) departments of two major hospitals in Jordan. Descriptive statistics were computed, and associations were evaluated using Chi-square and Kruskal-Wallis tests. Significance was set at p ≤ 0.05.",
-      "methods": "A total of 2643 records of domestic violence-related maxillofacial injuries in females were retrieved from the Family Protection and Juvenile Department and the Accident and Emergency (A&E) departments of two major hospitals in Jordan. Descriptive statistics were computed, and associations were evaluated using Chi-square and Kruskal-Wallis tests. Significance was set at p ≤ 0.05.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42324613/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42324024",
-      "title": "Towards an Integrative Understanding of the Human Temporalis Muscle: Anatomical, Histological, and Imaging Evidence.",
+      "title": "Towards an integrative understanding of the human temporalis muscle: Anatomical, histological, and imaging evidence.",
       "authors": [
         "Carlos Torres-Villar",
         "Eva Maranillo",
@@ -3047,7 +3119,7 @@
       ],
       "publication_date": "2026-Jun-21",
       "publication_date_iso": "2026-06-21",
-      "abstract": "Traditionally defined as attaching to the mandibular coronoid process, the temporalis muscle (TM) has instead been shown, through anatomical evidence, including dissection, histology, and imaging, to have more variable distal insertions relevant to mastication, deglutition, temporomandibular disorders, and facial reanimation. We have assembled this evidence and propose a classification based on insertion. A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected. From 276 records reviewed, only 22 met the inclusion criteria, with 815 cadaveric TMs recorded by dissection, 26 TMs recorded histologically, and 183 TMs recorded by use of imaging across multiple regions. Overall, AQUA ratings for study objectives, descriptive anatomy, and reporting were rated as low risk but were rated higher risk regarding methodological characterisation. Three bony insertions were identified: (1) on or through the coronoid; (2) between the coronoid and ramus; and (3) between the coronoid, ramus, and retromolar triangle of the mandible. These bony insertions may be modified by accompanying soft-tissue attachments. This information could assist in standardising anatomical communication and aid in research on the TM region. It may also help clarify the function of the TM during chewing and swallowing and improve understanding of temporomandibular joint disorders.",
+      "abstract": "Traditionally defined as attaching to the mandibular coronoid process, the temporalis muscle (TM) has instead been shown, through anatomical evidence, including dissection, histology, and imaging, to have more variable distal insertions relevant to mastication, deglutition, temporomandibular disorders, and facial reanimation. We have assembled this evidence and propose a classification based on insertion. A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected. From 275 records reviewed, only 22 met the inclusion criteria, with 815 cadaveric TMs recorded by dissection, 26 TMs recorded histologically, and 173 TMs recorded by use of imaging across multiple regions. Overall, AQUA ratings for study objectives, descriptive anatomy, and reporting were rated as low risk but were rated higher risk regarding methodological characterisation. Three bony insertions were identified: (1) on or through the coronoid; (2) between the coronoid and ramus; and (3) between the coronoid, ramus, and retromolar triangle of the mandible. These bony insertions may be modified by accompanying soft-tissue attachments. This information could assist in standardising anatomical communication and aid in research on the TM region. It may also help clarify the function of the TM during chewing and swallowing and improve understanding of temporomandibular joint disorders.",
       "objective": ", descriptive anatomy, and reporting were rated as low risk but were rated higher risk regarding methodological characterisation. Three bony insertions were identified: (1) on or through the coronoid; (2) between the coronoid and ramus; and (3) between the coronoid, ramus, and retromolar triangle of the mandible. These bony insertions may be modified by accompanying soft-tissue attachments. This information could assist in standardising anatomical communication and aid in research on the TM region. It may also help clarify the function of the TM during chewing and swallowing and improve understanding of temporomandibular joint disorders.",
       "study_methods": "A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected.",
       "methods": "A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected.",
@@ -3190,58 +3262,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42314433/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42309893",
-      "title": "Equivalence of virtual and physical model surgery on digitally fabricated models for occlusal planning in segmental maxillary osteotomy.",
-      "authors": [
-        "F J Amarista",
-        "M A Bordoy",
-        "E Ellis"
-      ],
-      "publication_date": "2026-Jun-17",
-      "publication_date_iso": "2026-06-17",
-      "abstract": "Maxillary segmentation is often necessary to achieve optimal occlusion in orthognathic surgery, and although virtual surgical planning provides improved diagnostic precision and workflow efficiency, many surgeons continue to rely on conventional model surgery for establishing occlusion in segmented cases, with limited evidence directly comparing these approaches. This in-vitro study evaluated archived, de-identified preoperative intraoral scans of patients who underwent segmental maxillary orthognathic surgery at the University of Texas Health Science Center at San Antonio, including only cases requiring a three-piece maxillary osteotomy and excluding patients with partial edentulism or cleft palate. The method used to obtain the occlusion-either physical model surgery performed on digitally fabricated models or virtual model surgery-served as the predictor variable, and the primary outcome was equivalence of the final occlusal result. Two surgeons independently performed both techniques in 20 cases, generating a total of 80 final occlusions. Dimensional analysis using surface-based best-fit registration demonstrated a mean three-dimensional occlusal deviation of 0.03 mm between workflows, which was well below the predefined tolerance threshold of 0.3 mm. Parametric statistical analysis showed no significant differences between occlusal outcomes produced by the two methods. These findings indicate that virtual model surgery is clinically feasible and produces occlusal results equivalent to conventional model surgery in segmental maxillary procedures, supporting its use as a reliable alternative for preoperative planning.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Two surgeons independently performed both techniques in 20 cases, generating a total of 80 final occlusions. Dimensional analysis using surface-based best-fit registration demonstrated a mean three-dimensional occlusal deviation of 0.03 mm between workflows, which was well below the predefined tolerance threshold of 0.3 mm. Parametric statistical analysis showed no significant differences between occlusal outcomes produced by the two methods. These findings indicate that virtual model surgery is clinically feasible and produces occlusal results equivalent to conventional model surgery in segmental maxillary procedures, supporting its use as a reliable alternative for preoperative planning.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42309893/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42302387",
-      "title": "Skeletal Stabilization After Sagittal Split Osteotomy Using a Biodegradable Osteosynthesis System: A Pilot Study.",
-      "authors": [
-        "Soichiro Negishi",
-        "Hitoshi Sato",
-        "Motohiro Tanaka",
-        "Nodoka Kindaichi",
-        "Karen Yamaguchi",
-        "Haruhisa Nakano",
-        "Seigo Ohba"
-      ],
-      "publication_date": "2026-Jun-17",
-      "publication_date_iso": "2026-06-17",
-      "abstract": "Few studies have demonstrated the reliability of biodegradable osteosynthesis systems in orthognathic surgery; however, studies on the use of biodegradable osteosynthesis systems after mandibular osteotomy, including sagittal split ramus osteotomy (SSRO), are limited. This pilot study aimed to compare the safety and skeletal stability after segmental fixation using curved titanium and box-type biodegradable systems in SSRO for mandibular prognathism. Patients who underwent SSRO for correction of mandibular protrusion with malocclusion between September 2024 and March 2025 were included. After conventional SSRO, the bilateral segments were fixed using curved 6-hole titanium plates (Ti group) or 6-hole box-type biodegradable plates (Bi group). Lateral and frontal cephalograms and computed tomography images were obtained before (T0), 5±2 days after (T1), and 6±1 months after surgery (T2). In the Ti group, although the absolute change in the ramus plane and gonial angles from T1 to T2 was -2.3±5.1 and 3.6±7.4 degrees, respectively, no significant change was observed in any of the measured angles. In contrast, in the Bi group, significant changes from T1 to T2 were observed in the mandibular plane (4.8±2.3 degrees), ramus plane (-5.7±4.0 degrees), and gonial angles (8.8±4.2 degrees). The changes in the vertical and horizontal positions of point B, menton and pogonion were not significantly different between the 2 groups. The results of this pilot study with a small sample size suggested that in patients undergoing SSRO, bone segmental fixation using 6-hole box-type biodegradable plates may provide acceptable short-term skeletal stability and safety. Since definitive comparisons require larger prospective studies, further prospective studies with larger sample sizes are warranted.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "of this pilot study with a small sample size suggested that in patients undergoing SSRO, bone segmental fixation using 6-hole box-type biodegradable plates may provide acceptable short-term skeletal stability and safety. Since definitive comparisons require larger prospective studies, further prospective studies with larger sample sizes are warranted.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42302387/",
       "pmcid": "",
       "figure_urls": []
     }
