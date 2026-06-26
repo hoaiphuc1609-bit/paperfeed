@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T06:13:03Z",
+  "updated_at": "2026-06-26T06:16:00Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -117,7 +117,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42327006/",
       "pmcid": "PMC13280340",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13280340/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13280340/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13280340/bin/gr7.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13280340/bin/gr7.gif"
+      ]
     },
     {
       "pmid": "42293988",
@@ -612,7 +617,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42293501/",
       "pmcid": "PMC13264344",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13264344/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13264344/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13264344/bin/gr3.jpg"
+      ]
     },
     {
       "pmid": "42167478",
@@ -1652,7 +1661,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42327868/",
       "pmcid": "PMC13278709",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13278709/bin/jmc-17-07-303-g001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13278709/bin/jmc-17-07-303-g002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13278709/bin/jmc-17-07-303-g003.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13278709/bin/jmc-17-07-303-g004.jpg"
+      ]
     },
     {
       "pmid": "42276610",
@@ -2889,36 +2903,80 @@
       "figure_urls": []
     },
     {
-      "pmid": "42340570",
-      "title": "Immunohistochemical Expression of CK13 and Molecular Analysis of KRT13 and APC in Odontogenic Ghost Cell Lesions, Adenoid Ameloblastoma, and Conventional Ameloblastoma.",
+      "pmid": "42351191",
+      "title": "Three dimensional accuracy and stability of segmented Le Fort I osteotomy - a systematic review.",
       "authors": [
-        "Lucas Fabian Polti",
-        "Juan Manuel Arteaga Legarrea",
-        "Estefanía Sicco",
-        "Felipe Martins Silveira",
-        "Lauren Frenzel Schuch",
-        "Vanesa Pereira Prado",
-        "Ronell Bologna Molina",
-        "María Luisa Paparella",
-        "Fernanda Faria Rocha",
-        "Marina Gonçalves Diniz",
-        "Ricardo Santiago Gomez",
-        "Silvia Ferreira de Sousa",
-        "Felipe Paiva Fonseca"
+        "Oliver da Costa Senior",
+        "Marie Coppens",
+        "Reinhilde Jacobs",
+        "Eman Shaheen",
+        "Constantinus Politis"
       ],
-      "publication_date": "2026-Jun-24",
-      "publication_date_iso": "2026-06-24",
-      "abstract": "The aim of this study was to evaluate the immunohistochemical expression of CK13 and specific mutations in KRT13 and APC genes in cases of calcifying odontogenic cyst (COC), dentinogenic ghost cell tumor (DGCT), adenoid ameloblastoma (AA), and conventional ameloblastoma (CA). Twenty-nine cases (22 COC, 2 DGCT, 1 AA, and 4 CA) were collected from two diagnostic centers. Immunohistochemical analysis of CK13 expression and polymerase chain reaction (PCR)-based molecular investigation of specific mutations (APC E1080* and KRT13 M239V and Y281H) were performed. CK13 expression in COC was observed in the suprabasal/superficial layers of the cystic epithelium in 14 cases-64%; ghost cells showed positivity in 12 cases-54%. DGCT cases were negative in the epithelial proliferation but positive in ghost cells. The AA case was negative. Three CA cases demonstrated positivity in suprabasal/central cells. None of the cases harbored the investigated mutations. However, the intronic polymorphism KRT13 c.735 + 10A > G (dbSNP rs7211235) was identified in 16 COC cases, one DGCT case, one AA case, and one CA case, whereas KRT13 c.735 + 6C > T (dbSNP rs181122697) was detected in one COC case. Additionally, one case harbored a previously unreported silent/synonymous mutation, KRT13 c.690G > A (p.E230E), of unknown significance. CK13 expression in COC and CA suggests squamous differentiation of odontogenic epithelium. The detected KRT13 genetic variations are probably not associated with tumorigenic mechanisms in COC, DGCT, AA, and CA. The APC E1080* mutation was not identified in any of the entities included in the present study. Further studies are therefore required to more precisely define the genetic profile of these entities and, particularly, to clarify the potential biological relationship between dentinogenic ghost cell tumor and adenoid ameloblastoma.",
-      "objective": "of this study was to evaluate the immunohistochemical expression of CK13 and specific mutations in KRT13 and APC genes in cases of calcifying odontogenic cyst (COC), dentinogenic ghost cell tumor (DGCT), adenoid ameloblastoma (AA), and conventional ameloblastoma (CA). Twenty-nine cases (22 COC, 2 DGCT, 1 AA, and 4 CA) were collected from two diagnostic centers. Immunohistochemical analysis of CK13 expression and polymerase chain reaction (PCR)-based molecular investigation of specific mutations (APC E1080* and KRT13 M239V and Y281H) were performed. CK13 expression in COC was observed in the suprabasal/superficial layers of the cystic epithelium in 14 cases-64%; ghost cells showed positivity in 12 cases-54%. DGCT cases were negative in the epithelial proliferation but positive in ghost cells. The AA case was negative. Three CA cases demonstrated positivity in suprabasal/central cells. None of the cases harbored the investigated mutations. However, the intronic polymorphism KRT13 c.735 + 10A > G (dbSNP rs7211235) was identified in 16 COC cases, one DGCT case, one AA case, and one CA case, whereas KRT13 c.735 + 6C > T (dbSNP rs181122697) was detected in one COC case. Additionally, one case harbored a previously unreported silent/synonymous mutation, KRT13 c.690G > A (p.E230E), of unknown significance. CK13 expression in COC and CA suggests squamous differentiation of odontogenic epithelium. The detected KRT13 genetic variations are probably not associated with tumorigenic mechanisms in COC, DGCT, AA, and CA. The APC E1080* mutation was not identified in any of the entities included in the present study. Further studies are therefore required to more precisely define the genetic profile of these entities and, particularly, to clarify the potential biological relationship between dentinogenic ghost cell tumor and adenoid ameloblastoma.",
-      "study_methods": "Twenty-nine cases (22 COC, 2 DGCT, 1 AA, and 4 CA) were collected from two diagnostic centers. Immunohistochemical analysis of CK13 expression and polymerase chain reaction (PCR)-based molecular investigation of specific mutations (APC E1080* and KRT13 M239V and Y281H) were performed.",
-      "methods": "Twenty-nine cases (22 COC, 2 DGCT, 1 AA, and 4 CA) were collected from two diagnostic centers. Immunohistochemical analysis of CK13 expression and polymerase chain reaction (PCR)-based molecular investigation of specific mutations (APC E1080* and KRT13 M239V and Y281H) were performed.",
+      "publication_date": "2026-Jun-26",
+      "publication_date_iso": "2026-06-26",
+      "abstract": "Segmental Le Fort I osteotomy has traditionally been regarded as less predictable and stable, a perception largely based on two-dimensional evaluation methods. Despite existing systematic reviews on clinical outcomes, a dedicated synthesis of three-dimensional assessments of surgical accuracy and postoperative stability is lacking. This systematic review evaluated three-dimensional (3D) assessment methods and outcome of planning accuracy and postoperative stability in segmented Le Fort I osteotomies. The aim was to determine the reliability of 3D methods in capturing surgical accuracy and long-term skeletal stability. Medline, Embase, Web of Science, and Cochrane were searched up to October 25, 2024. Eligible studies included randomized controlled trials, prospective or retrospective studies, or case series with > 5 patients reporting 3D evaluation of planning accuracy or stability. Exclusion criteria were systematic reviews, meta-analyses, single case reports, ex-vivo or animal studies, and studies involving syndromic patients, facial trauma, or prior maxillofacial surgery. Risk of bias and quality of evidence were assessed using the GRADE approach. Twenty-two studies met inclusion criteria: three randomized and nineteen non-randomized controlled trials. Fourteen assessed planning accuracy, five evaluated stability, and three examined both. Twenty-two studies met the inclusion criteria and were included in the qualitative synthesis. Considerable methodological heterogeneity limited direct comparison and precluded meta-analysis. Overall, segmented Le Fort I osteotomy demonstrated clinically acceptable accuracy; however, certain movements-particularly transverse widening, advancement, and pitch-were more prone to underachievement, with discrepancies ranging from 0.77 to 1.41 mm, 0.55 to 2.69 mm, and 0.12° to 5.22°, respectively. During follow-up, transverse relapse was more pronounced at the dental level (0.39-1.41 mm) compared to skeletal changes (0.05-0.86 mm). Segmented Le Fort I osteotomy shows reliable outcomes in 3D evaluations, but some maxillary movements remain difficult to achieve and maintain such as advancement and pitch. Standardized, voxel-based 3D assessment protocols are recommended to improve comparability and strengthen the evidence base. (PROSPERO registration: CRD42018111854).",
+      "objective": "was to determine the reliability of 3D",
+      "study_methods": "",
+      "methods": "",
       "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42351191/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42351121",
+      "title": "Association between pre-existing sleep disorders and post-extraction discomfort in adult patients: a comparative study.",
+      "authors": [
+        "Arda Toptaş",
+        "Onur Koç",
+        "Semih Demirci"
+      ],
+      "publication_date": "2026-Jun-26",
+      "publication_date_iso": "2026-06-26",
+      "abstract": "Postoperative pain and discomfort following tooth extraction are common complications that may negatively affect patients' quality of life. The potential association between pre-existing sleep disturbances and postoperative discomfort remains insufficiently explored. This study aimed to investigate the association between pre-existing sleep disturbances and postoperative pain intensity, emotional impact, and limitations in daily activities in patients undergoing routine tooth extraction. This retrospective observational cohort study included 111 adult patients (18-65 years) who underwent tooth extraction at Hacettepe University. Preoperative sleep quality was assessed using the Jenkins Sleep Scale (JSS). Participants were classified into two groups: Group A (patients with sleep disturbances; JSS ≥ 12, n = 48) and Group B (patients without sleep disturbances; JSS < 12, n = 63). Postoperative outcomes were evaluated on postoperative day 1 using the American Pain Society Patient Outcomes Questionnaire-Revised (APS-POQ-R). The null hypothesis stated that there would be no difference in postoperative discomfort between the two groups. Statistical analyses included the Mann-Whitney U test and Chi-square test. Patients with pre-existing sleep disturbances (Group A) demonstrated significantly higher pain intensity scores (p < 0.001), greater emotional impact (p = 0.030), and increased limitations in daily activities (p = 0.002) compared with Group B. Satisfaction of pain management was significantly lower in Group A (p = 0.016). No statistically significant differences were observed between groups regarding nausea, numbness, itching, or dizziness (p > 0.05). Pre-existing sleep disturbances were significantly associated with increased postoperative discomfort and reduced satisfaction following tooth extraction. The null hypothesis was rejected. However, given the observational design and the lack of predictive analysis, these results should be interpreted cautiously, and further prospective studies are needed before clinical application can be recommended.",
+      "objective": "",
+      "study_methods": "This retrospective observational cohort study included 111 adult patients (18-65 years) who underwent tooth extraction at Hacettepe University. Preoperative sleep quality was assessed using the Jenkins Sleep Scale (JSS). Participants were classified into two groups: Group A (patients with sleep disturbances; JSS ≥ 12, n = 48) and Group B (patients without sleep disturbances; JSS < 12, n = 63). Postoperative outcomes were evaluated on postoperative day 1 using the American Pain Society Patient Outcomes Questionnaire-Revised (APS-POQ-R). The null hypothesis stated that there would be no difference in postoperative discomfort between the two groups. Statistical analyses included the Mann-Whitney U test and Chi-square test.",
+      "methods": "This retrospective observational cohort study included 111 adult patients (18-65 years) who underwent tooth extraction at Hacettepe University. Preoperative sleep quality was assessed using the Jenkins Sleep Scale (JSS). Participants were classified into two groups: Group A (patients with sleep disturbances; JSS ≥ 12, n = 48) and Group B (patients without sleep disturbances; JSS < 12, n = 63). Postoperative outcomes were evaluated on postoperative day 1 using the American Pain Society Patient Outcomes Questionnaire-Revised (APS-POQ-R). The null hypothesis stated that there would be no difference in postoperative discomfort between the two groups. Statistical analyses included the Mann-Whitney U test and Chi-square test.",
+      "results": "should be interpreted cautiously, and further prospective studies are needed before clinical application can be recommended.",
       "conclusion": "",
       "limitations": "",
       "topics": [
         "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42340570/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42351121/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42351114",
+      "title": "A cephalometric analysis of underlying components of deep overbite malocclusion.",
+      "authors": [
+        "Avinash Chaudhary",
+        "Sushant Pandey",
+        "Samikshya Sangroula",
+        "Jamal Giri",
+        "Prabhat Ranjan Pokharel",
+        "Rajesh Gyawali"
+      ],
+      "publication_date": "2026-Jun-26",
+      "publication_date_iso": "2026-06-26",
+      "abstract": "Deep overbite is a critical parameter in orthodontic diagnosis and treatment planning, reflecting the excessive vertical overlap of anterior teeth. It not only affects facial esthetics but may also contribute to functional disturbances. It is influenced by a complex interplay of skeletal, dental, and angular factors. Understanding the relative association of these components is critical for accurate diagnosis and effective treatment planning. So, this study aims to determine which skeletal and dental components most significantly affect deep overbite. The study was carried out on 252 pre-treatment lateral cephalograms of Nepalese patients of mixed ethnic backgrounds (Indo-Nepali, Tibeto-Nepali, and Indigenous Nepali) who presented with an overbite of greater than 4 mm measured on the lateral cephalogram, in the Department of Orthodontics, BPKIHS, Nepal. Among them, 130 were males and 122 were females. The mean age of the subjects was 22.26 ± 3.85 years (range:16 to 41 years). Lateral cephalograms meeting the inclusion/exclusion criteria were digitally traced using Onyxceph3TM Pro (version 3.2.67) software. Twelve vertical and angular, skeletal and dental parameters from Burstone's Cephalometrics for Orthognathic Surgery (COGS) analysis were measured. Descriptive analysis was performed for each variable. Multiple linear regression analyses were performed performed to evaluate the association between skeletal and dentoalveolar variables and deep overbite. Iterative backward elimination regression approach was used to assess the association between the variables and deep over bite after considering multicollinearity. The final model explained 71.4% of the variance in deep overbite (R²=0.714, p < 0.001). Lower anterior dental height (L1-MP) had the strongest effect on deep overbite. Other significant predictors included lower anterior facial height (ANSGn), mandibular plane angle (MP-HP), upper anterior dental height (U1-NF), upper anterior inclination (U1NFang), Lower anterior inclination (L1MPang) and lower posterior dental height (LM-MP). Overbite is predominantly influenced by dentoalveolar factors, particularly incisor position and inclination, while skeletal variables play a secondary role.",
+      "objective": "to determine which skeletal and dental components most significantly affect deep overbite. The study was carried out on 252 pre-treatment lateral cephalograms of Nepalese patients of mixed ethnic backgrounds (Indo-Nepali, Tibeto-Nepali, and Indigenous Nepali) who presented with an overbite of greater than 4 mm measured on the lateral cephalogram, in the Department of Orthodontics, BPKIHS, Nepal. Among them, 130 were males and 122 were females. The mean age of the subjects was 22.26 ± 3.85 years (range:16 to 41 years). Lateral cephalograms meeting the inclusion/exclusion criteria were digitally traced using Onyxceph3TM Pro (version 3.2.67) software. Twelve vertical and angular, skeletal and dental parameters from Burstone's Cephalometrics for Orthognathic Surgery (COGS) analysis were measured. Descriptive analysis was performed for each variable. Multiple linear regression analyses were performed performed to evaluate the association between skeletal and dentoalveolar variables and deep overbite. Iterative backward elimination regression approach was used to assess the association between the variables and deep over bite after considering multicollinearity. The final model explained 71.4% of the variance in deep overbite (R²=0.714, p < 0.001). Lower anterior dental height (L1-MP) had the strongest effect on deep overbite. Other significant predictors included lower anterior facial height (ANSGn), mandibular plane angle (MP-HP), upper anterior dental height (U1-NF), upper anterior inclination (U1NFang), Lower anterior inclination (L1MPang) and lower posterior dental height (LM-MP). Overbite is predominantly influenced by dentoalveolar factors, particularly incisor position and inclination, while skeletal variables play a secondary role.",
+      "study_methods": "The study was carried out on 252 pre-treatment lateral cephalograms of Nepalese patients of mixed ethnic backgrounds (Indo-Nepali, Tibeto-Nepali, and Indigenous Nepali) who presented with an overbite of greater than 4 mm measured on the lateral cephalogram, in the Department of Orthodontics, BPKIHS, Nepal. Among them, 130 were males and 122 were females. The mean age of the subjects was 22.26 ± 3.85 years (range:16 to 41 years). Lateral cephalograms meeting the inclusion/exclusion criteria were digitally traced using Onyxceph3TM Pro (version 3.2.67) software. Twelve vertical and angular, skeletal and dental parameters from Burstone's Cephalometrics for Orthognathic Surgery (COGS) analysis were measured. Descriptive analysis was performed for each variable. Multiple linear regression analyses were performed performed to evaluate the association between skeletal and dentoalveolar variables and deep overbite. Iterative backward elimination regression approach was used to assess the association between the variables and deep over bite after considering multicollinearity.",
+      "methods": "The study was carried out on 252 pre-treatment lateral cephalograms of Nepalese patients of mixed ethnic backgrounds (Indo-Nepali, Tibeto-Nepali, and Indigenous Nepali) who presented with an overbite of greater than 4 mm measured on the lateral cephalogram, in the Department of Orthodontics, BPKIHS, Nepal. Among them, 130 were males and 122 were females. The mean age of the subjects was 22.26 ± 3.85 years (range:16 to 41 years). Lateral cephalograms meeting the inclusion/exclusion criteria were digitally traced using Onyxceph3TM Pro (version 3.2.67) software. Twelve vertical and angular, skeletal and dental parameters from Burstone's Cephalometrics for Orthognathic Surgery (COGS) analysis were measured. Descriptive analysis was performed for each variable. Multiple linear regression analyses were performed performed to evaluate the association between skeletal and dentoalveolar variables and deep overbite. Iterative backward elimination regression approach was used to assess the association between the variables and deep over bite after considering multicollinearity.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42351114/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3023,7 +3081,7 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42334772/",
-      "pmcid": "",
+      "pmcid": "PMC13291293",
       "figure_urls": []
     },
     {
@@ -3236,32 +3294,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42214412/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42314433",
-      "title": "Effect of Le Fort I osteotomy on the sinonasal region: three-dimensional study.",
-      "authors": [
-        "Caio César Gonçalves Silva",
-        "Tatiane Fonseca Faro",
-        "Marcelo Soares Dos Santos",
-        "Emanuel Dias de Oliveira E Silva",
-        "Jose Rodrigues Laureano Filho"
-      ],
-      "publication_date": "2026-Jun-18",
-      "publication_date_iso": "2026-06-18",
-      "abstract": "The aim of the present study was to investigate changes in the maxillary sinus and nasal cavity in patients submitted to Le Fort I osteotomy using Cone Beam Computed Tomography (CBCT). A retrospective study was conducted involving the analysis of preoperative (T1) and postoperative (T2) CBCT scans of 34 patients undergoing orthognathic surgery. The outcome variables were sinus and nasal cavity volumes, presence and patency of the maxillary ostium, sinus mucosal thickening, nasal septal deviation, and changes in sinonasal anatomy. The paired-sample t-test and Wilcoxon test were used to compare differences between T1 and T2, with the significance level set at 5% (p < 0.05). Age ranged from 18 to 55 years (mean: 29.97 ± 9.85). Most patients were women (64.7%) and had a type III facial profile (52.9%). Statistically significant differences were found between T1 and T2 in the mean volume of the maxillary sinus (p = 0.001) and nasal cavity (p = 0.042) and the degree of mucosal thickening of the maxillary sinuses (p = 0.013; p = 0.046). Le Fort I osteotomy is associated with significant changes in the volume of the maxillary sinus and nasal cavity as well as thickening of the sinus mucosa.",
-      "objective": "of the present study was to investigate changes in the maxillary sinus and nasal cavity in patients submitted to Le Fort I osteotomy using Cone Beam Computed Tomography (CBCT). A retrospective study was conducted involving the analysis of preoperative (T1) and postoperative (T2) CBCT scans of 34 patients undergoing orthognathic surgery. The outcome variables were sinus and nasal cavity volumes, presence and patency of the maxillary ostium, sinus mucosal thickening, nasal septal deviation, and changes in sinonasal anatomy. The paired-sample t-test and Wilcoxon test were used to compare differences between T1 and T2, with the significance level set at 5% (p < 0.05). Age ranged from 18 to 55 years (mean: 29.97 ± 9.85). Most patients were women (64.7%) and had a type III facial profile (52.9%). Statistically significant differences were found between T1 and T2 in the mean volume of the maxillary sinus (p = 0.001) and nasal cavity (p = 0.042) and the degree of mucosal thickening of the maxillary sinuses (p = 0.013; p = 0.046). Le Fort I osteotomy is associated with significant changes in the volume of the maxillary sinus and nasal cavity as well as thickening of the sinus mucosa.",
-      "study_methods": "A retrospective study was conducted involving the analysis of preoperative (T1) and postoperative (T2) CBCT scans of 34 patients undergoing orthognathic surgery. The outcome variables were sinus and nasal cavity volumes, presence and patency of the maxillary ostium, sinus mucosal thickening, nasal septal deviation, and changes in sinonasal anatomy. The paired-sample t-test and Wilcoxon test were used to compare differences between T1 and T2, with the significance level set at 5% (p < 0.05).",
-      "methods": "A retrospective study was conducted involving the analysis of preoperative (T1) and postoperative (T2) CBCT scans of 34 patients undergoing orthognathic surgery. The outcome variables were sinus and nasal cavity volumes, presence and patency of the maxillary ostium, sinus mucosal thickening, nasal septal deviation, and changes in sinonasal anatomy. The paired-sample t-test and Wilcoxon test were used to compare differences between T1 and T2, with the significance level set at 5% (p < 0.05).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42314433/",
       "pmcid": "",
       "figure_urls": []
     }
