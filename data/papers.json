@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T06:16:00Z",
+  "updated_at": "2026-06-27T05:58:26Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -35,7 +35,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42316890/",
       "pmcid": "PMC13285645",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13285645/bin/KOGG_A_2673613_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13285645/bin/KOGG_A_2673613_F0002_B.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13285645/bin/KOGG_A_2673613_F0003_B.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13285645/bin/KOGG_A_2673613_F0004_B.jpg"
+      ]
     },
     {
       "pmid": "42138295",
@@ -85,12 +90,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
       "pmcid": "PMC12943813",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42327006",
@@ -327,12 +327,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41563872/",
       "pmcid": "PMC12825576",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41431197",
@@ -930,12 +925,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42253858/",
       "pmcid": "PMC13233747",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42236166",
@@ -1507,6 +1497,35 @@
       "figure_urls": []
     },
     {
+      "pmid": "41839759",
+      "title": "Study of Clinical Characteristics of Desquamative Gingivitis in 60 Patients in the North of Spain.",
+      "authors": [
+        "Valeria Sanmartín-Barragáns",
+        "Pilar Gándara-Vila",
+        "Alejandro I Lorenzo-Pouso",
+        "Mario Pérez-Sayáns",
+        "María D Reboiras-López",
+        "Eva M Otero-Rey",
+        "Abel García-Garcia",
+        "Andres Blanco-Carrión"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "The aim of this study is to know the clinical characteristics of desquamative gingivitis (DG) in a Spanish population in order to make an early diagnosis of this sign and, therefore, the underlying systemic disease. A cross-sectional study was conducted. Patients who presented with DG and who met the established inclusion criteria were selected. The following variables were collected from the patient's clinical history, examination, and pathological anatomy report: age at diagnosis, gender, underlying diseases, extent of lesions, intraoral lesions or extraoral involvement, form of appearance, and symptomatology. The sample comprised of 60 patients. The mean age was 62.18 ± 11.22 years. The most common associated disease was OLP. The most common form of onset was erythematous (55%). 56.7% of the lesions appeared in the anterior and posterior region, and 68.3% appeared in all quadrants. 53.3% of patients were asymptomatic. Diversity exists in terms of the appearance and extension of DG. It is important to stress to dental hygienists the importance of a proper diagnosis of any gingival lesions.",
+      "objective": "of this study is to know the clinical characteristics of desquamative gingivitis (DG) in a Spanish population in order to make an early diagnosis of this sign and, therefore, the underlying systemic disease. A cross-sectional study was conducted. Patients who presented with DG and who met the established inclusion criteria were selected. The following variables were collected from the patient's clinical history, examination, and pathological anatomy report: age at diagnosis, gender, underlying diseases, extent of lesions, intraoral lesions or extraoral involvement, form of appearance, and symptomatology. The sample comprised of 60 patients. The mean age was 62.18 ± 11.22 years. The most common associated disease was OLP. The most common form of onset was erythematous (55%). 56.7% of the lesions appeared in the anterior and posterior region, and 68.3% appeared in all quadrants. 53.3% of patients were asymptomatic. Diversity exists in terms of the appearance and extension of DG. It is important to stress to dental hygienists the importance of a proper diagnosis of any gingival lesions.",
+      "study_methods": "A cross-sectional study was conducted. Patients who presented with DG and who met the established inclusion criteria were selected. The following variables were collected from the patient's clinical history, examination, and pathological anatomy report: age at diagnosis, gender, underlying diseases, extent of lesions, intraoral lesions or extraoral involvement, form of appearance, and symptomatology.",
+      "methods": "A cross-sectional study was conducted. Patients who presented with DG and who met the established inclusion criteria were selected. The following variables were collected from the patient's clinical history, examination, and pathological anatomy report: age at diagnosis, gender, underlying diseases, extent of lesions, intraoral lesions or extraoral involvement, form of appearance, and symptomatology.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41839759/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41740295",
       "title": "Cell-free fat extract attenuates temporomandibular joint osteoarthritis via repressing ATF3-binding chromatin accessibility.",
       "authors": [
@@ -1558,6 +1577,33 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41500926/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41366722",
+      "title": "Who Gets to Be Read? Factors Affecting Full-Text Access Rates in Periodontology and Implantology Research.",
+      "authors": [
+        "Betina Dutra Lima",
+        "Humberto Alexander Baca Juárez",
+        "Felipe Berwaldt Islabão",
+        "Natália Marcumini Pola",
+        "Alex Nogueira Haas",
+        "Francisco Wilker Mustafa Gomes Muniz"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "This study aimed to identify the variables associated with full-text access rates in studies published in Periodontology and Implantology. A bibliometric analysis was performed by reviewing the 30 top-ranking journals in Dentistry, Oral Surgery and Medicine. Only journals with a number of text accesses were included. Independent variables analysed included publication date, first author's country, open access status, h-index, study design, and thematic focus. Multivariable Poisson regression with robust variance was used. A total of 3880 studies were included, revealing an access rate (number of views per month) of 83.68 ± 143.62. The journal's impact factor (rate ratio [RR]: 1.09; 95% confidence interval [95% CI]: 1.07-1.11) and being in the open access mode (RR: 1.78; 95% CI: 1.64-1.94) influenced the access rate. Moreover, studies from America (RR: 1.16; 95% CI: 1.02-1.31), Oceania (RR: 1.56; 95% CI: 1.23-1.98), and Europe (RR: 1.50; 95% CI: 1.33-1.69) had significantly higher access rates than those from Asia. Regarding study designs, randomised clinical trials (RCT) (RR: 1.70; 95% CI: 1.47-1.97) and literature reviews (non-systematic reviews [RR: 1.65; 95% CI: 1.27-2.14] and systematic reviews [RR: 1.78; 95% CI: 1.52-2.08]) exhibited greater access than in vitro/animal studies. Access to articles in Periodontology is significantly linked to study design (RCTs and reviews), open access availability, and higher journal impact factors.",
+      "objective": "",
+      "study_methods": "A bibliometric analysis was performed by reviewing the 30 top-ranking journals in Dentistry, Oral Surgery and Medicine. Only journals with a number of text accesses were included. Independent variables analysed included publication date, first author's country, open access status, h-index, study design, and thematic focus. Multivariable Poisson regression with robust variance was used.",
+      "methods": "A bibliometric analysis was performed by reviewing the 30 top-ranking journals in Dentistry, Oral Surgery and Medicine. Only journals with a number of text accesses were included. Independent variables analysed included publication date, first author's country, open access status, h-index, study design, and thematic focus. Multivariable Poisson regression with robust variance was used.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41366722/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2876,29 +2922,53 @@
       "figure_urls": []
     },
     {
-      "pmid": "40518851",
-      "title": "Implant-Prosthetic Rehabilitation of a Patient With EEC Syndrome Using Additively Manufactured Custom-Made Subperiosteal Implants: A Case Report.",
+      "pmid": "42360076",
+      "title": "Artificial Intelligence Applications in Cleft Lip and Palate Diagnosis, Prediction, and Treatment: A Systematic Review and Meta-Analysis.",
       "authors": [
-        "Giacomo De Riu",
-        "Andrea Biglio",
-        "Giovanni Spano",
-        "Giuseppe Consorti",
-        "Jerome R Lechien",
-        "Luigi Angelo Vaira"
+        "Nozhan Azimi",
+        "Sahar Akbari Iraj",
+        "Fateme Mazaheri",
+        "Sarina Maddahi",
+        "Mohammad Mahdi Khanmohammadi",
+        "Ali Azadi",
+        "Asghar Ebadifar"
       ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Ectrodactyly-ectodermal dysplasia-cleft (EEC) syndrome is a rare genetic disorder presenting significant challenges for dental rehabilitation due to severe maxillary atrophy and altered anatomy. This report describes a 23-year-old female with EEC syndrome successfully rehabilitated using a custom-made subperiosteal implant. Despite multiple grafting procedures, conventional implants were not viable. A computer-aided design/computer-aided manufacturing-designed, laser-melted titanium subperiosteal implant was planned based on the cone beam computed tomography imaging and digital scans, ensuring optimal adaptation. At 18 months postsurgery, the implant remained stable, with no complications. This case highlights the potential of modern subperiosteal implants as a viable alternative for complex craniofacial reconstructions.",
+      "publication_date": "2026-Jun-26",
+      "publication_date_iso": "2026-06-26",
+      "abstract": "ObjectiveCleft lip and cleft palate are common craniofacial abnormalities, causing significant functional, esthetic, and psychosocial issues if not treated early. Artificial intelligence (AI) is increasingly explored in cleft lip and/or palate (CL/P); however, the quality, consistency, and clinical readiness of the available evidence remain unclear. This study systematically reviewed the existing literature on AI applications in CL/P care and performed an exploratory meta-analysis.DesignA comprehensive search was performed on PubMed, WOS, Scopus, and IEEE Xplore until November 2025, following the PECO question: \"In patients with CL/P (P), how do AI approaches (E), compared with conventional diagnostic methods or human intelligence (C), perform in terms of diagnostic accuracy, predictive performance, or treatment outcomes (O)?\". Studies applying AI to human CL/P data for diagnostic, predictive, or treatment purposes were included. Risk of bias was assessed using appropriate checklists (eg, QUADAS-2). Due to study heterogeneity, random-effects meta-analyses were limited to subgroups evaluating CL/P detection on panoramic radiographs and prediction of orthognathic surgery using lateral cephalograms.ResultsThe search identified 548 articles; after screening and full-text review, 52 studies were included. These studies addressed diagnosis, prediction, and treatment planning. Meta-analysis of CL/P detection indicated pooled sensitivity, specificity, and accuracy of 87%, 89%, and 90%. Prediction of orthognathic surgery showed sensitivity and specificity of 87% and 86%.ConclusionAI is increasingly applied in CL/P management, suggesting high accuracy and consistency in diagnosis, prediction, and treatment evaluation, often approaching expert-level performance.",
       "objective": "",
       "study_methods": "",
       "methods": "",
+      "results": "The search identified 548 articles; after screening and full-text review, 52 studies were included. These studies addressed diagnosis, prediction, and treatment planning. Meta-analysis of CL/P detection indicated pooled sensitivity, specificity, and accuracy of 87%, 89%, and 90%. Prediction of orthognathic surgery showed sensitivity and specificity of 87% and 86%.ConclusionAI is increasingly applied in CL/P management, suggesting high accuracy and consistency in diagnosis, prediction, and treatment evaluation, often approaching expert-level performance.",
+      "conclusion": "AI is increasingly applied in CL/P management, suggesting high accuracy and consistency in diagnosis, prediction, and treatment evaluation, often approaching expert-level performance.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42360076/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42359519",
+      "title": "Factors Influencing Postoperative Recovery Time and Development of a Predictive Model in Patients Undergoing Orthognathic Surgery.",
+      "authors": [
+        "Han Xu",
+        "Ting Li"
+      ],
+      "publication_date": "2026-Jun-26",
+      "publication_date_iso": "2026-06-26",
+      "abstract": "To investigate factors associated with delayed postoperative recovery after orthognathic surgery and to develop a clinically interpretable predictive model for recovery time. This retrospective study included 106 patients who underwent orthognathic surgery between 2024 and 2026. Delayed recovery was defined as an overall recovery time >60 days. Candidate predictors included age, double-jaw surgery, operation time, intraoperative blood loss, postoperative pain score on day 1, swelling score on day 3, and postoperative complications. Univariable and multivariable logistic regression analyses were performed to identify independent risk factors and construct a prediction model. Model performance was evaluated using receiver operating characteristic analysis, calibration assessment, and decision-curve analysis. Among the 106 patients, 39 (36.8%) experienced delayed recovery. Univariable analysis showed that double-jaw surgery, longer operation time, greater blood loss, higher postoperative pain score, and increased swelling score were significantly associated with delayed recovery (all P < 0.05). In multivariable analysis, postoperative pain remained an independent predictor (adjusted OR: 2.11; 95% CI: 1.18-3.79; P = 0.012). Blood loss and operation time showed clinically relevant trends toward significance. The prediction model demonstrated good discrimination with an area under the curve of 0.880. Calibration analysis showed acceptable agreement between predicted and observed outcomes, and decision-curve analysis suggested favorable clinical utility. Delayed recovery after orthognathic surgery was associated with operative burden and early postoperative symptom severity. The proposed prediction model demonstrated good predictive performance and may help support individualized perioperative counseling and postoperative management after external validation.",
+      "objective": "",
+      "study_methods": "This retrospective study included 106 patients who underwent orthognathic surgery between 2024 and 2026. Delayed recovery was defined as an overall recovery time >60 days. Candidate predictors included age, double-jaw surgery, operation time, intraoperative blood loss, postoperative pain score on day 1, swelling score on day 3, and postoperative complications. Univariable and multivariable logistic regression analyses were performed to identify independent risk factors and construct a prediction model. Model performance was evaluated using receiver operating characteristic analysis, calibration assessment, and decision-curve analysis.",
+      "methods": "This retrospective study included 106 patients who underwent orthognathic surgery between 2024 and 2026. Delayed recovery was defined as an overall recovery time >60 days. Candidate predictors included age, double-jaw surgery, operation time, intraoperative blood loss, postoperative pain score on day 1, swelling score on day 3, and postoperative complications. Univariable and multivariable logistic regression analyses were performed to identify independent risk factors and construct a prediction model. Model performance was evaluated using receiver operating characteristic analysis, calibration assessment, and decision-curve analysis.",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40518851/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42359519/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2926,30 +2996,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42351191/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42351121",
-      "title": "Association between pre-existing sleep disorders and post-extraction discomfort in adult patients: a comparative study.",
-      "authors": [
-        "Arda Toptaş",
-        "Onur Koç",
-        "Semih Demirci"
-      ],
-      "publication_date": "2026-Jun-26",
-      "publication_date_iso": "2026-06-26",
-      "abstract": "Postoperative pain and discomfort following tooth extraction are common complications that may negatively affect patients' quality of life. The potential association between pre-existing sleep disturbances and postoperative discomfort remains insufficiently explored. This study aimed to investigate the association between pre-existing sleep disturbances and postoperative pain intensity, emotional impact, and limitations in daily activities in patients undergoing routine tooth extraction. This retrospective observational cohort study included 111 adult patients (18-65 years) who underwent tooth extraction at Hacettepe University. Preoperative sleep quality was assessed using the Jenkins Sleep Scale (JSS). Participants were classified into two groups: Group A (patients with sleep disturbances; JSS ≥ 12, n = 48) and Group B (patients without sleep disturbances; JSS < 12, n = 63). Postoperative outcomes were evaluated on postoperative day 1 using the American Pain Society Patient Outcomes Questionnaire-Revised (APS-POQ-R). The null hypothesis stated that there would be no difference in postoperative discomfort between the two groups. Statistical analyses included the Mann-Whitney U test and Chi-square test. Patients with pre-existing sleep disturbances (Group A) demonstrated significantly higher pain intensity scores (p < 0.001), greater emotional impact (p = 0.030), and increased limitations in daily activities (p = 0.002) compared with Group B. Satisfaction of pain management was significantly lower in Group A (p = 0.016). No statistically significant differences were observed between groups regarding nausea, numbness, itching, or dizziness (p > 0.05). Pre-existing sleep disturbances were significantly associated with increased postoperative discomfort and reduced satisfaction following tooth extraction. The null hypothesis was rejected. However, given the observational design and the lack of predictive analysis, these results should be interpreted cautiously, and further prospective studies are needed before clinical application can be recommended.",
-      "objective": "",
-      "study_methods": "This retrospective observational cohort study included 111 adult patients (18-65 years) who underwent tooth extraction at Hacettepe University. Preoperative sleep quality was assessed using the Jenkins Sleep Scale (JSS). Participants were classified into two groups: Group A (patients with sleep disturbances; JSS ≥ 12, n = 48) and Group B (patients without sleep disturbances; JSS < 12, n = 63). Postoperative outcomes were evaluated on postoperative day 1 using the American Pain Society Patient Outcomes Questionnaire-Revised (APS-POQ-R). The null hypothesis stated that there would be no difference in postoperative discomfort between the two groups. Statistical analyses included the Mann-Whitney U test and Chi-square test.",
-      "methods": "This retrospective observational cohort study included 111 adult patients (18-65 years) who underwent tooth extraction at Hacettepe University. Preoperative sleep quality was assessed using the Jenkins Sleep Scale (JSS). Participants were classified into two groups: Group A (patients with sleep disturbances; JSS ≥ 12, n = 48) and Group B (patients without sleep disturbances; JSS < 12, n = 63). Postoperative outcomes were evaluated on postoperative day 1 using the American Pain Society Patient Outcomes Questionnaire-Revised (APS-POQ-R). The null hypothesis stated that there would be no difference in postoperative discomfort between the two groups. Statistical analyses included the Mann-Whitney U test and Chi-square test.",
-      "results": "should be interpreted cautiously, and further prospective studies are needed before clinical application can be recommended.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42351121/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3082,7 +3128,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42334772/",
       "pmcid": "PMC13291293",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13291293/bin/40798_2026_1049_Fig1_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13291293/bin/40798_2026_1049_Fig1_HTML.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13291293/bin/40798_2026_1049_Fig2_HTML.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13291293/bin/40798_2026_1049_Fig2_HTML.gif"
+      ]
     },
     {
       "pmid": "42332679",
@@ -3215,85 +3266,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42321121/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42321823",
-      "title": "Nasal sill resection concomitant with maxillary orthognathic surgery for the management of alar base widening.",
-      "authors": [
-        "Goksel Timarcioglu",
-        "Ozge Sen Gursoy",
-        "Ecem Gedik",
-        "Celal Candirli"
-      ],
-      "publication_date": "2026-Jun-19",
-      "publication_date_iso": "2026-06-19",
-      "abstract": "Alar base widening is a common soft tissue change following Le Fort I osteotomy. Although alar cinch sutures are commonly used to limit this change, their long-term stability remains variable. Nasal sill resection may provide a direct resective option for managing horizontal excess at the alar base; however, its use concomitantly with maxillary orthognathic surgery has not been well described. This retrospective clinical series aimed to describe longitudinal nasal base width changes and patient-reported aesthetic outcomes following nasal sill resection performed concomitantly with maxillary orthognathic surgery. Twenty-three patients who underwent nasal sill resection concomitantly with maxillary orthognathic surgery under submental intubation between 2018 and 2020 were included. Alar base width was measured from the right and left alar curvature points to the subnasale/midcolumellar point, and total nasal base width was calculated as the sum of both measurements. Measurements were recorded preoperatively (T0), following osteotomy and fixation (T1), following nasal sill resection (T2), and at 1, 3, 6, and 12 months postoperatively. The Rhinoplasty Outcome Evaluation (ROE) questionnaire was administered preoperatively and at 6 and 12 months postoperatively. Repeated measures analyses with Bonferroni correction were used for longitudinal comparisons, and intra-observer reliability was assessed using the intraclass correlation coefficient. The mean preoperative total nasal base width was 39.56 ± 3.12 mm. Following osteotomy and fixation, total nasal base width increased to 47.87 ± 3.64 mm, and after nasal sill resection it decreased to 30.78 ± 2.95 mm. Nasal base width gradually increased during follow-up, reaching 36.61 ± 5.96 mm at 12 months. Although the 12-month value was descriptively lower than the preoperative baseline, this difference was not statistically significant after Bonferroni correction (p = 0.693). ROE scores improved from 10.91 ± 2.68 preoperatively to 17.78 ± 2.54 at 6 months and 18.09 ± 2.27 at 12 months (p < 0.001), with no statistically meaningful difference between the 6- and 12-month follow-ups. No major adverse outcomes related to nasal sill resection were documented during the 12-month follow-up period. In this retrospective clinical series, nasal sill resection performed concomitantly with maxillary orthognathic surgery was associated with maintenance of nasal base width close to the preoperative baseline at 12 months, despite an initial postoperative narrowing. Patient-reported nasal aesthetic scores improved during follow-up. However, because of the uncontrolled retrospective design, limited sample size, and absence of objective functional assessment, these findings should be interpreted as descriptive clinical observations and should be further investigated in prospective controlled studies.",
-      "objective": "functional assessment, these findings should be interpreted as descriptive clinical observations and should be further investigated in prospective controlled studies.",
-      "study_methods": "Twenty-three patients who underwent nasal sill resection concomitantly with maxillary orthognathic surgery under submental intubation between 2018 and 2020 were included. Alar base width was measured from the right and left alar curvature points to the subnasale/midcolumellar point, and total nasal base width was calculated as the sum of both measurements. Measurements were recorded preoperatively (T0), following osteotomy and fixation (T1), following nasal sill resection (T2), and at 1, 3, 6, and 12 months postoperatively. The Rhinoplasty Outcome Evaluation (ROE) questionnaire was administered preoperatively and at 6 and 12 months postoperatively. Repeated measures analyses with Bonferroni correction were used for longitudinal comparisons, and intra-observer reliability was assessed using the intraclass correlation coefficient.",
-      "methods": "Twenty-three patients who underwent nasal sill resection concomitantly with maxillary orthognathic surgery under submental intubation between 2018 and 2020 were included. Alar base width was measured from the right and left alar curvature points to the subnasale/midcolumellar point, and total nasal base width was calculated as the sum of both measurements. Measurements were recorded preoperatively (T0), following osteotomy and fixation (T1), following nasal sill resection (T2), and at 1, 3, 6, and 12 months postoperatively. The Rhinoplasty Outcome Evaluation (ROE) questionnaire was administered preoperatively and at 6 and 12 months postoperatively. Repeated measures analyses with Bonferroni correction were used for longitudinal comparisons, and intra-observer reliability was assessed using the intraclass correlation coefficient.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42321823/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42320378",
-      "title": "Treatment of skeletal Class III malocclusion using the bone-anchored maxillary protraction (BAMP) protocol followed by orthodontic aligners in an adolescent patient: A case report.",
-      "authors": [
-        "Marcelo Keiji Suzuki",
-        "Diego Patrik Alves Carneiro",
-        "Carlos Eduardo Saiki Takeshi Saiki",
-        "Milton Santamaria-Jr"
-      ],
-      "publication_date": "2026-Jun-19",
-      "publication_date_iso": "2026-06-19",
-      "abstract": "Skeletal Class III malocclusion represents a significant challenge in orthodontics due to its impact on facial aesthetics and function, particularly in patients with limited residual growth. Bone-anchored maxillary protraction (BAMP) with miniplates has emerged as an effective alternative to conventional orthopaedic approaches, providing greater skeletal effects with less dentoalveolar compensation. This study reports the clinical management of a patient with limited growth potential and skeletal Class III malocclusion, treated with miniplate-assisted maxillary protraction followed by aligner therapy. A 9-year-8-month-old female patient, presenting with maxillary retrusion and mild mandibular protrusion (SNA=79.2°, SNB=80.8°, ANB=-1.6°, AO-BO=-11.1mm), was treated with four Bollard miniplates and Class III elastics for 9 months. The orthopaedic phase resulted in significant maxillary advancement (SNA increased to 85.1°), improved sagittal relationship (ANB increased to 3.5°), and improved Wits score from -11.1mm to 1.8mm, with minimal changes in mandibular position. Structural overlays demonstrated that the maxillary advancement achieved during the orthopaedic phase was accompanied by vertical mandibular development during the orthodontic phase, thereby favourably redirecting the initial hypodivergent pattern and improving facial balance. Subsequent orthodontic refinement was performed with clear aligners, totalling 130 aligners in multiple refinement stages, leading to Class I relationships in the canines and molars, improved intercuspation, and correction of midline deviation. Although aligner therapy required multiple refinements, satisfactory functional and aesthetic results were obtained without the need for orthognathic surgery in this case. Maxillary protraction assisted by miniplates followed by aligner therapy was effective for the treatment of this case of skeletal Class III malocclusion.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ed in significant maxillary advancement (SNA increased to 85.1°), improved sagittal relationship (ANB increased to 3.5°), and improved Wits score from -11.1mm to 1.8mm, with minimal changes in mandibular position. Structural overlays demonstrated that the maxillary advancement achieved during the orthopaedic phase was accompanied by vertical mandibular development during the orthodontic phase, thereby favourably redirecting the initial hypodivergent pattern and improving facial balance. Subsequent orthodontic refinement was performed with clear aligners, totalling 130 aligners in multiple refinement stages, leading to Class I relationships in the canines and molars, improved intercuspation, and correction of midline deviation. Although aligner therapy required multiple refinements, satisfactory functional and aesthetic results were obtained without the need for orthognathic surgery in this case. Maxillary protraction assisted by miniplates followed by aligner therapy was effective for the treatment of this case of skeletal Class III malocclusion.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42320378/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42214412",
-      "title": "Interlayer-aware postoperative facial appearance prediction in orthognathic surgery with bio-geometric guidance.",
-      "authors": [
-        "Xinguo Zhang",
-        "Han Bao",
-        "Jiacheng Zhong",
-        "Lotfi Senhadji",
-        "Huazhong Shu",
-        "Jiasong Wu",
-        "Luwei Liu",
-        "Bin Yan"
-      ],
-      "publication_date": "2026-Jun-19",
-      "publication_date_iso": "2026-06-19",
-      "abstract": "Objective.Accurate prediction of postoperative facial appearance is essential for orthognathic surgical planning, yet remains challenging due to the nonlinear biomechanical coupling between bone and soft tissue. While deep learning methods offer a faster alternative to traditional biomechanical simulation, they typically map bony displacements directly to facial surface deformation, overlooking the intervening soft-tissue layers with distinct biomechanical properties through which displacement is progressively transmitted. Moreover, the many-to-one effect of regional bony movements on each soft-tissue point remains insufficiently captured.Approach.We propose a novel network that introduces an interlayer mixture-of-experts mechanism to decouple bone-to-surface deformation propagation into three biomechanically inspired proxy representations at different tissue depth levels. Since the contribution of each depth level varies across individuals and facial regions, a gated routing network adaptively weights each layer's contribution, providing a data-driven approximation of spatially heterogeneous, patient-specific deformation transmission. Additionally, a bio-geometric convolution module captures regional bony influences through elastic-weighted neighborhood aggregation.Main results.Evaluations on 88 orthognathic surgery patients demonstrate that the proposed method achieves a mean whole-face error of 1.39 mm, below the 2 mm clinical threshold, with statistically significant improvements over all baselines (p<0.05) and the highest clinician acceptance rate (94%).Significance.By incorporating bio-geometric priors into a deep learning framework, our approach enables a more physically grounded and interpretable prediction paradigm, supporting efficient and clinically reliable surgical planning.",
-      "objective": "Accurate prediction of postoperative facial appearance is essential for orthognathic surgical planning, yet remains challenging due to the nonlinear biomechanical coupling between bone and soft tissue. While deep learning",
-      "study_methods": "",
-      "methods": "",
-      "results": "Evaluations on 88 orthognathic surgery patients demonstrate that the proposed method achieves a mean whole-face error of 1.39 mm, below the 2 mm clinical threshold, with statistically significant improvements over all baselines (p<0.05) and the highest clinician acceptance rate (94%).Significance.By incorporating bio-geometric priors into a deep learning framework, our approach enables a more physically grounded and interpretable prediction paradigm, supporting efficient and clinically reliable surgical planning.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42214412/",
       "pmcid": "",
       "figure_urls": []
     }
