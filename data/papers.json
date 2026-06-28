@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T05:58:26Z",
+  "updated_at": "2026-06-28T06:25:30Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1522,7 +1522,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41839759/",
-      "pmcid": "",
+      "pmcid": "PMC13309207",
       "figure_urls": []
     },
     {
@@ -1604,7 +1604,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41366722/",
-      "pmcid": "",
+      "pmcid": "PMC13309210",
       "figure_urls": []
     },
     {
@@ -2922,6 +2922,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42365299",
+      "title": "Revealing mandibular asymmetry in orthognathic surgery patients via Bonwill triangle morphology: a retrospective cross-sectional study.",
+      "authors": [
+        "Shiuan-Hui Wang",
+        "Tzu-Yuan Weng",
+        "Hao Shih",
+        "Yen-Wen Shen",
+        "Lih-Jyh Fuh",
+        "Jui-Ting Hsu"
+      ],
+      "publication_date": "2026-Jun-27",
+      "publication_date_iso": "2026-06-27",
+      "abstract": "The Bonwill triangle, defined by the mandibular incisor (MI) point and the center of right (CR) and left (CL) condyles, which provide a crucial reference for determining craniofacial symmetry and occlusion. Although three-dimensional imaging has enhanced the precision of triangle measurement, few studies have evaluated Bonwill triangle geometry in patients who have undergone orthognathic surgery (OGS). The present study assessed Bonwill triangle geometry in a Taiwanese population by comparing individuals who underwent OGS and those who did not and by analyzing the effects of sex and age on mandibular asymmetry. Cone-beam computed tomography images from 109 adults (54 in the OGS group and 55 in the non-OGS group) were retrospectively analyzed. Three side lengths of the Bonwill triangle (mandibular incisor point to left condyle (MI-CL), mandibular incisor point to right condyle (MI-CR), and right condyle to left condyle (CR-CL)) were measured using Mimics software. Group comparisons and subgroup analyses by sex and age were conducted using independent and paired t tests and Pearson correlation analysis. The OGS group exhibited greater asymmetry in the bilateral side lengths than the non-OGS group did (3.41 ± 2.35 mm vs. 1.69 ± 1.02 mm, p < 0.001), particularly the men in the group (p < 0.001). Additionally, only the men in the OGS group exhibited a negative correlation between age and bilateral side length (r = - 0.480, p = 0.034). CR-CL length did not differ significantly between the OGS and non-OGS groups. The Bonwill triangle can support preoperative mandibular asymmetryassessments. Candidates for OGS, especially men, exhibit greater skeletal asymmetry than non-OGS candidates do, underscoring a need for individualized planning. Future studies evaluating surgical type and long-term outcomes can enhance the clinical applications of the Bonwill triangle in pre-OGS assessments. This retrospective study was approved by the Institutional Review Board of China Medical University Hospital, Taichung, Taiwan (CMUH 114REC2019).",
+      "objective": "",
+      "study_methods": "Cone-beam computed tomography images from 109 adults (54 in the OGS group and 55 in the non-OGS group) were retrospectively analyzed. Three side lengths of the Bonwill triangle (mandibular incisor point to left condyle (MI-CL), mandibular incisor point to right condyle (MI-CR), and right condyle to left condyle (CR-CL)) were measured using Mimics software. Group comparisons and subgroup analyses by sex and age were conducted using independent and paired t tests and Pearson correlation analysis.",
+      "methods": "Cone-beam computed tomography images from 109 adults (54 in the OGS group and 55 in the non-OGS group) were retrospectively analyzed. Three side lengths of the Bonwill triangle (mandibular incisor point to left condyle (MI-CL), mandibular incisor point to right condyle (MI-CR), and right condyle to left condyle (CR-CL)) were measured using Mimics software. Group comparisons and subgroup analyses by sex and age were conducted using independent and paired t tests and Pearson correlation analysis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42365299/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42360076",
       "title": "Artificial Intelligence Applications in Cleft Lip and Palate Diagnosis, Prediction, and Treatment: A Systematic Review and Meta-Analysis.",
       "authors": [
@@ -3239,33 +3266,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324024/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42321121",
-      "title": "Transformative comprehensive functional and esthetic rehabilitation of amelogenesis imperfecta: An interdisciplinary approach.",
-      "authors": [
-        "Jimmy Londono",
-        "Shazeen Rattansi",
-        "Palak Patel",
-        "Weston J Fortson",
-        "Aram Torosian",
-        "Jasmin Silas"
-      ],
-      "publication_date": "2026-Jun-20",
-      "publication_date_iso": "2026-06-20",
-      "abstract": "This clinical report describes the interdisciplinary treatment of a patient with hypoplastic amelogenesis imperfecta (AI) and an anterior open occlusal relationship. Prior to referral to the prosthodontics department, she had undergone active orthodontic treatment for 5 years. As she presented with skeletal, functional, and esthetic concerns, orthodontic treatment alone was insufficient to address her complex treatment goals. Given the complexity, optimal comprehensive management necessitated an interdisciplinary approach involving orthodontics, endodontics, periodontal therapy, orthognathic surgery, and definitive rehabilitation with minimum preparation adhesively bonded complete coverage restorations. A 5-year follow-up confirmed the stability of the results, with the patient reporting no further issues.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": ", with the patient reporting no further issues.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42321121/",
       "pmcid": "",
       "figure_urls": []
     }
