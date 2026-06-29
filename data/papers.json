@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T06:25:30Z",
+  "updated_at": "2026-06-29T06:55:03Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -90,7 +90,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
       "pmcid": "PMC12943813",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
+      ]
     },
     {
       "pmid": "42327006",
@@ -327,7 +332,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41563872/",
       "pmcid": "PMC12825576",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.gif"
+      ]
     },
     {
       "pmid": "41431197",
@@ -925,7 +935,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42253858/",
       "pmcid": "PMC13233747",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42236166",
@@ -3241,31 +3256,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42330576/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42324024",
-      "title": "Towards an integrative understanding of the human temporalis muscle: Anatomical, histological, and imaging evidence.",
-      "authors": [
-        "Carlos Torres-Villar",
-        "Eva Maranillo",
-        "R Shane Tubbs",
-        "Nicolas E Ottone"
-      ],
-      "publication_date": "2026-Jun-21",
-      "publication_date_iso": "2026-06-21",
-      "abstract": "Traditionally defined as attaching to the mandibular coronoid process, the temporalis muscle (TM) has instead been shown, through anatomical evidence, including dissection, histology, and imaging, to have more variable distal insertions relevant to mastication, deglutition, temporomandibular disorders, and facial reanimation. We have assembled this evidence and propose a classification based on insertion. A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected. From 275 records reviewed, only 22 met the inclusion criteria, with 815 cadaveric TMs recorded by dissection, 26 TMs recorded histologically, and 173 TMs recorded by use of imaging across multiple regions. Overall, AQUA ratings for study objectives, descriptive anatomy, and reporting were rated as low risk but were rated higher risk regarding methodological characterisation. Three bony insertions were identified: (1) on or through the coronoid; (2) between the coronoid and ramus; and (3) between the coronoid, ramus, and retromolar triangle of the mandible. These bony insertions may be modified by accompanying soft-tissue attachments. This information could assist in standardising anatomical communication and aid in research on the TM region. It may also help clarify the function of the TM during chewing and swallowing and improve understanding of temporomandibular joint disorders.",
-      "objective": ", descriptive anatomy, and reporting were rated as low risk but were rated higher risk regarding methodological characterisation. Three bony insertions were identified: (1) on or through the coronoid; (2) between the coronoid and ramus; and (3) between the coronoid, ramus, and retromolar triangle of the mandible. These bony insertions may be modified by accompanying soft-tissue attachments. This information could assist in standardising anatomical communication and aid in research on the TM region. It may also help clarify the function of the TM during chewing and swallowing and improve understanding of temporomandibular joint disorders.",
-      "study_methods": "A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected.",
-      "methods": "A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42324024/",
       "pmcid": "",
       "figure_urls": []
     }
