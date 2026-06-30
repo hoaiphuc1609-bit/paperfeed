@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T06:55:03Z",
+  "updated_at": "2026-06-30T06:17:14Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -2937,6 +2937,109 @@
       "figure_urls": []
     },
     {
+      "pmid": "42374373",
+      "title": "Evaluation of stress distribution in different fixation techniques following bilateral sagittal split osteotomy: three-dimensional finite element analysis.",
+      "authors": [
+        "Mehdi Gholamian",
+        "Mahshid Razavi",
+        "Ali Rohani",
+        "Hossein Ebrahimi",
+        "Saeed Shirafkan"
+      ],
+      "publication_date": "2026-Jun-30",
+      "publication_date_iso": "2026-06-30",
+      "abstract": "The choice of fixation technique following bilateral sagittal split osteotomy (BSSO) plays a critical role in postoperative stability and biomechanical performance. Despite extensive research, the influence of varying mandibular advancement magnitudes and physiologic muscle forces on stress distribution remains insufficiently explored. This study aimed to compare stress distribution patterns and mechanical behavior of two commonly used fixation systems-miniplates (MPs) and bicortical screws (BCSs)-under different mandibular advancement conditions using three-dimensional finite element analysis (FEA). This was a computational in vitro study using three-dimensional FEA based on a patient-specific mandibular model reconstructed from computed tomography data of a 30-year-old male. Simulations were performed to evaluate BSSO under two advancement conditions (3 mm and 9 mm) using different fixation techniques (MPs and BCSs). At 3 mm advancement, MP fixation demonstrated lower stress concentrations in the bone adjacent to screws (242 MPa vs. 270 MPa) but higher stress in teeth and greater displacement compared to BCSs. Conversely, at 9 mm advancement, BCS fixation resulted in higher stress values in teeth, bone, and screws. At the same time, MPs exhibited more favorable stress distribution but increased localized stress around screw-bone interfaces. In all models, stress concentration was predominantly observed in the proximal segment near the vertical osteotomy line. Increasing the advancement magnitude significantly elevated stress levels across all components. The fixation method and the magnitude of advancement significantly influence stress distribution following BSSO. Findings suggest that MPs may provide a favorable stress distribution with smaller advancements, whereas BCSs may offer biomechanical advantages with larger advancements. However, further experimental and clinical validation is required before definitive clinical recommendations can be made.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ed in higher stress values in teeth, bone, and screws. At the same time, MPs exhibited more favorable stress distribution but increased localized stress around screw-bone interfaces. In all models, stress concentration was predominantly observed in the proximal segment near the vertical osteotomy line. Increasing the advancement magnitude significantly elevated stress levels across all components. The fixation method and the magnitude of advancement significantly influence stress distribution following BSSO. Findings suggest that MPs may provide a favorable stress distribution with smaller advancements, whereas BCSs may offer biomechanical advantages with larger advancements. However, further experimental and clinical validation is required before definitive clinical recommendations can be made.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42374373/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42373373",
+      "title": "CAD/CAM-guided total condylar remodelling for the management of active mandibular condylar hyperplasia.",
+      "authors": [
+        "L Villanueva-Alcojol",
+        "F Monje-Gil",
+        "D Gonzalez-Ballester"
+      ],
+      "publication_date": "2026-Jun-29",
+      "publication_date_iso": "2026-06-29",
+      "abstract": "The purpose was to describe a novel computer-aided design/computer-aided manufacturing (CAD/CAM)-guided surgical technique for the management of active mandibular condylar hyperplasia (CH) based on virtual surgical planning (VSP), incorporating combined proximal and lateral condylar remodelling to optimise condyle-fossa adaptation, occlusal relationships, and facial symmetry. The proposed technique integrates three-dimensional imaging, VSP, and patient-specific CAD/CAM cutting guides. Unlike conventional high or proportional condylectomy, the approach includes a planned lateral reduction of condylar width in addition to proximal condylar resection. Surgical planning follows principles analogous to orthognathic surgery, prioritising functional joint congruency over symmetry alone. CAD/CAM-guided total condylar remodelling allows precise three-dimensional modification of condylar height and transverse width, resulting in improved immediate condyle-fossa congruency and elimination of intra-articular dead space. In selected patients, improved immediate symmetry may facilitate postoperative orthodontic-only management. CAD/CAM-guided total condylar remodelling expands the surgical armamentarium for active CH by addressing transverse condylar discrepancies that are not corrected by traditional condylectomy techniques. This anatomically driven approach may improve immediate joint adaptation and optimise treatment options in patients with active unilateral condylar hyperplasia.",
+      "objective": "was to describe a novel computer-aided design/computer-aided manufacturing (CAD/CAM)-guided surgical technique for the management of active mandibular condylar hyperplasia (CH) based on virtual surgical planning (VSP), incorporating combined proximal and lateral condylar remodelling to optimise condyle-fossa adaptation, occlusal relationships, and facial symmetry. The proposed technique integrates three-dimensional imaging, VSP, and patient-specific CAD/CAM cutting guides. Unlike conventional high or proportional condylectomy, the approach includes a planned lateral reduction of condylar width in addition to proximal condylar resection. Surgical planning follows principles analogous to orthognathic surgery, prioritising functional joint congruency over symmetry alone. CAD/CAM-guided total condylar remodelling allows precise three-dimensional modification of condylar height and transverse width, resulting in improved immediate condyle-fossa congruency and elimination of intra-articular dead space. In selected patients, improved immediate symmetry may facilitate postoperative orthodontic-only management. CAD/CAM-guided total condylar remodelling expands the surgical armamentarium for active CH by addressing transverse condylar discrepancies that are not corrected by traditional condylectomy techniques. This anatomically driven approach may improve immediate joint adaptation and optimise treatment options in patients with active unilateral condylar hyperplasia.",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing in improved immediate condyle-fossa congruency and elimination of intra-articular dead space. In selected patients, improved immediate symmetry may facilitate postoperative orthodontic-only management. CAD/CAM-guided total condylar remodelling expands the surgical armamentarium for active CH by addressing transverse condylar discrepancies that are not corrected by traditional condylectomy techniques. This anatomically driven approach may improve immediate joint adaptation and optimise treatment options in patients with active unilateral condylar hyperplasia.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42373373/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42373011",
+      "title": "Effects of SPINK5 on the Biological Characteristics of Oral Squamous Cell Carcinoma Cells and the NOTCH Signaling Pathway.",
+      "authors": [
+        "Zhitao Yao",
+        "Kailibinuer Rezhake",
+        "Guodong Lu",
+        "Maimaitituxun Tuerdi",
+        "Jin Zhao"
+      ],
+      "publication_date": "2026-Jun-29",
+      "publication_date_iso": "2026-06-29",
+      "abstract": "To investigate the effect of SPINK5 on oral squamous cell carcinoma (OSCC) cells by regulating NOTCH signaling pathway. Cancer and adjacent tissue samples were collected from 30 OSCC patients, and SPINK5 expression was analyzed by immunohistochemistry. SPINK5 expression in OSCC cell lines was detected by qPCR, and stable cell lines with SPINK5 overexpression or knockdown were constructed. CCK-8, colony formation, flow cytometry, Transwell, and Western blot assays were used to investigate the effects of SPINK5 on OSCC cell functions and related mechanisms. A nude mouse xenograft model was established to evaluate the effect of SPINK5 on tumor growth in vivo. Immunohistochemistry showed that SPINK5 expression was lower in OSCC tissues than in adjacent tissues, with mean optical density values of 0.05144 ± 0.007814 and 0.1030 ± 0.01709, respectively. qPCR showed different SPINK5 expression levels among OSCC cell lines, with the highest expression in SCC-9 cells (5.930 ± 0.3190). In vitro experiments showed that SPINK5 overexpression inhibited OSCC cell proliferation and colony formation, promoted apoptosis, and suppressed migration, while SPINK5 knockdown showed the opposite effects. SPINK5 also regulated EMT-related markers, including E-cadherin and N-cadherin, and affected NOTCH signaling-related proteins, including NOTCH1, NOTCH2, and NOTCH3. In vivo experiments showed that SPINK5 overexpression suppressed tumor growth. SPINK5 is downregulated in OSCC and may act as a candidate tumor-suppressive gene. SPINK5 may inhibit OSCC progression by regulating proliferation, apoptosis, migration, EMT, and the NOTCH signaling pathway, suggesting its potential value as a prognostic biomarker and therapeutic target for OSCC.",
+      "objective": "",
+      "study_methods": "Cancer and adjacent tissue samples were collected from 30 OSCC patients, and SPINK5 expression was analyzed by immunohistochemistry. SPINK5 expression in OSCC cell lines was detected by qPCR, and stable cell lines with SPINK5 overexpression or knockdown were constructed. CCK-8, colony formation, flow cytometry, Transwell, and Western blot assays were used to investigate the effects of SPINK5 on OSCC cell functions and related mechanisms. A nude mouse xenograft model was established to evaluate the effect of SPINK5 on tumor growth in vivo.",
+      "methods": "Cancer and adjacent tissue samples were collected from 30 OSCC patients, and SPINK5 expression was analyzed by immunohistochemistry. SPINK5 expression in OSCC cell lines was detected by qPCR, and stable cell lines with SPINK5 overexpression or knockdown were constructed. CCK-8, colony formation, flow cytometry, Transwell, and Western blot assays were used to investigate the effects of SPINK5 on OSCC cell functions and related mechanisms. A nude mouse xenograft model was established to evaluate the effect of SPINK5 on tumor growth in vivo.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42373011/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42367103",
+      "title": "Predictors of intraoperative blood loss in bimaxillary orthognathic surgery: A retrospective multivariate analysis.",
+      "authors": [
+        "K Yusa",
+        "N Sasahara",
+        "T Hemmi",
+        "K Kagami",
+        "K Taniguchi",
+        "S Ishikawa"
+      ],
+      "publication_date": "2026-Jun-29",
+      "publication_date_iso": "2026-06-29",
+      "abstract": "The aim of this study was to investigate the relationship between patient demographics and hematological parameters and blood loss during orthognathic surgery. In addition, we investigated whether bone removal around the descending palatine artery (DPA), a procedure that has been widely applied in recent years, is associated with blood loss. This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05. A total of 138 patients (95 women and 43 men; mean age, 24.1±7.1 years) were included. The mean operative time was 269.1±51.3 minutes, and the mean intraoperative blood loss was 277.0±220.4mL. BMI, preoperative Hb, and operative time were significantly correlated with blood loss (P<.05). Male patients experienced significantly greater blood loss than female patients (P<.05). After adjustment, BMI (B=19.5, P=.001), operative time (B=0.95, P=.010), and removal of bone around the DPA (B=92.8, P=.009) were independently associated with increased intraoperative blood loss. The findings in this study are important for preoperative risk assessment, surgical planning, and ensuring patient safety in orthognathic surgery.",
+      "objective": "of this study was to investigate the relationship between patient demographics and hematological parameters and blood loss during orthognathic surgery. In addition, we investigated whether bone removal around the descending palatine artery (DPA), a procedure that has been widely applied in recent years, is associated with blood loss. This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05. A total of 138 patients (95 women and 43 men; mean age, 24.1±7.1 years) were included. The mean operative time was 269.1±51.3 minutes, and the mean intraoperative blood loss was 277.0±220.4mL. BMI, preoperative Hb, and operative time were significantly correlated with blood loss (P<.05). Male patients experienced significantly greater blood loss than female patients (P<.05). After adjustment, BMI (B=19.5, P=.001), operative time (B=0.95, P=.010), and removal of bone around the DPA (B=92.8, P=.009) were independently associated with increased intraoperative blood loss. The findings in this study are important for preoperative risk assessment, surgical planning, and ensuring patient safety in orthognathic surgery.",
+      "study_methods": "This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05.",
+      "methods": "This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42367103/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42365299",
       "title": "Revealing mandibular asymmetry in orthognathic surgery patients via Bonwill triangle morphology: a retrospective cross-sectional study.",
       "authors": [
@@ -3229,33 +3332,6 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42329110/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42330576",
-      "title": "Masseter microvascular perfusion after minimally invasive sagittal split ramus osteotomy: A long-term split-mouth study.",
-      "authors": [
-        "Mert Şahin",
-        "Canay Yılmaz Asan",
-        "Aykağan Çukurluoğlu",
-        "Melisa Oya Acar",
-        "Gökhan Çoban",
-        "Ahmet Emin Demirbaş"
-      ],
-      "publication_date": "2026-Jun-22",
-      "publication_date_iso": "2026-06-22",
-      "abstract": "Sagittal split ramus osteotomy (SSRO), a widely used mandibular procedure in orthognathic surgery, may affect the masticatory muscles through subperiosteal dissection and soft-tissue manipulation. Although minimally invasive modifications aim to reduce surgical trauma, their long-term effect on masseter muscle microvascular perfusion remains unclear. This cross-sectional observational split-mouth study compared minimally invasive SSRO (MISSRO) and conventional SSRO using superb microvascular imaging (SMI). Twenty-one patients who underwent bilateral SSRO for mandibular advancement and completed at least 18 months of follow-up were included. In each patient, the conventional Hunsuck technique was performed on one side, while MISSRO was performed on the contralateral side. Microvascular perfusion was quantified using the vascular index (VI) calculated from SMI images with ImageJ software; masseter muscle thickness was then measured on B-mode ultrasonographic images. The minimally invasive side showed significantly higher microvascular perfusion than the conventional side (VI: 13.72 ± 7.43 vs. 8.24 ± 7.33; p = 0.001), whereas masseter muscle thickness did not differ significantly between sides (9.71 ± 1.87 mm vs. 10.27 ± 1.89 mm; p = 0.052). These findings indicate higher long-term masseter microvascular perfusion on the minimally invasive side; however, in the absence of preoperative or normative reference values and of functional correlates, the clinical significance of this difference remains to be determined.",
-      "objective": "to reduce surgical trauma, their long-term effect on masseter muscle microvascular perfusion remains unclear. This cross-sectional observational split-mouth study compared minimally invasive SSRO (MISSRO) and conventional SSRO using superb microvascular imaging (SMI). Twenty-one patients who underwent bilateral SSRO for mandibular advancement and completed at least 18 months of follow-up were included. In each patient, the conventional Hunsuck technique was performed on one side, while MISSRO was performed on the contralateral side. Microvascular perfusion was quantified using the vascular index (VI) calculated from SMI images with ImageJ software; masseter muscle thickness was then measured on B-mode ultrasonographic images. The minimally invasive side showed significantly higher microvascular perfusion than the conventional side (VI: 13.72 ± 7.43 vs. 8.24 ± 7.33; p = 0.001), whereas masseter muscle thickness did not differ significantly between sides (9.71 ± 1.87 mm vs. 10.27 ± 1.89 mm; p = 0.052). These findings indicate higher long-term masseter microvascular perfusion on the minimally invasive side; however, in the absence of preoperative or normative reference values and of functional correlates, the clinical significance of this difference remains to be determined.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42330576/",
       "pmcid": "",
       "figure_urls": []
     }
