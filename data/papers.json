@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T06:17:14Z",
+  "updated_at": "2026-07-01T06:39:36Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -876,6 +876,39 @@
       "figure_urls": []
     },
     {
+      "pmid": "42378378",
+      "title": "Influence of Metal Artifact Reduction Algorithms on the Detection of Inferior Alveolar Canal Perforations by Zirconia Implants in CBCT Images.",
+      "authors": [
+        "Parisa Soltani",
+        "Mohammad Hossein Manouchehri",
+        "Sara Rostamian",
+        "Hugh Devlin",
+        "Amirhossein Moaddabi",
+        "Aida Ekhtiari",
+        "Mahsa Aeinehvand",
+        "Gianrico Spagnuolo",
+        "Reyhaneh Rostamian",
+        "Niccolo Giuseppe Armogida",
+        "Francesco Riccitiello",
+        "Mariangela Cernera"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "This study aims to evaluate the efficacy of a metal artifact reduction (MAR) algorithm in detecting contact between zirconia implants and inferior alveolar canal. Twelve zirconia implants were placed in dry human mandibles using surgical guides, in two conditions: 1 mm above and within the canal. cone beam computed tomography (CBCT) was acquired with the MAR algorithm turned off and on. Three observers indicated whether canal damage was present using a 5-point Likert scale: 1. Definitely no contact, 2. Probably no contact, 3. Uncertain, 4. Probably contact, and 5. Definitely contact. Sensitivity and specificity were calculated and the ROC curve was used to compare the two conditions (α = 0.05). The area under curve (AUC) was higher in MAR On condition for all observers; however, the differences in AUC between the On and Off MAR states were not statistically significant (p > 0.05): for observer 1, AUC increased from 0.9916 (Off) to 1.0 (On); for Observer 2, it increased from 0.7666 to 0.8833; and for Observer 3, it increased from 0.95 to 1.0. Observers 1 and 3 displayed 100% sensitivity and specificity regardless of MAR activation, while for Observer 2, diagnostic sensitivity increased from 66.7% to 83.3% with MAR activation, while specificity remained constant at 80% in both conditions. For the detection of contact of the zirconia implants with the IAC, activating the MAR algorithm slightly increased the diagnostic performance metrics of CBCT images, but the differences were not statistically significant. Activating the MAR algorithm did not produce a statistically significant improvement in detecting contact between zirconia implants and the inferior alveolar canal.",
+      "objective": "to evaluate the efficacy of a metal artifact reduction (MAR) algorithm in detecting contact between zirconia implants and inferior alveolar canal. Twelve zirconia implants were placed in dry human mandibles using surgical guides, in two conditions: 1 mm above and within the canal. cone beam computed tomography (CBCT) was acquired with the MAR algorithm turned off and on. Three observers indicated whether canal damage was present using a 5-point Likert scale: 1. Definitely no contact, 2. Probably no contact, 3. Uncertain, 4. Probably contact, and 5. Definitely contact. Sensitivity and specificity were calculated and the ROC curve was used to compare the two conditions (α = 0.05). The area under curve (AUC) was higher in MAR On condition for all observers; however, the differences in AUC between the On and Off MAR states were not statistically significant (p > 0.05): for observer 1, AUC increased from 0.9916 (Off) to 1.0 (On); for Observer 2, it increased from 0.7666 to 0.8833; and for Observer 3, it increased from 0.95 to 1.0. Observers 1 and 3 displayed 100% sensitivity and specificity regardless of MAR activation, while for Observer 2, diagnostic sensitivity increased from 66.7% to 83.3% with MAR activation, while specificity remained constant at 80% in both conditions. For the detection of contact of the zirconia implants with the IAC, activating the MAR algorithm slightly increased the diagnostic performance metrics of CBCT images, but the differences were not statistically significant. Activating the MAR algorithm did not produce a statistically significant improvement in detecting contact between zirconia implants and the inferior alveolar canal.",
+      "study_methods": "Twelve zirconia implants were placed in dry human mandibles using surgical guides, in two conditions: 1 mm above and within the canal. cone beam computed tomography (CBCT) was acquired with the MAR algorithm turned off and on. Three observers indicated whether canal damage was present using a 5-point Likert scale: 1. Definitely no contact, 2. Probably no contact, 3. Uncertain, 4. Probably contact, and 5. Definitely contact. Sensitivity and specificity were calculated and the ROC curve was used to compare the two conditions (α = 0.05).",
+      "methods": "Twelve zirconia implants were placed in dry human mandibles using surgical guides, in two conditions: 1 mm above and within the canal. cone beam computed tomography (CBCT) was acquired with the MAR algorithm turned off and on. Three observers indicated whether canal damage was present using a 5-point Likert scale: 1. Definitely no contact, 2. Probably no contact, 3. Uncertain, 4. Probably contact, and 5. Definitely contact. Sensitivity and specificity were calculated and the ROC curve was used to compare the two conditions (α = 0.05).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42378378/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42290666",
       "title": "The potential of calcitriol gel in accelerating the healing of traumatic oral ulcers.",
       "authors": [
@@ -1321,35 +1354,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42160799",
-      "title": "Why detailed modeling matters in the FE-based pre-clinical evaluation of temporomandibular joint implants.",
-      "authors": [
-        "Girish Chandra",
-        "Rajdeep Ghosh",
-        "Vivek Verma",
-        "Kamalpreet Kaur",
-        "Ajoy Roychoudhury",
-        "Sudipto Mukherjee",
-        "Anoop Chawla",
-        "Kaushik Mukherjee"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "End-stage temporomandibular joint (TMJ) disorders often necessitate joint replacement to restore bilateral mastication. Patient-specific TMJ implants typically rely on detailed in silico modeling derived from subject-specific computed tomography (CT) scans of the mandible. However, generating highly detailed finite element (FE) models is computationally expensive. Although structural simplifications of the mandible are known to influence mechanical behavior, their quantitative impact on TMJ implant evaluation has not been systematically investigated. Our study examined the influence of three modeling simplifications on stress-strain predictions in intact and implanted mandibles: (i) a detailed segmented mandible with tissue-specific material properties (Model 1); (ii) a simplified mandible comprising cortical bone only (Model 2); and (iii) a further simplified mandible excluding dental crowns (Model 3). Both narrow and standard TMJ implants were analyzed under osseointegrated and non-osseointegrated conditions, resulting in 15 FE models. Physiological clenching activities were simulated. Compared with the detailed model, simplified models showed reductions of up to 50% in maximum principal strain in bone and up to 44% in von Mises stress in TMJ implants, while preserving spatial stress-strain trends. These findings indicate that simplified models may be suitable for preliminary implant design, whereas detailed FE modeling remains essential for final preclinical evaluation.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in 15 FE models. Physiological clenching activities were simulated. Compared with the detailed model, simplified models showed reductions of up to 50% in maximum principal strain in bone and up to 44% in von Mises stress in TMJ implants, while preserving spatial stress-strain trends. These findings indicate that simplified models may be suitable for preliminary implant design, whereas detailed FE modeling remains essential for final preclinical evaluation.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42160799/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42045061",
       "title": "Letter to the editor on \"Cannabis-related facial trauma: a 10-year review of facial trauma in Victoria, Australia\".",
       "authors": [
@@ -1571,6 +1575,54 @@
       "figure_urls": []
     },
     {
+      "pmid": "41582014",
+      "title": "Validation of surface-based registration for genioplasty osteotomies: comparison with regional voxel-based registration.",
+      "authors": [
+        "M D Han",
+        "S Graca"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Despite lower reported accuracy of genioplasty osteotomies, significant variation exists in the accuracy analysis techniques, without full validation. The purpose of this study was to compare the accuracy of surface-based registration (SBR) and regional voxel-based registration (R-VBR) for genioplasty osteotomies, to allow greater rigor in scrutinizing accuracy data. In a retrospective cross-sectional study of consecutive genioplasty patients at a single-center over a 5-year period, postoperative cone-beam computed tomography (CBCT) scans were collected. The CBCTs were oriented to a known pitch/roll/yaw and set as the reference, and compared with the unoriented raw volumes. Both volumes were segmented to surface models, and SBR was performed using the genioplasty segment as the mutual region of interest. Angular (°) and linear (mm) errors at the pogonion and menton were measured, and compared with those of R-VBR, with accuracy thresholds of 0.5° and 0.3 mm. In 34 eligible subjects, angular errors ranged from 0.32° to 0.64°, and linear errors ranged from 0.11 to 0.44 mm for SBR (P < 0.001). R-VBR showed greater angular errors, but smaller linear errors of 0.10 to 0.20 mm (P < 0.001). SBR and R-VBR have variable accuracy for genioplasty, with angular and linear accuracy favoring SBR and R-VBR, respectively.",
+      "objective": "of this study was to compare the accuracy of surface-based registration (SBR) and regional voxel-based registration (R-VBR) for genioplasty osteotomies, to allow greater rigor in scrutinizing accuracy data. In a retrospective cross-sectional study of consecutive genioplasty patients at a single-center over a 5-year period, postoperative cone-beam computed tomography (CBCT) scans were collected. The CBCTs were oriented to a known pitch/roll/yaw and set as the reference, and compared with the unoriented raw volumes. Both volumes were segmented to surface models, and SBR was performed using the genioplasty segment as the mutual region of interest. Angular (°) and linear (mm) errors at the pogonion and menton were measured, and compared with those of R-VBR, with accuracy thresholds of 0.5° and 0.3 mm. In 34 eligible subjects, angular errors ranged from 0.32° to 0.64°, and linear errors ranged from 0.11 to 0.44 mm for SBR (P < 0.001). R-VBR showed greater angular errors, but smaller linear errors of 0.10 to 0.20 mm (P < 0.001). SBR and R-VBR have variable accuracy for genioplasty, with angular and linear accuracy favoring SBR and R-VBR, respectively.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582014/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41577488",
+      "title": "A modified minimally invasive Le Fort I approach allowing four-point fixation osteosynthesis using lateral punctiform incisions.",
+      "authors": [
+        "S Morand",
+        "O Morel",
+        "E Lange",
+        "A Gleizal"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Surgical techniques in orthognathic surgery have recently evolved and now tend towards soft-tissue-preserving approaches. The concept of minimally invasive Le Fort I osteotomy and down-fracture is interesting, as it preserves almost all paranasal and upper-lip musculature. It has already been described with a four-point fixation on the canine and zygomatic buttress pillars, depending on the mucosal incision length and plate type. This article proposes an alternative technique, respecting the concept of minimally invasive surgery, with a very small medial mucosal incision adding two lateral punctiform incisions, thus enabling a four-point fixation of the Le Fort I fracture. This technique allows wide maxillary movements, significant maxillary expansion; and can be performed even if the surgeon does not have very specific instrumentation. Compared with previously described techniques, this approach offers equivalent surgical exposure, improved access for four-point fixation, and greater safety against mucosal tearing, while maintaining the minimally invasive concept.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41577488/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41500926",
       "title": "Surgical treatment of displaced intraarticular pediatric condyle fractures.",
       "authors": [
@@ -1728,6 +1780,29 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13278709/bin/jmc-17-07-303-g003.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13278709/bin/jmc-17-07-303-g004.jpg"
       ]
+    },
+    {
+      "pmid": "42281344",
+      "title": "Exploring the role of alpha-tocopherol in pain and inflammation: interplay with TRPV1, PKA, and PKC pathways.",
+      "authors": [
+        "Sahar Jaffal",
+        "Sawsan Oran"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Alpha-tocopherol (vitamin E) is a fat-soluble antioxidant with neuroprotective properties. There is a gap in research regarding the anti-nociceptive and anti-inflammatory effects of alpha-tocopherol in different tests of nociception as well as its signaling pathways. Therefore, this study aimed to assess the anti-nociceptive and anti-inflammatory effects of alpha-tocopherol in vivo and examine the potential involvement of transient receptor potential vanilloid 1 (TRPV1) and downstream kinase pathways, particularly protein kinases protein kinase A (PKA) and protein kinase C (PKC). Male Swiss albino mice were used in acetic acid-induced writhing, immersion tail-flick, and hot-plate tests for nociception while male Wistar rats were used in carrageenan-induced paw edema assay for inflammation. Alpha-tocopherol (50 mg/kg, i.p.), alone or in combination with TRPV1 antagonist (capsazepine) or PKC/PKA inhibitors (Go 6976, H89, respectively) was administered, followed by conducting the behavioral tests. TRPV1 expression in brain and skin tissues was examined using immunohistochemistry. Alpha-tocopherol significantly reduced writhing responses and extended heat latency in thermal tests. The TRPV1 was involved in the hot-plate and immersion tail-flick assays, while PKC and PKA pathways were implicated in the supraspinal analgesic effect (the hot plate test). Alpha-tocopherol (20 μg) did not exert any significant anti-inflammatory effect in the carrageenan model. Intense TRPV1 immunolabeling was observed in the alpha-tocopherol/ carrageenan condition, particularly in the skin. Alpha-tocopherol possesses a strong anti-nociceptive effect through TRPV1 modulation via PKC/PKA-dependent mechanisms. These findings suggest that alpha-tocopherol can be used as an adjuvant in multimodal pain management protocols.",
+      "objective": "",
+      "study_methods": "Male Swiss albino mice were used in acetic acid-induced writhing, immersion tail-flick, and hot-plate tests for nociception while male Wistar rats were used in carrageenan-induced paw edema assay for inflammation. Alpha-tocopherol (50 mg/kg, i.p.), alone or in combination with TRPV1 antagonist (capsazepine) or PKC/PKA inhibitors (Go 6976, H89, respectively) was administered, followed by conducting the behavioral tests. TRPV1 expression in brain and skin tissues was examined using immunohistochemistry.",
+      "methods": "Male Swiss albino mice were used in acetic acid-induced writhing, immersion tail-flick, and hot-plate tests for nociception while male Wistar rats were used in carrageenan-induced paw edema assay for inflammation. Alpha-tocopherol (50 mg/kg, i.p.), alone or in combination with TRPV1 antagonist (capsazepine) or PKC/PKA inhibitors (Go 6976, H89, respectively) was administered, followed by conducting the behavioral tests. TRPV1 expression in brain and skin tissues was examined using immunohistochemistry.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42281344/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "42276610",
@@ -2847,6 +2922,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "40993494",
+      "title": "Five-year outcomes of patient quality of life, satisfaction, and preconceptions following root canal treatment, re-treatment, or single dental implant placement in the anterior zone.",
+      "authors": [
+        "Carlota de España",
+        "Juan Gonzalo Olivieri",
+        "Jordi Ortega",
+        "Sergio Morelló",
+        "Marc Encinas",
+        "Fernando Durán-Sindreu"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "The primary aim of this study was to compare the overall satisfaction and quality of life (QoL) up to 5 years after treatment in patients who underwent root canal treatment (RCT), re-treatment (re-RCT), or single tooth implant (STI) placement in the anterior zone. The secondary aim was to analyze factors influencing decision-making and patients' fear levels. This cross-sectional study entailed face-to-face personal interviews performed 5 years after treatment. The procedures were performed in private practice by two experienced dentists, specialists in Endodontics and Oral Surgery and Implantology, respectively. The Chi-squared test was used to evaluate the differences in treatment decision-making. Factors influencing treatment decisions were compared using the Kruskal-Wallis test, while ANOVA was employed to assess Oral Health Impact Profile (OHIP)-14 scores and overall satisfaction. Significance was set at p < 0.05. Most patients reported that decisions were made jointly with their dentist, with no differences among groups (p > 0.05). Esthetics were the most influential factor in decision-making (p < 0.05). No differences were found in overall satisfaction among the groups (p > 0.05). STI treatment induced the highest perceived fear and pain scores (p < 0.05). Significant differences were found in some domains of the OHIP-14 in the STI group compared with the RCT and re-RCT groups (p < 0.05). No differences were found between the RCT and re-RCT groups (p > 0.05). Endodontic treatments (RCT and re-RCT) yielded high patient QoL and satisfaction levels comparable to STI, while resulting in lower social disability, psychological discomfort, and physical disability. Esthetics were the most influential determinant across all procedures. In addition, STI resulted in significantly higher perceived fear and pain levels compared with endodontic procedures. The present study's findings underscore the importance of personalized, patient-centered approaches in dental practice to enhance long-term patient satisfaction and outcomes.",
+      "objective": "of this study was to compare the overall satisfaction and quality of life (QoL) up to 5 years after treatment in patients who underwent root canal treatment (RCT), re-treatment (re-RCT), or single tooth implant (STI) placement in the anterior zone. The secondary aim was to analyze factors influencing decision-making and patients' fear levels. This cross-sectional study entailed face-to-face personal interviews performed 5 years after treatment. The procedures were performed in private practice by two experienced dentists, specialists in Endodontics and Oral Surgery and Implantology, respectively. The Chi-squared test was used to evaluate the differences in treatment decision-making. Factors influencing treatment decisions were compared using the Kruskal-Wallis test, while ANOVA was employed to assess Oral Health Impact Profile (OHIP)-14 scores and overall satisfaction. Significance was set at p < 0.05. Most patients reported that decisions were made jointly with their dentist, with no differences among groups (p > 0.05). Esthetics were the most influential factor in decision-making (p < 0.05). No differences were found in overall satisfaction among the groups (p > 0.05). STI treatment induced the highest perceived fear and pain scores (p < 0.05). Significant differences were found in some domains of the OHIP-14 in the STI group compared with the RCT and re-RCT groups (p < 0.05). No differences were found between the RCT and re-RCT groups (p > 0.05). Endodontic treatments (RCT and re-RCT) yielded high patient QoL and satisfaction levels comparable to STI, while resulting in lower social disability, psychological discomfort, and physical disability. Esthetics were the most influential determinant across all procedures. In addition, STI resulted in significantly higher perceived fear and pain levels compared with endodontic procedures. The present study's findings underscore the importance of personalized, patient-centered approaches in dental practice to enhance long-term patient satisfaction and outcomes.",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing in lower social disability, psychological discomfort, and physical disability. Esthetics were the most influential determinant across all procedures. In addition, STI resulted in significantly higher perceived fear and pain levels compared with endodontic procedures. The present study's findings underscore the importance of personalized, patient-centered approaches in dental practice to enhance long-term patient satisfaction and outcomes.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40993494/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "40665709",
       "title": "Long-Term Midfacial Growth and Speech Outcomes Following Modified Furlow Double-Opposing Z-Palatoplasty.",
       "authors": [
@@ -2879,60 +2981,50 @@
       "figure_urls": []
     },
     {
-      "pmid": "40590056",
-      "title": "Patient-Reported Outcomes of Primary Cleft Rhinoplasty: A Long-Term Assessment Using CLEFT-Q.",
+      "pmid": "42377078",
+      "title": "Bypassing mandibular osseous defect using the high oblique sagittal split osteotomy: a case report and review of literature.",
       "authors": [
-        "Isabel A Ryan",
-        "Jinggang J Ng",
-        "Jusung Kim",
-        "Philip D Tolley",
-        "Oksana A Jackson",
-        "David W Low",
-        "Scott P Bartlett",
-        "Jesse A Taylor",
-        "Eric C Liao",
-        "Jordan W Swanson"
+        "Sung Jun Ma",
+        "Gary James Chern-Wei Teoh",
+        "Leonardo Saigo"
       ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "ObjectiveRhinoplasty maneuvers at the time of cleft lip (CL) repair remain controversial. Particularly, the impact of primary rhinoplasty (PR) on patient-reported outcomes (PROs) and quality of life (QoL) is largely unknown. This study aims to compare PROs and QoL in patients with CL who did or did not undergo PR.DesignRetrospective study.SettingAcademic tertiary care center.Patients, ParticipantsPatients with CL who completed the CLEFT-Q from 2021 to 2024 and had undergone definitive CL repair at our institution.InterventionsPR or no primary rhinoplasty (NPR) at the time of CL repair.Main Outcome Measure(s)The primary outcome was CLEFT-Q scores across facial appearance, health-related QoL, and facial function domains.ResultsA total of 109 patients with 110 CLEFT-Q responses were included. 22% (n = 24) underwent NPR and 78% (n = 85) PR at time of CL repair. Median age at lip repair was 4.6 [1.6] months, and at CLEFT-Q survey was 10.2 [1.6] years. Among those with intermediate rhinoplasty, nose scores were significantly higher in PR compared to NPR on overall (75 vs. 57, P = .026) and unilateral CL analysis (75 vs. 57, P = .018). NPR patients were significantly more likely to undergo intermediate rhinoplasty than PR patients (71%, n = 17 vs 33%, n = 28, P < .001).ConclusionsPR is associated with improved self-perception of nasal appearance in school-aged children with CL compared to those who did not undergo PR.",
-      "objective": "to compare PROs and QoL in patients with CL who did or did not undergo PR.DesignRetrospective study.SettingAcademic tertiary care center.Patients, ParticipantsPatients with CL who completed the CLEFT-Q from 2021 to 2024 and had undergone definitive CL repair at our institution.InterventionsPR or no primary rhinoplasty (NPR) at the time of CL repair.Main Outcome Measure(s)The primary outcome was CLEFT-Q scores across facial appearance, health-related QoL, and facial function domains.ResultsA total of 109 patients with 110 CLEFT-Q responses were included. 22% (n = 24) underwent NPR and 78% (n = 85) PR at time of CL repair. Median age at lip repair was 4.6 [1.6] months, and at CLEFT-Q survey was 10.2 [1.6] years. Among those with intermediate rhinoplasty, nose scores were significantly higher in PR compared to NPR on overall (75 vs. 57, P = .026) and unilateral CL analysis (75 vs. 57, P = .018). NPR patients were significantly more likely to undergo intermediate rhinoplasty than PR patients (71%, n = 17 vs 33%, n = 28, P < .001).ConclusionsPR is associated with improved self-perception of nasal appearance in school-aged children with CL compared to those who did not undergo PR.",
+      "publication_date": "2026-Jun-30",
+      "publication_date_iso": "2026-06-30",
+      "abstract": "The presence of a mandibular osseous defect significantly complicates revision orthognathic surgery by increasing the risk of unfavorable fractures and inferior alveolar nerve (IAN) injury. In such instances, the high oblique sagittal split osteotomy (HOSSO) serves as a strategic alternative to the conventional bilateral sagittal split osteotomy. We report a case involving a 31-year-old Chinese female presenting with skeletal relapse twelve years after the primary bimaxillary surgery. Preoperative imaging identified a 1.5×1.5 cm circular osseous defect in the right mandibular body, communicating with the IAN canal. To bypass the defect site, a unilateral HOSSO was performed on the right mandible, while a standard sagittal split ramus osteotomy was utilized on the left. Postoperative clinical and radiographic evaluations at six months demonstrated satisfactory facial profile improvement and stable occlusion, with absence of neurosensory deficits or unfavorable fractures. This case underscores the importance of thorough preoperative radiographic assessment and suggests that HOSSO is a safe, effective technique for bypassing localized mandibular body pathology, particularly during revision procedures.",
+      "objective": "",
       "study_methods": "",
       "methods": "",
-      "results": "A total of 109 patients with 110 CLEFT-Q responses were included. 22% (n = 24) underwent NPR and 78% (n = 85) PR at time of CL repair. Median age at lip repair was 4.6 [1.6] months, and at CLEFT-Q survey was 10.2 [1.6] years. Among those with intermediate rhinoplasty, nose scores were significantly higher in PR compared to NPR on overall (75 vs. 57, P = .026) and unilateral CL analysis (75 vs. 57, P = .018). NPR patients were significantly more likely to undergo intermediate rhinoplasty than PR patients (71%, n = 17 vs 33%, n = 28, P < .001).ConclusionsPR is associated with improved self-perception of nasal appearance in school-aged children with CL compared to those who did not undergo PR.",
-      "conclusion": "PR is associated with improved self-perception of nasal appearance in school-aged children with CL compared to those who did not undergo PR.",
+      "results": "",
+      "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40590056/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42377078/",
       "pmcid": "",
       "figure_urls": []
     },
     {
-      "pmid": "40519124",
-      "title": "From Hip to Tip: Harvesting Iliac Crest Cartilage for Delayed Cleft Rhinoplasty.",
+      "pmid": "42376830",
+      "title": "Comparison of the Effects of Functional Treatment and Orthognathic Surgery on Hyoid Bone Position Following Mandibular Advancement.",
       "authors": [
-        "Savannah C Braud",
-        "Zachary D Zapatero",
-        "Yuliia Kovach",
-        "Mangalam Karuppiah",
-        "Milind Sangani",
-        "David W Low"
+        "Fırat Oğuz",
+        "Handan Göze Oğuz",
+        "Turgay Karataş"
       ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "ObjectiveThis study evaluates nasal symmetry outcomes in patients with unilateral cleft lip (UCL) who underwent delayed rhinoplasty during iliac bone grafting (IBG), allowing concurrent bone grafting and cartilage harvesting to reduce donor sites.DesignRetrospective cohort study.SettingTertiary care pediatric hospital.PatientsThose with UCL who underwent IBG and primary rhinoplasty during the same operation.InterventionsPrimary rhinoplasty at the time of IBG.Main outcome measuresCephalometric analyses of pre- and postoperative basilar view nasal images assessed nostril height, nostril width, nasal circumference, and angle of columellar deviation.ResultsThe final cohort included 52 patients with a mean age of 7.61 years (range 5.51-13.7) at the time of concurrent IBG and delayed rhinoplasty, with a mean follow-up of 4.6 years (range 1.02-15.1). Cephalometric measurements were evaluated by the ratio of the shorter or smaller side to the longer or larger side. Average preoperative nostril height was 0.70 (range 0.23-0.95) which increased postoperatively to 1.0 (range 0.60-8.35) (P = 0.047). Average preoperative circumference was 1.27 (range 0.67-2.01) which decreased to 1.12 (range 0.70-1.68) postoperatively (P = 0.011). The angle of columellar deviation averaged 8.0 degrees (range 1.57-18.7) preoperatively which decreased to 6.0 degrees (range 0.22-18.4) postoperatively (P = 0.010).ConclusionsDelaying primary rhinoplasty until the time of IBG yields satisfactory outcomes, with iliac crest cartilage providing favorable, longlasting results in patients with UCL. This approach reduces the need for an additional donor site and may reduce the need for subsequent definitive rhinoplasty.",
+      "publication_date": "2026-Jun-30",
+      "publication_date_iso": "2026-06-30",
+      "abstract": "To compare the effects of functional orthopedic treatment and mandibular advancement induced by orthognathic surgery on hyoid bone position in individuals with skeletal Class II malocclusion, relative to an untreated control group. Fifty-six individuals were divided into functional (n=20), surgical (n=16), and control groups (n=20). Lateral cephalometric images obtained at pretreatment (T0) and posttreatment (T1) were analyzed using WebCeph software. The linear (aC2-H, aC3-H, aC4-H, S-H, N-H, ANS-PNS- H) and angular (SNA, SNB, ANB, Go-H-S, H-S-N, H-PNS-ANS) describing hyoid bone position were measured. Data normality was assessed with the Shapiro-Wilk test, followed by one-way ANOVA or Kruskal-Wallis test, as appropriate. Intragroup changes were evaluated using paired tests, and post-hoc analyses were performed using Tukey honestly significant difference or Dunn-Bonferroni methods. Measurement reliability was confirmed (intraclass correlation coefficients >0.90). At T0, the orthognathic surgery group showed significantly higher aC2-H, aC3-H, aC4-H, S-H, N-H, and ANS-PNS-H measurements compared to the other groups (p<0.05), while angular variables did not differ significantly. At T1, intergroup differences in hyoid position were no longer significant (p>0.05). Intragroup analysis revealed significant increases in aC2-H, aC4-H, S-H, and N-H in the functional treatment group, whereas significant decreases in N-H, H-S-N, and H-PNS-ANS were observed in the orthognathic surgery group. Changes in the control group were minimal. Functional treatment resulted in anterior-inferior displacement of the hyoid bone, whereas orthognathic surgery predominantly induced superior displacement without significant anteroposterior change. Both treatment modalities improved mandibular skeletal relationships, while hyoid position remained largely stable in untreated individuals.",
       "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "The final cohort included 52 patients with a mean age of 7.61 years (range 5.51-13.7) at the time of concurrent IBG and delayed rhinoplasty, with a mean follow-up of 4.6 years (range 1.02-15.1). Cephalometric measurements were evaluated by the ratio of the shorter or smaller side to the longer or larger side. Average preoperative nostril height was 0.70 (range 0.23-0.95) which increased postoperatively to 1.0 (range 0.60-8.35) (P = 0.047). Average preoperative circumference was 1.27 (range 0.67-2.01) which decreased to 1.12 (range 0.70-1.68) postoperatively (P = 0.011). The angle of columellar deviation averaged 8.0 degrees (range 1.57-18.7) preoperatively which decreased to 6.0 degrees (range 0.22-18.4) postoperatively (P = 0.010).ConclusionsDelaying primary rhinoplasty until the time of IBG yields satisfactory outcomes, with iliac crest cartilage providing favorable, longlasting results in patients with UCL. This approach reduces the need for an additional donor site and may reduce the need for subsequent definitive rhinoplasty.",
-      "conclusion": "Delaying primary rhinoplasty until the time of IBG yields satisfactory outcomes, with iliac crest cartilage providing favorable, longlasting results in patients with UCL. This approach reduces the need for an additional donor site and may reduce the need for subsequent definitive rhinoplasty.",
+      "study_methods": "Fifty-six individuals were divided into functional (n=20), surgical (n=16), and control groups (n=20). Lateral cephalometric images obtained at pretreatment (T0) and posttreatment (T1) were analyzed using WebCeph software. The linear (aC2-H, aC3-H, aC4-H, S-H, N-H, ANS-PNS- H) and angular (SNA, SNB, ANB, Go-H-S, H-S-N, H-PNS-ANS) describing hyoid bone position were measured. Data normality was assessed with the Shapiro-Wilk test, followed by one-way ANOVA or Kruskal-Wallis test, as appropriate. Intragroup changes were evaluated using paired tests, and post-hoc analyses were performed using Tukey honestly significant difference or Dunn-Bonferroni methods. Measurement reliability was confirmed (intraclass correlation coefficients >0.90).",
+      "methods": "Fifty-six individuals were divided into functional (n=20), surgical (n=16), and control groups (n=20). Lateral cephalometric images obtained at pretreatment (T0) and posttreatment (T1) were analyzed using WebCeph software. The linear (aC2-H, aC3-H, aC4-H, S-H, N-H, ANS-PNS- H) and angular (SNA, SNB, ANB, Go-H-S, H-S-N, H-PNS-ANS) describing hyoid bone position were measured. Data normality was assessed with the Shapiro-Wilk test, followed by one-way ANOVA or Kruskal-Wallis test, as appropriate. Intragroup changes were evaluated using paired tests, and post-hoc analyses were performed using Tukey honestly significant difference or Dunn-Bonferroni methods. Measurement reliability was confirmed (intraclass correlation coefficients >0.90).",
+      "results": "ed in anterior-inferior displacement of the hyoid bone, whereas orthognathic surgery predominantly induced superior displacement without significant anteroposterior change. Both treatment modalities improved mandibular skeletal relationships, while hyoid position remained largely stable in untreated individuals.",
+      "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40519124/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42376830/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3221,117 +3313,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42335338/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42337829",
-      "title": "Are CT-Based Commercial Dental Splints Useful in Pediatric Facial Trauma?",
-      "authors": [
-        "Rebecca Paquin",
-        "J Fredrik Grimmer",
-        "Andrew R Scott"
-      ],
-      "publication_date": "2026-Jun-23",
-      "publication_date_iso": "2026-06-23",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42337829/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42334772",
-      "title": "Injury Patterns in Soccer-Induced Maxillofacial Fractures and Ocular Trauma: A Narrative Review.",
-      "authors": [
-        "Anaas M Mergoum",
-        "Jacob Lentner",
-        "Brooke Echter",
-        "Jacob Roskam",
-        "Grant S Hamilton",
-        "James D Smith"
-      ],
-      "publication_date": "2026-Jun-23",
-      "publication_date_iso": "2026-06-23",
-      "abstract": "Maxillofacial fractures and ocular trauma are significant injuries in soccer, with potential functional, aesthetic, and visual consequences if unrecognized. Few reviews have specifically examined both injury patterns in this sport. The purpose of this narrative review is to synthesize the current literature to identify injury patterns associated with maxillofacial fractures and ocular trauma in soccer, thereby aiding clinicians in timely diagnosis and management. Given the heterogeneity and limited quality of the available evidence, this review also highlights areas where further research is needed. The zygoma was the most commonly fractured maxillofacial bone in soccer (32.8%), followed by the nasal (28.4%), mandibular (25.8%), orbital (6.5%), maxillary (3.6%), and frontal sinus (2.8%) regions. Among mandibular fractures, the angle was the most vulnerable site, accounting for 39.2% of cases. Head-to-head contact was the most frequent mechanism resulting in injury; however, although less common, arm or elbow impacts were more likely to result in fracture when they occurred. Ocular injuries most often present as orbital or eyelid contusions and lacerations (37.1%) and hyphemas (19.5%), with direct ball impact as the primary cause. Boys (60.4%-69.5%) were at greater risk than girls for ball sport-related ocular trauma, particularly those aged 2-9 years, with soccer being the leading sport implicated. Overall, these trends are based largely on small case series, reflecting the low quality of available evidence. The zygoma is the most frequently fractured maxillofacial bone, typically resulting from head-to-head collisions. Direct soccer ball impact accounts for most ocular injuries in this sport, with orbital or eyelid contusions and lacerations most common, followed by hyphemas. Pediatric players may be particularly susceptible to soccer-related ocular trauma, possibly due to an underdeveloped orbital rim. Fundoscopic examination is essential after ball impact to detect vitreoretinal injury, even when visual acuity is normal. Further well-designed studies are needed to confirm these findings.",
-      "objective": "of this narrative review is to synthesize the current literature to identify injury patterns associated with maxillofacial fractures and ocular trauma in soccer, thereby aiding clinicians in timely diagnosis and management. Given the heterogeneity and limited quality of the available evidence, this review also highlights areas where further research is needed. The zygoma was the most commonly fractured maxillofacial bone in soccer (32.8%), followed by the nasal (28.4%), mandibular (25.8%), orbital (6.5%), maxillary (3.6%), and frontal sinus (2.8%) regions. Among mandibular fractures, the angle was the most vulnerable site, accounting for 39.2% of cases. Head-to-head contact was the most frequent mechanism resulting in injury; however, although less common, arm or elbow impacts were more likely to",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in injury; however, although less common, arm or elbow impacts were more likely to result in fracture when they occurred. Ocular injuries most often present as orbital or eyelid contusions and lacerations (37.1%) and hyphemas (19.5%), with direct ball impact as the primary cause. Boys (60.4%-69.5%) were at greater risk than girls for ball sport-related ocular trauma, particularly those aged 2-9 years, with soccer being the leading sport implicated. Overall, these trends are based largely on small case series, reflecting the low quality of available evidence. The zygoma is the most frequently fractured maxillofacial bone, typically resulting from head-to-head collisions. Direct soccer ball impact accounts for most ocular injuries in this sport, with orbital or eyelid contusions and lacerations most common, followed by hyphemas. Pediatric players may be particularly susceptible to soccer-related ocular trauma, possibly due to an underdeveloped orbital rim. Fundoscopic examination is essential after ball impact to detect vitreoretinal injury, even when visual acuity is normal. Further well-designed studies are needed to confirm these findings.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42334772/",
-      "pmcid": "PMC13291293",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13291293/bin/40798_2026_1049_Fig1_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13291293/bin/40798_2026_1049_Fig1_HTML.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13291293/bin/40798_2026_1049_Fig2_HTML.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13291293/bin/40798_2026_1049_Fig2_HTML.gif"
-      ]
-    },
-    {
-      "pmid": "42332679",
-      "title": "Attitudes and practices regarding preoperative psychological evaluation in orthognathic surgery: a scenario-based national survey of Turkish oral and maxillofacial surgeons.",
-      "authors": [
-        "Şeydanur Urhan Güçlü",
-        "Pelin Aydın",
-        "Murat Kaan Erdem",
-        "Mustafa Ercüment Önder",
-        "Reha Ş Kişnişci"
-      ],
-      "publication_date": "2026-Jun-23",
-      "publication_date_iso": "2026-06-23",
-      "abstract": "Orthognathic surgery is known to influence patients' psychological status and quality of life. While psychosocial outcomes have been widely investigated, limited data exist regarding oral and maxillofacial surgeons' attitudes and clinical practices related to preoperative psychological evaluation. Understanding these perspectives is important, as unrecognized psychological concerns may affect treatment adherence, outcomes, and patient satisfaction. This study aimed to assess surgeons' perspectives and reported practices regarding preoperative psychological evaluation in orthognathic surgery candidates and to identify any attitude-practice gap. Secondary aims were to evaluate variations across patient profiles using scenario-based assessments and to identify barriers influencing referral decisions. A cross-sectional, scenario-based online survey was conducted among oral and maxillofacial surgeons in Türkiye. The questionnaire included demographic items and scenario-based questions representing different clinical and psychosocial conditions, assessing both the perceived necessity and actual implementation of preoperative psychological evaluation. Descriptive statistics were used. Associations between categorical variables were analyzed using chi-square or Fisher's exact tests. Differences between perceived necessity and actual practice were evaluated using the Wilcoxon signed-rank test. Scenario-based comparisons were performed using the Friedman test with Bonferroni-adjusted post hoc analyses where appropriate. A p-value < 0.05 was considered statistically significant. Fifty-nine surgeons participated. Although most respondents (81.4%) considered preoperative psychological evaluation necessary, only 35.6% reported routinely conducting evaluations or referring patients. Among specific clinical scenarios, the highest level of support for preoperative psychological evaluation was observed in patients requesting gender transition (91.5%), although the survey did not distinguish supportive psychosocial assessment from mandatory psychiatric approval or clearance processes in these cases. High levels of support were also observed for patients presenting with unrealistic expectations (91.5%) or body dysmorphic features (86.4%), whereas support was lowest for patients with obstructive sleep apnea (27.1%) and older patients (49.2%). Perceived necessity varied significantly according to medical and surgical history (p < 0.001) but not by deformity type (p = 0.708). The most common barriers were anticipated negative patient reactions (40.7%) and limited knowledge of standardized tools (16.9%). Despite broad recognition of its importance, routine psychological evaluation remains inconsistently implemented in orthognathic surgery practice. Surgeons appeared more likely to support psychological referral in scenarios involving prominent psychosocial or identity-related concerns, whereas psychosocial considerations were less consistently emphasized in functionally indicated cases. These findings highlight the context-dependent nature of psychological referral tendencies and underscore the importance of context-sensitive multidisciplinary approaches in preoperative orthognathic care.",
-      "objective": "were to evaluate variations across patient profiles using scenario-based assessments and to identify barriers influencing referral decisions. A cross-sectional, scenario-based online survey was conducted among oral and maxillofacial surgeons in Türkiye. The questionnaire included demographic items and scenario-based questions representing different clinical and psychosocial conditions, assessing both the perceived necessity and actual implementation of preoperative psychological evaluation. Descriptive statistics were used. Associations between categorical variables were analyzed using chi-square or Fisher's exact tests. Differences between perceived necessity and actual practice were evaluated using the Wilcoxon signed-rank test. Scenario-based comparisons were performed using the Friedman test with Bonferroni-adjusted post hoc analyses where appropriate. A p-value < 0.05 was considered statistically significant. Fifty-nine surgeons participated. Although most respondents (81.4%) considered preoperative psychological evaluation necessary, only 35.6% reported routinely conducting evaluations or referring patients. Among specific clinical scenarios, the highest level of support for preoperative psychological evaluation was observed in patients requesting gender transition (91.5%), although the survey did not distinguish supportive psychosocial assessment from mandatory psychiatric approval or clearance processes in these cases. High levels of support were also observed for patients presenting with unrealistic expectations (91.5%) or body dysmorphic features (86.4%), whereas support was lowest for patients with obstructive sleep apnea (27.1%) and older patients (49.2%). Perceived necessity varied significantly according to medical and surgical history (p < 0.001) but not by deformity type (p = 0.708). The most common barriers were anticipated negative patient reactions (40.7%) and limited knowledge of standardized tools (16.9%). Despite broad recognition of its importance, routine psychological evaluation remains inconsistently implemented in orthognathic surgery practice. Surgeons appeared more likely to support psychological referral in scenarios involving prominent psychosocial or identity-related concerns, whereas psychosocial considerations were less consistently emphasized in functionally indicated cases. These findings highlight the context-dependent nature of psychological referral tendencies and underscore the importance of context-sensitive multidisciplinary approaches in preoperative orthognathic care.",
-      "study_methods": "A cross-sectional, scenario-based online survey was conducted among oral and maxillofacial surgeons in Türkiye. The questionnaire included demographic items and scenario-based questions representing different clinical and psychosocial conditions, assessing both the perceived necessity and actual implementation of preoperative psychological evaluation. Descriptive statistics were used. Associations between categorical variables were analyzed using chi-square or Fisher's exact tests. Differences between perceived necessity and actual practice were evaluated using the Wilcoxon signed-rank test. Scenario-based comparisons were performed using the Friedman test with Bonferroni-adjusted post hoc analyses where appropriate. A p-value < 0.05 was considered statistically significant.",
-      "methods": "A cross-sectional, scenario-based online survey was conducted among oral and maxillofacial surgeons in Türkiye. The questionnaire included demographic items and scenario-based questions representing different clinical and psychosocial conditions, assessing both the perceived necessity and actual implementation of preoperative psychological evaluation. Descriptive statistics were used. Associations between categorical variables were analyzed using chi-square or Fisher's exact tests. Differences between perceived necessity and actual practice were evaluated using the Wilcoxon signed-rank test. Scenario-based comparisons were performed using the Friedman test with Bonferroni-adjusted post hoc analyses where appropriate. A p-value < 0.05 was considered statistically significant.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42332679/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42329110",
-      "title": "Perioperative Opioid Exposure and Postoperative Complications Following Facial Fracture Repair: A Propensity-Matched Analysis of 71,738 Patients.",
-      "authors": [
-        "Aneeq S Chaudhry",
-        "Anshumi Desai",
-        "Sinan K Jabori",
-        "Henry H Chi",
-        "Katherine Kozlowski",
-        "Kashyap K Tadisina",
-        "Wrood Kassira",
-        "Seth R Thaller"
-      ],
-      "publication_date": "2026-Jun-23",
-      "publication_date_iso": "2026-06-23",
-      "abstract": "Facial fracture repair is commonly performed following traumatic injury. Postoperative pain is frequently managed with opioid prescriptions. However, opioid exposure has been associated with impaired wound healing and increased postoperative complications in several surgical populations. This study aims to evaluate the association between perioperative opioid prescriptions and postoperative complications following facial fracture repair procedures. A retrospective cohort study using the TriNetX Research Network identified patients undergoing facial fracture repair between 2005 and 2025 using Current Procedural Terminology codes. Patients were stratified by documented opioid prescriptions within 2 weeks postoperatively. Individuals with prior opioid-related disorders or malignancy were excluded. Outcomes were assessed during early (1-30 d) and late (31-365 d) postoperative intervals. A total of 207,750 patients undergoing facial fracture repair were identified. This included 162,449 patients with perioperative opioid exposure and 45,301 controls. After propensity score matching, 35,869 patients remained in each cohort. During the early postoperative period, opioid exposure was associated with higher rates of overall complications (OR: 1.75, P < 0.0001), surgical site complications (OR: 2.07, P < 0.0001), infection (OR: 3.00, P < 0.0001), wound disruption (OR: 2.35, P < 0.0001), and emergency department visits or readmissions (OR: 1.67, P < 0.0001). During late follow-up, opioid exposure remained associated with higher rates of surgical site complications (OR: 1.37, P < 0.0001), infection (OR: 2.05, P < 0.0001), and wound disruption (OR: 2.10, P < 0.0001). Perioperative opioid prescriptions were associated with increased postoperative complications following facial fracture repair. These findings support continued efforts to optimize opioid-sparing analgesic strategies in patients undergoing facial trauma reconstruction.",
-      "objective": "to evaluate the association between perioperative opioid prescriptions and postoperative complications following facial fracture repair procedures. A retrospective cohort study using the TriNetX Research Network identified patients undergoing facial fracture repair between 2005 and 2025 using Current Procedural Terminology codes. Patients were stratified by documented opioid prescriptions within 2 weeks postoperatively. Individuals with prior opioid-related disorders or malignancy were excluded. Outcomes were assessed during early (1-30 d) and late (31-365 d) postoperative intervals. A total of 207,750 patients undergoing facial fracture repair were identified. This included 162,449 patients with perioperative opioid exposure and 45,301 controls. After propensity score matching, 35,869 patients remained in each cohort. During the early postoperative period, opioid exposure was associated with higher rates of overall complications (OR: 1.75, P < 0.0001), surgical site complications (OR: 2.07, P < 0.0001), infection (OR: 3.00, P < 0.0001), wound disruption (OR: 2.35, P < 0.0001), and emergency department visits or readmissions (OR: 1.67, P < 0.0001). During late follow-up, opioid exposure remained associated with higher rates of surgical site complications (OR: 1.37, P < 0.0001), infection (OR: 2.05, P < 0.0001), and wound disruption (OR: 2.10, P < 0.0001). Perioperative opioid prescriptions were associated with increased postoperative complications following facial fracture repair. These findings support continued efforts to optimize opioid-sparing analgesic strategies in patients undergoing facial trauma reconstruction.",
-      "study_methods": "A retrospective cohort study using the TriNetX Research Network identified patients undergoing facial fracture repair between 2005 and 2025 using Current Procedural Terminology codes. Patients were stratified by documented opioid prescriptions within 2 weeks postoperatively. Individuals with prior opioid-related disorders or malignancy were excluded. Outcomes were assessed during early (1-30 d) and late (31-365 d) postoperative intervals.",
-      "methods": "A retrospective cohort study using the TriNetX Research Network identified patients undergoing facial fracture repair between 2005 and 2025 using Current Procedural Terminology codes. Patients were stratified by documented opioid prescriptions within 2 weeks postoperatively. Individuals with prior opioid-related disorders or malignancy were excluded. Outcomes were assessed during early (1-30 d) and late (31-365 d) postoperative intervals.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42329110/",
       "pmcid": "",
       "figure_urls": []
     }
