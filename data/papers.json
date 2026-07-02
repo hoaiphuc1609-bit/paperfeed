@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T06:39:36Z",
+  "updated_at": "2026-07-02T06:05:05Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -96,6 +96,38 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
       ]
+    },
+    {
+      "pmid": "42381887",
+      "title": "Spinal cord transverse section hinders Wallerian degeneration and neoangiogenesis after peripheral nerve transection: Involvement of Schwann cells' miR-134-5p.",
+      "authors": [
+        "Lingli Jiang",
+        "Fang Zhang",
+        "Fang Qi",
+        "Guangchao Xu",
+        "Shene Xiao",
+        "Ubaldo Armato",
+        "Anna Chiarini",
+        "Ilaria Dal Prà",
+        "Daniele De Santis",
+        "Chengliang Deng",
+        "Zairong Wei"
+      ],
+      "publication_date": "2026-Dec",
+      "publication_date_iso": "2026-12-01",
+      "abstract": "Patients with spinal cord injury (SCI) frequently develop chronic wounds in paralyzed limbs, underscoring the importance of neural regulation and peripheral nerve integrity for tissue repair; however, it remains unclear how concomitant SCI alters the distal responses to peripheral nerve injury (PNI) and the associated microRNA (miRNA) profile. Sprague-Dawley rats underwent sciatic nerve transection alone (PNI group) or complete spinal cord transection at L1-L2 combined with sciatic transection (SCI+PNI group), and distal sciatic nerve stumps were harvested at 0, 3, and 7 days for gross observation, H&E and toluidine blue staining, myelin basic protein (MBP) immunofluorescence, transmission electron microscopy, and CD31 immunohistochemistry to assess Wallerian degeneration and angiogenesis; miRNA expression profiles were analyzed by small RNA sequencing and validated by RT-qPCR, and the effects of miR-134-5p on rat Schwann cell were evaluated using mimics or inhibitors in Transwell migration, scratch-wound, and CCK-8 proliferation assays. In the PNI group, distal stumps exhibited marked edema, disruption of fiber architecture, rapid myelin breakdown, and a robust increase in CD31⁺ vascular rings, whereas compared with PNI, the SCI+PNI group showed milder edema and structural disruption, higher numbers of intact myelin rings, and increased MBP signal at days 3 and 7 together with a markedly smaller CD31⁺ area, indicating delayed Wallerian degeneration and reduced angiogenesis. Small RNA sequencing identified multiple differentially expressed miRNAs, with miR-134-5p and miR-142-5p significantly downregulated in the SCI+PNI group and this pattern confirmed by RT-qPCR; functionally, miR-134-5p overexpression enhanced Schwann cell migration and proliferation, while inhibition produced the opposite effects. These findings indicate that SCI attenuates distal nerve responses to PNI by delaying myelin clearance, impairing angiogenesis, and downregulating repair-promoting miRNAs such as miR-134-5p, suggesting that targeting miRNA-mediated Schwann cell regulation may provide new strategies to improve peripheral nerve and wound repair below the level of SCI.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42381887/",
+      "pmcid": "PMC13316155",
+      "figure_urls": []
     },
     {
       "pmid": "42327006",
@@ -905,7 +937,7 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42378378/",
-      "pmcid": "",
+      "pmcid": "PMC13317989",
       "figure_urls": []
     },
     {
@@ -1330,30 +1362,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42160800",
-      "title": "Comparative study between classical myotomy, subsynovial myotomy, or posterior ligament electrocoagulation in the arthroscopic management of anterior disc displacement without reduction of the temporomandibular joint.",
-      "authors": [
-        "Miren de Las Fuentes Monreal",
-        "Ancor Sanz García",
-        "Mario Fernando Muñoz Guerra"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Anterior disc displacement without reduction of the temporomandibular joint is a prevalent condition associated with pain and functional limitation, and minimally invasive arthroscopic approaches are increasingly favored over open surgery due to lower morbidity. This study compared three arthroscopic interventions: classical myotomy (CM), minimally invasive anterior arthroscopic myotomy (MIAAM), and posterior ligament electrocoagulation (PLE). A total of 86 patients were included: 24 (27.9%) underwent CM, 30 (34.8%) underwent MIAAM, and 32 (37.2%) underwent PLE. Outcomes were assessed using visual analog scale (VAS) pain, maximum mouth opening (MMO), and joint function at baseline and at 1 and 6 months postoperatively. Pain improved significantly over time in all groups (F = 5.02; df = 2; p < 0.05), with no significant differences between techniques. Maximum interincisal opening (MIO) and mandibular protrusion also improved significantly (F = 14.6; df = 2; p < 0.05 and F = 8.949; df = 2; p < 0.05, respectively), again without inter-group differences. MIAAM was associated with faster pain relief at 1 month and slightly better 12-month outcomes, although these differences were not statistically significant. Overall, PLE showed comparatively less favorable results, suggesting MIAAM may represent a balanced option in terms of efficacy and safety.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": ", suggesting MIAAM may represent a balanced option in terms of efficacy and safety.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42160800/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42045061",
       "title": "Letter to the editor on \"Cannabis-related facial trauma: a 10-year review of facial trauma in Victoria, Australia\".",
       "authors": [
@@ -1705,6 +1713,241 @@
       "figure_urls": []
     },
     {
+      "pmid": "42383882",
+      "title": "Does Angular Sagittal Split Osteotomy of the Mandibular Ramus Alter Fracture Patterns Compared With the Modifications of Posnick, Wolford, and Hunsuck/Epker?",
+      "authors": [
+        "Jéferson Martins Pereira Lucena Franco",
+        "Tácio Pinheiro Bezerra",
+        "Jamile de Melo Casado Pereira",
+        "Giovana Radomille Tofoli"
+      ],
+      "publication_date": "2026-Jul-02",
+      "publication_date_iso": "2026-07-02",
+      "abstract": "To evaluate the torque required to perform sagittal split osteotomy using the angular osteotomy technique compared with the Posnick, Wolford, and Hunsuck/Epker techniques, and to assess associated fracture patterns and inferior alveolar nerve (IAN) visibility. A laboratory-based experimental study was conducted using 52 porcine mandibles. After dissection, sagittal osteotomies were performed in a blinded and randomized manner according to the assigned technique. The primary outcomes were the torque required to complete the osteotomy and the resulting fracture pattern. Secondary analysis included IAN visibility following osteotomy. Statistical analysis was performed using analysis of variance with Tukey post hoc testing for torque comparisons and Pearson χ2 or Fisher exact tests for categorical variables. Statistical significance was set at P<0.05. The angular osteotomy technique required significantly less torque (110±0.07N) compared with the Posnick, Wolford, and Hunsuck/Epker techniques (P<0.001). In addition, the angular technique demonstrated a higher frequency of favorable fracture patterns and reduced IAN visibility, suggesting a lower potential risk of nerve injury. The Hunsuck/Epker technique required the highest torque and was associated with less favorable fracture outcomes. Within the limitations of this ex vivo porcine model, the angular sagittal split osteotomy technique demonstrated greater mechanical efficiency, requiring lower torque and producing more homogeneous fracture patterns with reduced IAN exposure. These findings provide a comparative biomechanical assessment of different osteotomy designs and may contribute to understanding force distribution during sagittal splitting. However, direct clinical extrapolation should be made with caution, and further studies in human models are necessary to determine the implications for surgical outcomes and neurosensory recovery.",
+      "objective": "",
+      "study_methods": "A laboratory-based experimental study was conducted using 52 porcine mandibles. After dissection, sagittal osteotomies were performed in a blinded and randomized manner according to the assigned technique. The primary outcomes were the torque required to complete the osteotomy and the resulting fracture pattern. Secondary analysis included IAN visibility following osteotomy. Statistical analysis was performed using analysis of variance with Tukey post hoc testing for torque comparisons and Pearson χ2 or Fisher exact tests for categorical variables. Statistical significance was set at P<0.05.",
+      "methods": "A laboratory-based experimental study was conducted using 52 porcine mandibles. After dissection, sagittal osteotomies were performed in a blinded and randomized manner according to the assigned technique. The primary outcomes were the torque required to complete the osteotomy and the resulting fracture pattern. Secondary analysis included IAN visibility following osteotomy. Statistical analysis was performed using analysis of variance with Tukey post hoc testing for torque comparisons and Pearson χ2 or Fisher exact tests for categorical variables. Statistical significance was set at P<0.05.",
+      "results": "ing fracture pattern. Secondary analysis included IAN visibility following osteotomy. Statistical analysis was performed using analysis of variance with Tukey post hoc testing for torque comparisons and Pearson χ2 or Fisher exact tests for categorical variables. Statistical significance was set at P<0.05. The angular osteotomy technique required significantly less torque (110±0.07N) compared with the Posnick, Wolford, and Hunsuck/Epker techniques (P<0.001). In addition, the angular technique demonstrated a higher frequency of favorable fracture patterns and reduced IAN visibility, suggesting a lower potential risk of nerve injury. The Hunsuck/Epker technique required the highest torque and was associated with less favorable fracture outcomes. Within the limitations of this ex vivo porcine model, the angular sagittal split osteotomy technique demonstrated greater mechanical efficiency, requiring lower torque and producing more homogeneous fracture patterns with reduced IAN exposure. These findings provide a comparative biomechanical assessment of different osteotomy designs and may contribute to understanding force distribution during sagittal splitting. However, direct clinical extrapolation should be made with caution, and further studies in human models are necessary to determine the implications for surgical outcomes and neurosensory recovery.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42383882/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42383315",
+      "title": "Does Preoperative Aprepitant Reduce Nausea and Emesis After Orthognathic Surgery?",
+      "authors": [
+        "Mark A Green",
+        "Michael C Britt",
+        "Nicholas A Cohen",
+        "Cory M Resnick"
+      ],
+      "publication_date": "2026-Jul-02",
+      "publication_date_iso": "2026-07-02",
+      "abstract": "Orthognathic surgery has a high rate of postoperative nausea and vomiting (PONV), which amplifies discomfort and delays recovery. Aprepitant, a neurokinin-1 receptor antagonist, has been associated with reduced PONV when used prophylactically, complementing the use of intraoperative and postoperative antiemetics. This retrospective cohort study examines the effect of a single preoperative dose of aprepitant on postorthognathic PONV. The primary predictor was aprepitant usage. The primary outcome was postoperative nausea, with emesis and rescue antiemetic use measured as secondary outcomes. Covariates included sex, age, procedure type, and procedure length. A total of 224 subjects were included with a median age of 19.9 years (IQR: 18.0, 21.8), and 54.0% (n=121) were male. Among them, 70.1% (n=157) received aprepitant preoperatively. There was no significant difference in the reported rate of nausea [43.3% (n=68) in the aprepitant group versus 35.8% (n=24) in the no aprepitant group, P=0.297], but the aprepitant group had a lower incidence of emesis [9.6% (n=15) versus 25.4% (n=17), P=0.002] and antiemetic use [55.4% (n=87) versus 73.1% (n=49), P=0.013]. After adjusting for sex, age, procedure type, and procedure length, aprepitant use was associated with a 69% reduction in emesis [OR: 0.31, 95% CI: (0.13, 0.73), P=0.008] and a 59% reduction in antiemetic use [OR: 0.41, 95% CI: (0.20, 0.83), P=0.014]. These findings support the association of prophylactic aprepitant and reduced emesis and rescue antiemetic use after orthognathic surgery.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42383315/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42386407",
+      "title": "Automated true vertical line determination for orthognathic surgery virtual planning using smartphone photography and open-source applications.",
+      "authors": [
+        "L da Silva Caixeta Neto",
+        "R Grillo",
+        "F Melhem-Elias"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "This technical note describes a novel method for recording the natural head position (NHP) for virtual surgical planning (VSP) in orthognathic surgery using a smartphone and open-source software. The authors utilize the OpenCamera application on standard smartphones to capture clinical photographs. This app embeds critical device orientation data, including roll, pitch, and yaw from the built-in accelerometer, directly into the image metadata. These photographs are then imported into a custom module (MaxiSlicer) developed for the open-source 3DSlicer platform. The module automatically reads the orientation data to calculate and incorporate the true vertical line into the image, subsequently aligning the photograph to this digital reference. This approach eliminates the need for physical references such as plumb lines or laser levels, reducing operational variables and potential human error. The integration of smartphone sensor data with digital planning tools offers a practical, accessible, and low-cost solution for achieving accurate and reproducible NHP registration in VSP workflows.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42386407/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42386138",
+      "title": "DNA polymerase epsilon catalytic subunit (POLE) in cancer: implications for tumor biology and therapeutic strategies - a comprehensive review.",
+      "authors": [
+        "Michał Gola",
+        "Bartłomiej Emil Kraziński",
+        "Jacek Kieżun",
+        "Anna Starzyńska",
+        "Monika Sakowicz-Burkiewicz",
+        "Barbara Alicja Jereczek-Fossa",
+        "Janusz Godlewski"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "POLE, the catalytic subunit of DNA polymerase epsilon, is essential for accurate DNA replication and proofreading. While rare, pathogenic POLE variants in the exonuclease domain -both germline and somatic-define ultramutated tumors with high mutational burden and distinctive molecular features. Beyond mutation status, altered POLE expression may independently influence tumor aggressiveness, remodeling of the tumor-immune microenvironment, and prognosis. Germline POLE variants underlie rare hereditary cancer syndromes with early-onset colorectal and extracolonic malignancies, although precise cancer risk estimates and surveillance strategies remain challenging. Clinically, POLE-mutated tumors often show relative resistance to conventional chemotherapy but marked sensitivity to immune checkpoint inhibitors, highlighting opportunities for molecularly guided therapy. Detection of POLE alterations remains challenging due to low mutation frequency, limited coverage of targeted sequencing panels, variants of uncertain significance, and inconsistent testing standards across institutions. Recognizing POLE as a multidimensional biomarker supports integrated molecular-immune stratification, informs potential therapeutic de-escalation, and guides prioritization of immunotherapy. Prospective studies and registry-based analyses are needed to refine risk assessment, optimize management, and maximize the clinical utility of POLE profiling. This review provides a comprehensive and integrative overview of POLE alterations across human cancers, integrating molecular, clinicopathological, and immunological insights with therapeutic implications.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42386138/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42384430",
+      "title": "Viruses, Periodontitis, and Systemic Diseases.",
+      "authors": [
+        "K N Stolte",
+        "Y L Hernandez-Kapila",
+        "H Dommisch"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Viruses are increasingly recognized as potential modulators of oral biofilm ecology and periodontal inflammation, expanding the traditional bacterial paradigm of periodontitis. Members of the Herpesviridae family, including Epstein-Barr virus (EBV), human cytomegalovirus (HCMV), and herpes simplex virus (HSV), are frequently detected in periodontal tissues and may influence disease activity through latency, reactivation, immune modulation, epithelial barrier disruption, and interactions with bacteria. These processes may contribute to local dysbiosis and sustained periodontal inflammation. The potential systemic relevance of oral viruses is biologically plausible but remains incompletely established. Viral persistence or reactivation in oral niches may contribute to systemic immune activation through hematogenous spread, saliva-mediated dissemination, aspiration, or amplification of inflammatory mediators as IL-1β, IL-6, and TNF-α. Accordingly, viruses may act as disease modifiers within the broader relationship between periodontitis and systemic conditions including cardiovascular, metabolic, respiratory, neurogenerative, pregnancy-related, and cancer-associated outcomes. However, the strength of evidence differs across these conditions. Current data support a model in which oral viruses, bacteriophages, bacteria, and fungi form an interconnected biofilm ecosystem that may influence periodontitis progression and systemic inflammatory burden. Nevertheless, most available evidence is observational, associative, or derived from mechanistic experimental models, and definitive proof that viruses are independent etiopathogenic drivers of periodontitis is lacking. Future longitudinal and interventional studies are needed to determine whether viral detection reflects bystander association, disease amplification, or a true pathogenic role, and whether antiviral or phage-based strategies offer clinical benefit beyond established periodontal therapy.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42384430/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42384184",
+      "title": "Five-year stability of occlusal function in orthognathic patients with sagittal malocclusions : Digital quantitative follow-up study.",
+      "authors": [
+        "Lisa-Marie Mai",
+        "Jeremy Mouchoux",
+        "Philipp Meyer-Marcotty",
+        "Anja Quast",
+        "Phillipp Brockmeyer",
+        "Henning Schliephake",
+        "Bernhard Wiechens"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Successful orthognathic therapies are characterised by a physiologically configured occlusion whose long-term clinical stability is mainly assessed through occlusal parameters. In the present study, long-term treatment outcomes were assessed based on occlusal changes after 5 years using digital occlusion and masticatory efficiency analysis. This study examined 33 adult patients after treatment of skeletal class II (n = 18; 12 women, median age 28.15 years; interquartile range [IQR] = 15.10) and class III malformations (n = 15; 7 women, median age 23.90 years; IQR = 4.80) 9 months (T1) and 5 years (T2) postorthognathic therapy. A total of 20 patients with neutral skeletal relation (10 women; median age 30.50 years; IQR = 7.50) served as a control group. Skeletal classification was based on sagittal jaw configuration (Wits) and habitual intercuspation was recorded using the T‑Scan Novus® (Tekscan Inc., South Boston, MA, USA) for digital occlusion analysis with the following variables: total tooth contact (TTC), occlusion time (TOC), occlusion asymmetry (OAS), anterior and posterior antagonism (ATC and PTC). In addition, masticatory performance was assessed using a standardized two-colour chewing gum bolus analysis. Five years after surgery (T2), none of the occlusal parameters differed significantly between the groups, indicating functional approximation to the control group. Longitudinal analysis revealed significant improvements within both surgical groups (T1 to T2). In class II patients, TTC, ATC and PTC increased, while TOC decreased significantly. Class III patients also showed significant increases in TTC, ATC and PTC with TOC and OAS remaining unchanged. Overall, both treatment groups demonstrated substantial recovery and long-term stabilization of occlusal function. Bolus homogeneity analysis showed no significant difference between control and treatment patients 5 years after surgery. The 5‑year observation of orthognathic treatment for sagittal jaw malformations showed significant improvements in occlusal parameters. Both masticatory efficiency and occlusal parameters measured at 5 years postoperatively did not differ significantly from the control group, indicating that the functional improvements achieved by the therapy were stable in the long term.",
+      "objective": "",
+      "study_methods": "This study examined 33 adult patients after treatment of skeletal class II (n = 18; 12 women, median age 28.15 years; interquartile range [IQR] = 15.10) and class III malformations (n = 15; 7 women, median age 23.90 years; IQR = 4.80) 9 months (T1) and 5 years (T2) postorthognathic therapy. A total of 20 patients with neutral skeletal relation (10 women; median age 30.50 years; IQR = 7.50) served as a control group. Skeletal classification was based on sagittal jaw configuration (Wits) and habitual intercuspation was recorded using the T‑Scan Novus® (Tekscan Inc., South Boston, MA, USA) for digital occlusion analysis with the following variables: total tooth contact (TTC), occlusion time (TOC), occlusion asymmetry (OAS), anterior and posterior antagonism (ATC and PTC). In addition, masticatory performance was assessed using a standardized two-colour chewing gum bolus analysis.",
+      "methods": "This study examined 33 adult patients after treatment of skeletal class II (n = 18; 12 women, median age 28.15 years; interquartile range [IQR] = 15.10) and class III malformations (n = 15; 7 women, median age 23.90 years; IQR = 4.80) 9 months (T1) and 5 years (T2) postorthognathic therapy. A total of 20 patients with neutral skeletal relation (10 women; median age 30.50 years; IQR = 7.50) served as a control group. Skeletal classification was based on sagittal jaw configuration (Wits) and habitual intercuspation was recorded using the T‑Scan Novus® (Tekscan Inc., South Boston, MA, USA) for digital occlusion analysis with the following variables: total tooth contact (TTC), occlusion time (TOC), occlusion asymmetry (OAS), anterior and posterior antagonism (ATC and PTC). In addition, masticatory performance was assessed using a standardized two-colour chewing gum bolus analysis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42384184/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42384137",
+      "title": "Salivary osteocalcin as a biomarker for periodontal disease progression and treatment response: a prospective longitudinal study.",
+      "authors": [
+        "Zainulabdeen Saad Mahboba",
+        "Hussein Jameel Abd Noor",
+        "Batool M Al-Fahham",
+        "Salah M Ibrahim"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Periodontitis is a chronic inflammatory disease affecting more than 1 billion people worldwide and leading to irreversible alveolar bone loss. Although salivary biomarkers are potentially non-invasive diagnostic targets, the longitudinal changes in osteocalcin (a marker of bone turnover) following periodontal therapy have been poorly described across levels of disease progression. In this prospective longitudinal study, a new multimodal method combining salivary biomarker analysis and Cone-Beam Computed Tomography (CBCT) was employed. A total of 100 patients (25 systemically healthy controls and 75 patients with periodontitis, stratified into Stages I, II, or III according to the World Workshop 2017 classification) received non-surgical periodontal therapy (NSPT). Salivary osteocalcin and clinical parameters (PPD, CAL, PI) were evaluated at baseline, 3 months, and 6 months. The sample size was estimated by G*Power software to achieve reliable power (> 90%) for detecting clinically important correlations. Baseline salivary osteocalcin levels showed a stage-dependent increase, with Stage III patients exhibiting concentrations 4.7-fold higher than those of healthy controls (28.5 ± 4.1 vs. 6.1 ± 1.9 ng/mL; p < 0.001). Temporal trajectory analysis revealed that the greatest therapeutic effect occurred within the first three months post-NSPT, with Stage III patients showing a 30.5% reduction in osteocalcin by six months. Strong correlations were observed between osteocalcin and CAL (r = 0.88, p < 0.001), with treatment-induced changes in osteocalcin significantly predicting clinical improvement (r = 0.75, p < 0.001). Salivary osteocalcin may be a valid, non-invasive biomarker of the metabolism of the periodontal bone. Early post-treatment red detection offers an important therapeutic window to optimize follow-up intervals based on treatment, and it can be incorporated into the personalized periodontal care workflow.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42384137/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42383896",
+      "title": "Patient-Specific 3D Printed Palatal Protection Plates for Le Fort III Osteotomy in Syndromic Midface Hypoplasia: What We Do.",
+      "authors": [
+        "Jennifer Fuchs",
+        "Frederic Bouffleur",
+        "Maximilian Appel",
+        "Sven Zittel",
+        "Reinald Kühle",
+        "Jürgen Hoffmann",
+        "Michael Engel"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "BackgroundSyndromic midface hypoplasia often includes a high or fragile palate that is vulnerable during midfacial disimpaction.SolutionWe created a patient-specific palatal protection plate produced through a fully digital workflow to stabilize and protect the palate.What we didAfter using conventional plates from 2022 to 2024, we implemented a digital design and printing workflow in 2025 and added suction-catheter sleeves to the Rowe forceps branches to improve retention.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42383896/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42382050",
+      "title": "Systemic Treatment of Orthodontic Elastic Band-Induced Periodontitis: A Case Report.",
+      "authors": [
+        "Limin Liu",
+        "Lin Chen",
+        "Haijing Gu",
+        "Xiayi Wu",
+        "Jieyi Chen",
+        "Yongbiao Huo"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Multidisciplinary Treatment (MDT) approach for immature permanent teeth with severe periodontitis due to an iatrogenic orthodontic elastic band.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42382050/",
+      "pmcid": "PMC13314710",
+      "figure_urls": []
+    },
+    {
       "pmid": "42340837",
       "title": "Advancing the Science, Timing, and Long-Term Impact of Cleft and Craniofacial Care.",
       "authors": [
@@ -1947,6 +2190,38 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42276597/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42263747",
+      "title": "Development of 3D",
+      "authors": [
+        "Ghannaa Shayya",
+        "Olivier Chassande",
+        "Lynn Kawtharany",
+        "Clara Cretet-Rodeschini",
+        "Makoto Miyara",
+        "Anne-Aurélie Raymond",
+        "Jean-William Dupuy",
+        "Cyril Dourthe",
+        "Anne Lise Chopard Lallier",
+        "Marie-Laure Stachowicz",
+        "Sylvain Catros"
+      ],
+      "publication_date": "2026-Jul-01",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Dental implant osseointegration is the process by which these medical devices integrate within bone. Because of the significant failure rate of dental implant osseointegration in the long term, specific models designed to better understand this process are needed. Current limitations related toin vivomodels justify the development ofin vitrosubstitutes. The aim of this study was to develop a 3Din vitromineralized bone model to reproduce dental implant osseointegration. To achieve this, we started by fabricating a 3D mineralized hydrogel-basedin vitromodel and characterizing it for mineralization, osteogenic differentiation, cell-deposited extracellular matrix (ECM), and inflammatory markers. Immortalized human mesenchymal stem cells were embedded in a methacrylated collagen-hyaluronic acid gel matrix and cultured in osteogenic differentiation medium with elevated calcium concentration. The model exhibited early mineralization, deposition of minerals in a spherical form and expression of osteogenic differentiation markers. Proteomic profiling revealed a collagen-rich ECM with enrichment of type I collagen. Additionally, there was enrichment of signaling pathways involved in osteogenic differentiation. This hydrogel-based model was further integrated into a 3D-printed polylactic acid scaffold with a dental implant as anin vitroplatform to study dental implant osseointegration. We demonstrated cellular migration, matrix deposition, and initiation of mineralization on dental implants with two different surface roughnesses. Additionally, a sensitive pull-out test was specifically developed for the model to detect the attachments initiated by the cells. Therefore, the developed model has strong potential to revolutionize dental implant screening by bridging the gap between 2Din vitromodels andin vivomodels.",
+      "objective": "of this study was to develop a 3Din vitromineralized bone model to reproduce dental implant osseointegration. To achieve this, we started by fabricating a 3D mineralized hydrogel-basedin vitromodel and characterizing it for mineralization, osteogenic differentiation, cell-deposited extracellular matrix (ECM), and inflammatory markers. Immortalized human mesenchymal stem cells were embedded in a methacrylated collagen-hyaluronic acid gel matrix and cultured in osteogenic differentiation medium with elevated calcium concentration. The model exhibited early mineralization, deposition of minerals in a spherical form and expression of osteogenic differentiation markers. Proteomic profiling revealed a collagen-rich ECM with enrichment of type I collagen. Additionally, there was enrichment of signaling pathways involved in osteogenic differentiation. This hydrogel-based model was further integrated into a 3D-printed polylactic acid scaffold with a dental implant as anin vitroplatform to study dental implant osseointegration. We demonstrated cellular migration, matrix deposition, and initiation of mineralization on dental implants with two different surface roughnesses. Additionally, a sensitive pull-out test was specifically developed for the model to detect the attachments initiated by the cells. Therefore, the developed model has strong potential to revolutionize dental implant screening by bridging the gap between 2Din vitromodels andin vivomodels.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42263747/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2405,6 +2680,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "41925671",
+      "title": "Health-Related Quality of Life Outcomes in Pediatric Patients With Apert Syndrome.",
+      "authors": [
+        "Hannah C Brown",
+        "Laura C Nuzzi",
+        "Joseph Upton",
+        "Brian I Labow",
+        "Amir H Taghinia"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "This study reports health-related quality of life outcomes in children with Apert syndrome following syndactyly release, evaluating upper-extremity and cognitive function along with psychosocial factors. Findings can inform caregivers and providers to improve well-being for children with Apert syndrome. The following validated parent-proxy surveys of Patient-Reported Outcomes Measurement Information System were administered to parents of patients aged 5-17 years: upper-extremity function, cognitive function, pain interference, depressive symptoms, anxiety, and peer relationships. Parents completed the survey as a computer-adaptive test. Central tendencies for Patient-Reported Outcomes Measurement Information System domains were calculated, compared against population norms, and graded (eg, severe, moderate, normal) using Patient-Reported Outcomes Measurement Information System guidelines. Correlations were calculated between domains. A total of 42 participants were included in the analysis, with patient ages ranging from 5 to 16.5 years (mean, 9.1; SD, 2.9 years). Compared with pediatric population norms (50; SD, 10, all domains), the Apert cohort's upper-extremity scores were lower (severe: median, 29.2; interquartile range, 4.3), cognitive function was lower (mild/moderate: median, 40.0; interquartile range, 8.0), and pain interference was higher (moderate: mean, 63.7; SD, 10.5). Peer relationship scores (mean, 42.3; SD, 9.7) were classified as good overall, whereas depressive (mean, 53.8; SD, 8.2) and anxiety scores (mean, 52.4; SD, 7.9) were within normal limits. Upper-extremity scores were correlated positively with cognitive function and peer relationships, and negatively with anxiety. Irrespective of Upton hand type, children with Apert syndrome had severely lower scores of upper-extremity function and mild to moderately lower cognitive function, yet their socioemotional scores were comparable to pediatric population norms. Less favorable upper-extremity functioning was associated with lower cognitive function, lower peer relationship scores, and higher levels of anxiety. These results can help advise surgeons on postoperative functioning and set a baseline for comparing future studies. Therapeutic IV.",
+      "objective": "",
+      "study_methods": "The following validated parent-proxy surveys of Patient-Reported Outcomes Measurement Information System were administered to parents of patients aged 5-17 years: upper-extremity function, cognitive function, pain interference, depressive symptoms, anxiety, and peer relationships. Parents completed the survey as a computer-adaptive test. Central tendencies for Patient-Reported Outcomes Measurement Information System domains were calculated, compared against population norms, and graded (eg, severe, moderate, normal) using Patient-Reported Outcomes Measurement Information System guidelines. Correlations were calculated between domains.",
+      "methods": "The following validated parent-proxy surveys of Patient-Reported Outcomes Measurement Information System were administered to parents of patients aged 5-17 years: upper-extremity function, cognitive function, pain interference, depressive symptoms, anxiety, and peer relationships. Parents completed the survey as a computer-adaptive test. Central tendencies for Patient-Reported Outcomes Measurement Information System domains were calculated, compared against population norms, and graded (eg, severe, moderate, normal) using Patient-Reported Outcomes Measurement Information System guidelines. Correlations were calculated between domains.",
+      "results": "can help advise surgeons on postoperative functioning and set a baseline for comparing future studies. Therapeutic IV.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41925671/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41913412",
       "title": "Correlation Study of Anxiety, Body Dysmorphic Disorder, and Quality of Life in Preoperative Patients for Orthognathic Surgery: A Cross-Sectional Study.",
       "authors": [
@@ -2460,6 +2761,34 @@
       "figure_urls": []
     },
     {
+      "pmid": "41856484",
+      "title": "Did the Affordable Care Act Increase Medicaid Coverage for Isolated Facial Trauma? A National Cohort Study.",
+      "authors": [
+        "Tim T Wang",
+        "Lang Liang",
+        "Nicholas Wilken",
+        "Darien Weatherspoon",
+        "Gary Warburton",
+        "John Caccamese",
+        "Cameron Lee"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Patients with facial fractures are disproportionately uninsured or underinsured, creating a substantial economic burden for trauma systems. Although the Affordable Care Act (ACA) significantly expanded Medicaid eligibility, its effect on insurance coverage among adults with facial trauma remains poorly defined. The purpose of the study was to evaluate the association between ACA implementation and Medicaid coverage among adults presenting with isolated facial fractures. This was a retrospective cohort study using the American College of Surgeons National Trauma Data Bank from 2008 to 2019. Adults with isolated facial fractures were included. Patients with polytrauma or missing data were excluded. The primary predictor was time period relative to ACA implementation, defined as pre-ACA (2008 to 2013) or post-ACA (2014 to 2019). The primary outcome was insurance payor at the time of encounter (Medicaid vs non-Medicaid). Covariates included demographic (age, sex), clinical (Charlson comorbidity index), injury-related (injury severity score, fracture location), and hospital characteristics (teaching status, bed size). Descriptive, bivariate, and multivariable logistic regression statistics were performed to evaluate the association between ACA implementation and Medicaid coverage. A threshold of P < .001 was considered significant for all analyses. A total of 187,803 subjects were included of which 47,315 (25%) were treated pre-ACA and 140,488 (75%) were treated post-ACA. The cohort had a mean age of 44.8 ± 20.2 years, was 73% male (n = 137,408), and 64% White (n = 119,674). Medicaid coverage increased from 16% pre-ACA to 24% post-ACA, with a corresponding decrease in self-pay from 30 to 20% (P < .001). After adjustment for demographic, clinical, injury-related, and hospital covariates, post-ACA treatment was associated with significantly higher odds of Medicaid coverage (odds ratio [OR]: 1.93, 95% CI: 1.88 to 1.99, P < .001). The relative increase in Medicaid coverage was greater at non-level 1 centers (OR: 1.93, 95% CI: 1.82 to 2.04, P < .001) compared to level 1 centers (OR: 1.34, 95% CI: 1.29 to 1.40, P < .001). ACA implementation was associated with increased Medicaid coverage and reduced uninsured status. Medicaid expansion improved access to care; similar efforts may enhance the sustainability of facial trauma services within modern trauma systems.",
+      "objective": "of the study was to evaluate the association between ACA implementation and Medicaid coverage among adults presenting with isolated facial fractures. This was a retrospective cohort study using the American College of Surgeons National Trauma Data Bank from 2008 to 2019. Adults with isolated facial fractures were included. Patients with polytrauma or missing data were excluded. The primary predictor was time period relative to ACA implementation, defined as pre-ACA (2008 to 2013) or post-ACA (2014 to 2019). The primary outcome was insurance payor at the time of encounter (Medicaid vs non-Medicaid). Covariates included demographic (age, sex), clinical (Charlson comorbidity index), injury-related (injury severity score, fracture location), and hospital characteristics (teaching status, bed size). Descriptive, bivariate, and multivariable logistic regression statistics were performed to evaluate the association between ACA implementation and Medicaid coverage. A threshold of P < .001 was considered significant for all analyses. A total of 187,803 subjects were included of which 47,315 (25%) were treated pre-ACA and 140,488 (75%) were treated post-ACA. The cohort had a mean age of 44.8 ± 20.2 years, was 73% male (n = 137,408), and 64% White (n = 119,674). Medicaid coverage increased from 16% pre-ACA to 24% post-ACA, with a corresponding decrease in self-pay from 30 to 20% (P < .001). After adjustment for demographic, clinical, injury-related, and hospital covariates, post-ACA treatment was associated with significantly higher odds of Medicaid coverage (odds ratio [OR]: 1.93, 95% CI: 1.88 to 1.99, P < .001). The relative increase in Medicaid coverage was greater at non-level 1 centers (OR: 1.93, 95% CI: 1.82 to 2.04, P < .001) compared to level 1 centers (OR: 1.34, 95% CI: 1.29 to 1.40, P < .001). ACA implementation was associated with increased Medicaid coverage and reduced uninsured status. Medicaid expansion improved access to care; similar efforts may enhance the sustainability of facial trauma services within modern trauma systems.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41856484/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41832359",
       "title": "Reducing Plastic Surgery's Silicone Footprint: Modeling Shipping Costs for Breast Implants and Tissue Expanders.",
       "authors": [
@@ -2484,6 +2813,33 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41832359/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41825858",
+      "title": "Surgical Management of Relative Chin Prominence in Class II Malocclusions.",
+      "authors": [
+        "Alexandra Delay",
+        "Cyril Bouland",
+        "Louis Brochet",
+        "Tarek Meniai",
+        "Pierre Bouletreau",
+        "Andrea Varazzani"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Relative chin prominence is commonly observed in certain Class II malocclusion morphotypes, particularly in deep bite and Class II Division 2 patterns. Despite mandibular retrusion, soft tissue volume and anterior mandibular rotation can produce a prominent chin appearance. This esthetic paradox presents a challenge for surgical planning and is currently not addressed by standardized management protocols. To summarize the surgical approaches reported for the management of relative chin prominence in Class II malocclusions. The review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR) guidelines. Five electronic databases were searched for studies published between 1975 and 2025 using predefined keywords related to class II malocclusion, chin prominence, and orthognathic surgery. Two reviewers independently screened the records, and any disagreements were resolved by a third reviewer. No formal quality assessment was performed, in accordance with the scoping review methodology. Eleven studies including 116 patients met the inclusion criteria. Six surgical techniques were identified: total mandibular subapical osteotomy (TMSO), mandibular anterior subapical osteotomy, archwise distraction osteogenesis, mandibular advancement with clockwise rotation (MACR), clockwise bimaxillary rotation, and bilateral sagittal split osteotomy (BSSO) with setback genioplasty. Among these approaches, clockwise bimaxillary rotation was the most frequently described and was associated with favorable esthetic and functional outcomes, although the level of evidence was limited. The available literature does not support a definitive gold standard for managing relative chin prominence in Class II malocclusions. While clockwise bimaxillary surgery appears to offer favorable outcomes in selected cases, each technique presents specific advantages and indications. Surgical planning remains individualized and requires close interdisciplinary collaboration. Further prospective studies are needed to better define indications and long-term outcomes.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41825858/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2756,117 +3112,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41417075",
-      "title": "LI-RADS-aligned artificial intelligence for liver cancer diagnosis: methods, evidence, and clinical readiness.",
-      "authors": [
-        "Qamar Abuhassan",
-        "Ghaleb Oriquat",
-        "Subbulakshmi Ganesan",
-        "Jaya Bhanu Kanwar",
-        "V Ramesh Kumar",
-        "Vipasha Sharma",
-        "Ashish Singh Chauhan",
-        "Temurbek Abdullaev"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Liver tumor diagnosis relies heavily on imaging, and the liver imaging reporting and data system (LI-RADS) provides a structured framework for evaluating hepatocellular carcinoma (HCC) and related entities in at-risk populations. Artificial intelligence (AI) has rapidly expanded across CT, MRI, and ultrasound/CEUS, yet its clinical credibility depends on adherence to modality-appropriate tasks, robust validation, and alignment with LI-RADS semantics. This narrative review synthesizes methodological patterns, diagnostic performance, and readiness for clinical translation of AI systems designed for liver tumor characterization across major imaging modalities. We examine modality-task alignment-including CT-based differential diagnosis of HCC, intrahepatic cholangiocarcinoma, metastases, and benign mimics; LI-RADS feature detection and category assignment on MRI; LR-M disambiguation on MRI and CEUS; and surveillance-era triage on ultrasound. Evidence quality is appraised through external validation, reader studies, robustness analyses, calibration, and uncertainty reporting. A minimal reporting checklist is provided to support methodological transparency and facilitate reproducibility. Across modalities, AI systems show strong potential to enhance liver tumor diagnosis when they mirror radiologist reasoning, explicitly handle temporal enhancement dynamics, and incorporate clinically relevant priors. Translation into practice will require protocol-aware robustness, calibrated confidence estimates, size-stratified performance reporting, and broader multi-center validation. When developed under these principles, LI-RADS-aligned AI may meaningfully improve consistency, interpretability, and scalability in imaging-based liver cancer care.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41417075/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41400369",
-      "title": "The APERT Severity Scale: A Quantitative Tool for Risk Stratification in Apert Syndrome.",
-      "authors": [
-        "Allison C Hu",
-        "Philip D Tolley",
-        "Nicholas A Han",
-        "Isabel A Ryan",
-        "Eric C Liao",
-        "Jordan W Swanson",
-        "Scott P Bartlett",
-        "Jesse A Taylor"
-      ],
-      "publication_date": "2026-Jul-01",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Apert syndrome is a rare congenital disorder characterized by craniosynostosis, midface hypoplasia, and syndactyly. The multisystem complexity and lack of standardized surgical guidelines complicate diagnosis and treatment. This study introduces a quantitative severity scale for Apert syndrome to support objective risk stratification and personalized care. The authors retrospectively reviewed children with Apert syndrome who were at least 11 years of age and treated from 1988 through 2024. A 5-domain severity scale based on literature review and clinical data was developed. Scoring was performed using preoperative photographs and documentation. Of 65 identified patients, 37 (56.9%) met inclusion criteria. The mean follow-up age was 17.0 ± 5.0 years, with an average of 4.4 ± 2.2 craniofacial surgical procedures. Patients were scored from 1 (least severe) to 3 (most severe) in 5 domains: airway compromise, pressure (intracranial), eyes, retrusion of midface, and turribrachycephaly (APERT), with total scores ranging from 5 to 15. Severity categories were defined as mild (5 to 7), moderate (8 to 11), or severe (12 to 15). Fifteen patients (40.5%) had mild disease, 20 (54.1%) moderate, and 2 (5.4%) severe, with a mean score of 8.1 ± 1.8. Higher APERT scores correlated with increased surgical frequency ( r = 0.851; P < 0.001). Subscores in airway, pressure, eyes, and skull shape were also predictive. A score of 9 or greater predicted 6 or more surgical procedures with 100% sensitivity and 86.7% specificity. The APERT score is the first quantitative classification of Apert syndrome severity, correlating with phenotypic burden and surgical volume. The APERT score may improve clinical communication, institutional comparisons, and risk-based treatment planning.",
-      "objective": "risk stratification and personalized care. The authors retrospectively reviewed children with Apert syndrome who were at least 11 years of age and treated from 1988 through 2024. A 5-domain severity scale based on literature review and clinical data was developed. Scoring was performed using preoperative photographs and documentation. Of 65 identified patients, 37 (56.9%) met inclusion criteria. The mean follow-up age was 17.0 ± 5.0 years, with an average of 4.4 ± 2.2 craniofacial surgical procedures. Patients were scored from 1 (least severe) to 3 (most severe) in 5 domains: airway compromise, pressure (intracranial), eyes, retrusion of midface, and turribrachycephaly (APERT), with total scores ranging from 5 to 15. Severity categories were defined as mild (5 to 7), moderate (8 to 11), or severe (12 to 15). Fifteen patients (40.5%) had mild disease, 20 (54.1%) moderate, and 2 (5.4%) severe, with a mean score of 8.1 ± 1.8. Higher APERT scores correlated with increased surgical frequency ( r = 0.851; P < 0.001). Subscores in airway, pressure, eyes, and skull shape were also predictive. A score of 9 or greater predicted 6 or more surgical procedures with 100% sensitivity and 86.7% specificity. The APERT score is the first quantitative classification of Apert syndrome severity, correlating with phenotypic burden and surgical volume. The APERT score may improve clinical communication, institutional comparisons, and risk-based treatment planning.",
-      "study_methods": "The authors retrospectively reviewed children with Apert syndrome who were at least 11 years of age and treated from 1988 through 2024. A 5-domain severity scale based on literature review and clinical data was developed. Scoring was performed using preoperative photographs and documentation.",
-      "methods": "The authors retrospectively reviewed children with Apert syndrome who were at least 11 years of age and treated from 1988 through 2024. A 5-domain severity scale based on literature review and clinical data was developed. Scoring was performed using preoperative photographs and documentation.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41400369/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41283567",
-      "title": "JOSAQ: Development and Delphi-Vignette evaluation of a craniofacial-focused screening tool for obstructive sleep apnoea in oral and maxillofacial surgery.",
-      "authors": [
-        "Anuj Jain"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Undiagnosed obstructive sleep apnoea (OSA) presents risks in oral and maxillofacial surgery (OMFS), yet tools such as STOP-Bang often underperform in non-obese patients with craniofacial anomalies. This study aimed to develop and preliminarily assess the Jain's Obstructive Sleep Apnoea Questionnaire (JOSAQ), a craniofacial-focused screening tool tailored for OMFS practice. JOSAQ, a two-stage, 20-item instrument combining patient-reported symptoms and clinician-assessed craniofacial features, underwent Delphi consensus and vignette-based comparison with STOP-Bang. Fifteen experts participated in the Delphi process, and 20 clinicians rated 25 standardized clinical vignettes. Content validity was high (S-CVI = 0.89). JOSAQ identified more high-risk cases than STOP-Bang (62% vs 44%, p < .01) with higher Inter-rater reliability (κ = 0.72 vs 0.64), and better clarity scores. Completion times were similar. JOSAQ enhances screening sensitivity and inter-rater reliability without increasing assessment time, particulary benefiting non-obese patients with craniofacial anomalies. Multicentre validation against polysomnography is recommended.",
-      "objective": "",
-      "study_methods": "JOSAQ, a two-stage, 20-item instrument combining patient-reported symptoms and clinician-assessed craniofacial features, underwent Delphi consensus and vignette-based comparison with STOP-Bang. Fifteen experts participated in the Delphi process, and 20 clinicians rated 25 standardized clinical vignettes.",
-      "methods": "JOSAQ, a two-stage, 20-item instrument combining patient-reported symptoms and clinician-assessed craniofacial features, underwent Delphi consensus and vignette-based comparison with STOP-Bang. Fifteen experts participated in the Delphi process, and 20 clinicians rated 25 standardized clinical vignettes.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41283567/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41264803",
-      "title": "The S-Flap Modification: A Short-Scar Reduction Mammaplasty.",
-      "authors": [
-        "Daniel Hilewitz",
-        "Oren Ganor",
-        "Neta Adler",
-        "Asaf Olshinka",
-        "Dafna Shilo Yaacobi",
-        "Itay Chen",
-        "Tamir Shay",
-        "Yehiel Hayun",
-        "Dean Ad-El",
-        "Sagit Meshulam-Derazon"
-      ],
-      "publication_date": "2026-Jul-01",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Despite the documented advantages of short-scar reduction mammaplasty, its broad applicability remains debated. Critics argue that it does not manage lower-pole skin excess as effectively as the T-scar technique. The S-flap modification of the Hall-Findlay technique potentially retains the advantages of the short scar while providing a stabler lower pole. Out of 147 single-surgeon consecutive cases operated on between 2016 and 2022, 58 (39.5%) completed at least 1 year of follow-up and answered a reduction mammaplasty BREAST-Q. They were divided into 3 groups: vertical scar, J scar, and S scar. The S-scar modification was analyzed in relation to the previously used vertical and J-scar techniques. The S-scar group was characterized by a significantly ( P = 0.002) higher mean resection weight (456 ± 226 g) versus the vertical scar group (317 ± 158 g), longer preoperative nipple-intramammary fold (IMF) distance (20 ± 3 cm) than the V-scar and J-scar groups (both 16 ± 2 cm), and shorter follow-up time (57 ± 3 weeks versus 128 ± 80 and 110 ± 55 weeks, respectively). Long-term improvement rates in nipple-IMF distance in the J-scar, V-scar, and S-scar groups were 12.44% ± 13.08%, 13.01% ± 13.63%, and 21.83% ± 8.8%, respectively ( P = 0.003). BREAST-Q scores across all measures ranged from 72.35 to 98.63, with no significant differences among the groups, except for general outcome and information criteria, which were higher in the S-scar group ( P = 0.001 for both). The S-flap modification maintains short-scar advantages in terms of shape, projection, and lower pole stability, as reflected by a shorter nipple-IMF distance and a better general outcome score. Studies with a follow-up period exceeding 1 year and a larger cohort are needed.",
-      "objective": "",
-      "study_methods": "Out of 147 single-surgeon consecutive cases operated on between 2016 and 2022, 58 (39.5%) completed at least 1 year of follow-up and answered a reduction mammaplasty BREAST-Q. They were divided into 3 groups: vertical scar, J scar, and S scar. The S-scar modification was analyzed in relation to the previously used vertical and J-scar techniques.",
-      "methods": "Out of 147 single-surgeon consecutive cases operated on between 2016 and 2022, 58 (39.5%) completed at least 1 year of follow-up and answered a reduction mammaplasty BREAST-Q. They were divided into 3 groups: vertical scar, J scar, and S scar. The S-scar modification was analyzed in relation to the previously used vertical and J-scar techniques.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41264803/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41217364",
       "title": "Maxilla First versus Mandible First in 2-Jaw Orthognathic Surgery: Determining Factors and Outcomes.",
       "authors": [
@@ -2888,63 +3133,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41217364/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41065728",
-      "title": "Computer-aided Design and Computer-aided Manufacturing Guided Surgical Management of Alveolar Verrucous Growths: An Interdisciplinary Approach.",
-      "authors": [
-        "Abhigyan Manas",
-        "Diksha Koushal",
-        "Himanshi",
-        "Naveen Raddy",
-        "Abdul Kalam Azad",
-        "Mushir Mulla",
-        "Anupa Samanta",
-        "Sheetal Mujoo",
-        "Akhil Shetty"
-      ],
-      "publication_date": "2026-Jul-01",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Alveolar verrucous growths present diagnostic and therapeutic challenges due to variable histopathology and diverse risk factors, including tobacco use. Precision in surgical margins is critical to optimize treatment outcomes and reduce recurrence. This study was done to assess the diagnostic accuracy and clinical efficacy of computer-aided design and computer-aided manufacturing (CAD-CAM) guided surgical excision in managing alveolar verrucous lesions, and to analyze the impact of lesion size, tobacco use, systemic conditions, and biopsy type on recurrence and healing. A prospective interdisciplinary study involving young to middle-aged adults with verrucous alveolar lesions was conducted on 46 participants. Clinical diagnoses were correlated with histopathological findings. CAD-CAM guided excisions with margins ranging from 1 to 3 mm were employed. Data on lesion size, tobacco habits, systemic comorbidities, biopsy type, recurrence, and delayed healing were analyzed. Histopathological concordance ranged from 66.6% to 100%, highest in verrucous carcinoma (VC) cases. Tumor-free margins improved with wider CAD-CAM guided excision: 73% at 1 mm, 91% at 2 mm, and 100% at 3 mm. Tobacco chewing significantly increased the odds of verrucous hyperplasia (odds ratio [OR] 4.1), and lesions >4 cm correlated with higher VC risk (OR 5.3). Excisional biopsies with margins ≥2 mm markedly reduced recurrence and delayed healing, even in patients with diabetes and hypertension. CAD-CAM guided margin planning enhances surgical precision and oncologic safety in alveolar verrucous lesions. Integration of lesion characteristics, tobacco exposure, and systemic health factors informs individualized treatment, minimizing recurrence, and promoting optimal healing.",
-      "objective": "",
-      "study_methods": "A prospective interdisciplinary study involving young to middle-aged adults with verrucous alveolar lesions was conducted on 46 participants. Clinical diagnoses were correlated with histopathological findings. CAD-CAM guided excisions with margins ranging from 1 to 3 mm were employed. Data on lesion size, tobacco habits, systemic comorbidities, biopsy type, recurrence, and delayed healing were analyzed.",
-      "methods": "A prospective interdisciplinary study involving young to middle-aged adults with verrucous alveolar lesions was conducted on 46 participants. Clinical diagnoses were correlated with histopathological findings. CAD-CAM guided excisions with margins ranging from 1 to 3 mm were employed. Data on lesion size, tobacco habits, systemic comorbidities, biopsy type, recurrence, and delayed healing were analyzed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41065728/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "40993494",
-      "title": "Five-year outcomes of patient quality of life, satisfaction, and preconceptions following root canal treatment, re-treatment, or single dental implant placement in the anterior zone.",
-      "authors": [
-        "Carlota de España",
-        "Juan Gonzalo Olivieri",
-        "Jordi Ortega",
-        "Sergio Morelló",
-        "Marc Encinas",
-        "Fernando Durán-Sindreu"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "The primary aim of this study was to compare the overall satisfaction and quality of life (QoL) up to 5 years after treatment in patients who underwent root canal treatment (RCT), re-treatment (re-RCT), or single tooth implant (STI) placement in the anterior zone. The secondary aim was to analyze factors influencing decision-making and patients' fear levels. This cross-sectional study entailed face-to-face personal interviews performed 5 years after treatment. The procedures were performed in private practice by two experienced dentists, specialists in Endodontics and Oral Surgery and Implantology, respectively. The Chi-squared test was used to evaluate the differences in treatment decision-making. Factors influencing treatment decisions were compared using the Kruskal-Wallis test, while ANOVA was employed to assess Oral Health Impact Profile (OHIP)-14 scores and overall satisfaction. Significance was set at p < 0.05. Most patients reported that decisions were made jointly with their dentist, with no differences among groups (p > 0.05). Esthetics were the most influential factor in decision-making (p < 0.05). No differences were found in overall satisfaction among the groups (p > 0.05). STI treatment induced the highest perceived fear and pain scores (p < 0.05). Significant differences were found in some domains of the OHIP-14 in the STI group compared with the RCT and re-RCT groups (p < 0.05). No differences were found between the RCT and re-RCT groups (p > 0.05). Endodontic treatments (RCT and re-RCT) yielded high patient QoL and satisfaction levels comparable to STI, while resulting in lower social disability, psychological discomfort, and physical disability. Esthetics were the most influential determinant across all procedures. In addition, STI resulted in significantly higher perceived fear and pain levels compared with endodontic procedures. The present study's findings underscore the importance of personalized, patient-centered approaches in dental practice to enhance long-term patient satisfaction and outcomes.",
-      "objective": "of this study was to compare the overall satisfaction and quality of life (QoL) up to 5 years after treatment in patients who underwent root canal treatment (RCT), re-treatment (re-RCT), or single tooth implant (STI) placement in the anterior zone. The secondary aim was to analyze factors influencing decision-making and patients' fear levels. This cross-sectional study entailed face-to-face personal interviews performed 5 years after treatment. The procedures were performed in private practice by two experienced dentists, specialists in Endodontics and Oral Surgery and Implantology, respectively. The Chi-squared test was used to evaluate the differences in treatment decision-making. Factors influencing treatment decisions were compared using the Kruskal-Wallis test, while ANOVA was employed to assess Oral Health Impact Profile (OHIP)-14 scores and overall satisfaction. Significance was set at p < 0.05. Most patients reported that decisions were made jointly with their dentist, with no differences among groups (p > 0.05). Esthetics were the most influential factor in decision-making (p < 0.05). No differences were found in overall satisfaction among the groups (p > 0.05). STI treatment induced the highest perceived fear and pain scores (p < 0.05). Significant differences were found in some domains of the OHIP-14 in the STI group compared with the RCT and re-RCT groups (p < 0.05). No differences were found between the RCT and re-RCT groups (p > 0.05). Endodontic treatments (RCT and re-RCT) yielded high patient QoL and satisfaction levels comparable to STI, while resulting in lower social disability, psychological discomfort, and physical disability. Esthetics were the most influential determinant across all procedures. In addition, STI resulted in significantly higher perceived fear and pain levels compared with endodontic procedures. The present study's findings underscore the importance of personalized, patient-centered approaches in dental practice to enhance long-term patient satisfaction and outcomes.",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in lower social disability, psychological discomfort, and physical disability. Esthetics were the most influential determinant across all procedures. In addition, STI resulted in significantly higher perceived fear and pain levels compared with endodontic procedures. The present study's findings underscore the importance of personalized, patient-centered approaches in dental practice to enhance long-term patient satisfaction and outcomes.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40993494/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2973,10 +3161,37 @@
       "conclusion": "Speech outcomes in the long term indicate adequate velopharyngeal competency using the modified Furlow palatoplasty. OGS for midface hypoplasia was indicated in over half of patients presenting with severe Veau type cleft phenotypes.",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40665709/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42381019",
+      "title": "State-of-the-art 3D analysis of soft tissue prediction for orthognathic correction of dentofacial deformities in the Egyptian population.",
+      "authors": [
+        "Nehal Ibrahim Shobair",
+        "Xiangyang Ju",
+        "Amr Amin Ghanem",
+        "Mohamed Diaa Zain El Abedeen",
+        "Amr Ekram",
+        "Ahmed Abdel Moneim Barakat",
+        "Ashraf Farouk Ayoub"
+      ],
+      "publication_date": "2026-Jun-30",
+      "publication_date_iso": "2026-06-30",
+      "abstract": "To evaluate the accuracy of soft tissue simulation in bimaxillary osteotomy for orthognathic surgical correction of Class III dentofacial deformities using 3D conformation meshes and facial aesthetic units. A retrospective analysis of CBCT scans of 13 Egyptian patients who underwent simultaneous maxillary advancement and mandibular setback surgery for correction of class III skeletal deformities. Preoperative and postoperative CBCT scans were superimposed using voxel-based registration. Dolphin software generated soft tissue predictions according to the measured surgical movements. This was compared with the actual soft tissue changes following orthognathic surgery. Prediction accuracy was assessed using dense surface correspondence analysis with region-specific segmentation into facial aesthetic units, comparing Euclidean and directional (X, Y, Z) distances between predicted and actual outcomes, and color-coded maps were used to visualize the findings. Across all regions, the highest prediction errors was in the anteroposterior dimension, with the upper lip showing the greatest deviation (median 2.04 mm). The chin region exhibited the lowest overall prediction error of 1.82 mm. The lower lip and cheek regions showed moderate prediction errors. The prediction error was relatively low at the nose. Color maps indicated a consistent pattern of underprediction of the soft tissue changes following Le Fort I maxillary advancement and mandibular setback surgery. Prediction errors across facial regions remained within an acceptable range of less than 2 mm. The sophisticated methodology of this study, incorporating dense correspondence analysis and facial unit segmentation, provided a more precise assessment of soft tissue prediction accuracy of bimaxillary osteotomy for correction of class III deformities. These findings support the clinical reliability of Dolphin software while highlighting the importance of advanced analytical approaches in orthognathic surgical planning. The application of the conformation meshes and the mathematical facial segmentation into aesthetic units provided an insight into the magnitude and direction of 3D prediction errors in Egyptian population, this should be considered in planning orthognathic surgery.",
+      "objective": "",
+      "study_methods": "A retrospective analysis of CBCT scans of 13 Egyptian patients who underwent simultaneous maxillary advancement and mandibular setback surgery for correction of class III skeletal deformities. Preoperative and postoperative CBCT scans were superimposed using voxel-based registration. Dolphin software generated soft tissue predictions according to the measured surgical movements. This was compared with the actual soft tissue changes following orthognathic surgery. Prediction accuracy was assessed using dense surface correspondence analysis with region-specific segmentation into facial aesthetic units, comparing Euclidean and directional (X, Y, Z) distances between predicted and actual outcomes, and color-coded maps were used to visualize the findings.",
+      "methods": "A retrospective analysis of CBCT scans of 13 Egyptian patients who underwent simultaneous maxillary advancement and mandibular setback surgery for correction of class III skeletal deformities. Preoperative and postoperative CBCT scans were superimposed using voxel-based registration. Dolphin software generated soft tissue predictions according to the measured surgical movements. This was compared with the actual soft tissue changes following orthognathic surgery. Prediction accuracy was assessed using dense surface correspondence analysis with region-specific segmentation into facial aesthetic units, comparing Euclidean and directional (X, Y, Z) distances between predicted and actual outcomes, and color-coded maps were used to visualize the findings.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42381019/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3025,7 +3240,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42376830/",
-      "pmcid": "",
+      "pmcid": "PMC13316843",
       "figure_urls": []
     },
     {
@@ -3260,59 +3475,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42351114/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42340271",
-      "title": "Assessment of the Impact of Two-Jaw Orthognathic Surgery on Three-Dimensional Airway Volume in Patients with Skeletal Class III Patterns.",
-      "authors": [
-        "Yu-Jen Chang",
-        "Tzu-Chuan Hsu",
-        "Chia-Hsuan Chan",
-        "Jui-Pin Lai",
-        "Shiu-Shiung Lin"
-      ],
-      "publication_date": "2026-Jun-24",
-      "publication_date_iso": "2026-06-24",
-      "abstract": "ObjectiveTo evaluate 3-dimensional pharyngeal airway changes following 2-jaw orthognathic surgery in skeletal Class III patients and to assess their association with surgical movements.DesignRetrospective observational study.SettingSingle tertiary care center.PatientsTwenty-seven adult patients with skeletal Class III malocclusion who underwent Le Fort I maxillary advancement combined with bilateral sagittal split osteotomy mandibular setback.InterventionsAll patients received 2-jaw orthognathic surgery with preoperative (T0) and postoperative (T1, 6 months) computed tomography imaging.Main Outcome MeasuresThree-dimensional airway volumes of the nasopharynx, oropharynx, and hypopharynx were measured. Correlations between airway volume changes and skeletal movements were analyzed.ResultsSignificant regional differences in airway changes were observed. The nasopharyngeal airway volume increased (+1979.1 mm3), while the oropharyngeal airway showed minimal change (+336.4 mm3). In contrast, the hypopharyngeal airway demonstrated a significant reduction (-1087.5 mm3). A strong correlation was found between mandibular setback and hypopharyngeal airway reduction at Point B (r = 0.73, P = .023).ConclusionsTwo-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Significant regional differences in airway changes were observed. The nasopharyngeal airway volume increased (+1979.1 mm3), while the oropharyngeal airway showed minimal change (+336.4 mm3). In contrast, the hypopharyngeal airway demonstrated a significant reduction (-1087.5 mm3). A strong correlation was found between mandibular setback and hypopharyngeal airway reduction at Point B (r = 0.73, P = .023).ConclusionsTwo-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
-      "conclusion": "Two-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42340271/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42335338",
-      "title": "Surgical Ergonomics in Craniofacial Surgery: Evaluation of Surgeon Posture.",
-      "authors": [
-        "Janey Y Lee",
-        "Rachel Segal",
-        "Keeley D Newsom",
-        "Amanda Gosman",
-        "Chris M Reid",
-        "Benjamin B Massenburg"
-      ],
-      "publication_date": "2026-Jun-24",
-      "publication_date_iso": "2026-06-24",
-      "abstract": "Poor operating room ergonomics contribute significantly to musculoskeletal strain among surgeons. Craniofacial surgery presents unique ergonomic challenges due to variable operative fields, yet objective data characterizing ergonomic risk across craniofacial procedures remain limited. A prospective study was conducted at a single academic institution, measuring surgeon posture during craniofacial procedures. Surgeons at varying levels of training wore a continuous posture-monitoring device during craniofacial cases to measure cervical and thoracic alignment relative to an individualized neutral baseline. Time in upright versus non-neutral posture was recorded. Associations between posture and surgeon height, level of training, gender, and procedure type were analyzed using ANOVA and post hoc Tukey testing. Five surgeons contributed data from 48 surgical cases across 8 procedure categories, yielding 72 analyzable data points. The proportion of time in upright posture varied significantly by surgeon height and training level (P<0.05), with surgeons at shorter or taller height extremes and residents demonstrating worse posture. Gender was not significantly associated with posture (P=0.12). Overall differences among procedure types were not significant (P=0.17); however, post hoc analysis revealed significant pairwise differences. Intraoral procedures, including cleft palate repair, orthognathic surgery, and alveolar bone grafting, were associated with lower proportions of upright posture compared with external procedures such as cleft lip repair and craniosynostosis surgery. Craniofacial surgeons spend a substantial proportion of operative time in non-neutral posture, with ergonomic risk influenced by surgeon height, training level, and procedure-specific demands. Objective posture monitoring identifies high-risk scenarios and supports targeted interventions to reduce musculoskeletal injury risk.",
-      "objective": "data characterizing ergonomic risk across craniofacial procedures remain limited. A prospective study was conducted at a single academic institution, measuring surgeon posture during craniofacial procedures. Surgeons at varying levels of training wore a continuous posture-monitoring device during craniofacial cases to measure cervical and thoracic alignment relative to an individualized neutral baseline. Time in upright versus non-neutral posture was recorded. Associations between posture and surgeon height, level of training, gender, and procedure type were analyzed using ANOVA and post hoc Tukey testing. Five surgeons contributed data from 48 surgical cases across 8 procedure categories, yielding 72 analyzable data points. The proportion of time in upright posture varied significantly by surgeon height and training level (P<0.05), with surgeons at shorter or taller height extremes and residents demonstrating worse posture. Gender was not significantly associated with posture (P=0.12). Overall differences among procedure types were not significant (P=0.17); however, post hoc analysis revealed significant pairwise differences. Intraoral procedures, including cleft palate repair, orthognathic surgery, and alveolar bone grafting, were associated with lower proportions of upright posture compared with external procedures such as cleft lip repair and craniosynostosis surgery. Craniofacial surgeons spend a substantial proportion of operative time in non-neutral posture, with ergonomic risk influenced by surgeon height, training level, and procedure-specific demands. Objective posture monitoring identifies high-risk scenarios and supports targeted interventions to reduce musculoskeletal injury risk.",
-      "study_methods": "A prospective study was conducted at a single academic institution, measuring surgeon posture during craniofacial procedures. Surgeons at varying levels of training wore a continuous posture-monitoring device during craniofacial cases to measure cervical and thoracic alignment relative to an individualized neutral baseline. Time in upright versus non-neutral posture was recorded. Associations between posture and surgeon height, level of training, gender, and procedure type were analyzed using ANOVA and post hoc Tukey testing.",
-      "methods": "A prospective study was conducted at a single academic institution, measuring surgeon posture during craniofacial procedures. Surgeons at varying levels of training wore a continuous posture-monitoring device during craniofacial cases to measure cervical and thoracic alignment relative to an individualized neutral baseline. Time in upright versus non-neutral posture was recorded. Associations between posture and surgeon height, level of training, gender, and procedure type were analyzed using ANOVA and post hoc Tukey testing.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42335338/",
       "pmcid": "",
       "figure_urls": []
     }
