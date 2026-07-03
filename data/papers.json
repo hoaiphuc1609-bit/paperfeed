@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T06:05:05Z",
+  "updated_at": "2026-07-03T06:00:05Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -90,12 +90,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
       "pmcid": "PMC12943813",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42381887",
@@ -364,12 +359,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41563872/",
       "pmcid": "PMC12825576",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41431197",
@@ -603,6 +593,69 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/gr1.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/gr1.gif"
       ]
+    },
+    {
+      "pmid": "42302928",
+      "title": "EIF3B promotes oral squamous cell carcinoma progression via the PI3K/AKT pathway and is negatively regulated by miR-124-3p.",
+      "authors": [
+        "Xianglong Zheng",
+        "Bingju Gao",
+        "Jun Li",
+        "Yihan Ji",
+        "Yang Lin",
+        "Lisong Lin",
+        "Yu Qiu"
+      ],
+      "publication_date": "2026-Sep-15",
+      "publication_date_iso": "2026-09-15",
+      "abstract": "Oral squamous cell carcinoma (OSCC) has a poor prognosis and lacks effective therapeutic targets. Eukaryotic initiation factor 3B (EIF3B) is aberrantly overexpressed in multiple cancers, yet its role in OSCC remains unclear. Bioinformatic analyses identified EIF3B as a potential target of the tumor-suppressive microRNA miR-124-3p. In this study, the expression of miR-124-3p and EIF3B was examined in OSCC tissues and cell lines by qRT-PCR and western blotting, and their direct interaction was verified using a dual-luciferase assay. Functional effects on proliferation, migration, apoptosis, and tumorigenicity were evaluated through in vitro and xenograft assays. The underlying mechanisms were explored via analysis of PI3K/AKT signaling and epithelial-mesenchymal transition (EMT) markers, with LY294002 used to confirm pathway dependency. EIF3B was significantly upregulated, while miR-124-3p was downregulated, in OSCC tissues (n = 49). EIF3B expression correlated with advanced TNM stage and poor prognosis. EIF3B promoted proliferation, migration, and invasion, and inhibited apoptosis, whereas miR-124-3p exerted the opposite effects. miR-124-3p directly targeted the 3'UTR of EIF3B, and EIF3B overexpression reversed its suppressive effects. EIF3B activated PI3K/AKT signaling and EMT, both of which were abolished by miR-124-3p or LY294002. These findings define the miR-124-3p/EIF3B/PI3K-AKT axis as a key regulator of OSCC progression and suggest EIF3B as a potential prognostic biomarker and therapeutic target.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42302928/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42389736",
+      "title": "MRONJ risk associated with combined antiresorptive and vascular endothelial growth factor receptor tyrosine kinase inhibitors.",
+      "authors": [
+        "G Mammone",
+        "R Coropciuc",
+        "T Van den Wyngaert",
+        "R Jacobs",
+        "P Bossier",
+        "C Kerkhofs",
+        "L Wijnen",
+        "S Meerschaert",
+        "E Vissenaekens",
+        "P M Clement",
+        "O Bechter",
+        "P R Debruyne",
+        "A Laenen",
+        "B Beuselinck"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Concomitant use of vascular endothelial growth factor receptor tyrosine kinase inhibitors (VEGFR-TKIs) and bone resorption inhibitors (BRIs) may increase the risk of medication-related osteonecrosis of the jaw (MRONJ). The relative contribution of VEGFR-TKI, BRI type, and patient-related risk factors remains unclear. We retrospectively reviewed patients treated with BRIs, with or without concomitant VEGFR-TKIs. The primary endpoint was MRONJ-free survival, defined as time from BRI initiation to MRONJ diagnosis. Secondary endpoints included MRONJ incidence and skeletal-related events (SREs). Overall, 233 patients received BRI/VEGFR-TKI combination (study group) and 986 received BRI alone (control group). Median MRONJ-free survival was shorter in the study group than in controls (79 vs 202 months). However, after adjustment for smoking status, age, sex, and BRI type, concomitant VEGFR-TKI use was not independently associated with MRONJ-free survival (HR 1.3, 95% CI 0.8-2.1; p = 0.2), whereas denosumab use and active smoking remained independent predictors. VEGFR-TKI therapy was associated with earlier MRONJ occurrence among BP-treated patients (adjusted HR 3.22, 95% CI 1.08-9.56; p = 0.03), but not among denosumab-treated patients. MRONJ-incidence did not differ between BRI/VEGFR-TKI and BRI groups (14.6% vs 12.0%; p = 0.3), but BRI-exposure was shorter in the combination group. SRE occurrence was 69.5%, similar between BP- and denosumab-treated patients; however, denosumab-treated patients had longer exposure, resulting in a lower SRE rate (0.13 vs 0.39 events/month). MRONJ risk depends on BRI type and individual patient profile. VEGFR-TKIs may accelerate MRONJ onset in BP-treated patients, whereas denosumab showed higher MRONJ risk independently of VEGFR-TKI use. Treatment choices should balance MRONJ risk against skeletal disease burden.",
+      "objective": "",
+      "study_methods": "We retrospectively reviewed patients treated with BRIs, with or without concomitant VEGFR-TKIs. The primary endpoint was MRONJ-free survival, defined as time from BRI initiation to MRONJ diagnosis. Secondary endpoints included MRONJ incidence and skeletal-related events (SREs).",
+      "methods": "We retrospectively reviewed patients treated with BRIs, with or without concomitant VEGFR-TKIs. The primary endpoint was MRONJ-free survival, defined as time from BRI initiation to MRONJ diagnosis. Secondary endpoints included MRONJ incidence and skeletal-related events (SREs).",
+      "results": "ing in a lower SRE rate (0.13 vs 0.39 events/month). MRONJ risk depends on BRI type and individual patient profile. VEGFR-TKIs may accelerate MRONJ onset in BP-treated patients, whereas denosumab showed higher MRONJ risk independently of VEGFR-TKI use. Treatment choices should balance MRONJ risk against skeletal disease burden.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42389736/",
+      "pmcid": "PMC13320502",
+      "figure_urls": []
     },
     {
       "pmid": "42311958",
@@ -1000,12 +1053,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42253858/",
       "pmcid": "PMC13233747",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42236166",
@@ -1307,61 +1355,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42160803",
-      "title": "Correlation between Wilkes staging and arthroscopic findings in TMJ internal derangements: A 20-year retrospective study.",
-      "authors": [
-        "Óscar de la Sen Corcuera",
-        "Luis Vicente Gonzalez",
-        "Farzin Falahat",
-        "Miguel Alonso Juarranz",
-        "Manuel de Pedro Marina",
-        "Rafael Martin-Granizo López"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "The Wilkes classification is widely used to guide diagnosis and surgical decision-making in temporomandibular joint (TMJ) internal derangements. However, its ability to predict true intra-articular pathology remains uncertain. The purpose of this study was to evaluate the agreement between the Wilkes clinical-radiologic classification and the Bronstein-Merrill arthroscopic staging system. A retrospective observational study was conducted using the TMJ arthroscopy database of the Department of Oral and Maxillofacial Surgery at Hospital Clínico San Carlos (Madrid, Spain). Patients who underwent TMJ arthroscopy between 1998 and 2018 were included. Preoperative Wilkes stages were assigned based on clinical assessment and magnetic resonance imaging. Intraoperative findings were classified according to the Bronstein-Merrill system. Agreement between classifications was assessed using weighted Cohen's kappa coefficient. Concordance patterns were analyzed with contingency tables and visualized using a Sankey flow diagram. A total of 487 patients (829 joints) were analyzed. Overall agreement between Wilkes and Bronstein-Merrill classifications was poor, with exact concordance observed in 18.7% of joints and an overall discordance rate of 81.3% (κ = -0.019; p < 0.001). More than 80% of joints classified as Wilkes I exhibited pathological arthroscopic findings. Nearly 70% of Wilkes III joints and approximately one-third of Wilkes IV joints corresponded to mild arthroscopic stages (Bronstein I-II). Only 42.2% of Wilkes V joints demonstrated severe arthroscopic pathology, while 22.2% showed no significant intra-articular abnormalities. The Wilkes classification demonstrates limited reliability for predicting intra-articular disease severity observed during TMJ arthroscopy. Surgical decision-making should not rely solely on Wilkes staging and should incorporate a multimodal diagnostic approach to optimize patient selection.",
-      "objective": "of this study was to evaluate the agreement between the Wilkes clinical-radiologic classification and the Bronstein-Merrill arthroscopic staging system. A retrospective observational study was conducted using the TMJ arthroscopy database of the Department of Oral and Maxillofacial Surgery at Hospital Clínico San Carlos (Madrid, Spain). Patients who underwent TMJ arthroscopy between 1998 and 2018 were included. Preoperative Wilkes stages were assigned based on clinical assessment and magnetic resonance imaging. Intraoperative findings were classified according to the Bronstein-Merrill system. Agreement between classifications was assessed using weighted Cohen's kappa coefficient. Concordance patterns were analyzed with contingency tables and visualized using a Sankey flow diagram. A total of 487 patients (829 joints) were analyzed. Overall agreement between Wilkes and Bronstein-Merrill classifications was poor, with exact concordance observed in 18.7% of joints and an overall discordance rate of 81.3% (κ = -0.019; p < 0.001). More than 80% of joints classified as Wilkes I exhibited pathological arthroscopic findings. Nearly 70% of Wilkes III joints and approximately one-third of Wilkes IV joints corresponded to mild arthroscopic stages (Bronstein I-II). Only 42.2% of Wilkes V joints demonstrated severe arthroscopic pathology, while 22.2% showed no significant intra-articular abnormalities. The Wilkes classification demonstrates limited reliability for predicting intra-articular disease severity observed during TMJ arthroscopy. Surgical decision-making should not rely solely on Wilkes staging and should incorporate a multimodal diagnostic approach to optimize patient selection.",
-      "study_methods": "A retrospective observational study was conducted using the TMJ arthroscopy database of the Department of Oral and Maxillofacial Surgery at Hospital Clínico San Carlos (Madrid, Spain). Patients who underwent TMJ arthroscopy between 1998 and 2018 were included. Preoperative Wilkes stages were assigned based on clinical assessment and magnetic resonance imaging. Intraoperative findings were classified according to the Bronstein-Merrill system. Agreement between classifications was assessed using weighted Cohen's kappa coefficient. Concordance patterns were analyzed with contingency tables and visualized using a Sankey flow diagram.",
-      "methods": "A retrospective observational study was conducted using the TMJ arthroscopy database of the Department of Oral and Maxillofacial Surgery at Hospital Clínico San Carlos (Madrid, Spain). Patients who underwent TMJ arthroscopy between 1998 and 2018 were included. Preoperative Wilkes stages were assigned based on clinical assessment and magnetic resonance imaging. Intraoperative findings were classified according to the Bronstein-Merrill system. Agreement between classifications was assessed using weighted Cohen's kappa coefficient. Concordance patterns were analyzed with contingency tables and visualized using a Sankey flow diagram.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42160803/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42160802",
-      "title": "Morphometric variations of human mandible in the Indian population: comparison between healthy and ankylosed temporomandibular joints.",
-      "authors": [
-        "Girish Chandra",
-        "Rajdeep Ghosh",
-        "Kamalpreet Kaur",
-        "Ajoy Roychoudhury",
-        "Sudipto Mukherjee",
-        "Anoop Chawla",
-        "Kaushik Mukherjee"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "This retrospective, cross-sectional study analyzed clinical CT scans from 367 Indian subjects (199 healthy; 168 with TMJ ankylosis) from a tertiary hospital to compare mandibular morphometric parameters between Indian subjects with healthy and ankylosed temporomandibular joints (TMJs) of differing age groups and sex. Furthermore, the study compared mandibular morphometry of the Indian population with that of other countries. Key mandibular parameters, including ramus length and condyle width, were measured from 3D reconstructions. Two-sample z-tests and paired t-tests were used (p < 0.05). Ramus length was significantly shorter in ankylosis subjects across all age groups and sexes, as compared with healthy subjects, while condyle width was higher. However, both ramus length and condyle width in ankylosis group increased with age. The minimum observed ramus lengths in the ankylosis group were 14.01 mm, 20.37 mm, and 24.93 mm in the pre-pubertal, pubertal, and adult age cohorts, respectively, while the maximum observed condyle widths were 25.42 mm, 32.05 mm, and 36.32 mm for the same age cohorts. In unilateral cases, the affected side had shorter ramus length and wider condyle than the unaffected side. When comparing the mandibles of the healthy adult Indian group with those from other countries, Indian mandibles were found to be longer than Brazilian and Chinese, but shorter than Australian and Korean counterparts. This study aimed to establish to what extent TMJ ankylosis influences mandibular structure. The study identified two key mandibular morphometries in the ankylosis group, especially ramus length and condyle width, as being significantly different from those in the healthy group in India. The study also highlighted salient country-specific differences in mandibular morphometry. These findings would be crucial in the development of population-specific TMJ implants to improve clinical outcomes.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42160802/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42045061",
       "title": "Letter to the editor on \"Cannabis-related facial trauma: a 10-year review of facial trauma in Victoria, Australia\".",
       "authors": [
@@ -1434,6 +1427,30 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41945068/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41941653",
+      "title": "Cleft related facial skeletal surgery: an update.",
+      "authors": [
+        "Karandeep Singh Randhawa",
+        "Alexander Graf",
+        "Sherard Tatum"
+      ],
+      "publication_date": "2026-Aug-01",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "This review provides a comprehensive update on advancements and evolving paradigms in cleft-related facial skeletal surgery. It evaluates recent literature concerning the integration of artificial intelligence in surgical prediction, optimal orthognathic surgical sequencing, the utility of virtual surgical planning (VSP) and patient-specific implants (PSIs), strategies for managing skeletal surgery related velopharyngeal insufficiency (VPI) and airway patency, the evolution of alveolar bone grafting (ABG) techniques, and the increasing emphasis on patient-reported outcome measures (PROMs). Recent studies demonstrate that machine learning models utilizing preadolescent cephalometric data can predict the need for orthognathic surgery with high accuracy (over 83%). The implementation of 3D VSP has validated the mandible-first surgical sequence and significantly improved occlusal accuracy while reducing preoperative planning time. While PSIs reduce skeletal relapse in large maxillary advancements (>10 mm), they carry a higher risk of hardware removal compared to conventional plates. Regarding speech and airway management, safe maxillary advancement thresholds have been established to minimize VPI risk, and preserving prior pharyngeal flaps during surgery, if possible, is highly recommended to prevent speech deterioration. In alveolar reconstruction, synthetic grafts and allografts combined with osteogenic agents (like rhBMP-2) are showing success rates comparable to traditional iliac cancellous autografts, with a marked shift toward earlier intervention (ages 4-8) and outpatient procedures. Finally, while orthognathic surgery significantly improves psychosocial well being and facial aesthetics, significant disparities in care access persist based on insurance status and geopolitical factors. The landscape of cleft-related facial skeletal surgery is rapidly advancing through the integration of artificial intelligence, 3D digital planning, and novel biomaterials. These innovations allow for earlier, more accurate surgical predictions, reduced operative morbidity, and enhanced long-term skeletal stability. Balancing structural advancements with airway and speech preservation remains a delicate, patient-specific process. Ultimately, while surgical and technological refinements continue to optimize functional and aesthetic results, addressing socioeconomic barriers is critical to ensuring timely care and maximizing health-related quality of life for all cleft patients.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": ", addressing socioeconomic barriers is critical to ensuring timely care and maximizing health-related quality of life for all cleft patients.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41941653/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1520,6 +1537,29 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41862371/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41858142",
+      "title": "Efficacy of Denosumab for Treatment of Pain in Fibrous Dysplasia and McCune-Albright Syndrome: A Systematic Review.",
+      "authors": [
+        "Vicky Yau",
+        "David L Best"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Fibrous dysplasia (FD) skeletal lesions have a range of clinical manifestations including pain, which is a major contributor to reduced quality of life in patients with FD/MAS. Denosumab has been shown to reduce skeletal lesion activity and improve radiographic bone density; however, there is mixed evidence regarding its effect on pain. The primary objective was to evaluate the efficacy of denosumab for the treatment of bone pain in FD/MAS. A systematic review was conducted according to PRISMA guidelines utilising electronic databases including PubMed, Cochrane Library, Embase, Web of Science, and ClinicalTrials.gov. Included studies were those that described patients with a diagnosis of FD, with or without MAS, who were treated with denosumab. The primary outcomes were change in pain score using quantitative pain scales (Visual Analogue Scale, Brief Pain Index, and patient-reported numerical rating scale), proportion of pain responders (≥ 2-point reduction in pain or an overall subjective improvement in pain), and change in analgesic requirement. The secondary outcome was adverse on-treatment and post-treatment events related to denosumab. There were 16 studies included (88 total patients, 86 treated with denosumab). Mean pain score decreased by 3.51 points on a 10-point scale. 81.8% of patients were pain responders, demonstrating a clinically meaningful improvement in pain. Reduction or cessation of analgesic use was reported in 51.7% of patients. Adverse events occurred in 55.8% of patients, most commonly hypocalcemia (11.6%) and hypophosphatemia (8.1%). Rebound hypercalcemia following denosumab discontinuation occurred in 8 patients (9.3%), 4 of which were severe. In patients with FD/MAS undergoing treatment with denosumab, pain improved in 81.8% of patients, and analgesic requirement decreased in greater than half of patients. Careful monitoring is required surrounding treatment due the potential for severe adverse events, particularly rebound hypercalcemia following treatment discontinuation.",
+      "objective": "was to evaluate the efficacy of denosumab for the treatment of bone pain in FD/MAS. A systematic review was conducted according to PRISMA guidelines utilising electronic databases including PubMed, Cochrane Library, Embase, Web of Science, and ClinicalTrials.gov. Included studies were those that described patients with a diagnosis of FD, with or without MAS, who were treated with denosumab. The primary outcomes were change in pain score using quantitative pain scales (Visual Analogue Scale, Brief Pain Index, and patient-reported numerical rating scale), proportion of pain responders (≥ 2-point reduction in pain or an overall subjective improvement in pain), and change in analgesic requirement. The secondary outcome was adverse on-treatment and post-treatment events related to denosumab. There were 16 studies included (88 total patients, 86 treated with denosumab). Mean pain score decreased by 3.51 points on a 10-point scale. 81.8% of patients were pain responders, demonstrating a clinically meaningful improvement in pain. Reduction or cessation of analgesic use was reported in 51.7% of patients. Adverse events occurred in 55.8% of patients, most commonly hypocalcemia (11.6%) and hypophosphatemia (8.1%). Rebound hypercalcemia following denosumab discontinuation occurred in 8 patients (9.3%), 4 of which were severe. In patients with FD/MAS undergoing treatment with denosumab, pain improved in 81.8% of patients, and analgesic requirement decreased in greater than half of patients. Careful monitoring is required surrounding treatment due the potential for severe adverse events, particularly rebound hypercalcemia following treatment discontinuation.",
+      "study_methods": "A systematic review was conducted according to PRISMA guidelines utilising electronic databases including PubMed, Cochrane Library, Embase, Web of Science, and ClinicalTrials.gov. Included studies were those that described patients with a diagnosis of FD, with or without MAS, who were treated with denosumab. The primary outcomes were change in pain score using quantitative pain scales (Visual Analogue Scale, Brief Pain Index, and patient-reported numerical rating scale), proportion of pain responders (≥ 2-point reduction in pain or an overall subjective improvement in pain), and change in analgesic requirement. The secondary outcome was adverse on-treatment and post-treatment events related to denosumab.",
+      "methods": "A systematic review was conducted according to PRISMA guidelines utilising electronic databases including PubMed, Cochrane Library, Embase, Web of Science, and ClinicalTrials.gov. Included studies were those that described patients with a diagnosis of FD, with or without MAS, who were treated with denosumab. The primary outcomes were change in pain score using quantitative pain scales (Visual Analogue Scale, Brief Pain Index, and patient-reported numerical rating scale), proportion of pain responders (≥ 2-point reduction in pain or an overall subjective improvement in pain), and change in analgesic requirement. The secondary outcome was adverse on-treatment and post-treatment events related to denosumab.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41858142/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1709,6 +1749,33 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41335106/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42392891",
+      "title": "Postoperative auditory outcomes in total temporomandibular joint replacement: fossa-canal proximity and tinnitus risk.",
+      "authors": [
+        "V Baskar",
+        "N Evelyn R",
+        "S S Agrawal",
+        "D Sahu",
+        "V Galhotra",
+        "S Rao"
+      ],
+      "publication_date": "2026-Jul-02",
+      "publication_date_iso": "2026-07-02",
+      "abstract": "Total temporomandibular joint replacement (TMJR) is an established treatment for advanced ankylosis; however, postoperative auditory complications, such as tinnitus, remain poorly characterized. This post-hoc observational analysis evaluated whether postoperative prosthetic fossa-external auditory meatus (EAM) distance is associated with postoperative tinnitus after TMJR for ankylosis, and explored preoperative ankylosis-EAM proximity and tinnitus resolution. Patients aged 18-40 years undergoing TMJR with orthognathic surgery with ≥12 months follow-up and postoperative cone-beam computed tomography were evaluated. The unit of analysis was the individual joint. Postoperative and preoperative EAM distances were measured on multiplanar reconstructions by blinded observers. A total of 24 joints from 17 patients were analysed (10 unilateral and seven bilateral). Postoperative tinnitus occurred in two joints (8.3%), both unilateral events in patients undergoing bilateral TMJR. Mean postoperative fossa-EAM distances were significantly shorter in tinnitus joints compared with non-tinnitus joints (1.38 ± 0.17 mm vs 5.18 ± 2.08 mm; mean difference 3.80 mm, 95% confidence interval 0.68-6.92; P = 0.019; Cohen's d = 1.87). Preoperative ankylosis-EAM distance showed no significant difference between groups (P = 0.123). Both tinnitus cases occurred at postoperative clearances below ∼3.5 mm. Symptoms were mild to moderate, resolved within 12 months, and were not associated with audiometric hearing loss. Shorter postoperative fossa-EAM distance was associated with transient postoperative tinnitus in this exploratory cohort. The observed 3.5 mm clearance should be regarded as hypothesis-generating rather than a validated clinical threshold. Larger studies with standardized tinnitus assessment are required.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42392891/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3011,31 +3078,6 @@
       ]
     },
     {
-      "pmid": "41637216",
-      "title": "Superiority of Cone Beam Computed Tomography Over Intraoral Radiography for Detection of Periapical Lucency in Complicated Fractures of the Maxillary Fourth Premolar Teeth in Dogs.",
-      "authors": [
-        "Margaret Elizabeth Beth Durney",
-        "Mary Buelow",
-        "Michael Jennings",
-        "Scott Hetzel"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Apical periodontitis (AP) is commonly encountered in dogs. Cone beam computed tomography (CBCT) has emerged as the preferred imaging modality for identification and monitoring of AP in the human endodontic community. This study compared intraoral radiographs (IOR) and CBCT for identifying periapical lucency (PAL) (as a proxy for AP) of the maxillary fourth premolar teeth in dogs. All dogs had IOR and CBCT performed under general anesthesia. Imaging was evaluated retrospectively and compared. PAL was identified more frequently with CBCT, and results were statistically significant. No other statistically significant relationships were identified. This study shows that CBCT is superior to IOR in identification of PAL of the maxillary fourth premolar teeth in dogs.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "were statistically significant. No other statistically significant relationships were identified. This study shows that CBCT is superior to IOR in identification of PAL of the maxillary fourth premolar teeth in dogs.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41637216/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41620329",
       "title": "Does preoperative joint space affect accuracy in splint-based Le Fort I osteotomy?",
       "authors": [
@@ -3448,33 +3490,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42351191/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42351114",
-      "title": "A cephalometric analysis of underlying components of deep overbite malocclusion.",
-      "authors": [
-        "Avinash Chaudhary",
-        "Sushant Pandey",
-        "Samikshya Sangroula",
-        "Jamal Giri",
-        "Prabhat Ranjan Pokharel",
-        "Rajesh Gyawali"
-      ],
-      "publication_date": "2026-Jun-26",
-      "publication_date_iso": "2026-06-26",
-      "abstract": "Deep overbite is a critical parameter in orthodontic diagnosis and treatment planning, reflecting the excessive vertical overlap of anterior teeth. It not only affects facial esthetics but may also contribute to functional disturbances. It is influenced by a complex interplay of skeletal, dental, and angular factors. Understanding the relative association of these components is critical for accurate diagnosis and effective treatment planning. So, this study aims to determine which skeletal and dental components most significantly affect deep overbite. The study was carried out on 252 pre-treatment lateral cephalograms of Nepalese patients of mixed ethnic backgrounds (Indo-Nepali, Tibeto-Nepali, and Indigenous Nepali) who presented with an overbite of greater than 4 mm measured on the lateral cephalogram, in the Department of Orthodontics, BPKIHS, Nepal. Among them, 130 were males and 122 were females. The mean age of the subjects was 22.26 ± 3.85 years (range:16 to 41 years). Lateral cephalograms meeting the inclusion/exclusion criteria were digitally traced using Onyxceph3TM Pro (version 3.2.67) software. Twelve vertical and angular, skeletal and dental parameters from Burstone's Cephalometrics for Orthognathic Surgery (COGS) analysis were measured. Descriptive analysis was performed for each variable. Multiple linear regression analyses were performed performed to evaluate the association between skeletal and dentoalveolar variables and deep overbite. Iterative backward elimination regression approach was used to assess the association between the variables and deep over bite after considering multicollinearity. The final model explained 71.4% of the variance in deep overbite (R²=0.714, p < 0.001). Lower anterior dental height (L1-MP) had the strongest effect on deep overbite. Other significant predictors included lower anterior facial height (ANSGn), mandibular plane angle (MP-HP), upper anterior dental height (U1-NF), upper anterior inclination (U1NFang), Lower anterior inclination (L1MPang) and lower posterior dental height (LM-MP). Overbite is predominantly influenced by dentoalveolar factors, particularly incisor position and inclination, while skeletal variables play a secondary role.",
-      "objective": "to determine which skeletal and dental components most significantly affect deep overbite. The study was carried out on 252 pre-treatment lateral cephalograms of Nepalese patients of mixed ethnic backgrounds (Indo-Nepali, Tibeto-Nepali, and Indigenous Nepali) who presented with an overbite of greater than 4 mm measured on the lateral cephalogram, in the Department of Orthodontics, BPKIHS, Nepal. Among them, 130 were males and 122 were females. The mean age of the subjects was 22.26 ± 3.85 years (range:16 to 41 years). Lateral cephalograms meeting the inclusion/exclusion criteria were digitally traced using Onyxceph3TM Pro (version 3.2.67) software. Twelve vertical and angular, skeletal and dental parameters from Burstone's Cephalometrics for Orthognathic Surgery (COGS) analysis were measured. Descriptive analysis was performed for each variable. Multiple linear regression analyses were performed performed to evaluate the association between skeletal and dentoalveolar variables and deep overbite. Iterative backward elimination regression approach was used to assess the association between the variables and deep over bite after considering multicollinearity. The final model explained 71.4% of the variance in deep overbite (R²=0.714, p < 0.001). Lower anterior dental height (L1-MP) had the strongest effect on deep overbite. Other significant predictors included lower anterior facial height (ANSGn), mandibular plane angle (MP-HP), upper anterior dental height (U1-NF), upper anterior inclination (U1NFang), Lower anterior inclination (L1MPang) and lower posterior dental height (LM-MP). Overbite is predominantly influenced by dentoalveolar factors, particularly incisor position and inclination, while skeletal variables play a secondary role.",
-      "study_methods": "The study was carried out on 252 pre-treatment lateral cephalograms of Nepalese patients of mixed ethnic backgrounds (Indo-Nepali, Tibeto-Nepali, and Indigenous Nepali) who presented with an overbite of greater than 4 mm measured on the lateral cephalogram, in the Department of Orthodontics, BPKIHS, Nepal. Among them, 130 were males and 122 were females. The mean age of the subjects was 22.26 ± 3.85 years (range:16 to 41 years). Lateral cephalograms meeting the inclusion/exclusion criteria were digitally traced using Onyxceph3TM Pro (version 3.2.67) software. Twelve vertical and angular, skeletal and dental parameters from Burstone's Cephalometrics for Orthognathic Surgery (COGS) analysis were measured. Descriptive analysis was performed for each variable. Multiple linear regression analyses were performed performed to evaluate the association between skeletal and dentoalveolar variables and deep overbite. Iterative backward elimination regression approach was used to assess the association between the variables and deep over bite after considering multicollinearity.",
-      "methods": "The study was carried out on 252 pre-treatment lateral cephalograms of Nepalese patients of mixed ethnic backgrounds (Indo-Nepali, Tibeto-Nepali, and Indigenous Nepali) who presented with an overbite of greater than 4 mm measured on the lateral cephalogram, in the Department of Orthodontics, BPKIHS, Nepal. Among them, 130 were males and 122 were females. The mean age of the subjects was 22.26 ± 3.85 years (range:16 to 41 years). Lateral cephalograms meeting the inclusion/exclusion criteria were digitally traced using Onyxceph3TM Pro (version 3.2.67) software. Twelve vertical and angular, skeletal and dental parameters from Burstone's Cephalometrics for Orthognathic Surgery (COGS) analysis were measured. Descriptive analysis was performed for each variable. Multiple linear regression analyses were performed performed to evaluate the association between skeletal and dentoalveolar variables and deep overbite. Iterative backward elimination regression approach was used to assess the association between the variables and deep over bite after considering multicollinearity.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42351114/",
       "pmcid": "",
       "figure_urls": []
     }
