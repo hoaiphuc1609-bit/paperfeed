@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T06:00:05Z",
+  "updated_at": "2026-07-04T05:53:12Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -90,7 +90,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41742445/",
       "pmcid": "PMC12943813",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
+      ]
     },
     {
       "pmid": "42381887",
@@ -359,7 +364,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41563872/",
       "pmcid": "PMC12825576",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.gif"
+      ]
     },
     {
       "pmid": "41431197",
@@ -1053,7 +1063,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42253858/",
       "pmcid": "PMC13233747",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233747/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42236166",
@@ -1085,6 +1100,36 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234206/bin/LSA-2026-03772_FigS1.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234206/bin/LSA-2026-03772_Fig2.jpg"
       ]
+    },
+    {
+      "pmid": "42235796",
+      "title": "Tumor immune microenvironment predicts recurrence after radiotherapy in oropharyngeal squamous cell carcinoma.",
+      "authors": [
+        "Fanny Beltzung",
+        "Julian Biau",
+        "Bruno Pereira",
+        "Nicolas Saroul",
+        "Nathalie Pham Dang",
+        "Erwan Boutault",
+        "Claude Darcha",
+        "Frédérique Penault-Llorca",
+        "Emmanuel Chautard"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Oropharyngeal squamous cell carcinoma (OPSCC), is a distinct subset of head and neck squamous cell carcinomas, with an increasing incidence largely due to HPV infection. Despite established treatments such as cisplatin-based chemoradiotherapy or cetuximab-RT, outcomes remain poor for advanced cases, with high recurrence rates. There is an urgent need for predictive biomarkers to inform treatment decisions and identify patients at risk of treatment failure. In a retrospective cohort, we analyzed pre-treatment tumor biopsies from 84 OPSCC patients. We conducted comprehensive profiling of the tumor immune microenvironment (TIME) using histopathological evaluation, immunohistochemistry (IHC), and transcriptomic analysis via the NanoString nCounter® PanCancer Immune Profiling Panel. We correlated tumor-infiltrating lymphocyte density, immune marker expression, and gene expression signatures with clinical outcomes. Patients without recurrence had a TIME enriched with B and T lymphocytes, dendritic cells, and NK cells. Recurrent tumors showed higher neutrophil infiltration. IHC markers including CD3, CD8, CD20, FOXP3, and PD-L1 were significantly associated with improved RFS. Transcriptomic analysis confirmed these findings and enabled the development of a 14-gene Immune Signature Recurrence Score (ISRS). The ISRS achieved high predictive accuracy for recurrence and outperformed conventional clinical predictors. External validation using a published OPSCC dataset supported the prognostic relevance of the ISRS for overall survival and its robustness across independent cohorts, although this represents an indirect validation due to the lack of recurrence data. This exploratory study highlights the prognostic significance of a robust lymphocyte-rich TIME and introduces a clinically relevant 14-gene immune signature that outperforms traditional markers in predicting recurrence in OPSCC. These results suggest that integrating immune gene signatures into routine clinical practice could refine risk stratification and guide personalized therapy.",
+      "objective": "",
+      "study_methods": "In a retrospective cohort, we analyzed pre-treatment tumor biopsies from 84 OPSCC patients. We conducted comprehensive profiling of the tumor immune microenvironment (TIME) using histopathological evaluation, immunohistochemistry (IHC), and transcriptomic analysis via the NanoString nCounter® PanCancer Immune Profiling Panel. We correlated tumor-infiltrating lymphocyte density, immune marker expression, and gene expression signatures with clinical outcomes.",
+      "methods": "In a retrospective cohort, we analyzed pre-treatment tumor biopsies from 84 OPSCC patients. We conducted comprehensive profiling of the tumor immune microenvironment (TIME) using histopathological evaluation, immunohistochemistry (IHC), and transcriptomic analysis via the NanoString nCounter® PanCancer Immune Profiling Panel. We correlated tumor-infiltrating lymphocyte density, immune marker expression, and gene expression signatures with clinical outcomes.",
+      "results": "suggest that integrating immune gene signatures into routine clinical practice could refine risk stratification and guide personalized therapy.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42235796/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "42235336",
@@ -1321,36 +1366,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42166883/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42166882",
-      "title": "Digital mandibular reconstruction design guided by condylar position.",
-      "authors": [
-        "Yemu Yang",
-        "Ziyu Zhu",
-        "Chuhan Zhang",
-        "Desheng Hong",
-        "Chengyu Xie",
-        "Kaizhe Hong",
-        "Luxuan He",
-        "Mengfei Yu",
-        "Yu Liu"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Mandibular defects following tumor resection can severely affect facial form, occlusal stability, and temporomandibular joint (TMJ) function. We developed a condyle-oriented digital workflow designed to optimize postoperative condylar position and improve functional reconstruction. Preoperative CT data were used to generate mirrored mandibular models based on the ideal condylar relationship, followed by fibular segment planning and the creation of a full set of patient-specific guides incorporating a shared screw-hole strategy for precise intraoperative alignment. Seventeen patients underwent reconstruction using this protocol and were evaluated through CT-based three-dimensional analyses, TMJ functional assessment, and the Research and Treatment of Cancer Head and Neck Cancer Quality of Life Questionnaire (EORTC QLQ-H&N35). Postoperative condylar position and mandibular morphology showed no significant differences compared with preoperative measurements, indicating high reconstruction accuracy. TMJ function was comparable to that reported for traditional occlusion-guided reconstruction, while EORTC QLQ-H&N35 scores demonstrated improvement in domains related to diet. These findings suggest that our condyle-oriented planning combined with a fully digitalized guide system can achieve accurate anatomic restoration and favorable functional rehabilitation in mandibular reconstruction.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42166882/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1753,6 +1768,176 @@
       "figure_urls": []
     },
     {
+      "pmid": "42399926",
+      "title": "How dietary interventions impact oral conditions: a systematic review.",
+      "authors": [
+        "Marie Poilvet",
+        "Amandine Quemeneur",
+        "Kevin-John Fouillen",
+        "Sam Jali",
+        "Marie Orliaguet",
+        "Sylvie Boisramé"
+      ],
+      "publication_date": "2026-Jul-03",
+      "publication_date_iso": "2026-07-03",
+      "abstract": "Oral diseases, including periodontal disease, salivary gland dysfunction and oral squamous cell carcinoma, are characterized by chronic inflammation and metabolic dysregulation. Dietary interventions have demonstrated systemic anti-inflammatory and metabolic benefits; however, their effects on the oral cavity remain insufficiently explored. A systematic review was conducted in PubMed and Web of Science to identify relevant studies published up to September 2025 assessing the effects of fasting, caloric restriction, and ketogenic diet on oral conditions. The search strategy combined MeSH terms and keywords related to these dietary interventions and oral health conditions. Data on study characteristics, interventions, outcomes, and limitations were extracted and synthesized. Fourteen studies were included, comprising preclinical in vitro and in vivo studies as well as a limited number of clinical trials. Caloric restriction and intermittent fasting were generally associated with improvements in periodontal inflammation and metabolic parameters, without significant effects on oral microbiota composition. Alternate-day fasting demonstrated beneficial effects on salivary gland function and inflammatory responses in preclinical models. In oral squamous cell carcinoma, fasting-related interventions enhanced treatment sensitivity and reduced tumor growth in experimental studies; however, clinical evidence remains scarce, and feasibility, particularly for ketogenic diet, is limited and mainly derived from small pilot studies with methodological constraints. Caloric restriction and intermittent fasting may exert potential beneficial effects in oral health by modulating inflammation, tissue regeneration, and metabolic pathways. However, current evidence remains largely preclinical and heterogeneous. Well-designed clinical trials and mechanistic studies in humans are required to establish their clinical relevance and to support their integration into evidence-based oral health practice. This review was registered in PROSPERO (Registration ID: 1085293) and conducted in accordance with PRISMA 2020 guidelines [1].",
+      "objective": "",
+      "study_methods": "A systematic review was conducted in PubMed and Web of Science to identify relevant studies published up to September 2025 assessing the effects of fasting, caloric restriction, and ketogenic diet on oral conditions. The search strategy combined MeSH terms and keywords related to these dietary interventions and oral health conditions. Data on study characteristics, interventions, outcomes, and limitations were extracted and synthesized.",
+      "methods": "A systematic review was conducted in PubMed and Web of Science to identify relevant studies published up to September 2025 assessing the effects of fasting, caloric restriction, and ketogenic diet on oral conditions. The search strategy combined MeSH terms and keywords related to these dietary interventions and oral health conditions. Data on study characteristics, interventions, outcomes, and limitations were extracted and synthesized.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399926/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42399859",
+      "title": "Spatial profiling of tissue-resident memory T cells reveals stromal IL-15 niches and a paradoxical CD103⁺ phenotype predicting survival in oral squamous cell carcinoma.",
+      "authors": [
+        "Anwar Ali",
+        "Muhammad Furqan Bari",
+        "Saba Arshad",
+        "Mohsin Wahid",
+        "Jawad Safdar",
+        "Khadija Anwar",
+        "Waqas Ahmed Farooqui"
+      ],
+      "publication_date": "2026-Jul-03",
+      "publication_date_iso": "2026-07-03",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is a major malignancy in South Asia, driven by betel nut/tobacco use, with 5-year survival near 50-60% and frequent recurrences reflecting its aggressive biology. Although tissue resident memory (TRM) T cells mediate innate immunity, their spatial organization and associated regulatory role of cytokine, interleukin-15 (IL-15) in the OSCC tissues and their microenvironment remain unclear.This study aimed to map CD4⁺ and CD8⁺ T lymphocytes, and TRM markers (CD103, CD49a, CD69) across tumor and stromal compartments, to assess the regulatory role of IL-15 and CD103 associated epithelial E-cadherin interactions and build a multivariate prognostic model.Method Eighty OSCC cases confirmed by histopathological examination. Formalin-fixed, paraffin-embedded tumor tissues (~ 1 g) from surgical resections underwent immunohistochemistry. Whole-slide digital imaging (×40) quantified CD4⁺ and CD8⁺ T lymphocytes, and TRM markers across tumor and stromal fields. Staining intensity and percent scores were generated as a composite score (0-3). Inter-observer reliability (Kendall's τ ≥ 0.7) was verified. Associations were tested using χ²/Fisher's exact, while survival was analyzed by Kaplan-Meier and Cox regression (HR, 95% CI).Results Immune and epithelial marker expression varied significantly across tumor and stromal compartments (p < 0.001). Advanced tumor stage predicted poor survival (p = 0.044). Retained E-cadherin correlated with improved survival (p = 0.027), while CD49a expression was associated with adverse outcomes (p = 0.006). Multivariate Cox regression identified CD103 (Adj.HR 2.02, 95% CI 1.03-3.96) and E-cadherin (Adj.HR 3.01, 95% CI 1.25-7.23) as independent adverse predictors, whereas stromal CD8 (HR 0.35, 95% CI 0.14-0.99) and CD49a (HR 0.37, 95% CI 0.14-0.98) were protective. High IL-15 expression showed a positive association with CD103+ TRM T cell infiltration, particularly within the stromal compartment, although the association did not reach statistical significance (p = 0.076).Conclusion The spatial interplay among IL-15 expression, CD103⁺ immune infiltration, and the localization of TRM-associated markers suggests the presence of an integrated immune-epithelial axis associated with OSCC progression and may provide prognostic and therapeutic insights.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Immune and epithelial marker expression varied significantly across tumor and stromal compartments (p < 0.001). Advanced tumor stage predicted poor survival (p = 0.044). Retained E-cadherin correlated with improved survival (p = 0.027), while CD49a expression was associated with adverse outcomes (p = 0.006). Multivariate Cox regression identified CD103 (Adj.HR 2.02, 95% CI 1.03-3.96) and E-cadherin (Adj.HR 3.01, 95% CI 1.25-7.23) as independent adverse predictors, whereas stromal CD8 (HR 0.35, 95% CI 0.14-0.99) and CD49a (HR 0.37, 95% CI 0.14-0.98) were protective. High IL-15 expression showed a positive association with CD103+ TRM T cell infiltration, particularly within the stromal compartment, although the association did not reach statistical significance (p = 0.076).",
+      "conclusion": "The spatial interplay among IL-15 expression, CD103⁺ immune infiltration, and the localization of TRM-associated markers suggests the presence of an integrated immune-epithelial axis associated with OSCC progression and may provide prognostic and therapeutic insights.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399859/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42399077",
+      "title": "Ultra-high frequency ultrasound of labial salivary glands in Sjögren's disease: diagnostic accuracy and patient stratification.",
+      "authors": [
+        "Giovanni Fulvio",
+        "Rossana Izzetti",
+        "Francesco Ferro",
+        "Gaetano La Rocca",
+        "Beatrice Dei",
+        "Silvia Fonzetti",
+        "Giuseppe Leto",
+        "Francesco Gulia",
+        "Valentina Donati",
+        "Marta Mosca",
+        "Chiara Baldini"
+      ],
+      "publication_date": "2026-Jul-03",
+      "publication_date_iso": "2026-07-03",
+      "abstract": "To evaluate the classification accuracy of ultra-high frequency ultrasound (UHFUS) of labial salivary glands (LSGs) using both Grey Scale (GS) and colour Doppler (CD). We also investigated its role as an alternative to the highest-weighted classification criteria, its classification performance in combination with SSA status, its contribution to patient stratification and age-related classification variability. A total of 270 patients with suspected Sjögren's disease (SjD) (136 SjD, 134 Sicca) underwent UHFUS. In addition to OMERACT GS (modified to LSG), CD and composite GS+CD Scores, distinct GS morphological lesions were assessed. Diagnostic accuracy parameters were calculated, and additional analyses included correlation, logistic regression and cluster analysis. The optimal classification cut-off was GS ≥2, yielding 66.2% sensitivity and 84.3% specificity. GS Score 3 was highly specific (98.5%), while very hypoechoic areas were exclusively observed in SjD. CD ≥2 showed accuracy comparable to GS, and GS+CD ≥3 enhanced accuracy. Incorporating GS into the American College of Rheumatology/European League Against Rheumatism criteria in place of biopsy achieved excellent accuracy (area under the curve 0.945). Using GS, GS+CD and SSA status, more than 75% of patients could be classified with an accuracy of 94%. Cluster analysis suggests different phenotypes: in Sicca, GS positivity indicated non-immune inflammatory alterations or sialoadenosis; in SjD, GS negativity defined low-grade inflammation. Classification accuracy of GS varied with age, whereas CD remained stable. UHFUS of LSGs is a promising diagnostic tool in SjD when biopsy is not feasible. This study provides novel insights into GS lesions, Doppler assessment, phenotypes and age-related changes of ultrasound.",
+      "objective": "",
+      "study_methods": "A total of 270 patients with suspected Sjögren's disease (SjD) (136 SjD, 134 Sicca) underwent UHFUS. In addition to OMERACT GS (modified to LSG), CD and composite GS+CD Scores, distinct GS morphological lesions were assessed. Diagnostic accuracy parameters were calculated, and additional analyses included correlation, logistic regression and cluster analysis.",
+      "methods": "A total of 270 patients with suspected Sjögren's disease (SjD) (136 SjD, 134 Sicca) underwent UHFUS. In addition to OMERACT GS (modified to LSG), CD and composite GS+CD Scores, distinct GS morphological lesions were assessed. Diagnostic accuracy parameters were calculated, and additional analyses included correlation, logistic regression and cluster analysis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399077/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42397101",
+      "title": "Effect of low-level laser therapy on healing after sinus floor augmentation using allograft and xenograft bone materials.",
+      "authors": [
+        "Sebastian Dominiak",
+        "Aleksandra Kowalczyk",
+        "Paweł Kubasiewicz-Ross",
+        "Marzena Dominiak",
+        "Alicja Baranowska",
+        "Cyprian Olchowy",
+        "Michał Ciszyński"
+      ],
+      "publication_date": "2026-Jul-03",
+      "publication_date_iso": "2026-07-03",
+      "abstract": "In cases of alveolar bone atrophy prior to implant treatment, sinus floor elevation remains the treatment of choice. During a sinus lift procedure, a stabilizing grafting material is required. Among the many available options, xenografts and allografts are widely used. Owing to their different properties, they can be applied in various clinical settings. Low-level laser therapy (LLLT) is an increasingly popular adjunctive tool in regenerative dentistry. Its beneficial effects on the healing process are well established. However, its ability to influence bone healing following sinus floor elevation remains insufficiently investigated. The primary objective was to compare 2 bone grafts of different origins (allograft and xenograft) used in sinus lift procedures. The secondary objective was to evaluate the influence of LLLT on postoperative recovery in terms of pain, trismus, and soft tissue response. Twenty patients were randomly allocated to 2 groups. A xenograft was used in half of the patients, whereas an allograft was used in the remaining patients. In each group, 5 patients were randomly selected to receive adjunctive LLLT using a diode laser with a wavelength of 635 nm and an energy density of 6 J/cm2. All patients underwent clinical and radiological examinations before surgery. Subsequently, a standard lateral sinus lift procedure was performed. Follow-up visits were conducted on postoperative days 3 and 7, during which pain, trismus, and swelling were assessed. After 135 days, cone-beam computed tomography (CBCT) and clinical examinations were performed to evaluate bone gain, density, and homogeneity. Low-level laser therapy significantly reduced trismus. Trismus was also less pronounced in male patients. Low-level laser therapy was associated with increased facial swelling. Pain levels were low, with no significant differences between the study groups. After 135 days, allografts demonstrated greater homogeneity, whereas xenografts exhibited higher radiographic density. Low-level laser therapy may improve recovery following sinus lift surgery by reducing postoperative trismus. No significant differences were observed between the grafting materials in terms of bone gain. However, differences in radiodensity suggest distinct resorption patterns, with xenografts exhibiting higher density values after 135 days.",
+      "objective": "was to compare 2 bone grafts of different origins (allograft and xenograft) used in sinus lift procedures. The secondary objective was to evaluate the influence of LLLT on postoperative recovery in terms of pain, trismus, and soft tissue response. Twenty patients were randomly allocated to 2 groups. A xenograft was used in half of the patients, whereas an allograft was used in the remaining patients. In each group, 5 patients were randomly selected to receive adjunctive LLLT using a diode laser with a wavelength of 635 nm and an energy density of 6 J/cm2. All patients underwent clinical and radiological examinations before surgery. Subsequently, a standard lateral sinus lift procedure was performed. Follow-up visits were conducted on postoperative days 3 and 7, during which pain, trismus, and swelling were assessed. After 135 days, cone-beam computed tomography (CBCT) and clinical examinations were performed to evaluate bone gain, density, and homogeneity. Low-level laser therapy significantly reduced trismus. Trismus was also less pronounced in male patients. Low-level laser therapy was associated with increased facial swelling. Pain levels were low, with no significant differences between the study groups. After 135 days, allografts demonstrated greater homogeneity, whereas xenografts exhibited higher radiographic density. Low-level laser therapy may improve recovery following sinus lift surgery by reducing postoperative trismus. No significant differences were observed between the grafting materials in terms of bone gain. However, differences in radiodensity suggest distinct resorption patterns, with xenografts exhibiting higher density values after 135 days.",
+      "study_methods": "Twenty patients were randomly allocated to 2 groups. A xenograft was used in half of the patients, whereas an allograft was used in the remaining patients. In each group, 5 patients were randomly selected to receive adjunctive LLLT using a diode laser with a wavelength of 635 nm and an energy density of 6 J/cm2. All patients underwent clinical and radiological examinations before surgery. Subsequently, a standard lateral sinus lift procedure was performed. Follow-up visits were conducted on postoperative days 3 and 7, during which pain, trismus, and swelling were assessed. After 135 days, cone-beam computed tomography (CBCT) and clinical examinations were performed to evaluate bone gain, density, and homogeneity.",
+      "methods": "Twenty patients were randomly allocated to 2 groups. A xenograft was used in half of the patients, whereas an allograft was used in the remaining patients. In each group, 5 patients were randomly selected to receive adjunctive LLLT using a diode laser with a wavelength of 635 nm and an energy density of 6 J/cm2. All patients underwent clinical and radiological examinations before surgery. Subsequently, a standard lateral sinus lift procedure was performed. Follow-up visits were conducted on postoperative days 3 and 7, during which pain, trismus, and swelling were assessed. After 135 days, cone-beam computed tomography (CBCT) and clinical examinations were performed to evaluate bone gain, density, and homogeneity.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42397101/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42393710",
+      "title": "Occlusal function and masticatory efficiency of sagittal malocclusions: a cross-sectional cohort study of orthognathic therapy.",
+      "authors": [
+        "L-M Mai",
+        "J Mouchoux",
+        "P Meyer-Marcotty",
+        "A Quast",
+        "P Brockmeyer",
+        "H Schliephake",
+        "J Schmid",
+        "B Wiechens"
+      ],
+      "publication_date": "2026-Jul-03",
+      "publication_date_iso": "2026-07-03",
+      "abstract": "This cross-sectional study aimed to evaluate occlusal characteristics and masticatory performance in patients with skeletal Class II and Class III malocclusions. Both digital occlusal analysis and standardized bolus analysis were employed to assess functional outcomes in non-surgically treated, surgically treated, and control patients. A total of 133 orthognathic patients (71 female; median age 29.8 years) and 20 controls (9 female; median age 30.0 years) were included. Skeletal malocclusions were categorized as compensated, decompensated, and a separate surgically treated cohort assessed at 5-year postoperative follow-up. Digital occlusal parameters (total tooth contact (TTC), time of occlusion (TOC), occlusal asymmetry (OAS), anterior and posterior tooth contact (ATC, PTC)) were recorded and masticatory performance was assessed using a standardized two-color bolus analysis. Non-surgically treated Class II and Class III patients showed significantly reduced TTC, ATC, PTC, and prolonged TOC as well as lower bolus mixing scores compared with controls (p < 0.05). Surgically treated patients at 5-year follow-up exhibited occlusal parameters and bolus mixing scores comparable to controls, indicating normalization of occlusal parameters and masticatory efficiency. Skeletal Class II and Class III malocclusions are associated with impaired occlusal function and reduced masticatory efficiency. Orthognathic therapy effectively restores occlusal parameters as well as functional chewing ability in the long term. Combining digital occlusal analysis with bolus analysis provides a comprehensive and objective evaluation of masticatory rehabilitation in orthognathic patients. DRKS00025729.",
+      "objective": "evaluation of masticatory rehabilitation in orthognathic patients. DRKS00025729.",
+      "study_methods": "A total of 133 orthognathic patients (71 female; median age 29.8 years) and 20 controls (9 female; median age 30.0 years) were included. Skeletal malocclusions were categorized as compensated, decompensated, and a separate surgically treated cohort assessed at 5-year postoperative follow-up. Digital occlusal parameters (total tooth contact (TTC), time of occlusion (TOC), occlusal asymmetry (OAS), anterior and posterior tooth contact (ATC, PTC)) were recorded and masticatory performance was assessed using a standardized two-color bolus analysis.",
+      "methods": "A total of 133 orthognathic patients (71 female; median age 29.8 years) and 20 controls (9 female; median age 30.0 years) were included. Skeletal malocclusions were categorized as compensated, decompensated, and a separate surgically treated cohort assessed at 5-year postoperative follow-up. Digital occlusal parameters (total tooth contact (TTC), time of occlusion (TOC), occlusal asymmetry (OAS), anterior and posterior tooth contact (ATC, PTC)) were recorded and masticatory performance was assessed using a standardized two-color bolus analysis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42393710/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42394312",
+      "title": "Patient-centered perspectives and feelings on peri-implantitis and its therapy.",
+      "authors": [
+        "Jungwon Lee",
+        "Young-Chang Ko",
+        "Seung-Ju Lee",
+        "Frank Schwarz",
+        "Ki-Tae Koo"
+      ],
+      "publication_date": "2026-Jul-02",
+      "publication_date_iso": "2026-07-02",
+      "abstract": "Peri-implantitis is a common biological complication of dental implant therapy that affects peri-implant tissues as well as patients' psychological well-being and oral health-related quality of life. This review summarizes patient-centered perspectives on peri-implantitis, focusing on patient perception at diagnosis, treatment experiences, and treatment-related discomfort. A narrative review of the literature was conducted to identify studies addressing patient perceptions, emotional responses, and patient-reported outcomes related to peri-implantitis management. Evidence from qualitative studies, cross-sectional investigations, and clinical trials reporting patient-centered outcomes was evaluated. The literature shows that peri-implantitis often progresses with minimal or no subjective symptoms, resulting in a discrepancy between clinical findings and patient awareness at diagnosis. Disclosure of the diagnosis is frequently associated with anxiety, stress, and concerns regarding implant prognosis and treatment burden. During treatment, patients commonly anticipate considerable pain and invasiveness; however, actual treatment-related discomfort is generally mild to moderate and transient, with postoperative pain peaking early and resolving within a short period. Patient experiences are strongly influenced by the clarity of diagnostic explanations, expectation management, and the quality of clinician-patient communication. Peri-implantitis has a measurable psychosocial impact beyond clinical parameters. Patient perceptions at diagnosis and during treatment play a key role in treatment acceptance and adherence. Many patients are diagnosed with peri-implantitis without prior awareness of the disease. Clear communication regarding diagnosis, expected treatment-related discomfort, and prognosis may reduce anxiety, improve treatment acceptance, and support long-term maintenance care.",
+      "objective": "",
+      "study_methods": "A narrative review of the literature was conducted to identify studies addressing patient perceptions, emotional responses, and patient-reported outcomes related to peri-implantitis management. Evidence from qualitative studies, cross-sectional investigations, and clinical trials reporting patient-centered outcomes was evaluated.",
+      "methods": "A narrative review of the literature was conducted to identify studies addressing patient perceptions, emotional responses, and patient-reported outcomes related to peri-implantitis management. Evidence from qualitative studies, cross-sectional investigations, and clinical trials reporting patient-centered outcomes was evaluated.",
+      "results": "ing in a discrepancy between clinical findings and patient awareness at diagnosis. Disclosure of the diagnosis is frequently associated with anxiety, stress, and concerns regarding implant prognosis and treatment burden. During treatment, patients commonly anticipate considerable pain and invasiveness; however, actual treatment-related discomfort is generally mild to moderate and transient, with postoperative pain peaking early and resolving within a short period. Patient experiences are strongly influenced by the clarity of diagnostic explanations, expectation management, and the quality of clinician-patient communication. Peri-implantitis has a measurable psychosocial impact beyond clinical parameters. Patient perceptions at diagnosis and during treatment play a key role in treatment acceptance and adherence. Many patients are diagnosed with peri-implantitis without prior awareness of the disease. Clear communication regarding diagnosis, expected treatment-related discomfort, and prognosis may reduce anxiety, improve treatment acceptance, and support long-term maintenance care.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42394312/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42392891",
       "title": "Postoperative auditory outcomes in total temporomandibular joint replacement: fossa-canal proximity and tinnitus risk.",
       "authors": [
@@ -1831,6 +2016,41 @@
       "figure_urls": []
     },
     {
+      "pmid": "42395131",
+      "title": "Association of a Multimodal Perioperative Care Program With Postoperative Complications in Elderly Patients Undergoing Gastrectomy for Gastric Cancer.",
+      "authors": [
+        "Keiichi Fujiya",
+        "Hiroshi Fuseya",
+        "Yusuke Yonenaga",
+        "Keiko Sanada",
+        "Toshimi Inano",
+        "Yumi Oguma",
+        "Kazuko Nakajima",
+        "Chikako Ando",
+        "Kumiko Oka",
+        "Yusuke Koseki",
+        "Kenichiro Furukawa",
+        "Yutaka Tanizawa",
+        "Masanori Terashima",
+        "Etsuro Bando"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "This retrospective study aimed to assess the clinical effectiveness of a multimodal perioperative care program in reducing postoperative complications in elderly patients undergoing gastrectomy for gastric cancer. Overall, 1285 patients aged ≥ 75 years who underwent curative gastrectomy were classified into pre-program (2008-2018, n = 965) and post-program (2020-2024, n = 320) groups. The program consisted of preoperative nutritional counseling, oral care, swallowing and physical function screening, and targeted rehabilitation. The clinical characteristics and surgical outcomes of the two groups were compared. In the post-program group, 314 patients underwent swallowing screening, with 108 receiving targeted speech-language therapy and 49 being prescribed a dysphagia diet. Physical function screening was conducted on 281 patients, with 204 receiving perioperative exercise therapy. Program implementation was significantly associated with a lower incidence of overall complications (21% vs. 40%), surgical (13% vs. 21%) and non-surgical complications (7% vs. 17%), pneumonia (4% vs. 9%), and delirium (3% vs. 7%). Multivariate analysis revealed that the program was independently associated with a significantly decreased incidence of overall complications (odds ratio [OR]: 0.431, p < 0.001) and non-surgical complications (OR: 0.309, p < 0.001). Meanwhile, the reduction in the incidence of surgical complications was not statistically significant (OR: 0.696, p = 0.094). Multimodal perioperative care program may effectively reduce postoperative complications, particularly non-surgical complications such as pneumonia, in elderly patients with gastric cancer.",
+      "objective": "",
+      "study_methods": "Overall, 1285 patients aged ≥ 75 years who underwent curative gastrectomy were classified into pre-program (2008-2018, n = 965) and post-program (2020-2024, n = 320) groups. The program consisted of preoperative nutritional counseling, oral care, swallowing and physical function screening, and targeted rehabilitation. The clinical characteristics and surgical outcomes of the two groups were compared.",
+      "methods": "Overall, 1285 patients aged ≥ 75 years who underwent curative gastrectomy were classified into pre-program (2008-2018, n = 965) and post-program (2020-2024, n = 320) groups. The program consisted of preoperative nutritional counseling, oral care, swallowing and physical function screening, and targeted rehabilitation. The clinical characteristics and surgical outcomes of the two groups were compared.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42395131/",
+      "pmcid": "PMC13327038",
+      "figure_urls": []
+    },
+    {
       "pmid": "42386407",
       "title": "Automated true vertical line determination for orthognathic surgery virtual planning using smartphone photography and open-source applications.",
       "authors": [
@@ -1856,7 +2076,7 @@
     },
     {
       "pmid": "42386138",
-      "title": "DNA polymerase epsilon catalytic subunit (POLE) in cancer: implications for tumor biology and therapeutic strategies - a comprehensive review.",
+      "title": "DNA polymerase epsilon catalytic subunit (POLE) in cancer: Implications for tumor biology and therapeutic strategies - A comprehensive review.",
       "authors": [
         "Michał Gola",
         "Bartłomiej Emil Kraziński",
@@ -1956,7 +2176,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42384137/",
-      "pmcid": "",
+      "pmcid": "PMC13323427",
       "figure_urls": []
     },
     {
@@ -2375,6 +2595,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "42115113",
+      "title": "Social media insights into patient perceptions of orthognathic surgery.",
+      "authors": [
+        "S N Delpachitra",
+        "A W Sklavos",
+        "K Doyle",
+        "A L Nastri"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "Patients contemplating orthognathic surgery are increasingly turning to online forums, such as Reddit, as a supplementary source of information prior to undertaking a surgical treatment pathway. This study was designed to profile the main topics pertaining to orthognathic surgery which patients were discussing online, using data analytics methodologies and machine learning algorithms. An Application Programming Interface (API) wrapper was used to identify posts relating to orthognathic surgery on Reddit, within the /jawsurgery subreddit. The information was exported for further analysis. Topic modelling was undertaken with the Latent Dirichlet Allocation (LDA) algorithm, Valence Aware Dictionary and sEntiment Reasoner (VADER) tool was used for sentiment analysis, and a machine learning tool was used to pinpoint language cues in the posts. A total of 10265 posts were included in the analysis. These posts were categorised into one of ten topic groups based on qualitative analysis by the authors. Overall, there was positive sentiment toward orthognathic surgery within each of the topic groups within the subreddit. The topic groups which carried the highest sentiment were aesthetic change, aesthetic preferences and disagreements and, postoperative experience. Patients are actively seeking alternative sources of information regarding orthognathic surgery, particularly pertaining to the experiences of other patients. Whilst overall there is a positive sentiment toward surgery, both positive and negative experiences are posted online.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42115113/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42102498",
       "title": "Bimaxillary surgery and temporomandibular joint hard tissue remodeling: a CBCT study on skeletal Class II and Class III patients.",
       "authors": [
@@ -2398,6 +2643,32 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42102498/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42097919",
+      "title": "Enriching the virtual twin: clinical benefits of facial scan integration in orthognathic surgery planning.",
+      "authors": [
+        "Renaat Coopman",
+        "Lisa De Kock",
+        "Benjamin Denoiseux",
+        "Matthias Ureel",
+        "Constantijn Bogaert"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "The aim of this report was to present a reproducible workflow for integrating three-dimensional (3D) facial scans into computed tomography-based virtual surgical planning of orthognathic surgery, thereby enriching the virtual twin with clinically relevant soft-tissue information. This report describes the sequential stages of the workflow: 1) standardised preoperative imaging including computed tomography, intraoral scans (IOS), and three facial scans (rest, smile, lip-retracted); 2) preprocessing of facial scans in 3-Matic to remove dental structures and generate soft-tissue stereolithography (STL) models; 3) virtual twin construction in Materialise Enlight v7.0 by integrating digital imaging and communications in medicine skeletal data, IOS, and surface-based facial models; 4) application of repositioning tools and STL import functions to integrate multiple facial scans; 5) visualisation and analysis of natural head position, digital smile design, and comparison of pre- and postoperative soft-tissue predictions; and 6) finalisation of the case with the generation of intermediate and final splints and export of all planning data. The integration of facial scanning into virtual surgical planning is feasible and may be clinically relevant. While promising, further validation is required to confirm accuracy and reproducibility in routine clinical practice, particularly with respect to natural head position, digital smile design, and soft-tissue prediction. This workflow highlights the potential of recent software advances and facial scanning technologies in orthognathic planning.",
+      "objective": "of this report was to present a reproducible workflow for integrating three-dimensional (3D) facial scans into computed tomography-based virtual surgical planning of orthognathic surgery, thereby enriching the virtual twin with clinically relevant soft-tissue information. This report describes the sequential stages of the workflow: 1) standardised preoperative imaging including computed tomography, intraoral scans (IOS), and three facial scans (rest, smile, lip-retracted); 2) preprocessing of facial scans in 3-Matic to remove dental structures and generate soft-tissue stereolithography (STL) models; 3) virtual twin construction in Materialise Enlight v7.0 by integrating digital imaging and communications in medicine skeletal data, IOS, and surface-based facial models; 4) application of repositioning tools and STL import functions to integrate multiple facial scans; 5) visualisation and analysis of natural head position, digital smile design, and comparison of pre- and postoperative soft-tissue predictions; and 6) finalisation of the case with the generation of intermediate and final splints and export of all planning data. The integration of facial scanning into virtual surgical planning is feasible and may be clinically relevant. While promising, further validation is required to confirm accuracy and reproducibility in routine clinical practice, particularly with respect to natural head position, digital smile design, and soft-tissue prediction. This workflow highlights the potential of recent software advances and facial scanning technologies in orthognathic planning.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42097919/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2431,6 +2702,32 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42056780/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42055829",
+      "title": "A call for fixed standards: a decade of orthognathic surgery, biting into revision rates and metalwork removal.",
+      "authors": [
+        "Masa Shammout",
+        "Jeffrey Abdullah",
+        "Aya Shammout",
+        "Rhodri Williams",
+        "Kevin Mcmillan"
+      ],
+      "publication_date": "2026-Jul",
+      "publication_date_iso": "2026-07-01",
+      "abstract": "The removal rate of titanium miniplates following orthognathic surgery varies widely (3.2-27.5%) due to inconsistent study designs and mixed samples. Plate removal is not routinely conducted in the UK. A 2019-2020 meta-analysis reported a 13.4% removal rate, though regular audits are uncommon. This study evaluates whether audit of local plate removal rates against established benchmarks merits encouragement. A retrospective review was conducted of orthognathic surgery at a tertiary centre (2014-2024). Procedures included Le Fort osteotomy, bilateral sagittal split osteotomy (BSSO), bimaxillary osteotomy (BIMAX), genioplasty, and other mandibular osteotomies. All patients received two postoperative doses of dexamethasone and intravenous antibiotics. Data collected included demographics, smoking status, surgical site, re-plating, and antibiotic use. The primary outcome was return to theatre (RTT) for plate removal or replacement. Chi squared, Fisher's exact, and binomial tests were used to assess statistical significance. Over 10 years, 417 patients underwent 429 orthognathic procedures, including 12 revisions to achieve the desired skeletal and orthodontic outcome. Overall, metalwork removal/adjustment occurred in 46 cases, predominantly within the first year, with infection identified as the leading cause. The removal rate was 10.7% (46/429), consistent with the 13.4% benchmark (p = 0.12). Yearly rates generally aligned with the benchmark, except in 2021, when deviations were likely to have been influenced by COVID-19-related disruptions. Smoking (p = 1.0) and oral antibiotics on discharge (p = 0.09) were not significantly associated with plate removal rates. These findings validate the 13.4% benchmark for metalwork removal. Routine audit and inter-unit collaboration are vital for refining benchmarks and improving patient care.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42055829/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2856,34 +3153,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41832359",
-      "title": "Reducing Plastic Surgery's Silicone Footprint: Modeling Shipping Costs for Breast Implants and Tissue Expanders.",
-      "authors": [
-        "Tara D Thomason",
-        "Jenny A Foster",
-        "Chanel R Varney",
-        "Alexandria M Mullikin",
-        "J Andres Hernandez",
-        "Pranav N Haravu",
-        "Brett T Phillips"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "In the traditional ordering model, plastic surgeons often request 3-4 different sizes of implants, tissue expanders (TEs), and sizers per procedure and order duplicates as backup. This can result in large orders, ranging from 15 to 32 items, with most of the materials remaining unused and ultimately being shipped back to the manufacturer. This study aims to quantify the costs incurred by shipping materials used in breast augmentations and reconstructions. A model was constructed to tabulate annual shipping costs, built upon key inputs for annual ordering volumes and shipping rates that were obtained through secondary sources (e.g., courier websites, American Society of Plastic Surgery [ASPS] statistics data), as well as implant/TE sizes and weights. Extreme and conservative scenarios of ordering behavior were simulated in the model to deduce an expected range and most realistic median figure of annual shipping costs. In the base case scenario where three sizes were ordered for all cases using overnight shipping, the total shipping costs for 2023 were $125.3 million. Compared with this, choosing ground shipping for three sizes cost $34.5 million (72.5% less), while ordering four sizes with overnight shipping cost $173.4 million (38.4% more). Implant/TE shipping costs are significant and can total tens to hundreds of millions of dollars depending on the shipping type and total sizes ordered. These costs are handed down to multiple stakeholders in the healthcare system, including physician practices, implant companies, and patients. The results of this study may encourage the use of more cost-efficient methods to decrease overall waste.",
-      "objective": "to quantify the costs incurred by shipping materials used in breast augmentations and reconstructions. A model was constructed to tabulate annual shipping costs, built upon key inputs for annual ordering volumes and shipping rates that were obtained through secondary sources (e.g., courier websites, American Society of Plastic Surgery [ASPS] statistics data), as well as implant/TE sizes and weights. Extreme and conservative scenarios of ordering behavior were simulated in the model to deduce an expected range and most realistic median figure of annual shipping costs. In the base case scenario where three sizes were ordered for all cases using overnight shipping, the total shipping costs for 2023 were $125.3 million. Compared with this, choosing ground shipping for three sizes cost $34.5 million (72.5% less), while ordering four sizes with overnight shipping cost $173.4 million (38.4% more). Implant/TE shipping costs are significant and can total tens to hundreds of millions of dollars depending on the shipping type and total sizes ordered. These costs are handed down to multiple stakeholders in the healthcare system, including physician practices, implant companies, and patients. The",
-      "study_methods": "A model was constructed to tabulate annual shipping costs, built upon key inputs for annual ordering volumes and shipping rates that were obtained through secondary sources (e.g., courier websites, American Society of Plastic Surgery [ASPS] statistics data), as well as implant/TE sizes and weights. Extreme and conservative scenarios of ordering behavior were simulated in the model to deduce an expected range and most realistic median figure of annual shipping costs.",
-      "methods": "A model was constructed to tabulate annual shipping costs, built upon key inputs for annual ordering volumes and shipping rates that were obtained through secondary sources (e.g., courier websites, American Society of Plastic Surgery [ASPS] statistics data), as well as implant/TE sizes and weights. Extreme and conservative scenarios of ordering behavior were simulated in the model to deduce an expected range and most realistic median figure of annual shipping costs.",
-      "results": "in large orders, ranging from 15 to 32 items, with most of the materials remaining unused and ultimately being shipped back to the manufacturer. This study aims to quantify the costs incurred by shipping materials used in breast augmentations and reconstructions. A model was constructed to tabulate annual shipping costs, built upon key inputs for annual ordering volumes and shipping rates that were obtained through secondary sources (e.g., courier websites, American Society of Plastic Surgery [ASPS] statistics data), as well as implant/TE sizes and weights. Extreme and conservative scenarios of ordering behavior were simulated in the model to deduce an expected range and most realistic median figure of annual shipping costs. In the base case scenario where three sizes were ordered for all cases using overnight shipping, the total shipping costs for 2023 were $125.3 million. Compared with this, choosing ground shipping for three sizes cost $34.5 million (72.5% less), while ordering four sizes with overnight shipping cost $173.4 million (38.4% more). Implant/TE shipping costs are significant and can total tens to hundreds of millions of dollars depending on the shipping type and total sizes ordered. These costs are handed down to multiple stakeholders in the healthcare system, including physician practices, implant companies, and patients. The results of this study may encourage the use of more cost-efficient methods to decrease overall waste.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41832359/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41825858",
       "title": "Surgical Management of Relative Chin Prominence in Class II Malocclusions.",
       "authors": [
@@ -2909,173 +3178,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41825858/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "41794595",
-      "title": "Sjögren and non-Sjögren sicca disease: clinicopathological and ultrasonographic findings in a Brazilian cross-sectional study.",
-      "authors": [
-        "Laiz Fernandes Mendes Nunes",
-        "José Alcides Almeida de Arruda",
-        "Fernanda Aragão Felix",
-        "Fernanda Luiza Araújo de Lima Castro",
-        "Bethânia Lara Silveira Freitas",
-        "Lucas Guimarães Abreu",
-        "Leandro Augusto Tanure",
-        "Débora Cerqueira Calderaro",
-        "Maurício Augusto Aquino de Castro",
-        "Sílvia Ferreira de Sousa",
-        "Tarcília Aparecida Silva"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Oral manifestations and salivary gland involvement in individuals with non-Sjögren sicca (non-SjD) or Sjögren disease (SjD) remain poorly characterized. We assessed the clinical, histopathological, and ultrasonographic features of individuals with non-SjD and compared them with those of patients diagnosed with SjD. A cross-sectional comparative study was conducted at two Brazilian referral centers. Patients underwent clinical assessment, measurement of unstimulated salivary flow, evaluation of oral dryness, serological testing, minor salivary gland biopsy, and major salivary gland ultrasonography based on OMERACT scoring criteria. SjD classification was determined according to the 2016 ACR/EULAR criteria. Data were analyzed descriptively and analytically. Among the 176 patients included (122 with SjD and 54 with non-SjD), salivary hypofunction (77.5%; P = .002), presence of germinal centers (13.8%; P = .017), and moderate-to-severe inflammation in minor salivary gland biopsies (83.7%; P < .001) were significantly more frequent in the SjD group. OMERACT gray-scale ultrasound scores were also higher in the SjD group. In non-SjD patients, age was associated with nonspecific histological changes, including acinar atrophy, duct dilation, fibrosis, and adipose tissue infiltration. Non-SjD and SjD differed primarily in inflammatory severity and ultrasound findings. Age-related glandular degeneration was more pronounced in non-SjD, indicating potentially distinct clinicopathological profiles.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41794595/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41733774",
-      "title": "Caries imaging using T1 StarVIBE and PETRA sequences compared to normal dental work-up: a proof-of-concept study.",
-      "authors": [
-        "Gintare Burian",
-        "Jonas Stief",
-        "Tobias Greve",
-        "Ulrich Grosse",
-        "Adib Al-Haj Husain",
-        "Gustav Andreisek",
-        "Monika Probst",
-        "Egon Burian"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "To compare caries detection using T1-based Free-breathing 3D Stack of Stars GRE (StarVIBE) and T1-weighted pointwise encoding time reduction with radial acquisition (PETRA) MRI sequences with the gold standard consisting of a combination of clinical evaluation and bitewing radiography. Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions. 80 teeth were analyzed. Among these, 10 showed caries during clinical assessments and bitewing imaging, all of which were also detected on MRI. Furthermore, 5 additional lesions were identified exclusively on MRI. Overall image quality and diagnostic confidence were significantly higher in PETRA than in StarVIBE (4.7 vs. 3.9, p = 0.006). The SI for caries lesions was significantly higher in the PETRA sequence (-0.5 a.u. ± 1.5 a.u. vs. -4.2 a.u. ± 4.0 a.u., p = 0.002). Caries lesion volume was also significantly larger in PETRA (18 mm3± 14.8 mm3) compared to StarVIBE (11 mm3± 14.8 mm3, p = 0.003). CONCLUSION : MRI identified all caries lesions that were detected both clinically and through bitewing imaging, along with additional lesions exclusive to MRI. The PETRA sequence outperformed StarVIBE in quantitative caries visualization.",
-      "objective": "",
-      "study_methods": "Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions.",
-      "methods": "Included subjects were evaluated clinically by a dentist for the occurrence of caries. All subjects underwent bitewing radiographs and MRI of the viscerocranium, including 3D StarVIBE and 3D PETRA sequences. Caries lesions were evaluated for penetration depth (D1-D4). Signal intensity (SI) was measured in dental hard tissue, the pulp and caries lesions.",
-      "results": "",
-      "conclusion": "MRI identified all caries lesions that were detected both clinically and through bitewing imaging, along with additional lesions exclusive to MRI. The PETRA sequence outperformed StarVIBE in quantitative caries visualization.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41733774/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41686714",
-      "title": "Assessment of Intraoral Resin Splints Secured With Cerclage Wires for Mandibular Fracture Repair in 16 Dogs.",
-      "authors": [
-        "Allison Snow",
-        "Kendall Taney",
-        "Mark M Smith"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "The aim of this study was to determine if an intraoral resin splint that is secured to the mandible with cerclage wires, a cerclage intraoral resin splint (CIRS), is a viable, minimally invasive option for mandibular body fracture repair in dogs. A medical record search identified 16 dogs with fractures as a result of periodontal disease, endodontic disease, head trauma, or a combination of these causes, and CIRS was performed in partially or completely edentulous areas of the mid or caudal mandibular body. At the time of appliance removal, the fracture sites of 13 dogs had healed with a bony union. Two dogs showed a fibrous union, and 1 dog revealed a nonunion. This study demonstrated that CIRS is a minimally invasive treatment option for repair of mid and caudal mandibular body fractures in dogs, even among patients with severe bone loss secondary to periodontal disease.",
-      "objective": "of this study was to determine if an intraoral resin splint that is secured to the mandible with cerclage wires, a cerclage intraoral resin splint (CIRS), is a viable, minimally invasive option for mandibular body fracture repair in dogs. A medical record search identified 16 dogs with fractures as a",
-      "study_methods": "",
-      "methods": "",
-      "results": "of periodontal disease, endodontic disease, head trauma, or a combination of these causes, and CIRS was performed in partially or completely edentulous areas of the mid or caudal mandibular body. At the time of appliance removal, the fracture sites of 13 dogs had healed with a bony union. Two dogs showed a fibrous union, and 1 dog revealed a nonunion. This study demonstrated that CIRS is a minimally invasive treatment option for repair of mid and caudal mandibular body fractures in dogs, even among patients with severe bone loss secondary to periodontal disease.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41686714/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41686229",
-      "title": "Potential association between nasal deformities and temporomandibular disorders : A cross-sectional study.",
-      "authors": [
-        "Mohammad S Alrashdan",
-        "Amjad AlNuseirat",
-        "Mahmoud Khaled Al-Omiri"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "The aim of this study was to evaluate the potential association between common nasal deformities (ND) and temporomandibular disorders (TMD) according to the diagnostic criteria (DC/TMD). Enrolled subjects were initially screened using the DC/TMD and then evaluated by an otorhinolaryngologist (ENT specialist) for the presence of ND, relative severity of these, as well as the signs and symptoms. The identified ND were categorized into four major groups: nasal septal deviation (NSD), inferior turbinate hypertrophy (ITH), a combination of both NSD and ITH, and other deformities. The relationships between variables and differences between groups were analyzed using Χ2 test and Mann-Whitney U test. To identify the contribution of nasal deformity towards TMD diagnosis, hierarchical logistic regression analysis was conducted. The study population comprised 368 participants (185 females and 183 males). A total of 98 (26.7%) patients were diagnosed with TMD, while 152 (41.3%) participants had one or more types of ND. The presence of ND was associated with an increased incidence of intra-articular disorders (IAD; p = 0.05) and joint clicking (p = 0.027). Nasal signs and symptoms were significantly associated with clicking (p = 0.025). NSD was associated with a 1.77 increase in the odds of having a TMD diagnosis (p = 0.020), a 2.45 increase in the odds of having IAD (p = 0.005), and a 1.62 increase in the odds of having joint clicking (p = 0.044). The presence of ND, especially NSD, appears to be associated with TMD, most notably with IAD, in addition to joint clicking. Therefore, individuals with ND should be carefully screened for TMD and referred for further evaluation whenever indicated. Further studies are required to validate these findings.",
-      "objective": "of this study was to evaluate the potential association between common nasal deformities (ND) and temporomandibular disorders (TMD) according to the diagnostic criteria (DC/TMD). Enrolled subjects were initially screened using the DC/TMD and then evaluated by an otorhinolaryngologist (ENT specialist) for the presence of ND, relative severity of these, as well as the signs and symptoms. The identified ND were categorized into four major groups: nasal septal deviation (NSD), inferior turbinate hypertrophy (ITH), a combination of both NSD and ITH, and other deformities. The relationships between variables and differences between groups were analyzed using Χ2 test and Mann-Whitney U test. To identify the contribution of nasal deformity towards TMD diagnosis, hierarchical logistic regression analysis was conducted. The study population comprised 368 participants (185 females and 183 males). A total of 98 (26.7%) patients were diagnosed with TMD, while 152 (41.3%) participants had one or more types of ND. The presence of ND was associated with an increased incidence of intra-articular disorders (IAD; p = 0.05) and joint clicking (p = 0.027). Nasal signs and symptoms were significantly associated with clicking (p = 0.025). NSD was associated with a 1.77 increase in the odds of having a TMD diagnosis (p = 0.020), a 2.45 increase in the odds of having IAD (p = 0.005), and a 1.62 increase in the odds of having joint clicking (p = 0.044). The presence of ND, especially NSD, appears to be associated with TMD, most notably with IAD, in addition to joint clicking. Therefore, individuals with ND should be carefully screened for TMD and referred for further evaluation whenever indicated. Further studies are required to validate these findings.",
-      "study_methods": "Enrolled subjects were initially screened using the DC/TMD and then evaluated by an otorhinolaryngologist (ENT specialist) for the presence of ND, relative severity of these, as well as the signs and symptoms. The identified ND were categorized into four major groups: nasal septal deviation (NSD), inferior turbinate hypertrophy (ITH), a combination of both NSD and ITH, and other deformities. The relationships between variables and differences between groups were analyzed using Χ2 test and Mann-Whitney U test. To identify the contribution of nasal deformity towards TMD diagnosis, hierarchical logistic regression analysis was conducted.",
-      "methods": "Enrolled subjects were initially screened using the DC/TMD and then evaluated by an otorhinolaryngologist (ENT specialist) for the presence of ND, relative severity of these, as well as the signs and symptoms. The identified ND were categorized into four major groups: nasal septal deviation (NSD), inferior turbinate hypertrophy (ITH), a combination of both NSD and ITH, and other deformities. The relationships between variables and differences between groups were analyzed using Χ2 test and Mann-Whitney U test. To identify the contribution of nasal deformity towards TMD diagnosis, hierarchical logistic regression analysis was conducted.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41686229/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41642169",
-      "title": "Multi-institutional Normal Tissue Complication Probability (NTCP) Prediction Model for Mandibular Osteoradionecrosis: Results from the PREDMORN Study.",
-      "authors": [
-        "Laia Humbert-Vidan",
-        "Christian R Hansen",
-        "Steven Petit",
-        "Carles Muñoz-Montplet",
-        "Katrina Hueniken",
-        "Abdallah S R Mohamed",
-        "Deborah P Saunders",
-        "Vinod Patel",
-        "Gerda M Verduijn",
-        "Wilma D Heemsbergen",
-        "Arjen van der Schaaf",
-        "Max Witjes",
-        "Suzanne P M de Vette",
-        "Mohammad Moharrami",
-        "Abdul A Khan",
-        "Jordi Marruecos Querol",
-        "Irene Oliveras Cancio",
-        "Mike Oliver",
-        "Peter Reich",
-        "Stacey A Santi",
-        "Andrew G Pearce",
-        "Stephen Y Lai",
-        "Andrew P King",
-        "Ali Hosni",
-        "Andrew J Hope",
-        "Erin E Watson",
-        "Johannes A Langendijk",
-        "Jørgen Johansen",
-        "Amy C Moreno",
-        "Clifton D Fuller",
-        "Lisanne V van Dijk",
-        "Teresa Guerrero Urbano"
-      ],
-      "publication_date": "2026-Jul-01",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Mandibular osteoradionecrosis (ORN) is a severe late complication affecting patients with head and neck cancer (HNC) treated with radiation therapy (RT) that significantly impacts patients' quality of life and can require costly interventions. Although radiation dose is a key factor, other clinical and demographic risk factors also influence ORN development. Previous predictive models have primarily been single-institutional, limiting their generalizability. In this first analysis from the PREDMORN Consortium, we have aimed to reproduce existing statistical association and modeling analyses on the largest and most diverse mandibular ORN cohort worldwide to allow comparison with previous studies. This retrospective multi-institutional study included 3928 patients with HNC (622 ORN cases) from 8 institutions. Clinical, demographic, and dosimetric variables were analyzed to develop a prediction model (any grade ORN vs no ORN) using forward stepwise logistic regression with correlation-based variable preselection. The ORN normal tissue complication probability (NTCP) model was developed on 80% of data from 6 institutions, tested on the remaining unseen 20%, and externally validated on a matched cohort (58 patients, 19 ORN cases) and a large population-based cohort (2687 patients, 215 ORN cases). Key predictors of ORN were D30%, V70Gy, pre-RT dental extractions, and smoking status. The ORN NTCP model demonstrated very good calibration on the population-based external cohort (Brier score, 0.077; Log Loss, 0.281). Model discrimination improved on a subcohort including oropharyngeal and locally advanced larynx/hypopharynx cancer cases only (AUC from 0.69 to 0.75 and from 0.65 to 0.67 on the matched and the population-based external cohorts, respectively). The PREDMORN NTCP model is the largest multi-institutional effort to date aimed at predicting ORN risk in patients with HNC using real-world data. The model demonstrated good generalizability when externally validated to a large population-based cohort. Our observations align with current guidelines and corroborate findings from smaller single-institution studies.",
-      "objective": "",
-      "study_methods": "This retrospective multi-institutional study included 3928 patients with HNC (622 ORN cases) from 8 institutions. Clinical, demographic, and dosimetric variables were analyzed to develop a prediction model (any grade ORN vs no ORN) using forward stepwise logistic regression with correlation-based variable preselection. The ORN normal tissue complication probability (NTCP) model was developed on 80% of data from 6 institutions, tested on the remaining unseen 20%, and externally validated on a matched cohort (58 patients, 19 ORN cases) and a large population-based cohort (2687 patients, 215 ORN cases).",
-      "methods": "This retrospective multi-institutional study included 3928 patients with HNC (622 ORN cases) from 8 institutions. Clinical, demographic, and dosimetric variables were analyzed to develop a prediction model (any grade ORN vs no ORN) using forward stepwise logistic regression with correlation-based variable preselection. The ORN normal tissue complication probability (NTCP) model was developed on 80% of data from 6 institutions, tested on the remaining unseen 20%, and externally validated on a matched cohort (58 patients, 19 ORN cases) and a large population-based cohort (2687 patients, 215 ORN cases).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41642169/",
-      "pmcid": "PMC12930408",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0001.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0001.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0002.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930408/bin/nihms-2148559-f0002.gif"
-      ]
     },
     {
       "pmid": "41620329",
@@ -3385,111 +3487,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42367103/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42365299",
-      "title": "Revealing mandibular asymmetry in orthognathic surgery patients via Bonwill triangle morphology: a retrospective cross-sectional study.",
-      "authors": [
-        "Shiuan-Hui Wang",
-        "Tzu-Yuan Weng",
-        "Hao Shih",
-        "Yen-Wen Shen",
-        "Lih-Jyh Fuh",
-        "Jui-Ting Hsu"
-      ],
-      "publication_date": "2026-Jun-27",
-      "publication_date_iso": "2026-06-27",
-      "abstract": "The Bonwill triangle, defined by the mandibular incisor (MI) point and the center of right (CR) and left (CL) condyles, which provide a crucial reference for determining craniofacial symmetry and occlusion. Although three-dimensional imaging has enhanced the precision of triangle measurement, few studies have evaluated Bonwill triangle geometry in patients who have undergone orthognathic surgery (OGS). The present study assessed Bonwill triangle geometry in a Taiwanese population by comparing individuals who underwent OGS and those who did not and by analyzing the effects of sex and age on mandibular asymmetry. Cone-beam computed tomography images from 109 adults (54 in the OGS group and 55 in the non-OGS group) were retrospectively analyzed. Three side lengths of the Bonwill triangle (mandibular incisor point to left condyle (MI-CL), mandibular incisor point to right condyle (MI-CR), and right condyle to left condyle (CR-CL)) were measured using Mimics software. Group comparisons and subgroup analyses by sex and age were conducted using independent and paired t tests and Pearson correlation analysis. The OGS group exhibited greater asymmetry in the bilateral side lengths than the non-OGS group did (3.41 ± 2.35 mm vs. 1.69 ± 1.02 mm, p < 0.001), particularly the men in the group (p < 0.001). Additionally, only the men in the OGS group exhibited a negative correlation between age and bilateral side length (r = - 0.480, p = 0.034). CR-CL length did not differ significantly between the OGS and non-OGS groups. The Bonwill triangle can support preoperative mandibular asymmetryassessments. Candidates for OGS, especially men, exhibit greater skeletal asymmetry than non-OGS candidates do, underscoring a need for individualized planning. Future studies evaluating surgical type and long-term outcomes can enhance the clinical applications of the Bonwill triangle in pre-OGS assessments. This retrospective study was approved by the Institutional Review Board of China Medical University Hospital, Taichung, Taiwan (CMUH 114REC2019).",
-      "objective": "",
-      "study_methods": "Cone-beam computed tomography images from 109 adults (54 in the OGS group and 55 in the non-OGS group) were retrospectively analyzed. Three side lengths of the Bonwill triangle (mandibular incisor point to left condyle (MI-CL), mandibular incisor point to right condyle (MI-CR), and right condyle to left condyle (CR-CL)) were measured using Mimics software. Group comparisons and subgroup analyses by sex and age were conducted using independent and paired t tests and Pearson correlation analysis.",
-      "methods": "Cone-beam computed tomography images from 109 adults (54 in the OGS group and 55 in the non-OGS group) were retrospectively analyzed. Three side lengths of the Bonwill triangle (mandibular incisor point to left condyle (MI-CL), mandibular incisor point to right condyle (MI-CR), and right condyle to left condyle (CR-CL)) were measured using Mimics software. Group comparisons and subgroup analyses by sex and age were conducted using independent and paired t tests and Pearson correlation analysis.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42365299/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42360076",
-      "title": "Artificial Intelligence Applications in Cleft Lip and Palate Diagnosis, Prediction, and Treatment: A Systematic Review and Meta-Analysis.",
-      "authors": [
-        "Nozhan Azimi",
-        "Sahar Akbari Iraj",
-        "Fateme Mazaheri",
-        "Sarina Maddahi",
-        "Mohammad Mahdi Khanmohammadi",
-        "Ali Azadi",
-        "Asghar Ebadifar"
-      ],
-      "publication_date": "2026-Jun-26",
-      "publication_date_iso": "2026-06-26",
-      "abstract": "ObjectiveCleft lip and cleft palate are common craniofacial abnormalities, causing significant functional, esthetic, and psychosocial issues if not treated early. Artificial intelligence (AI) is increasingly explored in cleft lip and/or palate (CL/P); however, the quality, consistency, and clinical readiness of the available evidence remain unclear. This study systematically reviewed the existing literature on AI applications in CL/P care and performed an exploratory meta-analysis.DesignA comprehensive search was performed on PubMed, WOS, Scopus, and IEEE Xplore until November 2025, following the PECO question: \"In patients with CL/P (P), how do AI approaches (E), compared with conventional diagnostic methods or human intelligence (C), perform in terms of diagnostic accuracy, predictive performance, or treatment outcomes (O)?\". Studies applying AI to human CL/P data for diagnostic, predictive, or treatment purposes were included. Risk of bias was assessed using appropriate checklists (eg, QUADAS-2). Due to study heterogeneity, random-effects meta-analyses were limited to subgroups evaluating CL/P detection on panoramic radiographs and prediction of orthognathic surgery using lateral cephalograms.ResultsThe search identified 548 articles; after screening and full-text review, 52 studies were included. These studies addressed diagnosis, prediction, and treatment planning. Meta-analysis of CL/P detection indicated pooled sensitivity, specificity, and accuracy of 87%, 89%, and 90%. Prediction of orthognathic surgery showed sensitivity and specificity of 87% and 86%.ConclusionAI is increasingly applied in CL/P management, suggesting high accuracy and consistency in diagnosis, prediction, and treatment evaluation, often approaching expert-level performance.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "The search identified 548 articles; after screening and full-text review, 52 studies were included. These studies addressed diagnosis, prediction, and treatment planning. Meta-analysis of CL/P detection indicated pooled sensitivity, specificity, and accuracy of 87%, 89%, and 90%. Prediction of orthognathic surgery showed sensitivity and specificity of 87% and 86%.ConclusionAI is increasingly applied in CL/P management, suggesting high accuracy and consistency in diagnosis, prediction, and treatment evaluation, often approaching expert-level performance.",
-      "conclusion": "AI is increasingly applied in CL/P management, suggesting high accuracy and consistency in diagnosis, prediction, and treatment evaluation, often approaching expert-level performance.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42360076/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42359519",
-      "title": "Factors Influencing Postoperative Recovery Time and Development of a Predictive Model in Patients Undergoing Orthognathic Surgery.",
-      "authors": [
-        "Han Xu",
-        "Ting Li"
-      ],
-      "publication_date": "2026-Jun-26",
-      "publication_date_iso": "2026-06-26",
-      "abstract": "To investigate factors associated with delayed postoperative recovery after orthognathic surgery and to develop a clinically interpretable predictive model for recovery time. This retrospective study included 106 patients who underwent orthognathic surgery between 2024 and 2026. Delayed recovery was defined as an overall recovery time >60 days. Candidate predictors included age, double-jaw surgery, operation time, intraoperative blood loss, postoperative pain score on day 1, swelling score on day 3, and postoperative complications. Univariable and multivariable logistic regression analyses were performed to identify independent risk factors and construct a prediction model. Model performance was evaluated using receiver operating characteristic analysis, calibration assessment, and decision-curve analysis. Among the 106 patients, 39 (36.8%) experienced delayed recovery. Univariable analysis showed that double-jaw surgery, longer operation time, greater blood loss, higher postoperative pain score, and increased swelling score were significantly associated with delayed recovery (all P < 0.05). In multivariable analysis, postoperative pain remained an independent predictor (adjusted OR: 2.11; 95% CI: 1.18-3.79; P = 0.012). Blood loss and operation time showed clinically relevant trends toward significance. The prediction model demonstrated good discrimination with an area under the curve of 0.880. Calibration analysis showed acceptable agreement between predicted and observed outcomes, and decision-curve analysis suggested favorable clinical utility. Delayed recovery after orthognathic surgery was associated with operative burden and early postoperative symptom severity. The proposed prediction model demonstrated good predictive performance and may help support individualized perioperative counseling and postoperative management after external validation.",
-      "objective": "",
-      "study_methods": "This retrospective study included 106 patients who underwent orthognathic surgery between 2024 and 2026. Delayed recovery was defined as an overall recovery time >60 days. Candidate predictors included age, double-jaw surgery, operation time, intraoperative blood loss, postoperative pain score on day 1, swelling score on day 3, and postoperative complications. Univariable and multivariable logistic regression analyses were performed to identify independent risk factors and construct a prediction model. Model performance was evaluated using receiver operating characteristic analysis, calibration assessment, and decision-curve analysis.",
-      "methods": "This retrospective study included 106 patients who underwent orthognathic surgery between 2024 and 2026. Delayed recovery was defined as an overall recovery time >60 days. Candidate predictors included age, double-jaw surgery, operation time, intraoperative blood loss, postoperative pain score on day 1, swelling score on day 3, and postoperative complications. Univariable and multivariable logistic regression analyses were performed to identify independent risk factors and construct a prediction model. Model performance was evaluated using receiver operating characteristic analysis, calibration assessment, and decision-curve analysis.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42359519/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42351191",
-      "title": "Three dimensional accuracy and stability of segmented Le Fort I osteotomy - a systematic review.",
-      "authors": [
-        "Oliver da Costa Senior",
-        "Marie Coppens",
-        "Reinhilde Jacobs",
-        "Eman Shaheen",
-        "Constantinus Politis"
-      ],
-      "publication_date": "2026-Jun-26",
-      "publication_date_iso": "2026-06-26",
-      "abstract": "Segmental Le Fort I osteotomy has traditionally been regarded as less predictable and stable, a perception largely based on two-dimensional evaluation methods. Despite existing systematic reviews on clinical outcomes, a dedicated synthesis of three-dimensional assessments of surgical accuracy and postoperative stability is lacking. This systematic review evaluated three-dimensional (3D) assessment methods and outcome of planning accuracy and postoperative stability in segmented Le Fort I osteotomies. The aim was to determine the reliability of 3D methods in capturing surgical accuracy and long-term skeletal stability. Medline, Embase, Web of Science, and Cochrane were searched up to October 25, 2024. Eligible studies included randomized controlled trials, prospective or retrospective studies, or case series with > 5 patients reporting 3D evaluation of planning accuracy or stability. Exclusion criteria were systematic reviews, meta-analyses, single case reports, ex-vivo or animal studies, and studies involving syndromic patients, facial trauma, or prior maxillofacial surgery. Risk of bias and quality of evidence were assessed using the GRADE approach. Twenty-two studies met inclusion criteria: three randomized and nineteen non-randomized controlled trials. Fourteen assessed planning accuracy, five evaluated stability, and three examined both. Twenty-two studies met the inclusion criteria and were included in the qualitative synthesis. Considerable methodological heterogeneity limited direct comparison and precluded meta-analysis. Overall, segmented Le Fort I osteotomy demonstrated clinically acceptable accuracy; however, certain movements-particularly transverse widening, advancement, and pitch-were more prone to underachievement, with discrepancies ranging from 0.77 to 1.41 mm, 0.55 to 2.69 mm, and 0.12° to 5.22°, respectively. During follow-up, transverse relapse was more pronounced at the dental level (0.39-1.41 mm) compared to skeletal changes (0.05-0.86 mm). Segmented Le Fort I osteotomy shows reliable outcomes in 3D evaluations, but some maxillary movements remain difficult to achieve and maintain such as advancement and pitch. Standardized, voxel-based 3D assessment protocols are recommended to improve comparability and strengthen the evidence base. (PROSPERO registration: CRD42018111854).",
-      "objective": "was to determine the reliability of 3D",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma",
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42351191/",
       "pmcid": "",
       "figure_urls": []
     }
