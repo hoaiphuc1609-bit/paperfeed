@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T05:53:12Z",
+  "updated_at": "2026-07-05T06:10:58Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -531,6 +531,35 @@
       "figure_urls": []
     },
     {
+      "pmid": "42297065",
+      "title": "Circadian gene BMAL1 attenuates gingival fibroblast senescence to suppress diabetic periodontitis progression.",
+      "authors": [
+        "Yangzuo Liu",
+        "Xing Rong",
+        "Yu Ji",
+        "Minglei Zhang",
+        "Rundong Yuan",
+        "Shenglei Luo",
+        "Lei Chen",
+        "Minqi Li"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "In a hyperglycemic environment, periodontal inflammatory responses and the destruction of periodontal supporting tissues are exacerbated, leading to a severe form of diabetes periodontitis (DPD). Diabetes and periodontitis exhibit a bidirectional relationship that significantly increases the complexity and severity of each condition. A key pathological feature in this process is the functional impairment of gingival fibroblasts (GFs) within the high-glucose inflammatory microenvironment. In this study, a DPD mouse model was established. It was found that diabetes significantly aggravated alveolar bone resorption and accelerated GFs senescence, which was accompanied by a marked downregulation of brain and muscle ARNT-like 1 (BMAL1) expression. Pharmacological activation of BMAL1 effectively mitigated GFs senescence and mitochondrial dysfunction, and consequently alleviated alveolar bone destruction in DPD mice. By simulating the high-glucose inflammatory microenvironment in vitro, we confirmed that the combination of high glucose (HG) and lipopolysaccharide (LPS) activates the JAK1-STAT3 signaling pathway, downregulates BMAL1, disrupts mitochondrial homeostasis, and ultimately induces GFs senescence. This study elucidates the pathological mechanism underlying GFs senescence in the high-glucose inflammatory microenvironment, thereby providing a novel perspective for the targeted therapy of DPD.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42297065/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42181171",
       "title": "Stage-specific biomimetic nanoparticles reprogram osteoblast-adipocyte equilibrium for targeted osteoporosis therapy.",
       "authors": [
@@ -1043,6 +1072,66 @@
       ]
     },
     {
+      "pmid": "42286974",
+      "title": "Response to \"Concerns Regarding Model Robustness and Clinical Generalizability in the Proposed Nomogram for Osteoradionecrosis After Fibula Free Flap Reconstruction\".",
+      "authors": [
+        "Andrea Costantino",
+        "Bianca Festa",
+        "Filippo Marchi",
+        "Chung-Kan Tsao",
+        "Raul Pellini",
+        "Luca Gazzini",
+        "Peter T Dzięgielewski",
+        "Mario Ciniglio",
+        "Francesco Mazzola",
+        "Luca Calabrese",
+        "Antonio Sarno",
+        "Giampiero Parrinello",
+        "Linda Chow",
+        "Jyh-Kwei Chen",
+        "Giorgio Peretti",
+        "Armando De Virgilio"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42286974/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42286937",
+      "title": "Concerns Regarding Model Robustness and Clinical Generalizability in the Proposed Nomogram for Osteoradionecrosis After Fibula Free Flap Reconstruction.",
+      "authors": [
+        "Pareeksit Rajkumar Bagchi",
+        "Swathi Yennemadi"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42286937/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42253858",
       "title": "Sarcomatoid squamous cell carcinoma of the mandible: Radiologic-pathologic correlation and diagnostic pitfalls of an aggressive osteolytic lesion.",
       "authors": [
@@ -1246,93 +1335,6 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42173451/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42173301",
-      "title": "Targeting AURKA by MiR-490-3p overcomes paclitaxel resistance in oral squamous cell carcinoma via NF-κB/STAT3 signaling.",
-      "authors": [
-        "Linfu Han",
-        "Liwei Peng",
-        "Xiqian Wang",
-        "Chunshi Tong",
-        "Yang Wu",
-        "Wen Li",
-        "Xin Meng",
-        "Yonggong Wang"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Paclitaxel (PTX) resistance remains a major barrier to effective treatment of oral squamous cell carcinoma (OSCC). Although Aurora kinase A (AURKA) has been implicated in tumor progression, its functional role and regulatory mechanisms in PTX resistance are not fully understood. PTX-resistant OSCC cell lines (CAL-27/PTX and SCC-9/PTX) were established from their PTX-naïve counterparts (CAL-27 and SCC-9, respectively) through stepwise exposure to increasing concentrations of PTX. AURKA was silenced using shRNA or regulated by miR-490-3p overexpression. Cell viability, apoptosis, migration, and invasion were assessed in vitro. NF-κB and STAT3 signaling activities were evaluated as downstream effectors. Direct targeting of AURKA by miR-490-3p was validated using dual-luciferase reporter assays. A xenograft model was used to assess the in vivo effects of AURKA knockdown on tumor growth and drug response. AURKA was significantly upregulated in PTX-resistant OSCC cells, accompanied by activation of NF-κB and STAT3 signaling. Functional inhibition of AURKA or restoration of miR-490-3p enhanced PTX sensitivity, promoted apoptosis, and suppressed migratory and invasive behaviors, together with attenuation of NF-κB/STAT3 activity. Mechanistically, miR-490-3p directly bound to the 3'-UTR of AURKA and negatively regulated its expression, whereas AURKA re-expression reversed these effects. In vivo, AURKA knockdown suppressed tumor growth, increased apoptotic activity, and inhibited NF-κB/STAT3 signaling in PTX-resistant xenografts. These findings identify a functional miR-490-3p/AURKA axis that regulates PTX resistance in OSCC through coordinated modulation of NF-κB and STAT3 signaling. Targeting this pathway may provide a promising strategy to overcome chemoresistance and inhibit OSCC progression.",
-      "objective": "",
-      "study_methods": "PTX-resistant OSCC cell lines (CAL-27/PTX and SCC-9/PTX) were established from their PTX-naïve counterparts (CAL-27 and SCC-9, respectively) through stepwise exposure to increasing concentrations of PTX. AURKA was silenced using shRNA or regulated by miR-490-3p overexpression. Cell viability, apoptosis, migration, and invasion were assessed in vitro. NF-κB and STAT3 signaling activities were evaluated as downstream effectors. Direct targeting of AURKA by miR-490-3p was validated using dual-luciferase reporter assays. A xenograft model was used to assess the in vivo effects of AURKA knockdown on tumor growth and drug response.",
-      "methods": "PTX-resistant OSCC cell lines (CAL-27/PTX and SCC-9/PTX) were established from their PTX-naïve counterparts (CAL-27 and SCC-9, respectively) through stepwise exposure to increasing concentrations of PTX. AURKA was silenced using shRNA or regulated by miR-490-3p overexpression. Cell viability, apoptosis, migration, and invasion were assessed in vitro. NF-κB and STAT3 signaling activities were evaluated as downstream effectors. Direct targeting of AURKA by miR-490-3p was validated using dual-luciferase reporter assays. A xenograft model was used to assess the in vivo effects of AURKA knockdown on tumor growth and drug response.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42173301/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42168049",
-      "title": "Machine learning-based approach for predicting the extraction time of a mandibular third molar.",
-      "authors": [
-        "Atsushi Danjo",
-        "Motoki Fukuda",
-        "Reona Aijima",
-        "Asana Kamohara",
-        "Chiaki Kuwada",
-        "Yoshiko Ariji",
-        "Eiichiro Ariji",
-        "Yoshio Yamashita"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Predicting the surgical time required for mandibular third molar extraction is challenging because patient-, tooth-, and operator-related factors interact in complex ways. This study aimed to develop an interpretable machine-learning model using patient demographics, panoramic radiographic features, and surgeon-related variables. We retrospectively reviewed 713 mandibular third molar extractions at a single university hospital. Models were developed using Prediction One, a no-code machine-learning platform. Because continuous-time prediction showed limited performance, we reframed the primary task as binary classification at clinically relevant thresholds (≥31, ≥46, and ≥61 minutes). Performance was benchmarked against three traditional models and feature contribution scores were calculated to assess variable importance. The ≥31-minute model showed the best performance (accuracy, 0.75; area under the curve, 0.80), and outperformed the comparator models. Surgeon experience and specialist certification were the strongest contributors, followed by root-related radiographic morphology. In contrast, indices such as the Pell and Gregory classification and the number of roots, showed limited predictive value. Minute-by-minute prediction was difficult, but threshold-based prediction was feasible, and we identified factors that contributed substantially to time prediction and those with minimal impact.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42168049/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42166885",
-      "title": "Immediate PEEK patient-specific cranioplasty in sphenoid wing meningioma resection: 10-year clinical outcomes of a contemporary approach to complex orbital reconstruction.",
-      "authors": [
-        "Stavroula Stavropoulou-Tatla",
-        "Danyal Awal",
-        "Benedetta Mattei",
-        "Sankar Manchella",
-        "Oliver Jacob",
-        "Alexander Rae",
-        "Nick Thomas",
-        "Robert Bentley"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Sphenoid wing meningiomas are characterized by bony hyperostosis and dural invasion. Surgical resection is often extensive, giving rise to complex orbital defects. Orbital reconstruction is associated with improved structural and functional outcomes. Patient-specific cranioplasty implants facilitate the accurate orbital volume reconstruction, with polyetheretherketone (PEEK) exhibiting advantageous material properties. This retrospective case series evaluates the clinical outcomes of immediate PEEK-implant reconstruction of complex orbital defects in patients undergoing sphenoid wing meningioma resection via a combined anterolateral approach between 2015 and 2024. Outcome measures include complications, re-operations, long-term implant retention and visual outcomes. A total of 25 patients underwent follow-up of 43.8 (31.4) months. Emergency re-operations were performed in 16.0 % of cases, including CSF leak repair (8.0%), extradural haematoma evacuation (4.0%) and orbital exploration (4.0%), all involving immediate implant reinsertion. No implant infection cases were reported. The exophthalmic index was reduced from 1.36 (0.27) to 1.06 (0.08) at 1year post-operatively (Z = 4.5, p < 0.01). Visual acuity was preserved in 88.0%. This study highlights the immediate PEEK-implant cranioplasty via the combined anterolateral approach as a valid reconstructive option for complex orbital defects in sphenoid wing meningioma patients. Prospective comparative studies are warranted to determine the ideal method of reconstruction in this challenging patient population.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42166885/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1608,6 +1610,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "41792566",
+      "title": "An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Application.",
+      "authors": [
+        "Chenyao Li",
+        "Yan Guo",
+        "Rong Yang",
+        "Xiaojun Chen",
+        "Shanyong Zhang"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Mandibular reconstruction suffers from limitations in automation and objectivity. This study aimed to develop an automated framework to address these challenges. A novel approach combining statistical shape modeling and 3D deep learning was developed. Trained on 200 CT scans and validated in 80 clinical cases, its performance was compared to expert manual planning by evaluating reconstruction accuracy, bone contact area, and planning time. Finally, design experiments were performed in five clinical cases. The automated method demonstrated high accuracy (DSC: 0.874) and real-time efficiency. It significantly outperformed manual planning in bone contact area (106.2 vs. 94.6 mm2) and reduced planning time by 85%. Postoperative results showed excellent implant alignment (2.1 mm deviation) and high patient satisfaction. The proposed automated framework successfully enhances the efficiency and quality of mandibular reconstruction, meeting clinical needs. Future work will integrate more complex biomechanical considerations.",
+      "objective": "",
+      "study_methods": "A novel approach combining statistical shape modeling and 3D deep learning was developed. Trained on 200 CT scans and validated in 80 clinical cases, its performance was compared to expert manual planning by evaluating reconstruction accuracy, bone contact area, and planning time. Finally, design experiments were performed in five clinical cases.",
+      "methods": "A novel approach combining statistical shape modeling and 3D deep learning was developed. Trained on 200 CT scans and validated in 80 clinical cases, its performance was compared to expert manual planning by evaluating reconstruction accuracy, bone contact area, and planning time. Finally, design experiments were performed in five clinical cases.",
+      "results": "showed excellent implant alignment (2.1 mm deviation) and high patient satisfaction. The proposed automated framework successfully enhances the efficiency and quality of mandibular reconstruction, meeting clinical needs. Future work will integrate more complex biomechanical considerations.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41792566/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41740295",
       "title": "Cell-free fat extract attenuates temporomandibular joint osteoarthritis via repressing ATF3-binding chromatin accessibility.",
       "authors": [
@@ -1764,6 +1792,32 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41335106/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42400287",
+      "title": "Pharyngeal Airway Changes Following Bimaxillary Orthognathic Surgery in Asian Patients.",
+      "authors": [
+        "Josef Atay",
+        "Chi Ching Joan Wan",
+        "Eppo B Wolvius",
+        "Lara van de Lande",
+        "Yiu Yan Leung"
+      ],
+      "publication_date": "2026-Jul-06",
+      "publication_date_iso": "2026-07-06",
+      "abstract": "This study aimed to investigate the changes of the pharyngeal airway dimensions in Southeast Asian patients with dentofacial deformities after bimaxillary orthognathic surgery. Forty-seven Southeast Asian patients (mean age 26.3) with dentofacial deformities scheduled for bimaxillary orthognathic surgery treated at the University of Hong Kong were included. Preoperative and postoperative Cone Beam Computed Tomography (CBCT) scans quantified total and regional airway volumes (velopharyngeal, oropharyngeal, and epiglottic) and cross-sectional metrics, including minimum cross-sectional area (mCSA), its anteroposterior and transverse dimensions, and mean cross-sectional area. At baseline, class II patients had significantly smaller and narrower airways than class III (volume P=0.030; width P<0.001) and narrower than class I (P=0.004). Postoperatively, class II showed significant airway enlargement: total volume increased by 4.4 cm³ (24.5%) and mCSA by 0.8 cm² (71.7%). Class I and class III exhibited smaller, nonsignificant changes. No group experienced a postoperative decrease in airway space, and postsurgery total airway size did not differ significantly among classes. Airway changes did not differ between single-piece and multisegmental procedures. In this Asian cohort, bimaxillary orthognathic surgery significantly enlarged the pharyngeal airway in class II patients, while class I and III showed no significant changes. The surgical segmentation approach did not influence airway outcomes.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42400287/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2331,7 +2385,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42281344/",
-      "pmcid": "",
+      "pmcid": "PMC13328044",
       "figure_urls": []
     },
     {
@@ -3099,32 +3153,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41864497",
-      "title": "Outcomes and Predictive Modeling in Helmet Therapy for Plagiocephaly.",
-      "authors": [
-        "Krystof Stanek",
-        "Jay G Berry",
-        "James H Wynne",
-        "Isabel Stringfellow",
-        "Daniel M Balkin"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "To develop and evaluate a machine learning model to forecast treatment-related changes in cranial vault asymmetry index (CVAI) and cranial index (CI) in infants undergoing cranial orthosis therapy for deformational plagiocephaly (DP) and/or deformational brachycephaly (DB). This retrospective analysis used serial measurements of CVAI and CI for 6694 infants with DP and/or DB at initiation and throughout cranial orthosis therapy from April 1, 2012 to October 31, 22 across cranial orthosis health services in 9 US states. Extreme Gradient Boosting was employed to predict CVAI and CI at the end of therapy based on initial cranial measurements, patient age, and duration of treatment. At initial presentation for helmet therapy, the median (IQR) age of infants in months was 6 (5-8), with 36.5% (n = 2446) having isolated DP, 9.0% (n = 600) isolated DB, and 54.5% (n = 3648) both DP and DB. Initial median CVAI and CI were 7.6% (IQR: 6.2%-9.4%) and 95% (IQR: 92.6%-98.5%), respectively. The Extreme Gradient Boosting models demonstrated high predictive accuracy for final CVAI (explaining 79.4% of the variance [R2 = 0.794] and a mean absolute error of 0.756) and CI (86.4% of the variance [R2 = 0.864] with a mean absolute error of 0.936). A large, retrospective cohort analysis of patients undergoing cranial molding therapy for DP and/or DB enabled development of a machine learning-based model that forecasts treatment-related changes in cranial shape during helmet therapy. Further investigation is needed to assess how this predictive tool may assist in clinical decision-making and informed parental counseling regarding cranial orthosis for DP and/or DB.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41864497/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41856484",
       "title": "Did the Affordable Care Act Increase Medicaid Coverage for Isolated Facial Trauma? A National Cohort Study.",
       "authors": [
@@ -3360,7 +3388,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42377078/",
-      "pmcid": "",
+      "pmcid": "PMC13329074",
       "figure_urls": []
     },
     {
@@ -3460,33 +3488,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42373011/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42367103",
-      "title": "Predictors of intraoperative blood loss in bimaxillary orthognathic surgery: A retrospective multivariate analysis.",
-      "authors": [
-        "K Yusa",
-        "N Sasahara",
-        "T Hemmi",
-        "K Kagami",
-        "K Taniguchi",
-        "S Ishikawa"
-      ],
-      "publication_date": "2026-Jun-29",
-      "publication_date_iso": "2026-06-29",
-      "abstract": "The aim of this study was to investigate the relationship between patient demographics and hematological parameters and blood loss during orthognathic surgery. In addition, we investigated whether bone removal around the descending palatine artery (DPA), a procedure that has been widely applied in recent years, is associated with blood loss. This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05. A total of 138 patients (95 women and 43 men; mean age, 24.1±7.1 years) were included. The mean operative time was 269.1±51.3 minutes, and the mean intraoperative blood loss was 277.0±220.4mL. BMI, preoperative Hb, and operative time were significantly correlated with blood loss (P<.05). Male patients experienced significantly greater blood loss than female patients (P<.05). After adjustment, BMI (B=19.5, P=.001), operative time (B=0.95, P=.010), and removal of bone around the DPA (B=92.8, P=.009) were independently associated with increased intraoperative blood loss. The findings in this study are important for preoperative risk assessment, surgical planning, and ensuring patient safety in orthognathic surgery.",
-      "objective": "of this study was to investigate the relationship between patient demographics and hematological parameters and blood loss during orthognathic surgery. In addition, we investigated whether bone removal around the descending palatine artery (DPA), a procedure that has been widely applied in recent years, is associated with blood loss. This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05. A total of 138 patients (95 women and 43 men; mean age, 24.1±7.1 years) were included. The mean operative time was 269.1±51.3 minutes, and the mean intraoperative blood loss was 277.0±220.4mL. BMI, preoperative Hb, and operative time were significantly correlated with blood loss (P<.05). Male patients experienced significantly greater blood loss than female patients (P<.05). After adjustment, BMI (B=19.5, P=.001), operative time (B=0.95, P=.010), and removal of bone around the DPA (B=92.8, P=.009) were independently associated with increased intraoperative blood loss. The findings in this study are important for preoperative risk assessment, surgical planning, and ensuring patient safety in orthognathic surgery.",
-      "study_methods": "This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05.",
-      "methods": "This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42367103/",
       "pmcid": "",
       "figure_urls": []
     }
