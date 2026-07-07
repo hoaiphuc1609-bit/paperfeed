@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T06:42:09Z",
+  "updated_at": "2026-07-07T06:14:33Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -96,6 +96,31 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
       ]
+    },
+    {
+      "pmid": "42404491",
+      "title": "Cannabis-associated hyperalgesia and reduced local anesthetic efficacy in oral surgery: A case report.",
+      "authors": [
+        "Susan Hammoud",
+        "Mirian Harumi Itikawa Magno",
+        "Joseph Akhikar",
+        "Luiz Carlos Magno Filho"
+      ],
+      "publication_date": "2026-Dec",
+      "publication_date_iso": "2026-12-01",
+      "abstract": "Cannabis use has increased significantly in recent years, yet its impact on local anesthetic efficacy in oral surgery remains poorly understood. This report analyzes the case of a 34-year-old male with history of chronic cannabis use who exhibited a hyperalgesic pain response and difficulty achieving adequate anesthesia during dental extraction in spite of standard anesthetic techniques. This atypical presentation may be explained by cannabis-associated alterations in pain pathways, including hyperalgesia related to chronic cannabinoid exposure, pharmacokinetic, and hemodynamic effects. This case highlights the potential impact of cannabis on pain perception and anesthetic response, underscoring the need for clinicians to consider cannabis use when planning anesthesia and to adapt management strategies accordingly.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42404491/",
+      "pmcid": "PMC13330503",
+      "figure_urls": []
     },
     {
       "pmid": "42381887",
@@ -662,6 +687,45 @@
       "figure_urls": []
     },
     {
+      "pmid": "42404299",
+      "title": "Exploration of the radiation dose-toxicity relationship for multiple ophthalmological organs at risk for pediatric patients assessed in long-term head and neck rhabdomyosarcoma survivors.",
+      "authors": [
+        "Michèle Morfouace",
+        "Marinka Hol",
+        "Reineke Schoot",
+        "Natalia Arruti",
+        "Jan Wiersma",
+        "Mark Gaze",
+        "Henry Mandeville",
+        "Olga Slater",
+        "Eric Sandler",
+        "Raquel Dávila-Fajardo",
+        "Julie Bradley",
+        "Bradley Pieters",
+        "Matumba Kayembe",
+        "Johannes Merks",
+        "Ludwig Smeele",
+        "Peerooz Saeed",
+        "Arjan Bel",
+        "Daniel Indelicato"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Ophthalmological adverse events (OAE) are prevalent after local treatment for pediatric head and neck rhabdomyosarcoma (HNRMS). We examine the relation between radiation dose to multiple ophthalmological organs at risk (OAR) and associated clinical OAE in HNRMS survivors. Clinical data on OAE were systematically assessed in an international cross-sectional cohort study including survivors of primary pediatric HNRMS with ≥ 2 years follow-up. Included survivors were treated with either external beam radiation therapy with photons (XRT) or protons (PBT), or with brachytherapy (BT). BT was always delivered in conjunction with surgery (AMORE strategy), whereas XRT and PBT were sometimes combined with surgery. Dosimetric data were collected from the original radiotherapy treatment plans. OAR were delineated on the 3D radiotherapy planning CT. Radiation dose was recalculated into the equivalent dose in 2 Gy fractions (GyEQD2). A total of 74 eyes in 38 survivors were assessed. Median follow-up time was 9 years. Following mean doses > 40, >10, and > 6 GyEQD2 to the orbit, lacrimal gland, and lens, respectively, survivors had a > 20% probability of globe displacement, dry eyes, or cataract (any grade) at follow-up. Retinopathy and optic neuropathy only occurred following maximum doses of > 40 and > 53 GyEQD2 to the retina and optic nerve, respectively. We offer the first description of specific dose-toxicity relationship for multiple OAR in children, based on clinically assessed OAE in long-term survivors. These results can help to quantify and inform physicians and future patients about expected probability of clinical toxicity and help to avoid OAE occurrence for future patients.",
+      "objective": "",
+      "study_methods": "Clinical data on OAE were systematically assessed in an international cross-sectional cohort study including survivors of primary pediatric HNRMS with ≥ 2 years follow-up. Included survivors were treated with either external beam radiation therapy with photons (XRT) or protons (PBT), or with brachytherapy (BT). BT was always delivered in conjunction with surgery (AMORE strategy), whereas XRT and PBT were sometimes combined with surgery. Dosimetric data were collected from the original radiotherapy treatment plans. OAR were delineated on the 3D radiotherapy planning CT. Radiation dose was recalculated into the equivalent dose in 2 Gy fractions (GyEQD2).",
+      "methods": "Clinical data on OAE were systematically assessed in an international cross-sectional cohort study including survivors of primary pediatric HNRMS with ≥ 2 years follow-up. Included survivors were treated with either external beam radiation therapy with photons (XRT) or protons (PBT), or with brachytherapy (BT). BT was always delivered in conjunction with surgery (AMORE strategy), whereas XRT and PBT were sometimes combined with surgery. Dosimetric data were collected from the original radiotherapy treatment plans. OAR were delineated on the 3D radiotherapy planning CT. Radiation dose was recalculated into the equivalent dose in 2 Gy fractions (GyEQD2).",
+      "results": "can help to quantify and inform physicians and future patients about expected probability of clinical toxicity and help to avoid OAE occurrence for future patients.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42404299/",
+      "pmcid": "PMC13330630",
+      "figure_urls": []
+    },
+    {
       "pmid": "42389736",
       "title": "MRONJ risk associated with combined antiresorptive and vascular endothelial growth factor receptor tyrosine kinase inhibitors.",
       "authors": [
@@ -1000,6 +1064,91 @@
       "figure_urls": []
     },
     {
+      "pmid": "42406085",
+      "title": "How Does the Anterior Maxillary Arch Change After Unilateral Lip Repair? A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Tran Duc Ky Truong",
+        "Tien Thi Trieu Truong",
+        "Phuong Hoai Lam",
+        "Chon Thanh Ho Nguyen",
+        "Tuan Van Nguyen"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "ObjectiveThis systematic review and meta-analysis aimed to quantify morphological changes in the anterior maxillary arch-specifically anterior cleft width (CW) and anterior curvature angle (ACA)-following primary lip repair in children with unilateral cleft lip and palate (UCLP).MethodsA comprehensive search of PubMed, Google Scholar, DOAJ, and the Cochrane Library was conducted through January 2025. Eligible studies reported quantitative pre- and post-operative data on anterior arch morphology. Pooled effect sizes were calculated using a random-effects model with the Knapp-Hartung adjustment. Meta-regression assessed the influence of baseline cleft width and follow-up duration.ResultsTen studies comprising 11 patient cohorts and 265 participants met the inclusion criteria. The pooled mean difference in anterior CW) was -6.217 mm (95% confidence interval (CI): -7.230 to -5.204; P < .001), with substantial heterogeneity (I² = 81.8%). Meta-regression identified initial cleft width as a significant predictor (β = -0.842; P = .002), and follow-up duration showed a borderline association (β = -0.387; P = .051). The predictive equation was: CW(change) = 4.465 - 0.842 × initial width - 0.387 × duration. Lip repair also reduced the anterior curvature angle (MD = -14.66°; 95% CI: -19.62 to -9.7), though heterogeneity was very high (I² = 88.1%).ConclusionPrimary lip repair significantly improves anterior arch dimensions in children with UCLP. Initial cleft width predicts postoperative changes, and the proposed model may support early treatment planning. However, due to substantial heterogeneity across studies, small sample sizes in some included cohorts, and very low certainty of evidence for both outcomes (GRADE approach), the findings should be interpreted with caution and considered exploratory.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Ten studies comprising 11 patient cohorts and 265 participants met the inclusion criteria. The pooled mean difference in anterior CW) was -6.217 mm (95% confidence interval (CI): -7.230 to -5.204; P < .001), with substantial heterogeneity (I² = 81.8%). Meta-regression identified initial cleft width as a significant predictor (β = -0.842; P = .002), and follow-up duration showed a borderline association (β = -0.387; P = .051). The predictive equation was: CW(change) = 4.465 - 0.842 × initial width - 0.387 × duration. Lip repair also reduced the anterior curvature angle (MD = -14.66°; 95% CI: -19.62 to -9.7), though heterogeneity was very high (I² = 88.1%).ConclusionPrimary lip repair significantly improves anterior arch dimensions in children with UCLP. Initial cleft width predicts postoperative changes, and the proposed model may support early treatment planning. However, due to substantial heterogeneity across studies, small sample sizes in some included cohorts, and very low certainty of evidence for both outcomes (GRADE approach), the findings should be interpreted with caution and considered exploratory.",
+      "conclusion": "Primary lip repair significantly improves anterior arch dimensions in children with UCLP. Initial cleft width predicts postoperative changes, and the proposed model may support early treatment planning. However, due to substantial heterogeneity across studies, small sample sizes in some included cohorts, and very low certainty of evidence for both outcomes (GRADE approach), the findings should be interpreted with caution and considered exploratory.",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42406085/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42404631",
+      "title": "Photocontrolled biomimetic PEEK scaffold with black phosphorus-strontium ion cascade release for vascularized bone regeneration.",
+      "authors": [
+        "Fang Guo",
+        "BingQian Wang",
+        "Xiaoning Su",
+        "Xingxing Lv",
+        "Shuo Huang",
+        "Yayuan Guo",
+        "Yang Xue",
+        "Changkui Liu"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Effective repair of large bone defects poses a major clinical challenge. Traditional 3D printed polyetheretherketone (PEEK) scaffolds provide customized structures and mechanical adaptability. However, their biological inertness and lack of dynamic bioactive microenvironment limit vascular regeneration and osteogenic differentiation, ultimately limiting overall bone regeneration. This study combined photothermal responsive black phosphorus nanosheets (BPNSs) with strontium ions (Sr2+), and further modified the combination with polydopamine (PDA) to construct 'PDA@BP-Sr Nanocomposites'; subsequently a photo responsive biomimetic porous PEEK scaffold (PEEK-PDA@BP-Sr, PPBS) was developed. Under near-infrared light-induced controllable mild photothermal conditions (40-42 °C), this porous scaffold enables the time-dependent release of bioactive ions, significantly promoting the proliferation, migration, and tube formation of human umbilical vein endothelial cells (HUVECs). Moreover, it activates the ERK1/2 signaling pathway by upregulating HSP70 expression, effectively regulating the osteogenic differentiation of rat bone marrow mesenchymal stem cells (rBMSCs) in vitro. In a rabbit femoral defect model, in-vivo experiments further confirmed that NIR light irradiation enables the PPBS scaffold to dynamically regulate the vascularization bone formation coupling. This promotes early vascularization and bone regeneration, significantly accelerating bone defect repair. This study successfully developed a novel bone repair scaffold that combines structural biomimicry, mechanical adaptation, and efficient biological activity. Additionally, the study also provides important technical support for bone defect repair under conditions of insufficient blood supply.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42404631/",
+      "pmcid": "PMC13331991",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42403631",
+      "title": "Keratocystoma of the Parotid Gland: A Systematic Review of Clinicopathologic Characteristics.",
+      "authors": [
+        "Rijahd Sahmer Boustani",
+        "Malte Gronewold",
+        "Sönke Maximilian Braß",
+        "Efthymios Papazacharias",
+        "Michael-Tobias Neuhaus",
+        "Fritjof Lentge",
+        "Nils-Claudius Gellrich",
+        "Philipp Jehn",
+        "Philippe Korn"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Keratocystoma is a rare benign neoplasm of the parotid gland, histologically characterized by multicystic keratinizing stratified squamous epithelium. Due to its resemblance to squamous malignancies, it represents a diagnostic challenge. This systematic review aims to summarize all published cases of parotid gland keratocystoma and to integrate one newly identified case in order to define its clinicopathologic features and clinical outcomes. A systematic literature search of PubMed and Google Scholar was conducted without date restrictions in accordance with PRISMA 2020 guidelines. The protocol was registered in PROSPERO (CRD420251024191). Peer-reviewed case reports and case series of histopathologically confirmed keratocystoma limited to the parotid gland were included. Demographic, clinical, radiologic, histopathologic, immunohistochemical, therapeutic, and follow-up data were extracted and descriptively analyzed. Methodological quality was assessed using the Joanna Briggs Institute (JBI) Critical Appraisal Checklists. One additional institutional case treated at Hannover Medical School in March 2025 was included. Fifteen patients (14 from the literature and one new case) were identified. The mean age was 36.9 years (range: 1-77 years) with a slight male predominance. All tumors presented as painless parotid swellings and were treated surgically, most commonly by partial or lateral parotidectomy. No recurrences were reported during a mean follow-up of 22.8 months. Histologically, all cases demonstrated consistent squamous epithelial features with immunohistochemical positivity for AE1/AE3, CK5/14, and p63. The newly reported case represents the oldest patient described to date. Keratocystoma of the parotid gland exhibits reproducible benign clinical behavior and characteristic histopathologic features. Surgical excision appears curative, supporting its classification as a distinct benign salivary gland neoplasm that should be considered in the differential diagnosis of cystic parotid lesions.",
+      "objective": "to summarize all published cases of parotid gland keratocystoma and to integrate one newly identified case in order to define its clinicopathologic features and clinical outcomes. A systematic literature search of PubMed and Google Scholar was conducted without date restrictions in accordance with PRISMA 2020 guidelines. The protocol was registered in PROSPERO (CRD420251024191). Peer-reviewed case reports and case series of histopathologically confirmed keratocystoma limited to the parotid gland were included. Demographic, clinical, radiologic, histopathologic, immunohistochemical, therapeutic, and follow-up data were extracted and descriptively analyzed. Methodological quality was assessed using the Joanna Briggs Institute (JBI) Critical Appraisal Checklists. One additional institutional case treated at Hannover Medical School in March 2025 was included. Fifteen patients (14 from the literature and one new case) were identified. The mean age was 36.9 years (range: 1-77 years) with a slight male predominance. All tumors presented as painless parotid swellings and were treated surgically, most commonly by partial or lateral parotidectomy. No recurrences were reported during a mean follow-up of 22.8 months. Histologically, all cases demonstrated consistent squamous epithelial features with immunohistochemical positivity for AE1/AE3, CK5/14, and p63. The newly reported case represents the oldest patient described to date. Keratocystoma of the parotid gland exhibits reproducible benign clinical behavior and characteristic histopathologic features. Surgical excision appears curative, supporting its classification as a distinct benign salivary gland neoplasm that should be considered in the differential diagnosis of cystic parotid lesions.",
+      "study_methods": "A systematic literature search of PubMed and Google Scholar was conducted without date restrictions in accordance with PRISMA 2020 guidelines. The protocol was registered in PROSPERO (CRD420251024191). Peer-reviewed case reports and case series of histopathologically confirmed keratocystoma limited to the parotid gland were included. Demographic, clinical, radiologic, histopathologic, immunohistochemical, therapeutic, and follow-up data were extracted and descriptively analyzed. Methodological quality was assessed using the Joanna Briggs Institute (JBI) Critical Appraisal Checklists. One additional institutional case treated at Hannover Medical School in March 2025 was included.",
+      "methods": "A systematic literature search of PubMed and Google Scholar was conducted without date restrictions in accordance with PRISMA 2020 guidelines. The protocol was registered in PROSPERO (CRD420251024191). Peer-reviewed case reports and case series of histopathologically confirmed keratocystoma limited to the parotid gland were included. Demographic, clinical, radiologic, histopathologic, immunohistochemical, therapeutic, and follow-up data were extracted and descriptively analyzed. Methodological quality was assessed using the Joanna Briggs Institute (JBI) Critical Appraisal Checklists. One additional institutional case treated at Hannover Medical School in March 2025 was included.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403631/",
+      "pmcid": "PMC13332516",
+      "figure_urls": []
+    },
+    {
       "pmid": "42378378",
       "title": "Influence of Metal Artifact Reduction Algorithms on the Detection of Inferior Alveolar Canal Perforations by Zirconia Implants in CBCT Images.",
       "authors": [
@@ -1217,124 +1366,6 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42235796/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42235336",
-      "title": "Development and internal validation of an explainable machine learning model for predicting textbook outcome after free flap reconstruction in oral cancer.",
-      "authors": [
-        "Baolin Jia",
-        "Min He",
-        "Jun Ren",
-        "Guixin Li",
-        "Xianjie Zheng",
-        "Qiang Wang",
-        "Xiaojuan Wu",
-        "Sen Yang"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "To develop and internally validate an explainable machine learning model for predicting textbook outcome (TO) after free flap reconstruction in oral cancer surgery. This single-center retrospective study included 752 patients with oral cancer who underwent radical resection with immediate free flap reconstruction between August 2017 and August 2025. TO was defined as no 31-day mortality, no 31-day unplanned readmission, postoperative length of stay ≤ 21 days, no major complications, negative surgical margins, and adequate unilateral neck dissection (≥16 lymph nodes retrieved). Patients were randomly divided into a training cohort (n = 526) and a validation cohort (n = 226). Feature selection was performed using false discovery rate-based collinearity filtering and random forest recursive feature elimination. Seven machine learning models were developed and compared. SHapley Additive exPlanations (SHAP) were used to improve interpretability. The overall TO achievement rate was 38.2%. Among all candidate models, XGBoost showed the best performance in the validation cohort, with an area under the receiver operating characteristic curve of 0.843 (95% CI, 0.790-0.890), an accuracy of 0.764, a sensitivity of 0.733, and a Brier score of 0.152. Albumin, age, operative time, tumor T stage, and neutrophil-to-lymphocyte ratio were the most important predictors. SHAP analysis identified clinically relevant threshold effects at age > 50 years, albumin > 45 g/L, and operative time > 400 min. The XGBoost model demonstrated good performance for predicting TO after free flap reconstruction in oral cancer and may support perioperative risk stratification and individualized management.",
-      "objective": "",
-      "study_methods": "This single-center retrospective study included 752 patients with oral cancer who underwent radical resection with immediate free flap reconstruction between August 2017 and August 2025. TO was defined as no 31-day mortality, no 31-day unplanned readmission, postoperative length of stay ≤ 21 days, no major complications, negative surgical margins, and adequate unilateral neck dissection (≥16 lymph nodes retrieved). Patients were randomly divided into a training cohort (n = 526) and a validation cohort (n = 226). Feature selection was performed using false discovery rate-based collinearity filtering and random forest recursive feature elimination. Seven machine learning models were developed and compared. SHapley Additive exPlanations (SHAP) were used to improve interpretability.",
-      "methods": "This single-center retrospective study included 752 patients with oral cancer who underwent radical resection with immediate free flap reconstruction between August 2017 and August 2025. TO was defined as no 31-day mortality, no 31-day unplanned readmission, postoperative length of stay ≤ 21 days, no major complications, negative surgical margins, and adequate unilateral neck dissection (≥16 lymph nodes retrieved). Patients were randomly divided into a training cohort (n = 526) and a validation cohort (n = 226). Feature selection was performed using false discovery rate-based collinearity filtering and random forest recursive feature elimination. Seven machine learning models were developed and compared. SHapley Additive exPlanations (SHAP) were used to improve interpretability.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42235336/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42235335",
-      "title": "Does tooth extraction increase the risk of MRONJ in oncologic Patients? A systematic review and Meta-Analysis.",
-      "authors": [
-        "Giovanni Salzano",
-        "Veronica Scocca",
-        "Marzia Petrocelli",
-        "Lorenzo Lauda",
-        "Jerome R Lechien",
-        "Luigi Angelo Vaira",
-        "Fabio Maglitto",
-        "Giovanni Dell'Aversana Orabona"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "To evaluate the occurrence of MRONJ after tooth extraction in patients with cancer and to explore factors associated with its development. A systematic review was conducted following PRISMA guidelines. PubMed/MEDLINE, the Cochrane Library, Scopus, Embase, and Ovid MEDLINE was conducted for studies published between 1970 and 2026. Studies including oncology patients undergoing tooth extraction while receiving antiresorptive and/or antiangiogenic therapy were considered eligible. A random-effects meta-analysis of proportions was conducted to estimate the pooled occurrence of MRONJ after tooth extraction. Exploratory pooled odds ratios were calculated for selected risk factors. In addition, a random-effects meta-analysis of continuous data was performed to compare bone-modifying agent (BMA) therapy duration between MRONJ-positive and MRONJ-negative patients. Seven studies were included, comprising 497 patients with cancer. The pooled proportion of MRONJ after tooth extraction was 27.6% (95%CI16.0%-43.3%). Exploratory pooled analyses showed no significant association between MRONJ and female sex or chemotherapy. By contrast, patients who developed MRONJ had a significantly longer duration of BMA therapy than those who did not, with a pooled mean difference of 8.38 months (95%CI2.44-14.32). Qualitative synthesis suggested that local infection, inflammatory dental disease, and extraction timing may be more consistently associated with MRONJ risk than tooth extraction alone. MRONJ after tooth extraction is not uncommon in oncology patients. However, the available evidence does not support considering tooth extraction as an isolated and uniformly avoidable trigger. Rather, MRONJ risk appears to be influenced by local infectious burden, timing of extraction, and cumulative BMA exposure.",
-      "objective": "",
-      "study_methods": "A systematic review was conducted following PRISMA guidelines. PubMed/MEDLINE, the Cochrane Library, Scopus, Embase, and Ovid MEDLINE was conducted for studies published between 1970 and 2026. Studies including oncology patients undergoing tooth extraction while receiving antiresorptive and/or antiangiogenic therapy were considered eligible. A random-effects meta-analysis of proportions was conducted to estimate the pooled occurrence of MRONJ after tooth extraction. Exploratory pooled odds ratios were calculated for selected risk factors. In addition, a random-effects meta-analysis of continuous data was performed to compare bone-modifying agent (BMA) therapy duration between MRONJ-positive and MRONJ-negative patients.",
-      "methods": "A systematic review was conducted following PRISMA guidelines. PubMed/MEDLINE, the Cochrane Library, Scopus, Embase, and Ovid MEDLINE was conducted for studies published between 1970 and 2026. Studies including oncology patients undergoing tooth extraction while receiving antiresorptive and/or antiangiogenic therapy were considered eligible. A random-effects meta-analysis of proportions was conducted to estimate the pooled occurrence of MRONJ after tooth extraction. Exploratory pooled odds ratios were calculated for selected risk factors. In addition, a random-effects meta-analysis of continuous data was performed to compare bone-modifying agent (BMA) therapy duration between MRONJ-positive and MRONJ-negative patients.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42235335/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42202950",
-      "title": "From winter flounder to multifunctional applications: A review of pleurocidin-like peptides via visualization and trend analysis.",
-      "authors": [
-        "Zhihe Fu",
-        "Sifei Yang",
-        "Yixin Gao",
-        "Haobin Zhou",
-        "Mingshi Guo",
-        "Janak L Pathak",
-        "Dan Hou"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Pleurocidin is an antimicrobial peptide (AMP) derived from the winter flounder (Pleuronectes americanus), attracting significant attention due to its unique structure and potent bioactivities. However, systematic evaluation and visual analysis of the fundamental knowledge, current status, and trends in this field remain insufficient. This study employs data analysis and visualization techniques to systematically assess the research landscape of pleurocidin-like peptides, aiming to identify current hotspots and forecast future directions. We analyzed 111 relevant publications from the Web of Science Core Citation database (2005-2025) using tools including Scimago Graphica, VOSviewer, and CiteSpace. The quantitative evaluation encompassed annual publication trends, geographical and institutional distribution, collaboration networks, and keyword evolution. China and the United States are identified as the most influential countries, with Kyungpook National University in South Korea as the central hub in the collaborative network. Current research on pleurocidin-like peptides focuses on their diverse biological activities, mechanisms of action, optimized design, and applications, with computer-aided molecular design emerging as a prominent new trend. Current research particularly highlights the biological activities of these peptides, along with their specific mechanisms. In addition, various innovative modification strategies have been proposed for optimizing pleurocidin-like peptides and enhancing their stability, efficacy, and biocompatibility. This work aims to establish a theoretical foundation for advancing the applications of pleurocidin-like peptides in aquaculture, food preservation, and the pharmaceutical industry.",
-      "objective": "to establish a theoretical foundation for advancing the applications of pleurocidin-like peptides in aquaculture, food preservation, and the pharmaceutical industry.",
-      "study_methods": "This study employs data analysis and visualization techniques to systematically assess the research landscape of pleurocidin-like peptides, aiming to identify current hotspots and forecast future directions. We analyzed 111 relevant publications from the Web of Science Core Citation database (2005-2025) using tools including Scimago Graphica, VOSviewer, and CiteSpace. The quantitative evaluation encompassed annual publication trends, geographical and institutional distribution, collaboration networks, and keyword evolution.",
-      "methods": "This study employs data analysis and visualization techniques to systematically assess the research landscape of pleurocidin-like peptides, aiming to identify current hotspots and forecast future directions. We analyzed 111 relevant publications from the Web of Science Core Citation database (2005-2025) using tools including Scimago Graphica, VOSviewer, and CiteSpace. The quantitative evaluation encompassed annual publication trends, geographical and institutional distribution, collaboration networks, and keyword evolution.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42202950/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42173451",
-      "title": "Local drug delivery for oral squamous cell carcinoma under oral cavity.",
-      "authors": [
-        "Muhammad Ruslin",
-        "Jiafu Cao",
-        "Muneeb Ullah",
-        "Juliana Palungan",
-        "Wafiq Azizah",
-        "Resti Cahyani Wa Ode",
-        "Apon Zaenal Mustopa",
-        "Erni Marlina",
-        "Satoshi Uchida",
-        "Jin-Wook Yoo",
-        "Nurhasni Hasan"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Oral squamous cell carcinoma (OSCC) is a leading malignancy within head and neck cancers and is associated with substantial morbidity and mortality. Local drug delivery systems (LDDS) have emerged as an important strategy to increase site-specific drug exposure at oral lesions while limiting systemic distribution and associated toxicity. However, therapeutic success in the oral cavity is constrained by stringent \"hard constraints,\" including continuous salivary flow, enzymatic degradation, pH variability, and mechanical abrasion from chewing and tongue movement, which collectively reduce residence time and destabilize labile payloads. This review synthesizes major LDDS platforms for OSCC, including mucoadhesive films/patches, oral sprays, in situ gelling systems, and injectable hydrogels, and critically analyzes how platform performance is governed by interactions between payload properties (small molecules, biologics, nucleic acids), lesion characteristics (accessibility, geometry, margin control), and patient-centered factors. We highlight the need for decision-oriented frameworks that link clinical scenarios to platform selection and recommend standardized evaluation metrics for retention under salivary flow, resistance to mechanical stress, and biochemical stability in saliva-relevant conditions. Despite rapid progress in materials and delivery technologies, OSCC-specific optimization and translational testing remain limited. Future work should prioritize biocompatible, durable systems capable of maintaining predictable local exposure and controlled release under clinically relevant oral conditions, supported by rigorous preclinical validation and well-designed clinical studies to improve outcomes in OSCC.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42173451/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1796,6 +1827,279 @@
       "figure_urls": []
     },
     {
+      "pmid": "41118513",
+      "title": "The Burden of Cleft Surgery a 36-Year Reflection of Surgical Management of Children With Orofacial Clefts in South Australia.",
+      "authors": [
+        "Emilija D Jensen",
+        "Gustavo Soares",
+        "Steven Cook",
+        "Markus Luke Seifert",
+        "Xiangqun Ju",
+        "Mark Moore",
+        "Rachel Roberts",
+        "Peter J Anderson",
+        "Lisa M Jamieson"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "ObjectiveTo describe the timing of surgeries, characterize the number of surgical and anesthetic events, and describe the total number and timing of cleft-related and ancillary surgical procedures from birth to late adolescence, stratified by cleft subtype and syndrome status.DesignRetrospective, cross-sectional clinical review of medical and surgical records.SettingA tertiary children's hospital with a dedicated Cleft and Craniofacial Surgical Unit in Adelaide, South Australia.ParticipantsChildren aged 0 to 18 years who underwent surgical intervention for orofacial clefts at the Women's and Children's Hospital between 1985 and 2021.InterventionsSurgical management of orofacial clefts and ancillary procedures performed under general anesthesia (GA).Main Outcome Measure(s)Timing and number of cleft-related surgeries; total number of procedures performed under GA; comparisons by syndrome status and cleft subtype.ResultsA total of 746 children were included. The mean age at primary lip repair was 4.8 months, and palate repair was 18.4 months. Alveolar bone grafting was typically performed at a mean age of 129.4 months. Later procedures included lip/nasal revision and orthognathic surgery. The mean number of GA procedures per child was 3.9 (SD ± 3.3), significantly higher in syndromic children (mean 6.5, SD ± 5.3) than nonsyndromic children (mean 3.4, SD ± 2.3). Noncleft-related procedures, such as grommet insertion (45.6%) and dental treatment under GA (28.1%) added to the total surgical burden.ConclusionsChildren with orofacial clefts experience multiple surgical procedures throughout development, especially those with syndromic diagnoses. These findings reinforce the importance of long-term, multidisciplinary planning and provide data to guide cleft care protocols and family support.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "A total of 746 children were included. The mean age at primary lip repair was 4.8 months, and palate repair was 18.4 months. Alveolar bone grafting was typically performed at a mean age of 129.4 months. Later procedures included lip/nasal revision and orthognathic surgery. The mean number of GA procedures per child was 3.9 (SD ± 3.3), significantly higher in syndromic children (mean 6.5, SD ± 5.3) than nonsyndromic children (mean 3.4, SD ± 2.3). Noncleft-related procedures, such as grommet insertion (45.6%) and dental treatment under GA (28.1%) added to the total surgical burden.ConclusionsChildren with orofacial clefts experience multiple surgical procedures throughout development, especially those with syndromic diagnoses. These findings reinforce the importance of long-term, multidisciplinary planning and provide data to guide cleft care protocols and family support.",
+      "conclusion": "Children with orofacial clefts experience multiple surgical procedures throughout development, especially those with syndromic diagnoses. These findings reinforce the importance of long-term, multidisciplinary planning and provide data to guide cleft care protocols and family support.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41118513/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41105733",
+      "title": "Is a Vomer Flap at Primary Palatoplasty Associated With the Formation of a Bony Palatal Bridge?",
+      "authors": [
+        "David Lindon Best",
+        "Merel Dap",
+        "Bonnie L Padwa"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "ObjectiveThe presence of a bony palatal bridge at the time of alveolar cleft grafting has been shown to improve bone graft outcomes. The purpose of this study was to determine if there is an association between palate repair with a vomer flap and formation of a bony palatal bridge in patients with cleft lip and palate.DesignSingle-institution, retrospective cohort study.SettingTertiary children's hospital in an urban setting.PatientsPatients with cleft lip and palate who underwent primary palatoplasty between 1996 and 2017 and had cone beam computed tomography (CBCT) prior to alveolar bone grafting.InterventionsPrimary palatoplasty with or without vomer flap.Main Outcomes Measure(s)The presence of a bony palatal bridge on pre-alveolar bone graft CBCT.ResultsOf 238 patients who underwent primary palatoplasty at a mean age of 10.0 months, 225 (94.5%) had a vomer flap. Bony palatal bridge formation was observed in 128 patients (53.8%) on pre-graft CBCT scans. Among patients with a bony palatal bridge, 121 (94.5%) had a vomer flap at primary palatoplasty. No significant association was found between use of a vomer flap and bony palatal bridge formation (p = 0.996). Secondary analyses demonstrated no significant associations with age at primary palatoplasty (p = 0.157), history of pre-surgical orthopedics (p = 0.777), syndromic status (p = 0.101), or cleft type (p = 0.408).ConclusionsThis study demonstrated that the use of a vomer flap during primary cleft palate repair was not associated with the formation of a bony palatal bridge. Further studies will focus on other factors that may contribute to the etiology of bony palatal bridge formation.",
+      "objective": "of this study was to determine if there is an association between palate repair with a vomer flap and formation of a bony palatal bridge in patients with cleft lip and palate.DesignSingle-institution, retrospective cohort study.SettingTertiary children's hospital in an urban setting.PatientsPatients with cleft lip and palate who underwent primary palatoplasty between 1996 and 2017 and had cone beam computed tomography (CBCT) prior to alveolar bone grafting.InterventionsPrimary palatoplasty with or without vomer flap.Main Outcomes Measure(s)The presence of a bony palatal bridge on pre-alveolar bone graft CBCT.ResultsOf 238 patients who underwent primary palatoplasty at a mean age of 10.0 months, 225 (94.5%) had a vomer flap. Bony palatal bridge formation was observed in 128 patients (53.8%) on pre-graft CBCT scans. Among patients with a bony palatal bridge, 121 (94.5%) had a vomer flap at primary palatoplasty. No significant association was found between use of a vomer flap and bony palatal bridge formation (p = 0.996). Secondary analyses demonstrated no significant associations with age at primary palatoplasty (p = 0.157), history of pre-surgical orthopedics (p = 0.777), syndromic status (p = 0.101), or cleft type (p = 0.408).ConclusionsThis study demonstrated that the use of a vomer flap during primary cleft palate repair was not associated with the formation of a bony palatal bridge. Further studies will focus on other factors that may contribute to the etiology of bony palatal bridge formation.",
+      "study_methods": "",
+      "methods": "",
+      "results": "Of 238 patients who underwent primary palatoplasty at a mean age of 10.0 months, 225 (94.5%) had a vomer flap. Bony palatal bridge formation was observed in 128 patients (53.8%) on pre-graft CBCT scans. Among patients with a bony palatal bridge, 121 (94.5%) had a vomer flap at primary palatoplasty. No significant association was found between use of a vomer flap and bony palatal bridge formation (p = 0.996). Secondary analyses demonstrated no significant associations with age at primary palatoplasty (p = 0.157), history of pre-surgical orthopedics (p = 0.777), syndromic status (p = 0.101), or cleft type (p = 0.408).ConclusionsThis study demonstrated that the use of a vomer flap during primary cleft palate repair was not associated with the formation of a bony palatal bridge. Further studies will focus on other factors that may contribute to the etiology of bony palatal bridge formation.",
+      "conclusion": "This study demonstrated that the use of a vomer flap during primary cleft palate repair was not associated with the formation of a bony palatal bridge. Further studies will focus on other factors that may contribute to the etiology of bony palatal bridge formation.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41105733/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41042943",
+      "title": "Global Increase in Oronasal Fistula Rates Following Cleft Palate Repair: A Systematic Review and Meta-Analysis of Reported Fistula Rates.",
+      "authors": [
+        "Isabel A Ryan",
+        "Nicholas A Han",
+        "Ashley E Chang",
+        "Alvin B Yu",
+        "Philip D Tolley",
+        "Allison C Hu",
+        "Oksana A Jackson",
+        "Scott P Bartlett",
+        "Jesse A Taylor",
+        "Jordan W Swanson"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "ObjectiveOronasal fistula (ONF) rates after primary palatoplasty may be influenced by technique improvements and care expansion. We evaluated the temporal and geospatial patterns of ONF.DesignA systematic review and meta-analysis were performed of publications between January 1960 and November 2024 that reported fistula rate following cleft palate repair.SettingN/A.PatientsPatients with cleft palate.InterventionsPrimary palatoplasty.Main Outcome Measure(s)Fistula rate.Results223 publications with 71,238 patients were included. Median fistula rates decreased from the 1960s (13.9%, n = 2) to the 2000s (4.9%, IQR: 2.9%-11.0%). Fistula rates increased significantly in the 2010s (6.7%, IQR: 2.6-14.0%), and continued to increase in the 2020s (10.7%, IQR: 5.7-20.5%, p = 0.005). Fistula rates among European nations showed the largest increase from the 2000s (4.4%, IQR: 2.0-12.5%) to the 2020s (21.1%, IQR: 12.7-49.4%, p = 0.041).ConclusionsReported fistula incidence declined from reports in the 1960s through the 2000s but has since increased.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "223 publications with 71,238 patients were included. Median fistula rates decreased from the 1960s (13.9%, n = 2) to the 2000s (4.9%, IQR: 2.9%-11.0%). Fistula rates increased significantly in the 2010s (6.7%, IQR: 2.6-14.0%), and continued to increase in the 2020s (10.7%, IQR: 5.7-20.5%, p = 0.005). Fistula rates among European nations showed the largest increase from the 2000s (4.4%, IQR: 2.0-12.5%) to the 2020s (21.1%, IQR: 12.7-49.4%, p = 0.041).ConclusionsReported fistula incidence declined from reports in the 1960s through the 2000s but has since increased.",
+      "conclusion": "Reported fistula incidence declined from reports in the 1960s through the 2000s but has since increased.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41042943/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40990855",
+      "title": "What Factors Affect Safe Bedside Extubation After Mandibular Distraction?",
+      "authors": [
+        "Cory M Resnick",
+        "Andrew J Deek",
+        "Ryan Caprio",
+        "Snigdha Jindal",
+        "Faye Evans",
+        "Raymond Park"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "ObjectiveThere is no universal protocol for extubation following mandibular distraction osteogenesis (MDO) surgery in infants with Robin sequence (RS). The aims of this study were to identify the frequency and contributing factors for reintubation after MDO, to help determine the optimal setting for planned extubation.DesignThis is a retrospective observational study of patients with RS managed with MDO during their first year of life from 2013 to 2021.Main Outcome MeasuresThe primary outcome variable was the need for reintubation <24 h after extubation. A secondary outcome was the frequency of oxygen saturation <95% after extubation.ResultsFifty-two subjects were included. Of these, 31 (59.6%) were male, 43 (82.7%) had a cleft palate, 19 (36.5%) were syndromic, and 24 (46.2%) had ≥1 comorbidity. Extubation was at 3.6 ± 2.4 days after surgery and 1 patient (1.9%) required reintubation. Forty-one (78.8%) had ≥1 transient oxygen desaturation managed with supplemental oxygen (n = 25, 61%) or continuous positive airway pressure (n = 16, 39%). Increased risk for postextubation respiratory events was associated with Stickler syndrome (P = .01), musculoskeletal, neurologic, or endocrine comorbidities (P < .001), low birthweight (P = .044), and high preoperative obstructive Apnea-Hypopnea Index (P = .037).Conclusions and RelevanceReintubation was rare and minor postextubation oxygen desaturations, while common, were readily treated utilizing standard intensive care unit protocols. We conclude that most infants with RS can be safely extubated in their care unit following MDO. This minimizes medical resources, decreases hospital charges, and simplifies patient management compared to returning to the operating room for extubation.",
+      "objective": "of this study were to identify the frequency and contributing factors for reintubation after MDO, to help determine the optimal setting for planned extubation.DesignThis is a retrospective observational study of patients with RS managed with MDO during their first year of life from 2013 to 2021.Main Outcome MeasuresThe primary outcome variable was the need for reintubation <24 h after extubation. A secondary outcome was the frequency of oxygen saturation <95% after extubation.ResultsFifty-two subjects were included. Of these, 31 (59.6%) were male, 43 (82.7%) had a cleft palate, 19 (36.5%) were syndromic, and 24 (46.2%) had ≥1 comorbidity. Extubation was at 3.6 ± 2.4 days after surgery and 1 patient (1.9%) required reintubation. Forty-one (78.8%) had ≥1 transient oxygen desaturation managed with supplemental oxygen (n = 25, 61%) or continuous positive airway pressure (n = 16, 39%). Increased risk for postextubation respiratory events was associated with Stickler syndrome (P = .01), musculoskeletal, neurologic, or endocrine comorbidities (P < .001), low birthweight (P = .044), and high preoperative obstructive Apnea-Hypopnea Index (P = .037).",
+      "study_methods": "",
+      "methods": "",
+      "results": "Fifty-two subjects were included. Of these, 31 (59.6%) were male, 43 (82.7%) had a cleft palate, 19 (36.5%) were syndromic, and 24 (46.2%) had ≥1 comorbidity. Extubation was at 3.6 ± 2.4 days after surgery and 1 patient (1.9%) required reintubation. Forty-one (78.8%) had ≥1 transient oxygen desaturation managed with supplemental oxygen (n = 25, 61%) or continuous positive airway pressure (n = 16, 39%). Increased risk for postextubation respiratory events was associated with Stickler syndrome (P = .01), musculoskeletal, neurologic, or endocrine comorbidities (P < .001), low birthweight (P = .044), and high preoperative obstructive Apnea-Hypopnea Index (P = .037).",
+      "conclusion": "and RelevanceReintubation was rare and minor postextubation oxygen desaturations, while common, were readily treated utilizing standard intensive care unit protocols. We conclude that most infants with RS can be safely extubated in their care unit following MDO. This minimizes medical resources, decreases hospital charges, and simplifies patient management compared to returning to the operating room for extubation.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40990855/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40966057",
+      "title": "Safety and Efficacy of Liposomal Bupivacaine (Exparel",
+      "authors": [
+        "Ryan Korlewitz",
+        "Jason D'John",
+        "Kenneth Shaheen"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Objective: To evaluate the safety and effectiveness of lipsomal bupivacaine (Exparel) in reducing opioid use and facilitating same-day discharge in pediatric patients under age six undergoing cleft lip palate surgery. Design: Retrospective chart review. Setting: Corewell Health East William Beaumont University Hospital, Royal Oak, Michigan. Patients, Participants: Nineteen pediatric patients under age six who underwent primary cleft lip or palate repair by a single reconstructive plastic surgeon between February 2023 and February 2025. Interventions: All patients received intraoperative administration of weight-based Exparel (4 mg/kg) via peripheral nerve blocks (greater or infraorbital) and direct surgical site infiltration. Main Outcome Measure(s): Same day discharge rate, postoperative opioid requirement, and 30-day adverse events including readmission or pain-related follow-up. Results: Seventeen patients (89.5%) were discharged home on the day of surgery. No patients required postoperative opioid prescriptions and no readmissions or pain-related follow-ups occurred within 30 days. There were no immediate or delayed adverse reactions attributed to Exparel. Conclusions: Lipsomal bupivacaine appears to be a safe adjunct for postoperative pain management in cleft lip and palate surgery for pediatric patients under age six. Its use was associated with high same-day discharge rates, complete avoidance of postoperative opioids, and no adverse outcomes. These findings support further prospective studies to confirm Exparel's role in enhancing recovery and minimizing opioid exposure in pediatric craniofacial surgery.",
+      "objective": "To evaluate the safety and effectiveness of lipsomal bupivacaine (Exparel) in reducing opioid use and facilitating same-day discharge in pediatric patients under age six undergoing cleft lip palate surgery. Design: Retrospective chart review. Setting: Corewell Health East William Beaumont University Hospital, Royal Oak, Michigan. Patients, Participants: Nineteen pediatric patients under age six who underwent primary cleft lip or palate repair by a single reconstructive plastic surgeon between February 2023 and February 2025. Interventions: All patients received intraoperative administration of weight-based Exparel (4 mg/kg) via peripheral nerve blocks (greater or infraorbital) and direct surgical site infiltration. Main Outcome Measure(s): Same day discharge rate, postoperative opioid requirement, and 30-day adverse events including readmission or pain-related follow-up.",
+      "study_methods": "",
+      "methods": "",
+      "results": "Seventeen patients (89.5%) were discharged home on the day of surgery. No patients required postoperative opioid prescriptions and no readmissions or pain-related follow-ups occurred within 30 days. There were no immediate or delayed adverse reactions attributed to Exparel.",
+      "conclusion": "Lipsomal bupivacaine appears to be a safe adjunct for postoperative pain management in cleft lip and palate surgery for pediatric patients under age six. Its use was associated with high same-day discharge rates, complete avoidance of postoperative opioids, and no adverse outcomes. These findings support further prospective studies to confirm Exparel's role in enhancing recovery and minimizing opioid exposure in pediatric craniofacial surgery.",
+      "limitations": "",
+      "topics": [
+        "cleft lip and palate surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40966057/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40853340",
+      "title": "Patient Reported Outcomes Pre- and Post-Surgery in Patients With Cleft Lip/Palate: An Assessment of Post-Operative Change Utilizing CLEFT-Q.",
+      "authors": [
+        "Nicholas A Han",
+        "Isabel A Ryan",
+        "Philip D Tolley",
+        "Allison C Hu",
+        "Oksana A Jackson",
+        "David W Low",
+        "Leanne Magee",
+        "Jesse A Taylor",
+        "Eric C Liao",
+        "Jordan W Swanson"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "ObjectiveTo evaluate how patient-reported outcomes change from pre- to post-operation after common procedures in patients with cleft lip and/or palate (CL/P), as well as compared to patients who did not undergo surgery.DesignRetrospective chart review.SettingTertiary care hospital in the United States.PatientsAll patients with CL/P who had multiple CLEFT-Q completions from 2021 to 2025.Main Outcome MeasureCLEFT-Q scores.ResultsTotally, 256 patients with 594 CLEFT-Q responses were included. Sixty (23.4%) patients received 66 craniofacial operations between CLEFT-Q completions. Of these operations, 16 (24.2%) were dental extractions/exposures, 15 (22.7%) rhinoplasties, 10 (15.2%) velopharyngeal insufficiency repairs, 6 (9.1%) alveolar bone grafts, 6 (9.1%) orthognathic surgeries, and 4 (6.1%) oronasal fistula repairs. Surgical patients had lower first CLEFT-Q scores across nearly all domains compared to those in the non-surgical cohort (P < .05). Patients who underwent rhinoplasty (n = 15) demonstrated increased face (64.1 vs 49.6, P = .006), nose (64.8 vs 43.3, P = .003), nostrils (62.0 vs 34.2, P = .001), teeth (59.5 vs 41.3, P = .008), and lips (63.5 vs 48.4, P = .007) scores post-operatively. Jaw scores increased following orthognathic surgery, though this did not reach significance (71.2 vs 55.8, P = .100). No other operation had a statistically significant impact on CLEFT-Q scores (P > .05).ConclusionsPatients who underwent surgery demonstrated improvements in post-operative CLEFT-Q scores compared to patients who did not undergo surgery during this surveyed period. Of those who underwent surgery, rhinoplasty was associated with the most significant improvements in patient facial perception post-operatively.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Totally, 256 patients with 594 CLEFT-Q responses were included. Sixty (23.4%) patients received 66 craniofacial operations between CLEFT-Q completions. Of these operations, 16 (24.2%) were dental extractions/exposures, 15 (22.7%) rhinoplasties, 10 (15.2%) velopharyngeal insufficiency repairs, 6 (9.1%) alveolar bone grafts, 6 (9.1%) orthognathic surgeries, and 4 (6.1%) oronasal fistula repairs. Surgical patients had lower first CLEFT-Q scores across nearly all domains compared to those in the non-surgical cohort (P < .05). Patients who underwent rhinoplasty (n = 15) demonstrated increased face (64.1 vs 49.6, P = .006), nose (64.8 vs 43.3, P = .003), nostrils (62.0 vs 34.2, P = .001), teeth (59.5 vs 41.3, P = .008), and lips (63.5 vs 48.4, P = .007) scores post-operatively. Jaw scores increased following orthognathic surgery, though this did not reach significance (71.2 vs 55.8, P = .100). No other operation had a statistically significant impact on CLEFT-Q scores (P > .05).ConclusionsPatients who underwent surgery demonstrated improvements in post-operative CLEFT-Q scores compared to patients who did not undergo surgery during this surveyed period. Of those who underwent surgery, rhinoplasty was associated with the most significant improvements in patient facial perception post-operatively.",
+      "conclusion": "Patients who underwent surgery demonstrated improvements in post-operative CLEFT-Q scores compared to patients who did not undergo surgery during this surveyed period. Of those who underwent surgery, rhinoplasty was associated with the most significant improvements in patient facial perception post-operatively.",
+      "limitations": "",
+      "topics": [
+        "oral surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40853340/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "40590062",
+      "title": "Pilot Study Evaluating Augmented Reality Craniotomy Guides for Fronto-Orbital Advancement.",
+      "authors": [
+        "David L Best",
+        "Jessica G Li",
+        "Vicky Yau",
+        "Charles Gattie",
+        "Larson Hsu",
+        "Renée M Reynolds",
+        "Thomas M Zervos",
+        "Michael R Markiewicz"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "ObjectiveAugmented reality (AR) has recently emerged as a potential alternative to 3D-printed technology in craniomaxillofacial surgery. The purpose of this study was to evaluate the feasibility and accuracy of AR craniotomy guides for fronto-orbital advancement (FOA) compared to conventional 3D-printed guides.DesignRetrospective comparative study.SettingCleft and craniofacial center at a tertiary children's hospital.Patients3D-printed skull models from 9 patients with metopic or coronal craniosynostosis who underwent FOA between January 2022 and November 2023.InterventionsA novel application was developed to project AR craniotomy guides onto 3D-printed skull models. AR guides were compared to conventional 3D-printed guides by utilizing both guidance modalities. The discrepancy at 8 pre-determined reference points was measured, including bilateral nasofrontal (NF), zygomaticofrontal (ZF), barrel stave (BS), and tenon extension (TE).Main Outcomes MeasureMeasured discrepancy in millimeters between AR guides and 3D-printed guides at the pre-determined reference points.ResultsThe anterior reference points (NF, ZF) had mean discrepancies ranging from 0.31 to 0.61 mm. The posterior points had mean discrepancies ranging from 1.39 to 3.28 mm (BS, TE). There was no statistically significant difference found between the two modalities at any reference point.ConclusionsAR craniotomy guides had a high level of accuracy, particularly at the anterior reference points. AR guides demonstrated feasibility as an alternative to 3D-printed craniotomy guides, in-vitro. Further research is required to translate this novel application to cadaver models and improve precision at posterior landmarks.",
+      "objective": "of this study was to evaluate the feasibility and accuracy of AR craniotomy guides for fronto-orbital advancement (FOA) compared to conventional 3D-printed guides.DesignRetrospective comparative study.SettingCleft and craniofacial center at a tertiary children's hospital.Patients3D-printed skull models from 9 patients with metopic or coronal craniosynostosis who underwent FOA between January 2022 and November 2023.InterventionsA novel application was developed to project AR craniotomy guides onto 3D-printed skull models. AR guides were compared to conventional 3D-printed guides by utilizing both guidance modalities. The discrepancy at 8 pre-determined reference points was measured, including bilateral nasofrontal (NF), zygomaticofrontal (ZF), barrel stave (BS), and tenon extension (TE).Main Outcomes MeasureMeasured discrepancy in millimeters between AR guides and 3D-printed guides at the pre-determined reference points.ResultsThe anterior reference points (NF, ZF) had mean discrepancies ranging from 0.31 to 0.61 mm. The posterior points had mean discrepancies ranging from 1.39 to 3.28 mm (BS, TE). There was no statistically significant difference found between the two modalities at any reference point.ConclusionsAR craniotomy guides had a high level of accuracy, particularly at the anterior reference points. AR guides demonstrated feasibility as an alternative to 3D-printed craniotomy guides, in-vitro. Further research is required to translate this novel application to cadaver models and improve precision at posterior landmarks.",
+      "study_methods": "",
+      "methods": "",
+      "results": "The anterior reference points (NF, ZF) had mean discrepancies ranging from 0.31 to 0.61 mm. The posterior points had mean discrepancies ranging from 1.39 to 3.28 mm (BS, TE). There was no statistically significant difference found between the two modalities at any reference point.ConclusionsAR craniotomy guides had a high level of accuracy, particularly at the anterior reference points. AR guides demonstrated feasibility as an alternative to 3D-printed craniotomy guides, in-vitro. Further research is required to translate this novel application to cadaver models and improve precision at posterior landmarks.",
+      "conclusion": "AR craniotomy guides had a high level of accuracy, particularly at the anterior reference points. AR guides demonstrated feasibility as an alternative to 3D-printed craniotomy guides, in-vitro. Further research is required to translate this novel application to cadaver models and improve precision at posterior landmarks.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40590062/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42410039",
+      "title": "Feasibility of CBCT-based deep learning for predicting 3D soft tissue changes after orthognathic surgery in skeletal class III patients.",
+      "authors": [
+        "Hyunmi Jo",
+        "Hyeonwoo Kim",
+        "Joo-Young Ohe",
+        "Baek-Soo Lee",
+        "Byung-Joon Choi",
+        "Jehyeok Rew",
+        "Jun-Young Kim"
+      ],
+      "publication_date": "2026-Jul-06",
+      "publication_date_iso": "2026-07-06",
+      "abstract": "This study aimed to evaluate the feasibility of a cone-beam computed tomography (CBCT)-based deep learning (DL) model for predicting three-dimensional (3D) soft tissue changes following orthognathic surgery in skeletal Class III patients. 3D facial soft tissue meshes of 70 patients were reconstructed from preoperative and 1-year postoperative CBCT data by segmenting the facial region and applying a hollowing process. Soft tissue surface curvatures were simplified to generate 3D coordinate data, which were combined with surgical parameters as inputs for the DL model. A total of 64 patients were used for training, and the remaining six patients were reserved an independent test set. The model demonstrated overall agreement between estimated and postoperative meshes, with relatively better performance in the mandibular setback region, particularly at Pog' and Me', and reduced accuracy in anatomically complex areas including Ala_L, Sn, and Sto. Vector distance analysis revealed region-dependent discrepancies, indicating that estimation precision varied according to local anatomical complexity. Despite the small, single-center cohort, this study supports the feasibility of CBCT-based DL approach for predicting postoperative 3D soft tissue changes. The proposed framework may facilitate visualization of patient-specific facial soft tissue changes based on planned skeletal movements, pending further validation in larger and more diverse populations.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42410039/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42405650",
+      "title": "Combination of Active and Passive Orthodontic Appliances for Treatment of Linguoverted Mandibular Canine Teeth in 2 Shiba Inu Dogs.",
+      "authors": [
+        "Izzie Yi-Chin Tsai",
+        "Cedric Tutt"
+      ],
+      "publication_date": "2026-Jul-06",
+      "publication_date_iso": "2026-07-06",
+      "abstract": "Linguoverted mandibular canine (LMC) teeth are a common form of malocclusion in dogs. If left untreated, contact between the mandibular canine tooth crown tips and the palatal mucosa can result in ulceration, inflammation, infection, and potentially the formation of an oronasal fistula. Various treatment modalities have been described, including both active and passive orthodontic techniques. This report describes the combined use of an active appliance (elastic power chain) and a passive appliance (inclined plane) for the correction of unilateral and bilateral LMC teeth in 2 Shiba Inu dogs. Treatment duration was approximately 60 days in both cases, and follow-up examinations confirmed stable, functional, and atraumatic occlusion. This combined approach may represent an effective and safe treatment option for achieving self-retaining occlusion in similar cases.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "in ulceration, inflammation, infection, and potentially the formation of an oronasal fistula. Various treatment modalities have been described, including both active and passive orthodontic techniques. This report describes the combined use of an active appliance (elastic power chain) and a passive appliance (inclined plane) for the correction of unilateral and bilateral LMC teeth in 2 Shiba Inu dogs. Treatment duration was approximately 60 days in both cases, and follow-up examinations confirmed stable, functional, and atraumatic occlusion. This combined approach may represent an effective and safe treatment option for achieving self-retaining occlusion in similar cases.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42405650/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42405520",
+      "title": "Comparison of Trends in Treatment Age and Complications After Primary Cleft Lip and Palate Surgery Between Comprehensive and Non Comprehensive Cleft Centers.",
+      "authors": [
+        "Andi Setiawan Budihardja",
+        "Richard Nathaniel",
+        "Radzikra Azahra Gustam",
+        "Aneizza Danya Puteri Roberto"
+      ],
+      "publication_date": "2026-Jul-06",
+      "publication_date_iso": "2026-07-06",
+      "abstract": "ObjectiveCleft lip and palate is the most common craniofacial birth defect. Timely primary cleft surgery is important to achieve good esthetic and speech outcomes and to prevent complications. The aim of this study was to compare outcomes between patients undergoing surgery at a comprehensive cleft center (CCC) and non-CCCs.DesignRetrospective comparative study.SettingsOne CCC and non-CCCs in 5 cities.Patients and InterventionThe study included 300 children who underwent primary cleft surgery at the participating centers between 2020 and 2024.Main Outcome MeasuresThe age at primary cleft surgery, length of hospital stay (LoS), and complications.ResultsPrimary cleft-lip and cleft-palate surgery was delayed in >50% and >60% of patients in the non-CCC group, respectively, which was significantly different compared to the rates in the CCC group. LoS was significantly shorter in the non-CCC group (P = .001). Complications such as bleeding, dehiscence, and return to the operating room after primary cleft surgery were significantly more common in the non-CCC group (P < .01)ConclusionThis study offers an insight into the timing of cleft lip and palate surgery, epidemiology, complication rates, and LoS in CCC and non-CCC settings in Indonesia. The frequency of delayed primary cleft lip and palate surgery and complication rates were significantly higher in non-CCC than in CCC settings. Therefore, strengthening cleft-care infrastructure in remote regions through multidisciplinary training, standardized operative protocols, and improved logistical support is essential to reduce disparities and ensure sustainability.",
+      "objective": "of this study was to compare outcomes between patients undergoing surgery at a comprehensive cleft center (CCC) and non-CCCs.DesignRetrospective comparative study.SettingsOne CCC and non-CCCs in 5 cities.Patients and InterventionThe study included 300 children who underwent primary cleft surgery at the participating centers between 2020 and 2024.Main Outcome MeasuresThe age at primary cleft surgery, length of hospital stay (LoS), and complications.ResultsPrimary cleft-lip and cleft-palate surgery was delayed in >50% and >60% of patients in the non-CCC group, respectively, which was significantly different compared to the rates in the CCC group. LoS was significantly shorter in the non-CCC group (P = .001). Complications such as bleeding, dehiscence, and return to the operating room after primary cleft surgery were significantly more common in the non-CCC group (P < .01)ConclusionThis study offers an insight into the timing of cleft lip and palate surgery, epidemiology, complication rates, and LoS in CCC and non-CCC settings in Indonesia. The frequency of delayed primary cleft lip and palate surgery and complication rates were significantly higher in non-CCC than in CCC settings. Therefore, strengthening cleft-care infrastructure in remote regions through multidisciplinary training, standardized operative protocols, and improved logistical support is essential to reduce disparities and ensure sustainability.",
+      "study_methods": "",
+      "methods": "",
+      "results": "Primary cleft-lip and cleft-palate surgery was delayed in >50% and >60% of patients in the non-CCC group, respectively, which was significantly different compared to the rates in the CCC group. LoS was significantly shorter in the non-CCC group (P = .001). Complications such as bleeding, dehiscence, and return to the operating room after primary cleft surgery were significantly more common in the non-CCC group (P < .01)ConclusionThis study offers an insight into the timing of cleft lip and palate surgery, epidemiology, complication rates, and LoS in CCC and non-CCC settings in Indonesia. The frequency of delayed primary cleft lip and palate surgery and complication rates were significantly higher in non-CCC than in CCC settings. Therefore, strengthening cleft-care infrastructure in remote regions through multidisciplinary training, standardized operative protocols, and improved logistical support is essential to reduce disparities and ensure sustainability.",
+      "conclusion": "This study offers an insight into the timing of cleft lip and palate surgery, epidemiology, complication rates, and LoS in CCC and non-CCC settings in Indonesia. The frequency of delayed primary cleft lip and palate surgery and complication rates were significantly higher in non-CCC than in CCC settings. Therefore, strengthening cleft-care infrastructure in remote regions through multidisciplinary training, standardized operative protocols, and improved logistical support is essential to reduce disparities and ensure sustainability.",
+      "limitations": "",
+      "topics": [
+        "cleft lip and palate surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42405520/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42400287",
       "title": "Pharyngeal Airway Changes Following Bimaxillary Orthognathic Surgery in Asian Patients.",
       "authors": [
@@ -1818,6 +2122,32 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42400287/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42402755",
+      "title": "Effect of Medication Intake on Dental Implant-Related Outcomes-A Scoping Review.",
+      "authors": [
+        "Alberto Monje",
+        "Maria Costanza Soldini",
+        "Emilio Couso-Queiruga",
+        "Álvaro Babiano",
+        "Vivianne Chappuis"
+      ],
+      "publication_date": "2026-Jul-05",
+      "publication_date_iso": "2026-07-05",
+      "abstract": "The objective of this scoping review was to evaluate the effect of systemic medications on dental implant outcomes in medically compromised patients. Electronic and manual searches were conducted for this scoping review. Clinical studies reporting on systemic medication intake and implant outcomes were eligible. Studies reporting on the use of antiresorptive medications were not included in this scoping review. Qualitative evaluation was performed as meta-analysis was not feasible due to study heterogeneity. Overall, 51 studies met the inclusion criteria and were eligible for assessment. Six medications were identified to potentially impact the short- and long-term implant outcomes. In total, 8 studies reported the intake of anti-hypertensives (AHTNs), 9 studies reported the intake of anticoagulants (ACs), 12 studies reported the intake of immunosuppressants (IMNs), 11 studies reported the intake of nonsteroidal anti-inflammatories (NSAIDs), 12 studies reported the intake of proton-pump inhibitors (PPIs), and 12 studies reported the intake of selective serotonin reuptake inhibitors (SSRIs). Moreover, 1 study reported pooled data regarding the use of PPIs, SSRIs, AHTNs, and statins. From these, the following results were drawn: ACs, long-term NSAID use, prolonged use of PPIs, and SSRIs are associated with increased risk of implant failure and/or marginal bone loss. Additionally, AHTNs and IMNs have no effect on implant-related outcomes. Medication-related biological implant complications are underreported in the literature. Medication intake can significantly influence implant-related outcomes.",
+      "objective": "of this scoping review was to evaluate the effect of systemic medications on dental implant outcomes in medically compromised patients. Electronic and manual searches were conducted for this scoping review. Clinical studies reporting on systemic medication intake and implant outcomes were eligible. Studies reporting on the use of antiresorptive medications were not included in this scoping review. Qualitative evaluation was performed as meta-analysis was not feasible due to study heterogeneity. Overall, 51 studies met the inclusion criteria and were eligible for assessment. Six medications were identified to potentially impact the short- and long-term implant outcomes. In total, 8 studies reported the intake of anti-hypertensives (AHTNs), 9 studies reported the intake of anticoagulants (ACs), 12 studies reported the intake of immunosuppressants (IMNs), 11 studies reported the intake of nonsteroidal anti-inflammatories (NSAIDs), 12 studies reported the intake of proton-pump inhibitors (PPIs), and 12 studies reported the intake of selective serotonin reuptake inhibitors (SSRIs). Moreover, 1 study reported pooled data regarding the use of PPIs, SSRIs, AHTNs, and statins. From these, the following",
+      "study_methods": "Electronic and manual searches were conducted for this scoping review. Clinical studies reporting on systemic medication intake and implant outcomes were eligible. Studies reporting on the use of antiresorptive medications were not included in this scoping review. Qualitative evaluation was performed as meta-analysis was not feasible due to study heterogeneity.",
+      "methods": "Electronic and manual searches were conducted for this scoping review. Clinical studies reporting on systemic medication intake and implant outcomes were eligible. Studies reporting on the use of antiresorptive medications were not included in this scoping review. Qualitative evaluation was performed as meta-analysis was not feasible due to study heterogeneity.",
+      "results": "were drawn: ACs, long-term NSAID use, prolonged use of PPIs, and SSRIs are associated with increased risk of implant failure and/or marginal bone loss. Additionally, AHTNs and IMNs have no effect on implant-related outcomes. Medication-related biological implant complications are underreported in the literature. Medication intake can significantly influence implant-related outcomes.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402755/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2566,120 +2896,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42263747",
-      "title": "Development of 3D",
-      "authors": [
-        "Ghannaa Shayya",
-        "Olivier Chassande",
-        "Lynn Kawtharany",
-        "Clara Cretet-Rodeschini",
-        "Makoto Miyara",
-        "Anne-Aurélie Raymond",
-        "Jean-William Dupuy",
-        "Cyril Dourthe",
-        "Anne Lise Chopard Lallier",
-        "Marie-Laure Stachowicz",
-        "Sylvain Catros"
-      ],
-      "publication_date": "2026-Jul-01",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Dental implant osseointegration is the process by which these medical devices integrate within bone. Because of the significant failure rate of dental implant osseointegration in the long term, specific models designed to better understand this process are needed. Current limitations related toin vivomodels justify the development ofin vitrosubstitutes. The aim of this study was to develop a 3Din vitromineralized bone model to reproduce dental implant osseointegration. To achieve this, we started by fabricating a 3D mineralized hydrogel-basedin vitromodel and characterizing it for mineralization, osteogenic differentiation, cell-deposited extracellular matrix (ECM), and inflammatory markers. Immortalized human mesenchymal stem cells were embedded in a methacrylated collagen-hyaluronic acid gel matrix and cultured in osteogenic differentiation medium with elevated calcium concentration. The model exhibited early mineralization, deposition of minerals in a spherical form and expression of osteogenic differentiation markers. Proteomic profiling revealed a collagen-rich ECM with enrichment of type I collagen. Additionally, there was enrichment of signaling pathways involved in osteogenic differentiation. This hydrogel-based model was further integrated into a 3D-printed polylactic acid scaffold with a dental implant as anin vitroplatform to study dental implant osseointegration. We demonstrated cellular migration, matrix deposition, and initiation of mineralization on dental implants with two different surface roughnesses. Additionally, a sensitive pull-out test was specifically developed for the model to detect the attachments initiated by the cells. Therefore, the developed model has strong potential to revolutionize dental implant screening by bridging the gap between 2Din vitromodels andin vivomodels.",
-      "objective": "of this study was to develop a 3Din vitromineralized bone model to reproduce dental implant osseointegration. To achieve this, we started by fabricating a 3D mineralized hydrogel-basedin vitromodel and characterizing it for mineralization, osteogenic differentiation, cell-deposited extracellular matrix (ECM), and inflammatory markers. Immortalized human mesenchymal stem cells were embedded in a methacrylated collagen-hyaluronic acid gel matrix and cultured in osteogenic differentiation medium with elevated calcium concentration. The model exhibited early mineralization, deposition of minerals in a spherical form and expression of osteogenic differentiation markers. Proteomic profiling revealed a collagen-rich ECM with enrichment of type I collagen. Additionally, there was enrichment of signaling pathways involved in osteogenic differentiation. This hydrogel-based model was further integrated into a 3D-printed polylactic acid scaffold with a dental implant as anin vitroplatform to study dental implant osseointegration. We demonstrated cellular migration, matrix deposition, and initiation of mineralization on dental implants with two different surface roughnesses. Additionally, a sensitive pull-out test was specifically developed for the model to detect the attachments initiated by the cells. Therefore, the developed model has strong potential to revolutionize dental implant screening by bridging the gap between 2Din vitromodels andin vivomodels.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42263747/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42241842",
-      "title": "Association between psychosomatic factors and dental care utilization: A cross-sectional study.",
-      "authors": [
-        "Barbara Kirnbauer",
-        "Omid Fakheran",
-        "Alina Irimia",
-        "Christian Fazekas"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Psychosomatic factors such as mental well-being, sleep quality, and satisfaction with social life play a key role in both general and oral health, but their association with the use of dental services has not yet been sufficiently investigated. The aim of this study was to examine the psychosomatic well-being of dental patients. For this purpose, the Psychosomatic Assessment Health Disc (PAHD) was applied, and two patient groups were compared: a group of individuals who attended scheduled dental appointments and a group of emergency dental care users. A total of 232 study participants aged 25 to 50 took part in this study at the University Clinic for Dentistry and Oral Health at Medical University of Graz. The group with scheduled appointments comprised 126 study participants, while the group with emergency treatment consisted of 106 participants. Results showed that patients with scheduled appointments had higher satisfaction with sleep as compared to participants in the urgent care group. In the overall sample, women expressed lower satisfaction with mental and physical well-being than men. In this sample, age was not associated with psychosomatic well-being. Additionally, individuals with a history of mental illness (8.2%) reported lower satisfaction in all PAHD domains except sleep. These findings highlight a link between psychosomatic well-being and forms of dental care use. Further research should investigate potential benefits of an integrated approach in dental practice, which also takes mental and social health into account.",
-      "objective": "of this study was to examine the psychosomatic well-being of dental patients. For this purpose, the Psychosomatic Assessment Health Disc (PAHD) was applied, and two patient groups were compared: a group of individuals who attended scheduled dental appointments and a group of emergency dental care users. A total of 232 study participants aged 25 to 50 took part in this study at the University Clinic for Dentistry and Oral Health at Medical University of Graz. The group with scheduled appointments comprised 126 study participants, while the group with emergency treatment consisted of 106 participants.",
-      "study_methods": "",
-      "methods": "",
-      "results": "showed that patients with scheduled appointments had higher satisfaction with sleep as compared to participants in the urgent care group. In the overall sample, women expressed lower satisfaction with mental and physical well-being than men. In this sample, age was not associated with psychosomatic well-being. Additionally, individuals with a history of mental illness (8.2%) reported lower satisfaction in all PAHD domains except sleep. These findings highlight a link between psychosomatic well-being and forms of dental care use. Further research should investigate potential benefits of an integrated approach in dental practice, which also takes mental and social health into account.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42241842/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42234335",
-      "title": "Topographical Relationship Between the Plexus Pelvinus and Pelvic Peritoneal Reflections in Male Beagles.",
-      "authors": [
-        "Motoharu Oishi",
-        "Hirohumi Kasai",
-        "Tokuhiro Eguchi",
-        "Nobutsune Ichihara"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "This study aimed to clarify the anatomical location of the plexus pelvinus in male Beagles and to determine whether the caudal end of the pelvic peritoneal reflection can offer a practical landmark for identifying this plexus. Gross anatomical examination of the pelvic cavity was performed in three male Beagle cadavers by sequential dissection from a lateral approach. The fossa pararectalis, excavatio rectogenitalis, excavatio vesicogenitalis, and excavatio pubovesicalis were identified by direct examination of the pelvic peritoneum and its reflections, and spatial relationships to the N. hypogastricus, N. pelvinus, plexus pelvinus, and rectal branches were assessed. The morphology of the pelvic peritoneum was similar in all specimens, and all four recesses were consistently identified. The plexus pelvinus was formed by convergence of the N. hypogastricus and N. pelvinus and was located beneath the parietal peritoneum facing the excavatio rectogenitalis and fossa pararectalis at the level of the prostata. The cranial end was at the level of the ampulla ductus deferentis and the caudal end was at the caudal end of the prostata. Rectal branches coursed caudally beneath the parietal peritoneum along the excavatio rectogenitalis and entered the rectum from the ventral aspect. These findings indicate that, in male Beagles, the excavatio rectogenitalis and prostata represent practical anatomical landmarks for identifying the plexus pelvinus and provide a clearer anatomical basis for topographical interpretation of the male canine pelvis.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42234335/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42161047",
-      "title": "Dental Pain in Emergency Department Patients: Utilizing Point-of-Care Ultrasound for Dental Abscess Detection.",
-      "authors": [
-        "Kelly Goodsell",
-        "Kaylah Maloney",
-        "Anna Marie Chang",
-        "Resa E Lewiss",
-        "Zachary Risler",
-        "Mark Magee",
-        "Rishi Kalwani",
-        "Daniel Mirsch",
-        "Matthew Cervantes",
-        "Jason Matthew Fields",
-        "Arthur Au"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Dental infections are common and patients with dental abscesses (DA) often require emergency department (ED) incision and drainage (I&D). Computed tomography (CT) is frequently used to diagnose DA but has drawbacks. We sought to measure the accuracy of point-of-care ultrasound (POCUS) in identifying ED patients with DA compared to CT. A prospective, observational, convenience study of adults presenting to the ED with atraumatic dental pain and facial swelling. Patients were approached for enrollment if the treating physician suspected DA and ordered a CT scan of the face. Patients with airway or hemodynamic compromise were excluded. Enrolled patients had POCUS examinations of the face performed by blinded faculty while awaiting CT. These were interpreted as abscess versus no abscess and retrospectively compared with concurrent CT. The medical record was reviewed for subsequent ED visits and oral surgery follow-up within 30 days. A total of 29 patients were included in the final analysis. POCUS examinations were performed by 7 physicians. 66% of patients were female, 45% Caucasian. The sensitivity of POCUS for identifying DA was 1 (95% CI: 0.74-1), specificity 0.35 (95% CI: 0.13-0.64), PPV 0.63 and NPV 1. Nine patients had a DA on POCUS but only phlegmon or cellulitis on CT. One of these 9 patients had I&D yielding pus despite equivocal CT, and 2 others returned to the ED within 2 days with repeat CT showing definitive DA. Preliminary data suggests POCUS is highly sensitive, but less specific compared to CT for evaluating suspected DA in ED patients.",
-      "objective": "",
-      "study_methods": "A prospective, observational, convenience study of adults presenting to the ED with atraumatic dental pain and facial swelling. Patients were approached for enrollment if the treating physician suspected DA and ordered a CT scan of the face. Patients with airway or hemodynamic compromise were excluded. Enrolled patients had POCUS examinations of the face performed by blinded faculty while awaiting CT. These were interpreted as abscess versus no abscess and retrospectively compared with concurrent CT. The medical record was reviewed for subsequent ED visits and oral surgery follow-up within 30 days.",
-      "methods": "A prospective, observational, convenience study of adults presenting to the ED with atraumatic dental pain and facial swelling. Patients were approached for enrollment if the treating physician suspected DA and ordered a CT scan of the face. Patients with airway or hemodynamic compromise were excluded. Enrolled patients had POCUS examinations of the face performed by blinded faculty while awaiting CT. These were interpreted as abscess versus no abscess and retrospectively compared with concurrent CT. The medical record was reviewed for subsequent ED visits and oral surgery follow-up within 30 days.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42161047/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42115113",
       "title": "Social media insights into patient perceptions of orthognathic surgery.",
       "authors": [
@@ -2754,39 +2970,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42097919/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42056780",
-      "title": "Identifying modifiable perioperative risk factors for wound healing complications after immediate autologous breast reconstruction.",
-      "authors": [
-        "Thomas Schaschinger",
-        "Tobias Niederegger",
-        "Jule Brandt",
-        "Samuel Knoedler",
-        "Elif Koçak",
-        "Giuseppe Sofo",
-        "Mahmut Öztürk",
-        "Simon Mayer",
-        "Alen Palackic",
-        "Dennis P Orgill",
-        "Adriana C Panayi",
-        "Gabriel Hundeshagen"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Autologous breast reconstruction (ABR) offers superior aesthetics but carries significant risks of wound healing complications. We aimed to identify modifiable perioperative factors associated with these complications to optimize surgical outcomes. We analyzed the ACS-NSQIP database (2011-2022) for patients undergoing immediate ABR. Multivariable regression identified independent associations with 30-day wound complications. Among 7489 patients, wound complications occurred 634 times: superficial surgical site infection (SSSI, n = 358), deep incisional infection (DII, n = 87), dehiscence (n = 126), and organ space infection (OSI, n = 63). Higher BMI was significantly associated with all wound complication types (OR 1.1; p ≤ 0.001). Smoking was independently associated with SSSI (OR 1.6; p = 0.024) and DII (OR 2.3; p = 0.033). Diabetes (OR 3.3; p < 0.001) and dyspnea (OR 3.6; p = 0.022) were significantly associated with increased OSI risk. Wound class >1 was associated with SSSI (OR 1.5) and DII (OR 2.4). BMI, smoking, and diabetes are critical and potentially modifiable risk factors associated with wound complications in ABR. Preoperative optimization could reduce these adverse events and improve reconstructive success.",
-      "objective": "",
-      "study_methods": "We analyzed the ACS-NSQIP database (2011-2022) for patients undergoing immediate ABR. Multivariable regression identified independent associations with 30-day wound complications.",
-      "methods": "We analyzed the ACS-NSQIP database (2011-2022) for patients undergoing immediate ABR. Multivariable regression identified independent associations with 30-day wound complications.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42056780/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2870,39 +3053,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42017497",
-      "title": "Deep Caries Management: EFCD-ESE-ORCA S3-Level Clinical Practice Guideline.",
-      "authors": [
-        "Falk Schwendicke",
-        "Esra Kosan",
-        "Avijit Banerjee",
-        "Aylin Baysan",
-        "Lars Bjørndal",
-        "Laura Ceballos",
-        "Henry F Duncan",
-        "Sascha Herbst",
-        "Klaus W Neuhaus",
-        "Anne C O'Connell",
-        "Sebastian Paris",
-        "Helena Dujic"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "To develop an evidence-based S3-level clinical practice guideline for the management of deep and extremely deep caries in vital permanent teeth. An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA) and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesised and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal and Caries Research journals' websites. Evidence supports selective (SE) or stepwise caries removal (SW) over non-selective removal (NSE) to reduce the risk of pulp exposure in deep caries. Routine use of cavity liners after caries removal showed no consistent clinical benefit and is not routinely recommended. For vital pulp therapy following pulp exposure, both direct pulp capping and pulpotomy are effective options in teeth without irreversible pulpitis, while pulpotomy is an acceptable alternative to pulpectomy in cases with signs of irreversible pulpitis. Hydraulic calcium silicate cements demonstrated superior clinical outcomes compared to calcium hydroxide and should be preferred for pulp capping and pulpotomy. The certainty of evidence ranged from very low to moderate across questions and outcomes. For deep caries, maintaining pulp vitality by using less invasive management strategies is supported by current evidence. Implementation of this guideline requires clinician training, patient-centered decision-making and consideration of economic and practical factors. Further research is needed, particularly for extremely deep caries and towards long-term outcomes.",
-      "objective": "",
-      "study_methods": "An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA) and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesised and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal and Caries Research journals' websites.",
-      "methods": "An evidence-based medical guideline based on systematically searched and appraised evidence as well as a structured consensus (S3-level) was jointly developed by the European Federation of Conservative Dentistry (EFCD), the European Society of Endodontology (ESE), the Organization for Caries Research (ORCA) and the German Society of Conservative Dentistry (DGZ), following the methodological framework of the Association of Scientific Medical Societies in Germany (AWMF) and the GRADE approach. Four working groups formulated key clinical questions regarding (1) caries removal strategies, (2) cavity liners, (3) management of exposed pulps and (4) materials for direct pulp capping and pulpotomy. Systematic reviews were conducted for each question, and evidence was synthesised and graded for quality. A structured consensus process was used to formulate recommendations. In order to encourage its wide dissemination, this article is freely accessible on Clinical Oral Investigations, International Endodontic Journal and Caries Research journals' websites.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42017497/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42007935",
       "title": "Evaluation of pharyngeal airway volume, soft-tissue changes, and risk of obstructive sleep apnea after bimaxillary orthognathic surgery in patients with skeletal Class III malocclusion using cone-beam computed tomography and the STOP-BANG questionnaire: A long-term study.",
       "authors": [
@@ -2951,64 +3101,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42000655/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41992730",
-      "title": "Lip Melanoma: A Systematic Review of the Literature.",
-      "authors": [
-        "José Alcides Almeida de Arruda",
-        "Isis Samara de Melo Queiroga",
-        "Victor Zanetti Drumond",
-        "Lauren Frenzel Schuch",
-        "João Luiz Gomes Carneiro Monteiro",
-        "Tarcília Aparecida Silva",
-        "Gerhilde Callou Sampaio",
-        "Bruno Augusto Benevenuto de Andrade"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "Lip melanoma is a rare malignant neoplasm arising at the cutaneous-mucosal interface, and its clinicopathologic profile remains insufficiently characterized. We conducted a systematic review to synthesize current evidence on its epidemiology, clinicopathological features, management, and outcomes. Electronic searches were performed in PubMed, Scopus, Embase, Web of Science, and LILACS, supplemented by manual scrutiny and gray-literature sources. Case reports and case series were included. Data were analyzed descriptively and analytically. Forty-three studies describing 139 affected individuals were included. Individuals were predominantly male (71.2%), with a mean age of 51.1 years. Most lesions involved the lower lip (63.8%) and presented clinically as pigmented, nodular, and frequently ulcerated lesions; approximately 8% were amelanotic. Histopathologic patterns included superficial spreading, lentiginous, nodular, desmoplastic, and neurotropic melanoma. Surgery was the mainstay therapeutic modality, often requiring labial reconstruction. Local recurrence occurred in 25.9% of cases and distant metastasis in 38.8%. Crude overall survival was approximately 48%, whereas Kaplan-Meier analysis demonstrated an estimated 5-year survival of 74%. This first review of lip melanoma underscores the need for tailored management strategies. Continued accumulation of standardized clinicopathological data remains essential to refine prognostic stratification and guide clinical decision-making.",
-      "objective": "",
-      "study_methods": "Electronic searches were performed in PubMed, Scopus, Embase, Web of Science, and LILACS, supplemented by manual scrutiny and gray-literature sources. Case reports and case series were included. Data were analyzed descriptively and analytically.",
-      "methods": "Electronic searches were performed in PubMed, Scopus, Embase, Web of Science, and LILACS, supplemented by manual scrutiny and gray-literature sources. Case reports and case series were included. Data were analyzed descriptively and analytically.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41992730/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41985737",
-      "title": "Impact of artificial intelligence-based automated segmentation on the accuracy of robotic computer-aided implant surgery: a retrospective study.",
-      "authors": [
-        "Ningbo Zhao",
-        "Rongrong Zhu",
-        "Jianfei Liang",
-        "Wen Long",
-        "Lifan Liao",
-        "Zhaoli Meng",
-        "Longlong He",
-        "Qin Zhou"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "This retrospective study aimed to evaluate the impact of artificial intelligence (AI)-based automated segmentation (AS) on the accuracy of robotic computer-aided implant surgery (r-CAIS). Patients who underwent r-CAIS were enrolled. Preoperative CBCT images were segmented using either threshold-based SS approach (SS group) or the AI-based AS approach (AS group). Osteotomy preparation and implant placement were performed using a semi-active robot. Registration errors and deviations between planned and postoperatively placed implant positions were calculated. Intergroup comparisons were performed using Wilcoxon Mann-Whitney U tests, with P < 0.05 considered significant. A total of 140 patients (79 females, 61 males) receiving 224 implants were included (SS group: 69 patients, 107 implants; AS group: 71 patients, 117 implants). The registration error in the AS group (0.10 ± 0.04 mm) was significantly lower than that in the SS group (0.12 ± 0.04 mm) (P < 0.05). The AS group demonstrated lower deviations at the platform (0.51 ± 0.16 vs.0.56 ± 0.18 mm), apex (0.60 ± 0.23 vs. 0.66 ± 0.23 mm), and angulation (1.13 ± 0.59° vs. 1.19 ± 0.53°), with a statistically significant difference observed in global platform deviation (P < 0.05). r-CAIS demonstrated consistently high accuracy, which was further improved by AI-based AS. This improvement may be associated with enhanced registration precision achieved through AI-based AS. These findings support the potential clinical application of AI-based AS in r-CAIS.",
-      "objective": "",
-      "study_methods": "Patients who underwent r-CAIS were enrolled. Preoperative CBCT images were segmented using either threshold-based SS approach (SS group) or the AI-based AS approach (AS group). Osteotomy preparation and implant placement were performed using a semi-active robot. Registration errors and deviations between planned and postoperatively placed implant positions were calculated. Intergroup comparisons were performed using Wilcoxon Mann-Whitney U tests, with P < 0.05 considered significant.",
-      "methods": "Patients who underwent r-CAIS were enrolled. Preoperative CBCT images were segmented using either threshold-based SS approach (SS group) or the AI-based AS approach (AS group). Osteotomy preparation and implant placement were performed using a semi-active robot. Registration errors and deviations between planned and postoperatively placed implant positions were calculated. Intergroup comparisons were performed using Wilcoxon Mann-Whitney U tests, with P < 0.05 considered significant.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41985737/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3097,34 +3189,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41954541/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41945298",
-      "title": "ASO Visual Abstract: Reducing Plastic Surgery's Silicone Footprint-Modeling Shipping Costs for Breast Implants and Tissue Expanders.",
-      "authors": [
-        "Tara D Thomason",
-        "Jenny A Foster",
-        "Chanel R Varney",
-        "Alexandria M Mullikin",
-        "J Andres Hernandez",
-        "Pranav N Haravu",
-        "Brett T Phillips"
-      ],
-      "publication_date": "2026-Jul",
-      "publication_date_iso": "2026-07-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41945298/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3418,82 +3482,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42376830/",
       "pmcid": "PMC13316843",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42374373",
-      "title": "Evaluation of stress distribution in different fixation techniques following bilateral sagittal split osteotomy: three-dimensional finite element analysis.",
-      "authors": [
-        "Mehdi Gholamian",
-        "Mahshid Razavi",
-        "Ali Rohani",
-        "Hossein Ebrahimi",
-        "Saeed Shirafkan"
-      ],
-      "publication_date": "2026-Jun-30",
-      "publication_date_iso": "2026-06-30",
-      "abstract": "The choice of fixation technique following bilateral sagittal split osteotomy (BSSO) plays a critical role in postoperative stability and biomechanical performance. Despite extensive research, the influence of varying mandibular advancement magnitudes and physiologic muscle forces on stress distribution remains insufficiently explored. This study aimed to compare stress distribution patterns and mechanical behavior of two commonly used fixation systems-miniplates (MPs) and bicortical screws (BCSs)-under different mandibular advancement conditions using three-dimensional finite element analysis (FEA). This was a computational in vitro study using three-dimensional FEA based on a patient-specific mandibular model reconstructed from computed tomography data of a 30-year-old male. Simulations were performed to evaluate BSSO under two advancement conditions (3 mm and 9 mm) using different fixation techniques (MPs and BCSs). At 3 mm advancement, MP fixation demonstrated lower stress concentrations in the bone adjacent to screws (242 MPa vs. 270 MPa) but higher stress in teeth and greater displacement compared to BCSs. Conversely, at 9 mm advancement, BCS fixation resulted in higher stress values in teeth, bone, and screws. At the same time, MPs exhibited more favorable stress distribution but increased localized stress around screw-bone interfaces. In all models, stress concentration was predominantly observed in the proximal segment near the vertical osteotomy line. Increasing the advancement magnitude significantly elevated stress levels across all components. The fixation method and the magnitude of advancement significantly influence stress distribution following BSSO. Findings suggest that MPs may provide a favorable stress distribution with smaller advancements, whereas BCSs may offer biomechanical advantages with larger advancements. However, further experimental and clinical validation is required before definitive clinical recommendations can be made.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ed in higher stress values in teeth, bone, and screws. At the same time, MPs exhibited more favorable stress distribution but increased localized stress around screw-bone interfaces. In all models, stress concentration was predominantly observed in the proximal segment near the vertical osteotomy line. Increasing the advancement magnitude significantly elevated stress levels across all components. The fixation method and the magnitude of advancement significantly influence stress distribution following BSSO. Findings suggest that MPs may provide a favorable stress distribution with smaller advancements, whereas BCSs may offer biomechanical advantages with larger advancements. However, further experimental and clinical validation is required before definitive clinical recommendations can be made.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42374373/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42373373",
-      "title": "CAD/CAM-guided total condylar remodelling for the management of active mandibular condylar hyperplasia.",
-      "authors": [
-        "L Villanueva-Alcojol",
-        "F Monje-Gil",
-        "D Gonzalez-Ballester"
-      ],
-      "publication_date": "2026-Jun-29",
-      "publication_date_iso": "2026-06-29",
-      "abstract": "The purpose was to describe a novel computer-aided design/computer-aided manufacturing (CAD/CAM)-guided surgical technique for the management of active mandibular condylar hyperplasia (CH) based on virtual surgical planning (VSP), incorporating combined proximal and lateral condylar remodelling to optimise condyle-fossa adaptation, occlusal relationships, and facial symmetry. The proposed technique integrates three-dimensional imaging, VSP, and patient-specific CAD/CAM cutting guides. Unlike conventional high or proportional condylectomy, the approach includes a planned lateral reduction of condylar width in addition to proximal condylar resection. Surgical planning follows principles analogous to orthognathic surgery, prioritising functional joint congruency over symmetry alone. CAD/CAM-guided total condylar remodelling allows precise three-dimensional modification of condylar height and transverse width, resulting in improved immediate condyle-fossa congruency and elimination of intra-articular dead space. In selected patients, improved immediate symmetry may facilitate postoperative orthodontic-only management. CAD/CAM-guided total condylar remodelling expands the surgical armamentarium for active CH by addressing transverse condylar discrepancies that are not corrected by traditional condylectomy techniques. This anatomically driven approach may improve immediate joint adaptation and optimise treatment options in patients with active unilateral condylar hyperplasia.",
-      "objective": "was to describe a novel computer-aided design/computer-aided manufacturing (CAD/CAM)-guided surgical technique for the management of active mandibular condylar hyperplasia (CH) based on virtual surgical planning (VSP), incorporating combined proximal and lateral condylar remodelling to optimise condyle-fossa adaptation, occlusal relationships, and facial symmetry. The proposed technique integrates three-dimensional imaging, VSP, and patient-specific CAD/CAM cutting guides. Unlike conventional high or proportional condylectomy, the approach includes a planned lateral reduction of condylar width in addition to proximal condylar resection. Surgical planning follows principles analogous to orthognathic surgery, prioritising functional joint congruency over symmetry alone. CAD/CAM-guided total condylar remodelling allows precise three-dimensional modification of condylar height and transverse width, resulting in improved immediate condyle-fossa congruency and elimination of intra-articular dead space. In selected patients, improved immediate symmetry may facilitate postoperative orthodontic-only management. CAD/CAM-guided total condylar remodelling expands the surgical armamentarium for active CH by addressing transverse condylar discrepancies that are not corrected by traditional condylectomy techniques. This anatomically driven approach may improve immediate joint adaptation and optimise treatment options in patients with active unilateral condylar hyperplasia.",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in improved immediate condyle-fossa congruency and elimination of intra-articular dead space. In selected patients, improved immediate symmetry may facilitate postoperative orthodontic-only management. CAD/CAM-guided total condylar remodelling expands the surgical armamentarium for active CH by addressing transverse condylar discrepancies that are not corrected by traditional condylectomy techniques. This anatomically driven approach may improve immediate joint adaptation and optimise treatment options in patients with active unilateral condylar hyperplasia.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42373373/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42373011",
-      "title": "Effects of SPINK5 on the Biological Characteristics of Oral Squamous Cell Carcinoma Cells and the NOTCH Signaling Pathway.",
-      "authors": [
-        "Zhitao Yao",
-        "Kailibinuer Rezhake",
-        "Guodong Lu",
-        "Maimaitituxun Tuerdi",
-        "Jin Zhao"
-      ],
-      "publication_date": "2026-Jun-29",
-      "publication_date_iso": "2026-06-29",
-      "abstract": "To investigate the effect of SPINK5 on oral squamous cell carcinoma (OSCC) cells by regulating NOTCH signaling pathway. Cancer and adjacent tissue samples were collected from 30 OSCC patients, and SPINK5 expression was analyzed by immunohistochemistry. SPINK5 expression in OSCC cell lines was detected by qPCR, and stable cell lines with SPINK5 overexpression or knockdown were constructed. CCK-8, colony formation, flow cytometry, Transwell, and Western blot assays were used to investigate the effects of SPINK5 on OSCC cell functions and related mechanisms. A nude mouse xenograft model was established to evaluate the effect of SPINK5 on tumor growth in vivo. Immunohistochemistry showed that SPINK5 expression was lower in OSCC tissues than in adjacent tissues, with mean optical density values of 0.05144 ± 0.007814 and 0.1030 ± 0.01709, respectively. qPCR showed different SPINK5 expression levels among OSCC cell lines, with the highest expression in SCC-9 cells (5.930 ± 0.3190). In vitro experiments showed that SPINK5 overexpression inhibited OSCC cell proliferation and colony formation, promoted apoptosis, and suppressed migration, while SPINK5 knockdown showed the opposite effects. SPINK5 also regulated EMT-related markers, including E-cadherin and N-cadherin, and affected NOTCH signaling-related proteins, including NOTCH1, NOTCH2, and NOTCH3. In vivo experiments showed that SPINK5 overexpression suppressed tumor growth. SPINK5 is downregulated in OSCC and may act as a candidate tumor-suppressive gene. SPINK5 may inhibit OSCC progression by regulating proliferation, apoptosis, migration, EMT, and the NOTCH signaling pathway, suggesting its potential value as a prognostic biomarker and therapeutic target for OSCC.",
-      "objective": "",
-      "study_methods": "Cancer and adjacent tissue samples were collected from 30 OSCC patients, and SPINK5 expression was analyzed by immunohistochemistry. SPINK5 expression in OSCC cell lines was detected by qPCR, and stable cell lines with SPINK5 overexpression or knockdown were constructed. CCK-8, colony formation, flow cytometry, Transwell, and Western blot assays were used to investigate the effects of SPINK5 on OSCC cell functions and related mechanisms. A nude mouse xenograft model was established to evaluate the effect of SPINK5 on tumor growth in vivo.",
-      "methods": "Cancer and adjacent tissue samples were collected from 30 OSCC patients, and SPINK5 expression was analyzed by immunohistochemistry. SPINK5 expression in OSCC cell lines was detected by qPCR, and stable cell lines with SPINK5 overexpression or knockdown were constructed. CCK-8, colony formation, flow cytometry, Transwell, and Western blot assays were used to investigate the effects of SPINK5 on OSCC cell functions and related mechanisms. A nude mouse xenograft model was established to evaluate the effect of SPINK5 on tumor growth in vivo.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42373011/",
-      "pmcid": "",
       "figure_urls": []
     }
   ]
