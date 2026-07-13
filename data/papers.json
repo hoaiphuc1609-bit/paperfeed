@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T05:34:38Z",
+  "updated_at": "2026-07-13T05:43:37Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -96,6 +96,36 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
       ]
+    },
+    {
+      "pmid": "42436952",
+      "title": "AI-powered the toughest biohydrogels.",
+      "authors": [
+        "Jiameng Yang",
+        "Tao Fu",
+        "Ke Yao",
+        "Weicheng Kong",
+        "Bokun Li",
+        "Wanqing Xu",
+        "Zhou Zhu",
+        "Ximin Yuan",
+        "Yong He"
+      ],
+      "publication_date": "2026-Dec",
+      "publication_date_iso": "2026-12-01",
+      "abstract": "Hydrogel soft materials hold immense promise for applications ranging from bionic soft robots to flexible human-machine interfaces, but realizing this potential critically depends on excellent mechanical properties. While substantial progress has been made in toughening hydrogels, concurrently achieving a significant enhancement in strength remains a formidable challenge, thereby limiting their functional use. This work introduced a CPTR (centrifugation - progressive training - restorative soaking) strategy, which prestructured the material through centrifugation, continuously evolved and optimized the structure through progressive training, and further refined and locked the structure through soaking. The mechanical properties were improved through the three processes synergistically. By inputting the process parameters and corresponding mechanical test results, the AI model analyzed feature importance, ranked optimal performance combinations, and recommended new schemes. Through such iterative cycles, a CPTR hydrogel with an outstanding tensile strength of 134.31 MPa and toughness of 10.25 MJ/m3 was achieved, currently the highest strength among biohydrogels. Its excellent mechanical performance and processability allowed the hydrogel to be constructed into fibers and network structures, opening new avenues for developing next-generation soft actuators, robust controllable release systems, and other advanced functional materials.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": ", the AI model analyzed feature importance, ranked optimal performance combinations, and recommended new schemes. Through such iterative cycles, a CPTR hydrogel with an outstanding tensile strength of 134.31 MPa and toughness of 10.25 MJ/m3 was achieved, currently the highest strength among biohydrogels. Its excellent mechanical performance and processability allowed the hydrogel to be constructed into fibers and network structures, opening new avenues for developing next-generation soft actuators, robust controllable release systems, and other advanced functional materials.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42436952/",
+      "pmcid": "PMC13355382",
+      "figure_urls": []
     },
     {
       "pmid": "42433169",
@@ -756,6 +786,29 @@
       "figure_urls": []
     },
     {
+      "pmid": "42437327",
+      "title": "3-Hydroxyflavone inhibits the cytotoxicity of oral squamous cell carcinoma cells through the AGEs/RAGE/NF-κB signaling pathway.",
+      "authors": [
+        "Yuan Cong",
+        "Shengzhi Wang"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Advanced glycation end products (AGEs) and their receptor receptor for AGEs (RAGE) promote tumor progression via activation of the nuclear factor-kappa B (NF-κB) signaling pathway. Although 3-Hydroxyflavone exhibits anticancer properties, its role in oral squamous cell carcinoma (OSCC) and its interaction with the AGEs/RAGE/NF-κB axis remain unclear. This study investigated whether 3-Hydroxyflavone inhibits OSCC by modulating miR-142-5p within the AGEs/RAGE/NF-κB axis. The expression of p65 and miR-142-5p was analyzed in both OSCC tissues and Tca8113 cells. TargetScan prediction and dual-luciferase reporter assays confirmed that p65 is a direct target of miR-142-5p. The effects of 3-Hydroxyflavone on OSCC cells were evaluated using MTT and colony formation assays. Additionally, immunohistochemistry was performed to assess p65 expression in tumor tissues, and Kaplan-Meier analysis was used to evaluate patient survival. OSCC tissues showed increased p65 nuclear translocation and decreased miR-142-5p levels. The miR-142-5p directly inhibited p65. The 3-Hydroxyflavone treatment suppressed OSCC cell proliferation and colony formation by upregulating miR-142-5p and inhibiting the AGEs/RAGE/NF-κB pathway. High p65 expression correlated with poor survival, while 3-Hydroxyflavone treatment reduced p65 and improved survival. The 3-Hydroxyflavone inhibits OSCC proliferation and enhances survival by upregulating miR-142-5p, which suppresses AGEs/RAGE/NF-κB signaling, suggesting a novel therapeutic strategy.",
+      "objective": "",
+      "study_methods": "The expression of p65 and miR-142-5p was analyzed in both OSCC tissues and Tca8113 cells. TargetScan prediction and dual-luciferase reporter assays confirmed that p65 is a direct target of miR-142-5p. The effects of 3-Hydroxyflavone on OSCC cells were evaluated using MTT and colony formation assays. Additionally, immunohistochemistry was performed to assess p65 expression in tumor tissues, and Kaplan-Meier analysis was used to evaluate patient survival.",
+      "methods": "The expression of p65 and miR-142-5p was analyzed in both OSCC tissues and Tca8113 cells. TargetScan prediction and dual-luciferase reporter assays confirmed that p65 is a direct target of miR-142-5p. The effects of 3-Hydroxyflavone on OSCC cells were evaluated using MTT and colony formation assays. Additionally, immunohistochemistry was performed to assess p65 expression in tumor tissues, and Kaplan-Meier analysis was used to evaluate patient survival.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42437327/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42404299",
       "title": "Exploration of the radiation dose-toxicity relationship for multiple ophthalmological organs at risk for pediatric patients assessed in long-term head and neck rhabdomyosarcoma survivors.",
       "authors": [
@@ -1410,66 +1463,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42379315/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42378378",
-      "title": "Influence of Metal Artifact Reduction Algorithms on the Detection of Inferior Alveolar Canal Perforations by Zirconia Implants in CBCT Images.",
-      "authors": [
-        "Parisa Soltani",
-        "Mohammad Hossein Manouchehri",
-        "Sara Rostamian",
-        "Hugh Devlin",
-        "Amirhossein Moaddabi",
-        "Aida Ekhtiari",
-        "Mahsa Aeinehvand",
-        "Gianrico Spagnuolo",
-        "Reyhaneh Rostamian",
-        "Niccolo Giuseppe Armogida",
-        "Francesco Riccitiello",
-        "Mariangela Cernera"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "This study aims to evaluate the efficacy of a metal artifact reduction (MAR) algorithm in detecting contact between zirconia implants and inferior alveolar canal. Twelve zirconia implants were placed in dry human mandibles using surgical guides, in two conditions: 1 mm above and within the canal. cone beam computed tomography (CBCT) was acquired with the MAR algorithm turned off and on. Three observers indicated whether canal damage was present using a 5-point Likert scale: 1. Definitely no contact, 2. Probably no contact, 3. Uncertain, 4. Probably contact, and 5. Definitely contact. Sensitivity and specificity were calculated and the ROC curve was used to compare the two conditions (α = 0.05). The area under curve (AUC) was higher in MAR On condition for all observers; however, the differences in AUC between the On and Off MAR states were not statistically significant (p > 0.05): for observer 1, AUC increased from 0.9916 (Off) to 1.0 (On); for Observer 2, it increased from 0.7666 to 0.8833; and for Observer 3, it increased from 0.95 to 1.0. Observers 1 and 3 displayed 100% sensitivity and specificity regardless of MAR activation, while for Observer 2, diagnostic sensitivity increased from 66.7% to 83.3% with MAR activation, while specificity remained constant at 80% in both conditions. For the detection of contact of the zirconia implants with the IAC, activating the MAR algorithm slightly increased the diagnostic performance metrics of CBCT images, but the differences were not statistically significant. Activating the MAR algorithm did not produce a statistically significant improvement in detecting contact between zirconia implants and the inferior alveolar canal.",
-      "objective": "to evaluate the efficacy of a metal artifact reduction (MAR) algorithm in detecting contact between zirconia implants and inferior alveolar canal. Twelve zirconia implants were placed in dry human mandibles using surgical guides, in two conditions: 1 mm above and within the canal. cone beam computed tomography (CBCT) was acquired with the MAR algorithm turned off and on. Three observers indicated whether canal damage was present using a 5-point Likert scale: 1. Definitely no contact, 2. Probably no contact, 3. Uncertain, 4. Probably contact, and 5. Definitely contact. Sensitivity and specificity were calculated and the ROC curve was used to compare the two conditions (α = 0.05). The area under curve (AUC) was higher in MAR On condition for all observers; however, the differences in AUC between the On and Off MAR states were not statistically significant (p > 0.05): for observer 1, AUC increased from 0.9916 (Off) to 1.0 (On); for Observer 2, it increased from 0.7666 to 0.8833; and for Observer 3, it increased from 0.95 to 1.0. Observers 1 and 3 displayed 100% sensitivity and specificity regardless of MAR activation, while for Observer 2, diagnostic sensitivity increased from 66.7% to 83.3% with MAR activation, while specificity remained constant at 80% in both conditions. For the detection of contact of the zirconia implants with the IAC, activating the MAR algorithm slightly increased the diagnostic performance metrics of CBCT images, but the differences were not statistically significant. Activating the MAR algorithm did not produce a statistically significant improvement in detecting contact between zirconia implants and the inferior alveolar canal.",
-      "study_methods": "Twelve zirconia implants were placed in dry human mandibles using surgical guides, in two conditions: 1 mm above and within the canal. cone beam computed tomography (CBCT) was acquired with the MAR algorithm turned off and on. Three observers indicated whether canal damage was present using a 5-point Likert scale: 1. Definitely no contact, 2. Probably no contact, 3. Uncertain, 4. Probably contact, and 5. Definitely contact. Sensitivity and specificity were calculated and the ROC curve was used to compare the two conditions (α = 0.05).",
-      "methods": "Twelve zirconia implants were placed in dry human mandibles using surgical guides, in two conditions: 1 mm above and within the canal. cone beam computed tomography (CBCT) was acquired with the MAR algorithm turned off and on. Three observers indicated whether canal damage was present using a 5-point Likert scale: 1. Definitely no contact, 2. Probably no contact, 3. Uncertain, 4. Probably contact, and 5. Definitely contact. Sensitivity and specificity were calculated and the ROC curve was used to compare the two conditions (α = 0.05).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42378378/",
-      "pmcid": "PMC13317989",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42348990",
-      "title": "Cranial Base Characteristics in Growing Patients With Class III Skeletal Pattern: A Systematic Review and Meta-Analysis.",
-      "authors": [
-        "Zhuoying Li",
-        "Junqi Liu",
-        "Tingting Wei",
-        "Kuo Feng Hung",
-        "Yuxiong Su",
-        "Zhiyi Shan"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "The treatment of skeletal Class III malocclusion presents challenges due to heterogeneous craniofacial growth patterns. The cranial base is a craniofacial growth centre, while its role in skeletal malocclusion remains unclear. This systematic review aimed to investigate the relationship between the cranial base characteristics and skeletal Class III malocclusion in growing patients. Observational studies investigating cranial base characteristics among growing skeletal Class III patients were included. Six databases (PubMed, Web of Science, Cochrane Library, Embase, MEDLINE, and Scopus) were searched up to May 5, 2026. Risk of bias and evidence certainty were assessed using the AXIS tool, and the GRADE framework. Meta-analysis was performed using RevMan 5.4 software. Subgroup meta-analyses were conducted by growth stage and gender if applicable. Eleven studies were included, of which eight were eligible for meta-analysis. Compared to Class I patients, Class III patients exhibited a smaller NSBa angle (-1.84°, 95% CI: -2.80°, -0.89°, P < .001) and NSAr angle (-2.02°, 95% CI: -3.26°, -0.78°, P = .001). Subgroup analyses revealed shorter SN and SBa lengths among Class III patients before or during the growth spurt (SN: -1.59 mm, 95% CI: -2.69 mm, -0.50 mm, P = .004; SBa: -1.56 mm, 95% CI: -2.88, -0.24, P = .004). Additionally, SN length was significantly shorter in Class III males (-1.68 mm, 95% CI: -3.11mm, -0.25 mm, P = .020). Growing skeletal Class III patients presented significantly smaller cranial base angles. Moreover, those evaluated before or during the growth spurt showed shorter anterior and posterior cranial base lengths, with differences in anterior cranial base length demonstrating gender-specific variation. However, the preliminary findings necessitate cautious interpretation given the very low certainty of evidence. A better understanding of the etiology of skeletal malocclusion may inform individualized orthodontic diagnosis and treatment planning.",
-      "objective": "",
-      "study_methods": "Observational studies investigating cranial base characteristics among growing skeletal Class III patients were included. Six databases (PubMed, Web of Science, Cochrane Library, Embase, MEDLINE, and Scopus) were searched up to May 5, 2026. Risk of bias and evidence certainty were assessed using the AXIS tool, and the GRADE framework. Meta-analysis was performed using RevMan 5.4 software. Subgroup meta-analyses were conducted by growth stage and gender if applicable.",
-      "methods": "Observational studies investigating cranial base characteristics among growing skeletal Class III patients were included. Six databases (PubMed, Web of Science, Cochrane Library, Embase, MEDLINE, and Scopus) were searched up to May 5, 2026. Risk of bias and evidence certainty were assessed using the AXIS tool, and the GRADE framework. Meta-analysis was performed using RevMan 5.4 software. Subgroup meta-analyses were conducted by growth stage and gender if applicable.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42348990/",
-      "pmcid": "PMC13320495",
       "figure_urls": []
     },
     {
@@ -2430,6 +2423,119 @@
       "figure_urls": []
     },
     {
+      "pmid": "42437855",
+      "title": "Matrix stiffness induced CREB3L1 activation contributed to skin fibrosis through calcium influx triggered endoplasmic reticulum stress.",
+      "authors": [
+        "Dongsheng Wen",
+        "Yeke Yu",
+        "Siyi He",
+        "Ya Gao",
+        "Chiakang Ho",
+        "Xinran Ye",
+        "Jiaming Sun",
+        "Yuxin Liu",
+        "Lu Huang",
+        "Yangdan Liu",
+        "Qingfeng Li",
+        "Yifan Zhang"
+      ],
+      "publication_date": "2026-Jul-13",
+      "publication_date_iso": "2026-07-13",
+      "abstract": "Skin fibrosis substantially contributes to morbidity and mortality. Fibrotic remodeling, characterized by accumulated and stiffened extracellular matrix, persistently exerts mechanical cues and consistently activates fibroblasts, implying biomechanics as a major driver of fibrosis. However, our understanding towards mechanisms of biomechanics induced fibrosis remained limited. Integrated single-cell sequencing analysis was performed to reveal the atlas of fibrotic skin. ChIP sequencing was performed to reveal the binding sites of CREB3L1. Nanoindenter was used to identify the mechanical properties. Gel contraction assay, wound healing assay, and live cell imaging were conducted to assess the behavior of fibroblasts cultured on hydrogels of different rigidities. Bleomycin induced and mechanical loading induced skin fibrosis models were established on CREB3L1 knockdown and control mice. We identified a mechanosensitive fibroblast cluster that exerts contraction and ECM deposition functions in fibrotic skin, and its transcriptional identity was maintained by CREB3L1. Elevated expression of CREB3L1 was confirmed in human and mouse fibrotic skin. Further analysis showed that CREB3L1 was required for fibroblast activation, including contraction, migration, and ECM accumulation. More importantly, we revealed that matrix stiffness could alter calcium homeostasis, causing calcium influx and endoplasmic reticulum stress. The ER stress state in turn triggered the cleavage of CREB3L1, releasing its luminal domain that function as a profibrotic transcription factor. Inhibiting CREB3L1 could alleviate skin fibrosis both in vivo and in vitro. This study elucidates the molecular mechanism of CREB3L1 mechanosensitive activation in matrix stiffness induced skin fibrosis, and presents a promising therapeutic target for clinical translation.",
+      "objective": "",
+      "study_methods": "Integrated single-cell sequencing analysis was performed to reveal the atlas of fibrotic skin. ChIP sequencing was performed to reveal the binding sites of CREB3L1. Nanoindenter was used to identify the mechanical properties. Gel contraction assay, wound healing assay, and live cell imaging were conducted to assess the behavior of fibroblasts cultured on hydrogels of different rigidities. Bleomycin induced and mechanical loading induced skin fibrosis models were established on CREB3L1 knockdown and control mice.",
+      "methods": "Integrated single-cell sequencing analysis was performed to reveal the atlas of fibrotic skin. ChIP sequencing was performed to reveal the binding sites of CREB3L1. Nanoindenter was used to identify the mechanical properties. Gel contraction assay, wound healing assay, and live cell imaging were conducted to assess the behavior of fibroblasts cultured on hydrogels of different rigidities. Bleomycin induced and mechanical loading induced skin fibrosis models were established on CREB3L1 knockdown and control mice.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42437855/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42437834",
+      "title": "Modified Le Fort I osteotomy techniques for vertical maxillary excess: a comparative systematic review.",
+      "authors": [
+        "Sajal Khare",
+        "Veera Bhosale",
+        "Gunika Tayal",
+        "Abhilash Sahu",
+        "Mansoor Kachwala",
+        "Vinit Swami"
+      ],
+      "publication_date": "2026-Jul-13",
+      "publication_date_iso": "2026-07-13",
+      "abstract": "Importance: Vertical maxillary excess (VME) is a common dentofacial deformity that causes downward growth of the maxilla, leading to an elongated lower face, anterior open bite, and excessive gingival display. Although conventional Le Fort I osteotomy remains the gold standard for correcting vertical maxillary excess, it is associated with certain risks, including possible injury to the descending palatine artery (DPA). To improve surgical safety and treatment predictability, several modified osteotomy techniques have been introduced. To systematically review and compare the clinical effectiveness, postoperative stability and safety of modified Le Fort I osteotomy techniques in treating VME. Data Sources: A systematic search was conducted using PubMed, Medline, Google Scholar, and Web of Science databases for studies published between 2016 and 2024. The review protocol was registered with PROSPERO (CRD42025616635). Studies involving adults with vertical maxillary excess (VME) were included. Eligible studies evaluated modified Le Fort I osteotomy techniques-specifically conventional horseshoe, modified horseshoe, unilateral horseshoe, pyramidal, or U-shaped osteotomies-in patients undergoing orthognathic surgery. A total of 10 studies comprising 117 patients met the inclusion criteria. Data extraction and synthesis were performed systematically to obtain information regarding surgical techniques, intraoperative and postoperative complications, maxillary repositioning accuracy, and long-term stability outcomes. Given the methodological and clinical heterogeneity among the included studies, a qualitative synthesis of the findings was undertaken. Primary outcome measures included successful maxillary repositioning, intraoperative or postoperative complications (particularly vascular injuries), and skeletal stability over at least one year. Results: The electronic search identified 1,190 articles, of which 10 studies met the inclusion criteria. All reviewed modified Le Fort I techniques achieved intended repositioning without major complications. Notably, there were no significant vascular injuries, and skeletal stability was maintained for at least 12 months. Conclusion and Relevance: Modified Le Fort I osteotomies represent safe and effective alternatives to traditional methods, reducing risks while ensuring stable outcomes. Tailoring techniques to individual patient needs is crucial for optimizing aesthetic and functional results in VME management, ultimately improving patient satisfaction and quality of life. PROSPERO (CRD42025616635).",
+      "objective": "",
+      "study_methods": "Data Sources: A systematic search was conducted using PubMed, Medline, Google Scholar, and Web of Science databases for studies published between 2016 and 2024. The review protocol was registered with PROSPERO (CRD42025616635).",
+      "methods": "Data Sources: A systematic search was conducted using PubMed, Medline, Google Scholar, and Web of Science databases for studies published between 2016 and 2024. The review protocol was registered with PROSPERO (CRD42025616635).",
+      "results": "The electronic search identified 1,190 articles, of which 10 studies met the inclusion criteria. All reviewed modified Le Fort I techniques achieved intended repositioning without major complications. Notably, there were no significant vascular injuries, and skeletal stability was maintained for at least 12 months.",
+      "conclusion": "and Relevance: Modified Le Fort I osteotomies represent safe and effective alternatives to traditional methods, reducing risks while ensuring stable outcomes. Tailoring techniques to individual patient needs is crucial for optimizing aesthetic and functional results in VME management, ultimately improving patient satisfaction and quality of life. PROSPERO (CRD42025616635).",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42437834/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42437817",
+      "title": "De-epithelialized gingival unit graft for gingival phenotype modification and root coverage: a randomized controlled trial.",
+      "authors": [
+        "Zeki Kacar",
+        "Ezgi Gurbuz",
+        "Mehmet Meric Ersoz",
+        "Emilio Couso-Queiruga",
+        "H Gencay Keceli"
+      ],
+      "publication_date": "2026-Jul-13",
+      "publication_date_iso": "2026-07-13",
+      "abstract": "The aim was to compare the outcomes of gingival phenotype modification achieved using a de-epithelialized gingival unit graft (DUG) and a de-epithelialized gingival graft (DGG) in the treatment of single gingival recession defects with a coronally advanced flap (CAF). Subjects with bilateral RT1 gingival recession defects were recruited. The sites were randomly assigned to either the DUG or DGG group. The assessments were performed using clinical, linear, and volumetric digital measurements, as well as patient-reported outcome measures. Gingival thickness and mean root coverage were measured as the primary outcome variables. The study was completed with 15 patients and 30 gingival recession defects. At the 6-month follow-up, the change in gingival thickness (DUG: 2.39 ± 0.65 mm; DGG: 1.66 ± 0.50 mm) and digital linear dimension (DUG: 1.66 ± 0.47 mm; DGG: 1.13 ± 0.36 mm) were significantly greater in the DUG group than in the DGG group (p = 0.001 and p = 0.008, respectively). Mean and complete root coverage values were greater in the DUG group, though not significant (95% vs. 75% and 93.3% vs. 66.7%, respectively). Graft thickness was significantly greater in the DUG group (p = 0.027; 1.55 ± 0.50 mm and 1.10 ± 0.32 mm, respectively). No significant intergroup differences were observed in postoperative pain perception or bleeding. DUG demonstrated better root coverage and phenotype modification results. However, the baseline imbalance in graft thickness remains a potential confounder, and the findings should be interpreted cautiously. DUG may offer an alternative tissue for phenotype modification and root coverage in cases with limited soft tissue thickness in the recipient area. ClinicalTrials.gov (identification number NCT05923294). https://clinicaltrials.gov/study/NCT05923294?cond=NCT05923294&rank=1 Date of Submission: June 20th, 2023.",
+      "objective": "was to compare the outcomes of gingival phenotype modification achieved using a de-epithelialized gingival unit graft (DUG) and a de-epithelialized gingival graft (DGG) in the treatment of single gingival recession defects with a coronally advanced flap (CAF). Subjects with bilateral RT1 gingival recession defects were recruited. The sites were randomly assigned to either the DUG or DGG group. The assessments were performed using clinical, linear, and volumetric digital measurements, as well as patient-reported outcome measures. Gingival thickness and mean root coverage were measured as the primary outcome variables. The study was completed with 15 patients and 30 gingival recession defects. At the 6-month follow-up, the change in gingival thickness (DUG: 2.39 ± 0.65 mm; DGG: 1.66 ± 0.50 mm) and digital linear dimension (DUG: 1.66 ± 0.47 mm; DGG: 1.13 ± 0.36 mm) were significantly greater in the DUG group than in the DGG group (p = 0.001 and p = 0.008, respectively). Mean and complete root coverage values were greater in the DUG group, though not significant (95% vs. 75% and 93.3% vs. 66.7%, respectively). Graft thickness was significantly greater in the DUG group (p = 0.027; 1.55 ± 0.50 mm and 1.10 ± 0.32 mm, respectively). No significant intergroup differences were observed in postoperative pain perception or bleeding. DUG demonstrated better root coverage and phenotype modification",
+      "study_methods": "Subjects with bilateral RT1 gingival recession defects were recruited. The sites were randomly assigned to either the DUG or DGG group. The assessments were performed using clinical, linear, and volumetric digital measurements, as well as patient-reported outcome measures. Gingival thickness and mean root coverage were measured as the primary outcome variables.",
+      "methods": "Subjects with bilateral RT1 gingival recession defects were recruited. The sites were randomly assigned to either the DUG or DGG group. The assessments were performed using clinical, linear, and volumetric digital measurements, as well as patient-reported outcome measures. Gingival thickness and mean root coverage were measured as the primary outcome variables.",
+      "results": "However, the baseline imbalance in graft thickness remains a potential confounder, and the findings should be interpreted cautiously. DUG may offer an alternative tissue for phenotype modification and root coverage in cases with limited soft tissue thickness in the recipient area. ClinicalTrials.gov (identification number NCT05923294). https://clinicaltrials.gov/study/NCT05923294?cond=NCT05923294&rank=1 Date of Submission: June 20th, 2023.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42437817/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41183982",
+      "title": "Intra- and inter-examiner reliability of an occlusal force-measuring device equipped with a capacitive-type pressure-mapping sensor sheet.",
+      "authors": [
+        "Yoshihiro Kugimiya",
+        "Masaharu Murakami",
+        "Yu Nakano",
+        "Honoka Sato",
+        "Sae Nagai",
+        "Junya Nakamura"
+      ],
+      "publication_date": "2026-Jul-13",
+      "publication_date_iso": "2026-07-13",
+      "abstract": "To clarify the intra- and inter-examiner reliability of an occlusal force-measuring device equipped with a capacitive-type pressure-mapping sensor sheet in older adults. Thirty-eight individuals (23 women) aged ≥65 (mean ± SD: 79.3±6.1) years were included. The numbers of present and functional teeth were visually examined. Occlusal force was measured using the Oramo-bf device (Sumitomo Riko Co., Aichi, Japan). To evaluate intra-examiner reliability, one dentist measured each participant's occlusal force thrice and calculated the intraclass correlation coefficient (ICC; case 1) and the coefficient of variation (CV). To examine inter-examiner reliability, three dentists measured the occlusal force once per participant and calculated the ICC case 2. The median (first quartile-third quartile [Q1-Q3]) numbers of present and functional teeth were 22.5 (18-27) and 28 (26-28), respectively. The median (Q1-Q3) occlusal force measured by a single examiner across the measurements was 604.8 (261.7-731.5) N. The ICC for a single measurement by one examiner based on all three measurements per participant was 0.982 (95% confidence interval [CI]: 0.969-0.990). The ICC (1,3) for the mean of three repeated measurements by one examiner was 0.994 (95% CI: 0.990-0.997). The mean ± SD CV was 0.052 ± 0.046. The ICC (2,1) for inter-examiner reliability was 0.950 (95% CI: 0.917-0.972). This study revealed high intra- and inter-examiner reliability of measurements obtained using an occlusal force-measuring device equipped with a capacitive-type pressure-mapping sensor sheet. This device may provide reliable results with a single measurement, regardless of the examiner.",
+      "objective": "",
+      "study_methods": "Thirty-eight individuals (23 women) aged ≥65 (mean ± SD: 79.3±6.1) years were included. The numbers of present and functional teeth were visually examined. Occlusal force was measured using the Oramo-bf device (Sumitomo Riko Co., Aichi, Japan). To evaluate intra-examiner reliability, one dentist measured each participant's occlusal force thrice and calculated the intraclass correlation coefficient (ICC; case 1) and the coefficient of variation (CV). To examine inter-examiner reliability, three dentists measured the occlusal force once per participant and calculated the ICC case 2.",
+      "methods": "Thirty-eight individuals (23 women) aged ≥65 (mean ± SD: 79.3±6.1) years were included. The numbers of present and functional teeth were visually examined. Occlusal force was measured using the Oramo-bf device (Sumitomo Riko Co., Aichi, Japan). To evaluate intra-examiner reliability, one dentist measured each participant's occlusal force thrice and calculated the intraclass correlation coefficient (ICC; case 1) and the coefficient of variation (CV). To examine inter-examiner reliability, three dentists measured the occlusal force once per participant and calculated the ICC case 2.",
+      "results": "with a single measurement, regardless of the examiner.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41183982/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42436451",
       "title": "Accuracy of virtual facebow compared to conventional facebow: a systematic review.",
       "authors": [
@@ -2480,91 +2586,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42432641/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42432636",
-      "title": "Cost-effectiveness of short implants (6-8.5 mm) compared to regular length implants (> 10 mm) with bone regeneration in posterior atrophic mandible: a 8-year microsimulation model.",
-      "authors": [
-        "Gustavo Sáenz-Ravello",
-        "Mauricio Baeza",
-        "Shengchi Fan",
-        "Cristina De-la-Rosa-Gay",
-        "Eduard Valmaseda-Castellón",
-        "Nikos Mattheos"
-      ],
-      "publication_date": "2026-Jul-10",
-      "publication_date_iso": "2026-07-10",
-      "abstract": "To evaluate the cost-effectiveness of short implants (6-8.5 mm) placed without guided bone regeneration (GBR) vs. regular length implants (> 10 mm) placed with vertical GBR for the rehabilitation of the posterior atrophic mandible (Seibert type II defects). A discrete-time state-transition microsimulation model was developed to compare two strategies over an 8-year horizon from a private-payer perspective. Clinical inputs were extracted from a recent meta-analysis of randomized trials, while unit costs were obtained from publicly available Chilean fee schedules and converted to 2025 USD using purchasing power parity. Outcomes included implant survival, biological and prosthetic complications, summarized as implant-years (IY) and complication-free IY (CFIY) as a stricter secondary measure. Incremental cost-effectiveness ratios (ICERs) were calculated. Uncertainty was addressed through one-way deterministic sensitivity analysis (OWSA), and probabilistic sensitivity analysis (PSA, 2,000 iterations). Over an 8-year horizon, short implants were associated with lower mean costs (USD 3,662 vs. 6,030) and modestly greater effectiveness (6.77 vs. 6.49 IY; 6.71 vs. 6.27 CFIY) compared with regular-length implants with GBR, yielding incremental savings of USD 2,367 and incremental gains of 0.28 IY and 0.44 CFIY. OWSA identified initial implant costs as the most influential parameters. PSA across 2,000 iterations corroborated these findings, with the great majority of simulations falling in the south-east quadrant of the cost-effectiveness plane. Within the Chilean private-payer setting and over an 8-year horizon, single-tooth short implants (6-8.5 mm) placed without GBR were cost-saving and at least non-inferior in effectiveness compared with regular-length implants with vertical GBR for the posterior atrophic mandible. This cost advantage remained consistent across deterministic, probabilistic, and scenario analyses, although transferability to other settings requires re-estimation using local cost structures.",
-      "objective": "",
-      "study_methods": "A discrete-time state-transition microsimulation model was developed to compare two strategies over an 8-year horizon from a private-payer perspective. Clinical inputs were extracted from a recent meta-analysis of randomized trials, while unit costs were obtained from publicly available Chilean fee schedules and converted to 2025 USD using purchasing power parity. Outcomes included implant survival, biological and prosthetic complications, summarized as implant-years (IY) and complication-free IY (CFIY) as a stricter secondary measure. Incremental cost-effectiveness ratios (ICERs) were calculated. Uncertainty was addressed through one-way deterministic sensitivity analysis (OWSA), and probabilistic sensitivity analysis (PSA, 2,000 iterations).",
-      "methods": "A discrete-time state-transition microsimulation model was developed to compare two strategies over an 8-year horizon from a private-payer perspective. Clinical inputs were extracted from a recent meta-analysis of randomized trials, while unit costs were obtained from publicly available Chilean fee schedules and converted to 2025 USD using purchasing power parity. Outcomes included implant survival, biological and prosthetic complications, summarized as implant-years (IY) and complication-free IY (CFIY) as a stricter secondary measure. Incremental cost-effectiveness ratios (ICERs) were calculated. Uncertainty was addressed through one-way deterministic sensitivity analysis (OWSA), and probabilistic sensitivity analysis (PSA, 2,000 iterations).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42432636/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42431584",
-      "title": "Surface characteristics and initial supragingival biofilm formation on additively manufactured zirconia and resin: An in situ study.",
-      "authors": [
-        "Jiarui Lu",
-        "Kaibin Wu",
-        "Yuchen He",
-        "Zhiyu Xu",
-        "Pengfei Zhu",
-        "Feng Wang",
-        "Ping Li"
-      ],
-      "publication_date": "2026-Jul-10",
-      "publication_date_iso": "2026-07-10",
-      "abstract": "This in situ study investigated initial supragingival microbial adhesion and biofilm formation on additively manufactured zirconia (AM-ZrO₂) and additively manufactured composite resin (AM-RMC) surfaces, using subtractively manufactured zirconia (SM-ZrO₂) as a control material. AM-ZrO₂ and AM-RMC specimens were fabricated, with subtractively manufactured zirconia (SM-ZrO₂) as a control. Surface characteristics were analyzed using scanning electron microscopy (SEM), profilometric measurements, and water contact angle assessment. Protein adsorption was evaluated in vitro. As for the in situ study, customized intraoral splints were made and worn by 12 volunteers, and the microbial adhesion was assessed. The adherent bacteria were then examined by live/dead staining for viability and SEM for topography. Different material compositions and manufacturing technologies lead to distinct surface topographies observed across SM-ZrO2, AM-ZrO2, and AM-RMC. AM-ZrO2 possessed the lowest Sa value (0.53 ± 0.08 μm, p < 0.05), whereas SM-ZrO2 revealed the highest wettability (water contact angle = 92.18 ± 4.96°, p < 0.05). In protein adsorption, AM-RMC showed the highest adsorption capacity (0.64 ± 0.04 μg/cm², p < 0.05). AM-ZrO2 demonstrated the highest level of microbial adhesion, which was significantly greater than that on SM-ZrO2 and AM-RMC (p < 0.05). Material type and manufacturing technologies significantly affected surface characteristics and early biofilm formation. Specifically, bacterial adhesion was at its highest level on AM-ZrO₂, surpassing that observed on both AM-RMC and SM-ZrO₂. AM-RMC demonstrated acceptable antibiofilm performance, positioning it as a potential material for personalized restorations. Furthermore, AM-ZrO2 required post-processing and surface modification to reduce bacterial adhesion.",
-      "objective": "",
-      "study_methods": "AM-ZrO₂ and AM-RMC specimens were fabricated, with subtractively manufactured zirconia (SM-ZrO₂) as a control. Surface characteristics were analyzed using scanning electron microscopy (SEM), profilometric measurements, and water contact angle assessment. Protein adsorption was evaluated in vitro. As for the in situ study, customized intraoral splints were made and worn by 12 volunteers, and the microbial adhesion was assessed. The adherent bacteria were then examined by live/dead staining for viability and SEM for topography.",
-      "methods": "AM-ZrO₂ and AM-RMC specimens were fabricated, with subtractively manufactured zirconia (SM-ZrO₂) as a control. Surface characteristics were analyzed using scanning electron microscopy (SEM), profilometric measurements, and water contact angle assessment. Protein adsorption was evaluated in vitro. As for the in situ study, customized intraoral splints were made and worn by 12 volunteers, and the microbial adhesion was assessed. The adherent bacteria were then examined by live/dead staining for viability and SEM for topography.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42431584/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42431267",
-      "title": "Quality of life and cost-effectiveness of preoperative accelerated versus postoperative conventional radiotherapy for oral cavity cancer: Results from the randomised ARTSCAN 2 trial.",
-      "authors": [
-        "Kristin Carlwig",
-        "Johan Jarl",
-        "Per Nilsson",
-        "Elisabeth Rasmusson",
-        "Johanna Sjövall",
-        "Maria Silfverschiöld",
-        "Björn Zackrisson",
-        "Maria Gebre-Medhin",
-        "Lennart Greiff"
-      ],
-      "publication_date": "2026-Jul-10",
-      "publication_date_iso": "2026-07-10",
-      "abstract": "The ARTSCAN 2 randomised controlled trial compares accelerated fractionation (AF) radiotherapy (RT) in a preoperative setting with conventional fractionation (CF) RT postoperatively for oral cavity cancer (OCC). Current results indicate no advantage for preoperative AF RT, thereby reinforcing postoperative CF RT as the \"gold standard\" of care. This analysis of the trial focuses on health-related quality of life (HRQoL) and conducts a health-economic evaluation from a societal perspective. 240 patients formed the intention-to-treat population. Preoperative AF RT was given twice daily during 4.5 weeks to a total dose of 68 Gy followed by surgery 4-6 weeks later. Postoperative CF RT was given to a total dose of 60 or 66 Gy during 6-7 weeks. In the per protocol population, HRQoL was assessed with the EORTC QLQ-C30, QLQ-H&N35, and HADS questionnaires at five occasions during the five-year follow-up period. Direct and indirect costs were retrieved, and a cost-utility analysis (CUA) was conducted using quality-adjusted life years (QALYs) as outcome measure. HRQoL was analysed in 218 patients (i.e., the per-protocol population), of whom 204 were included in the CUA. Up until two years after treatment, the preoperative AF RT-group featured significantly worse HRQoL in a few of the QLQ-H&N35 scales compared to the postoperative CF RT-group. In the CUA, preoperative AF RT was less effective and more expensive than postoperative CF RT. Postoperative CF RT is associated with fewer symptoms in selected head-and-neck-specific domains and is more cost-effective than preoperative AF RT in the treatment of OCC.",
-      "objective": "",
-      "study_methods": "240 patients formed the intention-to-treat population. Preoperative AF RT was given twice daily during 4.5 weeks to a total dose of 68 Gy followed by surgery 4-6 weeks later. Postoperative CF RT was given to a total dose of 60 or 66 Gy during 6-7 weeks. In the per protocol population, HRQoL was assessed with the EORTC QLQ-C30, QLQ-H&N35, and HADS questionnaires at five occasions during the five-year follow-up period. Direct and indirect costs were retrieved, and a cost-utility analysis (CUA) was conducted using quality-adjusted life years (QALYs) as outcome measure.",
-      "methods": "240 patients formed the intention-to-treat population. Preoperative AF RT was given twice daily during 4.5 weeks to a total dose of 68 Gy followed by surgery 4-6 weeks later. Postoperative CF RT was given to a total dose of 60 or 66 Gy during 6-7 weeks. In the per protocol population, HRQoL was assessed with the EORTC QLQ-C30, QLQ-H&N35, and HADS questionnaires at five occasions during the five-year follow-up period. Direct and indirect costs were retrieved, and a cost-utility analysis (CUA) was conducted using quality-adjusted life years (QALYs) as outcome measure.",
-      "results": "indicate no advantage for preoperative AF RT, thereby reinforcing postoperative CF RT as the \"gold standard\" of care. This analysis of the trial focuses on health-related quality of life (HRQoL) and conducts a health-economic evaluation from a societal perspective. 240 patients formed the intention-to-treat population. Preoperative AF RT was given twice daily during 4.5 weeks to a total dose of 68 Gy followed by surgery 4-6 weeks later. Postoperative CF RT was given to a total dose of 60 or 66 Gy during 6-7 weeks. In the per protocol population, HRQoL was assessed with the EORTC QLQ-C30, QLQ-H&N35, and HADS questionnaires at five occasions during the five-year follow-up period. Direct and indirect costs were retrieved, and a cost-utility analysis (CUA) was conducted using quality-adjusted life years (QALYs) as outcome measure. HRQoL was analysed in 218 patients (i.e., the per-protocol population), of whom 204 were included in the CUA. Up until two years after treatment, the preoperative AF RT-group featured significantly worse HRQoL in a few of the QLQ-H&N35 scales compared to the postoperative CF RT-group. In the CUA, preoperative AF RT was less effective and more expensive than postoperative CF RT. Postoperative CF RT is associated with fewer symptoms in selected head-and-neck-specific domains and is more cost-effective than preoperative AF RT in the treatment of OCC.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42431267/",
       "pmcid": "",
       "figure_urls": []
     },
