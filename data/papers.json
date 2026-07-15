@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T04:56:26Z",
+  "updated_at": "2026-07-15T04:56:44Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -10,6 +10,33 @@
     "cleft lip and palate surgery"
   ],
   "papers": [
+    {
+      "pmid": "42445966",
+      "title": "xinguangA preliminary characterization of PI4K/PIPK alterations across solid tumors: an exploratory framework for prognostic and therapeutic stratification.",
+      "authors": [
+        "Yaqiong Jie",
+        "Zhongyu Lu",
+        "Xiaoxuan Wang",
+        "Dongsheng Chen",
+        "Xing Zhang",
+        "Xinguang Han"
+      ],
+      "publication_date": "2026-Dec-31",
+      "publication_date_iso": "2026-12-31",
+      "abstract": "This study aimed to systematically characterize the genomic alteration landscape of phosphatidylinositol 4-kinase (PI4K) and phosphatidylinositol phosphate kinase (PIPK) family genes in solid tumors, assess the correlation of these alterations with patient clinical outcomes and the tumor immune microenvironment, and explore their potential as novel biomarkers or therapeutic targets. A retrospective analysis was conducted on whole-exome sequencing data from a cohort of 2,144 Chinese patients encompassing 18 solid tumor types. Genomic and transcriptomic data from The Cancer Genome Atlas (TCGA) pan-cancer project were integrated to perform survival analysis, correlating genomic alterations, gene expression levels, and patient overall survival. Associations between these gene alterations and tumor mutational burden (TMB), microsatellite instability (MSI), and levels of tumor-infiltrating immune cells were also evaluated. We identified PI4K/PIPK alterations in 10.5% of 2,144 patients, with PIP4K2C amplification reaching 48%. While PI4K2B amplification and overexpression are consistently associated with poor prognosis in COAD, family-wide effects were highly heterogeneous across cancers. Alterations significantly correlated with higher TMB and MSI-H, and multi-omics analysis revealed tissue-specific immune landscapes, highlighting the family's potential for risk stratification and immunotherapy. This study provides the first systematic delineation of the genomic alteration landscape of PI4K and PIPK families at a pan-cancer scale within a Chinese population. It identifies PI4K2B as an amplification-driven prognostic biomarker in colorectal cancer, with potential clinical value analogous to HER2. These findings illuminate the significant roles of these kinases in cancer and provide novel insights for future precision oncology strategies.",
+      "objective": "",
+      "study_methods": "A retrospective analysis was conducted on whole-exome sequencing data from a cohort of 2,144 Chinese patients encompassing 18 solid tumor types. Genomic and transcriptomic data from The Cancer Genome Atlas (TCGA) pan-cancer project were integrated to perform survival analysis, correlating genomic alterations, gene expression levels, and patient overall survival. Associations between these gene alterations and tumor mutational burden (TMB), microsatellite instability (MSI), and levels of tumor-infiltrating immune cells were also evaluated.",
+      "methods": "A retrospective analysis was conducted on whole-exome sequencing data from a cohort of 2,144 Chinese patients encompassing 18 solid tumor types. Genomic and transcriptomic data from The Cancer Genome Atlas (TCGA) pan-cancer project were integrated to perform survival analysis, correlating genomic alterations, gene expression levels, and patient overall survival. Associations between these gene alterations and tumor mutational burden (TMB), microsatellite instability (MSI), and levels of tumor-infiltrating immune cells were also evaluated.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42445966/",
+      "pmcid": "",
+      "figure_urls": []
+    },
     {
       "pmid": "42316890",
       "title": "TRABD2A promotes osteogenic differentiation of human periodontal ligament stem cells by modulating TNF-α and IL-1β.",
@@ -622,6 +649,34 @@
       "figure_urls": []
     },
     {
+      "pmid": "42303111",
+      "title": "Social inequalities in the use of implant-supported prostheses among older adults: A cross-sectional study.",
+      "authors": [
+        "Victor Zanetti Drumond",
+        "José Alcides Almeida de Arruda",
+        "Anna Carolina Rye Sato Kimura",
+        "Bruno Augusto Benevenuto de Andrade",
+        "Muath AlDosari",
+        "Ricardo Alves Mesquita",
+        "Lucas Guimarães Abreu"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "To estimate the prevalence of implant-supported prostheses and examine socioeconomic and service-related inequalities among Brazilian adults, aged 65-74 years, using nationally representative data. A cross-sectional analysis was conducted using secondary data from the 2023 Brazilian Oral Health Survey (SB Brasil). Survey-weighted descriptive analyses, Rao-Scott tests, and multivariable logistic regression were applied. Inequalities were assessed using slope and relative indices of inequality for income and education. Among 9745 individuals, the weighted prevalence of having at least one dental implant was 21.1%, representing approximately 2.49 million individuals nationwide. Implant prevalence was highest among individuals earning ≥5 minimum wages (54.0%), recent dental service users (29.4%), those using private care (26.7%), White individuals (25.7%), and women (23.2%). Conversely, fully adjusted models revealed that the absence of implants was independently associated with the lowest household income category (≤1 minimum wage; OR=4.06, 95% CI: 2.36-6.99), infrequent dental visits (>3 years, OR=2.56; 95% CI: 1.78-3.70), reliance on public healthcare (OR=1.98, 95% CI: 1.47-2.66), Black/Brown race (OR=1.47, 95% CI: 1.10-1.97), and male sex (OR=1.40; 95% CI:1.02-1.91). Income showed the strongest and most persistent inequality gradient, whereas educational inequalities were attenuated after adjustment. Model discrimination was moderate. Access to implant-supported oral rehabilitation among older Brazilians is strongly patterned by socioeconomic position, with income appearing as the dominant determinant. Socioeconomic disparities, particularly income, substantially influence access to implant-supported rehabilitation among older Brazilian adults. These findings highlight the need for policies that expand equitable access to advanced oral rehabilitation within public health systems.",
+      "objective": "",
+      "study_methods": "A cross-sectional analysis was conducted using secondary data from the 2023 Brazilian Oral Health Survey (SB Brasil). Survey-weighted descriptive analyses, Rao-Scott tests, and multivariable logistic regression were applied. Inequalities were assessed using slope and relative indices of inequality for income and education.",
+      "methods": "A cross-sectional analysis was conducted using secondary data from the 2023 Brazilian Oral Health Survey (SB Brasil). Survey-weighted descriptive analyses, Rao-Scott tests, and multivariable logistic regression were applied. Inequalities were assessed using slope and relative indices of inequality for income and education.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42303111/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42297065",
       "title": "Circadian gene BMAL1 attenuates gingival fibroblast senescence to suppress diabetic periodontitis progression.",
       "authors": [
@@ -680,6 +735,33 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42258963/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42214655",
+      "title": "Long-term outcomes of regenerative periodontal therapy and orthodontic treatment: 20-year results from a prospective study.",
+      "authors": [
+        "Andrea Roccuzzo",
+        "Yuan Li",
+        "Giovanni E Salvi",
+        "Alexandra Stähli",
+        "Jean-Claude Imber",
+        "Mario Roccuzzo"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "To evaluate the 20-year clinical outcomes of periodontal regenerative and orthodontic treatment for severely periodontally compromised teeth. In this prospective study, 48 patients with Stage IV periodontitis, each with at least one non-molar tooth (n = 48 test teeth) exhibiting pathologic migration and an associated intrabony defect characterized by probing depth (PD) of ≥ 7 mm, were consecutively included. The treatment protocol comprised: 1) supra/sub-gingival instrumentation (Step Ⅰ-Ⅱ); 2) periodontal regenerative surgery using enamel matrix derivative (EMD) alone or combined with a bone graft and membrane (Step Ⅲ); 3) orthodontic treatment initiated 8-12 months post-surgery to correct malposition (Step R); and 4) tailored supportive periodontal care (SPC) (Step Ⅳ). Clinical parameters were recorded at baseline (T0), 10-year (T10), and 20-year (T20) follow-up visits. Thirty-three patients (drop-out rate: 31.2%; n = 29 test teeth) completed the 20-year follow-up. The T20 estimated tooth survival was 89.1% (CI: 79.4-99.9%), while complication-free probability was 86.3% (CI: 75.7-98.3%). Overall, five test teeth experienced complications (1 pulp necrosis, 2 root fractures, 2 periodontal disease recurrence) and four were extracted during the 20-year period. All periodontal parameters significantly improved from T0 to T20: full-mouth plaque scores decreased from 48.8% to 14.6% (34.2 ± 19.3%; 95% CI: 27.3, 41.0; p < 0.001), and full-mouth bleeding scores dropped from 55.5% to 10.2% (45.4 ± 18.5%; 95% CI: 38.8, 51.9; p < 0.001). The number of sites with PD ≥ 7 mm was reduced from 25.8 to 0.9 (24.9 ± 17.0; 95% CI: 18.9, 30.9; p < 0.001). At the test tooth level, mean PD decreased from 6.3 mm to 3.0 mm (3.1 ± 1.4 mm; 95% CI: 2.6, 3.7; p < 0.001). Treatment success (i.e., tooth survival + PD ≤ 4 mm) was observed in 81.8 % of cases. The 20-year results demonstrate that orthodontic treatment subsequent to periodontal regeneration is a predictable strategy for long-term tooth preservation, provided it is integrated into a stringent and tailored supportive care program. This interdisciplinary approach does not compromise the benefits of regeneration and offers a viable alternative to tooth extraction. This study revealed that the combination of peridoontal regeneration and orthodontic therapy can successfully preserve natural teeth in severe periodontitis cases over two decades, highlighting the critical role of a tailored SPC program.",
+      "objective": "",
+      "study_methods": "In this prospective study, 48 patients with Stage IV periodontitis, each with at least one non-molar tooth (n = 48 test teeth) exhibiting pathologic migration and an associated intrabony defect characterized by probing depth (PD) of ≥ 7 mm, were consecutively included. The treatment protocol comprised: 1) supra/sub-gingival instrumentation (Step Ⅰ-Ⅱ); 2) periodontal regenerative surgery using enamel matrix derivative (EMD) alone or combined with a bone graft and membrane (Step Ⅲ); 3) orthodontic treatment initiated 8-12 months post-surgery to correct malposition (Step R); and 4) tailored supportive periodontal care (SPC) (Step Ⅳ). Clinical parameters were recorded at baseline (T0), 10-year (T10), and 20-year (T20) follow-up visits.",
+      "methods": "In this prospective study, 48 patients with Stage IV periodontitis, each with at least one non-molar tooth (n = 48 test teeth) exhibiting pathologic migration and an associated intrabony defect characterized by probing depth (PD) of ≥ 7 mm, were consecutively included. The treatment protocol comprised: 1) supra/sub-gingival instrumentation (Step Ⅰ-Ⅱ); 2) periodontal regenerative surgery using enamel matrix derivative (EMD) alone or combined with a bone graft and membrane (Step Ⅲ); 3) orthodontic treatment initiated 8-12 months post-surgery to correct malposition (Step R); and 4) tailored supportive periodontal care (SPC) (Step Ⅳ). Clinical parameters were recorded at baseline (T0), 10-year (T10), and 20-year (T20) follow-up visits.",
+      "results": "demonstrate that orthodontic treatment subsequent to periodontal regeneration is a predictable strategy for long-term tooth preservation, provided it is integrated into a stringent and tailored supportive care program. This interdisciplinary approach does not compromise the benefits of regeneration and offers a viable alternative to tooth extraction. This study revealed that the combination of peridoontal regeneration and orthodontic therapy can successfully preserve natural teeth in severe periodontitis cases over two decades, highlighting the critical role of a tailored SPC program.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42214655/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -756,6 +838,32 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/gr1.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/gr1.gif"
       ]
+    },
+    {
+      "pmid": "42162783",
+      "title": "Zirconia in dentistry: A 25-year bibliometric analysis of research trends, thematic evolution, and emerging frontiers.",
+      "authors": [
+        "Jingkun Zhang",
+        "Guangwei Chen",
+        "Wenshu Wu",
+        "Xinchao Miao",
+        "Youcheng Luo"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "This bibliometric analysis aimed to map the global research landscape of zirconia in dentistry over the past 25 years, focusing on publication output, collaboration patterns, thematic evolution, and emerging research fronts. Records published between 2000 and 2025 were retrieved from the Web of Science Core Collection using a zirconia-specific search strategy. After screening, 6156 publications were included. Bibliometric analyses were conducted using VOSviewer, CiteSpace, and Bibliometrix to examine performance indicators, coauthorship and cocitation networks, keyword clustering, thematic evolution, and research frontiers. Journal metrics were obtained from the 2025 Journal Citation Reports. Correlation analyses between publication output and citation counts were performed using SPSS. Annual zirconia-related publications increased from fewer than 20 in 2000 to 494 by September 2025, reflecting sustained research activity over the observation period. The United States, Germany, Brazil, and Switzerland were the most productive contributors, while China, the Republic of Korea, and Turkey showed notable increases in output. The leading institutions included the University of Zurich, the University of São Paulo, and the University of Bern, with authors Kern, Sailer, and Özcan forming prominent collaboration networks. Cocitation and keyword analyses indicated thematic progression from structural reliability to bonding and interface research, esthetic-driven phase development, digital workflow accuracy, implant-supported zirconia components, and, more recently, additive manufacturing. Citation-burst detection highlighted emerging topics, including monolithic zirconia, translucency enhancement, computer-aided design and computer-aided manufacturing (CAD/CAM) precision, digital workflows, and three-dimensional (3D) printing. Zirconia-related dental research has evolved from a focus on mechanical reliability to broader themes encompassing bonding, esthetics, implant applications, and digital workflows, with emerging interest in additive manufacturing. By mapping research trends and thematic evolution, this bibliometric analysis provides insights into the shifting focus of zirconia research toward digitally integrated and clinically contextualized domains. These findings may support future research prioritization and methodological refinement in digital prosthodontics and dental materials.",
+      "objective": "",
+      "study_methods": "Records published between 2000 and 2025 were retrieved from the Web of Science Core Collection using a zirconia-specific search strategy. After screening, 6156 publications were included. Bibliometric analyses were conducted using VOSviewer, CiteSpace, and Bibliometrix to examine performance indicators, coauthorship and cocitation networks, keyword clustering, thematic evolution, and research frontiers. Journal metrics were obtained from the 2025 Journal Citation Reports. Correlation analyses between publication output and citation counts were performed using SPSS.",
+      "methods": "Records published between 2000 and 2025 were retrieved from the Web of Science Core Collection using a zirconia-specific search strategy. After screening, 6156 publications were included. Bibliometric analyses were conducted using VOSviewer, CiteSpace, and Bibliometrix to examine performance indicators, coauthorship and cocitation networks, keyword clustering, thematic evolution, and research frontiers. Journal metrics were obtained from the 2025 Journal Citation Reports. Correlation analyses between publication output and citation counts were performed using SPSS.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42162783/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "42302928",
@@ -1371,101 +1479,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42404631",
-      "title": "Photocontrolled biomimetic PEEK scaffold with black phosphorus-strontium ion cascade release for vascularized bone regeneration.",
-      "authors": [
-        "Fang Guo",
-        "BingQian Wang",
-        "Xiaoning Su",
-        "Xingxing Lv",
-        "Shuo Huang",
-        "Yayuan Guo",
-        "Yang Xue",
-        "Changkui Liu"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Effective repair of large bone defects poses a major clinical challenge. Traditional 3D printed polyetheretherketone (PEEK) scaffolds provide customized structures and mechanical adaptability. However, their biological inertness and lack of dynamic bioactive microenvironment limit vascular regeneration and osteogenic differentiation, ultimately limiting overall bone regeneration. This study combined photothermal responsive black phosphorus nanosheets (BPNSs) with strontium ions (Sr2+), and further modified the combination with polydopamine (PDA) to construct 'PDA@BP-Sr Nanocomposites'; subsequently a photo responsive biomimetic porous PEEK scaffold (PEEK-PDA@BP-Sr, PPBS) was developed. Under near-infrared light-induced controllable mild photothermal conditions (40-42 °C), this porous scaffold enables the time-dependent release of bioactive ions, significantly promoting the proliferation, migration, and tube formation of human umbilical vein endothelial cells (HUVECs). Moreover, it activates the ERK1/2 signaling pathway by upregulating HSP70 expression, effectively regulating the osteogenic differentiation of rat bone marrow mesenchymal stem cells (rBMSCs) in vitro. In a rabbit femoral defect model, in-vivo experiments further confirmed that NIR light irradiation enables the PPBS scaffold to dynamically regulate the vascularization bone formation coupling. This promotes early vascularization and bone regeneration, significantly accelerating bone defect repair. This study successfully developed a novel bone repair scaffold that combines structural biomimicry, mechanical adaptation, and efficient biological activity. Additionally, the study also provides important technical support for bone defect repair under conditions of insufficient blood supply.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42404631/",
-      "pmcid": "PMC13331991",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42403631",
-      "title": "Keratocystoma of the Parotid Gland: A Systematic Review of Clinicopathologic Characteristics.",
-      "authors": [
-        "Rijahd Sahmer Boustani",
-        "Malte Gronewold",
-        "Sönke Maximilian Braß",
-        "Efthymios Papazacharias",
-        "Michael-Tobias Neuhaus",
-        "Fritjof Lentge",
-        "Nils-Claudius Gellrich",
-        "Philipp Jehn",
-        "Philippe Korn"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Keratocystoma is a rare benign neoplasm of the parotid gland, histologically characterized by multicystic keratinizing stratified squamous epithelium. Due to its resemblance to squamous malignancies, it represents a diagnostic challenge. This systematic review aims to summarize all published cases of parotid gland keratocystoma and to integrate one newly identified case in order to define its clinicopathologic features and clinical outcomes. A systematic literature search of PubMed and Google Scholar was conducted without date restrictions in accordance with PRISMA 2020 guidelines. The protocol was registered in PROSPERO (CRD420251024191). Peer-reviewed case reports and case series of histopathologically confirmed keratocystoma limited to the parotid gland were included. Demographic, clinical, radiologic, histopathologic, immunohistochemical, therapeutic, and follow-up data were extracted and descriptively analyzed. Methodological quality was assessed using the Joanna Briggs Institute (JBI) Critical Appraisal Checklists. One additional institutional case treated at Hannover Medical School in March 2025 was included. Fifteen patients (14 from the literature and one new case) were identified. The mean age was 36.9 years (range: 1-77 years) with a slight male predominance. All tumors presented as painless parotid swellings and were treated surgically, most commonly by partial or lateral parotidectomy. No recurrences were reported during a mean follow-up of 22.8 months. Histologically, all cases demonstrated consistent squamous epithelial features with immunohistochemical positivity for AE1/AE3, CK5/14, and p63. The newly reported case represents the oldest patient described to date. Keratocystoma of the parotid gland exhibits reproducible benign clinical behavior and characteristic histopathologic features. Surgical excision appears curative, supporting its classification as a distinct benign salivary gland neoplasm that should be considered in the differential diagnosis of cystic parotid lesions.",
-      "objective": "to summarize all published cases of parotid gland keratocystoma and to integrate one newly identified case in order to define its clinicopathologic features and clinical outcomes. A systematic literature search of PubMed and Google Scholar was conducted without date restrictions in accordance with PRISMA 2020 guidelines. The protocol was registered in PROSPERO (CRD420251024191). Peer-reviewed case reports and case series of histopathologically confirmed keratocystoma limited to the parotid gland were included. Demographic, clinical, radiologic, histopathologic, immunohistochemical, therapeutic, and follow-up data were extracted and descriptively analyzed. Methodological quality was assessed using the Joanna Briggs Institute (JBI) Critical Appraisal Checklists. One additional institutional case treated at Hannover Medical School in March 2025 was included. Fifteen patients (14 from the literature and one new case) were identified. The mean age was 36.9 years (range: 1-77 years) with a slight male predominance. All tumors presented as painless parotid swellings and were treated surgically, most commonly by partial or lateral parotidectomy. No recurrences were reported during a mean follow-up of 22.8 months. Histologically, all cases demonstrated consistent squamous epithelial features with immunohistochemical positivity for AE1/AE3, CK5/14, and p63. The newly reported case represents the oldest patient described to date. Keratocystoma of the parotid gland exhibits reproducible benign clinical behavior and characteristic histopathologic features. Surgical excision appears curative, supporting its classification as a distinct benign salivary gland neoplasm that should be considered in the differential diagnosis of cystic parotid lesions.",
-      "study_methods": "A systematic literature search of PubMed and Google Scholar was conducted without date restrictions in accordance with PRISMA 2020 guidelines. The protocol was registered in PROSPERO (CRD420251024191). Peer-reviewed case reports and case series of histopathologically confirmed keratocystoma limited to the parotid gland were included. Demographic, clinical, radiologic, histopathologic, immunohistochemical, therapeutic, and follow-up data were extracted and descriptively analyzed. Methodological quality was assessed using the Joanna Briggs Institute (JBI) Critical Appraisal Checklists. One additional institutional case treated at Hannover Medical School in March 2025 was included.",
-      "methods": "A systematic literature search of PubMed and Google Scholar was conducted without date restrictions in accordance with PRISMA 2020 guidelines. The protocol was registered in PROSPERO (CRD420251024191). Peer-reviewed case reports and case series of histopathologically confirmed keratocystoma limited to the parotid gland were included. Demographic, clinical, radiologic, histopathologic, immunohistochemical, therapeutic, and follow-up data were extracted and descriptively analyzed. Methodological quality was assessed using the Joanna Briggs Institute (JBI) Critical Appraisal Checklists. One additional institutional case treated at Hannover Medical School in March 2025 was included.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42403631/",
-      "pmcid": "PMC13332516",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42379315",
-      "title": "Digital technologies for healthy longevity: A policy agenda from the Einstein circle on inclusive, data-driven ageing societies.",
-      "authors": [
-        "Katarina Braune",
-        "Thorsten Schaaf",
-        "Felix Balzer",
-        "Dawn I Bershtein",
-        "Andrew Broderick",
-        "Pelin Celik",
-        "Tabea Flügge",
-        "Katherine K Kim",
-        "Nils Lahmann",
-        "David Lindemann",
-        "Stefan Mainka",
-        "Susan Mérillat",
-        "Jörg Pohle",
-        "Thomas Schildhauer",
-        "Mike Martin"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Rapid population ageing presents one of the defining global health challenges of the twenty-first century. While digital technologies are increasingly used to support older adults, their deployment often remains fragmented, inequitable, and insufficiently guided by ethical and legal frameworks. This paper proposes an integrated policy agenda for healthy longevity, based on the interdisciplinary work of the Einstein Circle Longevity - Healthy Ageing Assisted by Digital Technologies. Drawing on literature, expert deliberation, and practical exemplars, we developed a conceptual framework encompassing seven interrelated domains-medical, technical, practical, interactive, psycho-social, ethical, and legal. The framework highlights the need to reframe health and ageing policy around functional ability and healthspan, not merely disease outcomes, and to embed equity and participation throughout the design and governance of digital health systems. Digital technologies can extend preventive and personalised care, foster independence, and enhance participation across the life course. Yet their benefits remain unevenly distributed because of disparities in digital access, usability, and representation in data and design. Policies must ensure that technologies respect human rights, protect autonomy, and strengthen - rather than replace - social relationships and professional care. Realising the potential of digital health for healthy longevity requires investment in interoperable infrastructure, participatory design, and ethical and legal safeguards. Cross-sector collaboration and transparent governance are essential to ensure that technology adds not only years to life, but life to years.",
-      "objective": "",
-      "study_methods": "Drawing on literature, expert deliberation, and practical exemplars, we developed a conceptual framework encompassing seven interrelated domains-medical, technical, practical, interactive, psycho-social, ethical, and legal. The framework highlights the need to reframe health and ageing policy around functional ability and healthspan, not merely disease outcomes, and to embed equity and participation throughout the design and governance of digital health systems.",
-      "methods": "Drawing on literature, expert deliberation, and practical exemplars, we developed a conceptual framework encompassing seven interrelated domains-medical, technical, practical, interactive, psycho-social, ethical, and legal. The framework highlights the need to reframe health and ageing policy around functional ability and healthspan, not merely disease outcomes, and to embed equity and participation throughout the design and governance of digital health systems.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42379315/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42372418",
       "title": "The Role of Radiological Imaging in Pediatric Nasal Fractures: Too Much, Too Often?",
       "authors": [
@@ -1817,7 +1830,7 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42087465/",
-      "pmcid": "",
+      "pmcid": "PMC13358445",
       "figure_urls": []
     },
     {
@@ -2477,6 +2490,93 @@
       "figure_urls": []
     },
     {
+      "pmid": "42449157",
+      "title": "Perceptions of interprofessional education among medical and dental students in the United Arab Emirates: a cross-sectional study.",
+      "authors": [
+        "Nada Tawfig Hashim",
+        "Muhammed Mustahsen Rahman",
+        "Sharifa Jameel Hossain",
+        "Rasha Babiker",
+        "Vivek Padmanabhan",
+        "Md Sofiqul Islam",
+        "Nallan C S K Chaitanya",
+        "Riham Mohammed",
+        "Shahistha Parveen Dasnadi",
+        "Abdullah Khalid Jawdat Nazanda",
+        "Ibraheem Adham Baloush"
+      ],
+      "publication_date": "2026-Jul-14",
+      "publication_date_iso": "2026-07-14",
+      "abstract": "Interprofessional education (IPE) prepares medical and dental students for collaborative, team-based care, yet little is known about how students perceive IPE within integrated academic environments in the Gulf region. A cross-sectional study was conducted between January and April 2025 at RAK Medical & Health Sciences University and RAK College of Dental Sciences in the United Arab Emirates. A printed, structured questionnaire adapted from validated tools was distributed to undergraduate medical and dental students. The survey evaluated interdisciplinary knowledge, teaching content, interprofessional value, and attitudes toward IPE using a five-point Likert scale. Data were analyzed using SPSS version 23, with descriptive statistics, Shapiro-Wilk normality tests, unequal variance t-tests, Cronbach's alpha, and Spearman's correlation utilized to evaluate group differences and internal consistency. Ethical approval was obtained (Ref: TAKMHSU-HEC-51-2023/24-F-D). A total of 273 students participated (157 medicals, 116 dentals; 50.2% female). Clinical-phase students reported significantly more favorable perceptions across domains of interdisciplinary knowledge, teaching content, and interprofessional value (p < 0.01). The internal consistency of the questionnaire was high (α > 0.85 for most domains). Strong inter-domain correlations were observed, especially between teaching content and perceived value. No significant differences were found based on gender. Clinical exposure was associated with more favorable perceptions of IPE. These findings support embedding structured, experiential IPE from the preclinical years onward-through shared case-based teaching, interprofessional simulation, and co-facilitated clinical activities-rather than relying on clinical contact alone. For curriculum developers and institutional policymakers, the results highlight the value of integrating IPE across both preclinical and clinical curricula and of targeting attitudinal development specifically. Longitudinal and intervention-based studies are needed to confirm whether such exposure produces durable gains in collaborative competence.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "highlight the value of integrating IPE across both preclinical and clinical curricula and of targeting attitudinal development specifically. Longitudinal and intervention-based studies are needed to confirm whether such exposure produces durable gains in collaborative competence.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42449157/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42447131",
+      "title": "Clinicopathological Characteristics and Survival in Young Adults With Oral Squamous Cell Carcinoma: A Retrospective Comparative Cohort Study.",
+      "authors": [
+        "Jeanne Christine Eitner-Pchalek",
+        "Christian Wagner",
+        "Christian Linz",
+        "Matthias Kreppel"
+      ],
+      "publication_date": "2026-Jul-14",
+      "publication_date_iso": "2026-07-14",
+      "abstract": "The incidence of oral squamous cell carcinoma (OSCC) in younger patients is increasing, but it remains unclear whether early-onset disease differs prognostically from OSCC in older individuals. We retrospectively compared 68 patients aged ≤ 45 years and 616 patients aged > 45 years with primary surgically treated OSCC (2009-2021). Clinicopathological variables were reassessed according to the eighth edition of the UICC/AJCC TNM classification. Overall survival (OS) and locoregional recurrence-free survival (LRRFS) were analyzed using Kaplan-Meier and log-rank methods; cohorts were compared using chi-square and Mann-Whitney U tests. Five-year OS and LRRFS were similar in younger and older patients (77%/74% vs. 74%/74%). In both cohorts, outcomes were significantly associated with tumor stage, nodal status, resection margins, lymph node ratio (LNR), and histopathological risk factors including perineural and lymphovascular invasion. Among node-positive patients, higher LNR was associated with worse OS in both age groups, while older patients showed significantly higher LNR values despite comparable lymph node metastasis rates. Tumor localization differed significantly: tongue carcinomas were more frequent in younger patients, whereas floor-of-mouth and mandibular tumors predominated in older individuals. In surgically treated OSCC, prognosis appears to be determined primarily by tumor-related factors rather than patient age.",
+      "objective": "",
+      "study_methods": "We retrospectively compared 68 patients aged ≤ 45 years and 616 patients aged > 45 years with primary surgically treated OSCC (2009-2021). Clinicopathological variables were reassessed according to the eighth edition of the UICC/AJCC TNM classification. Overall survival (OS) and locoregional recurrence-free survival (LRRFS) were analyzed using Kaplan-Meier and log-rank methods; cohorts were compared using chi-square and Mann-Whitney U tests.",
+      "methods": "We retrospectively compared 68 patients aged ≤ 45 years and 616 patients aged > 45 years with primary surgically treated OSCC (2009-2021). Clinicopathological variables were reassessed according to the eighth edition of the UICC/AJCC TNM classification. Overall survival (OS) and locoregional recurrence-free survival (LRRFS) were analyzed using Kaplan-Meier and log-rank methods; cohorts were compared using chi-square and Mann-Whitney U tests.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42447131/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42446273",
+      "title": "Neutrophil-Mediated Inflammatory Response to Zinc Bone Implants: A Single-Cell Transcriptomic Landscape.",
+      "authors": [
+        "Mi Du",
+        "Qinyang Yan",
+        "Chen Zhu",
+        "An Li",
+        "Jiahao Chen",
+        "Huibin Liang",
+        "Jiannan Zhou",
+        "Ping Li",
+        "Jingtao Dai"
+      ],
+      "publication_date": "2026-Jul-14",
+      "publication_date_iso": "2026-07-14",
+      "abstract": "Zinc (Zn)-based metals have been considered as promising materials for bone regeneration and repair. Neutrophils, as the initial responders in the acute inflammatory phase, play a critical role by generating specialized mediators that facilitate the natural resolution of inflammation. Nevertheless, the mechanisms governing neutrophil-driven inflammation following the implantation of Zn-based metals are not fully elucidated. This study investigated neutrophil-macrophage crosstalk around Zn-based implants using single-cell transcriptomic profiling. A high-resolution cellular atlas of the peri-implant bone marrow microenvironment was generated in a rat femoral model comparing Zn-based implants with the titanium (Ti) ones. The results revealed that Zn implants induced a distinct neutrophil (Neu) subset heterogeneity, including Cd177+ Neu, Ifit1bl+ Neu, RatNP-3b+ Neu, and Prtn3+ Neu, the latter demonstrating enhanced tissue repair ability through osteoclast differentiation pathways. Zn-based metallic implants reduced macrophage (Mac) reactivity and promoted Hp+ Mac dominance compared to Ti implants, which showed higher Apoe+ Mac proportions. Crosstalk analysis identified a significant interaction between the neutrophil subset Ifit1bl+ Neu and the macrophage subset Eno3+ Mac under Zn implantation, mediated by the Lgals9-Ighm ligand-receptor axis. These findings suggested that degradation products of Zn-based implants modulated immune cell differentiation and interaction networks, thereby modulating biological response.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "revealed that Zn implants induced a distinct neutrophil (Neu) subset heterogeneity, including Cd177+ Neu, Ifit1bl+ Neu, RatNP-3b+ Neu, and Prtn3+ Neu, the latter demonstrating enhanced tissue repair ability through osteoclast differentiation pathways. Zn-based metallic implants reduced macrophage (Mac) reactivity and promoted Hp+ Mac dominance compared to Ti implants, which showed higher Apoe+ Mac proportions. Crosstalk analysis identified a significant interaction between the neutrophil subset Ifit1bl+ Neu and the macrophage subset Eno3+ Mac under Zn implantation, mediated by the Lgals9-Ighm ligand-receptor axis. These findings suggested that degradation products of Zn-based implants modulated immune cell differentiation and interaction networks, thereby modulating biological response.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42446273/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42439887",
       "title": "Bone Grafting in Le Fort I Osteotomies: Multi-Institutional Data Analysis of Early Outcomes and Risk Factors.",
       "authors": [
@@ -2569,83 +2669,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42437817",
-      "title": "De-epithelialized gingival unit graft for gingival phenotype modification and root coverage: a randomized controlled trial.",
-      "authors": [
-        "Zeki Kacar",
-        "Ezgi Gurbuz",
-        "Mehmet Meric Ersoz",
-        "Emilio Couso-Queiruga",
-        "H Gencay Keceli"
-      ],
-      "publication_date": "2026-Jul-13",
-      "publication_date_iso": "2026-07-13",
-      "abstract": "The aim was to compare the outcomes of gingival phenotype modification achieved using a de-epithelialized gingival unit graft (DUG) and a de-epithelialized gingival graft (DGG) in the treatment of single gingival recession defects with a coronally advanced flap (CAF). Subjects with bilateral RT1 gingival recession defects were recruited. The sites were randomly assigned to either the DUG or DGG group. The assessments were performed using clinical, linear, and volumetric digital measurements, as well as patient-reported outcome measures. Gingival thickness and mean root coverage were measured as the primary outcome variables. The study was completed with 15 patients and 30 gingival recession defects. At the 6-month follow-up, the change in gingival thickness (DUG: 2.39 ± 0.65 mm; DGG: 1.66 ± 0.50 mm) and digital linear dimension (DUG: 1.66 ± 0.47 mm; DGG: 1.13 ± 0.36 mm) were significantly greater in the DUG group than in the DGG group (p = 0.001 and p = 0.008, respectively). Mean and complete root coverage values were greater in the DUG group, though not significant (95% vs. 75% and 93.3% vs. 66.7%, respectively). Graft thickness was significantly greater in the DUG group (p = 0.027; 1.55 ± 0.50 mm and 1.10 ± 0.32 mm, respectively). No significant intergroup differences were observed in postoperative pain perception or bleeding. DUG demonstrated better root coverage and phenotype modification results. However, the baseline imbalance in graft thickness remains a potential confounder, and the findings should be interpreted cautiously. DUG may offer an alternative tissue for phenotype modification and root coverage in cases with limited soft tissue thickness in the recipient area. ClinicalTrials.gov (identification number NCT05923294). https://clinicaltrials.gov/study/NCT05923294?cond=NCT05923294&rank=1 Date of Submission: June 20th, 2023.",
-      "objective": "was to compare the outcomes of gingival phenotype modification achieved using a de-epithelialized gingival unit graft (DUG) and a de-epithelialized gingival graft (DGG) in the treatment of single gingival recession defects with a coronally advanced flap (CAF). Subjects with bilateral RT1 gingival recession defects were recruited. The sites were randomly assigned to either the DUG or DGG group. The assessments were performed using clinical, linear, and volumetric digital measurements, as well as patient-reported outcome measures. Gingival thickness and mean root coverage were measured as the primary outcome variables. The study was completed with 15 patients and 30 gingival recession defects. At the 6-month follow-up, the change in gingival thickness (DUG: 2.39 ± 0.65 mm; DGG: 1.66 ± 0.50 mm) and digital linear dimension (DUG: 1.66 ± 0.47 mm; DGG: 1.13 ± 0.36 mm) were significantly greater in the DUG group than in the DGG group (p = 0.001 and p = 0.008, respectively). Mean and complete root coverage values were greater in the DUG group, though not significant (95% vs. 75% and 93.3% vs. 66.7%, respectively). Graft thickness was significantly greater in the DUG group (p = 0.027; 1.55 ± 0.50 mm and 1.10 ± 0.32 mm, respectively). No significant intergroup differences were observed in postoperative pain perception or bleeding. DUG demonstrated better root coverage and phenotype modification",
-      "study_methods": "Subjects with bilateral RT1 gingival recession defects were recruited. The sites were randomly assigned to either the DUG or DGG group. The assessments were performed using clinical, linear, and volumetric digital measurements, as well as patient-reported outcome measures. Gingival thickness and mean root coverage were measured as the primary outcome variables.",
-      "methods": "Subjects with bilateral RT1 gingival recession defects were recruited. The sites were randomly assigned to either the DUG or DGG group. The assessments were performed using clinical, linear, and volumetric digital measurements, as well as patient-reported outcome measures. Gingival thickness and mean root coverage were measured as the primary outcome variables.",
-      "results": "However, the baseline imbalance in graft thickness remains a potential confounder, and the findings should be interpreted cautiously. DUG may offer an alternative tissue for phenotype modification and root coverage in cases with limited soft tissue thickness in the recipient area. ClinicalTrials.gov (identification number NCT05923294). https://clinicaltrials.gov/study/NCT05923294?cond=NCT05923294&rank=1 Date of Submission: June 20th, 2023.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42437817/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42227668",
-      "title": "Investigation of the effectiveness of different suture materials used in impacted mandibular third molar extraction on wound healing and clinical features.",
-      "authors": [
-        "Mehmet Melih Ömezli",
-        "Damla Torul",
-        "Zehra Doğanay"
-      ],
-      "publication_date": "2026-Jul-13",
-      "publication_date_iso": "2026-07-13",
-      "abstract": "The aim of this study was to explore the physical and clinical efficacy of different suture materials used following impacted third molar surgery. This retrospective study included patients who underwent mandibular third molar extraction and fulfilled the inclusion criteria. A total of six types of sutures were evaluated: silk, PGLA, PGLA-c, PET, PTFE, and PGCL. Wound healing, pain, and suture-related factors such as ease of manipulation, ease of removal, knot security, and plaque accumulation were evaluated. Sixty-two teeth in 58 patients (20 males, 38 females) with a mean age of 19.87 ± 4.25 years were included. No statistically significant differences were observed among sutures in terms of wound healing, ease of manipulation, and pain, whereas statistically significant differences were observed regarding knot security (P .001), plaque accumulation (P .001), and ease of removal (P = .017). After 1 week, the highest knot security was observed in the PTFE suture, and the lowest was observed in the PGLA suture. Silk suture was found to be the easiest to remove compared to other materials. With the data gathered from this study, it can be concluded that suture materials used in impacted third molar surgery have a limited effect on wound healing and pain; however, they show clinically significant differences in terms of knot security, plaque accumulation, and ease of suture removal.",
-      "objective": "of this study was to explore the physical and clinical efficacy of different suture materials used following impacted third molar surgery. This retrospective study included patients who underwent mandibular third molar extraction and fulfilled the inclusion criteria. A total of six types of sutures were evaluated: silk, PGLA, PGLA-c, PET, PTFE, and PGCL. Wound healing, pain, and suture-related factors such as ease of manipulation, ease of removal, knot security, and plaque accumulation were evaluated. Sixty-two teeth in 58 patients (20 males, 38 females) with a mean age of 19.87 ± 4.25 years were included. No statistically significant differences were observed among sutures in terms of wound healing, ease of manipulation, and pain, whereas statistically significant differences were observed regarding knot security (P .001), plaque accumulation (P .001), and ease of removal (P = .017). After 1 week, the highest knot security was observed in the PTFE suture, and the lowest was observed in the PGLA suture. Silk suture was found to be the easiest to remove compared to other materials. With the data gathered from this study, it can be concluded that suture materials used in impacted third molar surgery have a limited effect on wound healing and pain; however, they show clinically significant differences in terms of knot security, plaque accumulation, and ease of suture removal.",
-      "study_methods": "This retrospective study included patients who underwent mandibular third molar extraction and fulfilled the inclusion criteria. A total of six types of sutures were evaluated: silk, PGLA, PGLA-c, PET, PTFE, and PGCL. Wound healing, pain, and suture-related factors such as ease of manipulation, ease of removal, knot security, and plaque accumulation were evaluated.",
-      "methods": "This retrospective study included patients who underwent mandibular third molar extraction and fulfilled the inclusion criteria. A total of six types of sutures were evaluated: silk, PGLA, PGLA-c, PET, PTFE, and PGCL. Wound healing, pain, and suture-related factors such as ease of manipulation, ease of removal, knot security, and plaque accumulation were evaluated.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42227668/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41183982",
-      "title": "Intra- and inter-examiner reliability of an occlusal force-measuring device equipped with a capacitive-type pressure-mapping sensor sheet.",
-      "authors": [
-        "Yoshihiro Kugimiya",
-        "Masaharu Murakami",
-        "Yu Nakano",
-        "Honoka Sato",
-        "Sae Nagai",
-        "Junya Nakamura"
-      ],
-      "publication_date": "2026-Jul-13",
-      "publication_date_iso": "2026-07-13",
-      "abstract": "To clarify the intra- and inter-examiner reliability of an occlusal force-measuring device equipped with a capacitive-type pressure-mapping sensor sheet in older adults. Thirty-eight individuals (23 women) aged ≥65 (mean ± SD: 79.3±6.1) years were included. The numbers of present and functional teeth were visually examined. Occlusal force was measured using the Oramo-bf device (Sumitomo Riko Co., Aichi, Japan). To evaluate intra-examiner reliability, one dentist measured each participant's occlusal force thrice and calculated the intraclass correlation coefficient (ICC; case 1) and the coefficient of variation (CV). To examine inter-examiner reliability, three dentists measured the occlusal force once per participant and calculated the ICC case 2. The median (first quartile-third quartile [Q1-Q3]) numbers of present and functional teeth were 22.5 (18-27) and 28 (26-28), respectively. The median (Q1-Q3) occlusal force measured by a single examiner across the measurements was 604.8 (261.7-731.5) N. The ICC for a single measurement by one examiner based on all three measurements per participant was 0.982 (95% confidence interval [CI]: 0.969-0.990). The ICC (1,3) for the mean of three repeated measurements by one examiner was 0.994 (95% CI: 0.990-0.997). The mean ± SD CV was 0.052 ± 0.046. The ICC (2,1) for inter-examiner reliability was 0.950 (95% CI: 0.917-0.972). This study revealed high intra- and inter-examiner reliability of measurements obtained using an occlusal force-measuring device equipped with a capacitive-type pressure-mapping sensor sheet. This device may provide reliable results with a single measurement, regardless of the examiner.",
-      "objective": "",
-      "study_methods": "Thirty-eight individuals (23 women) aged ≥65 (mean ± SD: 79.3±6.1) years were included. The numbers of present and functional teeth were visually examined. Occlusal force was measured using the Oramo-bf device (Sumitomo Riko Co., Aichi, Japan). To evaluate intra-examiner reliability, one dentist measured each participant's occlusal force thrice and calculated the intraclass correlation coefficient (ICC; case 1) and the coefficient of variation (CV). To examine inter-examiner reliability, three dentists measured the occlusal force once per participant and calculated the ICC case 2.",
-      "methods": "Thirty-eight individuals (23 women) aged ≥65 (mean ± SD: 79.3±6.1) years were included. The numbers of present and functional teeth were visually examined. Occlusal force was measured using the Oramo-bf device (Sumitomo Riko Co., Aichi, Japan). To evaluate intra-examiner reliability, one dentist measured each participant's occlusal force thrice and calculated the intraclass correlation coefficient (ICC; case 1) and the coefficient of variation (CV). To examine inter-examiner reliability, three dentists measured the occlusal force once per participant and calculated the ICC case 2.",
-      "results": "with a single measurement, regardless of the examiner.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41183982/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42436451",
       "title": "Accuracy of virtual facebow compared to conventional facebow: a systematic review.",
       "authors": [
@@ -2668,7 +2691,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436451/",
-      "pmcid": "",
+      "pmcid": "PMC13355331",
       "figure_urls": []
     },
     {
@@ -2942,153 +2965,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42418925/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42413458",
-      "title": "Accuracy of maxillary positioning using patient-specific implants in a surgery-first approach.",
-      "authors": [
-        "Shady Abu-Sirhan",
-        "Simon Bigus",
-        "Nils Lucca Kern",
-        "Erin Sprünken",
-        "Lukas Mödl",
-        "Robert Gaudin",
-        "Tim Lukas Elter",
-        "Max Heiland",
-        "Tobias Ebker",
-        "Axel Bumann"
-      ],
-      "publication_date": "2026-Jul-07",
-      "publication_date_iso": "2026-07-07",
-      "abstract": "This study aimed to evaluate the transfer accuracy of virtually planned maxillary repositioning within a Surgery First protocol using 3D-printed guides and patient-specific implants. In addition, the feasibility of a fully digital interdisciplinary workflow was analyzed. The patients in this study were treated with a completely virtually planned interdisciplinary treatment pathway according to the Surgery First concept using a 3D-printed maxillary guide and patient-specific implants as well as a 3D-printed final occlusion-splint. The osteosynthesis in the mandible was performed conventionally using miniplates. The postoperative cone beam computed tomography (CBCT) was overlaid with the planning data set and the transfer precision was analyzed with defined bony landmarks in the upper jaw using Onyx Ceph software (Image Instruments). 63 patients were included in the analysis. The gender distribution was almost 2:1. Included were 41 female and 22 male patients. Mean age was 37.9 ± 10.1 years, and 12 patients presented with OSAS. Postoperative complications were rare and managed conservatively. The transfer accuracy of maxillary positioning was within ±1-2 mm at all landmarks, with only occasional minimal exceedance of the 3-mm threshold, indicating high clinical accuracy. Regional differences were observed, with slightly larger deviations at L4 and L5 and smaller deviations at L9-L11 (global p < 0.01); however, these did not compromise overall clinical precision. Virtual surgical planning combined with patient-specific cutting guides and customized osteosynthesis plates enables clinically accurate maxillary positioning in Surgery First patients, with transfer deviations predominantly within the accepted 1-2 mm threshold. The fully digital interdisciplinary workflow allows predictable intraoperative transfer despite the absence of a presurgical occlusal reference and can be safely applied across different indications for bimaxillary surgery.",
-      "objective": "",
-      "study_methods": "The patients in this study were treated with a completely virtually planned interdisciplinary treatment pathway according to the Surgery First concept using a 3D-printed maxillary guide and patient-specific implants as well as a 3D-printed final occlusion-splint. The osteosynthesis in the mandible was performed conventionally using miniplates. The postoperative cone beam computed tomography (CBCT) was overlaid with the planning data set and the transfer precision was analyzed with defined bony landmarks in the upper jaw using Onyx Ceph software (Image Instruments).",
-      "methods": "The patients in this study were treated with a completely virtually planned interdisciplinary treatment pathway according to the Surgery First concept using a 3D-printed maxillary guide and patient-specific implants as well as a 3D-printed final occlusion-splint. The osteosynthesis in the mandible was performed conventionally using miniplates. The postoperative cone beam computed tomography (CBCT) was overlaid with the planning data set and the transfer precision was analyzed with defined bony landmarks in the upper jaw using Onyx Ceph software (Image Instruments).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42413458/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42413457",
-      "title": "Sex-related differences in skeletal relapse after bimaxillary orthognathic surgery: A retrospective case-control study.",
-      "authors": [
-        "Fleur Vermeiren",
-        "Ubai Alsharif",
-        "Herman Vercruysse",
-        "Nasser Nadjmi",
-        "Geert Van Hemelen",
-        "Didier Dielen",
-        "Maarten Van Genechten",
-        "Sten Stevens",
-        "Jan Van de Perre",
-        "Elke Van de Casteele"
-      ],
-      "publication_date": "2026-Jul-07",
-      "publication_date_iso": "2026-07-07",
-      "abstract": "Postoperative skeletal relapse remains a significant challenge following orthognathic surgery. While several risk factors, such as the magnitude of surgical movements and high preoperative mandibular plane angle, have been identified, the influence of biological sex on postoperative skeletal stability has not been well established. This study aimed to investigate sex-related differences in skeletal relapse after bimaxillary surgery with mandibular advancement. A matched retrospective case-control study was conducted in 70 patients (35 males, 35 females) who underwent bimaxillary orthognathic surgery at AZ Monica Antwerp (2018-2024). Patients were matched by age, mandibular advancement magnitude, and 1-year follow-up duration. Skeletal changes were assessed using 3D CBCT superimposition at three time points: preoperative (T0), immediate postoperative (T1), and 1-year follow-up (T2). (Clinically significant) mandibular relapse in all three directions at one year was low and did not differ significantly between males and females in any direction. The magnitude of intraoperative mandibular advancement was the strongest predictor of sagittal relapse (β = 0.28 mm per mm), and increasing patient age was associated with a modest reduction in relapse. Adding an interaction term between age and sex did not change the estimates. These findings confirm bimaxillary advancement surgery as a stable procedure regardless of sex.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42413457/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42412015",
-      "title": "Nasal Changes After Le Fort I Osteotomy in Individuals With Cleft Lip and Palate: A Systematic Review.",
-      "authors": [
-        "Luciano R de A Carvalho",
-        "Caroline de P O Gringo",
-        "Isabela T T Da Silveira",
-        "Bhárbara M Barcellos",
-        "Peterson R Garcia",
-        "Osny Ferreira Júnior",
-        "Renato Y F Yaedú"
-      ],
-      "publication_date": "2026-Jul-07",
-      "publication_date_iso": "2026-07-07",
-      "abstract": "ObjectiveTo systematically evaluate reported nasal morphological changes following Le Fort I osteotomy in individuals with cleft lip and palate (CLP).DesignSystematic review.SettingNot applicable.ParticipantsAdolescents (>16 years) and adults with nonsyndromic CLP undergoing maxillary orthognathic surgery.InterventionsLe Fort I osteotomy, performed either in isolation or in combination with bilateral sagittal split osteotomy.Main Outcome MeasuresPostoperative nasal morphological changes, including alar base width, nasal tip projection, nasal length, and nasolabial angle. Additional synthesized outcomes included alar symmetry and soft tissue response ratios when available.ResultsEight observational studies (one prospective, one cross-sectional, and six retrospective), including 201 individuals with CLP, were analyzed. Risk of bias was high in five studies and moderate in three. Across heterogeneous study designs and assessment methods, Le Fort I osteotomy was associated with improvements in alar symmetry and increases in the nasolabial angle (up to +16.0°). Alar widening (up to 3.0 mm) and variable changes in nasal tip projection, ranging from -2.22 to +2.40 mm, were also reported. Soft tissue responses varied substantially, with the nasal base following approximately 55% to 57% of maxillary advancement, nasal tip response ranging from -0.36 to +0.28 mm/mm of maxillary advancement, and nasolabial angle changes reaching 2.61° per millimeter of advancement.ConclusionsLe Fort I osteotomy is associated with postoperative nasal morphological changes in individuals with CLP. Improvements in alar symmetry and nasolabial angle were reported, although alar widening and variable changes in nasal tip projection and nasal length were also observed. Given methodological heterogeneity and moderate-to-high risk of bias, findings should be interpreted cautiously.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Eight observational studies (one prospective, one cross-sectional, and six retrospective), including 201 individuals with CLP, were analyzed. Risk of bias was high in five studies and moderate in three. Across heterogeneous study designs and assessment methods, Le Fort I osteotomy was associated with improvements in alar symmetry and increases in the nasolabial angle (up to +16.0°). Alar widening (up to 3.0 mm) and variable changes in nasal tip projection, ranging from -2.22 to +2.40 mm, were also reported. Soft tissue responses varied substantially, with the nasal base following approximately 55% to 57% of maxillary advancement, nasal tip response ranging from -0.36 to +0.28 mm/mm of maxillary advancement, and nasolabial angle changes reaching 2.61° per millimeter of advancement.ConclusionsLe Fort I osteotomy is associated with postoperative nasal morphological changes in individuals with CLP. Improvements in alar symmetry and nasolabial angle were reported, although alar widening and variable changes in nasal tip projection and nasal length were also observed. Given methodological heterogeneity and moderate-to-high risk of bias, findings should be interpreted cautiously.",
-      "conclusion": "Le Fort I osteotomy is associated with postoperative nasal morphological changes in individuals with CLP. Improvements in alar symmetry and nasolabial angle were reported, although alar widening and variable changes in nasal tip projection and nasal length were also observed. Given methodological heterogeneity and moderate-to-high risk of bias, findings should be interpreted cautiously.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42412015/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42412010",
-      "title": "Craniometaphyseal Dysplasia: A Multidisciplinary Approach and Orthognathic Management in an Adolescent Patient.",
-      "authors": [
-        "Rosheen Fatima",
-        "Olivia Johnson King",
-        "Priya Haria",
-        "Brijesh Patel",
-        "Simon Critchlow",
-        "Caroline Mills",
-        "Nadeem Saeed"
-      ],
-      "publication_date": "2026-Jul-07",
-      "publication_date_iso": "2026-07-07",
-      "abstract": "Craniometaphyseal dysplasia (CMD) is a rare disorder that causes hyperostosis of craniofacial and long bones. Radiographic findings can show narrowing of the foramen magnum due to bony overgrowth. Orthognathic surgery, orthodontics and implant placement in these patients have been rarely reported and can pose significant challenges due to bony sclerosis. We present a male patient with CMD with class III incisors on a skeletal III base, with obstructive and central sleep apnea. Our patient successfully underwent orthodontic treatment, a Le Fort 1 osteotomy with refashioning of the nasal passages, and subsequent implant placement at the age of 16 due to psychosocial pressures. The surgical results have remained stable at 5-year review.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "have remained stable at 5-year review.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42412010/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42412006",
-      "title": "Association Study of Wnt Pathway Genes with Non-syndromic Orofacial Cleft in Han Chinese.",
-      "authors": [
-        "Sixuan Jia",
-        "Meilin Yao",
-        "Wenqi Ba",
-        "Sidi Zhang",
-        "Yue You",
-        "Shijun Duan",
-        "Bing Shi",
-        "Zhonglin Jia"
-      ],
-      "publication_date": "2026-Jul-07",
-      "publication_date_iso": "2026-07-07",
-      "abstract": "ObjectiveTo investigate the association between Wnt signaling pathway genes and non-syndromic orofacial cleft (NSOC) in the Han Chinese population.DesignBased on a previously published genome-wide association study (GWAS), we performed a discovery phase analysis on 635 QC-passed SNPs (out of 7054 initially extracted from 59 Wnt pathway genes). Significant loci were then validated in an independent replication cohort.SettingA specialized craniofacial surgery center within a tertiary care institution.Patients/ParticipantsIn the discovery phase, we extracted the genotype data of 2512 NSOC cases and 2255 controls from two previous published GWASs. The independent replication cohort included 2724 patients with NSOC and 1263 healthy controls, all of Han Chinese descent.InterventionsNo clinical interventions were applied; the study involved genetic data analysis only.Main Outcome MeasuresSNPs associated with NSOC and its subtypes were identified through allelic and genotypic association analyses, with odds ratios (ORs), 95% confidence intervals (CIs), and P-values calculated.ResultsIn the independent replication cohort, rs4821611 in RAC2 was significantly associated with NSOC (P = 5.8 × 10-7, OR = 0.77, 95% CI: 0.70-0.85), NSCL/P (P = 4.4 × 10-11, OR = 0.68, 95%CI: 0.61-0.77), and NSCLO (P = 3.27 × 10-15, OR = 0.6, 95% CI: 0.53-0.68). Genotypic analysis confirmed these associations. rs757190 in WNT3 was also associated with NSCLP (P = 0.00056, OR = 0.78, 95% CI: 0.67-0.90).Conclusionsrs4821611 in RAC2 and rs757190 in WNT3 are associated with NSOC and its subtypes in the Han Chinese population, supporting a role for Wnt signaling in cleft pathogenesis.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "In the independent replication cohort, rs4821611 in RAC2 was significantly associated with NSOC (P = 5.8 × 10-7, OR = 0.77, 95% CI: 0.70-0.85), NSCL/P (P = 4.4 × 10-11, OR = 0.68, 95%CI: 0.61-0.77), and NSCLO (P = 3.27 × 10-15, OR = 0.6, 95% CI: 0.53-0.68). Genotypic analysis confirmed these associations. rs757190 in WNT3 was also associated with NSCLP (P = 0.00056, OR = 0.78, 95% CI: 0.67-0.90).Conclusionsrs4821611 in RAC2 and rs757190 in WNT3 are associated with NSOC and its subtypes in the Han Chinese population, supporting a role for Wnt signaling in cleft pathogenesis.",
-      "conclusion": "rs4821611 in RAC2 and rs757190 in WNT3 are associated with NSOC and its subtypes in the Han Chinese population, supporting a role for Wnt signaling in cleft pathogenesis.",
-      "limitations": "",
-      "topics": [
-        "cleft lip and palate surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42412006/",
       "pmcid": "",
       "figure_urls": []
     }
