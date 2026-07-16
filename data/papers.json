@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T04:56:44Z",
+  "updated_at": "2026-07-16T05:16:05Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -649,6 +649,42 @@
       "figure_urls": []
     },
     {
+      "pmid": "42372578",
+      "title": "Informed consent and ethical considerations in AI for dentistry and medicine: a scoping review.",
+      "authors": [
+        "Andrea Basualdo Allende",
+        "Sarah Sadat Ehsani",
+        "Pascal Eber",
+        "Aminah Ikram Ullah",
+        "Esra Kosan",
+        "Nora Saif",
+        "Mohadeseh Alimohammadi",
+        "Onyeloili Maureen",
+        "Filwende Dan Kientega",
+        "Telmo Galrão",
+        "Ahmad Badruddin Ghazali",
+        "Dalia E Meisha",
+        "Mohamed Adel Youssef Abdelsalam",
+        "Steven Moore",
+        "Parul Khare"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Informed consent (IC) is central to patient autonomy, yet its role in artificial intelligence (AI) for clinical deployment, model development, and secondary data use remains unclear in medicine and dentistry. This review characterised how IC is justified and operationalised for AI; synthesised ethical, legal, governance, and practical requirements; identified gaps in consent models, stakeholders, and AI functionality; and developed author-derived communication thresholds for notification, routine clinical consent with explicit AI disclosure, or AI-specific IC. We conducted a PRISMA-ScR-guided scoping review with an OSF-registered protocol. MEDLINE, Scopus, IEEE Xplore, arXiv, Google Scholar, Web of Science, and HeinOnline were searched for English-language sources published 2015 to 25 May 2026. From 6,242 records, 116 reports were assessed; 69 were included, plus one manual source, yielding 70. Data were charted across 24 domains, synthesised, and appraised with JBI tools. Publications peaked in 2024 (22/70, 31.4%). The evidence base was non-empirical: conceptual analyses (37/70, 52.9%) and narrative reviews/book chapters (17/70, 24.3%). Medicine-only sources predominated (60/70, 85.7%); dentistry-only sources accounted for 8/70 (11.4%). Traditional IC appeared alone in 46/70 sources (65.7%) and overall in 52/70 (74.3%); dynamic consent was uncommon (6/70, 8.6%). IC was endorsed in 67/70 (95.7%) and qualified in 40/70 (57.1%). Explainability/transparency was addressed in 65/70 (92.9%), and proposed solutions in 57/70 (81.4%), but formal protocols remained uncommon (6/70, 8.6%). Thresholds consolidated rules by AI application, automation, risk, data use, and patient decision relevance. AI-related IC is widely endorsed but remains fragmented and largely conceptual. Findings support a risk-adaptive approach to AI-informed consent, calibrated to AI function, automation, risk, data use, explainability, and clinical decision impact. The author-derived thresholds offer a synthesis-informed basis for future governance guidance or framework development, pending empirical and stakeholder validation.",
+      "objective": "",
+      "study_methods": "We conducted a PRISMA-ScR-guided scoping review with an OSF-registered protocol. MEDLINE, Scopus, IEEE Xplore, arXiv, Google Scholar, Web of Science, and HeinOnline were searched for English-language sources published 2015 to 25 May 2026. From 6,242 records, 116 reports were assessed; 69 were included, plus one manual source, yielding 70. Data were charted across 24 domains, synthesised, and appraised with JBI tools.",
+      "methods": "We conducted a PRISMA-ScR-guided scoping review with an OSF-registered protocol. MEDLINE, Scopus, IEEE Xplore, arXiv, Google Scholar, Web of Science, and HeinOnline were searched for English-language sources published 2015 to 25 May 2026. From 6,242 records, 116 reports were assessed; 69 were included, plus one manual source, yielding 70. Data were charted across 24 domains, synthesised, and appraised with JBI tools.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42372578/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42303111",
       "title": "Social inequalities in the use of implant-supported prostheses among older adults: A cross-sectional study.",
       "authors": [
@@ -890,6 +926,33 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42302928/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42372655",
+      "title": "Necrotic tumor cells contribute to pro-tumoral responses and inflammatory mediator production via NF-κB activation in oral squamous cell carcinoma.",
+      "authors": [
+        "Manabu Yamazaki",
+        "Tatsuya Abé",
+        "Satoshi Maruyama",
+        "Kei Tomihara",
+        "Kenji Izumi",
+        "Jun-Ichi Tanuma"
+      ],
+      "publication_date": "2026-Sep-03",
+      "publication_date_iso": "2026-09-03",
+      "abstract": "Although tumor necrosis has traditionally been regarded as a passive consequence of rapid tumor growth, current evidence suggests that necrotic tumor cells actively modulate the behavior of surrounding viable cancer cells. In this study, we investigated whether necrotic tumor cells promote pro-tumoral activation of oral squamous cell carcinoma (OSCC) cells and aimed to elucidate its underlying mechanisms. Human OSCC cell lines were exposed to necrotic tumor cells under both direct and indirect co-culture conditions. Necrotic cells significantly enhanced proliferation, migration, and invasion of viable OSCC cells independent of direct cell-cell contact, which indicates the involvement of soluble factors. Necrotic cell stimulation induced the nuclear accumulation of NF-κB p65 and increased the expression of downstream inflammatory mediators, including CXCL8. Pharmacological inhibition of NF-κB signaling attenuated necrotic cell-induced pro-tumoral phenotypes and reduced CXCL8 secretion. These findings suggest that necrotic tumor cells induce pro-tumoral phenotypic changes in OSCC cells by activating canonical NF-κB signaling and subsequent pro-inflammatory responses. Additionally, this study provides a mechanistic insight into the role of tumor necrosis in establishing a tumor-favorable microenvironment.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42372655/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1372,35 +1435,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42433437",
-      "title": "Artificial intelligence for skeletal classification in orthodontics: A systematic review and meta-analysis of lateral cephalometric studies.",
-      "authors": [
-        "Mahmood Dashti",
-        "Farshad Khosraviani",
-        "Sara Esmaeili",
-        "Niloofar Ghadimi",
-        "Kaan Orhan",
-        "Atieh Meyari",
-        "Zohaib Khurshid",
-        "Falk Schwendicke"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "To synthesize the available evidence on the diagnostic performance of artificial intelligence for sagittal skeletal classification using lateral cephalometric radiographs and to identify methodological limitations affecting clinical translation. PubMed, Embase, Scopus, and Web of Science were searched up to July 13, 2025, following PRISMA guidelines. Eligible studies used artificial intelligence to classify skeletal Class I, II, and III relationships from lateral cephalograms and reported diagnostic performance metrics. Non-image-based models, landmarking-only studies, commercial software evaluations, and non-original reports were excluded. Risk of bias was assessed using QUADAS-2. Exploratory random-effects meta-analyses using restricted maximum likelihood were performed, with subgroup analyses by skeletal class. Because of the small number of eligible studies, heterogeneity, and multiple model-level results from shared data sets, pooled estimates were interpreted cautiously. Ninety-one records were screened, 12 underwent full-text review, four met the inclusion criteria, and three were included in quantitative synthesis, comprising an effective test sample of 2,743 across nine model arms. One study was excluded from pooling because it used combined posteroanterior and lateral inputs with best-fold reporting, limiting comparability. The pooled multiclass performance showed sensitivity of 87.0%, specificity of 91.1%, accuracy of 85.3%, and area under the receiver operating characteristic curve of 0.94. DenseNet-based models generally showed the strongest performance, whereas the Swin-T transformer model showed the weakest performance. QUADAS-2 indicated low to moderate risk of bias, with major concerns related to single-center sampling and lack of external validation. Artificial intelligence shows promising diagnostic performance for sagittal skeletal classification from lateral cephalograms. However, the current evidence remains limited, heterogeneous, and mainly single center. Therefore, pooled estimates should be considered exploratory rather than definitive indicators of clinical performance.",
-      "objective": "",
-      "study_methods": "PubMed, Embase, Scopus, and Web of Science were searched up to July 13, 2025, following PRISMA guidelines. Eligible studies used artificial intelligence to classify skeletal Class I, II, and III relationships from lateral cephalograms and reported diagnostic performance metrics. Non-image-based models, landmarking-only studies, commercial software evaluations, and non-original reports were excluded. Risk of bias was assessed using QUADAS-2. Exploratory random-effects meta-analyses using restricted maximum likelihood were performed, with subgroup analyses by skeletal class. Because of the small number of eligible studies, heterogeneity, and multiple model-level results from shared data sets, pooled estimates were interpreted cautiously.",
-      "methods": "PubMed, Embase, Scopus, and Web of Science were searched up to July 13, 2025, following PRISMA guidelines. Eligible studies used artificial intelligence to classify skeletal Class I, II, and III relationships from lateral cephalograms and reported diagnostic performance metrics. Non-image-based models, landmarking-only studies, commercial software evaluations, and non-original reports were excluded. Risk of bias was assessed using QUADAS-2. Exploratory random-effects meta-analyses using restricted maximum likelihood were performed, with subgroup analyses by skeletal class. Because of the small number of eligible studies, heterogeneity, and multiple model-level results from shared data sets, pooled estimates were interpreted cautiously.",
-      "results": "from shared data sets, pooled estimates were interpreted cautiously. Ninety-one records were screened, 12 underwent full-text review, four met the inclusion criteria, and three were included in quantitative synthesis, comprising an effective test sample of 2,743 across nine model arms. One study was excluded from pooling because it used combined posteroanterior and lateral inputs with best-fold reporting, limiting comparability. The pooled multiclass performance showed sensitivity of 87.0%, specificity of 91.1%, accuracy of 85.3%, and area under the receiver operating characteristic curve of 0.94. DenseNet-based models generally showed the strongest performance, whereas the Swin-T transformer model showed the weakest performance. QUADAS-2 indicated low to moderate risk of bias, with major concerns related to single-center sampling and lack of external validation. Artificial intelligence shows promising diagnostic performance for sagittal skeletal classification from lateral cephalograms. However, the current evidence remains limited, heterogeneous, and mainly single center. Therefore, pooled estimates should be considered exploratory rather than definitive indicators of clinical performance.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42433437/",
-      "pmcid": "PMC13352050",
-      "figure_urls": []
-    },
-    {
       "pmid": "42423273",
       "title": "Long-Term Incidence of Peri-Implant Conditions: 25-Year Results of The Bernese Prospective Cohort Study.",
       "authors": [
@@ -1450,32 +1484,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42418813/",
       "pmcid": "PMC13345598",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42406085",
-      "title": "How Does the Anterior Maxillary Arch Change After Unilateral Lip Repair? A Systematic Review and Meta-Analysis.",
-      "authors": [
-        "Tran Duc Ky Truong",
-        "Tien Thi Trieu Truong",
-        "Phuong Hoai Lam",
-        "Chon Thanh Ho Nguyen",
-        "Tuan Van Nguyen"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "ObjectiveThis systematic review and meta-analysis aimed to quantify morphological changes in the anterior maxillary arch-specifically anterior cleft width (CW) and anterior curvature angle (ACA)-following primary lip repair in children with unilateral cleft lip and palate (UCLP).MethodsA comprehensive search of PubMed, Google Scholar, DOAJ, and the Cochrane Library was conducted through January 2025. Eligible studies reported quantitative pre- and post-operative data on anterior arch morphology. Pooled effect sizes were calculated using a random-effects model with the Knapp-Hartung adjustment. Meta-regression assessed the influence of baseline cleft width and follow-up duration.ResultsTen studies comprising 11 patient cohorts and 265 participants met the inclusion criteria. The pooled mean difference in anterior CW) was -6.217 mm (95% confidence interval (CI): -7.230 to -5.204; P < .001), with substantial heterogeneity (I² = 81.8%). Meta-regression identified initial cleft width as a significant predictor (β = -0.842; P = .002), and follow-up duration showed a borderline association (β = -0.387; P = .051). The predictive equation was: CW(change) = 4.465 - 0.842 × initial width - 0.387 × duration. Lip repair also reduced the anterior curvature angle (MD = -14.66°; 95% CI: -19.62 to -9.7), though heterogeneity was very high (I² = 88.1%).ConclusionPrimary lip repair significantly improves anterior arch dimensions in children with UCLP. Initial cleft width predicts postoperative changes, and the proposed model may support early treatment planning. However, due to substantial heterogeneity across studies, small sample sizes in some included cohorts, and very low certainty of evidence for both outcomes (GRADE approach), the findings should be interpreted with caution and considered exploratory.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Ten studies comprising 11 patient cohorts and 265 participants met the inclusion criteria. The pooled mean difference in anterior CW) was -6.217 mm (95% confidence interval (CI): -7.230 to -5.204; P < .001), with substantial heterogeneity (I² = 81.8%). Meta-regression identified initial cleft width as a significant predictor (β = -0.842; P = .002), and follow-up duration showed a borderline association (β = -0.387; P = .051). The predictive equation was: CW(change) = 4.465 - 0.842 × initial width - 0.387 × duration. Lip repair also reduced the anterior curvature angle (MD = -14.66°; 95% CI: -19.62 to -9.7), though heterogeneity was very high (I² = 88.1%).ConclusionPrimary lip repair significantly improves anterior arch dimensions in children with UCLP. Initial cleft width predicts postoperative changes, and the proposed model may support early treatment planning. However, due to substantial heterogeneity across studies, small sample sizes in some included cohorts, and very low certainty of evidence for both outcomes (GRADE approach), the findings should be interpreted with caution and considered exploratory.",
-      "conclusion": "Primary lip repair significantly improves anterior arch dimensions in children with UCLP. Initial cleft width predicts postoperative changes, and the proposed model may support early treatment planning. However, due to substantial heterogeneity across studies, small sample sizes in some included cohorts, and very low certainty of evidence for both outcomes (GRADE approach), the findings should be interpreted with caution and considered exploratory.",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42406085/",
-      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2490,6 +2498,120 @@
       "figure_urls": []
     },
     {
+      "pmid": "42458224",
+      "title": "Response to: \"Sclerosing Odontogenic Carcinoma: Why Is It Difficult to Diagnose With Confidence?\".",
+      "authors": [
+        "Merva Soluk-Tekkesin",
+        "Keith David Hunter",
+        "Ronell Bologna-Molina",
+        "Kelly Magliocca",
+        "Liam Robinson",
+        "Akinyele Olumuyiwa Adisa",
+        "Jiang Li",
+        "Elizabeth Ann Bilodeau",
+        "Haizal Mohd Hussaini",
+        "Madhu Shrestha",
+        "Ricardo Santiago Gomez",
+        "Willie van Heerden",
+        "Wanninayake Mudiyanselage Tilakaratne"
+      ],
+      "publication_date": "2026-Jul-15",
+      "publication_date_iso": "2026-07-15",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42458224/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42457512",
+      "title": "Comment on \"Readability and performance of AI chatbot responses to frequently asked questions in maxillofacial prosthodontics\".",
+      "authors": [
+        "Rime Chraibi",
+        "Hanae Bouzakhnin",
+        "Soukaina Abidi",
+        "Chaimae Loudili",
+        "Yasmine Hanine",
+        "Youssra Azzouz",
+        "Oumaima Finnaoui",
+        "Hicham Soualhi"
+      ],
+      "publication_date": "2026-Jul-15",
+      "publication_date_iso": "2026-07-15",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42457512/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42454527",
+      "title": "Mandibular idiopathic osteosclerosis mimicking inferior alveolar nerve conflict.",
+      "authors": [
+        "Qendresa Lubishtani",
+        "Mathilde Lombardi",
+        "Tommaso Lombardi",
+        "Alexandre Perez"
+      ],
+      "publication_date": "2026-Jul-15",
+      "publication_date_iso": "2026-07-15",
+      "abstract": "A 28-year-old patient was referred to the Oral Surgery and Implantology Unit at Geneva University Hospitals for extraction of the mandibular third molars following multiple episodes of pericoronitis. A two-dimensional panoramic radiograph (PAN) showed a subtle radiopaque image apparently superimposed on the roots of the third molar, projected over the course of the inferior alveolar canal, suggesting of a close relationship between the inferior alveolar nerve (IAN) and the apices of tooth 38 evoking a nerve conflict. To further assess this apparent anatomical relationship, a three-dimensional cone-beam computed tomography (CBCT) scan was performed. The CBCT demonstrated no direct contact between the mandibular third molar and the inferior alveolar nerve canal. Instead, it revealed a well-defined radiopaque lesion adjacent to the nerve canal, separate from the tooth roots, consistent with idiopathic osteosclerosis. This case highlights the limitations of two-dimensional imaging in evaluating complex anatomical relationships in the posterior mandible. When panoramic radiography shows equivocal findings due to superimposition and suggests a potential nerve–tooth conflict, three-dimensional imaging is essential for accurate diagnosis and treatment planning.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42454527/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42454512",
+      "title": "Outcomes and Complications of Cleft Lip and Palate Surgery During International Surgical Outreach: A Systematic Review.",
+      "authors": [
+        "Abdurrahman Abdurrob",
+        "Areeb Y Shah",
+        "Justin M Soffer",
+        "Ali R Sasani",
+        "Alexander P Marston"
+      ],
+      "publication_date": "2026-Jul-15",
+      "publication_date_iso": "2026-07-15",
+      "abstract": "Evaluating cleft lip and/or palate (CLP) surgical outcomes from short-term international surgical outreach in low- and middle-income countries is essential for high-quality care. To quantify reported surgical outcomes and complications on CLP surgery performed during international outreach, as measured by speech results and complications, including wound dehiscence, hemorrhage, and fistula formation. A systematic review of PubMed and EMBASE identified full-text English-language studies from 1985 to 2025 describing CLP repair in international outreach. Outcomes were extracted per-patient and per-procedure, including complication rates, speech findings, and patient-reported results. Of 450 studies screened, 34 met inclusion criteria (26,529 patients; 30,864 procedures). The mean follow-up was 14.2 months (range: 1 week-11 years). The pooled complication rate was 3.3% per-procedure (1,015/30,864) and 3.8% per-patient (1,015/26,529). Per-procedure complication rates were 2.1% (285/13,823) for lip and 3.8% (642/16,745) for palate repair. The most frequent overall complications were wound dehiscence (1.3%; 400/30,864), hemorrhage (0.4%; 129/30,864), and infection (0.3%; 102/30,864). Among cleft palate repairs, palatal fistula (1.6%; 271/16,745) and flap necrosis (0.5%; 77/16,745) were most common. Four studies described improved speech, social functioning, and satisfaction postoperatively. Short-term CLP surgical outreach demonstrates early complication rates comparable to high-resource settings, although limited follow-up likely underestimates true adverse events.",
+      "objective": "",
+      "study_methods": "A systematic review of PubMed and EMBASE identified full-text English-language studies from 1985 to 2025 describing CLP repair in international outreach. Outcomes were extracted per-patient and per-procedure, including complication rates, speech findings, and patient-reported results.",
+      "methods": "A systematic review of PubMed and EMBASE identified full-text English-language studies from 1985 to 2025 describing CLP repair in international outreach. Outcomes were extracted per-patient and per-procedure, including complication rates, speech findings, and patient-reported results.",
+      "results": "and complications, including wound dehiscence, hemorrhage, and fistula formation. A systematic review of PubMed and EMBASE identified full-text English-language studies from 1985 to 2025 describing CLP repair in international outreach. Outcomes were extracted per-patient and per-procedure, including complication rates, speech findings, and patient-reported results. Of 450 studies screened, 34 met inclusion criteria (26,529 patients; 30,864 procedures). The mean follow-up was 14.2 months (range: 1 week-11 years). The pooled complication rate was 3.3% per-procedure (1,015/30,864) and 3.8% per-patient (1,015/26,529). Per-procedure complication rates were 2.1% (285/13,823) for lip and 3.8% (642/16,745) for palate repair. The most frequent overall complications were wound dehiscence (1.3%; 400/30,864), hemorrhage (0.4%; 129/30,864), and infection (0.3%; 102/30,864). Among cleft palate repairs, palatal fistula (1.6%; 271/16,745) and flap necrosis (0.5%; 77/16,745) were most common. Four studies described improved speech, social functioning, and satisfaction postoperatively. Short-term CLP surgical outreach demonstrates early complication rates comparable to high-resource settings, although limited follow-up likely underestimates true adverse events.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "cleft lip and palate surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42454512/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42449157",
       "title": "Perceptions of interprofessional education among medical and dental students in the United Arab Emirates: a cross-sectional study.",
       "authors": [
@@ -2522,61 +2644,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42447131",
-      "title": "Clinicopathological Characteristics and Survival in Young Adults With Oral Squamous Cell Carcinoma: A Retrospective Comparative Cohort Study.",
-      "authors": [
-        "Jeanne Christine Eitner-Pchalek",
-        "Christian Wagner",
-        "Christian Linz",
-        "Matthias Kreppel"
-      ],
-      "publication_date": "2026-Jul-14",
-      "publication_date_iso": "2026-07-14",
-      "abstract": "The incidence of oral squamous cell carcinoma (OSCC) in younger patients is increasing, but it remains unclear whether early-onset disease differs prognostically from OSCC in older individuals. We retrospectively compared 68 patients aged ≤ 45 years and 616 patients aged > 45 years with primary surgically treated OSCC (2009-2021). Clinicopathological variables were reassessed according to the eighth edition of the UICC/AJCC TNM classification. Overall survival (OS) and locoregional recurrence-free survival (LRRFS) were analyzed using Kaplan-Meier and log-rank methods; cohorts were compared using chi-square and Mann-Whitney U tests. Five-year OS and LRRFS were similar in younger and older patients (77%/74% vs. 74%/74%). In both cohorts, outcomes were significantly associated with tumor stage, nodal status, resection margins, lymph node ratio (LNR), and histopathological risk factors including perineural and lymphovascular invasion. Among node-positive patients, higher LNR was associated with worse OS in both age groups, while older patients showed significantly higher LNR values despite comparable lymph node metastasis rates. Tumor localization differed significantly: tongue carcinomas were more frequent in younger patients, whereas floor-of-mouth and mandibular tumors predominated in older individuals. In surgically treated OSCC, prognosis appears to be determined primarily by tumor-related factors rather than patient age.",
-      "objective": "",
-      "study_methods": "We retrospectively compared 68 patients aged ≤ 45 years and 616 patients aged > 45 years with primary surgically treated OSCC (2009-2021). Clinicopathological variables were reassessed according to the eighth edition of the UICC/AJCC TNM classification. Overall survival (OS) and locoregional recurrence-free survival (LRRFS) were analyzed using Kaplan-Meier and log-rank methods; cohorts were compared using chi-square and Mann-Whitney U tests.",
-      "methods": "We retrospectively compared 68 patients aged ≤ 45 years and 616 patients aged > 45 years with primary surgically treated OSCC (2009-2021). Clinicopathological variables were reassessed according to the eighth edition of the UICC/AJCC TNM classification. Overall survival (OS) and locoregional recurrence-free survival (LRRFS) were analyzed using Kaplan-Meier and log-rank methods; cohorts were compared using chi-square and Mann-Whitney U tests.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42447131/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42446273",
-      "title": "Neutrophil-Mediated Inflammatory Response to Zinc Bone Implants: A Single-Cell Transcriptomic Landscape.",
-      "authors": [
-        "Mi Du",
-        "Qinyang Yan",
-        "Chen Zhu",
-        "An Li",
-        "Jiahao Chen",
-        "Huibin Liang",
-        "Jiannan Zhou",
-        "Ping Li",
-        "Jingtao Dai"
-      ],
-      "publication_date": "2026-Jul-14",
-      "publication_date_iso": "2026-07-14",
-      "abstract": "Zinc (Zn)-based metals have been considered as promising materials for bone regeneration and repair. Neutrophils, as the initial responders in the acute inflammatory phase, play a critical role by generating specialized mediators that facilitate the natural resolution of inflammation. Nevertheless, the mechanisms governing neutrophil-driven inflammation following the implantation of Zn-based metals are not fully elucidated. This study investigated neutrophil-macrophage crosstalk around Zn-based implants using single-cell transcriptomic profiling. A high-resolution cellular atlas of the peri-implant bone marrow microenvironment was generated in a rat femoral model comparing Zn-based implants with the titanium (Ti) ones. The results revealed that Zn implants induced a distinct neutrophil (Neu) subset heterogeneity, including Cd177+ Neu, Ifit1bl+ Neu, RatNP-3b+ Neu, and Prtn3+ Neu, the latter demonstrating enhanced tissue repair ability through osteoclast differentiation pathways. Zn-based metallic implants reduced macrophage (Mac) reactivity and promoted Hp+ Mac dominance compared to Ti implants, which showed higher Apoe+ Mac proportions. Crosstalk analysis identified a significant interaction between the neutrophil subset Ifit1bl+ Neu and the macrophage subset Eno3+ Mac under Zn implantation, mediated by the Lgals9-Ighm ligand-receptor axis. These findings suggested that degradation products of Zn-based implants modulated immune cell differentiation and interaction networks, thereby modulating biological response.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "revealed that Zn implants induced a distinct neutrophil (Neu) subset heterogeneity, including Cd177+ Neu, Ifit1bl+ Neu, RatNP-3b+ Neu, and Prtn3+ Neu, the latter demonstrating enhanced tissue repair ability through osteoclast differentiation pathways. Zn-based metallic implants reduced macrophage (Mac) reactivity and promoted Hp+ Mac dominance compared to Ti implants, which showed higher Apoe+ Mac proportions. Crosstalk analysis identified a significant interaction between the neutrophil subset Ifit1bl+ Neu and the macrophage subset Eno3+ Mac under Zn implantation, mediated by the Lgals9-Ighm ligand-receptor axis. These findings suggested that degradation products of Zn-based implants modulated immune cell differentiation and interaction networks, thereby modulating biological response.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42446273/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42439887",
       "title": "Bone Grafting in Le Fort I Osteotomies: Multi-Institutional Data Analysis of Early Outcomes and Risk Factors.",
       "authors": [
@@ -2605,39 +2672,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42439887/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42437855",
-      "title": "Matrix stiffness induced CREB3L1 activation contributed to skin fibrosis through calcium influx triggered endoplasmic reticulum stress.",
-      "authors": [
-        "Dongsheng Wen",
-        "Yeke Yu",
-        "Siyi He",
-        "Ya Gao",
-        "Chiakang Ho",
-        "Xinran Ye",
-        "Jiaming Sun",
-        "Yuxin Liu",
-        "Lu Huang",
-        "Yangdan Liu",
-        "Qingfeng Li",
-        "Yifan Zhang"
-      ],
-      "publication_date": "2026-Jul-13",
-      "publication_date_iso": "2026-07-13",
-      "abstract": "Skin fibrosis substantially contributes to morbidity and mortality. Fibrotic remodeling, characterized by accumulated and stiffened extracellular matrix, persistently exerts mechanical cues and consistently activates fibroblasts, implying biomechanics as a major driver of fibrosis. However, our understanding towards mechanisms of biomechanics induced fibrosis remained limited. Integrated single-cell sequencing analysis was performed to reveal the atlas of fibrotic skin. ChIP sequencing was performed to reveal the binding sites of CREB3L1. Nanoindenter was used to identify the mechanical properties. Gel contraction assay, wound healing assay, and live cell imaging were conducted to assess the behavior of fibroblasts cultured on hydrogels of different rigidities. Bleomycin induced and mechanical loading induced skin fibrosis models were established on CREB3L1 knockdown and control mice. We identified a mechanosensitive fibroblast cluster that exerts contraction and ECM deposition functions in fibrotic skin, and its transcriptional identity was maintained by CREB3L1. Elevated expression of CREB3L1 was confirmed in human and mouse fibrotic skin. Further analysis showed that CREB3L1 was required for fibroblast activation, including contraction, migration, and ECM accumulation. More importantly, we revealed that matrix stiffness could alter calcium homeostasis, causing calcium influx and endoplasmic reticulum stress. The ER stress state in turn triggered the cleavage of CREB3L1, releasing its luminal domain that function as a profibrotic transcription factor. Inhibiting CREB3L1 could alleviate skin fibrosis both in vivo and in vitro. This study elucidates the molecular mechanism of CREB3L1 mechanosensitive activation in matrix stiffness induced skin fibrosis, and presents a promising therapeutic target for clinical translation.",
-      "objective": "",
-      "study_methods": "Integrated single-cell sequencing analysis was performed to reveal the atlas of fibrotic skin. ChIP sequencing was performed to reveal the binding sites of CREB3L1. Nanoindenter was used to identify the mechanical properties. Gel contraction assay, wound healing assay, and live cell imaging were conducted to assess the behavior of fibroblasts cultured on hydrogels of different rigidities. Bleomycin induced and mechanical loading induced skin fibrosis models were established on CREB3L1 knockdown and control mice.",
-      "methods": "Integrated single-cell sequencing analysis was performed to reveal the atlas of fibrotic skin. ChIP sequencing was performed to reveal the binding sites of CREB3L1. Nanoindenter was used to identify the mechanical properties. Gel contraction assay, wound healing assay, and live cell imaging were conducted to assess the behavior of fibroblasts cultured on hydrogels of different rigidities. Bleomycin induced and mechanical loading induced skin fibrosis models were established on CREB3L1 knockdown and control mice.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42437855/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2831,140 +2865,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42425818/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42420964",
-      "title": "Patient-specific guides and osteosynthesis versus CAD/CAM occlusal splints in orthognathic surgery: a systematic review and meta-analysis of accuracy, operative time, and complications.",
-      "authors": [
-        "Xiaoshuang Guo",
-        "Hao Gong",
-        "Fangning Zhao",
-        "Guodong Song",
-        "Xiaolei Jin"
-      ],
-      "publication_date": "2026-Jul-08",
-      "publication_date_iso": "2026-07-08",
-      "abstract": "Orthognathic surgery increasingly relies on digital transfer workflows, most commonly CAD/CAM occlusal splints or patient-specific implants (PSI). However, prior meta-analyses were limited by methodological heterogeneity, sparse randomized evidence, and insufficient axis-specific analyses, leaving the magnitude and clinical relevance of any accuracy advantage unclear. This systematic review and meta-analysis aimed to compare PSI and CAD/CAM splint workflows in orthognathic surgery. This study followed PRISMA 2020 guidelines and was registered in PROSPERO (CRD420251039754). PubMed, Embase, and Cochrane were searched from inception to August 23, 2025. Comparative clinical studies evaluating PSI versus CAD/CAM splints in orthognathic surgery were included. Outcomes included linear accuracy, angular accuracy, operative time, and postoperative complications. The primary linear accuracy outcomes were axis-specific translational deviations across the mediolateral, anteroposterior, and superoinferior directions. Angular accuracy was assessed across pitch, roll, and yaw. Randomized trials were assessed using RoB 2.0, and non-randomized studies using the Newcastle-Ottawa Scale. Thirty studies (12 RCTs and 18 cohort studies; 1317 patients) were included; 21 provided sufficient quantitative data for meta-analysis and 9 were synthesized narratively. Compared with CAD/CAM splints, PSI was associated with smaller axis-specific linear deviations across all three translational axes (all P < 0.01); a supportive combined linear summary showed the same direction but was not treated as a primary outcome. A possible advantage in angular accuracy was suggested (MD - 0.54°, 95% CI - 1.07 to - 0.01), but this was based on only six maxillary comparisons and should be interpreted cautiously. No statistically significant difference in postoperative complications was detected (RR = 1.01, 95% CI 0.64-1.60, P = 0.959). For operative time, current evidence did not demonstrate a statistically significant difference between workflows; however, few studies and substantial heterogeneity precluded firm conclusions. Compared with CAD/CAM splints, PSI workflows were associated with smaller axis-specific translational deviations, while the available angular evidence suggests possible but limited rotational advantages. Current evidence remains inconclusive regarding operative time and does not demonstrate a significant difference in complication rates. PSI may be considered selectively in cases requiring high transfer precision; further studies should assess long-term stability and patient-reported outcomes.",
-      "objective": "",
-      "study_methods": "This study followed PRISMA 2020 guidelines and was registered in PROSPERO (CRD420251039754). PubMed, Embase, and Cochrane were searched from inception to August 23, 2025. Comparative clinical studies evaluating PSI versus CAD/CAM splints in orthognathic surgery were included. Outcomes included linear accuracy, angular accuracy, operative time, and postoperative complications. The primary linear accuracy outcomes were axis-specific translational deviations across the mediolateral, anteroposterior, and superoinferior directions. Angular accuracy was assessed across pitch, roll, and yaw. Randomized trials were assessed using RoB 2.0, and non-randomized studies using the Newcastle-Ottawa Scale.",
-      "methods": "This study followed PRISMA 2020 guidelines and was registered in PROSPERO (CRD420251039754). PubMed, Embase, and Cochrane were searched from inception to August 23, 2025. Comparative clinical studies evaluating PSI versus CAD/CAM splints in orthognathic surgery were included. Outcomes included linear accuracy, angular accuracy, operative time, and postoperative complications. The primary linear accuracy outcomes were axis-specific translational deviations across the mediolateral, anteroposterior, and superoinferior directions. Angular accuracy was assessed across pitch, roll, and yaw. Randomized trials were assessed using RoB 2.0, and non-randomized studies using the Newcastle-Ottawa Scale.",
-      "results": "",
-      "conclusion": "Compared with CAD/CAM splints, PSI workflows were associated with smaller axis-specific translational deviations, while the available angular evidence suggests possible but limited rotational advantages. Current evidence remains inconclusive regarding operative time and does not demonstrate a significant difference in complication rates. PSI may be considered selectively in cases requiring high transfer precision; further studies should assess long-term stability and patient-reported outcomes.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42420964/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42419705",
-      "title": "Effects of Prediabetes on Bone Metabolism and Healing in Orthognathic Surgery: A Narrative Review.",
-      "authors": [
-        "Suchanon Siriwechadaruk",
-        "Warit Powcharoen",
-        "Kanich Tripuwabhrut",
-        "Napatsorn Imerb"
-      ],
-      "publication_date": "2026-Jul-08",
-      "publication_date_iso": "2026-07-08",
-      "abstract": "Prediabetes, defined by impaired glucose regulation, is an increasingly prevalent metabolic disorder with implications beyond glycemic control. Its impact on bone remodeling and healing is gaining attention, particularly in orthognathic surgery. This narrative review aimed to map the current evidence regarding the impact of prediabetes on bone healing, metabolic markers, and surgical outcomes in orthognathic surgery. A comprehensive literature search was performed (PubMed, Scopus, Web of Science, Cochrane Library, and Google Scholar) up to January 2025, yielding 32 eligible studies. Emerging data suggest that prediabetes may influence bone homeostasis through insulin resistance, low-grade chronic inflammation, and the accumulation of advanced glycation end products. These changes may attenuate the systemic acceleratory phenomenon observed after surgical trauma, potentially delaying bone healing. However, current evidence is limited by significant assay heterogeneity, varying temporal sampling windows, and a lack of prospective surgical trials. While not as severe as overt diabetes, prediabetes constitutes an underrecognized but important risk factor in the perioperative management of orthognathic surgery patients. Future research should prioritize standardized prospective trials to establish evidence-based guidelines.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42419705/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42419045",
-      "title": "Schneiderian membrane-derived cells have inferior bone-forming capacities compared to other human periosteal-derived cells.",
-      "authors": [
-        "L C Groeneveldt",
-        "S Ribeiro Viseu",
-        "K Bosmans",
-        "C Geeroms",
-        "C Politis",
-        "L Geris"
-      ],
-      "publication_date": "2026-Jul-08",
-      "publication_date_iso": "2026-07-08",
-      "abstract": "Skeletal stem and progenitor cells (SSPCs) are a key component of bone tissue engineering strategies for treating large bone defects. The Schneiderian membrane, a bone-lining membrane of the maxillary sinus, has been proposed as a source of cells with bone-forming capacity. Cells were isolated from human Schneiderian membrane (hSMs) samples obtained during Le Fort I orthognathic surgery and compared with previously characterised human periosteal-derived cells (hPDCs) from tibial and mandibular origins. Proliferation, metabolic activity, cellular senescence, surface marker expression, and trilineage differentiation were assessed in vitro. Bone-forming capacity was evaluated by ectopic subcutaneous implantation of cell-seeded NuOss scaffolds in nude mice for 8 weeks, followed by Nano-CT quantification and histological analysis. hSMs exhibited proliferation, metabolic activity and senescence levels comparable to hPDCs. Flow cytometry confirmed positivity for CD73, CD90, CD105 and CD164, and negativity for CD146, CD31, CD45 and CD235ab. Unlike hPDCs, hSMs lacked CD200 expression. Chondrogenic differentiation was confirmed by Alcian Blue staining and upregulation of COL2A1, COL10A1 and RUNX2. Bone formation was detected in 4 of 12 implanted constructs, with a mean mineralised tissue volume of 0.49%, which was lower than that reported for mandibular and tibial hPDCs under identical conditions. hSMs can be isolated, expanded and differentiated, and retain limited bone-forming capacity in vivo. However, their osteogenic performance is inferior to that of mandibular and tibial hPDCs. Given the more invasive harvest procedure, hSMs should be considered as a cell source only when the maxillary sinus is already surgically accessible.",
-      "objective": "",
-      "study_methods": "Cells were isolated from human Schneiderian membrane (hSMs) samples obtained during Le Fort I orthognathic surgery and compared with previously characterised human periosteal-derived cells (hPDCs) from tibial and mandibular origins. Proliferation, metabolic activity, cellular senescence, surface marker expression, and trilineage differentiation were assessed in vitro. Bone-forming capacity was evaluated by ectopic subcutaneous implantation of cell-seeded NuOss scaffolds in nude mice for 8 weeks, followed by Nano-CT quantification and histological analysis.",
-      "methods": "Cells were isolated from human Schneiderian membrane (hSMs) samples obtained during Le Fort I orthognathic surgery and compared with previously characterised human periosteal-derived cells (hPDCs) from tibial and mandibular origins. Proliferation, metabolic activity, cellular senescence, surface marker expression, and trilineage differentiation were assessed in vitro. Bone-forming capacity was evaluated by ectopic subcutaneous implantation of cell-seeded NuOss scaffolds in nude mice for 8 weeks, followed by Nano-CT quantification and histological analysis.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42419045/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42418926",
-      "title": "Comprehensive three-dimensional morphological changes of mandibular incisors and surrounding alveolar bone in patients with skeletal Class III malocclusion following surgery-first or conventional bimaxillary orthognathic surgery.",
-      "authors": [
-        "Yule Xu",
-        "Ruoyuan Li",
-        "Han Ge",
-        "Enshi Yan",
-        "Yuan Li",
-        "Jinwei Qin",
-        "Hua Wang",
-        "Jin Li",
-        "Jie Cheng"
-      ],
-      "publication_date": "2026-Jul-08",
-      "publication_date_iso": "2026-07-08",
-      "abstract": "This retrospective clinical and radiographic study aimed to quantitatively compare root resorption of mandibular incisors and surrounding alveolar bone remodeling in skeletal Class III malocclusion patients treated with surgery-first approach (SFA) or conventional orthognathic surgery (COS). Sixty-two eligible patients with skeletal Class III malocclusion treated with COS (n = 31) or SFA (n = 31) at our institution between January 2020 and December 2024 were included. CBCT scans were obtained at the following time points: before treatment (T0), completed presurgical orthodontic treatment (T1)-only for COS patients, and 1-2 weeks after postsurgical orthodontics completed and debonding (T2). Skeletal and dental parameters at diverse stages were determined by Dolphin Imaging software. Incisor roots were segmented into eight regions and their length and volume were measured by Mimics 21.0. Moreover, alveolar bone height surrounding the mandibular incisors was measured and compared at diverse stages. Root resorption and alveolar bone loss were found in the lower incisors after treatment irrespective of SFA or COS. SFA induced less root resorption and alveolar bone reduction as compared to COS. Moreover, root resorption was positively correlated with increased incisor inclination in SFA patients and alveolar bone loss was positively associated with increased incisor inclination among COS patients. Initial buccal alveolar bone height negatively associated with bone reduction after treatment in both groups. Taken together, our results indicate that SFA has advantages in reduced root resorption and alveolar bone loss in the mandibular incisors as compared to COS in skeletal Class III malocclusion, thus highlighting the need to monitor these changes in patients receiving combined orthognathic and orthodontic treatment.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "indicate that SFA has advantages in reduced root resorption and alveolar bone loss in the mandibular incisors as compared to COS in skeletal Class III malocclusion, thus highlighting the need to monitor these changes in patients receiving combined orthognathic and orthodontic treatment.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42418926/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42418925",
-      "title": "Functional and morphometric outcome of adaptable slicing condylectomy in transverse condylar hyperplasia: A deep learning-enhanced 3D study.",
-      "authors": [
-        "F Spallaccia",
-        "U Committeri",
-        "M E Giovannoni",
-        "A Ricciardi",
-        "P Cascone"
-      ],
-      "publication_date": "2026-Jul-08",
-      "publication_date_iso": "2026-07-08",
-      "abstract": "Unilateral condylar hyperplasia (UCH) with transverse mandibular deviation is a frequent cause of facial asymmetry and skeletal Class III malocclusion. Adaptive slice condylectomy (ASC) has been proposed as a focused alternative to bimaxillary orthognathic surgery (OS), aiming to recenter the dental midline without bilateral skeletal osteotomies. We evaluated morphological and functional outcomes after SC using AI-assisted 3D analysis. This retrospective cohort comprised 55 patients with transverse UCH treated between 2011 and 2024 at a single maxillofacial unit: 36 underwent unilateral ASC and 19 received bimaxillary OS. Cone-beam CT (CBCT) scans at baseline (T0) and 12 months (T1) were processed in 3D Slicer using a pretrained MONAI 3D U-Net for segmentation. Rigid cranial-base registration aligned T1 to T0. Metrics included condylar head volume, mean bone density, center displacement (ΔX/ΔY/ΔZ; |Δ|), and orientation change (axis-axis angle and yaw/pitch/roll). Postoperatively, the operated condyle was compared with the mirrored contralateral healthy side. ASC produced a predominantly lateral-superior repositioning of the treated condyle with midline correction. The contralateral condyle showed small adaptive shifts with overall morphologic stability. Mean postoperative asymmetry versus the mirrored side was 0.35 mm; the healthy side varied minimally (mean -0.32 mm), with deviations >1.5 mm confined to posteromedial sectors. No TMJ dysfunction occurred after ASC. Relative to OS, ASC was associated with shorter operative time (-80 min), reduced length of stay (-0.5 days), and fewer complications. Adaptive slice condylectomy is a safe and effective unilateral option for transverse UCH with III class, achieving functional correction and symmetry targets without routine bimaxillary osteotomies. The results are so good that we applied this procedure instead of bilateral sagittal split osteotomy (BSSO) in all patients with classes III and asymmetry adding, if necessary, Le Fort I surgery (advancement, canting correction, surgically assisted rapid palatal expansion-SARPE).",
-      "objective": "",
-      "study_methods": "This retrospective cohort comprised 55 patients with transverse UCH treated between 2011 and 2024 at a single maxillofacial unit: 36 underwent unilateral ASC and 19 received bimaxillary OS. Cone-beam CT (CBCT) scans at baseline (T0) and 12 months (T1) were processed in 3D Slicer using a pretrained MONAI 3D U-Net for segmentation. Rigid cranial-base registration aligned T1 to T0. Metrics included condylar head volume, mean bone density, center displacement (ΔX/ΔY/ΔZ; |Δ|), and orientation change (axis-axis angle and yaw/pitch/roll). Postoperatively, the operated condyle was compared with the mirrored contralateral healthy side.",
-      "methods": "This retrospective cohort comprised 55 patients with transverse UCH treated between 2011 and 2024 at a single maxillofacial unit: 36 underwent unilateral ASC and 19 received bimaxillary OS. Cone-beam CT (CBCT) scans at baseline (T0) and 12 months (T1) were processed in 3D Slicer using a pretrained MONAI 3D U-Net for segmentation. Rigid cranial-base registration aligned T1 to T0. Metrics included condylar head volume, mean bone density, center displacement (ΔX/ΔY/ΔZ; |Δ|), and orientation change (axis-axis angle and yaw/pitch/roll). Postoperatively, the operated condyle was compared with the mirrored contralateral healthy side.",
-      "results": "are so good that we applied this procedure instead of bilateral sagittal split osteotomy (BSSO) in all patients with classes III and asymmetry adding, if necessary, Le Fort I surgery (advancement, canting correction, surgically assisted rapid palatal expansion-SARPE).",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42418925/",
       "pmcid": "",
       "figure_urls": []
     }
