@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T05:16:05Z",
+  "updated_at": "2026-07-17T05:19:10Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -34,7 +34,7 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42445966/",
-      "pmcid": "",
+      "pmcid": "PMC13371475",
       "figure_urls": []
     },
     {
@@ -187,7 +187,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42433169/",
-      "pmcid": "",
+      "pmcid": "PMC13371483",
       "figure_urls": []
     },
     {
@@ -775,6 +775,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "42236400",
+      "title": "Corrigendum to \" Knockdown of TRPM2 promotes osteogenic differentiation of Human Periodontal Ligament Stem Cells by modulating NF-κB /NLRP3 pathway\", Tissue Cell, 2023, 84: 102184.",
+      "authors": [
+        "Xiaosong Xiang",
+        "YongXin Hu",
+        "Zhiqiang Song",
+        "Chunlin Wang"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42236400/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42214655",
       "title": "Long-term outcomes of regenerative periodontal therapy and orthodontic treatment: 20-year results from a prospective study.",
       "authors": [
@@ -898,6 +923,62 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42162783/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42155536",
+      "title": "Mesenchymal stem cell therapy for treatment of medication related osteonecrosis of the jaw (MRONJ): A systematic review.",
+      "authors": [
+        "Niloufar Shahvali",
+        "Mohammad Adibi",
+        "Amirhossein Mohebi",
+        "Seyed Reza Mousavianfard",
+        "Majid Salehi",
+        "Sepehr Zamani",
+        "Fariborz Sharifianjazi",
+        "Leila Chegini",
+        "Farshid Bastami"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Medication-related osteonecrosis of the jaw (MRONJ) is a significant adverse effect associated with antiresorptive and antiangiogenic therapies. Therapies utilizing mesenchymal stem cells (MSCs) represent a promising regenerative strategy; however, conventional management methods have shown limited effectiveness. This systematic review aimed to evaluate the effectiveness of MSC-based interventions in preventing and treating MRONJ. A comprehensive literature search was conducted using PubMed, Scopus, and Web of Science to identify studies published from 2011 to 2024. Studies examining MSCs therapy in the context of MRONJ were incorporated according to predefined inclusion and exclusion criteria. Seventeen studies (6 clinical, 11 preclinical) met inclusion criteria. Preclinical models demonstrated that MSCs enhance angiogenesis and bone regeneration, providing mechanistic support for human application. Clinically, 80-90% of patients achieved complete mucosal healing with radiographic evidence of bone regeneration. However, due to species differences in oral microbiome and immunity, animal findings require confirmation in human trials. This review integrates human clinical data with mechanistic insights from preclinical studies. Human evidence shows promising mucosal and bone regeneration, while animal studies elucidate underlying mechanisms-particularly angiogenesis and immunomodulation. Given that animal models cannot replicate the human oral immune environment, these findings should be interpreted as hypothesis-generating. MSC therapy represents a biologically sound but experimental strategy, warranting confirmation through randomized controlled trials.",
+      "objective": "",
+      "study_methods": "A comprehensive literature search was conducted using PubMed, Scopus, and Web of Science to identify studies published from 2011 to 2024. Studies examining MSCs therapy in the context of MRONJ were incorporated according to predefined inclusion and exclusion criteria.",
+      "methods": "A comprehensive literature search was conducted using PubMed, Scopus, and Web of Science to identify studies published from 2011 to 2024. Studies examining MSCs therapy in the context of MRONJ were incorporated according to predefined inclusion and exclusion criteria.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42155536/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42048723",
+      "title": "Wnt/OPG signaling axis drives ectopic mandibular regeneration: Mechanism mediated by tibial periosteal stem cell sheets.",
+      "authors": [
+        "Liangchong Huang",
+        "Rongju Xie",
+        "Jiantong Pu",
+        "Shengjie Shao",
+        "Weihong Wang"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Mandibular reconstruction presents substantial clinical challenges due to the jaw's complex anatomical and functional requirements. This study investigated gene expression differences between tibial and mandibular periosteum to understand their distinct osteogenic properties and evaluate the therapeutic potential of tibial periosteum-derived stem cell (PSC) sheets for mandibular defect repair.Transcriptomic analysis revealed differential expression patterns: tibial periosteum demonstrated higher OPG expression, while mandibular periosteum exhibited increased RUNX2 and BMP-2 expression. KEGG enrichment analysis identified the Wnt signaling pathway as a key regulatory mechanism. To test this therapeutic approach, we cultured rat tibial PSCs into cell sheets and implanted them into mandibular defects, then assessed bone regeneration through micro-CT, histological examination, and immunohistochemistry.The results demonstrated that tibial PSC sheet implantation significantly enhanced bone volume, trabecular thickness, collagen deposition, and expression of osteogenic markers in mandibular defects. Notably, inhibition of Wnt signaling through DKK1 markedly suppressed mineralization and osteogenesis, confirming this pathway's critical role in the regenerative process.These findings establish that tibial PSC sheets promote mandibular bone repair through dual mechanisms: Wnt-mediated osteogenesis and OPG-driven anti-resorption activity. This combination provides sustained bone regeneration and represents a promising therapeutic strategy for mandibular reconstruction, demonstrating the feasibility of utilizing tibial periosteum-derived cells to overcome the inherent limitations of mandibular periosteum in bone repair applications.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "demonstrated that tibial PSC sheet implantation significantly enhanced bone volume, trabecular thickness, collagen deposition, and expression of osteogenic markers in mandibular defects. Notably, inhibition of Wnt signaling through DKK1 markedly suppressed mineralization and osteogenesis, confirming this pathway's critical role in the regenerative process.These findings establish that tibial PSC sheets promote mandibular bone repair through dual mechanisms: Wnt-mediated osteogenesis and OPG-driven anti-resorption activity. This combination provides sustained bone regeneration and represents a promising therapeutic strategy for mandibular reconstruction, demonstrating the feasibility of utilizing tibial periosteum-derived cells to overcome the inherent limitations of mandibular periosteum in bone repair applications.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42048723/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1347,94 +1428,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41895021",
-      "title": "Tissue engineering strategies for construction of artificial salivary glands based on decellularized scaffolds of rats.",
-      "authors": [
-        "Taiqiang Dai",
-        "Lele Shi",
-        "Haitao Kong",
-        "Lu Zhao",
-        "Yan Wang",
-        "Yang Cao",
-        "Shiping Chang",
-        "Linlin Zhang",
-        "Lei Tian"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Salivary gland (SG) hypofunction is a debilitating condition with no curative treatments. Tissue engineering based on decellularized scaffolds represents a promising regenerative strategy; however, its application to SGs has been limited by inadequate decellularization techniques and scarce cell sources. Here, we developed a novel perfusion-based decellularization method via the ductal and venous systems to generate rat submandibular gland scaffolds. This approach efficiently removed cellular components while optimally preserving the native three-dimensional architecture, key extracellular matrix (ECM) components, and the integrity of ductal and vascular networks. We then constructed artificial SGs by recellularizing these biomimetic scaffolds through the ductal route with salivary gland cells (SGCs), adipose-derived stromal cells (ADSCs), or SGC-pre-induced ADSCs. In vitro perfusion culture revealed that all cell sources, including transdifferentiated ADSCs, supported the formation of acinar-like structures and expressed the functional marker α-amylase (α-AMY), with peak performance observed at day 5. Upon in vivo transplantation, the tissue-engineered glands maintained partial α-AMY expression for up to 5 days, demonstrating short-term survival and function. However, graft longevity was limited beyond 7 days, primarily due to insufficient vascularization. Our study establishes a robust perfusion-decellularized scaffold as a superior biomaterial platform and validates ADSCs as a clinically viable cell source for SG regeneration, providing a foundational strategy for engineering functional salivary glands. This advancement is expected to accelerate the research and development in the field of tissue engineering for salivary gland regeneration.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41895021/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42134202",
-      "title": "The astragaloside-brucea javanica oil nanoemulsion inhibiting the progression of oral squamous cell carcinoma through CDK1- HOXC10-MTFR2 pathway.",
-      "authors": [
-        "Yihan Lai",
-        "Runqiang Liu",
-        "Lanfei Zhou",
-        "Zhichao Wan",
-        "Juan Zhan",
-        "Mingqiao Xiong",
-        "Lin Jiang",
-        "Wei Wang",
-        "Yisen Shao"
-      ],
-      "publication_date": "2026-Aug-15",
-      "publication_date_iso": "2026-08-15",
-      "abstract": "This study aimed to investigate whether Astragaloside-Brucea javanica oil nanoemulsion (AS/BJO-NEs) inhibits the malignant progression of oral squamous cell carcinoma (OSCC) and to further explore its potential regulatory mechanisms. Immunohistochemistry (IHC) was used to evaluate the expression of related pathway proteins in human OSCC and adjacent normal tissues. Stable OSCC cell lines with knockdown or overexpression of CDK1/HOXC10 were established. The effects of AS/BJO-NEs and the underlying mechanisms were assessed in vitro through colony formation, wound healing, and Transwell invasion assays, as well as RT-qPCR, western blot, chromatin immunoprecipitation (ChIP), and dual-luciferase reporter assays. An OSCC subcutaneous xenograft model in nude mice was constructed for in vivo validation using RT-qPCR, western blot, hematoxylin and eosin (H&E) staining, and IHC. Analysis of clinical samples revealed upregulated expression of CDK1, P-EZH2, HOXC10, MTFR2, and N-cadherin, alongside downregulated expression of H3K27me3 and E-cadherin in OSCC tissues. In vitro experiments confirmed that AS/BJO-NEs downregulated CDK1 in a concentration-dependent manner, subsequently reducing the expression of P-EZH2, HOXC10, and MTFR2, increasing H3K27me3 levels, and inhibiting cell proliferation, migration, and invasion. H3K27me3 was enriched in the HOXC10 promoter region, and HOXC10 directly bound to and activated MTFR2 transcription. In vivo experiments demonstrated that AS/BJO-NEs effectively inhibited tumor growth, regulated molecules within this pathway and epithelial-mesenchymal transition (EMT) markers, whereas CDK1 overexpression counteracted these effects CONCLUSION: This study demonstrates that AS/BJO-NEs exert anti-OSCC effects by inhibiting CDK1, downregulating HOXC10, thereby reducing MTFR2 expression, and suppressing cell proliferation, migration, invasion, and the EMT process.",
-      "objective": "",
-      "study_methods": "Immunohistochemistry (IHC) was used to evaluate the expression of related pathway proteins in human OSCC and adjacent normal tissues. Stable OSCC cell lines with knockdown or overexpression of CDK1/HOXC10 were established. The effects of AS/BJO-NEs and the underlying mechanisms were assessed in vitro through colony formation, wound healing, and Transwell invasion assays, as well as RT-qPCR, western blot, chromatin immunoprecipitation (ChIP), and dual-luciferase reporter assays. An OSCC subcutaneous xenograft model in nude mice was constructed for in vivo validation using RT-qPCR, western blot, hematoxylin and eosin (H&E) staining, and IHC.",
-      "methods": "Immunohistochemistry (IHC) was used to evaluate the expression of related pathway proteins in human OSCC and adjacent normal tissues. Stable OSCC cell lines with knockdown or overexpression of CDK1/HOXC10 were established. The effects of AS/BJO-NEs and the underlying mechanisms were assessed in vitro through colony formation, wound healing, and Transwell invasion assays, as well as RT-qPCR, western blot, chromatin immunoprecipitation (ChIP), and dual-luciferase reporter assays. An OSCC subcutaneous xenograft model in nude mice was constructed for in vivo validation using RT-qPCR, western blot, hematoxylin and eosin (H&E) staining, and IHC.",
-      "results": "",
-      "conclusion": "This study demonstrates that AS/BJO-NEs exert anti-OSCC effects by inhibiting CDK1, downregulating HOXC10, thereby reducing MTFR2 expression, and suppressing cell proliferation, migration, invasion, and the EMT process.",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42134202/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42092669",
-      "title": "Harnessing exosomes for endometrial Cancer: From non-invasive diagnostics to precision therapies.",
-      "authors": [
-        "Kamel A Saleh",
-        "Ahmed Faisal Mutee",
-        "Aziz Kubaev",
-        "Muzaffar Choriyev",
-        "Rasim M Salih",
-        "Mohamed Adil Jaber",
-        "Safa Hussen"
-      ],
-      "publication_date": "2026-Aug-15",
-      "publication_date_iso": "2026-08-15",
-      "abstract": "Exosomes, a subset of extracellular vesicles (EVs), have emerged as pivotal players at the intersection of diagnostics and therapeutics in oncology. These nanoscale vesicles, which are secreted by virtually all cell types, function as critical mediators of intercellular communication by transporting diverse cargoes of proteins, lipids, and nucleic acids between cells. In the context of endometrial cancer (EC), a heterogeneous malignancy with increasing global incidence, exosomes offer a unique opportunity for minimally invasive \"liquid biopsy\" approaches for diagnosis and prognosis while simultaneously serving as highly versatile platforms for targeted drug delivery. Owing to their natural biocompatibility, stability in circulation, and ability to cross biological barriers, these materials are ideal candidates for next-generation theranostic applications that combine both diagnostic and therapeutic functions. This review provides a comprehensive investigation into the dual role of exosomes in EC, integrating preclinical findings, emerging clinical data, and translational challenges. This study examines the utility of exosomal cargo as biomarkers across all EC subtypes and evaluates engineering strategies that enable its use as precision nanomedicines, ultimately charting a course for their future integration into clinical practice.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42092669/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42423273",
       "title": "Long-Term Incidence of Peri-Implant Conditions: 25-Year Results of The Bernese Prospective Cohort Study.",
       "authors": [
@@ -1816,6 +1809,31 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13202285/bin/gr3.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13202285/bin/gr4.jpg"
       ]
+    },
+    {
+      "pmid": "42089542",
+      "title": "Facial Trauma, To Transfer or Not To Transfer?",
+      "authors": [
+        "Abigale Shettig",
+        "Peter D Nguyen",
+        "Mallory Jebbia",
+        "Jeffry Nahmias"
+      ],
+      "publication_date": "2026-Aug-01",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42089542/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "42087465",
@@ -2498,6 +2516,68 @@
       "figure_urls": []
     },
     {
+      "pmid": "42463492",
+      "title": "A Point-of-Care Test to Measure Tacrolimus Directly from Unprocessed Whole Blood.",
+      "authors": [
+        "Damon T Burrow",
+        "David S Kinnamon",
+        "Jacob T Heggestad",
+        "Jason Liu",
+        "Brooke E Silverstein",
+        "Daniel Y Joh",
+        "Matt Harris",
+        "Matthew J Ellis",
+        "Angus Hucknall",
+        "Linda C Cendales",
+        "Ashutosh Chilkoti"
+      ],
+      "publication_date": "2026-Jul-16",
+      "publication_date_iso": "2026-07-16",
+      "abstract": "Tacrolimus is a cornerstone immunosuppressant used to prevent graft rejection in solid organ transplant recipients. While effective, tacrolimus therapy must be carefully monitored and managed due to the drug's narrow therapeutic window and variable patient responses to dosing. Overdosing of tacrolimus can lead to opportunistic infections, nephrotoxicity, neurotoxicity, and cancer while under-dosing risks organ rejection. As a result, therapeutic drug monitoring (TDM) of tacrolimus is routinely performed. Current monitoring approaches face significant limitations, including slow (4-8 h or days) turnaround times, complex sample preparation requirements, and reliance on centralized infrastructure that delays critical dosing decisions. Furthermore, emerging evidence shows that the pharmacokinetic exposure parameter best associated with clinical outcomes is the area under the concentration-time curve (AUC). AUC-based monitoring requires sampling patients at multiple time points, which increases the logistical burdens to both patients and providers. Hence, there is an urgent need for a point-of-care test for tacrolimus that can be run at the patient bedside, in outpatient clinics, and eventually in patient homes. Here, we describe a novel point-of-care test, the TAC-D4 POCT, capable of measuring tacrolimus levels directly from whole blood samples without sample preparation steps or expensive analyzers with automated results available in 1 h. Our test helps overcome the current logistical barriers in the clinical management of patients receiving tacrolimus therapy ultimately leading to improved patient adherence, outcomes, and the ability to further personalize dosing regimens. Moreover, the Tac-D4 is highly modular and can be used to monitor clinically significantly biomarkers, such as interleukin-6 and matrix metalloproteinase 3, that complement tacrolimus TDM.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": ", therapeutic drug monitoring (TDM) of tacrolimus is routinely performed. Current monitoring approaches face significant limitations, including slow (4-8 h or days) turnaround times, complex sample preparation requirements, and reliance on centralized infrastructure that delays critical dosing decisions. Furthermore, emerging evidence shows that the pharmacokinetic exposure parameter best associated with clinical outcomes is the area under the concentration-time curve (AUC). AUC-based monitoring requires sampling patients at multiple time points, which increases the logistical burdens to both patients and providers. Hence, there is an urgent need for a point-of-care test for tacrolimus that can be run at the patient bedside, in outpatient clinics, and eventually in patient homes. Here, we describe a novel point-of-care test, the TAC-D4 POCT, capable of measuring tacrolimus levels directly from whole blood samples without sample preparation steps or expensive analyzers with automated results available in 1 h. Our test helps overcome the current logistical barriers in the clinical management of patients receiving tacrolimus therapy ultimately leading to improved patient adherence, outcomes, and the ability to further personalize dosing regimens. Moreover, the Tac-D4 is highly modular and can be used to monitor clinically significantly biomarkers, such as interleukin-6 and matrix metalloproteinase 3, that complement tacrolimus TDM.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42463492/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42461509",
+      "title": "The impact of propolis-silver nanoparticles coated sutures versus conventional sutures on early intraoral wound healing in healthy and diabetic rats: a preliminary histological study.",
+      "authors": [
+        "Hawra A Aljanobi",
+        "Muneer Alshuyukh",
+        "Hassan Ghonaim",
+        "Mohammed Alhulami",
+        "Zahra Aldawood",
+        "Ahmed Alsubaie",
+        "Hassan Alramadan",
+        "Ali Alkhalaf",
+        "Intisar Siddiqui"
+      ],
+      "publication_date": "2026-Jul-16",
+      "publication_date_iso": "2026-07-16",
+      "abstract": "Optimal wound healing is crucial in oral surgery, particularly in compromised conditions. Diabetes mellitus is associated with impaired wound healing due to reduced vascularization, immune dysfunction, and altered collagen deposition. Propolis, a bioactive resin produced by honeybees, has demonstrated antimicrobial, anti-inflammatory, and pro-healing properties. This study aimed to evaluate the impact of propolis-silver nanoparticles (AgNPs) coated sutures on early wound healing in the oral mucosa of healthy and diabetic rats through histological assessments. Propolis-silver nanoparticles (AgNPs) were synthesized and examined using FTIR. The propolis-AgNPs then used to coat polyglycolic acid (PGA) sutures. Before using the sutures in the experimental surgery, sutures Tensile Strength and SEM Analysis were performed. 12 Sprague-Dawley female rats (6 healthy, 6 diabetic) were used to create bilateral buccal mucosa punch incisions, with one side sutured using the propolis-AgNPs-coated PGA and the other with non-coated PGA sutures as a control. Wound healing was assessed after seven days through histological analysis using hematoxylin & eosin and Masson's trichrome staining. Data were analyzed using Chi-square, Fisher's exact test, and Welch's t test (p ≤ 0.05 considered significant). In healthy rats, propolis-coated sutures significantly improved collagen fiber organization and mature collagen deposition (p = 0.030). Although diabetic rats did not show statistically significant differences (p > 0.05), a trend toward enhanced collagen fiber alignment and mature collagen formation was observed. A slight reduction in blood vessel formation was noted in both groups. Propolis-AgNPs-coated sutures demonstrated enhanced collagen organization in healthy rats and showed potential for improving wound healing in diabetic models.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42461509/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42458224",
       "title": "Response to: \"Sclerosing Odontogenic Carcinoma: Why Is It Difficult to Diagnose With Confidence?\".",
       "authors": [
@@ -2561,31 +2641,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42454527",
-      "title": "Mandibular idiopathic osteosclerosis mimicking inferior alveolar nerve conflict.",
-      "authors": [
-        "Qendresa Lubishtani",
-        "Mathilde Lombardi",
-        "Tommaso Lombardi",
-        "Alexandre Perez"
-      ],
-      "publication_date": "2026-Jul-15",
-      "publication_date_iso": "2026-07-15",
-      "abstract": "A 28-year-old patient was referred to the Oral Surgery and Implantology Unit at Geneva University Hospitals for extraction of the mandibular third molars following multiple episodes of pericoronitis. A two-dimensional panoramic radiograph (PAN) showed a subtle radiopaque image apparently superimposed on the roots of the third molar, projected over the course of the inferior alveolar canal, suggesting of a close relationship between the inferior alveolar nerve (IAN) and the apices of tooth 38 evoking a nerve conflict. To further assess this apparent anatomical relationship, a three-dimensional cone-beam computed tomography (CBCT) scan was performed. The CBCT demonstrated no direct contact between the mandibular third molar and the inferior alveolar nerve canal. Instead, it revealed a well-defined radiopaque lesion adjacent to the nerve canal, separate from the tooth roots, consistent with idiopathic osteosclerosis. This case highlights the limitations of two-dimensional imaging in evaluating complex anatomical relationships in the posterior mandible. When panoramic radiography shows equivocal findings due to superimposition and suggests a potential nerve–tooth conflict, three-dimensional imaging is essential for accurate diagnosis and treatment planning.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42454527/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42454512",
       "title": "Outcomes and Complications of Cleft Lip and Palate Surgery During International Surgical Outreach: A Systematic Review.",
       "authors": [
@@ -2608,38 +2663,6 @@
         "cleft lip and palate surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42454512/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42449157",
-      "title": "Perceptions of interprofessional education among medical and dental students in the United Arab Emirates: a cross-sectional study.",
-      "authors": [
-        "Nada Tawfig Hashim",
-        "Muhammed Mustahsen Rahman",
-        "Sharifa Jameel Hossain",
-        "Rasha Babiker",
-        "Vivek Padmanabhan",
-        "Md Sofiqul Islam",
-        "Nallan C S K Chaitanya",
-        "Riham Mohammed",
-        "Shahistha Parveen Dasnadi",
-        "Abdullah Khalid Jawdat Nazanda",
-        "Ibraheem Adham Baloush"
-      ],
-      "publication_date": "2026-Jul-14",
-      "publication_date_iso": "2026-07-14",
-      "abstract": "Interprofessional education (IPE) prepares medical and dental students for collaborative, team-based care, yet little is known about how students perceive IPE within integrated academic environments in the Gulf region. A cross-sectional study was conducted between January and April 2025 at RAK Medical & Health Sciences University and RAK College of Dental Sciences in the United Arab Emirates. A printed, structured questionnaire adapted from validated tools was distributed to undergraduate medical and dental students. The survey evaluated interdisciplinary knowledge, teaching content, interprofessional value, and attitudes toward IPE using a five-point Likert scale. Data were analyzed using SPSS version 23, with descriptive statistics, Shapiro-Wilk normality tests, unequal variance t-tests, Cronbach's alpha, and Spearman's correlation utilized to evaluate group differences and internal consistency. Ethical approval was obtained (Ref: TAKMHSU-HEC-51-2023/24-F-D). A total of 273 students participated (157 medicals, 116 dentals; 50.2% female). Clinical-phase students reported significantly more favorable perceptions across domains of interdisciplinary knowledge, teaching content, and interprofessional value (p < 0.01). The internal consistency of the questionnaire was high (α > 0.85 for most domains). Strong inter-domain correlations were observed, especially between teaching content and perceived value. No significant differences were found based on gender. Clinical exposure was associated with more favorable perceptions of IPE. These findings support embedding structured, experiential IPE from the preclinical years onward-through shared case-based teaching, interprofessional simulation, and co-facilitated clinical activities-rather than relying on clinical contact alone. For curriculum developers and institutional policymakers, the results highlight the value of integrating IPE across both preclinical and clinical curricula and of targeting attitudinal development specifically. Longitudinal and intervention-based studies are needed to confirm whether such exposure produces durable gains in collaborative competence.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "highlight the value of integrating IPE across both preclinical and clinical curricula and of targeting attitudinal development specifically. Longitudinal and intervention-based studies are needed to confirm whether such exposure produces durable gains in collaborative competence.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42449157/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2780,91 +2803,6 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42424630/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42426774",
-      "title": "Evaluation of structured training in osteotomy and splitting for BSSO using a 3D-printed mandibular model.",
-      "authors": [
-        "Leonhard Gerich",
-        "Yao Li",
-        "Oliver-Costin Vladu",
-        "Moritz Bregenzer",
-        "Kunpeng Xie",
-        "Jan Egger",
-        "Rainer Röhrig",
-        "Frank Hölzle",
-        "Behrus Hinrichs-Puladi",
-        "Ashkan Rashad"
-      ],
-      "publication_date": "2026-Jul-09",
-      "publication_date_iso": "2026-07-09",
-      "abstract": "The teaching of bilateral sagittal split osteotomy (BSSO) requires the utilisation of practical training methods to optimise the surgical result and prevent complications such as bad splits or damage to the inferior alveolar nerve. The objective of the present study was to evaluate a structured training program using a cost-effective, 3D-printed mandibular model to improve osteotomy and splitting performance in BSSO. The study was registered in the German Clinical Trials Register (DRKS00034369, registration date: 20/11/2024). A lower jaw model was fabricated using a semi-professional Prusa XL Multi-Tool 3D printer and a combination of colours and materials. The model also incorporated the inferior alveolar nerve, which was fabricated from a flexible material. The model was modified to facilitate its dynamic integration into a phantom head by modification of the condyles. Twenty participants performed two repetitions of the osteotomy and splitting steps of BSSO. The participants received feedback after the first run and during the second run. The experiments were recorded and assessed using a validated questionnaire (OSATS). Furthermore, the distance between the inferior alveolar nerve and the fracture surface, as well as the number of bad splits, was determined. Participants significantly improved their surgical skills as measured by the OSATS between the first and second run from 23.7 points ± 4.3 (mean ± sd) to 27.2 points ± 3.9 (p < 0.001). In addition, the minimal distance between the nerve and the fracture surface increased from 0.2 ± 0.38 mm to 1.12 ± 1.04 mm (p = 0.012). The number of bad splits decreased from 15 to 4 (p = 0.044). The estimated material cost of the lower jaw is approximately US$4 with a printing time of an estimated 9.5 h. It is possible to develop a cost-effective and realistic training model, that can be used within structured repeated practice sessions for BSSO training and is associated with improved performance in this setting. Further studies are needed to validate the simulator and assess its impact on real-life surgical outcomes.",
-      "objective": "of the present study was to evaluate a structured training program using a cost-effective, 3D-printed mandibular model to improve osteotomy and splitting performance in BSSO. The study was registered in the German Clinical Trials Register (DRKS00034369, registration date: 20/11/2024). A lower jaw model was fabricated using a semi-professional Prusa XL Multi-Tool 3D printer and a combination of colours and materials. The model also incorporated the inferior alveolar nerve, which was fabricated from a flexible material. The model was modified to facilitate its dynamic integration into a phantom head by modification of the condyles. Twenty participants performed two repetitions of the osteotomy and splitting steps of BSSO. The participants received feedback after the first run and during the second run. The experiments were recorded and assessed using a validated questionnaire (OSATS). Furthermore, the distance between the inferior alveolar nerve and the fracture surface, as well as the number of bad splits, was determined. Participants significantly improved their surgical skills as measured by the OSATS between the first and second run from 23.7 points ± 4.3 (mean ± sd) to 27.2 points ± 3.9 (p < 0.001). In addition, the minimal distance between the nerve and the fracture surface increased from 0.2 ± 0.38 mm to 1.12 ± 1.04 mm (p = 0.012). The number of bad splits decreased from 15 to 4 (p = 0.044). The estimated material cost of the lower jaw is approximately US$4 with a printing time of an estimated 9.5 h. It is possible to develop a cost-effective and realistic training model, that can be used within structured repeated practice sessions for BSSO training and is associated with improved performance in this setting. Further studies are needed to validate the simulator and assess its impact on real-life surgical outcomes.",
-      "study_methods": "The study was registered in the German Clinical Trials Register (DRKS00034369, registration date: 20/11/2024). A lower jaw model was fabricated using a semi-professional Prusa XL Multi-Tool 3D printer and a combination of colours and materials. The model also incorporated the inferior alveolar nerve, which was fabricated from a flexible material. The model was modified to facilitate its dynamic integration into a phantom head by modification of the condyles. Twenty participants performed two repetitions of the osteotomy and splitting steps of BSSO. The participants received feedback after the first run and during the second run. The experiments were recorded and assessed using a validated questionnaire (OSATS). Furthermore, the distance between the inferior alveolar nerve and the fracture surface, as well as the number of bad splits, was determined.",
-      "methods": "The study was registered in the German Clinical Trials Register (DRKS00034369, registration date: 20/11/2024). A lower jaw model was fabricated using a semi-professional Prusa XL Multi-Tool 3D printer and a combination of colours and materials. The model also incorporated the inferior alveolar nerve, which was fabricated from a flexible material. The model was modified to facilitate its dynamic integration into a phantom head by modification of the condyles. Twenty participants performed two repetitions of the osteotomy and splitting steps of BSSO. The participants received feedback after the first run and during the second run. The experiments were recorded and assessed using a validated questionnaire (OSATS). Furthermore, the distance between the inferior alveolar nerve and the fracture surface, as well as the number of bad splits, was determined.",
-      "results": "and prevent complications such as bad splits or damage to the inferior alveolar nerve. The objective of the present study was to evaluate a structured training program using a cost-effective, 3D-printed mandibular model to improve osteotomy and splitting performance in BSSO. The study was registered in the German Clinical Trials Register (DRKS00034369, registration date: 20/11/2024). A lower jaw model was fabricated using a semi-professional Prusa XL Multi-Tool 3D printer and a combination of colours and materials. The model also incorporated the inferior alveolar nerve, which was fabricated from a flexible material. The model was modified to facilitate its dynamic integration into a phantom head by modification of the condyles. Twenty participants performed two repetitions of the osteotomy and splitting steps of BSSO. The participants received feedback after the first run and during the second run. The experiments were recorded and assessed using a validated questionnaire (OSATS). Furthermore, the distance between the inferior alveolar nerve and the fracture surface, as well as the number of bad splits, was determined. Participants significantly improved their surgical skills as measured by the OSATS between the first and second run from 23.7 points ± 4.3 (mean ± sd) to 27.2 points ± 3.9 (p < 0.001). In addition, the minimal distance between the nerve and the fracture surface increased from 0.2 ± 0.38 mm to 1.12 ± 1.04 mm (p = 0.012). The number of bad splits decreased from 15 to 4 (p = 0.044). The estimated material cost of the lower jaw is approximately US$4 with a printing time of an estimated 9.5 h. It is possible to develop a cost-effective and realistic training model, that can be used within structured repeated practice sessions for BSSO training and is associated with improved performance in this setting. Further studies are needed to validate the simulator and assess its impact on real-life surgical outcomes.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42426774/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42425820",
-      "title": "Are condylar head and neck inclinations associated with condylar volume changes following maxillomandibular advancement surgery?",
-      "authors": [
-        "T W Nielsen",
-        "M B Holte",
-        "G Berg-Beckhoff",
-        "J J Thorn",
-        "J Ingerslev",
-        "E M Pinholt"
-      ],
-      "publication_date": "2026-Jul-09",
-      "publication_date_iso": "2026-07-09",
-      "abstract": "The aim of this study was to analyse the association of condylar head and condylar neck inclination with condylar volume changes 2 years following maxillomandibular advancement surgery (MMA) for prediction purposes. A novel method for assessment of the condylar head and neck inclination from cone-beam computed tomography (CBCT) was proposed and its reliability was assessed. The intra- and inter-observer reliability of the method was excellent, intraclass correlation coefficient >0.99, with mean absolute differences ranging from 0.7 to 1.5°. Pre- and postoperative CBCT (2 weeks and 2 years) of 47 patients (31 female, 16 male; mean age 21.72 years) was assessed. The mean preoperative condylar head inclination in the right and left sides was 9.55 ± 9.62° (anterior) and 9.23 ± 10.51° (anterior), respectively, while the mean preoperative condylar neck inclination was -10.62 ± 6.81° (posterior) and -8.33 ± 8.07° (posterior), respectively. The condylar volumes showed a mean decrease in the right and left sides of 9.98 ± 21.14% and 11.14 ± 20.96%, respectively. Condylar neck inclination was identified as a statistically significant prediction factor for condylar volume loss (P = 0.004), while condylar head inclination was not (P = 0.42). Mandibular condyles with progressive condylar resorption had a significantly more posterior condylar neck inclination preoperatively compared to those without (P < 0.001). In conclusion, a more posteriorly inclined neck preoperatively was statistically significantly associated with a larger condylar volume loss 2 years following MMA. No statistically significant association between condylar head inclination and condylar volume loss was found.",
-      "objective": "of this study was to analyse the association of condylar head and condylar neck inclination with condylar volume changes 2 years following maxillomandibular advancement surgery (MMA) for prediction purposes. A novel",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": ", a more posteriorly inclined neck preoperatively was statistically significantly associated with a larger condylar volume loss 2 years following MMA. No statistically significant association between condylar head inclination and condylar volume loss was found.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42425820/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42425818",
-      "title": "Changes in nasal soft tissue morphology following Le Fort I osteotomy of the maxilla: evaluation using a three-dimensional camera.",
-      "authors": [
-        "M Tomimatsu",
-        "S Hasegawa",
-        "J Sasaki",
-        "S Watanabe",
-        "H Miyachi",
-        "M Goto"
-      ],
-      "publication_date": "2026-Jul-09",
-      "publication_date_iso": "2026-07-09",
-      "abstract": "This study aimed to investigate the factors affecting alar width after Le Fort I osteotomy. A prospective observational study was conducted on 84 patients who underwent orthodontic treatment followed by Le Fort I osteotomy, with or without bilateral sagittal split ramus osteotomy. Measurements of alar width, alar base width, and nasal tip protrusion were obtained using a three-dimensional camera before surgery and on postoperative days 3, 7, 60, and 90. The sella-nasion-A point (SNA) angle was assessed from lateral cephalometric radiographs to evaluate maxillary movement. Postoperatively, alar width increased by 2.33 ± 1.24 mm. Significant correlations were observed between alar width increase and preoperative alar width (P = 0.002), facial changes (P < 0.001), and SNA angle (P = 0.003). Although previous studies have emphasized bony segment movement as the main factor influencing nasal width, multivariate analysis in the present study revealed that preoperative alar width (P = 0.003) and facial changes (P = 0.002) had a stronger correlation with alar width expansion than with SNA angle (P = 0.027). In conclusion, postoperative alar widening is influenced by multiple factors, including nasal morphology and bone movement. Further studies are needed to clarify these mechanisms to improve the control of nasal morphological changes following Le Fort I osteotomy.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": ", postoperative alar widening is influenced by multiple factors, including nasal morphology and bone movement. Further studies are needed to clarify these mechanisms to improve the control of nasal morphological changes following Le Fort I osteotomy.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42425818/",
       "pmcid": "",
       "figure_urls": []
     }
