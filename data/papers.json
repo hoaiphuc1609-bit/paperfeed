@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T05:19:10Z",
+  "updated_at": "2026-07-18T04:53:35Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1215,6 +1215,35 @@
       ]
     },
     {
+      "pmid": "42276507",
+      "title": "Bridging the gap: Integrating oxidative stress profiling with retinal imaging for precision management of diabetic retinopathy.",
+      "authors": [
+        "Amr Ali Mohamed Abdelgawwad El-Sehrawy",
+        "Bahaa Jaber",
+        "Dildora Narbutaeva",
+        "Navruz Ismatov",
+        "Ozodbek Eshqobilov",
+        "Lara Asim Kzar",
+        "Rajashree Panigrahi",
+        "Neeraj Bainsal"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Diabetic retinopathy (DR) remains a primary cause of vision impairment in working-age adults, driven by chronic hyperglycemia-induced oxidative stress that exacerbates retinal microvascular alterations, including pericyte loss, endothelial dysfunction, and capillary occlusion. This narrative review summarizes evidence suggesting that specific oxidative signatures may precede detectable microvascular alterations, suggesting a \"metabolic-memory\" imprint on retinal cellular homeostasis. This paradigm shift implicates oxidative stress biomarkers not merely as correlates of disease but as predictive tools for stratifying patients at risk of progression from non-proliferative to proliferative DR. This review examines current laboratory evidence on oxidative stress markers, such as malondialdehyde (MDA), 8-isoprostanes, superoxide dismutase (SOD), glutathione (GSH), and total antioxidant capacity (TAC), in relation to DR pathogenesis and progression. Drawing on epidemiological and clinical studies, we elucidate how elevated lipid peroxidation products (e.g., MDA and 8-isoprostanes) correlate with early microvascular changes and disease severity, while diminished antioxidant enzymes (e.g., SOD and GSH) reflect systemic redox imbalance, potentially serving as prognostic indicators of transitions from non-proliferative to proliferative DR. Innovatively, we propose an integrated biomarker panel combining these oxidative indices with advanced retinal imaging modalities, such as optical coherence tomography angiography, to enhance early detection sensitivity. Furthermore, emerging interventions targeting oxidative pathways, including carotenoid antioxidants like zeaxanthin and novel nanotechnology-based delivery systems for SOD mimetics, offer promising avenues for halting microvascular degeneration. By bridging laboratory assays with clinical translation, this review underscores the potential value of routine oxidative stress profiling in diabetic patients to support timely, biomarker-guided adjunctive interventions, ultimately mitigating DR-related morbidity and improving clinical risk stratification in ophthalmology.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42276507/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42275922",
       "title": "Local vitamin D",
       "authors": [
@@ -1397,33 +1426,30 @@
       "figure_urls": []
     },
     {
-      "pmid": "41950887",
-      "title": "Zwitterionic peptide dendrimer-based nanocarriers with enhanced stability and biocompatibility for cancer therapy.",
+      "pmid": "42466535",
+      "title": "Understanding the Workflows in Dynamic and Robotic Computer-Assisted Implant Surgery.",
       "authors": [
-        "Yiwen Dong",
-        "Yuxin Wang",
-        "Yanzhuo Lv",
-        "Jing Jia",
-        "Yanda Li",
-        "Longhua Shen",
-        "Yang Chen",
-        "Gang Niu",
-        "Junyang Zhuang",
-        "Ning Li"
+        "Adria Jorba-Garcia",
+        "Shengchi Fan",
+        "Feng Wang",
+        "James Chow",
+        "Atiphan Pimkhaokham",
+        "Nikos Mattheos",
+        "Alessandro Pozzi"
       ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Autophagy is a cellular self-degradation process that plays a dual role in cancer. Its mild activation can promote tumor survival, while its excessive activation may lead to autophagy-related cell death. Therefore, synergistic treatment of chemotherapeutic agents and autophagy inducers could be a potential strategy to improve therapeutic outcomes. In this study, a zwitterionic peptide dendrimer was designed to conjugate chemotherapeutics, while autophagy inducer STF-62247 was co-loaded into the zwitterionic vehicles to form zwitterionic peptide dendrimers-based nanoparticles (ZPNs). The zwitterionic peptide dendrimer-based vehicles integrate the advantages of peptide dendrimers and zwitterionic surface properties, enabling self-assembly into a stable nanoscale co-delivery system. The physicochemical characteristics of ZPNs, including size, morphology, surface charge, and stability were studied by dynamic light scattering (DLS), transmission electron microscopy (TEM), a hemolysis assay, and protein adsorption assays. The activated autophagy was observed by TEM and Western Blot (WB) tests, which revealed enhanced autophagy in treated tumor cells. In vivo studies in 4T1 tumor-bearing mice were performed to evaluate both antitumor activity and systemic safety, accompanied by histological and hematological analyses. The results showed that ZPNs@STF achieved tumor inhibition comparable to doxorubicin (DOX) while reducing systemic toxicity, suggesting that zwitterionic peptide dendrimers as a promising and safe platform for combination chemotherapy.",
-      "objective": "",
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Computer-assisted implant surgery (CAIS) represents a comprehensive digital workflow integrating prosthetically driven planning with various execution modalities. Among these, dynamic (d-CAIS) and robotic (r-CAIS) systems constitute two distinct yet interrelated approaches, sharing core technological principles as well as operative differences. This white paper aims to provide a structured overview of the fundamental concepts and workflows underpinning d- and r-CAIS, focusing on their shared components, procedural steps, and system-specific characteristics. Both approaches rely on accurate digital treatment planning, spatial positioning systems, registration protocols, and real-time feedback mechanisms to guide implant placement. However, while d-CAIS enables operator-controlled freehand execution under real-time navigation, r-CAIS introduces robotic assistance or task autonomy, integrating mechanical actuation into the surgical workflow. Rather than providing exhaustive technical instructions, this work aims to establish a conceptual framework to support clinicians in understanding and evaluating emerging CAIS technologies and their role in contemporary implant dentistry. Furthermore, it discusses current advantages, limitations, and challenges related to clinical implementation, cost, and training requirements.",
+      "objective": "to provide a structured overview of the fundamental concepts and workflows underpinning d- and r-CAIS, focusing on their shared components, procedural steps, and system-specific characteristics. Both approaches rely on accurate digital treatment planning, spatial positioning systems, registration protocols, and real-time feedback mechanisms to guide implant placement. However, while d-CAIS enables operator-controlled freehand execution under real-time navigation, r-CAIS introduces robotic assistance or task autonomy, integrating mechanical actuation into the surgical workflow. Rather than providing exhaustive technical instructions, this work aims to establish a conceptual framework to support clinicians in understanding and evaluating emerging CAIS technologies and their role in contemporary implant dentistry. Furthermore, it discusses current advantages, limitations, and challenges related to clinical implementation, cost, and training requirements.",
       "study_methods": "",
       "methods": "",
-      "results": "showed that ZPNs@STF achieved tumor inhibition comparable to doxorubicin (DOX) while reducing systemic toxicity, suggesting that zwitterionic peptide dendrimers as a promising and safe platform for combination chemotherapy.",
+      "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41950887/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466535/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2516,127 +2542,168 @@
       "figure_urls": []
     },
     {
-      "pmid": "42463492",
-      "title": "A Point-of-Care Test to Measure Tacrolimus Directly from Unprocessed Whole Blood.",
+      "pmid": "42469822",
+      "title": "Cold atmospheric plasma for implant surface decontamination and osseointegration: a scoping review with implications for peri-implantitis management.",
       "authors": [
-        "Damon T Burrow",
-        "David S Kinnamon",
-        "Jacob T Heggestad",
-        "Jason Liu",
-        "Brooke E Silverstein",
-        "Daniel Y Joh",
-        "Matt Harris",
-        "Matthew J Ellis",
-        "Angus Hucknall",
-        "Linda C Cendales",
-        "Ashutosh Chilkoti"
+        "Kiana Shahraki",
+        "Mitra Azizan Bidabadi",
+        "Ningbo Zhao"
+      ],
+      "publication_date": "2026-Jul-17",
+      "publication_date_iso": "2026-07-17",
+      "abstract": "Peri-implantitis is a biofilm-associated inflammatory condition leading to progressive bone loss around dental implants. Effective management requires both implant surface decontamination and re-establishment of osseointegration. Cold atmospheric plasma (CAP) has emerged as a promising approach due to its antimicrobial activity and its ability to modify implant surface properties. This scoping review was conducted in accordance with the PRISMA-ScR guidelines. A comprehensive search of PubMed, Scopus, Web of Science, and Google Scholar was performed to identify relevant studies. In vitro, ex vivo, and animal studies investigating the effects of CAP on implant surface decontamination and/or osseointegration were included. Given the limited availability of standardized peri-implantitis models, studies reflecting key biological components of the disease process were considered. A total of 77 studies were included. Among them, 31 focused on implant surface decontamination and 46 evaluated osseointegration-related outcomes. The included studies were highly heterogeneous in terms of plasma devices, gas composition, exposure parameters, implant materials, and biological models. Overall, CAP demonstrated consistent antibacterial effects and was associated with improved surface hydrophilicity, enhanced osteoblast response, and increased bone-to-implant contact in preclinical settings. CAP appears to possess a dual potential to support implant surface decontamination and osseointegration-related processes, targeting biological processes relevant to peri-implantitis. However, the evidence is largely preclinical and derived from heterogeneous models that do not uniformly reproduce the clinical condition of peri-implantitis. Therefore, current findings support the biological plausibility of CAP as an adjunctive strategy, while its clinical effectiveness and optimal application protocols remain to be established through well-designed in vivo studies and clinical trials.",
+      "objective": "",
+      "study_methods": "This scoping review was conducted in accordance with the PRISMA-ScR guidelines. A comprehensive search of PubMed, Scopus, Web of Science, and Google Scholar was performed to identify relevant studies. In vitro, ex vivo, and animal studies investigating the effects of CAP on implant surface decontamination and/or osseointegration were included. Given the limited availability of standardized peri-implantitis models, studies reflecting key biological components of the disease process were considered.",
+      "methods": "This scoping review was conducted in accordance with the PRISMA-ScR guidelines. A comprehensive search of PubMed, Scopus, Web of Science, and Google Scholar was performed to identify relevant studies. In vitro, ex vivo, and animal studies investigating the effects of CAP on implant surface decontamination and/or osseointegration were included. Given the limited availability of standardized peri-implantitis models, studies reflecting key biological components of the disease process were considered.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42469822/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42469774",
+      "title": "Depth of implant mucosal tunnel influences its microbiota: a prospective observational cross-sectional study.",
+      "authors": [
+        "Igor Ashurko",
+        "Svetlana Bokareva",
+        "Oxana Svitich",
+        "Svetlana Tarasenko",
+        "Dmitry Kompaniets",
+        "Asmik Avagyan",
+        "Nune Vartanova",
+        "Mamedova Rasana",
+        "Alexey Unkovskiy"
+      ],
+      "publication_date": "2026-Jul-17",
+      "publication_date_iso": "2026-07-17",
+      "abstract": "to assess whether implant mucosal tunnel depth is associated with differences in cultivable microbial diversity in clinically healthy peri-implant tissues. fifty-two patients with single molar implants were included after a standardized 3-month healing period and stratified into three groups according to implant mucosal tunnel depth: <3 mm, 3-5 mm, and > 5 mm. Microbial samples from the inner lining of the implant mucosal tunnel were cultured under aerobic and anaerobic conditions and identified using MALDI-TOF mass spectrometry. As a secondary exploratory outcome, TNF-α expression in peri-implant mucosa was quantified using real-time PCR. a total of 262 cultivable isolates representing 46 species were identified, with facultative anaerobic species predominating (81.68%). The highest Shannon diversity index was observed in the 3-5 mm group, whereas tunnels > 5 mm demonstrated reduced cultivable diversity, with clinically significant growth predominantly represented by streptococci. TNF-α expression showed a progressive increase with increasing implant mucosal tunnel depth, reaching approximately 38-fold higher levels in the > 5 mm group compared with < 3 mm (p < 0.017). within the limitations of this exploratory cross-sectional study, implant mucosal tunnel depth was associated with differences in cultivable microbial composition and local TNF-α expression in clinically stable peri-implant tissues. Deeper mucosal tunnels (> 5 mm) demonstrated reduced cultivable species diversity without a consistent predominance of cultivable periodontal pathogens under the applied culture conditions. The observed increase in TNF-α expression should be interpreted as a biologic association rather than evidence of active inflammation or disease. Due to the culture-based methodology and the absence of longitudinal clinical data, no conclusions regarding disease risk or progression can be drawn. ClinicalTrials.gov, NCT05870774. Registered on 20,230,425.",
+      "objective": "",
+      "study_methods": "fifty-two patients with single molar implants were included after a standardized 3-month healing period and stratified into three groups according to implant mucosal tunnel depth: <3 mm, 3-5 mm, and > 5 mm. Microbial samples from the inner lining of the implant mucosal tunnel were cultured under aerobic and anaerobic conditions and identified using MALDI-TOF mass spectrometry. As a secondary exploratory outcome, TNF-α expression in peri-implant mucosa was quantified using real-time PCR.",
+      "methods": "fifty-two patients with single molar implants were included after a standardized 3-month healing period and stratified into three groups according to implant mucosal tunnel depth: <3 mm, 3-5 mm, and > 5 mm. Microbial samples from the inner lining of the implant mucosal tunnel were cultured under aerobic and anaerobic conditions and identified using MALDI-TOF mass spectrometry. As a secondary exploratory outcome, TNF-α expression in peri-implant mucosa was quantified using real-time PCR.",
+      "results": "",
+      "conclusion": "regarding disease risk or progression can be drawn. ClinicalTrials.gov, NCT05870774. Registered on 20,230,425.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42469774/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42469439",
+      "title": "Embryodysgenesis of the Lids and Orbit.",
+      "authors": [
+        "James A Katowitz",
+        "Yasaman Ataei",
+        "Elizabeth J Bhoj",
+        "Jesse A Taylor"
+      ],
+      "publication_date": "2026-Jul-17",
+      "publication_date_iso": "2026-07-17",
+      "abstract": "The 2025 Cambridge Ophthalmology Symposium focused on \"Embryogenesis and the Eye\". This review discusses key mechanisms in embryodysgenesis contributing to abnormal development of the eyelids and bony orbit. Most of these anomalies can be categorized as malformations, primarily divided into two groups: 1. Premature Craniosynostoses and 2. Congenital Craniofacial Clefting Disorders. Etiologic factors influencing both categories are reviewed, along with advantages of an adaptation of the Tessier clockface system in classifying craniofacial clefts into four regional areas. Current diagnostic and management concepts for these two major congenital craniofacial groups are reviewed.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42469439/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42467132",
+      "title": "In vitro comparison of fixation techniques for stabilization of Le Fort I osteotomy in short and large advancements of the maxilla.",
+      "authors": [
+        "Misha L Tan",
+        "Max P A Balkenende",
+        "Damir Delic",
+        "Karel Kuik",
+        "Cornelis J Kleverlaan",
+        "Jan de Lange",
+        "Jean-Pierre T F Ho"
+      ],
+      "publication_date": "2026-Jul-17",
+      "publication_date_iso": "2026-07-17",
+      "abstract": "Le Fort I osteotomy is widely performed in orthognathic surgery for maxillary repositioning and for the treatment of dentofacial deformities and obstructive sleep apnea (OSA). Postoperative relapse remains a concern, particularly after large maxillary advancements, highlighting the importance of rigid fixation. This study aimed to determine which fixation technique provides the greatest rigidity. In this in vitro study, the biomechanical rigidity of five commonly used fixation techniques for Le Fort I osteotomies was evaluated using 150 polyurethane specimens with advancements of 5 mm and 10 mm. The techniques included two L-plates (A), four L-plates of different thicknesses (B and C), two precontoured Le Fort I plates (D), and a hybrid configuration with two precontoured Le Fort I plates combined with two L-plates (E). Resistance to vertical displacement was measured at 1, 3, and 5 mm using a biomechanical testing machine. Fixation E consistently showed the highest resistance across both advancement distances and all displacement intervals, significantly outperforming fixations A, C, and D. Fixation B demonstrated resistance comparable to fixation E, whereas fixation C showed inferior performance despite a similar configuration. Fixations A and D showed the lowest resistance, particularly at 10 mm advancement. Overall, fixation E provided the greatest rigidity, while techniques relying on only two plates were biomechanically less effective. Further clinical studies are required to determine the clinical relevance of these findings.",
+      "objective": "",
+      "study_methods": "In this in vitro study, the biomechanical rigidity of five commonly used fixation techniques for Le Fort I osteotomies was evaluated using 150 polyurethane specimens with advancements of 5 mm and 10 mm. The techniques included two L-plates (A), four L-plates of different thicknesses (B and C), two precontoured Le Fort I plates (D), and a hybrid configuration with two precontoured Le Fort I plates combined with two L-plates (E). Resistance to vertical displacement was measured at 1, 3, and 5 mm using a biomechanical testing machine.",
+      "methods": "In this in vitro study, the biomechanical rigidity of five commonly used fixation techniques for Le Fort I osteotomies was evaluated using 150 polyurethane specimens with advancements of 5 mm and 10 mm. The techniques included two L-plates (A), four L-plates of different thicknesses (B and C), two precontoured Le Fort I plates (D), and a hybrid configuration with two precontoured Le Fort I plates combined with two L-plates (E). Resistance to vertical displacement was measured at 1, 3, and 5 mm using a biomechanical testing machine.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467132/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42468027",
+      "title": "Face Value: Evaluating the FISS Scoring System for Operative Intervention in Pediatric Facial Trauma.",
+      "authors": [
+        "Anthony V Basta",
+        "Christopher M Williams",
+        "Tien Do",
+        "Owen Ferriola",
+        "Kamryn K Baker",
+        "Dustin R McHalffey",
+        "Alexandra M Dunker",
+        "Danielle L Sobol",
+        "Matthew R Greives",
+        "Dylan R Bezzini"
       ],
       "publication_date": "2026-Jul-16",
       "publication_date_iso": "2026-07-16",
-      "abstract": "Tacrolimus is a cornerstone immunosuppressant used to prevent graft rejection in solid organ transplant recipients. While effective, tacrolimus therapy must be carefully monitored and managed due to the drug's narrow therapeutic window and variable patient responses to dosing. Overdosing of tacrolimus can lead to opportunistic infections, nephrotoxicity, neurotoxicity, and cancer while under-dosing risks organ rejection. As a result, therapeutic drug monitoring (TDM) of tacrolimus is routinely performed. Current monitoring approaches face significant limitations, including slow (4-8 h or days) turnaround times, complex sample preparation requirements, and reliance on centralized infrastructure that delays critical dosing decisions. Furthermore, emerging evidence shows that the pharmacokinetic exposure parameter best associated with clinical outcomes is the area under the concentration-time curve (AUC). AUC-based monitoring requires sampling patients at multiple time points, which increases the logistical burdens to both patients and providers. Hence, there is an urgent need for a point-of-care test for tacrolimus that can be run at the patient bedside, in outpatient clinics, and eventually in patient homes. Here, we describe a novel point-of-care test, the TAC-D4 POCT, capable of measuring tacrolimus levels directly from whole blood samples without sample preparation steps or expensive analyzers with automated results available in 1 h. Our test helps overcome the current logistical barriers in the clinical management of patients receiving tacrolimus therapy ultimately leading to improved patient adherence, outcomes, and the ability to further personalize dosing regimens. Moreover, the Tac-D4 is highly modular and can be used to monitor clinically significantly biomarkers, such as interleukin-6 and matrix metalloproteinase 3, that complement tacrolimus TDM.",
+      "abstract": "The Facial Injury Severity Scale (FISS) quantifies maxillofacial trauma and predicts operative need, although its applicability in pediatric populations remains unclear. This study evaluated the association between FISS and operative management in pediatric facial fractures. We reviewed patients younger than 18 years with facial fractures from May 2021 to February 2025. Demographics, injury characteristics, and operative data were collected. Patients with incomplete data or mortality were excluded. FISS scores were calculated and compared between nonoperative (NOP) and operative (OP) groups. Univariate and multivariate analyses were performed. Of 347 patients, 312 were included; 102 (32.7%) were OP and 210 (67.3%) were NOP. Demographics were similar between groups. The OP group had higher rates of mandibular fractures (72% versus 14%, P<0.001) and LeFort I fractures (8.8% versus 1.9%, P=0.012), and lower rates of orbital (31% versus 58%, P<0.001), calvarium (15% versus 44%, P<0.001), nasal (23% versus 36%, P=0.019) fractures, and traumatic brain injury (34% versus 63%, P<0.001). Median FISS scores were higher in the OP group (5 [3-6] versus 2 [1-5], P<0.001). Assault (OR: 11.7, P<0.001), mandibular fractures (OR: 6.5, P<0.001), and increasing FISS score (OR: 1.4, P=0.006) independently predicted operative intervention. Higher FISS scores were associated with surgery, supporting its role in pediatric risk assessment and planning. However, operative decisions also depended on injury mechanism and fracture location. FISS may aid triage, coordination, and counseling when used within a patient-centered approach. Level III (retrospective cohort study).",
       "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": ", therapeutic drug monitoring (TDM) of tacrolimus is routinely performed. Current monitoring approaches face significant limitations, including slow (4-8 h or days) turnaround times, complex sample preparation requirements, and reliance on centralized infrastructure that delays critical dosing decisions. Furthermore, emerging evidence shows that the pharmacokinetic exposure parameter best associated with clinical outcomes is the area under the concentration-time curve (AUC). AUC-based monitoring requires sampling patients at multiple time points, which increases the logistical burdens to both patients and providers. Hence, there is an urgent need for a point-of-care test for tacrolimus that can be run at the patient bedside, in outpatient clinics, and eventually in patient homes. Here, we describe a novel point-of-care test, the TAC-D4 POCT, capable of measuring tacrolimus levels directly from whole blood samples without sample preparation steps or expensive analyzers with automated results available in 1 h. Our test helps overcome the current logistical barriers in the clinical management of patients receiving tacrolimus therapy ultimately leading to improved patient adherence, outcomes, and the ability to further personalize dosing regimens. Moreover, the Tac-D4 is highly modular and can be used to monitor clinically significantly biomarkers, such as interleukin-6 and matrix metalloproteinase 3, that complement tacrolimus TDM.",
+      "study_methods": "We reviewed patients younger than 18 years with facial fractures from May 2021 to February 2025. Demographics, injury characteristics, and operative data were collected. Patients with incomplete data or mortality were excluded. FISS scores were calculated and compared between nonoperative (NOP) and operative (OP) groups. Univariate and multivariate analyses were performed.",
+      "methods": "We reviewed patients younger than 18 years with facial fractures from May 2021 to February 2025. Demographics, injury characteristics, and operative data were collected. Patients with incomplete data or mortality were excluded. FISS scores were calculated and compared between nonoperative (NOP) and operative (OP) groups. Univariate and multivariate analyses were performed.",
+      "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "facial trauma"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42463492/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468027/",
       "pmcid": "",
       "figure_urls": []
     },
     {
-      "pmid": "42461509",
-      "title": "The impact of propolis-silver nanoparticles coated sutures versus conventional sutures on early intraoral wound healing in healthy and diabetic rats: a preliminary histological study.",
+      "pmid": "42464006",
+      "title": "Evaluation of a Custom Three-Dimensional Surgical Guide in Mandibular Sagittal Split Osteotomy: An Exploratory Split-Mouth Randomized Controlled Trial.",
       "authors": [
-        "Hawra A Aljanobi",
-        "Muneer Alshuyukh",
-        "Hassan Ghonaim",
-        "Mohammed Alhulami",
-        "Zahra Aldawood",
-        "Ahmed Alsubaie",
-        "Hassan Alramadan",
-        "Ali Alkhalaf",
-        "Intisar Siddiqui"
+        "Evy Eida Vitria",
+        "Revini Nuita",
+        "Muhammad Kamil Hassan",
+        "Nissia Ananda",
+        "Tan Wui Jing",
+        "Zakiah Mat Ripen",
+        "Norliza Ibrahim"
       ],
       "publication_date": "2026-Jul-16",
       "publication_date_iso": "2026-07-16",
-      "abstract": "Optimal wound healing is crucial in oral surgery, particularly in compromised conditions. Diabetes mellitus is associated with impaired wound healing due to reduced vascularization, immune dysfunction, and altered collagen deposition. Propolis, a bioactive resin produced by honeybees, has demonstrated antimicrobial, anti-inflammatory, and pro-healing properties. This study aimed to evaluate the impact of propolis-silver nanoparticles (AgNPs) coated sutures on early wound healing in the oral mucosa of healthy and diabetic rats through histological assessments. Propolis-silver nanoparticles (AgNPs) were synthesized and examined using FTIR. The propolis-AgNPs then used to coat polyglycolic acid (PGA) sutures. Before using the sutures in the experimental surgery, sutures Tensile Strength and SEM Analysis were performed. 12 Sprague-Dawley female rats (6 healthy, 6 diabetic) were used to create bilateral buccal mucosa punch incisions, with one side sutured using the propolis-AgNPs-coated PGA and the other with non-coated PGA sutures as a control. Wound healing was assessed after seven days through histological analysis using hematoxylin & eosin and Masson's trichrome staining. Data were analyzed using Chi-square, Fisher's exact test, and Welch's t test (p ≤ 0.05 considered significant). In healthy rats, propolis-coated sutures significantly improved collagen fiber organization and mature collagen deposition (p = 0.030). Although diabetic rats did not show statistically significant differences (p > 0.05), a trend toward enhanced collagen fiber alignment and mature collagen formation was observed. A slight reduction in blood vessel formation was noted in both groups. Propolis-AgNPs-coated sutures demonstrated enhanced collagen organization in healthy rats and showed potential for improving wound healing in diabetic models.",
+      "abstract": "This exploratory split-mouth randomized controlled trial aimed to evaluate the effect of a custom three-dimensional (3D) surgical guide on mandibular sagittal split osteotomy outcomes compared with conventional freehand osteotomy. Patients undergoing sagittal split osteotomy (SSO) were randomly assigned in a split-mouth design to receive mandibular osteotomy performed with a custom-made 3D surgical guide on one side and without a surgical guide on the contralateral side. The primary outcome was the postoperative lingual split scale (LSS) of the mandible. Secondary outcomes were lateral osteotomy end (LOE), assessed using postoperative CT-based evaluation, and intraoperative inferior alveolar nerve exposure (NE). Fifteen patients contributed 30 mandibular sides for paired analysis. Guided sides showed more favourable LSS (p = 0.041) and LOE (p = 0.041) distributions compared with non-guided sides. No statistically significant difference was observed in NE (p = 0.763). These findings suggest that the use of a custom 3D surgical guide may improve osteotomy control and split predictability. The custom 3D surgical guide was associated with more favourable lingual split pattern and lateral osteotomy end distributions during sagittal split osteotomy. Given that the study population consisted predominantly of skeletal Class III patients, these findings should be interpreted primarily within the context of Class III patients. No significant reduction in intraoperative inferior alveolar nerve exposure was observed.",
       "objective": "",
-      "study_methods": "",
-      "methods": "",
+      "study_methods": "Patients undergoing sagittal split osteotomy (SSO) were randomly assigned in a split-mouth design to receive mandibular osteotomy performed with a custom-made 3D surgical guide on one side and without a surgical guide on the contralateral side. The primary outcome was the postoperative lingual split scale (LSS) of the mandible. Secondary outcomes were lateral osteotomy end (LOE), assessed using postoperative CT-based evaluation, and intraoperative inferior alveolar nerve exposure (NE).",
+      "methods": "Patients undergoing sagittal split osteotomy (SSO) were randomly assigned in a split-mouth design to receive mandibular osteotomy performed with a custom-made 3D surgical guide on one side and without a surgical guide on the contralateral side. The primary outcome was the postoperative lingual split scale (LSS) of the mandible. Secondary outcomes were lateral osteotomy end (LOE), assessed using postoperative CT-based evaluation, and intraoperative inferior alveolar nerve exposure (NE).",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42461509/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42458224",
-      "title": "Response to: \"Sclerosing Odontogenic Carcinoma: Why Is It Difficult to Diagnose With Confidence?\".",
-      "authors": [
-        "Merva Soluk-Tekkesin",
-        "Keith David Hunter",
-        "Ronell Bologna-Molina",
-        "Kelly Magliocca",
-        "Liam Robinson",
-        "Akinyele Olumuyiwa Adisa",
-        "Jiang Li",
-        "Elizabeth Ann Bilodeau",
-        "Haizal Mohd Hussaini",
-        "Madhu Shrestha",
-        "Ricardo Santiago Gomez",
-        "Willie van Heerden",
-        "Wanninayake Mudiyanselage Tilakaratne"
-      ],
-      "publication_date": "2026-Jul-15",
-      "publication_date_iso": "2026-07-15",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42458224/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42457512",
-      "title": "Comment on \"Readability and performance of AI chatbot responses to frequently asked questions in maxillofacial prosthodontics\".",
-      "authors": [
-        "Rime Chraibi",
-        "Hanae Bouzakhnin",
-        "Soukaina Abidi",
-        "Chaimae Loudili",
-        "Yasmine Hanine",
-        "Youssra Azzouz",
-        "Oumaima Finnaoui",
-        "Hicham Soualhi"
-      ],
-      "publication_date": "2026-Jul-15",
-      "publication_date_iso": "2026-07-15",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42457512/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464006/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2749,61 +2816,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436451/",
       "pmcid": "PMC13355331",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42431266",
-      "title": "Iatrogenic Superficial Temporal Artery Pseudoaneurysm Following Cutaneous Carcinoma Excision.",
-      "authors": [
-        "Anne Fevre",
-        "Edouard Lange",
-        "Sanela Morand",
-        "Andréa Varazzani",
-        "Mathieu Daurade",
-        "Louis Brochet"
-      ],
-      "publication_date": "2026-Jul-10",
-      "publication_date_iso": "2026-07-10",
-      "abstract": "Pseudoaneurysm of the superficial temporal artery is a rare vascular complication that may occur after facial trauma or surgical procedures. We report the case of an 88-year-old patient who presented with recurrent bleeding and a pulsatile temporal mass several weeks after excision of a cutaneous squamous cell carcinoma. Computed tomography angiography revealed a pseudoaneurysm arising from the frontal branch of the superficial temporal artery. Surgical ligation and excision of the lesion were performed, resulting in definitive haemostasis without recurrence. Histopathological examination showed no residual malignancy. This case highlights the importance of considering pseudoaneurysm in the differential diagnosis of delayed bleeding or pulsatile swelling following temporal surgery. Early diagnosis with vascular imaging and prompt surgical management are essential to prevent potentially severe haemorrhagic complications.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in definitive haemostasis without recurrence. Histopathological examination showed no residual malignancy. This case highlights the importance of considering pseudoaneurysm in the differential diagnosis of delayed bleeding or pulsatile swelling following temporal surgery. Early diagnosis with vascular imaging and prompt surgical management are essential to prevent potentially severe haemorrhagic complications.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42431266/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42424630",
-      "title": "Defining National Benchmarks for Operative Nasal Fracture Management: Perioperative Outcomes Across Nearly Two Decades of Multi-Institutional Data.",
-      "authors": [
-        "Georgios Karamitros",
-        "Georgios Bouloukakis",
-        "Agata Szulia",
-        "Richard J Redett",
-        "Judy Pan",
-        "Paul N Manson",
-        "Gregory A Lamaris"
-      ],
-      "publication_date": "2026-Jul-10",
-      "publication_date_iso": "2026-07-10",
-      "abstract": "Nasal fractures are the most common facial fractures, yet national benchmarks for perioperative outcomes and drivers of surgical decision-making remain poorly defined. Leveraging nearly 2 decades of multi-institutional data, this study establishes contemporary standards of perioperative safety and characterizes factors influencing operative approach. A retrospective cohort study using the ACS-NSQIP database (2007-2024) identified adult patients who underwent operative nasal fracture repair. Patients were stratified by operative approach (closed vs. open reduction). The primary outcome was any 30-day postoperative complication. Secondary analyses evaluated determinants of operative approach, sensitivity to concurrent craniofacial procedures, and specialty-based practice patterns. Multivariable logistic regression was used to identify independent predictors of operative approach. Among 455 patients, 80.4% underwent closed and 19.6% open reduction. Across nearly 2 decades of national data, operative nasal fracture management demonstrated an exceptionally low complication rate of 1.5%, with no surgical site infections or mortality and no difference between approaches (1.4% vs. 2.2%, P=0.63). All complications represented return-to-operating-room events. Operative time (OR=1.004 per minute, P<0.001) and wound classification (OR=1.77 per class, P=0.013) independently predicted open reduction, whereas patient comorbidity was not associated with operative approach. Findings were consistent across sensitivity analyses. Specialty-based analysis demonstrated equivalent complication rates between otolaryngology and plastic surgery (1.7% vs. 1.7%, P=1.0), despite differences in operative approach selection. This national analysis provides benchmark-level evidence that operative management of nasal fractures is uniformly safe, with negligible perioperative morbidity across practice settings. The operative approach is dictated by injury complexity rather than patient risk, thereby supporting an anatomy-driven treatment paradigm. These findings define a national reference standard for perioperative safety and provide a foundation for future outcome-driven and patient-centered studies.",
-      "objective": "",
-      "study_methods": "A retrospective cohort study using the ACS-NSQIP database (2007-2024) identified adult patients who underwent operative nasal fracture repair. Patients were stratified by operative approach (closed vs. open reduction). The primary outcome was any 30-day postoperative complication. Secondary analyses evaluated determinants of operative approach, sensitivity to concurrent craniofacial procedures, and specialty-based practice patterns. Multivariable logistic regression was used to identify independent predictors of operative approach.",
-      "methods": "A retrospective cohort study using the ACS-NSQIP database (2007-2024) identified adult patients who underwent operative nasal fracture repair. Patients were stratified by operative approach (closed vs. open reduction). The primary outcome was any 30-day postoperative complication. Secondary analyses evaluated determinants of operative approach, sensitivity to concurrent craniofacial procedures, and specialty-based practice patterns. Multivariable logistic regression was used to identify independent predictors of operative approach.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42424630/",
-      "pmcid": "",
       "figure_urls": []
     }
   ]
