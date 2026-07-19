@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T04:53:35Z",
+  "updated_at": "2026-07-19T05:28:18Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -552,6 +552,34 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_OC.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_PB.jpg"
       ]
+    },
+    {
+      "pmid": "42336005",
+      "title": "Whole exome sequencing uncovers key genetic variants in congenital tooth agenesis: an integrative omics approach.",
+      "authors": [
+        "Prashant Ranjan",
+        "Chandra Devi",
+        "Neha Verma",
+        "Rajesh Bansal",
+        "Vinay Kumar Srivastava",
+        "Rimjhim Kumari",
+        "Parimal Das"
+      ],
+      "publication_date": "2026-Nov-05",
+      "publication_date_iso": "2026-11-05",
+      "abstract": "This study investigates the genetic basis of congenital tooth agenesis (CTA) using an omics approach. Whole exome sequencing (WES) identified novel variants, which were further analyzed in combination with RNA expression data to uncover genes associated with CTA, molecular mechanisms, and systemic disease links. WES was performed on 11 samples (6 CTA patients and 5 controls) to identify pathogenic variants. Integrative approaches, including gene expression profiling, protein interaction mapping, pathway enrichment, in silico functional assessments and molecular dynamics (MD) simulations, linked genetic findings to functional outcomes. qRT-PCR was used to evaluate signaling pathway alterations, and Sanger sequencing validated key variants. 4 Known and 2 novel variants were identified in candidate genes such as EDA, WNT10A, PAX9, and TSPEAR. Novel variants in WNT10A p.(Ala135Ser) and TSPEAR p.(Leu219Pro), p.(Ile419Leu fs*150) showed functional disruption in signaling pathways. Computational analyses predicted deleterious effects on protein stability for six variants. WES identified 21 genes with variants consistently present in all patients (MAF ≤ 20%), including novel variants in OR4F21 and LCORL. Notably, OR4F21 p.(Lys310Arg) and MRTFB p.(Ala135=) were detected in all affected individuals. Integrated omics analysis revealed 18 upregulated and 15 downregulated genes associated with developmental and systemic pathways. Our findings highlight the genetic heterogeneity of congenital tooth agenesis and demonstrate the utility of integrating whole exome sequencing with multi-omics analyses to better understand the molecular basis of tooth development and identify potential genetic contributors to CTA.",
+      "objective": "",
+      "study_methods": "WES was performed on 11 samples (6 CTA patients and 5 controls) to identify pathogenic variants. Integrative approaches, including gene expression profiling, protein interaction mapping, pathway enrichment, in silico functional assessments and molecular dynamics (MD) simulations, linked genetic findings to functional outcomes. qRT-PCR was used to evaluate signaling pathway alterations, and Sanger sequencing validated key variants.",
+      "methods": "WES was performed on 11 samples (6 CTA patients and 5 controls) to identify pathogenic variants. Integrative approaches, including gene expression profiling, protein interaction mapping, pathway enrichment, in silico functional assessments and molecular dynamics (MD) simulations, linked genetic findings to functional outcomes. qRT-PCR was used to evaluate signaling pathway alterations, and Sanger sequencing validated key variants.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42336005/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "42256884",
@@ -1450,7 +1478,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42466535/",
-      "pmcid": "",
+      "pmcid": "PMC13377617",
       "figure_urls": []
     },
     {
@@ -2542,71 +2570,40 @@
       "figure_urls": []
     },
     {
-      "pmid": "42469822",
-      "title": "Cold atmospheric plasma for implant surface decontamination and osseointegration: a scoping review with implications for peri-implantitis management.",
+      "pmid": "42471303",
+      "title": "Effect of binaural beats and isochronic tones on anxiety during impacted mandibular third molar surgery: a randomized controlled trial.",
       "authors": [
-        "Kiana Shahraki",
-        "Mitra Azizan Bidabadi",
-        "Ningbo Zhao"
+        "O Akkurt",
+        "Ö Ekici"
       ],
-      "publication_date": "2026-Jul-17",
-      "publication_date_iso": "2026-07-17",
-      "abstract": "Peri-implantitis is a biofilm-associated inflammatory condition leading to progressive bone loss around dental implants. Effective management requires both implant surface decontamination and re-establishment of osseointegration. Cold atmospheric plasma (CAP) has emerged as a promising approach due to its antimicrobial activity and its ability to modify implant surface properties. This scoping review was conducted in accordance with the PRISMA-ScR guidelines. A comprehensive search of PubMed, Scopus, Web of Science, and Google Scholar was performed to identify relevant studies. In vitro, ex vivo, and animal studies investigating the effects of CAP on implant surface decontamination and/or osseointegration were included. Given the limited availability of standardized peri-implantitis models, studies reflecting key biological components of the disease process were considered. A total of 77 studies were included. Among them, 31 focused on implant surface decontamination and 46 evaluated osseointegration-related outcomes. The included studies were highly heterogeneous in terms of plasma devices, gas composition, exposure parameters, implant materials, and biological models. Overall, CAP demonstrated consistent antibacterial effects and was associated with improved surface hydrophilicity, enhanced osteoblast response, and increased bone-to-implant contact in preclinical settings. CAP appears to possess a dual potential to support implant surface decontamination and osseointegration-related processes, targeting biological processes relevant to peri-implantitis. However, the evidence is largely preclinical and derived from heterogeneous models that do not uniformly reproduce the clinical condition of peri-implantitis. Therefore, current findings support the biological plausibility of CAP as an adjunctive strategy, while its clinical effectiveness and optimal application protocols remain to be established through well-designed in vivo studies and clinical trials.",
-      "objective": "",
-      "study_methods": "This scoping review was conducted in accordance with the PRISMA-ScR guidelines. A comprehensive search of PubMed, Scopus, Web of Science, and Google Scholar was performed to identify relevant studies. In vitro, ex vivo, and animal studies investigating the effects of CAP on implant surface decontamination and/or osseointegration were included. Given the limited availability of standardized peri-implantitis models, studies reflecting key biological components of the disease process were considered.",
-      "methods": "This scoping review was conducted in accordance with the PRISMA-ScR guidelines. A comprehensive search of PubMed, Scopus, Web of Science, and Google Scholar was performed to identify relevant studies. In vitro, ex vivo, and animal studies investigating the effects of CAP on implant surface decontamination and/or osseointegration were included. Given the limited availability of standardized peri-implantitis models, studies reflecting key biological components of the disease process were considered.",
+      "publication_date": "2026-Jul-18",
+      "publication_date_iso": "2026-07-18",
+      "abstract": "Dental anxiety is a common problem in oral surgery practices. Recently, interest has increased in non-pharmacological methods to reduce anxiety, such as auditory stimulation. This randomized controlled trial evaluated the effects of binaural beats (BB) and isochronic tones (IT), two forms of auditory stimulation, on dental anxiety and physiological parameters during impacted mandibular third molar surgery. Ninety patients were assigned equally to BB, IT, and control (no intraoperative auditory stimulation) groups. Anxiety levels were assessed using the MDAS, DFS, STAI-S, and a visual analogue scale pre- and postoperatively. The BB and IT group patients also completed a satisfaction questionnaire. Physiological parameters (respiratory rate, pulse rate, blood pressure [SBP, DBP], oxygen saturation) were recorded at eight surgical stages. No significant between-group differences were observed in the pre- or postoperative anxiety questionnaire scores. Isolated between-group differences in physiological parameters were observed: mean SBP at incision was lowest in the BB group (P = 0.041), while mean respiratory rate at anaesthesia was lowest in the IT group (P = 0.015). The majority of BB and IT group patients (78.3%) reported that they would prefer auditory stimulation in future dental treatments. The findings indicate that BB and IT have a limited effect on reducing dental anxiety during impacted mandibular third molar surgery and do not support a definitive anxiolytic benefit. Auditory stimulation may transiently influence certain stress-related physiological responses; however, further studies using objective neurophysiological measures and standardized protocols are required to clarify their role in oral surgery.",
+      "objective": "neurophysiological measures and standardized protocols are required to clarify their role in oral surgery.",
+      "study_methods": "",
+      "methods": "",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
         "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42469822/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42471303/",
       "pmcid": "",
       "figure_urls": []
     },
     {
-      "pmid": "42469774",
-      "title": "Depth of implant mucosal tunnel influences its microbiota: a prospective observational cross-sectional study.",
+      "pmid": "42470204",
+      "title": "Does Everything That Grows in the Mouth, Oral Cancer?",
       "authors": [
-        "Igor Ashurko",
-        "Svetlana Bokareva",
-        "Oxana Svitich",
-        "Svetlana Tarasenko",
-        "Dmitry Kompaniets",
-        "Asmik Avagyan",
-        "Nune Vartanova",
-        "Mamedova Rasana",
-        "Alexey Unkovskiy"
+        "Sagar Khanna",
+        "Craig Mangie",
+        "Gulshan Sunavala-Dossabhoy",
+        "David Kim"
       ],
-      "publication_date": "2026-Jul-17",
-      "publication_date_iso": "2026-07-17",
-      "abstract": "to assess whether implant mucosal tunnel depth is associated with differences in cultivable microbial diversity in clinically healthy peri-implant tissues. fifty-two patients with single molar implants were included after a standardized 3-month healing period and stratified into three groups according to implant mucosal tunnel depth: <3 mm, 3-5 mm, and > 5 mm. Microbial samples from the inner lining of the implant mucosal tunnel were cultured under aerobic and anaerobic conditions and identified using MALDI-TOF mass spectrometry. As a secondary exploratory outcome, TNF-α expression in peri-implant mucosa was quantified using real-time PCR. a total of 262 cultivable isolates representing 46 species were identified, with facultative anaerobic species predominating (81.68%). The highest Shannon diversity index was observed in the 3-5 mm group, whereas tunnels > 5 mm demonstrated reduced cultivable diversity, with clinically significant growth predominantly represented by streptococci. TNF-α expression showed a progressive increase with increasing implant mucosal tunnel depth, reaching approximately 38-fold higher levels in the > 5 mm group compared with < 3 mm (p < 0.017). within the limitations of this exploratory cross-sectional study, implant mucosal tunnel depth was associated with differences in cultivable microbial composition and local TNF-α expression in clinically stable peri-implant tissues. Deeper mucosal tunnels (> 5 mm) demonstrated reduced cultivable species diversity without a consistent predominance of cultivable periodontal pathogens under the applied culture conditions. The observed increase in TNF-α expression should be interpreted as a biologic association rather than evidence of active inflammation or disease. Due to the culture-based methodology and the absence of longitudinal clinical data, no conclusions regarding disease risk or progression can be drawn. ClinicalTrials.gov, NCT05870774. Registered on 20,230,425.",
-      "objective": "",
-      "study_methods": "fifty-two patients with single molar implants were included after a standardized 3-month healing period and stratified into three groups according to implant mucosal tunnel depth: <3 mm, 3-5 mm, and > 5 mm. Microbial samples from the inner lining of the implant mucosal tunnel were cultured under aerobic and anaerobic conditions and identified using MALDI-TOF mass spectrometry. As a secondary exploratory outcome, TNF-α expression in peri-implant mucosa was quantified using real-time PCR.",
-      "methods": "fifty-two patients with single molar implants were included after a standardized 3-month healing period and stratified into three groups according to implant mucosal tunnel depth: <3 mm, 3-5 mm, and > 5 mm. Microbial samples from the inner lining of the implant mucosal tunnel were cultured under aerobic and anaerobic conditions and identified using MALDI-TOF mass spectrometry. As a secondary exploratory outcome, TNF-α expression in peri-implant mucosa was quantified using real-time PCR.",
-      "results": "",
-      "conclusion": "regarding disease risk or progression can be drawn. ClinicalTrials.gov, NCT05870774. Registered on 20,230,425.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42469774/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42469439",
-      "title": "Embryodysgenesis of the Lids and Orbit.",
-      "authors": [
-        "James A Katowitz",
-        "Yasaman Ataei",
-        "Elizabeth J Bhoj",
-        "Jesse A Taylor"
-      ],
-      "publication_date": "2026-Jul-17",
-      "publication_date_iso": "2026-07-17",
-      "abstract": "The 2025 Cambridge Ophthalmology Symposium focused on \"Embryogenesis and the Eye\". This review discusses key mechanisms in embryodysgenesis contributing to abnormal development of the eyelids and bony orbit. Most of these anomalies can be categorized as malformations, primarily divided into two groups: 1. Premature Craniosynostoses and 2. Congenital Craniofacial Clefting Disorders. Etiologic factors influencing both categories are reviewed, along with advantages of an adaptation of the Tessier clockface system in classifying craniofacial clefts into four regional areas. Current diagnostic and management concepts for these two major congenital craniofacial groups are reviewed.",
+      "publication_date": "2026-Jul-18",
+      "publication_date_iso": "2026-07-18",
+      "abstract": "",
       "objective": "",
       "study_methods": "",
       "methods": "",
@@ -2616,7 +2613,31 @@
       "topics": [
         "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42469439/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42470204/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42470150",
+      "title": "Single-stage orthognathic correction of campylorrhinus lateralis in foals using transection and fixation: Surgical description and outcome of four horses.",
+      "authors": [
+        "Helio Vasco",
+        "Jim Schumacher",
+        "Jack Easley"
+      ],
+      "publication_date": "2026-Jul-18",
+      "publication_date_iso": "2026-07-18",
+      "abstract": "Campylorrhinus lateralis ('wry nose') is a rare congenital maxillofacial deformity of foals resulting in compromise of the airway and severe class 4 malocclusion. Various surgical techniques to correct the deformity have been described, but contemporary data on single-stage transection and fixation, including use of a rib graft, and long-term functional and cosmetic outcomes remain underreported. To describe the transection-and-fixation technique and perioperative management used to correct wry nose in horses, and to report postoperative complications and long-term outcomes of horses undergoing this treatment. Retrospective case series. Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics. All four horses were presented with respiratory difficulty. The transected premaxillae were stabilised with pins and wires, and the transected nasal bones were stabilised with plates/screws; only one horse received a rib graft. All horses developed a plate-associated infection, and one horse developed an oronasal fistula. At the time of follow-up, all grazed and masticated normally, maintained good body condition, and owners were satisfied with the functional and cosmetic outcome. Small sample size, retrospective design. Correcting wry nose of four foals using a single-stage transection-and-fixation procedure achieved satisfactory long-term outcomes. Respiratory function of all horses improved, and all horses grazed and masticated normally. Three horses were able to perform their intended athletic endeavour. All owners reported satisfaction with the functional and cosmetic outcome.",
+      "objective": "",
+      "study_methods": "Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics.",
+      "methods": "Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics.",
+      "results": "ing in compromise of the airway and severe class 4 malocclusion. Various surgical techniques to correct the deformity have been described, but contemporary data on single-stage transection and fixation, including use of a rib graft, and long-term functional and cosmetic outcomes remain underreported. To describe the transection-and-fixation technique and perioperative management used to correct wry nose in horses, and to report postoperative complications and long-term outcomes of horses undergoing this treatment. Retrospective case series. Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics. All four horses were presented with respiratory difficulty. The transected premaxillae were stabilised with pins and wires, and the transected nasal bones were stabilised with plates/screws; only one horse received a rib graft. All horses developed a plate-associated infection, and one horse developed an oronasal fistula. At the time of follow-up, all grazed and masticated normally, maintained good body condition, and owners were satisfied with the functional and cosmetic outcome. Small sample size, retrospective design. Correcting wry nose of four foals using a single-stage transection-and-fixation procedure achieved satisfactory long-term outcomes. Respiratory function of all horses improved, and all horses grazed and masticated normally. Three horses were able to perform their intended athletic endeavour. All owners reported satisfaction with the functional and cosmetic outcome.",
+      "conclusion": "",
+      "limitations": "Small sample size, retrospective design.",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42470150/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2790,32 +2811,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42437834/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42436451",
-      "title": "Accuracy of virtual facebow compared to conventional facebow: a systematic review.",
-      "authors": [
-        "Passent Ellakany",
-        "Himanshi Aggarwal",
-        "Alia Khazaal",
-        "Keith Kinderkenecht",
-        "Sadid Ramtin-Zadeh"
-      ],
-      "publication_date": "2026-Jul-11",
-      "publication_date_iso": "2026-07-11",
-      "abstract": "Digital technologies are rapidly evolving and have been introduced across many fields in dentistry, particularly prosthetic and restorative dentistry. In digital treatment planning, virtual articulators are helpful in simulating complex maxillomandibular movements and analyzing occlusion. Despite these advancements, evidence-based literature standardizing the transfer of clinical data to virtual environments remains limited. The aim of this review was to explore the accuracy of various methods in transferring maxillary digital models to virtual articulators compared with conventional facebow techniques. The research (PICO) question focused on assessing the accuracy of virtual facebow transfer compared to that of conventional facebows. An electronic search was performed in 3 databases between January 2014 to December 2025: PubMed/MEDLINE, Scopus, and Web of Science. Eligibility criteria included in vitro studies, clinical trials, case reports, clinical reports, and clinical techniques that evaluated the accuracy of virtual articulation in fixed prosthodontics for dentate patients, published in English. Studies were excluded if they were not in English, involved orthognathic surgery, focused on edentulous patients, or were published before 2014. A comprehensive search was conducted in December 2025. Two reviewers (PE, HA) independently examined the identified papers in accordance with the predetermined qualifying criteria. For each included study, publication details, study characteristics, and methodological aspects were documented. The total number of articles retrieved was 1,916. Of these articles, 10 met the inclusion criteria and were used for qualitative synthesis. Several techniques were reported for transferring the maxillary model to virtual articulator, such as digital photographs, face scans with or without intraoral or extraoral scan body, smartphone applications, digital photographs using Kois glasses, CBCT, and stereophotogrammetry. Most studies showed comparable accuracy of different digital methods that transfer the maxillary cast to the articulator. However, one study showed that the photography-based method demonstrated superior trueness and precision compared to both facial scanning and the conventional facebow technique. Another study found that the accuracy of positioning a maxillary digital scan relative to a 3D facial scan using a virtual facebow technique is highly dependent on the facial scanning method employed. Virtual facebow transfer can be recorded using techniques such as digital photographs, face scans, virtual facebow software, and smartphone scanning. Virtual facebow systems demonstrate promising repeatability and clinically acceptable transfer accuracy in selected workflows; however, due to heterogeneity among available studies, definitive conclusions regarding any improvement over conventional techniques cannot yet be drawn. Further standardized in vitro and clinical studies with large sample sizes, standardized assessments, and comparison methods are needed to draw meaningful conclusions in order to prove precedence of one method over the other. However, the use of a device to facilitate the transfer of a virtual maxillary cast to a virtual articulator has been promising.",
-      "objective": "of this review was to explore the accuracy of various",
-      "study_methods": "The research (PICO) question focused on assessing the accuracy of virtual facebow transfer compared to that of conventional facebows. An electronic search was performed in 3 databases between January 2014 to December 2025: PubMed/MEDLINE, Scopus, and Web of Science. Eligibility criteria included in vitro studies, clinical trials, case reports, clinical reports, and clinical techniques that evaluated the accuracy of virtual articulation in fixed prosthodontics for dentate patients, published in English. Studies were excluded if they were not in English, involved orthognathic surgery, focused on edentulous patients, or were published before 2014. A comprehensive search was conducted in December 2025. Two reviewers (PE, HA) independently examined the identified papers in accordance with the predetermined qualifying criteria. For each included study, publication details, study characteristics, and methodological aspects were documented.",
-      "methods": "The research (PICO) question focused on assessing the accuracy of virtual facebow transfer compared to that of conventional facebows. An electronic search was performed in 3 databases between January 2014 to December 2025: PubMed/MEDLINE, Scopus, and Web of Science. Eligibility criteria included in vitro studies, clinical trials, case reports, clinical reports, and clinical techniques that evaluated the accuracy of virtual articulation in fixed prosthodontics for dentate patients, published in English. Studies were excluded if they were not in English, involved orthognathic surgery, focused on edentulous patients, or were published before 2014. A comprehensive search was conducted in December 2025. Two reviewers (PE, HA) independently examined the identified papers in accordance with the predetermined qualifying criteria. For each included study, publication details, study characteristics, and methodological aspects were documented.",
-      "results": "",
-      "conclusion": "regarding any improvement over conventional techniques cannot yet be drawn. Further standardized in vitro and clinical studies with large sample sizes, standardized assessments, and comparison methods are needed to draw meaningful conclusions in order to prove precedence of one method over the other. However, the use of a device to facilitate the transfer of a virtual maxillary cast to a virtual articulator has been promising.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42436451/",
-      "pmcid": "PMC13355331",
       "figure_urls": []
     }
   ]
