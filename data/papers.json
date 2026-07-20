@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T05:28:18Z",
+  "updated_at": "2026-07-20T05:49:26Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -454,12 +454,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41582805/",
       "pmcid": "PMC12851390",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41563872",
@@ -1450,6 +1445,31 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41997835/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42471772",
+      "title": "Identification of Prognostic Genes Relevant With the Nuclear Factors of Activated T Cells Based on Transcriptomics in Oral Squamous Cell Carcinoma.",
+      "authors": [
+        "Julaiti Tuerxun",
+        "Ailimaierdan Ainiwaer",
+        "Tairan Ding"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "It has previously been demonstrated that the nuclear factor of activated T cells (NFAT) is crucial for the development of tumors. Given OSCC's drug resistance and poor outcomes, identifying NFAT-associated prognostic genes is urgent for better treatment. The TCGA-OSCC and GSE41613 datasets were utilized to identify differentially expressed genes (DEGs) between oral squamous cell carcinoma (OSCC) and controls. Specifically, differentially expressed genes related to NFAT (DEG-NFATs) were further screened for NFAT scores in OSCC versus control. The intersection of DEGs and DEG-NFATs was taken to identify differentially expressed NFAT-related genes (DE-NFATRGs). Univariate Cox and least absolute shrinkage and selection operator (LASSO) regression analyses were employed to identify prognostic genes. A risk score was developed based solely on the expression levels of the seven-gene signature. Subsequently, independent prognostic analyses incorporating clinicopathological variables were performed using univariate and multivariate Cox regression to evaluate whether the risk score served as an independent predictor of survival. Lastly, targeted therapeutic agents for OSCC were predicted. In addition, prognostic gene expression was validated using reverse transcription-quantitative polymerase chain reaction (RT-qPCR). Totally 4463 DEGs obtained were intersected with 310 DEG-NFATs to obtain 263 DE-NFATRGs. A risk model can be built using the seven prognostic genes associated with NFAT (ALB, PDK4, SERPINA5, SPINK6, SERPINA9, CGNL1 and IL17F). The risk score accurately predicts survival in OSCC patients. Finally, a total of 31 drugs with significant differences were predicted between risk groups. The most significant of these were AG.014699, Midostaurin, Gefitinib, and LFM.A13. Besides, the expression levels of ALB, PDK4, and SERPINA5 were significantly higher in tumors, while the expression levels of CGNL1 and IL17F were significantly lower in tumors. The identification of new prognostic genes (ALB, PDK4, SERPINA5, SPINK6, SERPINA9, CGNL1, and IL17F) was provided for the prognosis and treatment of OSCC.",
+      "objective": "",
+      "study_methods": "The TCGA-OSCC and GSE41613 datasets were utilized to identify differentially expressed genes (DEGs) between oral squamous cell carcinoma (OSCC) and controls. Specifically, differentially expressed genes related to NFAT (DEG-NFATs) were further screened for NFAT scores in OSCC versus control. The intersection of DEGs and DEG-NFATs was taken to identify differentially expressed NFAT-related genes (DE-NFATRGs). Univariate Cox and least absolute shrinkage and selection operator (LASSO) regression analyses were employed to identify prognostic genes. A risk score was developed based solely on the expression levels of the seven-gene signature. Subsequently, independent prognostic analyses incorporating clinicopathological variables were performed using univariate and multivariate Cox regression to evaluate whether the risk score served as an independent predictor of survival. Lastly, targeted therapeutic agents for OSCC were predicted. In addition, prognostic gene expression was validated using reverse transcription-quantitative polymerase chain reaction (RT-qPCR).",
+      "methods": "The TCGA-OSCC and GSE41613 datasets were utilized to identify differentially expressed genes (DEGs) between oral squamous cell carcinoma (OSCC) and controls. Specifically, differentially expressed genes related to NFAT (DEG-NFATs) were further screened for NFAT scores in OSCC versus control. The intersection of DEGs and DEG-NFATs was taken to identify differentially expressed NFAT-related genes (DE-NFATRGs). Univariate Cox and least absolute shrinkage and selection operator (LASSO) regression analyses were employed to identify prognostic genes. A risk score was developed based solely on the expression levels of the seven-gene signature. Subsequently, independent prognostic analyses incorporating clinicopathological variables were performed using univariate and multivariate Cox regression to evaluate whether the risk score served as an independent predictor of survival. Lastly, targeted therapeutic agents for OSCC were predicted. In addition, prognostic gene expression was validated using reverse transcription-quantitative polymerase chain reaction (RT-qPCR).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42471772/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2570,39 +2590,71 @@
       "figure_urls": []
     },
     {
-      "pmid": "42471303",
-      "title": "Effect of binaural beats and isochronic tones on anxiety during impacted mandibular third molar surgery: a randomized controlled trial.",
+      "pmid": "42472793",
+      "title": "Efficacy of magnesium-calcium ionic oral rinse for primary burning mouth syndrome: a randomized, double-blind, placebo-controlled trial.",
       "authors": [
-        "O Akkurt",
-        "Ö Ekici"
+        "Neus Carrió",
+        "Basel El Garawani",
+        "Ayman Alahmad",
+        "Fares Atari",
+        "Eduard Ferrés-Amat",
+        "Joseph Bassil",
+        "Islam A Amer",
+        "Mai Badrah",
+        "Alshaimaa A Shabaan",
+        "Islam Kassem"
       ],
-      "publication_date": "2026-Jul-18",
-      "publication_date_iso": "2026-07-18",
-      "abstract": "Dental anxiety is a common problem in oral surgery practices. Recently, interest has increased in non-pharmacological methods to reduce anxiety, such as auditory stimulation. This randomized controlled trial evaluated the effects of binaural beats (BB) and isochronic tones (IT), two forms of auditory stimulation, on dental anxiety and physiological parameters during impacted mandibular third molar surgery. Ninety patients were assigned equally to BB, IT, and control (no intraoperative auditory stimulation) groups. Anxiety levels were assessed using the MDAS, DFS, STAI-S, and a visual analogue scale pre- and postoperatively. The BB and IT group patients also completed a satisfaction questionnaire. Physiological parameters (respiratory rate, pulse rate, blood pressure [SBP, DBP], oxygen saturation) were recorded at eight surgical stages. No significant between-group differences were observed in the pre- or postoperative anxiety questionnaire scores. Isolated between-group differences in physiological parameters were observed: mean SBP at incision was lowest in the BB group (P = 0.041), while mean respiratory rate at anaesthesia was lowest in the IT group (P = 0.015). The majority of BB and IT group patients (78.3%) reported that they would prefer auditory stimulation in future dental treatments. The findings indicate that BB and IT have a limited effect on reducing dental anxiety during impacted mandibular third molar surgery and do not support a definitive anxiolytic benefit. Auditory stimulation may transiently influence certain stress-related physiological responses; however, further studies using objective neurophysiological measures and standardized protocols are required to clarify their role in oral surgery.",
-      "objective": "neurophysiological measures and standardized protocols are required to clarify their role in oral surgery.",
-      "study_methods": "",
-      "methods": "",
+      "publication_date": "2026-Jul-20",
+      "publication_date_iso": "2026-07-20",
+      "abstract": "Primary burning mouth syndrome (BMS) is a chronic idiopathic orofacial pain condition characterized by persistent intraoral burning sensation in the absence of clinically evident mucosal lesions. Its pathophysiology is considered multifactorial, with neuropathic mechanisms playing a central role. Current treatments are constrained by systemic adverse effects. Modulation of the oral mucosal ionic microenvironment has been proposed as a potential local therapeutic strategy. This study aimed to evaluate the efficacy and safety of magnesium-calcium oral rinse(test oral rinse)in patients with primary BMS. In this randomized, double-blind, placebo-controlled trial, 116 adults with primary burning mouth syndrome (BMS) were assigned in a 1:1 ratio to receive magnesium-calcium oral rinse or placebo for 8 weeks. Participants rinsed 10 mL for 60 seconds three times daily. The primary outcome was change in burning pain intensity assessed using a Numeric Rating Scale (NRS). Secondary outcomes included the responder rate (≥2-point reduction in NRS), Oral Health Impact Profile-14 (OHIP-14), Xerostomia Inventory, Patient Global Impression of Change (PGIC), and safety assessments. At week 8, the active group showed significantly greater reduction in pain compared with placebo (mean difference, -1.7; 95% CI, -2.5 to -0.9; P<0.001). Responder rates were 62% versus 32% (P=0.001). Significant improvements were also observed in OHIP-14 and xerostomia scores. Adverse events were mild and comparable between groups. Magnesium-calcium oral rinse significantly reduced burning pain and improved oral health-related quality of life in patients with primary burning mouth syndrome, with a favorable safety profile. These findings support the potential role of mineral-ionic topical therapy in this condition. ClinicalTrials.gov NCT07564843, registered on 27 Abril 2026. Retrospectively registered.",
+      "objective": "",
+      "study_methods": "In this randomized, double-blind, placebo-controlled trial, 116 adults with primary burning mouth syndrome (BMS) were assigned in a 1:1 ratio to receive magnesium-calcium oral rinse or placebo for 8 weeks. Participants rinsed 10 mL for 60 seconds three times daily. The primary outcome was change in burning pain intensity assessed using a Numeric Rating Scale (NRS). Secondary outcomes included the responder rate (≥2-point reduction in NRS), Oral Health Impact Profile-14 (OHIP-14), Xerostomia Inventory, Patient Global Impression of Change (PGIC), and safety assessments.",
+      "methods": "In this randomized, double-blind, placebo-controlled trial, 116 adults with primary burning mouth syndrome (BMS) were assigned in a 1:1 ratio to receive magnesium-calcium oral rinse or placebo for 8 weeks. Participants rinsed 10 mL for 60 seconds three times daily. The primary outcome was change in burning pain intensity assessed using a Numeric Rating Scale (NRS). Secondary outcomes included the responder rate (≥2-point reduction in NRS), Oral Health Impact Profile-14 (OHIP-14), Xerostomia Inventory, Patient Global Impression of Change (PGIC), and safety assessments.",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
         "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42471303/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472793/",
       "pmcid": "",
       "figure_urls": []
     },
     {
-      "pmid": "42470204",
-      "title": "Does Everything That Grows in the Mouth, Oral Cancer?",
+      "pmid": "42472758",
+      "title": "Inferior alveolar nerve dissection/repositioning during SSRO in hemimandibular hyperplasia: cases report and literature review.",
       "authors": [
-        "Sagar Khanna",
-        "Craig Mangie",
-        "Gulshan Sunavala-Dossabhoy",
-        "David Kim"
+        "Jiaqi Yue",
+        "Guoliang Sa",
+        "Zhongxing Wu"
       ],
-      "publication_date": "2026-Jul-18",
-      "publication_date_iso": "2026-07-18",
+      "publication_date": "2026-Jul-20",
+      "publication_date_iso": "2026-07-20",
+      "abstract": "Inferior alveolar nerve (IAN) dissection and repositioning is critical for preventing iatrogenic IAN injury during combined mandibular border resection and sagittal split ramus osteotomy (SSRO) in patients with severe hemimandibular hyperplasia (HH). Traditional IAN repositioning includes two-stage and concurrent one-stage procedures. This study introduces a modified one-stage technique and compares the respective advantages and disadvantages of these three surgical protocols. Four patients with HH were enrolled and treated with three different surgical protocols: one two-stage procedure, one conventional one-stage procedure, and two modified one-stage procedures. The modified technique features a vertical osteotomy placed 5 mm anterior to the mental foramen to protect the anterior loop of the IAN. All patients achieved satisfactory facial symmetry and aesthetic improvement postoperatively. Neurosensory assessment at 6-month follow-up confirmed complete recovery of lower lip sensation without persistent numbness. Compared with the two-stage and conventional one-stage approaches, the modified technique effectively preserved the IAN anterior loop, simplified surgical procedures, and minimized bony defects by maintaining buccal cortical bone integrity. The modified one-stage approach is a simplified and effective technique that provides reliable neuroprotection for the anterior loop of the IAN while minimizing bony defects during SSRO in HH patients. Given the limited sample size of this case series, further large-sample and long-term studies are required to fully validate tits efficacy, long-term stability, and complication profile.",
+      "objective": "",
+      "study_methods": "Four patients with HH were enrolled and treated with three different surgical protocols: one two-stage procedure, one conventional one-stage procedure, and two modified one-stage procedures. The modified technique features a vertical osteotomy placed 5 mm anterior to the mental foramen to protect the anterior loop of the IAN.",
+      "methods": "Four patients with HH were enrolled and treated with three different surgical protocols: one two-stage procedure, one conventional one-stage procedure, and two modified one-stage procedures. The modified technique features a vertical osteotomy placed 5 mm anterior to the mental foramen to protect the anterior loop of the IAN.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472758/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42472595",
+      "title": "Comment on \"Three-dimensional cone-beam computed tomography analysis of the mandibular lingula and mandibular foramen with clinical implications for ramus osteotomy\".",
+      "authors": [
+        "Muhammed Said Aydin",
+        "Gökay Özler",
+        "Şükrü Kasap",
+        "Mustafa Nişanci"
+      ],
+      "publication_date": "2026-Jul-19",
+      "publication_date_iso": "2026-07-19",
       "abstract": "",
       "objective": "",
       "study_methods": "",
@@ -2611,9 +2663,32 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42470204/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472595/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42472593",
+      "title": "Evaluation of an Enhanced Recovery After Surgery Protocol and Perioperative Outcomes in Orthognathic Surgery.",
+      "authors": [
+        "Aydın Onur Gerçek",
+        "Hakan Hıfzı Tüz"
+      ],
+      "publication_date": "2026-Jul-19",
+      "publication_date_iso": "2026-07-19",
+      "abstract": "Enhanced Recovery After Surgery (ERAS) pathways aim to optimise perioperative care by reducing surgical stress and improving postoperative recovery. Although ERAS protocols are widely implemented across several surgical specialties, evidence regarding their effectiveness in orthognathic surgery remains limited. This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement. The ERAS group demonstrated significantly shorter operative time (251.97 ± 88.74 vs 337.74 ± 77.26 min; p<0.001), lower intraoperative blood loss (575.33 ± 227.24 vs 848.40 ± 532.08 mL; p=0.003), reduced opioid consumption (8.83 ± 3.70 vs 11.86 ± 5.01 MME; p=0.010), fewer transfusions (6.7% vs 26.0%; p=0.040), and lower VAS scores for altered sensation (3.37 ± 1.73 vs 5.52 ± 2.61; p<0.001). No significant differences were observed in LOS or intraoperative fluid administration. Implementation of a structured ERAS protocol incorporating antioxidant supplementation was associated with improvements in several perioperative outcomes in orthognathic surgery. These findings support the clinical value of ERAS pathways and highlight the need for prospective studies to standardise protocol components for maxillofacial surgery.",
+      "objective": "to optimise perioperative care by reducing surgical stress and improving postoperative recovery. Although ERAS protocols are widely implemented across several surgical specialties, evidence regarding their effectiveness in orthognathic surgery remains limited. This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement. The ERAS group demonstrated significantly shorter operative time (251.97 ± 88.74 vs 337.74 ± 77.26 min; p<0.001), lower intraoperative blood loss (575.33 ± 227.24 vs 848.40 ± 532.08 mL; p=0.003), reduced opioid consumption (8.83 ± 3.70 vs 11.86 ± 5.01 MME; p=0.010), fewer transfusions (6.7% vs 26.0%; p=0.040), and lower VAS scores for altered sensation (3.37 ± 1.73 vs 5.52 ± 2.61; p<0.001). No significant differences were observed in LOS or intraoperative fluid administration. Implementation of a structured ERAS protocol incorporating antioxidant supplementation was associated with improvements in several perioperative outcomes in orthognathic surgery. These findings support the clinical value of ERAS pathways and highlight the need for prospective studies to standardise protocol components for maxillofacial surgery.",
+      "study_methods": "This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement.",
+      "methods": "This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472593/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2666,7 +2741,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42467132/",
-      "pmcid": "",
+      "pmcid": "PMC13379497",
       "figure_urls": []
     },
     {
