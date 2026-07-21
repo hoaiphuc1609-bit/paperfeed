@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T05:49:26Z",
+  "updated_at": "2026-07-21T05:26:14Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -454,7 +454,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41582805/",
       "pmcid": "PMC12851390",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.gif"
+      ]
     },
     {
       "pmid": "41563872",
@@ -1449,6 +1454,39 @@
       "figure_urls": []
     },
     {
+      "pmid": "42473667",
+      "title": "A rapid point-of-care test for vancomycin monitoring at the clinical bedside.",
+      "authors": [
+        "Damon T Burrow",
+        "David S Kinnamon",
+        "Jason Liu",
+        "Jacob T Heggestad",
+        "Simone Wall",
+        "Brooke E Silverstein",
+        "Suhail K Mithani",
+        "Vijay Krishnamoorthy",
+        "Richard Drew",
+        "Daniel Y Joh",
+        "Angus Hucknall",
+        "Ashutosh Chilkoti"
+      ],
+      "publication_date": "2026-Aug-21",
+      "publication_date_iso": "2026-08-21",
+      "abstract": "Vancomycin requires individualized dosing guided by therapeutic drug monitoring, but current laboratory assays are slow and centralized. We describe a competition-format microarray assay on a poly(oligo(ethylene glycol) methacrylate-co-glycidyl methacrylate) brush integrated into a single-use microfluidic cassette and portable reader to quantify vancomycin directly from fingerstick volumes of whole blood in 30 min. The assay shows a limit of detection of 0.8 μg/mL and precise quantification across the clinical range, with relative error below 20%. In a pilot study of 31 patient samples, cassette measurements correlated strongly with routine hospital testing with minimal bias, including when operated by minimally trained coordinators. This work establishes an approach for rapid, decentralized vancomycin monitoring that could support area-under-the-curve-based dosing in settings where access to high-complexity laboratories is limited and suggests a path toward extending therapeutic drug monitoring to point-of-care devices.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42473667/",
+      "pmcid": "PMC13380757",
+      "figure_urls": []
+    },
+    {
       "pmid": "42471772",
       "title": "Identification of Prognostic Genes Relevant With the Nuclear Factors of Activated T Cells Based on Transcriptomics in Oral Squamous Cell Carcinoma.",
       "authors": [
@@ -1470,7 +1508,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42471772/",
-      "pmcid": "",
+      "pmcid": "PMC13380819",
       "figure_urls": []
     },
     {
@@ -2263,6 +2301,29 @@
       "figure_urls": []
     },
     {
+      "pmid": "41618714",
+      "title": "Breaking the Glass Ceiling? Gender Dynamics in Turkish Dental Faculty Leadership.",
+      "authors": [
+        "Esra Balkanlıoğlu",
+        "Zeyneb Merve Ozdemir"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Despite the increasing representation of women in the dental profession, gender inequality remains in academic leadership roles. This study aimed to evaluate the gender distribution of academics and deans working in dental faculties in Türkiye. A retrospective cross-sectional analysis was conducted using publicly available data from 154 dental faculties (73 state and 81 foundation) between January and March 2025. Information was collected from 3061 academics, including their gender, academic title, specialty, and university affiliation. Gender classification was confirmed using the records of the Council of Higher Education and cross-validated using the Gender API and NamSor software. Statistical analyses were conducted using SPSS Statistics (version 23). Among participants, 62.3% were women and 37.7% were men. Notably, women outnumbered men in nearly all academic ranks, with the highest proportion observed among lecturers (76.5%). Most professors were also women (51.5%), highlighting a remarkable shift in traditional academic gender dynamics. The gender distribution varied across disciplines: women were predominant in pedodontics (80.5%) and restorative dentistry (70%), while men were predominant in oral surgery (62.5%) and implantology (83.3%). In contrast, only 25.8% of deans were women, indicating persistent underrepresentation in high-level administrative positions. Gender detection tools showed high concordance with the actual data (Cohen's κ > 0.91). Although women represent the majority of academics in Turkish dental faculties, a significant gender gap remains in the top leadership roles. Institutional policies and targeted mentorship programs are needed to promote gender equity in academic advancement and decision-making.",
+      "objective": "",
+      "study_methods": "A retrospective cross-sectional analysis was conducted using publicly available data from 154 dental faculties (73 state and 81 foundation) between January and March 2025. Information was collected from 3061 academics, including their gender, academic title, specialty, and university affiliation. Gender classification was confirmed using the records of the Council of Higher Education and cross-validated using the Gender API and NamSor software. Statistical analyses were conducted using SPSS Statistics (version 23).",
+      "methods": "A retrospective cross-sectional analysis was conducted using publicly available data from 154 dental faculties (73 state and 81 foundation) between January and March 2025. Information was collected from 3061 academics, including their gender, academic title, specialty, and university affiliation. Gender classification was confirmed using the records of the Council of Higher Education and cross-validated using the Gender API and NamSor software. Statistical analyses were conducted using SPSS Statistics (version 23).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41618714/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41582014",
       "title": "Validation of surface-based registration for genioplasty osteotomies: comparison with regional voxel-based registration.",
       "authors": [
@@ -2332,6 +2393,33 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41500926/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41472505",
+      "title": "Comparative Study of 3D-Printed and Banana Model for Suture and Biopsy Training in Dental Education: A Randomised Controlled Trial.",
+      "authors": [
+        "Flore Bertout",
+        "Agathe Louisy",
+        "Anne-Gaëlle Chaux",
+        "Emilie Hascoët",
+        "Philippe Lesclous",
+        "Alexandra Cloitre"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "To determine which model - the banana or the 3D-printed anatomical model - is most effective for teaching sutures and biopsies to third-year dental students, considering both non-technical and technical aspects. A total of 74 students participated in this two-arm parallel randomised controlled trial (RCT). Non-technical effectiveness was evaluated by assessing students' reactions to the pedagogical models after the practical work (PW), as well as by measuring their perceived competence, confidence and anxiety both before and after the training. Technical effectiveness was objectively assessed by scoring sutures and biopsies using a criteria grid. Students in the 3D-printed anatomical group were more satisfied than those in the banana group across all assessed criteria, including ease of handling, realism and suitability for clinical preparation (p < 0.0001). After the PW, both groups showed improved competence (p < 0.001) and confidence (p < 0.001), as well as reduced anxiety (p < 0.001), with no significant intergroup differences. Objective suture assessment scores were higher in the 3D-printed anatomical group than in the banana group (17.68/20 vs. 12.97/20, p < 0.0001), while for biopsies, no significant difference was demonstrated (8.60/10 vs. 8.17/10; ns). The 3D-printed anatomical model was superior to the banana model in both non-technical aspects (e.g., satisfaction) and in technical aspects for suture practicing. This superiority could be attributed in particular to the improved mechanical properties and realism. For biopsies, both models were technically equally effective, suggesting that tissue fidelity may be less critical for this procedure.",
+      "objective": "suture assessment scores were higher in the 3D-printed anatomical group than in the banana group (17.68/20 vs. 12.97/20, p < 0.0001), while for biopsies, no significant difference was demonstrated (8.60/10 vs. 8.17/10; ns). The 3D-printed anatomical model was superior to the banana model in both non-technical aspects (e.g., satisfaction) and in technical aspects for suture practicing. This superiority could be attributed in particular to the improved mechanical properties and realism. For biopsies, both models were technically equally effective, suggesting that tissue fidelity may be less critical for this procedure.",
+      "study_methods": "A total of 74 students participated in this two-arm parallel randomised controlled trial (RCT). Non-technical effectiveness was evaluated by assessing students' reactions to the pedagogical models after the practical work (PW), as well as by measuring their perceived competence, confidence and anxiety both before and after the training. Technical effectiveness was objectively assessed by scoring sutures and biopsies using a criteria grid.",
+      "methods": "A total of 74 students participated in this two-arm parallel randomised controlled trial (RCT). Non-technical effectiveness was evaluated by assessing students' reactions to the pedagogical models after the practical work (PW), as well as by measuring their perceived competence, confidence and anxiety both before and after the training. Technical effectiveness was objectively assessed by scoring sutures and biopsies using a criteria grid.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41472505/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2553,7 +2641,6 @@
       "conclusion": "Patients who underwent surgery demonstrated improvements in post-operative CLEFT-Q scores compared to patients who did not undergo surgery during this surveyed period. Of those who underwent surgery, rhinoplasty was associated with the most significant improvements in patient facial perception post-operatively.",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40853340/",
@@ -2561,62 +2648,25 @@
       "figure_urls": []
     },
     {
-      "pmid": "40590062",
-      "title": "Pilot Study Evaluating Augmented Reality Craniotomy Guides for Fronto-Orbital Advancement.",
+      "pmid": "42476226",
+      "title": "Three-Dimensional Evaluation of Airway Alterations Post-Orthognathic Surgery in Class III Skeletal Deformities.",
       "authors": [
-        "David L Best",
-        "Jessica G Li",
-        "Vicky Yau",
-        "Charles Gattie",
-        "Larson Hsu",
-        "Renée M Reynolds",
-        "Thomas M Zervos",
-        "Michael R Markiewicz"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "ObjectiveAugmented reality (AR) has recently emerged as a potential alternative to 3D-printed technology in craniomaxillofacial surgery. The purpose of this study was to evaluate the feasibility and accuracy of AR craniotomy guides for fronto-orbital advancement (FOA) compared to conventional 3D-printed guides.DesignRetrospective comparative study.SettingCleft and craniofacial center at a tertiary children's hospital.Patients3D-printed skull models from 9 patients with metopic or coronal craniosynostosis who underwent FOA between January 2022 and November 2023.InterventionsA novel application was developed to project AR craniotomy guides onto 3D-printed skull models. AR guides were compared to conventional 3D-printed guides by utilizing both guidance modalities. The discrepancy at 8 pre-determined reference points was measured, including bilateral nasofrontal (NF), zygomaticofrontal (ZF), barrel stave (BS), and tenon extension (TE).Main Outcomes MeasureMeasured discrepancy in millimeters between AR guides and 3D-printed guides at the pre-determined reference points.ResultsThe anterior reference points (NF, ZF) had mean discrepancies ranging from 0.31 to 0.61 mm. The posterior points had mean discrepancies ranging from 1.39 to 3.28 mm (BS, TE). There was no statistically significant difference found between the two modalities at any reference point.ConclusionsAR craniotomy guides had a high level of accuracy, particularly at the anterior reference points. AR guides demonstrated feasibility as an alternative to 3D-printed craniotomy guides, in-vitro. Further research is required to translate this novel application to cadaver models and improve precision at posterior landmarks.",
-      "objective": "of this study was to evaluate the feasibility and accuracy of AR craniotomy guides for fronto-orbital advancement (FOA) compared to conventional 3D-printed guides.DesignRetrospective comparative study.SettingCleft and craniofacial center at a tertiary children's hospital.Patients3D-printed skull models from 9 patients with metopic or coronal craniosynostosis who underwent FOA between January 2022 and November 2023.InterventionsA novel application was developed to project AR craniotomy guides onto 3D-printed skull models. AR guides were compared to conventional 3D-printed guides by utilizing both guidance modalities. The discrepancy at 8 pre-determined reference points was measured, including bilateral nasofrontal (NF), zygomaticofrontal (ZF), barrel stave (BS), and tenon extension (TE).Main Outcomes MeasureMeasured discrepancy in millimeters between AR guides and 3D-printed guides at the pre-determined reference points.ResultsThe anterior reference points (NF, ZF) had mean discrepancies ranging from 0.31 to 0.61 mm. The posterior points had mean discrepancies ranging from 1.39 to 3.28 mm (BS, TE). There was no statistically significant difference found between the two modalities at any reference point.ConclusionsAR craniotomy guides had a high level of accuracy, particularly at the anterior reference points. AR guides demonstrated feasibility as an alternative to 3D-printed craniotomy guides, in-vitro. Further research is required to translate this novel application to cadaver models and improve precision at posterior landmarks.",
-      "study_methods": "",
-      "methods": "",
-      "results": "The anterior reference points (NF, ZF) had mean discrepancies ranging from 0.31 to 0.61 mm. The posterior points had mean discrepancies ranging from 1.39 to 3.28 mm (BS, TE). There was no statistically significant difference found between the two modalities at any reference point.ConclusionsAR craniotomy guides had a high level of accuracy, particularly at the anterior reference points. AR guides demonstrated feasibility as an alternative to 3D-printed craniotomy guides, in-vitro. Further research is required to translate this novel application to cadaver models and improve precision at posterior landmarks.",
-      "conclusion": "AR craniotomy guides had a high level of accuracy, particularly at the anterior reference points. AR guides demonstrated feasibility as an alternative to 3D-printed craniotomy guides, in-vitro. Further research is required to translate this novel application to cadaver models and improve precision at posterior landmarks.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40590062/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42472793",
-      "title": "Efficacy of magnesium-calcium ionic oral rinse for primary burning mouth syndrome: a randomized, double-blind, placebo-controlled trial.",
-      "authors": [
-        "Neus Carrió",
-        "Basel El Garawani",
-        "Ayman Alahmad",
-        "Fares Atari",
-        "Eduard Ferrés-Amat",
-        "Joseph Bassil",
-        "Islam A Amer",
-        "Mai Badrah",
-        "Alshaimaa A Shabaan",
-        "Islam Kassem"
+        "Tuğba Kuşlu",
+        "Nurettin Diker"
       ],
       "publication_date": "2026-Jul-20",
       "publication_date_iso": "2026-07-20",
-      "abstract": "Primary burning mouth syndrome (BMS) is a chronic idiopathic orofacial pain condition characterized by persistent intraoral burning sensation in the absence of clinically evident mucosal lesions. Its pathophysiology is considered multifactorial, with neuropathic mechanisms playing a central role. Current treatments are constrained by systemic adverse effects. Modulation of the oral mucosal ionic microenvironment has been proposed as a potential local therapeutic strategy. This study aimed to evaluate the efficacy and safety of magnesium-calcium oral rinse(test oral rinse)in patients with primary BMS. In this randomized, double-blind, placebo-controlled trial, 116 adults with primary burning mouth syndrome (BMS) were assigned in a 1:1 ratio to receive magnesium-calcium oral rinse or placebo for 8 weeks. Participants rinsed 10 mL for 60 seconds three times daily. The primary outcome was change in burning pain intensity assessed using a Numeric Rating Scale (NRS). Secondary outcomes included the responder rate (≥2-point reduction in NRS), Oral Health Impact Profile-14 (OHIP-14), Xerostomia Inventory, Patient Global Impression of Change (PGIC), and safety assessments. At week 8, the active group showed significantly greater reduction in pain compared with placebo (mean difference, -1.7; 95% CI, -2.5 to -0.9; P<0.001). Responder rates were 62% versus 32% (P=0.001). Significant improvements were also observed in OHIP-14 and xerostomia scores. Adverse events were mild and comparable between groups. Magnesium-calcium oral rinse significantly reduced burning pain and improved oral health-related quality of life in patients with primary burning mouth syndrome, with a favorable safety profile. These findings support the potential role of mineral-ionic topical therapy in this condition. ClinicalTrials.gov NCT07564843, registered on 27 Abril 2026. Retrospectively registered.",
-      "objective": "",
-      "study_methods": "In this randomized, double-blind, placebo-controlled trial, 116 adults with primary burning mouth syndrome (BMS) were assigned in a 1:1 ratio to receive magnesium-calcium oral rinse or placebo for 8 weeks. Participants rinsed 10 mL for 60 seconds three times daily. The primary outcome was change in burning pain intensity assessed using a Numeric Rating Scale (NRS). Secondary outcomes included the responder rate (≥2-point reduction in NRS), Oral Health Impact Profile-14 (OHIP-14), Xerostomia Inventory, Patient Global Impression of Change (PGIC), and safety assessments.",
-      "methods": "In this randomized, double-blind, placebo-controlled trial, 116 adults with primary burning mouth syndrome (BMS) were assigned in a 1:1 ratio to receive magnesium-calcium oral rinse or placebo for 8 weeks. Participants rinsed 10 mL for 60 seconds three times daily. The primary outcome was change in burning pain intensity assessed using a Numeric Rating Scale (NRS). Secondary outcomes included the responder rate (≥2-point reduction in NRS), Oral Health Impact Profile-14 (OHIP-14), Xerostomia Inventory, Patient Global Impression of Change (PGIC), and safety assessments.",
+      "abstract": "Orthognathic surgery is widely performed to correct skeletal Class III deformities and improve both function and aesthetic balance. However, surgical repositioning of the maxillomandibular complex can alter upper airway structure by affecting the spatial relationships among the mandible, tongue, and hyoid bone. This study aims to evaluate three-dimensional changes in the airway after bimaxillary orthognathic surgery in patients with skeletal Class III deformities and to analyze their association with cephalometric parameters and hyoid bone position. Forty-nine patients with skeletal Class III deformities who underwent bimaxillary orthognathic surgery were retrospectively evaluated. Pre- and postoperative computed tomography scans obtained after a minimum of six months of follow-up were analyzed. Three-dimensional airway models were generated to measure nasopharyngeal, oropharyngeal, and total airway volumes, as well as the minimum cross-sectional area (MCA). Linear and angular cephalometric analyses were performed to assess maxillary and mandibular movements. Hyoid bone displacement was assessed relative to the third cervical vertebra (C3) and the mandibular base. Significant reductions were observed in total and oropharyngeal airway volumes postoperatively, whereas nasopharyngeal volume decreased non-significantly. Despite these volumetric changes, the MCA remained stable. Airway volume changes were significantly correlated with mandibular displacement and hyoid-C3 distance. Nasopharyngeal airway volume was positively correlated with the maxillary occlusal plane angle. Bimaxillary orthognathic surgery in patients with skeletal Class III deformities induces measurable three-dimensional airway alterations, predominantly in the oropharyngeal region. It also influences airway morphology, emphasizing the importance of considering airway changes during surgical planning.",
+      "objective": "to evaluate three-dimensional changes in the airway after bimaxillary orthognathic surgery in patients with skeletal Class III deformities and to analyze their association with cephalometric parameters and hyoid bone position. Forty-nine patients with skeletal Class III deformities who underwent bimaxillary orthognathic surgery were retrospectively evaluated. Pre- and postoperative computed tomography scans obtained after a minimum of six months of follow-up were analyzed. Three-dimensional airway models were generated to measure nasopharyngeal, oropharyngeal, and total airway volumes, as well as the minimum cross-sectional area (MCA). Linear and angular cephalometric analyses were performed to assess maxillary and mandibular movements. Hyoid bone displacement was assessed relative to the third cervical vertebra (C3) and the mandibular base. Significant reductions were observed in total and oropharyngeal airway volumes postoperatively, whereas nasopharyngeal volume decreased non-significantly. Despite these volumetric changes, the MCA remained stable. Airway volume changes were significantly correlated with mandibular displacement and hyoid-C3 distance. Nasopharyngeal airway volume was positively correlated with the maxillary occlusal plane angle. Bimaxillary orthognathic surgery in patients with skeletal Class III deformities induces measurable three-dimensional airway alterations, predominantly in the oropharyngeal region. It also influences airway morphology, emphasizing the importance of considering airway changes during surgical planning.",
+      "study_methods": "Forty-nine patients with skeletal Class III deformities who underwent bimaxillary orthognathic surgery were retrospectively evaluated. Pre- and postoperative computed tomography scans obtained after a minimum of six months of follow-up were analyzed. Three-dimensional airway models were generated to measure nasopharyngeal, oropharyngeal, and total airway volumes, as well as the minimum cross-sectional area (MCA). Linear and angular cephalometric analyses were performed to assess maxillary and mandibular movements. Hyoid bone displacement was assessed relative to the third cervical vertebra (C3) and the mandibular base.",
+      "methods": "Forty-nine patients with skeletal Class III deformities who underwent bimaxillary orthognathic surgery were retrospectively evaluated. Pre- and postoperative computed tomography scans obtained after a minimum of six months of follow-up were analyzed. Three-dimensional airway models were generated to measure nasopharyngeal, oropharyngeal, and total airway volumes, as well as the minimum cross-sectional area (MCA). Linear and angular cephalometric analyses were performed to assess maxillary and mandibular movements. Hyoid bone displacement was assessed relative to the third cervical vertebra (C3) and the mandibular base.",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42472793/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476226/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2826,65 +2876,6 @@
         "cleft lip and palate surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42454512/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42439887",
-      "title": "Bone Grafting in Le Fort I Osteotomies: Multi-Institutional Data Analysis of Early Outcomes and Risk Factors.",
-      "authors": [
-        "Simon Bigus",
-        "Leonard Knoedler",
-        "Michael Alfertshofer",
-        "Helena Baecher",
-        "Tanas Ghassemi",
-        "Claudius Steffen",
-        "Samuel Knoedler",
-        "Benedikt Geldner",
-        "Alexandre G Lellouch",
-        "Max Heiland",
-        "Adriana C Panayi"
-      ],
-      "publication_date": "2026-Jul-13",
-      "publication_date_iso": "2026-07-13",
-      "abstract": "The Le Fort I osteotomy is a standard approach for treating the maxilla in orthognathic surgery. Achieving stable ossification, particularly in cases requiring significant movements, can be clinically challenging and may compromise the ossification process. Despite the clinical significance of this issue, there remains a lack of robust multicenter studies directly comparing outcomes of Le Fort I osteotomies performed with versus without bone grafting (BG). In this study, the authors accessed the ACS-NSQIP database from 2008 to 2023 to identify patients who underwent isolated surgical Le Fort I osteotomy with and without BG. Collected data included demographics, comorbidities, surgical characteristics, and 30-day postoperative outcomes. Of 418 patients who underwent an isolated Le Fort I osteotomy, 95 patients (22.7%) underwent augmentation of the gap using BG, while 323 patients (77.3%) underwent surgery without BG. Overall, 13 (4.0%) non-BG and 7 (7.4%) BG patients experienced any complication (P=0.88). In a multivariable analysis of all study cases, longer hospital stays (P<0.01) were identified as an independent risk factor for the occurrence of any postoperative complications, whereas higher BMI (P=0.02) and obesity (P=0.04) were found to be independent risk factors for the occurrence of surgical complications. The Le Fort I osteotomy is an overall safe procedure. In this study, the use of BG did not appear to increase the risk of postoperative complications compared with procedures performed without BG. Identified risk factors for postoperative complications are prolonged hospital stays, higher BMI, and obesity.",
-      "objective": "",
-      "study_methods": "In this study, the authors accessed the ACS-NSQIP database from 2008 to 2023 to identify patients who underwent isolated surgical Le Fort I osteotomy with and without BG. Collected data included demographics, comorbidities, surgical characteristics, and 30-day postoperative outcomes.",
-      "methods": "In this study, the authors accessed the ACS-NSQIP database from 2008 to 2023 to identify patients who underwent isolated surgical Le Fort I osteotomy with and without BG. Collected data included demographics, comorbidities, surgical characteristics, and 30-day postoperative outcomes.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42439887/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42437834",
-      "title": "Modified Le Fort I osteotomy techniques for vertical maxillary excess: a comparative systematic review.",
-      "authors": [
-        "Sajal Khare",
-        "Veera Bhosale",
-        "Gunika Tayal",
-        "Abhilash Sahu",
-        "Mansoor Kachwala",
-        "Vinit Swami"
-      ],
-      "publication_date": "2026-Jul-13",
-      "publication_date_iso": "2026-07-13",
-      "abstract": "Importance: Vertical maxillary excess (VME) is a common dentofacial deformity that causes downward growth of the maxilla, leading to an elongated lower face, anterior open bite, and excessive gingival display. Although conventional Le Fort I osteotomy remains the gold standard for correcting vertical maxillary excess, it is associated with certain risks, including possible injury to the descending palatine artery (DPA). To improve surgical safety and treatment predictability, several modified osteotomy techniques have been introduced. To systematically review and compare the clinical effectiveness, postoperative stability and safety of modified Le Fort I osteotomy techniques in treating VME. Data Sources: A systematic search was conducted using PubMed, Medline, Google Scholar, and Web of Science databases for studies published between 2016 and 2024. The review protocol was registered with PROSPERO (CRD42025616635). Studies involving adults with vertical maxillary excess (VME) were included. Eligible studies evaluated modified Le Fort I osteotomy techniques-specifically conventional horseshoe, modified horseshoe, unilateral horseshoe, pyramidal, or U-shaped osteotomies-in patients undergoing orthognathic surgery. A total of 10 studies comprising 117 patients met the inclusion criteria. Data extraction and synthesis were performed systematically to obtain information regarding surgical techniques, intraoperative and postoperative complications, maxillary repositioning accuracy, and long-term stability outcomes. Given the methodological and clinical heterogeneity among the included studies, a qualitative synthesis of the findings was undertaken. Primary outcome measures included successful maxillary repositioning, intraoperative or postoperative complications (particularly vascular injuries), and skeletal stability over at least one year. Results: The electronic search identified 1,190 articles, of which 10 studies met the inclusion criteria. All reviewed modified Le Fort I techniques achieved intended repositioning without major complications. Notably, there were no significant vascular injuries, and skeletal stability was maintained for at least 12 months. Conclusion and Relevance: Modified Le Fort I osteotomies represent safe and effective alternatives to traditional methods, reducing risks while ensuring stable outcomes. Tailoring techniques to individual patient needs is crucial for optimizing aesthetic and functional results in VME management, ultimately improving patient satisfaction and quality of life. PROSPERO (CRD42025616635).",
-      "objective": "",
-      "study_methods": "Data Sources: A systematic search was conducted using PubMed, Medline, Google Scholar, and Web of Science databases for studies published between 2016 and 2024. The review protocol was registered with PROSPERO (CRD42025616635).",
-      "methods": "Data Sources: A systematic search was conducted using PubMed, Medline, Google Scholar, and Web of Science databases for studies published between 2016 and 2024. The review protocol was registered with PROSPERO (CRD42025616635).",
-      "results": "The electronic search identified 1,190 articles, of which 10 studies met the inclusion criteria. All reviewed modified Le Fort I techniques achieved intended repositioning without major complications. Notably, there were no significant vascular injuries, and skeletal stability was maintained for at least 12 months.",
-      "conclusion": "and Relevance: Modified Le Fort I osteotomies represent safe and effective alternatives to traditional methods, reducing risks while ensuring stable outcomes. Tailoring techniques to individual patient needs is crucial for optimizing aesthetic and functional results in VME management, ultimately improving patient satisfaction and quality of life. PROSPERO (CRD42025616635).",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42437834/",
       "pmcid": "",
       "figure_urls": []
     }
