@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T05:25:27Z",
+  "updated_at": "2026-07-23T05:30:59Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -87,7 +87,8 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "maxillofacial surgery",
+        "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42138295/",
       "pmcid": "PMC13182144",
@@ -1503,7 +1504,8 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "oral surgery",
+        "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42471772/",
       "pmcid": "PMC13380819",
@@ -1762,6 +1764,36 @@
       ]
     },
     {
+      "pmid": "42190437",
+      "title": "Prospective Pilot Clinical Study of High-Purity Magnesium Plates and Screws for Le Fort I Osteosynthesis.",
+      "authors": [
+        "Wei-Fa Yang",
+        "Pak Chuen Patrick Tai",
+        "Ling Qin",
+        "Yiu Yan Leung"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "This prospective clinical study aimed to evaluate the feasibility, safety, and clinical performance of an innovative high-purity magnesium (HP-Mg) plate and screw system for internal fixation in orthognathic surgery. Patients indicated for orthognathic surgery fulfilling the study criteria were invited to participate. HP-Mg plates and screws were developed for the first time for Le Fort I fixation in the maxilla, while standard titanium fixation was used in the mandible for comparison. Clinical outcomes, wound healing, neurosensory function, radiographic imaging, systemic complications, and plasma electrolyte levels were assessed over a one-year follow-up. Seven patients were included. HP-Mg plates and screws were systemically safe, with no evidence of hypermagnesemia or related neurosensory impairment. Two patients experienced smooth recovery; 3 developed mild complications (e.g., wound dehiscence, fistula) that were managed conservatively; and 2 required reoperations due to maxillary nonunion. Radiographically, HP-Mg plates and screws were not visible on plain X-rays but were detectable on CBCT, exhibiting reduced radiodensity compared to cortical bone. The complications were attributed to unoptimized plate geometry and rapid in vivo degradation. Although HP-Mg plates and screws represent a promising biodegradable alternative for internal fixation in orthognathic surgery, the observed complications highlight opportunities for further optimization-particularly in enhancing degradation profiles and mechanical strength. With ongoing research and continued improvements, Mg has the potential to become a reliable and effective option for internal fixation in maxillofacial surgery. While HP-Mg is a promising biodegradable alternative for internal fixation in orthognathic surgery, further optimization of implant design and degradation profiles is necessary.",
+      "objective": "",
+      "study_methods": "Patients indicated for orthognathic surgery fulfilling the study criteria were invited to participate. HP-Mg plates and screws were developed for the first time for Le Fort I fixation in the maxilla, while standard titanium fixation was used in the mandible for comparison. Clinical outcomes, wound healing, neurosensory function, radiographic imaging, systemic complications, and plasma electrolyte levels were assessed over a one-year follow-up.",
+      "methods": "Patients indicated for orthognathic surgery fulfilling the study criteria were invited to participate. HP-Mg plates and screws were developed for the first time for Le Fort I fixation in the maxilla, while standard titanium fixation was used in the mandible for comparison. Clinical outcomes, wound healing, neurosensory function, radiographic imaging, systemic complications, and plasma electrolyte levels were assessed over a one-year follow-up.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42190437/",
+      "pmcid": "PMC13223822",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13223822/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13223822/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13223822/bin/gr2.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13223822/bin/gr2.gif"
+      ]
+    },
+    {
       "pmid": "42166883",
       "title": "Distinct synovial proinflammatory cytokine and hyaluronic acid profiles in temporomandibular joint of patients with Class Ⅱ and Class Ⅲ dentofacial deformities.",
       "authors": [
@@ -1787,7 +1819,8 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "oral surgery",
+        "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42166883/",
       "pmcid": "",
@@ -2050,6 +2083,30 @@
       "figure_urls": []
     },
     {
+      "pmid": "41941653",
+      "title": "Cleft related facial skeletal surgery: an update.",
+      "authors": [
+        "Karandeep Singh Randhawa",
+        "Alexander Graf",
+        "Sherard Tatum"
+      ],
+      "publication_date": "2026-Aug-01",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "This review provides a comprehensive update on advancements and evolving paradigms in cleft-related facial skeletal surgery. It evaluates recent literature concerning the integration of artificial intelligence in surgical prediction, optimal orthognathic surgical sequencing, the utility of virtual surgical planning (VSP) and patient-specific implants (PSIs), strategies for managing skeletal surgery related velopharyngeal insufficiency (VPI) and airway patency, the evolution of alveolar bone grafting (ABG) techniques, and the increasing emphasis on patient-reported outcome measures (PROMs). Recent studies demonstrate that machine learning models utilizing preadolescent cephalometric data can predict the need for orthognathic surgery with high accuracy (over 83%). The implementation of 3D VSP has validated the mandible-first surgical sequence and significantly improved occlusal accuracy while reducing preoperative planning time. While PSIs reduce skeletal relapse in large maxillary advancements (>10 mm), they carry a higher risk of hardware removal compared to conventional plates. Regarding speech and airway management, safe maxillary advancement thresholds have been established to minimize VPI risk, and preserving prior pharyngeal flaps during surgery, if possible, is highly recommended to prevent speech deterioration. In alveolar reconstruction, synthetic grafts and allografts combined with osteogenic agents (like rhBMP-2) are showing success rates comparable to traditional iliac cancellous autografts, with a marked shift toward earlier intervention (ages 4-8) and outpatient procedures. Finally, while orthognathic surgery significantly improves psychosocial well being and facial aesthetics, significant disparities in care access persist based on insurance status and geopolitical factors. The landscape of cleft-related facial skeletal surgery is rapidly advancing through the integration of artificial intelligence, 3D digital planning, and novel biomaterials. These innovations allow for earlier, more accurate surgical predictions, reduced operative morbidity, and enhanced long-term skeletal stability. Balancing structural advancements with airway and speech preservation remains a delicate, patient-specific process. Ultimately, while surgical and technological refinements continue to optimize functional and aesthetic results, addressing socioeconomic barriers is critical to ensuring timely care and maximizing health-related quality of life for all cleft patients.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": ", addressing socioeconomic barriers is critical to ensuring timely care and maximizing health-related quality of life for all cleft patients.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41941653/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41934075",
       "title": "Reactive gingival lesions: a multicenter study of 8,625 cases from South America.",
       "authors": [
@@ -2267,6 +2324,54 @@
       "figure_urls": []
     },
     {
+      "pmid": "41582014",
+      "title": "Validation of surface-based registration for genioplasty osteotomies: comparison with regional voxel-based registration.",
+      "authors": [
+        "M D Han",
+        "S Graca"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Despite lower reported accuracy of genioplasty osteotomies, significant variation exists in the accuracy analysis techniques, without full validation. The purpose of this study was to compare the accuracy of surface-based registration (SBR) and regional voxel-based registration (R-VBR) for genioplasty osteotomies, to allow greater rigor in scrutinizing accuracy data. In a retrospective cross-sectional study of consecutive genioplasty patients at a single-center over a 5-year period, postoperative cone-beam computed tomography (CBCT) scans were collected. The CBCTs were oriented to a known pitch/roll/yaw and set as the reference, and compared with the unoriented raw volumes. Both volumes were segmented to surface models, and SBR was performed using the genioplasty segment as the mutual region of interest. Angular (°) and linear (mm) errors at the pogonion and menton were measured, and compared with those of R-VBR, with accuracy thresholds of 0.5° and 0.3 mm. In 34 eligible subjects, angular errors ranged from 0.32° to 0.64°, and linear errors ranged from 0.11 to 0.44 mm for SBR (P < 0.001). R-VBR showed greater angular errors, but smaller linear errors of 0.10 to 0.20 mm (P < 0.001). SBR and R-VBR have variable accuracy for genioplasty, with angular and linear accuracy favoring SBR and R-VBR, respectively.",
+      "objective": "of this study was to compare the accuracy of surface-based registration (SBR) and regional voxel-based registration (R-VBR) for genioplasty osteotomies, to allow greater rigor in scrutinizing accuracy data. In a retrospective cross-sectional study of consecutive genioplasty patients at a single-center over a 5-year period, postoperative cone-beam computed tomography (CBCT) scans were collected. The CBCTs were oriented to a known pitch/roll/yaw and set as the reference, and compared with the unoriented raw volumes. Both volumes were segmented to surface models, and SBR was performed using the genioplasty segment as the mutual region of interest. Angular (°) and linear (mm) errors at the pogonion and menton were measured, and compared with those of R-VBR, with accuracy thresholds of 0.5° and 0.3 mm. In 34 eligible subjects, angular errors ranged from 0.32° to 0.64°, and linear errors ranged from 0.11 to 0.44 mm for SBR (P < 0.001). R-VBR showed greater angular errors, but smaller linear errors of 0.10 to 0.20 mm (P < 0.001). SBR and R-VBR have variable accuracy for genioplasty, with angular and linear accuracy favoring SBR and R-VBR, respectively.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41582014/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41577488",
+      "title": "A modified minimally invasive Le Fort I approach allowing four-point fixation osteosynthesis using lateral punctiform incisions.",
+      "authors": [
+        "S Morand",
+        "O Morel",
+        "E Lange",
+        "A Gleizal"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Surgical techniques in orthognathic surgery have recently evolved and now tend towards soft-tissue-preserving approaches. The concept of minimally invasive Le Fort I osteotomy and down-fracture is interesting, as it preserves almost all paranasal and upper-lip musculature. It has already been described with a four-point fixation on the canine and zygomatic buttress pillars, depending on the mucosal incision length and plate type. This article proposes an alternative technique, respecting the concept of minimally invasive surgery, with a very small medial mucosal incision adding two lateral punctiform incisions, thus enabling a four-point fixation of the Le Fort I fracture. This technique allows wide maxillary movements, significant maxillary expansion; and can be performed even if the surgeon does not have very specific instrumentation. Compared with previously described techniques, this approach offers equivalent surgical exposure, improved access for four-point fixation, and greater safety against mucosal tearing, while maintaining the minimally invasive concept.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41577488/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41500926",
       "title": "Surgical treatment of displaced intraarticular pediatric condyle fractures.",
       "authors": [
@@ -2376,6 +2481,36 @@
       "figure_urls": []
     },
     {
+      "pmid": "41118513",
+      "title": "The Burden of Cleft Surgery a 36-Year Reflection of Surgical Management of Children With Orofacial Clefts in South Australia.",
+      "authors": [
+        "Emilija D Jensen",
+        "Gustavo Soares",
+        "Steven Cook",
+        "Markus Luke Seifert",
+        "Xiangqun Ju",
+        "Mark Moore",
+        "Rachel Roberts",
+        "Peter J Anderson",
+        "Lisa M Jamieson"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "ObjectiveTo describe the timing of surgeries, characterize the number of surgical and anesthetic events, and describe the total number and timing of cleft-related and ancillary surgical procedures from birth to late adolescence, stratified by cleft subtype and syndrome status.DesignRetrospective, cross-sectional clinical review of medical and surgical records.SettingA tertiary children's hospital with a dedicated Cleft and Craniofacial Surgical Unit in Adelaide, South Australia.ParticipantsChildren aged 0 to 18 years who underwent surgical intervention for orofacial clefts at the Women's and Children's Hospital between 1985 and 2021.InterventionsSurgical management of orofacial clefts and ancillary procedures performed under general anesthesia (GA).Main Outcome Measure(s)Timing and number of cleft-related surgeries; total number of procedures performed under GA; comparisons by syndrome status and cleft subtype.ResultsA total of 746 children were included. The mean age at primary lip repair was 4.8 months, and palate repair was 18.4 months. Alveolar bone grafting was typically performed at a mean age of 129.4 months. Later procedures included lip/nasal revision and orthognathic surgery. The mean number of GA procedures per child was 3.9 (SD ± 3.3), significantly higher in syndromic children (mean 6.5, SD ± 5.3) than nonsyndromic children (mean 3.4, SD ± 2.3). Noncleft-related procedures, such as grommet insertion (45.6%) and dental treatment under GA (28.1%) added to the total surgical burden.ConclusionsChildren with orofacial clefts experience multiple surgical procedures throughout development, especially those with syndromic diagnoses. These findings reinforce the importance of long-term, multidisciplinary planning and provide data to guide cleft care protocols and family support.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "A total of 746 children were included. The mean age at primary lip repair was 4.8 months, and palate repair was 18.4 months. Alveolar bone grafting was typically performed at a mean age of 129.4 months. Later procedures included lip/nasal revision and orthognathic surgery. The mean number of GA procedures per child was 3.9 (SD ± 3.3), significantly higher in syndromic children (mean 6.5, SD ± 5.3) than nonsyndromic children (mean 3.4, SD ± 2.3). Noncleft-related procedures, such as grommet insertion (45.6%) and dental treatment under GA (28.1%) added to the total surgical burden.ConclusionsChildren with orofacial clefts experience multiple surgical procedures throughout development, especially those with syndromic diagnoses. These findings reinforce the importance of long-term, multidisciplinary planning and provide data to guide cleft care protocols and family support.",
+      "conclusion": "Children with orofacial clefts experience multiple surgical procedures throughout development, especially those with syndromic diagnoses. These findings reinforce the importance of long-term, multidisciplinary planning and provide data to guide cleft care protocols and family support.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41118513/",
+      "pmcid": "PMC13334059",
+      "figure_urls": []
+    },
+    {
       "pmid": "41105733",
       "title": "Is a Vomer Flap at Primary Palatoplasty Associated With the Formation of a Bony Palatal Bridge?",
       "authors": [
@@ -2482,6 +2617,344 @@
       "figure_urls": []
     },
     {
+      "pmid": "40853340",
+      "title": "Patient Reported Outcomes Pre- and Post-Surgery in Patients With Cleft Lip/Palate: An Assessment of Post-Operative Change Utilizing CLEFT-Q.",
+      "authors": [
+        "Nicholas A Han",
+        "Isabel A Ryan",
+        "Philip D Tolley",
+        "Allison C Hu",
+        "Oksana A Jackson",
+        "David W Low",
+        "Leanne Magee",
+        "Jesse A Taylor",
+        "Eric C Liao",
+        "Jordan W Swanson"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "ObjectiveTo evaluate how patient-reported outcomes change from pre- to post-operation after common procedures in patients with cleft lip and/or palate (CL/P), as well as compared to patients who did not undergo surgery.DesignRetrospective chart review.SettingTertiary care hospital in the United States.PatientsAll patients with CL/P who had multiple CLEFT-Q completions from 2021 to 2025.Main Outcome MeasureCLEFT-Q scores.ResultsTotally, 256 patients with 594 CLEFT-Q responses were included. Sixty (23.4%) patients received 66 craniofacial operations between CLEFT-Q completions. Of these operations, 16 (24.2%) were dental extractions/exposures, 15 (22.7%) rhinoplasties, 10 (15.2%) velopharyngeal insufficiency repairs, 6 (9.1%) alveolar bone grafts, 6 (9.1%) orthognathic surgeries, and 4 (6.1%) oronasal fistula repairs. Surgical patients had lower first CLEFT-Q scores across nearly all domains compared to those in the non-surgical cohort (P < .05). Patients who underwent rhinoplasty (n = 15) demonstrated increased face (64.1 vs 49.6, P = .006), nose (64.8 vs 43.3, P = .003), nostrils (62.0 vs 34.2, P = .001), teeth (59.5 vs 41.3, P = .008), and lips (63.5 vs 48.4, P = .007) scores post-operatively. Jaw scores increased following orthognathic surgery, though this did not reach significance (71.2 vs 55.8, P = .100). No other operation had a statistically significant impact on CLEFT-Q scores (P > .05).ConclusionsPatients who underwent surgery demonstrated improvements in post-operative CLEFT-Q scores compared to patients who did not undergo surgery during this surveyed period. Of those who underwent surgery, rhinoplasty was associated with the most significant improvements in patient facial perception post-operatively.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Totally, 256 patients with 594 CLEFT-Q responses were included. Sixty (23.4%) patients received 66 craniofacial operations between CLEFT-Q completions. Of these operations, 16 (24.2%) were dental extractions/exposures, 15 (22.7%) rhinoplasties, 10 (15.2%) velopharyngeal insufficiency repairs, 6 (9.1%) alveolar bone grafts, 6 (9.1%) orthognathic surgeries, and 4 (6.1%) oronasal fistula repairs. Surgical patients had lower first CLEFT-Q scores across nearly all domains compared to those in the non-surgical cohort (P < .05). Patients who underwent rhinoplasty (n = 15) demonstrated increased face (64.1 vs 49.6, P = .006), nose (64.8 vs 43.3, P = .003), nostrils (62.0 vs 34.2, P = .001), teeth (59.5 vs 41.3, P = .008), and lips (63.5 vs 48.4, P = .007) scores post-operatively. Jaw scores increased following orthognathic surgery, though this did not reach significance (71.2 vs 55.8, P = .100). No other operation had a statistically significant impact on CLEFT-Q scores (P > .05).ConclusionsPatients who underwent surgery demonstrated improvements in post-operative CLEFT-Q scores compared to patients who did not undergo surgery during this surveyed period. Of those who underwent surgery, rhinoplasty was associated with the most significant improvements in patient facial perception post-operatively.",
+      "conclusion": "Patients who underwent surgery demonstrated improvements in post-operative CLEFT-Q scores compared to patients who did not undergo surgery during this surveyed period. Of those who underwent surgery, rhinoplasty was associated with the most significant improvements in patient facial perception post-operatively.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40853340/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42480910",
+      "title": "Skeletal Stability and Occlusal Plane Changes in Class III Orthognathic Surgery: Comparison of Clockwise and Counterclockwise Rotation.",
+      "authors": [
+        "Reza Tabrizi",
+        "Samin Ghaffari",
+        "Shervin Shafiei",
+        "Samir Aboul Hosn Centenero",
+        "Zachary S Peacock"
+      ],
+      "publication_date": "2026-Jul-21",
+      "publication_date_iso": "2026-07-21",
+      "abstract": "Occlusal plane (OP) rotation is frequently required during bimaxillary correction of skeletal Class III deformity, but its independent contribution to stability remains uncertain. This prospective cohort study included adults with skeletal Class III deformity who completed presurgical orthodontic treatment and underwent bimaxillary orthognathic surgery. Patients were classified according to the change in OP angle from preoperative imaging (T0) to imaging obtained 1-2 days postoperatively (T1) as having an increased OP angle (clockwise rotation) or a decreased OP angle (counterclockwise rotation). Cone-beam computed tomography (CBCT) was performed at T0, T1, and 24 months postoperatively (T2). CBCT-derived lateral cephalometric measurements were used to quantify OP relapse and sagittal and vertical relapse at points A and B. Eighty patients were analyzed (increased OP angle, n = 40; decreased OP angle, n = 40). Mean surgical OP change was 3.85 ± 0.89° in the increased-OP group and -3.60 ± 0.67° in the decreased-OP group. OP relapse was greater after decreased than increased OP rotation (1.10 ± 0.44° vs 0.77 ± 0.57°; P = .006). Sagittal relapse at point B was also greater in the decreased-OP group (0.70 ± 0.56 mm vs 0.30 ± 0.46 mm; P = .001), whereas maxillary relapse did not differ significantly. In the multivariable analyses, OP change was associated primarily with OP relapse, whereas linear skeletal relapse was associated mainly with the magnitude and direction of the initial jaw displacement. Most mean linear relapse values were approximately 1 mm or less, and all were below 2 mm. OP direction was associated with rotational relapse but was not a stand-alone determinant of linear skeletal relapse. Although some between-group differences were statistically significant, their absolute magnitude was small and of limited clinical importance. OP rotation should therefore be incorporated into three-dimensional planning without being overinterpreted as a predictor of clinically important instability.",
+      "objective": "",
+      "study_methods": "This prospective cohort study included adults with skeletal Class III deformity who completed presurgical orthodontic treatment and underwent bimaxillary orthognathic surgery. Patients were classified according to the change in OP angle from preoperative imaging (T0) to imaging obtained 1-2 days postoperatively (T1) as having an increased OP angle (clockwise rotation) or a decreased OP angle (counterclockwise rotation). Cone-beam computed tomography (CBCT) was performed at T0, T1, and 24 months postoperatively (T2). CBCT-derived lateral cephalometric measurements were used to quantify OP relapse and sagittal and vertical relapse at points A and B.",
+      "methods": "This prospective cohort study included adults with skeletal Class III deformity who completed presurgical orthodontic treatment and underwent bimaxillary orthognathic surgery. Patients were classified according to the change in OP angle from preoperative imaging (T0) to imaging obtained 1-2 days postoperatively (T1) as having an increased OP angle (clockwise rotation) or a decreased OP angle (counterclockwise rotation). Cone-beam computed tomography (CBCT) was performed at T0, T1, and 24 months postoperatively (T2). CBCT-derived lateral cephalometric measurements were used to quantify OP relapse and sagittal and vertical relapse at points A and B.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42480910/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42480171",
+      "title": "Interdisciplinary management of an adult skeletal Class II patient with occlusal cant, chin deviation, and impacted canines: A case report.",
+      "authors": [
+        "Naveen K Subbaiah",
+        "Satinder Pal Singh",
+        "Vinay Kumar",
+        "Raj Kumar Verma",
+        "Vidya Rattan",
+        "Phavithrasri Kannan",
+        "Sanjeev Verma"
+      ],
+      "publication_date": "2026-Jul-21",
+      "publication_date_iso": "2026-07-21",
+      "abstract": "Skeletal Class II malocclusion with facial asymmetry, occlusal cant, and multiple impacted canines presents a significant clinical challenge requiring coordinated interdisciplinary care. This report describes the management of a 20-year-old female who presented with a retruded mandible, right-sided chin deviation, soft-tissue lip cant, and a Class II Division 1 malocclusion with deep bite, increased overjet, and missing permanent canines. Radiographic evaluation revealed right condylar hypoplasia, 9% condylar asymmetry, a difficult palatal impaction of tooth 23 according to the KPG difficulty index, and mid-alveolar impactions of teeth 33 and 43. Skeletal assessment confirmed mandibular retrognathia, a hyperdivergent pattern, and a 3-mm occlusal cant. Treatment involved the extraction of over-retained deciduous canines and third molars, orthodontic alignment, and space creation, followed by surgical exposure and traction of the impacted canines. After successful eruption, pre-surgical orthodontic decompensation was performed to optimize incisor inclinations. Bimaxillary orthognathic surgery, including left maxillary impaction and asymmetric mandibular advancement, was undertaken to correct the skeletal discrepancies and facial asymmetry. Post-surgical orthodontic finishing refined occlusal relationships, and implant-supported prostheses were placed to replace missing mandibular molars. The interdisciplinary approach achieved successful canine alignment, correction of skeletal discrepancies, normalization of the occlusal plane, and improved facial symmetry. At a 36-month follow-up, the results remained stable with satisfactory function and aesthetics. This case highlights the value of coordinated orthodontic, surgical, and prosthetic care in managing complex dentofacial deformities.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "remained stable with satisfactory function and aesthetics. This case highlights the value of coordinated orthodontic, surgical, and prosthetic care in managing complex dentofacial deformities.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42480171/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42479313",
+      "title": "Digital evaluation with ABO eCRE of treatment quality and efficiency with completely customized lingual and prefabricated vestibular appliances in combined orthodontic-orthognathic therapy: a retrospective cohort study.",
+      "authors": [
+        "Franziska Alina Lang",
+        "Norbert Alexander Lang",
+        "Gwendolyn Isabella Lode",
+        "Frank Hölzle",
+        "Rogerio Bastos Craveiro",
+        "Michael Wolf"
+      ],
+      "publication_date": "2026-Jul-21",
+      "publication_date_iso": "2026-07-21",
+      "abstract": "Precise orthodontic pre-surgical decompensation is a critical prerequisite for optimal outcomes in orthognathic surgery. However, the relative effectiveness of completely customized lingual appliances (CCLAs) versus prefabricated vestibular multibracket appliances (PVMAs) remains insufficiently established. This study compared the decompensation efficiency, treatment quality, and overall clinical performance of these two appliances. The study included 60 consecutive patients who underwent orthodontic-orthognathic surgery: 30 with CCLA and 30 with PVMA. To ensure quality, the digital ABO CRE for each scanned model was evaluated using OnyxCeph3™ diagnostic software, and the efficiency of each appliance was recorded in the respective patient files. Both groups underwent the same evaluation protocol involving initial, intermediate (pre-surgery) and final casts. An additional set-up model was included for the CCLA group only. Both groups exhibited comparable baseline scores (mean difference 5.83; 95% CI 1.69 to 9.98). CCLAs demonstrated lower ABO scores than the PVMA group after the decompensation phase (mean difference - 9.23; 95% CI -13.38 to -5.09) and in the final assessment (mean difference - 9.30; 95% CI - 13.44 to -5.16). The largest differences between groups were observed for the alignment criteria in both jaws at the intermediate and final assessments, as well as for all intermaxillary criteria. Treatment efficiency particularly during the decompensation phase, was significantly improved in the CCLA group. CCLAs demonstrated superior efficiency and higher treatment quality compared with PVMAs in patients undergoing combined orthodontic-orthognathic therapy. The use of CCLAs in combination with orthognathic surgery appears to represent a high-quality treatment approach for correcting pronounced skeletal discrepancies and may serve as a reliable alternative to PVMA in appropriately selected patients.",
+      "objective": "",
+      "study_methods": "The study included 60 consecutive patients who underwent orthodontic-orthognathic surgery: 30 with CCLA and 30 with PVMA. To ensure quality, the digital ABO CRE for each scanned model was evaluated using OnyxCeph3™ diagnostic software, and the efficiency of each appliance was recorded in the respective patient files. Both groups underwent the same evaluation protocol involving initial, intermediate (pre-surgery) and final casts. An additional set-up model was included for the CCLA group only.",
+      "methods": "The study included 60 consecutive patients who underwent orthodontic-orthognathic surgery: 30 with CCLA and 30 with PVMA. To ensure quality, the digital ABO CRE for each scanned model was evaluated using OnyxCeph3™ diagnostic software, and the efficiency of each appliance was recorded in the respective patient files. Both groups underwent the same evaluation protocol involving initial, intermediate (pre-surgery) and final casts. An additional set-up model was included for the CCLA group only.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479313/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42479558",
+      "title": "Correlation of Soft and Hard Tissue Deviation in the Middle and Lower Face of Patients With Mandibular Deformity.",
+      "authors": [
+        "Weijian Xu",
+        "Chengxi Yan",
+        "Shixing Ma",
+        "Yuxian Xia",
+        "Hui Pan",
+        "Zhijian Xie",
+        "Lingling Hu"
+      ],
+      "publication_date": "2026-Jul-20",
+      "publication_date_iso": "2026-07-20",
+      "abstract": "Compared with patients without facial deviation, patients with jaw deviation deformity often present ocular plane deviation and inconsistent asymmetric deformity severity between soft and hard tissues. These conditions bring greater uncertainty to diagnostic analysis and increase the difficulty in determining the final jaw position for orthognathic surgery. This study aimed to explore the correlation between soft and hard tissues in the middle and lower facial regions of patients with mandibular deviation, as well as its variation trend with the severity of mandibular deviation, so as to further clarify the morphologic characteristics of mandibular deviation in facial asymmetry patients and provide a reference for the precise formulation of clinical diagnosis and treatment protocols. A total of 30 participants were included and divided into 2 groups: 15 patients with isolated mandibular deviation (group 1) and 15 patients with bimaxillary deviation (group 2). The Asymmetry Index (AI) was applied to compare the soft- and hard-tissue deviation between the 2 groups. There were significant differences in the degree of deviation between facial soft and hard tissues (P<0.05). A significant correlation was observed between the deviation severity of the mid- and lower-facial soft and hard tissues in patients with facial asymmetry (P<0.05). The soft tissue masking effect is more prominent in patients with bimaxillary deviation. Patients with bimaxillary deviation are accompanied by ocular plane deviation and carry a potential risk of condylar deviation, which requires close clinical attention.",
+      "objective": "",
+      "study_methods": "A total of 30 participants were included and divided into 2 groups: 15 patients with isolated mandibular deviation (group 1) and 15 patients with bimaxillary deviation (group 2). The Asymmetry Index (AI) was applied to compare the soft- and hard-tissue deviation between the 2 groups.",
+      "methods": "A total of 30 participants were included and divided into 2 groups: 15 patients with isolated mandibular deviation (group 1) and 15 patients with bimaxillary deviation (group 2). The Asymmetry Index (AI) was applied to compare the soft- and hard-tissue deviation between the 2 groups.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479558/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42476226",
+      "title": "Three-Dimensional Evaluation of Airway Alterations Post-Orthognathic Surgery in Class III Skeletal Deformities.",
+      "authors": [
+        "Tuğba Kuşlu",
+        "Nurettin Diker"
+      ],
+      "publication_date": "2026-Jul-20",
+      "publication_date_iso": "2026-07-20",
+      "abstract": "Orthognathic surgery is widely performed to correct skeletal Class III deformities and improve both function and aesthetic balance. However, surgical repositioning of the maxillomandibular complex can alter upper airway structure by affecting the spatial relationships among the mandible, tongue, and hyoid bone. This study aims to evaluate three-dimensional changes in the airway after bimaxillary orthognathic surgery in patients with skeletal Class III deformities and to analyze their association with cephalometric parameters and hyoid bone position. Forty-nine patients with skeletal Class III deformities who underwent bimaxillary orthognathic surgery were retrospectively evaluated. Pre- and postoperative computed tomography scans obtained after a minimum of six months of follow-up were analyzed. Three-dimensional airway models were generated to measure nasopharyngeal, oropharyngeal, and total airway volumes, as well as the minimum cross-sectional area (MCA). Linear and angular cephalometric analyses were performed to assess maxillary and mandibular movements. Hyoid bone displacement was assessed relative to the third cervical vertebra (C3) and the mandibular base. Significant reductions were observed in total and oropharyngeal airway volumes postoperatively, whereas nasopharyngeal volume decreased non-significantly. Despite these volumetric changes, the MCA remained stable. Airway volume changes were significantly correlated with mandibular displacement and hyoid-C3 distance. Nasopharyngeal airway volume was positively correlated with the maxillary occlusal plane angle. Bimaxillary orthognathic surgery in patients with skeletal Class III deformities induces measurable three-dimensional airway alterations, predominantly in the oropharyngeal region. It also influences airway morphology, emphasizing the importance of considering airway changes during surgical planning.",
+      "objective": "to evaluate three-dimensional changes in the airway after bimaxillary orthognathic surgery in patients with skeletal Class III deformities and to analyze their association with cephalometric parameters and hyoid bone position. Forty-nine patients with skeletal Class III deformities who underwent bimaxillary orthognathic surgery were retrospectively evaluated. Pre- and postoperative computed tomography scans obtained after a minimum of six months of follow-up were analyzed. Three-dimensional airway models were generated to measure nasopharyngeal, oropharyngeal, and total airway volumes, as well as the minimum cross-sectional area (MCA). Linear and angular cephalometric analyses were performed to assess maxillary and mandibular movements. Hyoid bone displacement was assessed relative to the third cervical vertebra (C3) and the mandibular base. Significant reductions were observed in total and oropharyngeal airway volumes postoperatively, whereas nasopharyngeal volume decreased non-significantly. Despite these volumetric changes, the MCA remained stable. Airway volume changes were significantly correlated with mandibular displacement and hyoid-C3 distance. Nasopharyngeal airway volume was positively correlated with the maxillary occlusal plane angle. Bimaxillary orthognathic surgery in patients with skeletal Class III deformities induces measurable three-dimensional airway alterations, predominantly in the oropharyngeal region. It also influences airway morphology, emphasizing the importance of considering airway changes during surgical planning.",
+      "study_methods": "Forty-nine patients with skeletal Class III deformities who underwent bimaxillary orthognathic surgery were retrospectively evaluated. Pre- and postoperative computed tomography scans obtained after a minimum of six months of follow-up were analyzed. Three-dimensional airway models were generated to measure nasopharyngeal, oropharyngeal, and total airway volumes, as well as the minimum cross-sectional area (MCA). Linear and angular cephalometric analyses were performed to assess maxillary and mandibular movements. Hyoid bone displacement was assessed relative to the third cervical vertebra (C3) and the mandibular base.",
+      "methods": "Forty-nine patients with skeletal Class III deformities who underwent bimaxillary orthognathic surgery were retrospectively evaluated. Pre- and postoperative computed tomography scans obtained after a minimum of six months of follow-up were analyzed. Three-dimensional airway models were generated to measure nasopharyngeal, oropharyngeal, and total airway volumes, as well as the minimum cross-sectional area (MCA). Linear and angular cephalometric analyses were performed to assess maxillary and mandibular movements. Hyoid bone displacement was assessed relative to the third cervical vertebra (C3) and the mandibular base.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476226/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42472758",
+      "title": "Inferior alveolar nerve dissection/repositioning during SSRO in hemimandibular hyperplasia: cases report and literature review.",
+      "authors": [
+        "Jiaqi Yue",
+        "Guoliang Sa",
+        "Zhongxing Wu"
+      ],
+      "publication_date": "2026-Jul-20",
+      "publication_date_iso": "2026-07-20",
+      "abstract": "Inferior alveolar nerve (IAN) dissection and repositioning is critical for preventing iatrogenic IAN injury during combined mandibular border resection and sagittal split ramus osteotomy (SSRO) in patients with severe hemimandibular hyperplasia (HH). Traditional IAN repositioning includes two-stage and concurrent one-stage procedures. This study introduces a modified one-stage technique and compares the respective advantages and disadvantages of these three surgical protocols. Four patients with HH were enrolled and treated with three different surgical protocols: one two-stage procedure, one conventional one-stage procedure, and two modified one-stage procedures. The modified technique features a vertical osteotomy placed 5 mm anterior to the mental foramen to protect the anterior loop of the IAN. All patients achieved satisfactory facial symmetry and aesthetic improvement postoperatively. Neurosensory assessment at 6-month follow-up confirmed complete recovery of lower lip sensation without persistent numbness. Compared with the two-stage and conventional one-stage approaches, the modified technique effectively preserved the IAN anterior loop, simplified surgical procedures, and minimized bony defects by maintaining buccal cortical bone integrity. The modified one-stage approach is a simplified and effective technique that provides reliable neuroprotection for the anterior loop of the IAN while minimizing bony defects during SSRO in HH patients. Given the limited sample size of this case series, further large-sample and long-term studies are required to fully validate tits efficacy, long-term stability, and complication profile.",
+      "objective": "",
+      "study_methods": "Four patients with HH were enrolled and treated with three different surgical protocols: one two-stage procedure, one conventional one-stage procedure, and two modified one-stage procedures. The modified technique features a vertical osteotomy placed 5 mm anterior to the mental foramen to protect the anterior loop of the IAN.",
+      "methods": "Four patients with HH were enrolled and treated with three different surgical protocols: one two-stage procedure, one conventional one-stage procedure, and two modified one-stage procedures. The modified technique features a vertical osteotomy placed 5 mm anterior to the mental foramen to protect the anterior loop of the IAN.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472758/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42472595",
+      "title": "Comment on \"Three-dimensional cone-beam computed tomography analysis of the mandibular lingula and mandibular foramen with clinical implications for ramus osteotomy\".",
+      "authors": [
+        "Muhammed Said Aydin",
+        "Gökay Özler",
+        "Şükrü Kasap",
+        "Mustafa Nişanci"
+      ],
+      "publication_date": "2026-Jul-19",
+      "publication_date_iso": "2026-07-19",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472595/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42472593",
+      "title": "Evaluation of an Enhanced Recovery After Surgery Protocol and Perioperative Outcomes in Orthognathic Surgery.",
+      "authors": [
+        "Aydın Onur Gerçek",
+        "Hakan Hıfzı Tüz"
+      ],
+      "publication_date": "2026-Jul-19",
+      "publication_date_iso": "2026-07-19",
+      "abstract": "Enhanced Recovery After Surgery (ERAS) pathways aim to optimise perioperative care by reducing surgical stress and improving postoperative recovery. Although ERAS protocols are widely implemented across several surgical specialties, evidence regarding their effectiveness in orthognathic surgery remains limited. This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement. The ERAS group demonstrated significantly shorter operative time (251.97 ± 88.74 vs 337.74 ± 77.26 min; p<0.001), lower intraoperative blood loss (575.33 ± 227.24 vs 848.40 ± 532.08 mL; p=0.003), reduced opioid consumption (8.83 ± 3.70 vs 11.86 ± 5.01 MME; p=0.010), fewer transfusions (6.7% vs 26.0%; p=0.040), and lower VAS scores for altered sensation (3.37 ± 1.73 vs 5.52 ± 2.61; p<0.001). No significant differences were observed in LOS or intraoperative fluid administration. Implementation of a structured ERAS protocol incorporating antioxidant supplementation was associated with improvements in several perioperative outcomes in orthognathic surgery. These findings support the clinical value of ERAS pathways and highlight the need for prospective studies to standardise protocol components for maxillofacial surgery.",
+      "objective": "to optimise perioperative care by reducing surgical stress and improving postoperative recovery. Although ERAS protocols are widely implemented across several surgical specialties, evidence regarding their effectiveness in orthognathic surgery remains limited. This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement. The ERAS group demonstrated significantly shorter operative time (251.97 ± 88.74 vs 337.74 ± 77.26 min; p<0.001), lower intraoperative blood loss (575.33 ± 227.24 vs 848.40 ± 532.08 mL; p=0.003), reduced opioid consumption (8.83 ± 3.70 vs 11.86 ± 5.01 MME; p=0.010), fewer transfusions (6.7% vs 26.0%; p=0.040), and lower VAS scores for altered sensation (3.37 ± 1.73 vs 5.52 ± 2.61; p<0.001). No significant differences were observed in LOS or intraoperative fluid administration. Implementation of a structured ERAS protocol incorporating antioxidant supplementation was associated with improvements in several perioperative outcomes in orthognathic surgery. These findings support the clinical value of ERAS pathways and highlight the need for prospective studies to standardise protocol components for maxillofacial surgery.",
+      "study_methods": "This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement.",
+      "methods": "This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472593/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42470150",
+      "title": "Single-stage orthognathic correction of campylorrhinus lateralis in foals using transection and fixation: Surgical description and outcome of four horses.",
+      "authors": [
+        "Helio Vasco",
+        "Jim Schumacher",
+        "Jack Easley"
+      ],
+      "publication_date": "2026-Jul-18",
+      "publication_date_iso": "2026-07-18",
+      "abstract": "Campylorrhinus lateralis ('wry nose') is a rare congenital maxillofacial deformity of foals resulting in compromise of the airway and severe class 4 malocclusion. Various surgical techniques to correct the deformity have been described, but contemporary data on single-stage transection and fixation, including use of a rib graft, and long-term functional and cosmetic outcomes remain underreported. To describe the transection-and-fixation technique and perioperative management used to correct wry nose in horses, and to report postoperative complications and long-term outcomes of horses undergoing this treatment. Retrospective case series. Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics. All four horses were presented with respiratory difficulty. The transected premaxillae were stabilised with pins and wires, and the transected nasal bones were stabilised with plates/screws; only one horse received a rib graft. All horses developed a plate-associated infection, and one horse developed an oronasal fistula. At the time of follow-up, all grazed and masticated normally, maintained good body condition, and owners were satisfied with the functional and cosmetic outcome. Small sample size, retrospective design. Correcting wry nose of four foals using a single-stage transection-and-fixation procedure achieved satisfactory long-term outcomes. Respiratory function of all horses improved, and all horses grazed and masticated normally. Three horses were able to perform their intended athletic endeavour. All owners reported satisfaction with the functional and cosmetic outcome.",
+      "objective": "",
+      "study_methods": "Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics.",
+      "methods": "Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics.",
+      "results": "ing in compromise of the airway and severe class 4 malocclusion. Various surgical techniques to correct the deformity have been described, but contemporary data on single-stage transection and fixation, including use of a rib graft, and long-term functional and cosmetic outcomes remain underreported. To describe the transection-and-fixation technique and perioperative management used to correct wry nose in horses, and to report postoperative complications and long-term outcomes of horses undergoing this treatment. Retrospective case series. Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics. All four horses were presented with respiratory difficulty. The transected premaxillae were stabilised with pins and wires, and the transected nasal bones were stabilised with plates/screws; only one horse received a rib graft. All horses developed a plate-associated infection, and one horse developed an oronasal fistula. At the time of follow-up, all grazed and masticated normally, maintained good body condition, and owners were satisfied with the functional and cosmetic outcome. Small sample size, retrospective design. Correcting wry nose of four foals using a single-stage transection-and-fixation procedure achieved satisfactory long-term outcomes. Respiratory function of all horses improved, and all horses grazed and masticated normally. Three horses were able to perform their intended athletic endeavour. All owners reported satisfaction with the functional and cosmetic outcome.",
+      "conclusion": "",
+      "limitations": "Small sample size, retrospective design.",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42470150/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42479575",
+      "title": "Age-Specific Three-Dimensional Mandibular Norms as an Adjunctive Tool for Detecting Mandibular Growth Disturbances: A CBCT Study.",
+      "authors": [
+        "Irene Méndez-Manjón",
+        "Ertty Ertty",
+        "João Geraldo Bugarin",
+        "Federico Hernández-Alfaro"
+      ],
+      "publication_date": "2026-Jul-17",
+      "publication_date_iso": "2026-07-17",
+      "abstract": "Normative 3-dimensional mandibular reference values derived from well-defined, symmetrical populations without radiographic temporomandibular joint (TMJ) alterations are limited, yet they are essential for improving diagnostic accuracy in growth-related mandibular disturbances. This study aimed to establish age-stratified CBCT-based normative parameters for mandibular size and condylar morphology in skeletally symmetrical individuals without radiologic signs of articular alterations. A total of 213 CBCT scans were selected from a database of 2400 examinations using strict inclusion criteria (skeletal symmetry and absence of radiographic TMJ alterations). Condylar volume, mandibular ramus length, mandibular body length, and the degree of condylar corticalization were quantified and analyzed by age group, sex and facial biotype. Descriptive statistics, bilateral comparisons, and linear and logistic regression models were applied to investigate associations and define normative parameters (α=0.05). Sex-specific and age-specific reference values were established for mandibular ramus and body lengths and for condylar volume. Complete condylar corticalization showed a strong correlation with chronological age (P<0.001), with an optimal cutoff at 17 years. The normative dataset provides objective quantitative benchmarks that can complement conventional clinical and imaging evaluations and may support early identification of abnormal mandibular growth patterns, including condylar hyperplasia and ramus hypodevelopment. This study provides robust CBCT-derived normative values for mandibular dimensions and condylar volume across age groups in symmetrical individuals without radiographic condylar alterations. Complete condylar corticalization appears to be a reliable radiologic marker of mandibular ramus growth and maturation, offering clinically useful reference thresholds to enhance diagnostic decision-making in dentofacial assessment.",
+      "objective": "quantitative benchmarks that can complement conventional clinical and imaging evaluations and may support early identification of abnormal mandibular growth patterns, including condylar hyperplasia and ramus hypodevelopment. This study provides robust CBCT-derived normative values for mandibular dimensions and condylar volume across age groups in symmetrical individuals without radiographic condylar alterations. Complete condylar corticalization appears to be a reliable radiologic marker of mandibular ramus growth and maturation, offering clinically useful reference thresholds to enhance diagnostic decision-making in dentofacial assessment.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479575/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42479571",
+      "title": "A Retrospective Cohort Study Comparing the Surgery-First and Orthodontic-First Protocols for Correcting Skeletal Class II Malocclusion.",
+      "authors": [
+        "Xinyu Xu",
+        "Yuxin Li",
+        "Ling Wu",
+        "Xiaojing Liu",
+        "Zili Li"
+      ],
+      "publication_date": "2026-Jul-17",
+      "publication_date_iso": "2026-07-17",
+      "abstract": "The surgery-first approach (SFA) with mandibular anterior subapical osteotomy (MASO) is increasingly utilized to overcome the limitations of conventional preoperative orthodontic decompensation and achieve earlier correction of facial deformities in skeletal class II patients. However, it also caused greater surgical trauma, and there are currently insufficient clinical data available for analyzing the surgical outcome. We conducted a retrospective study to compare the skeletal stability, overall treatment duration, and incidence of major complications between the SFA and the orthodontics-first approach (OFA). The study included 42 patients (21 each from the SFA and OFA groups) who underwent bimaxillary orthognathic surgery. Cephalometric measurements were performed at the preoperative (T0) stage and at immediate postoperative (T1), 6-month (T2), and ≥12-month (T3) follow-ups. No significant differences in skeletal relapse at T2 or T3, blood loss, or major complications (nonunion, neurosensory deficits) were found between groups (P>0.05). While the SFA group required longer surgery time (240.7 versus 202.1 min; P<0.01), it significantly reduced total treatment duration (16.8 versus 38.1 mo; P<0.001). Due to the implementation of MASO, minor tooth injuries were more frequent in the SFA group but resulted in no long-term consequences. Both SFA and OFA achieve comparable long-term skeletal stability in skeletal class II patients. While SFA significantly reduces the total treatment duration, it is associated with longer operative times and a higher incidence of minor dental injuries.",
+      "objective": "",
+      "study_methods": "We conducted a retrospective study to compare the skeletal stability, overall treatment duration, and incidence of major complications between the SFA and the orthodontics-first approach (OFA). The study included 42 patients (21 each from the SFA and OFA groups) who underwent bimaxillary orthognathic surgery. Cephalometric measurements were performed at the preoperative (T0) stage and at immediate postoperative (T1), 6-month (T2), and ≥12-month (T3) follow-ups.",
+      "methods": "We conducted a retrospective study to compare the skeletal stability, overall treatment duration, and incidence of major complications between the SFA and the orthodontics-first approach (OFA). The study included 42 patients (21 each from the SFA and OFA groups) who underwent bimaxillary orthognathic surgery. Cephalometric measurements were performed at the preoperative (T0) stage and at immediate postoperative (T1), 6-month (T2), and ≥12-month (T3) follow-ups.",
+      "results": "ed in no long-term consequences. Both SFA and OFA achieve comparable long-term skeletal stability in skeletal class II patients. While SFA significantly reduces the total treatment duration, it is associated with longer operative times and a higher incidence of minor dental injuries.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479571/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42467132",
+      "title": "In vitro comparison of fixation techniques for stabilization of Le Fort I osteotomy in short and large advancements of the maxilla.",
+      "authors": [
+        "Misha L Tan",
+        "Max P A Balkenende",
+        "Damir Delic",
+        "Karel Kuik",
+        "Cornelis J Kleverlaan",
+        "Jan de Lange",
+        "Jean-Pierre T F Ho"
+      ],
+      "publication_date": "2026-Jul-17",
+      "publication_date_iso": "2026-07-17",
+      "abstract": "Le Fort I osteotomy is widely performed in orthognathic surgery for maxillary repositioning and for the treatment of dentofacial deformities and obstructive sleep apnea (OSA). Postoperative relapse remains a concern, particularly after large maxillary advancements, highlighting the importance of rigid fixation. This study aimed to determine which fixation technique provides the greatest rigidity. In this in vitro study, the biomechanical rigidity of five commonly used fixation techniques for Le Fort I osteotomies was evaluated using 150 polyurethane specimens with advancements of 5 mm and 10 mm. The techniques included two L-plates (A), four L-plates of different thicknesses (B and C), two precontoured Le Fort I plates (D), and a hybrid configuration with two precontoured Le Fort I plates combined with two L-plates (E). Resistance to vertical displacement was measured at 1, 3, and 5 mm using a biomechanical testing machine. Fixation E consistently showed the highest resistance across both advancement distances and all displacement intervals, significantly outperforming fixations A, C, and D. Fixation B demonstrated resistance comparable to fixation E, whereas fixation C showed inferior performance despite a similar configuration. Fixations A and D showed the lowest resistance, particularly at 10 mm advancement. Overall, fixation E provided the greatest rigidity, while techniques relying on only two plates were biomechanically less effective. Further clinical studies are required to determine the clinical relevance of these findings.",
+      "objective": "",
+      "study_methods": "In this in vitro study, the biomechanical rigidity of five commonly used fixation techniques for Le Fort I osteotomies was evaluated using 150 polyurethane specimens with advancements of 5 mm and 10 mm. The techniques included two L-plates (A), four L-plates of different thicknesses (B and C), two precontoured Le Fort I plates (D), and a hybrid configuration with two precontoured Le Fort I plates combined with two L-plates (E). Resistance to vertical displacement was measured at 1, 3, and 5 mm using a biomechanical testing machine.",
+      "methods": "In this in vitro study, the biomechanical rigidity of five commonly used fixation techniques for Le Fort I osteotomies was evaluated using 150 polyurethane specimens with advancements of 5 mm and 10 mm. The techniques included two L-plates (A), four L-plates of different thicknesses (B and C), two precontoured Le Fort I plates (D), and a hybrid configuration with two precontoured Le Fort I plates combined with two L-plates (E). Resistance to vertical displacement was measured at 1, 3, and 5 mm using a biomechanical testing machine.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467132/",
+      "pmcid": "PMC13379497",
+      "figure_urls": []
+    },
+    {
       "pmid": "42468027",
       "title": "Face Value: Evaluating the FISS Scoring System for Operative Intervention in Pediatric Facial Trauma.",
       "authors": [
@@ -2513,28 +2986,30 @@
       "figure_urls": []
     },
     {
-      "pmid": "42454512",
-      "title": "Outcomes and Complications of Cleft Lip and Palate Surgery During International Surgical Outreach: A Systematic Review.",
+      "pmid": "42464006",
+      "title": "Evaluation of a Custom Three-Dimensional Surgical Guide in Mandibular Sagittal Split Osteotomy: An Exploratory Split-Mouth Randomized Controlled Trial.",
       "authors": [
-        "Abdurrahman Abdurrob",
-        "Areeb Y Shah",
-        "Justin M Soffer",
-        "Ali R Sasani",
-        "Alexander P Marston"
+        "Evy Eida Vitria",
+        "Revini Nuita",
+        "Muhammad Kamil Hassan",
+        "Nissia Ananda",
+        "Tan Wui Jing",
+        "Zakiah Mat Ripen",
+        "Norliza Ibrahim"
       ],
-      "publication_date": "2026-Jul-15",
-      "publication_date_iso": "2026-07-15",
-      "abstract": "Evaluating cleft lip and/or palate (CLP) surgical outcomes from short-term international surgical outreach in low- and middle-income countries is essential for high-quality care. To quantify reported surgical outcomes and complications on CLP surgery performed during international outreach, as measured by speech results and complications, including wound dehiscence, hemorrhage, and fistula formation. A systematic review of PubMed and EMBASE identified full-text English-language studies from 1985 to 2025 describing CLP repair in international outreach. Outcomes were extracted per-patient and per-procedure, including complication rates, speech findings, and patient-reported results. Of 450 studies screened, 34 met inclusion criteria (26,529 patients; 30,864 procedures). The mean follow-up was 14.2 months (range: 1 week-11 years). The pooled complication rate was 3.3% per-procedure (1,015/30,864) and 3.8% per-patient (1,015/26,529). Per-procedure complication rates were 2.1% (285/13,823) for lip and 3.8% (642/16,745) for palate repair. The most frequent overall complications were wound dehiscence (1.3%; 400/30,864), hemorrhage (0.4%; 129/30,864), and infection (0.3%; 102/30,864). Among cleft palate repairs, palatal fistula (1.6%; 271/16,745) and flap necrosis (0.5%; 77/16,745) were most common. Four studies described improved speech, social functioning, and satisfaction postoperatively. Short-term CLP surgical outreach demonstrates early complication rates comparable to high-resource settings, although limited follow-up likely underestimates true adverse events.",
+      "publication_date": "2026-Jul-16",
+      "publication_date_iso": "2026-07-16",
+      "abstract": "This exploratory split-mouth randomized controlled trial aimed to evaluate the effect of a custom three-dimensional (3D) surgical guide on mandibular sagittal split osteotomy outcomes compared with conventional freehand osteotomy. Patients undergoing sagittal split osteotomy (SSO) were randomly assigned in a split-mouth design to receive mandibular osteotomy performed with a custom-made 3D surgical guide on one side and without a surgical guide on the contralateral side. The primary outcome was the postoperative lingual split scale (LSS) of the mandible. Secondary outcomes were lateral osteotomy end (LOE), assessed using postoperative CT-based evaluation, and intraoperative inferior alveolar nerve exposure (NE). Fifteen patients contributed 30 mandibular sides for paired analysis. Guided sides showed more favourable LSS (p = 0.041) and LOE (p = 0.041) distributions compared with non-guided sides. No statistically significant difference was observed in NE (p = 0.763). These findings suggest that the use of a custom 3D surgical guide may improve osteotomy control and split predictability. The custom 3D surgical guide was associated with more favourable lingual split pattern and lateral osteotomy end distributions during sagittal split osteotomy. Given that the study population consisted predominantly of skeletal Class III patients, these findings should be interpreted primarily within the context of Class III patients. No significant reduction in intraoperative inferior alveolar nerve exposure was observed.",
       "objective": "",
-      "study_methods": "A systematic review of PubMed and EMBASE identified full-text English-language studies from 1985 to 2025 describing CLP repair in international outreach. Outcomes were extracted per-patient and per-procedure, including complication rates, speech findings, and patient-reported results.",
-      "methods": "A systematic review of PubMed and EMBASE identified full-text English-language studies from 1985 to 2025 describing CLP repair in international outreach. Outcomes were extracted per-patient and per-procedure, including complication rates, speech findings, and patient-reported results.",
-      "results": "and complications, including wound dehiscence, hemorrhage, and fistula formation. A systematic review of PubMed and EMBASE identified full-text English-language studies from 1985 to 2025 describing CLP repair in international outreach. Outcomes were extracted per-patient and per-procedure, including complication rates, speech findings, and patient-reported results. Of 450 studies screened, 34 met inclusion criteria (26,529 patients; 30,864 procedures). The mean follow-up was 14.2 months (range: 1 week-11 years). The pooled complication rate was 3.3% per-procedure (1,015/30,864) and 3.8% per-patient (1,015/26,529). Per-procedure complication rates were 2.1% (285/13,823) for lip and 3.8% (642/16,745) for palate repair. The most frequent overall complications were wound dehiscence (1.3%; 400/30,864), hemorrhage (0.4%; 129/30,864), and infection (0.3%; 102/30,864). Among cleft palate repairs, palatal fistula (1.6%; 271/16,745) and flap necrosis (0.5%; 77/16,745) were most common. Four studies described improved speech, social functioning, and satisfaction postoperatively. Short-term CLP surgical outreach demonstrates early complication rates comparable to high-resource settings, although limited follow-up likely underestimates true adverse events.",
+      "study_methods": "Patients undergoing sagittal split osteotomy (SSO) were randomly assigned in a split-mouth design to receive mandibular osteotomy performed with a custom-made 3D surgical guide on one side and without a surgical guide on the contralateral side. The primary outcome was the postoperative lingual split scale (LSS) of the mandible. Secondary outcomes were lateral osteotomy end (LOE), assessed using postoperative CT-based evaluation, and intraoperative inferior alveolar nerve exposure (NE).",
+      "methods": "Patients undergoing sagittal split osteotomy (SSO) were randomly assigned in a split-mouth design to receive mandibular osteotomy performed with a custom-made 3D surgical guide on one side and without a surgical guide on the contralateral side. The primary outcome was the postoperative lingual split scale (LSS) of the mandible. Secondary outcomes were lateral osteotomy end (LOE), assessed using postoperative CT-based evaluation, and intraoperative inferior alveolar nerve exposure (NE).",
+      "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "cleft lip and palate surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42454512/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464006/",
       "pmcid": "",
       "figure_urls": []
     }
