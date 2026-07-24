@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T05:30:59Z",
+  "updated_at": "2026-07-24T05:26:48Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -677,6 +677,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "42372806",
+      "title": "Systemic and local predictors of medication-related osteonecrosis of the jaw in patients receiving antiresorptive therapy: The Shizuoka Kokuho Database study.",
+      "authors": [
+        "Kanako Tsuboi",
+        "Kazuo Kinoshita",
+        "Fumihiko Matsushita",
+        "Yoko Sato"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Medication-related osteonecrosis of the jaw (MRONJ) is a rare but serious adverse effect of antiresorptive therapy. We aimed to identify dose-specific predictors for MRONJ risk stratification. We conducted a retrospective cohort study using the Shizuoka Kokuho Database, an insurance claims database. Patients ≥40 years with osteoporosis or cancer who initiated bisphosphonate or denosumab between April 2015 and September 2022 were stratified into low- and high-dose groups. The outcome was MRONJ. Candidate predictors were defined using the information available before initiation of antiresorptive therapy, including demographics, comorbidities, medications, and dental care in the preceding month (no visit, maintenance, or oral risk treatment). We estimated the subdistribution hazard ratio (SHR) and its 95% confidence interval (CI) using Fine-Gray competing risk models with all-cause mortality as the competing risk. Among 104,349 patients (low-dose, 99,572; high-dose, 4777), MRONJ occurred in 148 (46.7/100,000 person-years) and 105 (2116/100,000 person-years), respectively. Oral risk treatment within 1 month before therapy initiation was associated with MRONJ in both groups (low-dose: SHR 2.99 [95% CI 1.47-6.07]); high-dose: 4.28 [2.47-7.42]). Additional predictors were anemia (1.89 [1.31-2.71]) and oral corticosteroid use (2.27 [1.43-3.62]) in the low-dose group. Predictors of MRONJ differed between antiresorptive dose groups. Oral risk treatment immediately before therapy initiation was consistently associated with higher MRONJ occurrence, suggesting that oral risk conditions near initiation may be important for risk stratification.",
+      "objective": "",
+      "study_methods": "We conducted a retrospective cohort study using the Shizuoka Kokuho Database, an insurance claims database. Patients ≥40 years with osteoporosis or cancer who initiated bisphosphonate or denosumab between April 2015 and September 2022 were stratified into low- and high-dose groups. The outcome was MRONJ. Candidate predictors were defined using the information available before initiation of antiresorptive therapy, including demographics, comorbidities, medications, and dental care in the preceding month (no visit, maintenance, or oral risk treatment). We estimated the subdistribution hazard ratio (SHR) and its 95% confidence interval (CI) using Fine-Gray competing risk models with all-cause mortality as the competing risk.",
+      "methods": "We conducted a retrospective cohort study using the Shizuoka Kokuho Database, an insurance claims database. Patients ≥40 years with osteoporosis or cancer who initiated bisphosphonate or denosumab between April 2015 and September 2022 were stratified into low- and high-dose groups. The outcome was MRONJ. Candidate predictors were defined using the information available before initiation of antiresorptive therapy, including demographics, comorbidities, medications, and dental care in the preceding month (no visit, maintenance, or oral risk treatment). We estimated the subdistribution hazard ratio (SHR) and its 95% confidence interval (CI) using Fine-Gray competing risk models with all-cause mortality as the competing risk.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42372806/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42372578",
       "title": "Informed consent and ethical considerations in AI for dentistry and medicine: a scoping review.",
       "authors": [
@@ -1243,6 +1268,41 @@
       ]
     },
     {
+      "pmid": "42287952",
+      "title": "Liposomes containing histidine overcome poly ADP-ribose polymerase inhibitor resistance.",
+      "authors": [
+        "Jing Zhang",
+        "Muhammad Tufail",
+        "Yun Deng",
+        "Hong-Jian Ling",
+        "Lin Peng",
+        "Jundong Wu",
+        "De Zeng",
+        "Yongqu Zhang",
+        "Lifang He",
+        "Hanwei Peng",
+        "Abdulloev Afzal",
+        "Yan Sun",
+        "Xinya Gao",
+        "Jie Li"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Poly ADP-ribose polymerase inhibitor (PARPi) has shown promising clinical efficacy in patients with BRCA-deficient breast cancer. However, the role of metabolic reprogramming in PARPi resistance remains poorly understood. In this study, we analyzed the amino acid metabolome in samples with varying sensitivity to PARPi, revealing histidine as the most prominently dysregulated amino acid. Disruption of histidine metabolism reprogramming using liposomes containing histidine (Liposome His) effectively resensitized PARPi-resistant cells to olaparib. Mechanistically, Liposome His treatment depleted the tetrahydrofolate (THF) pool, thereby impairing nucleotide synthesis, which was particularly cytotoxic in cells with limited THF availability. Methotrexate and folate depletion further enhanced the in vitro efficacy of Liposome His. In contrast, the folate receptor antagonist mirvetuximab soravtansine exhibited potent anti-proliferative effects against PARPi-resistant cells in vivo, albeit with notable adverse effects. Combination therapy involving Liposome His and mirvetuximab soravtansine demonstrated promising inhibitory effects with manageable tolerability profiles. In addition, we preliminarily demonstrated that Liposome His regulates macrophage polarization by activating the mTOR signaling pathway, and when combined with anti-PD-L1 therapy, it jointly inhibits the pro-tumor phenotype of macrophages.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42287952/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42276507",
       "title": "Bridging the gap: Integrating oxidative stress profiling with retinal imaging for precision management of diabetic retinopathy.",
       "authors": [
@@ -1398,62 +1458,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42002022",
-      "title": "Fully digital and robot-assisted workflow for mandibular molar autotransplantation: A proof-of-concept.",
-      "authors": [
-        "Chen Liu",
-        "Rui Hou",
-        "Guangwei Chen",
-        "Libin Zhou",
-        "Yaru Zhang",
-        "Shizhu Bai",
-        "Yimin Zhao"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "To present a robot-assisted protocol for autogenous mandibular molar transplantation using an autonomous robotic system for shape-matched recipient socket preparation. The novel workflow comprises the following steps: 1) Preoperative planning: Based on preoperative intraoral scans and cone-beam computed tomography (CBCT) data, the transplant position of the donor tooth was precisely planned, and the surgical path was generated. An intraoral registration device was designed and fabricated, and a donor tooth replica was 3D-printed. 2) Intraoperative execution: Following the preoperative plan, the robot performed supervised autonomous, layer-by-layer, incremental milling to prepare a personalized osteotomy socket that accurately matched the donor root morphology. All remaining surgical steps were completed by the surgeon. 3) Post-operative evaluation: Intraoperative post-operative CBCT was acquired for accuracy analysis and assessment. The procedure was completed successfully, with no intra- or post-operative complications reported. All positional and angular deviations of the transplanted tooth fell within clinically acceptable limits. A workflow for tooth autotransplantation using an autonomous robotic system was successfully implemented, preliminarily demonstrating its ability to achieve accurate morphologically matched socket preparation. This study proposes and validates a complete digital and robot-assisted method for socket preparation in autotransplantation, offering a novel technical pathway toward personalized, high-precision tooth transplantation. The approach holds promise for improving procedural predictability and standardization; however, its clinical benefits require further validation through larger controlled studies.",
-      "objective": "",
-      "study_methods": "The novel workflow comprises the following steps: 1) Preoperative planning: Based on preoperative intraoral scans and cone-beam computed tomography (CBCT) data, the transplant position of the donor tooth was precisely planned, and the surgical path was generated. An intraoral registration device was designed and fabricated, and a donor tooth replica was 3D-printed. 2) Intraoperative execution: Following the preoperative plan, the robot performed supervised autonomous, layer-by-layer, incremental milling to prepare a personalized osteotomy socket that accurately matched the donor root morphology. All remaining surgical steps were completed by the surgeon. 3) Post-operative evaluation: Intraoperative post-operative CBCT was acquired for accuracy analysis and assessment.",
-      "methods": "The novel workflow comprises the following steps: 1) Preoperative planning: Based on preoperative intraoral scans and cone-beam computed tomography (CBCT) data, the transplant position of the donor tooth was precisely planned, and the surgical path was generated. An intraoral registration device was designed and fabricated, and a donor tooth replica was 3D-printed. 2) Intraoperative execution: Following the preoperative plan, the robot performed supervised autonomous, layer-by-layer, incremental milling to prepare a personalized osteotomy socket that accurately matched the donor root morphology. All remaining surgical steps were completed by the surgeon. 3) Post-operative evaluation: Intraoperative post-operative CBCT was acquired for accuracy analysis and assessment.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42002022/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41997835",
-      "title": "Wear resistance of composite repairs: Direct vs. semi-direct techniques in simulated oral aging.",
-      "authors": [
-        "Keyi Wu",
-        "Jaisson Cenci",
-        "Roderick Theunisz",
-        "Niels van Nistelrooij",
-        "X Frank Walboomers",
-        "Bas A C Loomans",
-        "Tatiana Pereira-Cenci"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Wear resistance of composite repairs, especially under severe chemical-mechanical challenge, has not been investigated. This in vitro study evaluated the wear resistance of composite restorations repaired using different techniques in simulated oral aging. Sixty human molars with direct Mesio-occluso-distal composite restorations were aged in the \"Rub&Roll\" device simulating two years of clinical service. The restorations were repaired using direct (n = 29) or semi-direct (n = 29) techniques. Specimens were randomly divided into three aging media for an additional two-year simulation: deionized water (control), 1% citric acid solution (chemical-mechanical challenge), and yellow millet seed solution (mechanical challenge). Wear was assessed using profilometry and 3D scan. t-test, two-way ANOVA, and multiple linear regression were used for statistical analysis. p < 0.05 was considered statistically significant. After repair, neither repair technique significantly influenced height or volume loss of specimens. The chemical-mechanical challenge had the greatest impact on height loss (coefficient = 0.11, 95% CI: 0.06-0.17 mm, p < 0.001) and volume loss (coefficient = 0.23, 95% CI: 0.13-0.32 mm3, p < 0.001) of specimens. The effect of techniques on height loss of repaired restorations was not significant. However, challenges affected height loss, with chemical-mechanical challenge showing the highest height loss (coefficient = 0.21, 95% CI: 0.16-0.28 mm, p < 0.001). The wear resistance of repaired composite restorations was not influenced by the repair technique. Instead, chemical-mechanical factors, were the primary determinants of wear, underscoring their critical role in the longevity of tooth-restoration complexes.",
-      "objective": "",
-      "study_methods": "Sixty human molars with direct Mesio-occluso-distal composite restorations were aged in the \"Rub&Roll\" device simulating two years of clinical service. The restorations were repaired using direct (n = 29) or semi-direct (n = 29) techniques. Specimens were randomly divided into three aging media for an additional two-year simulation: deionized water (control), 1% citric acid solution (chemical-mechanical challenge), and yellow millet seed solution (mechanical challenge). Wear was assessed using profilometry and 3D scan. t-test, two-way ANOVA, and multiple linear regression were used for statistical analysis. p < 0.05 was considered statistically significant.",
-      "methods": "Sixty human molars with direct Mesio-occluso-distal composite restorations were aged in the \"Rub&Roll\" device simulating two years of clinical service. The restorations were repaired using direct (n = 29) or semi-direct (n = 29) techniques. Specimens were randomly divided into three aging media for an additional two-year simulation: deionized water (control), 1% citric acid solution (chemical-mechanical challenge), and yellow millet seed solution (mechanical challenge). Wear was assessed using profilometry and 3D scan. t-test, two-way ANOVA, and multiple linear regression were used for statistical analysis. p < 0.05 was considered statistically significant.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41997835/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42473667",
       "title": "A rapid point-of-care test for vancomycin monitoring at the clinical bedside.",
       "authors": [
@@ -1484,6 +1488,32 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42473667/",
       "pmcid": "PMC13380757",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42493181",
+      "title": "Artificial intelligence enhanced orthognathic surgery: Global trends, thematic evolution, and future directions.",
+      "authors": [
+        "Liang Xia",
+        "Jiali Bao",
+        "Kan Yao",
+        "Jianfei Zhang"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42493181/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -1642,6 +1672,31 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42338379/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42324024",
+      "title": "Towards an integrative understanding of the human temporalis muscle: Anatomical, histological, and imaging evidence.",
+      "authors": [
+        "Carlos Torres-Villar",
+        "Eva Maranillo",
+        "R Shane Tubbs",
+        "Nicolas E Ottone"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Traditionally defined as attaching to the mandibular coronoid process, the temporalis muscle (TM) has instead been shown, through anatomical evidence, including dissection, histology, and imaging, to have more variable distal insertions relevant to mastication, deglutition, temporomandibular disorders, and facial reanimation. We have assembled this evidence and propose a classification based on insertion. A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected. From 275 records reviewed, only 22 met the inclusion criteria, with 815 cadaveric TMs recorded by dissection, 26 TMs recorded histologically, and 173 TMs recorded by use of imaging across multiple regions. Overall, AQUA ratings for study objectives, descriptive anatomy, and reporting were rated as low risk but were rated higher risk regarding methodological characterisation. Three bony insertions were identified: (1) on or through the coronoid; (2) between the coronoid and ramus; and (3) between the coronoid, ramus, and retromolar triangle of the mandible. These bony insertions may be modified by accompanying soft-tissue attachments. This information could assist in standardising anatomical communication and aid in research on the TM region. It may also help clarify the function of the TM during chewing and swallowing and improve understanding of temporomandibular joint disorders.",
+      "objective": ", descriptive anatomy, and reporting were rated as low risk but were rated higher risk regarding methodological characterisation. Three bony insertions were identified: (1) on or through the coronoid; (2) between the coronoid and ramus; and (3) between the coronoid, ramus, and retromolar triangle of the mandible. These bony insertions may be modified by accompanying soft-tissue attachments. This information could assist in standardising anatomical communication and aid in research on the TM region. It may also help clarify the function of the TM during chewing and swallowing and improve understanding of temporomandibular joint disorders.",
+      "study_methods": "A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected.",
+      "methods": "A systematic review of the medical literature was conducted using PubMed, Embase, Scopus, and LILACS to identify studies that reported distal TM insertions in humans by dissection, histology, or imaging; case reports, animal studies, and studies involving major craniofacial anomalies were excluded. PRISMA and Evidence-Based Anatomy guidelines were followed, with risk of bias assessed using the Anatomical Quality Assessment (AQUA) Tool; data on sample characteristics, detection method, definition, and insertion sites were collected.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324024/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2566,33 +2621,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "40990855",
-      "title": "What Factors Affect Safe Bedside Extubation After Mandibular Distraction?",
-      "authors": [
-        "Cory M Resnick",
-        "Andrew J Deek",
-        "Ryan Caprio",
-        "Snigdha Jindal",
-        "Faye Evans",
-        "Raymond Park"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "ObjectiveThere is no universal protocol for extubation following mandibular distraction osteogenesis (MDO) surgery in infants with Robin sequence (RS). The aims of this study were to identify the frequency and contributing factors for reintubation after MDO, to help determine the optimal setting for planned extubation.DesignThis is a retrospective observational study of patients with RS managed with MDO during their first year of life from 2013 to 2021.Main Outcome MeasuresThe primary outcome variable was the need for reintubation <24 h after extubation. A secondary outcome was the frequency of oxygen saturation <95% after extubation.ResultsFifty-two subjects were included. Of these, 31 (59.6%) were male, 43 (82.7%) had a cleft palate, 19 (36.5%) were syndromic, and 24 (46.2%) had ≥1 comorbidity. Extubation was at 3.6 ± 2.4 days after surgery and 1 patient (1.9%) required reintubation. Forty-one (78.8%) had ≥1 transient oxygen desaturation managed with supplemental oxygen (n = 25, 61%) or continuous positive airway pressure (n = 16, 39%). Increased risk for postextubation respiratory events was associated with Stickler syndrome (P = .01), musculoskeletal, neurologic, or endocrine comorbidities (P < .001), low birthweight (P = .044), and high preoperative obstructive Apnea-Hypopnea Index (P = .037).Conclusions and RelevanceReintubation was rare and minor postextubation oxygen desaturations, while common, were readily treated utilizing standard intensive care unit protocols. We conclude that most infants with RS can be safely extubated in their care unit following MDO. This minimizes medical resources, decreases hospital charges, and simplifies patient management compared to returning to the operating room for extubation.",
-      "objective": "of this study were to identify the frequency and contributing factors for reintubation after MDO, to help determine the optimal setting for planned extubation.DesignThis is a retrospective observational study of patients with RS managed with MDO during their first year of life from 2013 to 2021.Main Outcome MeasuresThe primary outcome variable was the need for reintubation <24 h after extubation. A secondary outcome was the frequency of oxygen saturation <95% after extubation.ResultsFifty-two subjects were included. Of these, 31 (59.6%) were male, 43 (82.7%) had a cleft palate, 19 (36.5%) were syndromic, and 24 (46.2%) had ≥1 comorbidity. Extubation was at 3.6 ± 2.4 days after surgery and 1 patient (1.9%) required reintubation. Forty-one (78.8%) had ≥1 transient oxygen desaturation managed with supplemental oxygen (n = 25, 61%) or continuous positive airway pressure (n = 16, 39%). Increased risk for postextubation respiratory events was associated with Stickler syndrome (P = .01), musculoskeletal, neurologic, or endocrine comorbidities (P < .001), low birthweight (P = .044), and high preoperative obstructive Apnea-Hypopnea Index (P = .037).",
-      "study_methods": "",
-      "methods": "",
-      "results": "Fifty-two subjects were included. Of these, 31 (59.6%) were male, 43 (82.7%) had a cleft palate, 19 (36.5%) were syndromic, and 24 (46.2%) had ≥1 comorbidity. Extubation was at 3.6 ± 2.4 days after surgery and 1 patient (1.9%) required reintubation. Forty-one (78.8%) had ≥1 transient oxygen desaturation managed with supplemental oxygen (n = 25, 61%) or continuous positive airway pressure (n = 16, 39%). Increased risk for postextubation respiratory events was associated with Stickler syndrome (P = .01), musculoskeletal, neurologic, or endocrine comorbidities (P < .001), low birthweight (P = .044), and high preoperative obstructive Apnea-Hypopnea Index (P = .037).",
-      "conclusion": "and RelevanceReintubation was rare and minor postextubation oxygen desaturations, while common, were readily treated utilizing standard intensive care unit protocols. We conclude that most infants with RS can be safely extubated in their care unit following MDO. This minimizes medical resources, decreases hospital charges, and simplifies patient management compared to returning to the operating room for extubation.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40990855/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "40966057",
       "title": "Safety and Efficacy of Liposomal Bupivacaine (Exparel",
       "authors": [
@@ -2644,6 +2672,30 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40853340/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42487164",
+      "title": "Fatal Massive Air Embolism Following Penetrating Infraorbital Trauma From a High-Pressure Industrial Pump Component: A Forensic Autopsy Case Report.",
+      "authors": [
+        "Nejc Gantar",
+        "Antun Ferenčić",
+        "Gregor Haring"
+      ],
+      "publication_date": "2026-Jul-23",
+      "publication_date_iso": "2026-07-23",
+      "abstract": "Air embolism is an uncommon but well-recognized cause of sudden death, most frequently encountered in iatrogenic settings. Traumatic air embolism is rare and typically associated with injuries of the head, neck, or thorax. We report an exceptional occupational fatality caused by massive systemic air embolism following penetrating facial trauma. A high-pressure industrial pump component ruptured and was propelled into the worker's right infraorbital region, producing fractures of the orbital floor and skull base with laceration of the right cavernous and sigmoid venous sinuses. Autopsy revealed extensive intravascular and extravascular gas throughout the body, including the heart, abdominal tissues, and subcutaneous planes. Gas aspirated from the right atrium was analyzed by gas chromatography-mass spectrometry and demonstrated an air-like composition consisting of nitrogen, oxygen, and carbon dioxide. No alternative lethal, traumatic, or natural pathology was identified. This case highlights a rare anatomic portal for the forced entry of air into the venous system. It further demonstrates the value of combined autopsy, radiologic, and chemical analyses in the forensic diagnosis of fatal air embolism.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42487164/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2725,7 +2777,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42479313/",
-      "pmcid": "",
+      "pmcid": "PMC13388873",
       "figure_urls": []
     },
     {
@@ -2952,65 +3004,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42467132/",
       "pmcid": "PMC13379497",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42468027",
-      "title": "Face Value: Evaluating the FISS Scoring System for Operative Intervention in Pediatric Facial Trauma.",
-      "authors": [
-        "Anthony V Basta",
-        "Christopher M Williams",
-        "Tien Do",
-        "Owen Ferriola",
-        "Kamryn K Baker",
-        "Dustin R McHalffey",
-        "Alexandra M Dunker",
-        "Danielle L Sobol",
-        "Matthew R Greives",
-        "Dylan R Bezzini"
-      ],
-      "publication_date": "2026-Jul-16",
-      "publication_date_iso": "2026-07-16",
-      "abstract": "The Facial Injury Severity Scale (FISS) quantifies maxillofacial trauma and predicts operative need, although its applicability in pediatric populations remains unclear. This study evaluated the association between FISS and operative management in pediatric facial fractures. We reviewed patients younger than 18 years with facial fractures from May 2021 to February 2025. Demographics, injury characteristics, and operative data were collected. Patients with incomplete data or mortality were excluded. FISS scores were calculated and compared between nonoperative (NOP) and operative (OP) groups. Univariate and multivariate analyses were performed. Of 347 patients, 312 were included; 102 (32.7%) were OP and 210 (67.3%) were NOP. Demographics were similar between groups. The OP group had higher rates of mandibular fractures (72% versus 14%, P<0.001) and LeFort I fractures (8.8% versus 1.9%, P=0.012), and lower rates of orbital (31% versus 58%, P<0.001), calvarium (15% versus 44%, P<0.001), nasal (23% versus 36%, P=0.019) fractures, and traumatic brain injury (34% versus 63%, P<0.001). Median FISS scores were higher in the OP group (5 [3-6] versus 2 [1-5], P<0.001). Assault (OR: 11.7, P<0.001), mandibular fractures (OR: 6.5, P<0.001), and increasing FISS score (OR: 1.4, P=0.006) independently predicted operative intervention. Higher FISS scores were associated with surgery, supporting its role in pediatric risk assessment and planning. However, operative decisions also depended on injury mechanism and fracture location. FISS may aid triage, coordination, and counseling when used within a patient-centered approach. Level III (retrospective cohort study).",
-      "objective": "",
-      "study_methods": "We reviewed patients younger than 18 years with facial fractures from May 2021 to February 2025. Demographics, injury characteristics, and operative data were collected. Patients with incomplete data or mortality were excluded. FISS scores were calculated and compared between nonoperative (NOP) and operative (OP) groups. Univariate and multivariate analyses were performed.",
-      "methods": "We reviewed patients younger than 18 years with facial fractures from May 2021 to February 2025. Demographics, injury characteristics, and operative data were collected. Patients with incomplete data or mortality were excluded. FISS scores were calculated and compared between nonoperative (NOP) and operative (OP) groups. Univariate and multivariate analyses were performed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42468027/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42464006",
-      "title": "Evaluation of a Custom Three-Dimensional Surgical Guide in Mandibular Sagittal Split Osteotomy: An Exploratory Split-Mouth Randomized Controlled Trial.",
-      "authors": [
-        "Evy Eida Vitria",
-        "Revini Nuita",
-        "Muhammad Kamil Hassan",
-        "Nissia Ananda",
-        "Tan Wui Jing",
-        "Zakiah Mat Ripen",
-        "Norliza Ibrahim"
-      ],
-      "publication_date": "2026-Jul-16",
-      "publication_date_iso": "2026-07-16",
-      "abstract": "This exploratory split-mouth randomized controlled trial aimed to evaluate the effect of a custom three-dimensional (3D) surgical guide on mandibular sagittal split osteotomy outcomes compared with conventional freehand osteotomy. Patients undergoing sagittal split osteotomy (SSO) were randomly assigned in a split-mouth design to receive mandibular osteotomy performed with a custom-made 3D surgical guide on one side and without a surgical guide on the contralateral side. The primary outcome was the postoperative lingual split scale (LSS) of the mandible. Secondary outcomes were lateral osteotomy end (LOE), assessed using postoperative CT-based evaluation, and intraoperative inferior alveolar nerve exposure (NE). Fifteen patients contributed 30 mandibular sides for paired analysis. Guided sides showed more favourable LSS (p = 0.041) and LOE (p = 0.041) distributions compared with non-guided sides. No statistically significant difference was observed in NE (p = 0.763). These findings suggest that the use of a custom 3D surgical guide may improve osteotomy control and split predictability. The custom 3D surgical guide was associated with more favourable lingual split pattern and lateral osteotomy end distributions during sagittal split osteotomy. Given that the study population consisted predominantly of skeletal Class III patients, these findings should be interpreted primarily within the context of Class III patients. No significant reduction in intraoperative inferior alveolar nerve exposure was observed.",
-      "objective": "",
-      "study_methods": "Patients undergoing sagittal split osteotomy (SSO) were randomly assigned in a split-mouth design to receive mandibular osteotomy performed with a custom-made 3D surgical guide on one side and without a surgical guide on the contralateral side. The primary outcome was the postoperative lingual split scale (LSS) of the mandible. Secondary outcomes were lateral osteotomy end (LOE), assessed using postoperative CT-based evaluation, and intraoperative inferior alveolar nerve exposure (NE).",
-      "methods": "Patients undergoing sagittal split osteotomy (SSO) were randomly assigned in a split-mouth design to receive mandibular osteotomy performed with a custom-made 3D surgical guide on one side and without a surgical guide on the contralateral side. The primary outcome was the postoperative lingual split scale (LSS) of the mandible. Secondary outcomes were lateral osteotomy end (LOE), assessed using postoperative CT-based evaluation, and intraoperative inferior alveolar nerve exposure (NE).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42464006/",
-      "pmcid": "",
       "figure_urls": []
     }
   ]
