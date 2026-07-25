@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T05:26:48Z",
+  "updated_at": "2026-07-25T05:20:40Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -677,6 +677,36 @@
       "figure_urls": []
     },
     {
+      "pmid": "42495756",
+      "title": "TPD54 contributes to docetaxel resistance through modulation of P‑glycoprotein localization and activity in oral squamous cell carcinoma cells.",
+      "authors": [
+        "Maki Nara",
+        "Yoshiki Mukudai",
+        "Masataka Watanabe",
+        "Nodoka Kindaichi",
+        "Konomi Yamada",
+        "Yuzo Abe",
+        "Toshikazu Shimane",
+        "Tatsuo Shirota",
+        "Seigo Ohba"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Tumor protein D52 (TPD52) family proteins are involved in the proliferation, survival and malignant progression of oral squamous cell carcinoma (OSCC). However, their roles in chemoresistance remain incompletely understood. The present study investigated the contribution of TPD52 family proteins to anticancer drug resistance, with particular emphasis on tumor protein D54 (TPD54). OSCC cells were treated with cisplatin, 5‑fluorouracil, or docetaxel (DTX), and the expression of TPD52 family members was examined. Gain‑ and loss‑of‑function analyses were performed to evaluate cell viability, apoptotic responses, cytochrome p450 (P450) and P‑glycoprotein (P‑gp) activities, protein expression, intracellular localization and membrane/cytosol distribution. Anticancer drug treatment increased the expression of TPD52, TPD53 and TPD54. Among these family members, TPD54 showed the strongest association with DTX resistance by attenuating the reduction in cell viability without affecting cell‑cycle progression. TPD54 overexpression attenuated DTX‑associated apoptotic responses and was associated with changes in apoptosis‑, ferroptosis‑, and autophagy‑related marker proteins. TPD54 expression had little effect on the activities of P450 3A4 or P450 1B1 but significantly increased P‑gp activity. Membrane/cytosol fractionation demonstrated increased membrane localization of endogenous P‑gp following TPD54 overexpression, whereas co‑immunoprecipitation and immunocytofluorescence analyses revealed an association and partial co‑localization between TPD54 and P‑gp. These findings suggest that TPD54 contributes to DTX resistance in OSCC cells through modulation of P‑gp localization and activity. The present study identifies TPD54 as a potential contributor to P‑gp‑associated chemoresistance and provides a basis for further investigation of the molecular mechanisms underlying multidrug resistance in OSCC.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42495756/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42372806",
       "title": "Systemic and local predictors of medication-related osteonecrosis of the jaw in patients receiving antiresorptive therapy: The Shizuoka Kokuho Database study.",
       "authors": [
@@ -1091,6 +1121,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "42498422",
+      "title": "Pediatric Sleep Disorders: Taking Care of Gen Z and Gen Alpha.",
+      "authors": [
+        "Ramesh Balasubramaniam",
+        "Srishti V Parekh",
+        "Vivasvan B Parekh",
+        "Bakul Parekh"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Pediatric sleep disorders are common, underrecognized conditions with significant short-term and long-term consequences for physical health, neurocognitive development, mental well-being, and family functioning. This article provides a comprehensive, clinically focused overview of pediatric sleep disorders, with particular emphasis on Generation Z and Generation Alpha cohorts who are uniquely shaped by pervasive digital exposure, circadian disruption, and contemporary psychosocial stressors. Normal developmental changes in sleep architecture are reviewed to distinguish physiologic variation from pathology. Key sleep disorders including insomnia, circadian rhythm sleep-wake disorders, sleep-disordered breathing, parasomnias, and sleep-related bruxism are discussed.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498422/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42437327",
       "title": "3-Hydroxyflavone inhibits the cytotoxicity of oral squamous cell carcinoma cells through the AGEs/RAGE/NF-κB signaling pathway.",
       "authors": [
@@ -1405,59 +1460,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42068619",
-      "title": "Ag-containing high-entropy nitride coatings promote bone regeneration by mediating the MAPK/ERK signaling pathway.",
-      "authors": [
-        "Linhe Lv",
-        "Chuanyao Dong",
-        "Jun Ma",
-        "Zheng Yang",
-        "Min Hu",
-        "Xiaoxi Wei"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Bone defect repair presents a significant clinical challenge in oral and maxillofacial surgery and orthopedics. Implant-associated infection and insufficient osseointegration often compromise clinical outcomes, while traditional repair materials still struggle to simultaneously provide mechanical support, antibacterial activity, and osteogenic efficacy. This study employed magnetron sputtering to fabricate high-entropy nitride (HEN) coatings with varying silver (Ag) contents. Among these, the stable single-phase solid solution (TiZrNbHfTaAg)N coating with 5.7 at. percentage (at%) Ag exhibited outstanding comprehensive properties. This coating combines favorable biocompatibility with potent antibacterial activity, exhibiting antibacterial rates of 90.6% and 97.1% against common oral pathogens F. nucleatum and P. gingivalis, respectively. It also promotes osteoblast differentiation and mineralization by activating the MAPK/ERK signaling pathway, thereby upregulating the expression of genes and proteins associated with osteogenesis. In vivo validation using a rabbit tibia defect model showed that implantation of the (TiZrNbHfTaAg)N coating significantly improved indicators of bone regeneration and osseointegration strength. This coating offers a novel surface modification approach to address bone defect repair challenges through its \"antibacterial-osteogenic\" synergistic effect and bone regeneration mechanism mediated by the MAPK/ERK pathway, demonstrating considerable potential for clinical translation.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42068619/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42067488",
-      "title": "Long-term clinical performance of bilaminar veneers combined with the Dahl concept for the management of localized anterior tooth wear: An ambispective cohort study.",
-      "authors": [
-        "Edina Lempel",
-        "Kinga Dorottya Németh",
-        "Erika Katalin Dunavári",
-        "Sára Jeges",
-        "József Szalma"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "To evaluate the long-term clinical performance of bilaminar restorations-functional palatal resin-based composite (RBC) veneers (PVs) combined with labial ceramic veneers (LVs) - used for the rehabilitation of localized anterior tooth wear with the Dahl concept, with emphasis on survival, failure patterns, and material- and patient-related risk factors. Twenty-six patients (156 maxillary anterior teeth) received bilaminar restorations. PVs were fabricated from RBCs (Enamel Plus HRi BioFunction or Estelite Sigma Quick), and LVs from lithium disilicate ceramics (IPS e.max Press or GC Initial LiSi Press). Clinical evaluation was performed at 3-5 and 6-8 years using USPHS criteria. Outcomes were classified as success, survival with deficiencies, or failure requiring replacement. Survival was analyzed using Kaplan-Meier estimates, and risk factors were assessed by multivariable regression analysis (p < 0.05). Cumulative survival was 92.3% for PVs and 98.1% for LVs. Fifteen restorations (4.8%) required replacement, predominantly PVs due to wear- and fatigue-related deterioration. No survival difference was observed between LVs. PV performance showed significant material-related differences, with Estelite Sigma Quick exhibiting fewer failures and higher success rates than Enamel Plus HRi BioFunction. Unsatisfactory oral hygiene, bruxism, coffee/tea consumption, and increasing restoration age were associated with higher failure risk. Baseline erosion severity significantly affected PVs, but not LVs outcomes. Bilaminar restorations combined with the Dahl concept offer a durable, minimally invasive solution for localized anterior tooth wear over up to eight years. However, while LVs demonstrate excellent long-term stability, the performance of functional PVs remains material-dependent and requires ongoing maintenance.",
-      "objective": "",
-      "study_methods": "Twenty-six patients (156 maxillary anterior teeth) received bilaminar restorations. PVs were fabricated from RBCs (Enamel Plus HRi BioFunction or Estelite Sigma Quick), and LVs from lithium disilicate ceramics (IPS e.max Press or GC Initial LiSi Press). Clinical evaluation was performed at 3-5 and 6-8 years using USPHS criteria. Outcomes were classified as success, survival with deficiencies, or failure requiring replacement. Survival was analyzed using Kaplan-Meier estimates, and risk factors were assessed by multivariable regression analysis (p < 0.05).",
-      "methods": "Twenty-six patients (156 maxillary anterior teeth) received bilaminar restorations. PVs were fabricated from RBCs (Enamel Plus HRi BioFunction or Estelite Sigma Quick), and LVs from lithium disilicate ceramics (IPS e.max Press or GC Initial LiSi Press). Clinical evaluation was performed at 3-5 and 6-8 years using USPHS criteria. Outcomes were classified as success, survival with deficiencies, or failure requiring replacement. Survival was analyzed using Kaplan-Meier estimates, and risk factors were assessed by multivariable regression analysis (p < 0.05).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42067488/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42473667",
       "title": "A rapid point-of-care test for vancomycin monitoring at the clinical bedside.",
       "authors": [
@@ -1595,6 +1597,32 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42423273/",
       "pmcid": "PMC13348018",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42419168",
+      "title": "Temporal trends in admission volume of midface fractures depending on mechanism of injury in the United States.",
+      "authors": [
+        "Dylan K Kim",
+        "David Dugue",
+        "Neelam I Shaikh",
+        "Christine H Rohde",
+        "Thomas A Imahiyerobo"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Midface fractures are a common reason for facial trauma team consultation and may differ widely in mechanism of injury, severity, and surgical management. We investigated trends in admission-based incidence and cyclic occurrence of midface fractures using a large national database. Admissions associated with midface fractures were identified in the National Inpatient Sample from 2017 to 2022. Trends for admission-based incidence, hospital charge, and time from admission to surgery were calculated across the time period. Moving averages and autocorrelation analyzes were applied to calculate periodicity for different etiologies of fracture, including motor vehicle accidents (MVAs), falls, and assault (p<0.05). The final cohort included 451,260 admissions for midface fractures. The most common mechanism of injury was falls (41.8%), followed by MVAs (29.9%), and assault (11.7%). The year-adjusted admission-based incidence of all midface fractures significantly increased from 1114 to 1522 per 100,000 admissions from 2017 to 2022 (p=0.024). Autocorrelations at a lag of 6 months for the total cohort, MVAs, and assault were significantly negative, indicating a cyclic periodicity between opposite times of the year. Moving averages for median hospital charge and mean time from admission to surgery increased significantly over time (p<0.001). The volume and economic burden of midface fractures is growing nationally, which may be associated with corresponding increases in MVAs and falls. The cyclic occurrence of midface fractures may be correlated with increased MVAs during the summer months. These findings may better inform public health efforts and facial trauma team resource allocation.",
+      "objective": "",
+      "study_methods": "Admissions associated with midface fractures were identified in the National Inpatient Sample from 2017 to 2022. Trends for admission-based incidence, hospital charge, and time from admission to surgery were calculated across the time period. Moving averages and autocorrelation analyzes were applied to calculate periodicity for different etiologies of fracture, including motor vehicle accidents (MVAs), falls, and assault (p<0.05).",
+      "methods": "Admissions associated with midface fractures were identified in the National Inpatient Sample from 2017 to 2022. Trends for admission-based incidence, hospital charge, and time from admission to surgery were calculated across the time period. Moving averages and autocorrelation analyzes were applied to calculate periodicity for different etiologies of fracture, including motor vehicle accidents (MVAs), falls, and assault (p<0.05).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42419168/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2676,6 +2704,63 @@
       "figure_urls": []
     },
     {
+      "pmid": "42498077",
+      "title": "Dynamic regulation of fibroblast heterogeneity in regeneration repair and bone diseases.",
+      "authors": [
+        "Shuyi Xing",
+        "Jun Wang",
+        "Jingzhen Mo",
+        "Feng He",
+        "Ping Liu",
+        "Yu Zhang",
+        "Yiming Wang",
+        "Yang Xue",
+        "Jianfei Yan"
+      ],
+      "publication_date": "2026-Jul-24",
+      "publication_date_iso": "2026-07-24",
+      "abstract": "Bone healing is a complex, systems-level process traditionally viewed through the lens of mesenchymal stromal cells (MSCs) and osteoblast-lineage cells. However, recent evidence suggests that fibroblasts represent a substantial fraction of lesion cellularity, far exceeding MSCs. These cells are no longer considered passive \"fillers\" but are recognized as active niche organizers that implement the information architecture of repair, including matrix topology and cytokine gradients. This review aims to synthesize recent findings on fibroblast heterogeneity in the context of skeletal repair. It addresses the inconsistent terminology surrounding \"fibroblasts\" and \"MSCs\" and emphasizes a three-dimensional coordinate system-cell type, anatomical niche, and repair stage-to understand their functional diversity. The review specifically focuses on periosteal and marrow fibroblasts as archetypal reservoirs for controllable niche organization. The review explores three major regulatory pillars: signaling pathways, metabolic reprogramming, and intercellular communication. Key signaling networks such as Wnt/β-catenin, BMP, and Hedgehog are integrated with mechanotransduction (YAP/TAZ) to steer fibroblast trajectories toward either regeneration or fibrosis. Metabolism acts as a \"gate,\" where a switch from glycolysis to oxidative phosphorylation (OXPHOS) is required for successful osteogenic commitment. Finally, the review details how fibroblasts coordinate repair through an intercellular network involving extracellular vesicles, gap junctions, and paracrine gradients, synchronizing responses across different anatomical niches.",
+      "objective": "to synthesize recent findings on fibroblast heterogeneity in the context of skeletal repair. It addresses the inconsistent terminology surrounding \"fibroblasts\" and \"MSCs\" and emphasizes a three-dimensional coordinate system-cell type, anatomical niche, and repair stage-to understand their functional diversity. The review specifically focuses on periosteal and marrow fibroblasts as archetypal reservoirs for controllable niche organization. The review explores three major regulatory pillars: signaling pathways, metabolic reprogramming, and intercellular communication. Key signaling networks such as Wnt/β-catenin, BMP, and Hedgehog are integrated with mechanotransduction (YAP/TAZ) to steer fibroblast trajectories toward either regeneration or fibrosis. Metabolism acts as a \"gate,\" where a switch from glycolysis to oxidative phosphorylation (OXPHOS) is required for successful osteogenic commitment. Finally, the review details how fibroblasts coordinate repair through an intercellular network involving extracellular vesicles, gap junctions, and paracrine gradients, synchronizing responses across different anatomical niches.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498077/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42495976",
+      "title": "Surgical Removal of a Foreign Body Located From the Orbit to the Pterygomandibular Space.",
+      "authors": [
+        "Xuda Zhao",
+        "Chao Ding",
+        "Zhexin Chai",
+        "Lu Xu",
+        "Jinyi Huang",
+        "Chenliang Xiao"
+      ],
+      "publication_date": "2026-Jul-24",
+      "publication_date_iso": "2026-07-24",
+      "abstract": "This case report describes an elderly female who developed blurred vision and limited mouth opening 15 days after sustaining facial trauma. Computed tomography revealed a rare tubular foreign body extending from the right orbit to the pterygomandibular space, positioned in immediate proximity to major vascular structures with associated infection. Utilizing digital surgical technology, the surgical team meticulously planned a dual-incision approach through a right subpalpebral and transparotid route. Innovatively leveraging the hollow nature of the foreign body, a medical guide wire was introduced from the infraorbital approach and threaded through its lumen until it exited through the transparotid incision. A multiorifice silicone drainage tube was then secured to the wire and, through retrograde traction, both the tube and the foreign body were retrieved en bloc. The silicone tube was subsequently maintained within the original sinus tract to establish dependent drainage. The patient recovered well, with resolved infection, and was discharged following suture removal. This case demonstrates that for deep, complex foreign bodies with prolonged retention, associated infection, and proximity to vital neurovascular structures, preoperative planning based on high-precision 3D CT reconstruction and ingenious surgical design enables minimally invasive, complete removal, effective infection control, and efficient drainage.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42495976/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42487164",
       "title": "Fatal Massive Air Embolism Following Penetrating Infraorbital Trauma From a High-Pressure Industrial Pump Component: A Forensic Autopsy Case Report.",
       "authors": [
@@ -2925,85 +3010,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42470150/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42479575",
-      "title": "Age-Specific Three-Dimensional Mandibular Norms as an Adjunctive Tool for Detecting Mandibular Growth Disturbances: A CBCT Study.",
-      "authors": [
-        "Irene Méndez-Manjón",
-        "Ertty Ertty",
-        "João Geraldo Bugarin",
-        "Federico Hernández-Alfaro"
-      ],
-      "publication_date": "2026-Jul-17",
-      "publication_date_iso": "2026-07-17",
-      "abstract": "Normative 3-dimensional mandibular reference values derived from well-defined, symmetrical populations without radiographic temporomandibular joint (TMJ) alterations are limited, yet they are essential for improving diagnostic accuracy in growth-related mandibular disturbances. This study aimed to establish age-stratified CBCT-based normative parameters for mandibular size and condylar morphology in skeletally symmetrical individuals without radiologic signs of articular alterations. A total of 213 CBCT scans were selected from a database of 2400 examinations using strict inclusion criteria (skeletal symmetry and absence of radiographic TMJ alterations). Condylar volume, mandibular ramus length, mandibular body length, and the degree of condylar corticalization were quantified and analyzed by age group, sex and facial biotype. Descriptive statistics, bilateral comparisons, and linear and logistic regression models were applied to investigate associations and define normative parameters (α=0.05). Sex-specific and age-specific reference values were established for mandibular ramus and body lengths and for condylar volume. Complete condylar corticalization showed a strong correlation with chronological age (P<0.001), with an optimal cutoff at 17 years. The normative dataset provides objective quantitative benchmarks that can complement conventional clinical and imaging evaluations and may support early identification of abnormal mandibular growth patterns, including condylar hyperplasia and ramus hypodevelopment. This study provides robust CBCT-derived normative values for mandibular dimensions and condylar volume across age groups in symmetrical individuals without radiographic condylar alterations. Complete condylar corticalization appears to be a reliable radiologic marker of mandibular ramus growth and maturation, offering clinically useful reference thresholds to enhance diagnostic decision-making in dentofacial assessment.",
-      "objective": "quantitative benchmarks that can complement conventional clinical and imaging evaluations and may support early identification of abnormal mandibular growth patterns, including condylar hyperplasia and ramus hypodevelopment. This study provides robust CBCT-derived normative values for mandibular dimensions and condylar volume across age groups in symmetrical individuals without radiographic condylar alterations. Complete condylar corticalization appears to be a reliable radiologic marker of mandibular ramus growth and maturation, offering clinically useful reference thresholds to enhance diagnostic decision-making in dentofacial assessment.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42479575/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42479571",
-      "title": "A Retrospective Cohort Study Comparing the Surgery-First and Orthodontic-First Protocols for Correcting Skeletal Class II Malocclusion.",
-      "authors": [
-        "Xinyu Xu",
-        "Yuxin Li",
-        "Ling Wu",
-        "Xiaojing Liu",
-        "Zili Li"
-      ],
-      "publication_date": "2026-Jul-17",
-      "publication_date_iso": "2026-07-17",
-      "abstract": "The surgery-first approach (SFA) with mandibular anterior subapical osteotomy (MASO) is increasingly utilized to overcome the limitations of conventional preoperative orthodontic decompensation and achieve earlier correction of facial deformities in skeletal class II patients. However, it also caused greater surgical trauma, and there are currently insufficient clinical data available for analyzing the surgical outcome. We conducted a retrospective study to compare the skeletal stability, overall treatment duration, and incidence of major complications between the SFA and the orthodontics-first approach (OFA). The study included 42 patients (21 each from the SFA and OFA groups) who underwent bimaxillary orthognathic surgery. Cephalometric measurements were performed at the preoperative (T0) stage and at immediate postoperative (T1), 6-month (T2), and ≥12-month (T3) follow-ups. No significant differences in skeletal relapse at T2 or T3, blood loss, or major complications (nonunion, neurosensory deficits) were found between groups (P>0.05). While the SFA group required longer surgery time (240.7 versus 202.1 min; P<0.01), it significantly reduced total treatment duration (16.8 versus 38.1 mo; P<0.001). Due to the implementation of MASO, minor tooth injuries were more frequent in the SFA group but resulted in no long-term consequences. Both SFA and OFA achieve comparable long-term skeletal stability in skeletal class II patients. While SFA significantly reduces the total treatment duration, it is associated with longer operative times and a higher incidence of minor dental injuries.",
-      "objective": "",
-      "study_methods": "We conducted a retrospective study to compare the skeletal stability, overall treatment duration, and incidence of major complications between the SFA and the orthodontics-first approach (OFA). The study included 42 patients (21 each from the SFA and OFA groups) who underwent bimaxillary orthognathic surgery. Cephalometric measurements were performed at the preoperative (T0) stage and at immediate postoperative (T1), 6-month (T2), and ≥12-month (T3) follow-ups.",
-      "methods": "We conducted a retrospective study to compare the skeletal stability, overall treatment duration, and incidence of major complications between the SFA and the orthodontics-first approach (OFA). The study included 42 patients (21 each from the SFA and OFA groups) who underwent bimaxillary orthognathic surgery. Cephalometric measurements were performed at the preoperative (T0) stage and at immediate postoperative (T1), 6-month (T2), and ≥12-month (T3) follow-ups.",
-      "results": "ed in no long-term consequences. Both SFA and OFA achieve comparable long-term skeletal stability in skeletal class II patients. While SFA significantly reduces the total treatment duration, it is associated with longer operative times and a higher incidence of minor dental injuries.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42479571/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42467132",
-      "title": "In vitro comparison of fixation techniques for stabilization of Le Fort I osteotomy in short and large advancements of the maxilla.",
-      "authors": [
-        "Misha L Tan",
-        "Max P A Balkenende",
-        "Damir Delic",
-        "Karel Kuik",
-        "Cornelis J Kleverlaan",
-        "Jan de Lange",
-        "Jean-Pierre T F Ho"
-      ],
-      "publication_date": "2026-Jul-17",
-      "publication_date_iso": "2026-07-17",
-      "abstract": "Le Fort I osteotomy is widely performed in orthognathic surgery for maxillary repositioning and for the treatment of dentofacial deformities and obstructive sleep apnea (OSA). Postoperative relapse remains a concern, particularly after large maxillary advancements, highlighting the importance of rigid fixation. This study aimed to determine which fixation technique provides the greatest rigidity. In this in vitro study, the biomechanical rigidity of five commonly used fixation techniques for Le Fort I osteotomies was evaluated using 150 polyurethane specimens with advancements of 5 mm and 10 mm. The techniques included two L-plates (A), four L-plates of different thicknesses (B and C), two precontoured Le Fort I plates (D), and a hybrid configuration with two precontoured Le Fort I plates combined with two L-plates (E). Resistance to vertical displacement was measured at 1, 3, and 5 mm using a biomechanical testing machine. Fixation E consistently showed the highest resistance across both advancement distances and all displacement intervals, significantly outperforming fixations A, C, and D. Fixation B demonstrated resistance comparable to fixation E, whereas fixation C showed inferior performance despite a similar configuration. Fixations A and D showed the lowest resistance, particularly at 10 mm advancement. Overall, fixation E provided the greatest rigidity, while techniques relying on only two plates were biomechanically less effective. Further clinical studies are required to determine the clinical relevance of these findings.",
-      "objective": "",
-      "study_methods": "In this in vitro study, the biomechanical rigidity of five commonly used fixation techniques for Le Fort I osteotomies was evaluated using 150 polyurethane specimens with advancements of 5 mm and 10 mm. The techniques included two L-plates (A), four L-plates of different thicknesses (B and C), two precontoured Le Fort I plates (D), and a hybrid configuration with two precontoured Le Fort I plates combined with two L-plates (E). Resistance to vertical displacement was measured at 1, 3, and 5 mm using a biomechanical testing machine.",
-      "methods": "In this in vitro study, the biomechanical rigidity of five commonly used fixation techniques for Le Fort I osteotomies was evaluated using 150 polyurethane specimens with advancements of 5 mm and 10 mm. The techniques included two L-plates (A), four L-plates of different thicknesses (B and C), two precontoured Le Fort I plates (D), and a hybrid configuration with two precontoured Le Fort I plates combined with two L-plates (E). Resistance to vertical displacement was measured at 1, 3, and 5 mm using a biomechanical testing machine.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42467132/",
-      "pmcid": "PMC13379497",
       "figure_urls": []
     }
   ]
