@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T05:20:40Z",
+  "updated_at": "2026-07-26T05:38:15Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1066,6 +1066,80 @@
       "figure_urls": []
     },
     {
+      "pmid": "42419055",
+      "title": "At the crossroads of senescence and immunosuppression: Machine learning and multi-omics unveil the central role of FAP in HNSCC.",
+      "authors": [
+        "Jingyu Zhang",
+        "Zhan Yang",
+        "Zhixu He",
+        "Luying Qin",
+        "Yan Tu",
+        "Yaxian Luo",
+        "Shuangyang Li",
+        "Tao Qiu",
+        "Kaizhe Hong",
+        "Xiaoting Zhang",
+        "Lianjie Peng",
+        "Tian Zhang",
+        "Di He",
+        "Huiming Wang",
+        "Mengfei Yu",
+        "Mouyuan Sun",
+        "Yu Liu"
+      ],
+      "publication_date": "2026-Sep-15",
+      "publication_date_iso": "2026-09-15",
+      "abstract": "The global incidence of head and neck squamous cell carcinoma (HNSCC) is increasing, and the failure rate of current treatments remains substantially high. Therefore, there is an urgent need to find effective targets and formulate precise personalized treatment strategies. HNSCC is characterized by an immunosuppressive environment, and the accumulation of senescent cells can promote aging by reshaping immune system function. However, in the context of HNSCC, the understanding of aging-related immunosuppressive genes (ARIS) remains limited. In this study, we identified 13 prognosis-associated ARIS and, using machine learning, pinpointed Fibroblast Activation Protein (FAP) as a key ARIS. In vitro experiments confirmed functional inhibition of FAP via siRNA-mediated silencing and pharmacological blockade with UMAC-1110 significantly suppressed the proliferation, migration, and invasion of CAL-27 cells. Furthermore, FAP was predominantly enriched in the FAP-positive myofibroblastic cancer-associated fibroblast (FAP + myCAF) subpopulation and was associated with altered inferred FAP + myCAF-neutrophil communication, consistent with a potential contribution to an immunosuppressive tumor microenvironment (TME). We subsequently performed in silico knockout analyses in FAP + myCAFs and constructed a FAP-centered regulatory network, thereby identifying candidate FAP-associated signaling modules for further functional validation. Notably, FAP expression increased following anti-programmed death-ligand 1 (PD-L1) treatment. We also identified three FAP targeting inhibitors, Pazopanib, Talazoparib and Ursodiol. And Pazopanib that exhibited a more stable binding affinity with FAP was selected for further in vitro validation. Collectively, these findings may offer new avenues for clinical intervention and precision therapy in HNSCC.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42419055/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42391812",
+      "title": "Integrative multi-omics and machine learning reveal PLAUR as a Pan-Cancer prognostic biomarker and potential therapeutic target.",
+      "authors": [
+        "Jin Li",
+        "Yaxian Luo",
+        "Shuangyang Li",
+        "Yuxuan Wang",
+        "Tao Qiu",
+        "Yixian Wu",
+        "Xuankai Fan",
+        "Jian Li",
+        "Tian Zhang",
+        "Di He",
+        "Jingyu Zhang",
+        "Renjian Hu",
+        "Jianguang Zhong",
+        "Yongping Hu",
+        "Mouyuan Sun"
+      ],
+      "publication_date": "2026-Sep-15",
+      "publication_date_iso": "2026-09-15",
+      "abstract": "Tumor heterogeneity remains a major barrier to effective cancer therapy, driving the need for novel biomarkers and targeted strategies. A bibliometric analysis underscored the lack of a systematic pan-cancer study of PLAUR. By integrating functional experiments, multi-omics analyses, and machine learning, we systematically investigated urokinase-type plasminogen activator receptor (PLAUR) across malignancies. PLAUR overexpression was observed in 10 cancer types, with significant prognostic value in 7 of these. Epigenetic analysis revealed its association with specific methylation patterns. Functionally, PLAUR drives malignant phenotypes by mediating tumor-cancer-associated fibroblast (CAF) crosstalk, remodeling the immunosuppressive microenvironment, and is implicated in therapy resistance. We identified four FDA-approved drugs (5-Fluorouracil, Irinotecan, Talazoparib, Gemcitabine) that may have potential binding affinity to PLAUR through in silico analyses, and in vitro functional assays using the human tongue squamous cell carcinoma cell line CAL-27. We further validated that Irinotecan can significantly reduce PLAUR expression and suppress malignant phenotypes (including survival, proliferation, migration, and invasion), which consolidates the preliminary findings from in silico analyses. Furthermore, we characterized peroxidasin (PXDN) as a core PLAUR-interacting hub and propose five candidate drugs (IGF1R-3801, Taselisib, Dasatinib, 5-Fluorouracil, and Alpelisib) for a synergistic dual-target strategy. Our work establishes PLAUR as a pivotal pan-cancer biomarker and potential therapeutic target, providing a rational framework for precision oncology.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42391812/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42302928",
       "title": "EIF3B promotes oral squamous cell carcinoma progression via the PI3K/AKT pathway and is negatively regulated by miR-124-3p.",
       "authors": [
@@ -1243,6 +1317,38 @@
       "figure_urls": []
     },
     {
+      "pmid": "42349694",
+      "title": "Targeting the KMT2D-driven Enhancer-Immune-Metabolic axis in HNSCC: Reconciling the paradox for precision therapy.",
+      "authors": [
+        "Kexin Wang",
+        "Haijun Lu",
+        "Nian Deng",
+        "Yueqin Tao",
+        "Xiaochen Yang",
+        "Mujie Yuan",
+        "Longhua Gao",
+        "Shuai Jiang",
+        "Wei Shang",
+        "Jing Deng",
+        "Lin Wang"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Head and neck squamous cell carcinoma (HNSCC) carries a substantial mortality burden, driven largely by locoregional recurrence. Although immune checkpoint blockade (ICB) is now standard-of-care for recurrent/metastatic disease, primary resistance and limited durability remain major barriers. Clinical outcomes are not determined by PD-L1 status alone, but instead emerge from a multidimensional tumor ecosystem shaped by genomic alterations and epigenetic-metabolic reprogramming. KMT2D (MLL4), a frequently mutated histone methyltransferase in HNSCC, exemplifies this complexity: it is traditionally regarded as a differentiation-preserving tumor suppressor, yet accumulating data suggest context-dependent roles in sustaining oncogenic stemness and metabolic fitness. This review reconciles these seemingly discordant observations through an \"Enhancer-Immune-Metabolic Framework,\" positioning KMT2D as an epigenetic rheostat rather than a binary determinant. We synthesize evidence that KMT2D alteration rewires enhancer landscapes, with particular emphasis on the PER2 axis, to promote a shift toward aerobic glycolysis. We further discuss how this metabolic state can potentiate immune exclusion by dampening antigen presentation programs and by supporting an immunosuppressive myeloid milieu. A central mechanistic link highlighted here is histone lactylation (e.g., H3K18la), proposed to couple glycolytic flux to chromatin remodeling and transcriptional outputs that favor immune evasion. Building on these concepts, we outline translationally actionable vulnerabilities in KMT2D-altered tumors, including: (i) synthetic lethal strategies with PARP inhibitors, (ii) metabolic blockade to disrupt glycolysis-associated immune suppression, and (iii) epigenetic \"priming\" approaches to re-open enhancers governing antigen presentation and T cell-inflamed states, thereby enhancing ICB responsiveness. KMT2D-driven enhancer remodeling provides a unifying lens to connect metabolic reprogramming with immune escape in HNSCC. Conceptualizing KMT2D as an epigenetic rheostat supports biomarker-informed combination strategies-integrating DNA damage repair targeting, metabolic interventions, and epigenetic priming-to overcome ICB resistance and improve durable disease control in KMT2D-altered HNSCC.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42349694/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42311958",
       "title": "Angioedema Presenting as Infant-Onset Primary Lymphedema.",
       "authors": [
@@ -1358,35 +1464,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42276507",
-      "title": "Bridging the gap: Integrating oxidative stress profiling with retinal imaging for precision management of diabetic retinopathy.",
-      "authors": [
-        "Amr Ali Mohamed Abdelgawwad El-Sehrawy",
-        "Bahaa Jaber",
-        "Dildora Narbutaeva",
-        "Navruz Ismatov",
-        "Ozodbek Eshqobilov",
-        "Lara Asim Kzar",
-        "Rajashree Panigrahi",
-        "Neeraj Bainsal"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Diabetic retinopathy (DR) remains a primary cause of vision impairment in working-age adults, driven by chronic hyperglycemia-induced oxidative stress that exacerbates retinal microvascular alterations, including pericyte loss, endothelial dysfunction, and capillary occlusion. This narrative review summarizes evidence suggesting that specific oxidative signatures may precede detectable microvascular alterations, suggesting a \"metabolic-memory\" imprint on retinal cellular homeostasis. This paradigm shift implicates oxidative stress biomarkers not merely as correlates of disease but as predictive tools for stratifying patients at risk of progression from non-proliferative to proliferative DR. This review examines current laboratory evidence on oxidative stress markers, such as malondialdehyde (MDA), 8-isoprostanes, superoxide dismutase (SOD), glutathione (GSH), and total antioxidant capacity (TAC), in relation to DR pathogenesis and progression. Drawing on epidemiological and clinical studies, we elucidate how elevated lipid peroxidation products (e.g., MDA and 8-isoprostanes) correlate with early microvascular changes and disease severity, while diminished antioxidant enzymes (e.g., SOD and GSH) reflect systemic redox imbalance, potentially serving as prognostic indicators of transitions from non-proliferative to proliferative DR. Innovatively, we propose an integrated biomarker panel combining these oxidative indices with advanced retinal imaging modalities, such as optical coherence tomography angiography, to enhance early detection sensitivity. Furthermore, emerging interventions targeting oxidative pathways, including carotenoid antioxidants like zeaxanthin and novel nanotechnology-based delivery systems for SOD mimetics, offer promising avenues for halting microvascular degeneration. By bridging laboratory assays with clinical translation, this review underscores the potential value of routine oxidative stress profiling in diabetic patients to support timely, biomarker-guided adjunctive interventions, ultimately mitigating DR-related morbidity and improving clinical risk stratification in ophthalmology.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42276507/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42275922",
       "title": "Local vitamin D",
       "authors": [
@@ -1409,53 +1486,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42275922/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42167478",
-      "title": "Further treatments of non-surgically root canal-treated teeth in public dental service: A long-term register-based study.",
-      "authors": [
-        "Milo Väisänen",
-        "Ulla Palotie",
-        "Battsetseg Tseveenjav"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Our objective was to assess further restorative treatments, extractions and endodontic retreatments registered for root canal-treated teeth (RCTT) in a 13- to 15-year follow-up at Public Dental Service (PDS), and to examine the association of the frequency of further treatments with patient-, tooth-, and operator-related factors. Data were collected from electronic patient records of the Helsinki PDS. Based on dental treatment codes, teeth with registered primary non-surgical root canal treatments (nsRCTs) (n = 16 954) between 2002 and 2004 were followed until the end of 2016. Estimation of incidence of further treatments was calculated with generalized linear model. Cox regression model was conducted to estimate the influence of patient-, tooth- and operator-related factors of the primary nsRCT for further restorative treatments, extractions, or endodontic retreatments. Further restorative treatments were the most often carried out treatments (38.2%) for RCTT, followed by extractions (19.5%), non-surgical retreatments (4.8%) and surgical retreatments (0.5%). Endodontic retreatments were often registered within few years of the primary nsRCT while the frequency of extractions remained nearly constant over the years. Younger age, anterior teeth, and teeth with indirect coronal restorations were mostly associated with lower incidence of further treatments. Our study demonstrated that RCTT were registered with mainly further restorative treatments after primary nsRCT. One-fifth of teeth were extracted during the study period, while endodontic retreatments were uncommon. Placement of indirect restoration was associated with lower incidence of further treatments, within the limitations of this study. Knowledge of further treatments that root canal-treated teeth may require is highly important for both dentists and patients. Identification of risk factors that could have influence on further treatments after primary non-surgical root canal treatment should be part of the treatment planning to ensure favorable outcomes.",
-      "objective": "was to assess further restorative treatments, extractions and endodontic retreatments registered for root canal-treated teeth (RCTT) in a 13- to 15-year follow-up at Public Dental Service (PDS), and to examine the association of the frequency of further treatments with patient-, tooth-, and operator-related factors. Data were collected from electronic patient records of the Helsinki PDS. Based on dental treatment codes, teeth with registered primary non-surgical root canal treatments (nsRCTs) (n = 16 954) between 2002 and 2004 were followed until the end of 2016. Estimation of incidence of further treatments was calculated with generalized linear model. Cox regression model was conducted to estimate the influence of patient-, tooth- and operator-related factors of the primary nsRCT for further restorative treatments, extractions, or endodontic retreatments. Further restorative treatments were the most often carried out treatments (38.2%) for RCTT, followed by extractions (19.5%), non-surgical retreatments (4.8%) and surgical retreatments (0.5%). Endodontic retreatments were often registered within few years of the primary nsRCT while the frequency of extractions remained nearly constant over the years. Younger age, anterior teeth, and teeth with indirect coronal restorations were mostly associated with lower incidence of further treatments. Our study demonstrated that RCTT were registered with mainly further restorative treatments after primary nsRCT. One-fifth of teeth were extracted during the study period, while endodontic retreatments were uncommon. Placement of indirect restoration was associated with lower incidence of further treatments, within the limitations of this study. Knowledge of further treatments that root canal-treated teeth may require is highly important for both dentists and patients. Identification of risk factors that could have influence on further treatments after primary non-surgical root canal treatment should be part of the treatment planning to ensure favorable outcomes.",
-      "study_methods": "Data were collected from electronic patient records of the Helsinki PDS. Based on dental treatment codes, teeth with registered primary non-surgical root canal treatments (nsRCTs) (n = 16 954) between 2002 and 2004 were followed until the end of 2016. Estimation of incidence of further treatments was calculated with generalized linear model. Cox regression model was conducted to estimate the influence of patient-, tooth- and operator-related factors of the primary nsRCT for further restorative treatments, extractions, or endodontic retreatments.",
-      "methods": "Data were collected from electronic patient records of the Helsinki PDS. Based on dental treatment codes, teeth with registered primary non-surgical root canal treatments (nsRCTs) (n = 16 954) between 2002 and 2004 were followed until the end of 2016. Estimation of incidence of further treatments was calculated with generalized linear model. Cox regression model was conducted to estimate the influence of patient-, tooth- and operator-related factors of the primary nsRCT for further restorative treatments, extractions, or endodontic retreatments.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42167478/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42150729",
-      "title": "Evaluating retrieval-augmented generation for guideline-grounded textual planning in implant dentistry: A comparative study.",
-      "authors": [
-        "Jinyan Chen",
-        "Feng Wang"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "To evaluate whether a retrieval-augmented generation (RAG) framework can enhance citation precision and improve the clinical reliability of large language models (LLMs) in implant dentistry. A domain-specific knowledge base was constructed using major international consensus reports and established clinical treatment guides. Forty standardized clinical vignettes (35 real-world, 5 synthetic) were each processed twice by both a standard LLM (GPT-4o) and a RAG-LLM, yielding 160 treatment plans. Intra-model agreement was quantified using the weighted Cohen's kappa. Two independent experts evaluated the plans across five clinical domains using a double-blinded, consensus-driven protocol. Overall clinical accuracy showed no significant difference between models (P = 0.642). However, domain-specific analysis revealed that the RAG-LLM significantly outperformed the standard model in evidence traceability and citation precision (P = 0.046). Neither model exhibited severe literature fabrication. Conversely, the standard LLM demonstrated superior biomechanical spatial planning (P = 0.025). The RAG architecture exhibited \"retrieval bias\" in soft-tissue complication scenarios, leading to inappropriate hard-tissue augmentation. Sensitivity analysis revealed the RAG model's superiority diminished in out-of-distribution synthetic cases lacking thematic overlap with the knowledge base. Implementing RAG significantly improves evidence traceability, enhances citation precision, and demonstrates high intra-model consistency, with severe diagnostic shifts being exceedingly rare. However, text-based retrieval introduces diagnostic biases causing overtreatment, and its superiority relies heavily on conceptual overlap with the knowledge base. RAG-LLMs are promising adjunctive tools but require continuous expert oversight to compensate for spatial reasoning limitations. This study demonstrates that retrieval-augmented generation (RAG) significantly enhances citation precision in implant dentistry by anchoring models to established clinical guidelines. While RAG enhances evidence traceability, clinicians must remain cautious of retrieval bias. This bias can lead to algorithmic overtreatment in soft-tissue complication management. Currently, RAG-enhanced AI serves as a valuable adjunctive tool but cannot replace the three-dimensional spatial reasoning of an experienced implantologist.",
-      "objective": "",
-      "study_methods": "A domain-specific knowledge base was constructed using major international consensus reports and established clinical treatment guides. Forty standardized clinical vignettes (35 real-world, 5 synthetic) were each processed twice by both a standard LLM (GPT-4o) and a RAG-LLM, yielding 160 treatment plans. Intra-model agreement was quantified using the weighted Cohen's kappa. Two independent experts evaluated the plans across five clinical domains using a double-blinded, consensus-driven protocol.",
-      "methods": "A domain-specific knowledge base was constructed using major international consensus reports and established clinical treatment guides. Forty standardized clinical vignettes (35 real-world, 5 synthetic) were each processed twice by both a standard LLM (GPT-4o) and a RAG-LLM, yielding 160 treatment plans. Intra-model agreement was quantified using the weighted Cohen's kappa. Two independent experts evaluated the plans across five clinical domains using a double-blinded, consensus-driven protocol.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42150729/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2704,6 +2734,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "42502006",
+      "title": "Assessment of orbital dystopia in patients with dentofacial deformity.",
+      "authors": [
+        "Y Malkoç",
+        "A Özel",
+        "Y Y Leung",
+        "S Uckan"
+      ],
+      "publication_date": "2026-Jul-25",
+      "publication_date_iso": "2026-07-25",
+      "abstract": "The study investigated vertical orbital dystopia in patients with dentofacial deformities and its impact on coronal plane orientation. This retrospective analysis included 79 patients (52 females, 27 males, mean age 27.64 years) with dentofacial deformity who underwent orthognathic surgery from 2019 to 2022 with preoperative cone-beam computed tomography. Bilateral hard tissue measurements were performed using virtual orthognathic planning software (NemoFAB, Nemotec, Spain). Two anatomical landmarks were measured vertically to assess the severity and direction of orbital asymmetry. Of the 79 patients, 56 had class III and 23 had class II skeletal deformity. There were no significant differences between patients based on gender or Angle classification. Orbital dystopia was statistically significant (73.4%) among the study population (P = 0.05). The severity and the direction were analysed, respectively; no correlation was found between the orbitalis inferior (r = 0.052, P = 0.73) and the orbitalis superior (r = -0.060, P = 0.67). The study suggests that focusing solely on the orbital region in orthognathic surgery planning may lead to inaccuracies due to the prevalence of orbital dystopia in dentofacial deformity patients.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42502006/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42498077",
       "title": "Dynamic regulation of fibroblast heterogeneity in regeneration repair and bone diseases.",
       "authors": [
@@ -2985,30 +3040,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472593/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42470150",
-      "title": "Single-stage orthognathic correction of campylorrhinus lateralis in foals using transection and fixation: Surgical description and outcome of four horses.",
-      "authors": [
-        "Helio Vasco",
-        "Jim Schumacher",
-        "Jack Easley"
-      ],
-      "publication_date": "2026-Jul-18",
-      "publication_date_iso": "2026-07-18",
-      "abstract": "Campylorrhinus lateralis ('wry nose') is a rare congenital maxillofacial deformity of foals resulting in compromise of the airway and severe class 4 malocclusion. Various surgical techniques to correct the deformity have been described, but contemporary data on single-stage transection and fixation, including use of a rib graft, and long-term functional and cosmetic outcomes remain underreported. To describe the transection-and-fixation technique and perioperative management used to correct wry nose in horses, and to report postoperative complications and long-term outcomes of horses undergoing this treatment. Retrospective case series. Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics. All four horses were presented with respiratory difficulty. The transected premaxillae were stabilised with pins and wires, and the transected nasal bones were stabilised with plates/screws; only one horse received a rib graft. All horses developed a plate-associated infection, and one horse developed an oronasal fistula. At the time of follow-up, all grazed and masticated normally, maintained good body condition, and owners were satisfied with the functional and cosmetic outcome. Small sample size, retrospective design. Correcting wry nose of four foals using a single-stage transection-and-fixation procedure achieved satisfactory long-term outcomes. Respiratory function of all horses improved, and all horses grazed and masticated normally. Three horses were able to perform their intended athletic endeavour. All owners reported satisfaction with the functional and cosmetic outcome.",
-      "objective": "",
-      "study_methods": "Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics.",
-      "methods": "Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics.",
-      "results": "ing in compromise of the airway and severe class 4 malocclusion. Various surgical techniques to correct the deformity have been described, but contemporary data on single-stage transection and fixation, including use of a rib graft, and long-term functional and cosmetic outcomes remain underreported. To describe the transection-and-fixation technique and perioperative management used to correct wry nose in horses, and to report postoperative complications and long-term outcomes of horses undergoing this treatment. Retrospective case series. Wry nose of four horses was corrected by using a single-stage transection-and-fixation technique. Pre-operative assessment included physical, oral, and radiographic examinations, and when available, CT imaging. The surgical procedure involved temporary tracheostomy and laryngotomy, resection of the nasal septum, osteotomy and fixation of the nasal bones, and orthognathic transection and fixation of the premaxillae and maxillae, with bone grafting and alar fold resection performed when indicated. The outcome of horses with complete records and ≥12 months follow-up is reported using descriptive statistics. All four horses were presented with respiratory difficulty. The transected premaxillae were stabilised with pins and wires, and the transected nasal bones were stabilised with plates/screws; only one horse received a rib graft. All horses developed a plate-associated infection, and one horse developed an oronasal fistula. At the time of follow-up, all grazed and masticated normally, maintained good body condition, and owners were satisfied with the functional and cosmetic outcome. Small sample size, retrospective design. Correcting wry nose of four foals using a single-stage transection-and-fixation procedure achieved satisfactory long-term outcomes. Respiratory function of all horses improved, and all horses grazed and masticated normally. Three horses were able to perform their intended athletic endeavour. All owners reported satisfaction with the functional and cosmetic outcome.",
-      "conclusion": "",
-      "limitations": "Small sample size, retrospective design.",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42470150/",
       "pmcid": "",
       "figure_urls": []
     }
