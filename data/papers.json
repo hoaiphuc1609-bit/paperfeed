@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T05:38:15Z",
+  "updated_at": "2026-07-27T05:56:41Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -677,6 +677,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "42502792",
+      "title": "Radiographic evolution of a dentigerous cyst associated with a deeply impacted mandibular first molar in a pediatric patient: a CBCT-based longitudinal case report with minimal-visit orthodontic management.",
+      "authors": [
+        "Huyen Nguyen Thanh",
+        "Manh Nguyen Truong",
+        "Anh Vu Dinh Viet",
+        "Hoang Viet Do",
+        "Trang Thi Thu Vu"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "A deeply impacted mandibular first molar associated with a dentigerous cyst is an uncommon clinical presentation, particularly in pediatric patients. This case report describes a 9-year-old boy who presented with delayed eruption of the mandibular right first molar. Panoramic radiography revealed a well-defined unilocular radiolucent lesion associated with a deeply impacted tooth, while cone-beam computed tomography (CBCT) demonstrated buccolingual cortical expansion and thinning, displacement of the adjacent second molar germ, and close proximity to the inferior alveolar canal. Based on clinical, radiographic, and histopathologic findings, the lesion was diagnosed as a dentigerous cyst and treated conservatively with marsupialization followed by orthodontic traction. Longitudinal radiographic follow-up over 16 months demonstrated progressive reduction of the radiolucent lesion, gradual bone regeneration, and continuous eruption and uprighting of the impacted mandibular first molar. This case highlights the important role of CBCT and serial radiographic monitoring in evaluating lesion extent, treatment planning, and documenting healing and tooth eruption during conservative management of dentigerous cysts in children.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42502792/",
+      "pmcid": "PMC13400236",
+      "figure_urls": []
+    },
+    {
       "pmid": "42495756",
       "title": "TPD54 contributes to docetaxel resistance through modulation of P‑glycoprotein localization and activity in oral squamous cell carcinoma cells.",
       "authors": [
@@ -1195,6 +1221,39 @@
       "figure_urls": []
     },
     {
+      "pmid": "42502286",
+      "title": "Evaluations of Penumbra Reduction Using Multi-Leaf Collimator and 3D Bolus in Scanned Proton Therapy.",
+      "authors": [
+        "Yuki Tominaga",
+        "Robabeh Rahimi",
+        "Yushi Wakisaka",
+        "Mayu Nakata",
+        "Yuya Miyasaka",
+        "Akira Takagi",
+        "Akihiro Tanaka",
+        "Masaya Ichihara",
+        "Motoharu Sasaki",
+        "Takahiro Kato",
+        "Akihiro Haga",
+        "Teiji Nishio"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Proton therapy offers excellent distal tissue sparing; however, precise control of the lateral penumbra is critical for protecting adjacent healthy tissues. This study systematically evaluated improvements in lateral penumbra in proton pencil beam scanning (PBS) using a surface-contacted 3-dimensional printed bolus (3DBS), compared with conventional plans employing a nozzle-mounted range shifter (RS), for beams with and without a multi-leaf collimator (MLC). A total of 460 uniform-dose PBS plans were generated for a cubic target (60 × 60 × 54 mm³) positioned at 9 different depths ranging from 0 to 280 mm in water. Plan configurations included plans with 3 different materials for 3DBSs (silicone, resin, and thermoplastic polyurethane) and were compared with plans with a polyethylene RS. Each configuration was further subdivided into plans with and without MLC. Air gaps ranging from 50 to 300 mm were evaluated. Lateral penumbra widths and mean doses to surrounding organs at risk (OARs) within a 30-mm margin were evaluated. Two-dimensional dose distributions for selected beams were experimentally verified using a 2D ionization chamber array and radiochromic films. All plans with 3DBSs improved lateral penumbra and reduced mean OAR doses compared with plans with RS, under equivalent MLC conditions, except for a limited subset of plans at depths greater than 200 mm with minimal air gaps. Measured dose distributions demonstrated acceptable agreement with calculated plans. Comparisons among the 3 3DBS materials indicated feasibility in material selection based on required bolus geometry and clinical implementation considerations. The combined use of MLC and 3DBS provides a systematic and effective strategy for lateral penumbra control in proton PBS. This approach enables improved dosimetric precision in clinically sensitive scenarios where even small reductions in dose to surrounding tissues are critical.",
+      "objective": "",
+      "study_methods": "A total of 460 uniform-dose PBS plans were generated for a cubic target (60 × 60 × 54 mm³) positioned at 9 different depths ranging from 0 to 280 mm in water. Plan configurations included plans with 3 different materials for 3DBSs (silicone, resin, and thermoplastic polyurethane) and were compared with plans with a polyethylene RS. Each configuration was further subdivided into plans with and without MLC. Air gaps ranging from 50 to 300 mm were evaluated. Lateral penumbra widths and mean doses to surrounding organs at risk (OARs) within a 30-mm margin were evaluated. Two-dimensional dose distributions for selected beams were experimentally verified using a 2D ionization chamber array and radiochromic films.",
+      "methods": "A total of 460 uniform-dose PBS plans were generated for a cubic target (60 × 60 × 54 mm³) positioned at 9 different depths ranging from 0 to 280 mm in water. Plan configurations included plans with 3 different materials for 3DBSs (silicone, resin, and thermoplastic polyurethane) and were compared with plans with a polyethylene RS. Each configuration was further subdivided into plans with and without MLC. Air gaps ranging from 50 to 300 mm were evaluated. Lateral penumbra widths and mean doses to surrounding organs at risk (OARs) within a 30-mm margin were evaluated. Two-dimensional dose distributions for selected beams were experimentally verified using a 2D ionization chamber array and radiochromic films.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42502286/",
+      "pmcid": "PMC13400283",
+      "figure_urls": []
+    },
+    {
       "pmid": "42498422",
       "title": "Pediatric Sleep Disorders: Taking Care of Gen Z and Gen Alpha.",
       "authors": [
@@ -1216,6 +1275,36 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42498422/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42485683",
+      "title": "A bifunctional fusion protein simultaneously targeting PD-L1 and TGF-β1 (SHR1701) enhanced preclinical antitumor activity in oral squamous cell carcinoma.",
+      "authors": [
+        "Wenhao Li",
+        "Songling Fang",
+        "Yuan Cao",
+        "Yuepeng Wang",
+        "Ziqin Kang",
+        "Yilin He",
+        "Yongkang Cai",
+        "Zixian Huang",
+        "Zhiquan Huang"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Oral squamous cell carcinoma (OSCC) is characterized by a profoundly immunosuppressive tumor microenvironment (TME), which limits the clinical efficacy of immune checkpoint inhibitors (ICIs) targeting the programmed death-1 (PD-1)/programmed death-ligand 1 (PD-L1) axis. Transforming growth factor-beta (TGF-β) is a key immunosuppressive mediator in OSCC and is associated with disease progression and resistance to immunotherapy. SHR-1701 is a bifunctional fusion protein designed to simultaneously block PD-L1 and sequester TGF-β. This study investigated the biological relevance of TGF-β1 in OSCC and evaluated the preclinical antitumor activity and immunomodulatory effects of SHR-1701. The expression and prognostic significance of TGF-β isoforms were analyzed by using The Cancer Genome Atlas (TCGA) datasets and a retrospective cohort of OSCC patients. The functional effects of SHR-1701 on OSCC cell lines were evaluated in vitro. T-cell-dependent cytotoxicity was evaluated by using an in vitro co-culture system. The antitumor efficacy, immune modulation, and safety of SHR-1701 (alone or in combination with cisplatin and paclitaxel) were further examined in a patient-derived xenograft (PDX) model involving autologous T-cell adoptive transfer. Clinical and transcriptomic analyses demonstrated a significant association between TGF-β1 expression and aggressive disease features in OSCC. SHR-1701 exerted notable functional effects on OSCC cells in vitro and enhanced T-cell-mediated antitumor responses in vivo. In PDX models, compared with monotherapies, SHR-1701 exhibited superior antitumor activity, and combination treatment with chemotherapy further increased therapeutic efficacy and immune engagement. These findings demonstrate that TGF-β1-associated immunosuppression plays a critical role in OSCC progression and therapeutic resistance. The dual targeting of PD-L1 and TGF-β signaling with SHR-1701 effectively remodels the immunosuppressive TME and enhances antitumor immune responses in preclinical models, thus providing a strong translational rationale for further clinical evaluation of SHR-1701 in OSCC.",
+      "objective": "",
+      "study_methods": "The expression and prognostic significance of TGF-β isoforms were analyzed by using The Cancer Genome Atlas (TCGA) datasets and a retrospective cohort of OSCC patients. The functional effects of SHR-1701 on OSCC cell lines were evaluated in vitro. T-cell-dependent cytotoxicity was evaluated by using an in vitro co-culture system. The antitumor efficacy, immune modulation, and safety of SHR-1701 (alone or in combination with cisplatin and paclitaxel) were further examined in a patient-derived xenograft (PDX) model involving autologous T-cell adoptive transfer.",
+      "methods": "The expression and prognostic significance of TGF-β isoforms were analyzed by using The Cancer Genome Atlas (TCGA) datasets and a retrospective cohort of OSCC patients. The functional effects of SHR-1701 on OSCC cell lines were evaluated in vitro. T-cell-dependent cytotoxicity was evaluated by using an in vitro co-culture system. The antitumor efficacy, immune modulation, and safety of SHR-1701 (alone or in combination with cisplatin and paclitaxel) were further examined in a patient-derived xenograft (PDX) model involving autologous T-cell adoptive transfer.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42485683/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1317,24 +1406,51 @@
       "figure_urls": []
     },
     {
-      "pmid": "42349694",
-      "title": "Targeting the KMT2D-driven Enhancer-Immune-Metabolic axis in HNSCC: Reconciling the paradox for precision therapy.",
+      "pmid": "42385552",
+      "title": "A salivary protein panel for detecting malignant transformation of oral leukoplakia.",
       "authors": [
-        "Kexin Wang",
-        "Haijun Lu",
-        "Nian Deng",
-        "Yueqin Tao",
-        "Xiaochen Yang",
-        "Mujie Yuan",
-        "Longhua Gao",
-        "Shuai Jiang",
-        "Wei Shang",
-        "Jing Deng",
-        "Lin Wang"
+        "Qiu-Yun Fu",
+        "Xin-Xin Wang",
+        "Yong Yang",
+        "Jun Zeng",
+        "Xiao-Xia Cheng",
+        "Xi Chen",
+        "Xiao-Le Wang",
+        "Qiang-Qiang Han",
+        "Shao-Xin Huang",
+        "Li-Yun Yao",
+        "Xue-Peng Xiong",
+        "Jun Shang",
+        "Qing He",
+        "Gang Chen"
       ],
       "publication_date": "2026-Sep",
       "publication_date_iso": "2026-09-01",
-      "abstract": "Head and neck squamous cell carcinoma (HNSCC) carries a substantial mortality burden, driven largely by locoregional recurrence. Although immune checkpoint blockade (ICB) is now standard-of-care for recurrent/metastatic disease, primary resistance and limited durability remain major barriers. Clinical outcomes are not determined by PD-L1 status alone, but instead emerge from a multidimensional tumor ecosystem shaped by genomic alterations and epigenetic-metabolic reprogramming. KMT2D (MLL4), a frequently mutated histone methyltransferase in HNSCC, exemplifies this complexity: it is traditionally regarded as a differentiation-preserving tumor suppressor, yet accumulating data suggest context-dependent roles in sustaining oncogenic stemness and metabolic fitness. This review reconciles these seemingly discordant observations through an \"Enhancer-Immune-Metabolic Framework,\" positioning KMT2D as an epigenetic rheostat rather than a binary determinant. We synthesize evidence that KMT2D alteration rewires enhancer landscapes, with particular emphasis on the PER2 axis, to promote a shift toward aerobic glycolysis. We further discuss how this metabolic state can potentiate immune exclusion by dampening antigen presentation programs and by supporting an immunosuppressive myeloid milieu. A central mechanistic link highlighted here is histone lactylation (e.g., H3K18la), proposed to couple glycolytic flux to chromatin remodeling and transcriptional outputs that favor immune evasion. Building on these concepts, we outline translationally actionable vulnerabilities in KMT2D-altered tumors, including: (i) synthetic lethal strategies with PARP inhibitors, (ii) metabolic blockade to disrupt glycolysis-associated immune suppression, and (iii) epigenetic \"priming\" approaches to re-open enhancers governing antigen presentation and T cell-inflamed states, thereby enhancing ICB responsiveness. KMT2D-driven enhancer remodeling provides a unifying lens to connect metabolic reprogramming with immune escape in HNSCC. Conceptualizing KMT2D as an epigenetic rheostat supports biomarker-informed combination strategies-integrating DNA damage repair targeting, metabolic interventions, and epigenetic priming-to overcome ICB resistance and improve durable disease control in KMT2D-altered HNSCC.",
+      "abstract": "Oral leukoplakia (OLK) is the most common oral potentially malignant disorder and carries a lifetime risk of transformation to oral squamous cell carcinoma (OSCC) of 0.1% to 9.8%. The aim of the current study is to explore salivary proteomics as a non-invasive approach for detecting the malignant transformation from OLK to OLK-associated OSCC (OLK-OSCC). We performed mass spectrometry-based proteomic profiling of saliva from 131 patients (48 OLK and 83 OLK-OSCC patients) and integrated the resulting data with machine learning. Salivary protein diversity was significantly increased in OLK-OSCC patients, and differential expression analysis identified 100 upregulated and 36 downregulated salivary proteins of OLK-OSCC compared with OLK. Using XGBoost and LASSO regression, we developed a nomogram based on a five-protein panel (MMP1, SUMO4, SMS, TMBIM1, and MUC5AC), which achieved high discriminatory performance in the training cohort (AUC = 0.94). The biological relevance of this panel was further supported by single-cell RNA sequencing data, a 4-nitroquinoline 1-oxide-induced murine carcinogenesis model (n = 18), and an independent OSCC tissue cohort (n = 39). Functional correlation analyses suggested that these biomarkers may be associated with an immunosuppressive tumor microenvironment by modulating the infiltration pattern of immune cells. Collectively, these findings characterize the salivary proteomic changes associated with OLK-OSCC and identify a five-protein salivary panel with potential value for OLK surveillance and early detection of malignant transformation.",
+      "objective": "of the current study is to explore salivary proteomics as a non-invasive approach for detecting the malignant transformation from OLK to OLK-associated OSCC (OLK-OSCC). We performed mass spectrometry-based proteomic profiling of saliva from 131 patients (48 OLK and 83 OLK-OSCC patients) and integrated the resulting data with machine learning. Salivary protein diversity was significantly increased in OLK-OSCC patients, and differential expression analysis identified 100 upregulated and 36 downregulated salivary proteins of OLK-OSCC compared with OLK. Using XGBoost and LASSO regression, we developed a nomogram based on a five-protein panel (MMP1, SUMO4, SMS, TMBIM1, and MUC5AC), which achieved high discriminatory performance in the training cohort (AUC = 0.94). The biological relevance of this panel was further supported by single-cell RNA sequencing data, a 4-nitroquinoline 1-oxide-induced murine carcinogenesis model (n = 18), and an independent OSCC tissue cohort (n = 39). Functional correlation analyses suggested that these biomarkers may be associated with an immunosuppressive tumor microenvironment by modulating the infiltration pattern of immune cells. Collectively, these findings characterize the salivary proteomic changes associated with OLK-OSCC and identify a five-protein salivary panel with potential value for OLK surveillance and early detection of malignant transformation.",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing data with machine learning. Salivary protein diversity was significantly increased in OLK-OSCC patients, and differential expression analysis identified 100 upregulated and 36 downregulated salivary proteins of OLK-OSCC compared with OLK. Using XGBoost and LASSO regression, we developed a nomogram based on a five-protein panel (MMP1, SUMO4, SMS, TMBIM1, and MUC5AC), which achieved high discriminatory performance in the training cohort (AUC = 0.94). The biological relevance of this panel was further supported by single-cell RNA sequencing data, a 4-nitroquinoline 1-oxide-induced murine carcinogenesis model (n = 18), and an independent OSCC tissue cohort (n = 39). Functional correlation analyses suggested that these biomarkers may be associated with an immunosuppressive tumor microenvironment by modulating the infiltration pattern of immune cells. Collectively, these findings characterize the salivary proteomic changes associated with OLK-OSCC and identify a five-protein salivary panel with potential value for OLK surveillance and early detection of malignant transformation.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42385552/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42378750",
+      "title": "Re: Ensemble learning-based radiomics model for predicting radiation-induced temporal lobe injury in nasopharyngeal carcinoma.",
+      "authors": [
+        "Erkan Topkan",
+        "Efsun Somay",
+        "Ugur Selek"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "",
       "objective": "",
       "study_methods": "",
       "methods": "",
@@ -1344,7 +1460,7 @@
       "topics": [
         "maxillofacial surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42349694/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42378750/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1374,96 +1490,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42308583",
-      "title": "A historical perspective on the discovery of human dental follicle cells for regenerative dentistry.",
-      "authors": [
-        "Christian Morsczeck",
-        "Anja Reck",
-        "Torsten E Reichert"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "This narrative review aims to summarize and contextualize more than two decades of research on human dental follicle cells (DFCs), focusing on their biological characteristics, regenerative capacity, and potential applications in dentistry and immunotherapy. Articles were selected based on the literature of non-human propedeutics since the 1990s and human DFC research since its inception in 2005. The focus was set on the isolation, characterization, cultivation, and therapeutic prospects of DFCs as progenitor cells derived from the mesodermal tooth germ. DFCs exhibit multipotent differentiation potential and pronounced immunomodulatory properties. Their developmental origin not only provides specific insights into the cellular processes underlying tooth formation and the regeneration of dental tissue, but also opens up perspectives for novel therapies in dentistry, such as the formation of a biological tooth root. The findings highlight the potential of DFCs for regenerative dentistry and immunotherapies in general, and provide a solid basis for future work in these research areas.",
-      "objective": "to summarize and contextualize more than two decades of research on human dental follicle cells (DFCs), focusing on their biological characteristics, regenerative capacity, and potential applications in dentistry and immunotherapy. Articles were selected based on the literature of non-human propedeutics since the 1990s and human DFC research since its inception in 2005. The focus was set on the isolation, characterization, cultivation, and therapeutic prospects of DFCs as progenitor cells derived from the mesodermal tooth germ. DFCs exhibit multipotent differentiation potential and pronounced immunomodulatory properties. Their developmental origin not only provides specific insights into the cellular processes underlying tooth formation and the regeneration of dental tissue, but also opens up perspectives for novel therapies in dentistry, such as the formation of a biological tooth root. The findings highlight the potential of DFCs for regenerative dentistry and immunotherapies in general, and provide a solid basis for future work in these research areas.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42308583/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42293501",
-      "title": "From surgical debridement to laser-guided bone repair: An integrative approach to mandibular osteomyelitis.",
-      "authors": [
-        "Gustavo Q Câmara",
-        "Bianca Pulino",
-        "Bruno N Prado",
-        "Maitê Camargo",
-        "Geraldo Prestes de Camargo Filho",
-        "Raphael Capelli Guerra"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Chronic mandibular osteomyelitis is a challenging condition due to impaired vascularization, necrotic bone, and persistent infection, often requiring combined therapeutic approaches. We report the case of a 49-year-old male presenting with severe mandibular pain, purulent discharge, and radiographic evidence of bone sequestration and pathological fracture following tooth extraction. The patient was treated conservatively with surgical debridement associated with antimicrobial photodynamic therapy using 0.01% methylene blue activated by a 660 nm laser, followed by adjunctive low-level infrared laser therapy for photobiomodulation. Clinical and radiographic follow-up demonstrated resolution of infection, reduction of pain and inflammation, and progressive bone repair without adverse effects. This case highlights that the combination of photodynamic therapy and photobiomodulation may represent a safe and effective adjunctive approach in the management of chronic mandibular osteomyelitis, particularly in patients seeking less invasive alternatives to radical surgical procedures.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42293501/",
-      "pmcid": "PMC13264344",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13264344/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13264344/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13264344/bin/gr3.jpg"
-      ]
-    },
-    {
-      "pmid": "42287952",
-      "title": "Liposomes containing histidine overcome poly ADP-ribose polymerase inhibitor resistance.",
-      "authors": [
-        "Jing Zhang",
-        "Muhammad Tufail",
-        "Yun Deng",
-        "Hong-Jian Ling",
-        "Lin Peng",
-        "Jundong Wu",
-        "De Zeng",
-        "Yongqu Zhang",
-        "Lifang He",
-        "Hanwei Peng",
-        "Abdulloev Afzal",
-        "Yan Sun",
-        "Xinya Gao",
-        "Jie Li"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Poly ADP-ribose polymerase inhibitor (PARPi) has shown promising clinical efficacy in patients with BRCA-deficient breast cancer. However, the role of metabolic reprogramming in PARPi resistance remains poorly understood. In this study, we analyzed the amino acid metabolome in samples with varying sensitivity to PARPi, revealing histidine as the most prominently dysregulated amino acid. Disruption of histidine metabolism reprogramming using liposomes containing histidine (Liposome His) effectively resensitized PARPi-resistant cells to olaparib. Mechanistically, Liposome His treatment depleted the tetrahydrofolate (THF) pool, thereby impairing nucleotide synthesis, which was particularly cytotoxic in cells with limited THF availability. Methotrexate and folate depletion further enhanced the in vitro efficacy of Liposome His. In contrast, the folate receptor antagonist mirvetuximab soravtansine exhibited potent anti-proliferative effects against PARPi-resistant cells in vivo, albeit with notable adverse effects. Combination therapy involving Liposome His and mirvetuximab soravtansine demonstrated promising inhibitory effects with manageable tolerability profiles. In addition, we preliminarily demonstrated that Liposome His regulates macrophage polarization by activating the mTOR signaling pathway, and when combined with anti-PD-L1 therapy, it jointly inhibits the pro-tumor phenotype of macrophages.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42287952/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42275922",
       "title": "Local vitamin D",
       "authors": [
@@ -1486,6 +1512,36 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42275922/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42247781",
+      "title": "Primary treatment modalities and p16 status in oropharyngeal squamous cell carcinoma outcomes: a tertiary center study with propensity score analysis.",
+      "authors": [
+        "Primož Strojan",
+        "Tina Žagar",
+        "Robert Šifrer",
+        "Vojislav Didanovič",
+        "Aleš Grošelj",
+        "Gaber Plavc",
+        "Boštjan Lanišnik",
+        "Marko Kokalj",
+        "Cvetka Grašič-Kuhar"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "The optimal treatment for oropharyngeal squamous cell carcinoma (OPSCC) remains undetermined. The choice between primary surgery with risk-adapted adjuvant (chemo)radiotherapy and primary (chemo)radiotherapy is left to therapeutic teams and patients. We compared survival outcomes between these approaches in large cohort stratified by p16 status. Nonmetastatic OPSCC patients diagnosed between 2007 and 2021, with determined p16 status and treated with curative primary surgery or primary (chemo)radiotherapy, were retrospectively reviewed. Univariate, multivariate, and propensity score matching analyses were performed to compare progression-free survival (PFS) and overall survival (OS). Of 696 identified patients, 642 met the inclusion criteria: 329 patients (51.3 %) underwent primary surgery and 313 (48.7 %) received primary (chemo)radiotherapy. p16 positivity was confirmed in 34 % and 38 % of patients, respectively. In the unmatched cohort, upfront surgery was associated with superior PFS and OS in the p16-negative group, but not in the p16-positive group. After propensity score matching, no survival advantage was observed for either treatment scenario in the p16-negative group (surgery vs. non-surgery, 5-year PFS: 52 vs. 43 %, p = 0.259; OS: 54 vs. 47 %, p = 0.396) or the p16-positive group (5-year PFS: 84 vs. 84 %, p = 0.988; OS: 86 vs. 87 %, p = 0.868). When prognostic factors are adequately balanced, primary surgery with risk-adapted adjuvant therapy and primary (chemo)radiotherapy provide similar survival outcomes in both p16-positive and p16-negative OPSCC. Treatment decisions should be based on shared decision-making, considering patient preferences, expected oncological and functional outcomes, and institutional experience.",
+      "objective": "",
+      "study_methods": "Nonmetastatic OPSCC patients diagnosed between 2007 and 2021, with determined p16 status and treated with curative primary surgery or primary (chemo)radiotherapy, were retrospectively reviewed. Univariate, multivariate, and propensity score matching analyses were performed to compare progression-free survival (PFS) and overall survival (OS).",
+      "methods": "Nonmetastatic OPSCC patients diagnosed between 2007 and 2021, with determined p16 status and treated with curative primary surgery or primary (chemo)radiotherapy, were retrospectively reviewed. Univariate, multivariate, and propensity score matching analyses were performed to compare progression-free survival (PFS) and overall survival (OS).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42247781/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2624,61 +2680,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41105733",
-      "title": "Is a Vomer Flap at Primary Palatoplasty Associated With the Formation of a Bony Palatal Bridge?",
-      "authors": [
-        "David Lindon Best",
-        "Merel Dap",
-        "Bonnie L Padwa"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "ObjectiveThe presence of a bony palatal bridge at the time of alveolar cleft grafting has been shown to improve bone graft outcomes. The purpose of this study was to determine if there is an association between palate repair with a vomer flap and formation of a bony palatal bridge in patients with cleft lip and palate.DesignSingle-institution, retrospective cohort study.SettingTertiary children's hospital in an urban setting.PatientsPatients with cleft lip and palate who underwent primary palatoplasty between 1996 and 2017 and had cone beam computed tomography (CBCT) prior to alveolar bone grafting.InterventionsPrimary palatoplasty with or without vomer flap.Main Outcomes Measure(s)The presence of a bony palatal bridge on pre-alveolar bone graft CBCT.ResultsOf 238 patients who underwent primary palatoplasty at a mean age of 10.0 months, 225 (94.5%) had a vomer flap. Bony palatal bridge formation was observed in 128 patients (53.8%) on pre-graft CBCT scans. Among patients with a bony palatal bridge, 121 (94.5%) had a vomer flap at primary palatoplasty. No significant association was found between use of a vomer flap and bony palatal bridge formation (p = 0.996). Secondary analyses demonstrated no significant associations with age at primary palatoplasty (p = 0.157), history of pre-surgical orthopedics (p = 0.777), syndromic status (p = 0.101), or cleft type (p = 0.408).ConclusionsThis study demonstrated that the use of a vomer flap during primary cleft palate repair was not associated with the formation of a bony palatal bridge. Further studies will focus on other factors that may contribute to the etiology of bony palatal bridge formation.",
-      "objective": "of this study was to determine if there is an association between palate repair with a vomer flap and formation of a bony palatal bridge in patients with cleft lip and palate.DesignSingle-institution, retrospective cohort study.SettingTertiary children's hospital in an urban setting.PatientsPatients with cleft lip and palate who underwent primary palatoplasty between 1996 and 2017 and had cone beam computed tomography (CBCT) prior to alveolar bone grafting.InterventionsPrimary palatoplasty with or without vomer flap.Main Outcomes Measure(s)The presence of a bony palatal bridge on pre-alveolar bone graft CBCT.ResultsOf 238 patients who underwent primary palatoplasty at a mean age of 10.0 months, 225 (94.5%) had a vomer flap. Bony palatal bridge formation was observed in 128 patients (53.8%) on pre-graft CBCT scans. Among patients with a bony palatal bridge, 121 (94.5%) had a vomer flap at primary palatoplasty. No significant association was found between use of a vomer flap and bony palatal bridge formation (p = 0.996). Secondary analyses demonstrated no significant associations with age at primary palatoplasty (p = 0.157), history of pre-surgical orthopedics (p = 0.777), syndromic status (p = 0.101), or cleft type (p = 0.408).ConclusionsThis study demonstrated that the use of a vomer flap during primary cleft palate repair was not associated with the formation of a bony palatal bridge. Further studies will focus on other factors that may contribute to the etiology of bony palatal bridge formation.",
-      "study_methods": "",
-      "methods": "",
-      "results": "Of 238 patients who underwent primary palatoplasty at a mean age of 10.0 months, 225 (94.5%) had a vomer flap. Bony palatal bridge formation was observed in 128 patients (53.8%) on pre-graft CBCT scans. Among patients with a bony palatal bridge, 121 (94.5%) had a vomer flap at primary palatoplasty. No significant association was found between use of a vomer flap and bony palatal bridge formation (p = 0.996). Secondary analyses demonstrated no significant associations with age at primary palatoplasty (p = 0.157), history of pre-surgical orthopedics (p = 0.777), syndromic status (p = 0.101), or cleft type (p = 0.408).ConclusionsThis study demonstrated that the use of a vomer flap during primary cleft palate repair was not associated with the formation of a bony palatal bridge. Further studies will focus on other factors that may contribute to the etiology of bony palatal bridge formation.",
-      "conclusion": "This study demonstrated that the use of a vomer flap during primary cleft palate repair was not associated with the formation of a bony palatal bridge. Further studies will focus on other factors that may contribute to the etiology of bony palatal bridge formation.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41105733/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41042943",
-      "title": "Global Increase in Oronasal Fistula Rates Following Cleft Palate Repair: A Systematic Review and Meta-Analysis of Reported Fistula Rates.",
-      "authors": [
-        "Isabel A Ryan",
-        "Nicholas A Han",
-        "Ashley E Chang",
-        "Alvin B Yu",
-        "Philip D Tolley",
-        "Allison C Hu",
-        "Oksana A Jackson",
-        "Scott P Bartlett",
-        "Jesse A Taylor",
-        "Jordan W Swanson"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "ObjectiveOronasal fistula (ONF) rates after primary palatoplasty may be influenced by technique improvements and care expansion. We evaluated the temporal and geospatial patterns of ONF.DesignA systematic review and meta-analysis were performed of publications between January 1960 and November 2024 that reported fistula rate following cleft palate repair.SettingN/A.PatientsPatients with cleft palate.InterventionsPrimary palatoplasty.Main Outcome Measure(s)Fistula rate.Results223 publications with 71,238 patients were included. Median fistula rates decreased from the 1960s (13.9%, n = 2) to the 2000s (4.9%, IQR: 2.9%-11.0%). Fistula rates increased significantly in the 2010s (6.7%, IQR: 2.6-14.0%), and continued to increase in the 2020s (10.7%, IQR: 5.7-20.5%, p = 0.005). Fistula rates among European nations showed the largest increase from the 2000s (4.4%, IQR: 2.0-12.5%) to the 2020s (21.1%, IQR: 12.7-49.4%, p = 0.041).ConclusionsReported fistula incidence declined from reports in the 1960s through the 2000s but has since increased.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "223 publications with 71,238 patients were included. Median fistula rates decreased from the 1960s (13.9%, n = 2) to the 2000s (4.9%, IQR: 2.9%-11.0%). Fistula rates increased significantly in the 2010s (6.7%, IQR: 2.6-14.0%), and continued to increase in the 2020s (10.7%, IQR: 5.7-20.5%, p = 0.005). Fistula rates among European nations showed the largest increase from the 2000s (4.4%, IQR: 2.0-12.5%) to the 2020s (21.1%, IQR: 12.7-49.4%, p = 0.041).ConclusionsReported fistula incidence declined from reports in the 1960s through the 2000s but has since increased.",
-      "conclusion": "Reported fistula incidence declined from reports in the 1960s through the 2000s but has since increased.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41042943/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "40966057",
       "title": "Safety and Efficacy of Liposomal Bupivacaine (Exparel",
       "authors": [
@@ -2992,54 +2993,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42472758/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42472595",
-      "title": "Comment on \"Three-dimensional cone-beam computed tomography analysis of the mandibular lingula and mandibular foramen with clinical implications for ramus osteotomy\".",
-      "authors": [
-        "Muhammed Said Aydin",
-        "Gökay Özler",
-        "Şükrü Kasap",
-        "Mustafa Nişanci"
-      ],
-      "publication_date": "2026-Jul-19",
-      "publication_date_iso": "2026-07-19",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42472595/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42472593",
-      "title": "Evaluation of an Enhanced Recovery After Surgery Protocol and Perioperative Outcomes in Orthognathic Surgery.",
-      "authors": [
-        "Aydın Onur Gerçek",
-        "Hakan Hıfzı Tüz"
-      ],
-      "publication_date": "2026-Jul-19",
-      "publication_date_iso": "2026-07-19",
-      "abstract": "Enhanced Recovery After Surgery (ERAS) pathways aim to optimise perioperative care by reducing surgical stress and improving postoperative recovery. Although ERAS protocols are widely implemented across several surgical specialties, evidence regarding their effectiveness in orthognathic surgery remains limited. This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement. The ERAS group demonstrated significantly shorter operative time (251.97 ± 88.74 vs 337.74 ± 77.26 min; p<0.001), lower intraoperative blood loss (575.33 ± 227.24 vs 848.40 ± 532.08 mL; p=0.003), reduced opioid consumption (8.83 ± 3.70 vs 11.86 ± 5.01 MME; p=0.010), fewer transfusions (6.7% vs 26.0%; p=0.040), and lower VAS scores for altered sensation (3.37 ± 1.73 vs 5.52 ± 2.61; p<0.001). No significant differences were observed in LOS or intraoperative fluid administration. Implementation of a structured ERAS protocol incorporating antioxidant supplementation was associated with improvements in several perioperative outcomes in orthognathic surgery. These findings support the clinical value of ERAS pathways and highlight the need for prospective studies to standardise protocol components for maxillofacial surgery.",
-      "objective": "to optimise perioperative care by reducing surgical stress and improving postoperative recovery. Although ERAS protocols are widely implemented across several surgical specialties, evidence regarding their effectiveness in orthognathic surgery remains limited. This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement. The ERAS group demonstrated significantly shorter operative time (251.97 ± 88.74 vs 337.74 ± 77.26 min; p<0.001), lower intraoperative blood loss (575.33 ± 227.24 vs 848.40 ± 532.08 mL; p=0.003), reduced opioid consumption (8.83 ± 3.70 vs 11.86 ± 5.01 MME; p=0.010), fewer transfusions (6.7% vs 26.0%; p=0.040), and lower VAS scores for altered sensation (3.37 ± 1.73 vs 5.52 ± 2.61; p<0.001). No significant differences were observed in LOS or intraoperative fluid administration. Implementation of a structured ERAS protocol incorporating antioxidant supplementation was associated with improvements in several perioperative outcomes in orthognathic surgery. These findings support the clinical value of ERAS pathways and highlight the need for prospective studies to standardise protocol components for maxillofacial surgery.",
-      "study_methods": "This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement.",
-      "methods": "This retrospective cohort study evaluated the association between a structured ERAS protocol and perioperative outcomes in eighty patients undergoing bimaxillary orthognathic surgery at a single institution between January 2023 and December 2024. Patients were grouped according to the perioperative care pathway applied at the time of surgery (ERAS: n=30; conventional care: n=50). Outcomes included operative time, opioid consumption (morphine milligram equivalents, MME), intraoperative blood loss, patient-reported altered sensation (VAS) at 6 months, length of hospital stay (LOS), intraoperative fluid administration, and transfusion requirement.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42472593/",
       "pmcid": "",
       "figure_urls": []
     }
