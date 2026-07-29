@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T05:21:07Z",
+  "updated_at": "2026-07-29T05:28:45Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -608,12 +608,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42256884/",
       "pmcid": "PMC13240782",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/gr2.jpg"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42160952",
@@ -1546,6 +1541,85 @@
       "figure_urls": []
     },
     {
+      "pmid": "42031575",
+      "title": "Effect of horizontal and extended platelet-rich fibrin on soft tissue healing and outcomes after impacted mandibular third molar extraction: a controlled trial.",
+      "authors": [
+        "A Haskic",
+        "N Hadziabdic",
+        "R J Miron"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Postoperative sequelae such as pain, swelling, and trismus are common following mandibular third molar surgery. This single-blind controlled trial was performed to evaluate the effects of two newer platelet-rich fibrin (PRF) formulations, horizontal PRF (H-PRF) and extended PRF (E-PRF/albumin-PRF), on soft tissue healing and postoperative complications. Sixty-seven ASA class 1 patients aged 16-30 years were assigned to the H-PRF, E-PRF, or control (natural coagulum) group, with 60 completing the study. The primary outcome was soft tissue healing, while secondary outcomes included pain, analgesic use, swelling, trismus, alveolar osteitis, and infection. The PRF formulations did not significantly improve soft tissue healing during the first postoperative week (day 3: P = 0.64; day 7: P = 0.22). On day 7, the H-PRF group showed a significantly reduced trismus when compared to the control group (P = 0.017). No significant differences were observed in terms of pain, swelling, or analgesic consumption (all P > 0.05). A significantly reduced trismus observed with H-PRF suggests potential clinical benefits; however, further studies with larger samples are needed to confirm these findings and their clinical relevance.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42031575/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41846208",
+      "title": "The impact of alcohol on fall-related maxillofacial fractures: a retrospective study.",
+      "authors": [
+        "K Virtanen",
+        "J Snäll",
+        "A Suominen",
+        "T Puolakkainen",
+        "H Thorén"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "The aim of this retrospective study was to examine the characteristics of patients sustaining maxillofacial fractures due to falls at ground level. The specific aims were to analyse the severity of the fractures and the time interval between the accident and diagnosis (delay of diagnosis) in alcohol-intoxicated vs non-intoxicated patients. A total of 1200 consecutive adult patients diagnosed with maxillofacial fractures at a tertiary trauma centre over a 7-year period were included. Outcome variables were the delay of diagnosis and severity of the fracture; the latter was determined based on a facial injury severity score (FISS). The primary predictor variable was alcohol intoxication at the time of injury (yes/no). Overall, 360 patients (30%) were identified as being intoxicated by alcohol at the time of the injury. In the adjusted model, no association was found between alcohol intoxication and the severity of the maxillofacial fractures. However, the adjusted model showed that non-intoxicated patients had 2.0 times greater odds of a delay of diagnosis ≥3 days (95% confidence interval 1.3-3.0 , P < 0.001). The high occurrence of alcohol intoxication in facial trauma patients in general emphasizes the importance of screening patients for alcohol use and intervening when appropriate.",
+      "objective": "of this retrospective study was to examine the characteristics of patients sustaining maxillofacial fractures due to falls at ground level. The specific aims were to analyse the severity of the fractures and the time interval between the accident and diagnosis (delay of diagnosis) in alcohol-intoxicated vs non-intoxicated patients. A total of 1200 consecutive adult patients diagnosed with maxillofacial fractures at a tertiary trauma centre over a 7-year period were included. Outcome variables were the delay of diagnosis and severity of the fracture; the latter was determined based on a facial injury severity score (FISS). The primary predictor variable was alcohol intoxication at the time of injury (yes/no). Overall, 360 patients (30%) were identified as being intoxicated by alcohol at the time of the injury. In the adjusted model, no association was found between alcohol intoxication and the severity of the maxillofacial fractures. However, the adjusted model showed that non-intoxicated patients had 2.0 times greater odds of a delay of diagnosis ≥3 days (95% confidence interval 1.3-3.0 , P < 0.001). The high occurrence of alcohol intoxication in facial trauma patients in general emphasizes the importance of screening patients for alcohol use and intervening when appropriate.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41846208/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41702765",
+      "title": "Do cortical and medullary bone volume, and retromolar and ramus thickness, influence the sagittal split pattern? A retrospective analysis.",
+      "authors": [
+        "G Cunha",
+        "J Husarek",
+        "M Maintz",
+        "M A C Gabrielli",
+        "F S Halbeisen",
+        "F S Salmen",
+        "N Sharma",
+        "F M Thieringer"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Sagittal split osteotomy (SSO) is a well-established technique for mandibular repositioning, although unfavourable split patterns remain a relevant intraoperative concern. This retrospective study evaluated anatomical factors influencing split morphology, including cortical and medullary bone volumes and mandibular ramus thickness. Pre- and postoperative imaging from 94 SSOs were analysed, and split patterns were classified using the adapted Plooij Lingual Split Scale (LSS). Associations were assessed with the Kruskal-Wallis test, with the Wilcoxon rank sum and Fisher's exact tests used to compare Angle malocclusion classes. Ideal splits (LSS 1) occurred in 68.1% of cases, followed by splits over the canal (LSS 3) in 22.3%, posterior ramus border splits (LSS 2) in 5.3%, and bad splits (LSS 4) in 4.3%. LSS 1 cases showed significantly greater cortical bone volume (P = 0.005) and increased ramus thickness at all measured levels (P < 0.001, P < 0.001, P = 0.0039). Angle class II patients had greater ramus thickness (P = 0.045) and lower medullary bone volume than class III patients. Greater bone volume and ramus thickness were associated with more favourable split outcomes. Further prospective studies are needed to confirm these findings.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41702765/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42473667",
       "title": "A rapid point-of-care test for vancomycin monitoring at the clinical bedside.",
       "authors": [
@@ -1576,6 +1650,60 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42473667/",
       "pmcid": "PMC13380757",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42519952",
+      "title": "Reply: Skin Graftless Dorsal Metacarpal Island VY Advancement Flap versus Dorsal Rectangular Flap with Skin Grafting in 213 Simple Syndactyly Releases.",
+      "authors": [
+        "Shaun D Mendenhall",
+        "Emily M Graham",
+        "Apurva S Shah",
+        "Benjamin Chang"
+      ],
+      "publication_date": "2026-Aug-01",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42519952/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42516003",
+      "title": "Prevalence of Peri-Implantitis Around Zirconia Implants: A Systematic Review and Meta-Analysis of Current Evidence.",
+      "authors": [
+        "Vittorio Moraschini",
+        "João Baptista de Moraes",
+        "Alice Maria de Oliveira Silva",
+        "Alexandre Marques Paes da Silva",
+        "Rafael Seabra Louro",
+        "Eduardo José Veras Lourenço",
+        "Victoria L Souza Costa",
+        "Jamil Awad Shibli"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Zirconia implants (ZIs) have emerged as a metal-free alternative to titanium implants (TIs) because of their favorable esthetic and biological properties. However, the prevalence of peri-implantitis associated with ZIs and the potential influence of implant material on peri-implant disease remain unclear. To estimate the implant-level prevalence of peri-implantitis associated with ZIs and to assess whether implant material influences peri-implantitis prevalence by comparing ZIs and TIs. Electronic searches were conducted in four databases and gray literature sources up to February 2026. Randomized clinical trials (RCTs) and cohort studies evaluating peri-implantitis associated with ZIs were included. The risk of bias was assessed using the RoB 2 and ROBINS-I tools. Random-effects meta-analyses were performed to estimate the pooled peri-implantitis prevalence at the implant level. Subgroup analyses according to follow-up duration and sensitivity analyses were additionally conducted. Nineteen studies comprising 687 patients and 995 implants were included. The mean follow-up reported across studies was approximately 49 months. In studies with follow-up ≤ 3 years, the pooled prevalence of peri-implantitis associated with ZIs was 2% (95% CI: 0%-6%; I2 = 79.3%). Studies with follow-up > 3 to 5 years demonstrated a pooled prevalence of 2% (95% CI: 0%-8%; I2 = 38.9%), whereas studies with follow-up > 5 years showed a pooled prevalence of 8% (95% CI: 0%-23%; I2 = 82.1%). Comparative analysis of five RCTs demonstrated no statistically significant difference in peri-implantitis prevalence between ZIs and TIs (RR = 1.66; 95% CI: 0.48-5.71; p = 0.42). Sensitivity analyses did not identify studies with a critical risk of bias as the primary source of heterogeneity. Current evidence suggests a low short- to mid-term implant-level prevalence of peri-implantitis around ZIs, with higher estimates observed in studies with longer follow-up. However, the certainty of evidence remains limited because of methodological heterogeneity, variability in diagnostic definitions, inconsistent patient-level reporting, and the lack of long-term comparative studies. Limited comparative evidence did not demonstrate a statistically significant difference in peri-implantitis prevalence between ZIs and TIs.",
+      "objective": "",
+      "study_methods": "Electronic searches were conducted in four databases and gray literature sources up to February 2026. Randomized clinical trials (RCTs) and cohort studies evaluating peri-implantitis associated with ZIs were included. The risk of bias was assessed using the RoB 2 and ROBINS-I tools. Random-effects meta-analyses were performed to estimate the pooled peri-implantitis prevalence at the implant level. Subgroup analyses according to follow-up duration and sensitivity analyses were additionally conducted.",
+      "methods": "Electronic searches were conducted in four databases and gray literature sources up to February 2026. Randomized clinical trials (RCTs) and cohort studies evaluating peri-implantitis associated with ZIs were included. The risk of bias was assessed using the RoB 2 and ROBINS-I tools. Random-effects meta-analyses were performed to estimate the pooled peri-implantitis prevalence at the implant level. Subgroup analyses according to follow-up duration and sensitivity analyses were additionally conducted.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42516003/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2566,90 +2694,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41472505",
-      "title": "Comparative Study of 3D-Printed and Banana Model for Suture and Biopsy Training in Dental Education: A Randomised Controlled Trial.",
-      "authors": [
-        "Flore Bertout",
-        "Agathe Louisy",
-        "Anne-Gaëlle Chaux",
-        "Emilie Hascoët",
-        "Philippe Lesclous",
-        "Alexandra Cloitre"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "To determine which model - the banana or the 3D-printed anatomical model - is most effective for teaching sutures and biopsies to third-year dental students, considering both non-technical and technical aspects. A total of 74 students participated in this two-arm parallel randomised controlled trial (RCT). Non-technical effectiveness was evaluated by assessing students' reactions to the pedagogical models after the practical work (PW), as well as by measuring their perceived competence, confidence and anxiety both before and after the training. Technical effectiveness was objectively assessed by scoring sutures and biopsies using a criteria grid. Students in the 3D-printed anatomical group were more satisfied than those in the banana group across all assessed criteria, including ease of handling, realism and suitability for clinical preparation (p < 0.0001). After the PW, both groups showed improved competence (p < 0.001) and confidence (p < 0.001), as well as reduced anxiety (p < 0.001), with no significant intergroup differences. Objective suture assessment scores were higher in the 3D-printed anatomical group than in the banana group (17.68/20 vs. 12.97/20, p < 0.0001), while for biopsies, no significant difference was demonstrated (8.60/10 vs. 8.17/10; ns). The 3D-printed anatomical model was superior to the banana model in both non-technical aspects (e.g., satisfaction) and in technical aspects for suture practicing. This superiority could be attributed in particular to the improved mechanical properties and realism. For biopsies, both models were technically equally effective, suggesting that tissue fidelity may be less critical for this procedure.",
-      "objective": "suture assessment scores were higher in the 3D-printed anatomical group than in the banana group (17.68/20 vs. 12.97/20, p < 0.0001), while for biopsies, no significant difference was demonstrated (8.60/10 vs. 8.17/10; ns). The 3D-printed anatomical model was superior to the banana model in both non-technical aspects (e.g., satisfaction) and in technical aspects for suture practicing. This superiority could be attributed in particular to the improved mechanical properties and realism. For biopsies, both models were technically equally effective, suggesting that tissue fidelity may be less critical for this procedure.",
-      "study_methods": "A total of 74 students participated in this two-arm parallel randomised controlled trial (RCT). Non-technical effectiveness was evaluated by assessing students' reactions to the pedagogical models after the practical work (PW), as well as by measuring their perceived competence, confidence and anxiety both before and after the training. Technical effectiveness was objectively assessed by scoring sutures and biopsies using a criteria grid.",
-      "methods": "A total of 74 students participated in this two-arm parallel randomised controlled trial (RCT). Non-technical effectiveness was evaluated by assessing students' reactions to the pedagogical models after the practical work (PW), as well as by measuring their perceived competence, confidence and anxiety both before and after the training. Technical effectiveness was objectively assessed by scoring sutures and biopsies using a criteria grid.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41472505/",
-      "pmcid": "PMC13383318",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41366722",
-      "title": "Who Gets to Be Read? Factors Affecting Full-Text Access Rates in Periodontology and Implantology Research.",
-      "authors": [
-        "Betina Dutra Lima",
-        "Humberto Alexander Baca Juárez",
-        "Felipe Berwaldt Islabão",
-        "Natália Marcumini Pola",
-        "Alex Nogueira Haas",
-        "Francisco Wilker Mustafa Gomes Muniz"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "This study aimed to identify the variables associated with full-text access rates in studies published in Periodontology and Implantology. A bibliometric analysis was performed by reviewing the 30 top-ranking journals in Dentistry, Oral Surgery and Medicine. Only journals with a number of text accesses were included. Independent variables analysed included publication date, first author's country, open access status, h-index, study design, and thematic focus. Multivariable Poisson regression with robust variance was used. A total of 3880 studies were included, revealing an access rate (number of views per month) of 83.68 ± 143.62. The journal's impact factor (rate ratio [RR]: 1.09; 95% confidence interval [95% CI]: 1.07-1.11) and being in the open access mode (RR: 1.78; 95% CI: 1.64-1.94) influenced the access rate. Moreover, studies from America (RR: 1.16; 95% CI: 1.02-1.31), Oceania (RR: 1.56; 95% CI: 1.23-1.98), and Europe (RR: 1.50; 95% CI: 1.33-1.69) had significantly higher access rates than those from Asia. Regarding study designs, randomised clinical trials (RCT) (RR: 1.70; 95% CI: 1.47-1.97) and literature reviews (non-systematic reviews [RR: 1.65; 95% CI: 1.27-2.14] and systematic reviews [RR: 1.78; 95% CI: 1.52-2.08]) exhibited greater access than in vitro/animal studies. Access to articles in Periodontology is significantly linked to study design (RCTs and reviews), open access availability, and higher journal impact factors.",
-      "objective": "",
-      "study_methods": "A bibliometric analysis was performed by reviewing the 30 top-ranking journals in Dentistry, Oral Surgery and Medicine. Only journals with a number of text accesses were included. Independent variables analysed included publication date, first author's country, open access status, h-index, study design, and thematic focus. Multivariable Poisson regression with robust variance was used.",
-      "methods": "A bibliometric analysis was performed by reviewing the 30 top-ranking journals in Dentistry, Oral Surgery and Medicine. Only journals with a number of text accesses were included. Independent variables analysed included publication date, first author's country, open access status, h-index, study design, and thematic focus. Multivariable Poisson regression with robust variance was used.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41366722/",
-      "pmcid": "PMC13309210",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41335106",
-      "title": "Clinical behavior of bone regeneration therapy with platelet-rich fibrin in cystic cavities: a systematic review.",
-      "authors": [
-        "Josmar C García",
-        "Henry A Guevara",
-        "Salvatore Crimi",
-        "Giuseppe Minervini",
-        "Carlos Manresa",
-        "Maria D Gonzalez",
-        "Leonardo Malavé",
-        "Marco Cicciù",
-        "Carlos F Millan-Golindano"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Cysts are common pathology in the maxillofacial area. The treatment of choice consists of enucleation, regeneration of the created defect and achieving a primary closure. The platelet rich fibrin (PRF), developed by Joseph Choukroun, has been commonly use in the area of oral regeneration, thanks to its biological properties; some literature suggests the application in cystic cavities to not only avoids the collapse of tissue but also help regeneration be achieved in a shorter time, however, changes in the nature of the cells and lack of evidence in the literature continue to be a controversial issue. To analyze the current state of clinical knowledge and the potential of the use of PRF in the regeneration therapy of cystic cavities either alone or as a co-adjuvant of other biomaterials through a systematic review of the literature. The selection of articles was carried out following the PRISMA statement for systematic reviews protocol, with selection of articles between 2006 to 2022, without discriminating in English or Spanish using a keyword algorithm \"PRF jaw cyst,\" \"Platelet rich fibrin jaw cyst,\" \"platelet rich fibrin oral cyst,\" selected articles such as case reports, series of cases and comparative clinical studies were reviewed. A total of 33 articles were included in this review where 154 cystic cavities were evaluated, mostly radicular cysts, treated with PRF alone or as coadjutant of some biomaterial where a successful regeneration was evidenced in a period of 3-6 months, without any complications presented in post-surgical controls, but the lack of histopathological information was an issue in several articles. Although PRF seems to be a good regenerative therapy in oral surgery and no evidence was found that contraindicated its use in this cases, its applications in cystic cavities still needs more evidence in articles with less bias and more evidence such as comparative studies with control groups.",
-      "objective": "",
-      "study_methods": "The selection of articles was carried out following the PRISMA statement for systematic reviews protocol, with selection of articles between 2006 to 2022, without discriminating in English or Spanish using a keyword algorithm \"PRF jaw cyst,\" \"Platelet rich fibrin jaw cyst,\" \"platelet rich fibrin oral cyst,\" selected articles such as case reports, series of cases and comparative clinical studies were reviewed.",
-      "methods": "The selection of articles was carried out following the PRISMA statement for systematic reviews protocol, with selection of articles between 2006 to 2022, without discriminating in English or Spanish using a keyword algorithm \"PRF jaw cyst,\" \"Platelet rich fibrin jaw cyst,\" \"platelet rich fibrin oral cyst,\" selected articles such as case reports, series of cases and comparative clinical studies were reviewed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41335106/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41118513",
       "title": "The Burden of Cleft Surgery a 36-Year Reflection of Surgical Management of Children With Orofacial Clefts in South Australia.",
       "authors": [
@@ -2889,87 +2933,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42487164/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42480910",
-      "title": "Skeletal Stability and Occlusal Plane Changes in Class III Orthognathic Surgery: Comparison of Clockwise and Counterclockwise Rotation.",
-      "authors": [
-        "Reza Tabrizi",
-        "Samin Ghaffari",
-        "Shervin Shafiei",
-        "Samir Aboul Hosn Centenero",
-        "Zachary S Peacock"
-      ],
-      "publication_date": "2026-Jul-21",
-      "publication_date_iso": "2026-07-21",
-      "abstract": "Occlusal plane (OP) rotation is frequently required during bimaxillary correction of skeletal Class III deformity, but its independent contribution to stability remains uncertain. This prospective cohort study included adults with skeletal Class III deformity who completed presurgical orthodontic treatment and underwent bimaxillary orthognathic surgery. Patients were classified according to the change in OP angle from preoperative imaging (T0) to imaging obtained 1-2 days postoperatively (T1) as having an increased OP angle (clockwise rotation) or a decreased OP angle (counterclockwise rotation). Cone-beam computed tomography (CBCT) was performed at T0, T1, and 24 months postoperatively (T2). CBCT-derived lateral cephalometric measurements were used to quantify OP relapse and sagittal and vertical relapse at points A and B. Eighty patients were analyzed (increased OP angle, n = 40; decreased OP angle, n = 40). Mean surgical OP change was 3.85 ± 0.89° in the increased-OP group and -3.60 ± 0.67° in the decreased-OP group. OP relapse was greater after decreased than increased OP rotation (1.10 ± 0.44° vs 0.77 ± 0.57°; P = .006). Sagittal relapse at point B was also greater in the decreased-OP group (0.70 ± 0.56 mm vs 0.30 ± 0.46 mm; P = .001), whereas maxillary relapse did not differ significantly. In the multivariable analyses, OP change was associated primarily with OP relapse, whereas linear skeletal relapse was associated mainly with the magnitude and direction of the initial jaw displacement. Most mean linear relapse values were approximately 1 mm or less, and all were below 2 mm. OP direction was associated with rotational relapse but was not a stand-alone determinant of linear skeletal relapse. Although some between-group differences were statistically significant, their absolute magnitude was small and of limited clinical importance. OP rotation should therefore be incorporated into three-dimensional planning without being overinterpreted as a predictor of clinically important instability.",
-      "objective": "",
-      "study_methods": "This prospective cohort study included adults with skeletal Class III deformity who completed presurgical orthodontic treatment and underwent bimaxillary orthognathic surgery. Patients were classified according to the change in OP angle from preoperative imaging (T0) to imaging obtained 1-2 days postoperatively (T1) as having an increased OP angle (clockwise rotation) or a decreased OP angle (counterclockwise rotation). Cone-beam computed tomography (CBCT) was performed at T0, T1, and 24 months postoperatively (T2). CBCT-derived lateral cephalometric measurements were used to quantify OP relapse and sagittal and vertical relapse at points A and B.",
-      "methods": "This prospective cohort study included adults with skeletal Class III deformity who completed presurgical orthodontic treatment and underwent bimaxillary orthognathic surgery. Patients were classified according to the change in OP angle from preoperative imaging (T0) to imaging obtained 1-2 days postoperatively (T1) as having an increased OP angle (clockwise rotation) or a decreased OP angle (counterclockwise rotation). Cone-beam computed tomography (CBCT) was performed at T0, T1, and 24 months postoperatively (T2). CBCT-derived lateral cephalometric measurements were used to quantify OP relapse and sagittal and vertical relapse at points A and B.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42480910/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42480171",
-      "title": "Interdisciplinary management of an adult skeletal Class II patient with occlusal cant, chin deviation, and impacted canines: A case report.",
-      "authors": [
-        "Naveen K Subbaiah",
-        "Satinder Pal Singh",
-        "Vinay Kumar",
-        "Raj Kumar Verma",
-        "Vidya Rattan",
-        "Phavithrasri Kannan",
-        "Sanjeev Verma"
-      ],
-      "publication_date": "2026-Jul-21",
-      "publication_date_iso": "2026-07-21",
-      "abstract": "Skeletal Class II malocclusion with facial asymmetry, occlusal cant, and multiple impacted canines presents a significant clinical challenge requiring coordinated interdisciplinary care. This report describes the management of a 20-year-old female who presented with a retruded mandible, right-sided chin deviation, soft-tissue lip cant, and a Class II Division 1 malocclusion with deep bite, increased overjet, and missing permanent canines. Radiographic evaluation revealed right condylar hypoplasia, 9% condylar asymmetry, a difficult palatal impaction of tooth 23 according to the KPG difficulty index, and mid-alveolar impactions of teeth 33 and 43. Skeletal assessment confirmed mandibular retrognathia, a hyperdivergent pattern, and a 3-mm occlusal cant. Treatment involved the extraction of over-retained deciduous canines and third molars, orthodontic alignment, and space creation, followed by surgical exposure and traction of the impacted canines. After successful eruption, pre-surgical orthodontic decompensation was performed to optimize incisor inclinations. Bimaxillary orthognathic surgery, including left maxillary impaction and asymmetric mandibular advancement, was undertaken to correct the skeletal discrepancies and facial asymmetry. Post-surgical orthodontic finishing refined occlusal relationships, and implant-supported prostheses were placed to replace missing mandibular molars. The interdisciplinary approach achieved successful canine alignment, correction of skeletal discrepancies, normalization of the occlusal plane, and improved facial symmetry. At a 36-month follow-up, the results remained stable with satisfactory function and aesthetics. This case highlights the value of coordinated orthodontic, surgical, and prosthetic care in managing complex dentofacial deformities.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "remained stable with satisfactory function and aesthetics. This case highlights the value of coordinated orthodontic, surgical, and prosthetic care in managing complex dentofacial deformities.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42480171/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42479313",
-      "title": "Digital evaluation with ABO eCRE of treatment quality and efficiency with completely customized lingual and prefabricated vestibular appliances in combined orthodontic-orthognathic therapy: a retrospective cohort study.",
-      "authors": [
-        "Franziska Alina Lang",
-        "Norbert Alexander Lang",
-        "Gwendolyn Isabella Lode",
-        "Frank Hölzle",
-        "Rogerio Bastos Craveiro",
-        "Michael Wolf"
-      ],
-      "publication_date": "2026-Jul-21",
-      "publication_date_iso": "2026-07-21",
-      "abstract": "Precise orthodontic pre-surgical decompensation is a critical prerequisite for optimal outcomes in orthognathic surgery. However, the relative effectiveness of completely customized lingual appliances (CCLAs) versus prefabricated vestibular multibracket appliances (PVMAs) remains insufficiently established. This study compared the decompensation efficiency, treatment quality, and overall clinical performance of these two appliances. The study included 60 consecutive patients who underwent orthodontic-orthognathic surgery: 30 with CCLA and 30 with PVMA. To ensure quality, the digital ABO CRE for each scanned model was evaluated using OnyxCeph3™ diagnostic software, and the efficiency of each appliance was recorded in the respective patient files. Both groups underwent the same evaluation protocol involving initial, intermediate (pre-surgery) and final casts. An additional set-up model was included for the CCLA group only. Both groups exhibited comparable baseline scores (mean difference 5.83; 95% CI 1.69 to 9.98). CCLAs demonstrated lower ABO scores than the PVMA group after the decompensation phase (mean difference - 9.23; 95% CI -13.38 to -5.09) and in the final assessment (mean difference - 9.30; 95% CI - 13.44 to -5.16). The largest differences between groups were observed for the alignment criteria in both jaws at the intermediate and final assessments, as well as for all intermaxillary criteria. Treatment efficiency particularly during the decompensation phase, was significantly improved in the CCLA group. CCLAs demonstrated superior efficiency and higher treatment quality compared with PVMAs in patients undergoing combined orthodontic-orthognathic therapy. The use of CCLAs in combination with orthognathic surgery appears to represent a high-quality treatment approach for correcting pronounced skeletal discrepancies and may serve as a reliable alternative to PVMA in appropriately selected patients.",
-      "objective": "",
-      "study_methods": "The study included 60 consecutive patients who underwent orthodontic-orthognathic surgery: 30 with CCLA and 30 with PVMA. To ensure quality, the digital ABO CRE for each scanned model was evaluated using OnyxCeph3™ diagnostic software, and the efficiency of each appliance was recorded in the respective patient files. Both groups underwent the same evaluation protocol involving initial, intermediate (pre-surgery) and final casts. An additional set-up model was included for the CCLA group only.",
-      "methods": "The study included 60 consecutive patients who underwent orthodontic-orthognathic surgery: 30 with CCLA and 30 with PVMA. To ensure quality, the digital ABO CRE for each scanned model was evaluated using OnyxCeph3™ diagnostic software, and the efficiency of each appliance was recorded in the respective patient files. Both groups underwent the same evaluation protocol involving initial, intermediate (pre-surgery) and final casts. An additional set-up model was included for the CCLA group only.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42479313/",
-      "pmcid": "PMC13388873",
       "figure_urls": []
     }
   ]
