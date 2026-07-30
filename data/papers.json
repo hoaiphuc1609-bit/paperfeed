@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T05:28:45Z",
+  "updated_at": "2026-07-30T05:14:25Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -314,6 +314,37 @@
       ]
     },
     {
+      "pmid": "42275848",
+      "title": "Orbital hybridization-mediated nanozymes reverse cellular senescence for aged bone regeneration.",
+      "authors": [
+        "Yuchen Wang",
+        "Jikang Cao",
+        "Xindi Wang",
+        "Tao Liu",
+        "Huijun Jiang",
+        "Jiandong Jiang",
+        "Yuli Wang",
+        "Hua Yuan",
+        "Shuilin Wu",
+        "Fan Wu"
+      ],
+      "publication_date": "2026-Dec",
+      "publication_date_iso": "2026-12-01",
+      "abstract": "The regeneration of aged bone is severely compromised by a deteriorating microenvironment characterized by excessive reactive oxygen species (ROS) and consequential endoplasmic reticulum stress (ERS). Herein, we report a biomimetic nanozyme engineered through synergistic p-d orbital hybridization and youthful membrane camouflage to precisely reverse this degenerative cascade. The designed Cu-Sn dual-atom core exhibits exceptional multi-enzymatic activity, scavenging superoxide anions with a 2.5-fold higher efficiency than Cu single-atom control. Mechanistic studies confirm that p-d hybridization redistributes electron density at the Sn site, lowering the energy barrier for ROS adsorption and conversion. This catalytic core is cloaked with a hybrid membrane derived from young mesenchymal stem and endothelial cells, which facilitates targeted delivery to senescent bone niches and provides intrinsic pro-regenerative signals. The composite nanozyme effectively mitigates intracellular oxidative stress and ERS in aged cells, rescuing their osteogenic and angiogenic potential. In an aged mouse model of jawbone defect, a single treatment regimen promoted robust bone regeneration, increasing the bone volume fraction (BV/TV) by 1.7-fold and significantly enhancing new bone mineralization. This work establishes a dual-principle design-orbital hybridization for catalytic amplification and youthful membrane for targeted rejuvenation-offering a versatile platform for treating a spectrum of senescence-associated diseases.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42275848/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42211773",
       "title": "Diagnostic accuracy of HPV DNA in oral gargle and rinse samples for Head and neck squamous cell carcinoma: A systematic review and meta-analysis.",
       "authors": [
@@ -608,7 +639,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42256884/",
       "pmcid": "PMC13240782",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/sc1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/gr2.jpg"
+      ]
     },
     {
       "pmid": "42160952",
@@ -1216,6 +1252,34 @@
       "figure_urls": []
     },
     {
+      "pmid": "42524730",
+      "title": "Video-Based Tool for Assessment of Airway Management With Flexible Laryngeal Mask in Clinical Practice-A Protocol for a Study Gathering Validity Evidence.",
+      "authors": [
+        "Wei Wei",
+        "Wenxian Li",
+        "Yuan Han",
+        "Michael Seltz Kristensen",
+        "Lene Russell",
+        "Lars Konge",
+        "Anders Bo Nielsen"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Flexible laryngeal mask airway (fLMA) devices are widely used in head, neck, and oral surgery, but insertion can be technically challenging, and inadequate placement may compromise ventilation. Competency-based training requires trustworthy assessment instruments with validity evidence; however, no assessment tool with solid validity evidence currently exists for fLMA airway management. This is a prospective, patient-based, rater-blinded validation study. The study will be conducted at multiple tertiary hospitals in China: the Eye & ENT Hospital of Fudan University (Shanghai), Huzhou Central Hospital (Zhejiang Province), and Luoyang Central Hospital (Henan Province). Thirty physicians (15 novices and 15 experts) will each perform fLMA airway management in two adult patients with predicted normal airways. Procedures will be video-recorded and independently assessed by two blinded raters using a structured Global Rating Scale. Validity evidence will be gathered according to Messick's framework, including content, response process, internal structure, relations to other variables, and consequences of testing. A pass/fail standard will be established using the contrasting groups' standard-setting method. The study will provide validity evidence for a video-based assessment tool for fLMA airway management in clinical practice. Reliability, discrimination between experience levels, and the consequences of pass/fail decisions will be evaluated. This study addresses an important gap in airway management education by developing and validating an assessment tool with a credible pass/fail score for fLMA management. The tool may support structured training, competency-based assessment, and mastery learning programs in airway management.",
+      "objective": "",
+      "study_methods": "This is a prospective, patient-based, rater-blinded validation study. The study will be conducted at multiple tertiary hospitals in China: the Eye & ENT Hospital of Fudan University (Shanghai), Huzhou Central Hospital (Zhejiang Province), and Luoyang Central Hospital (Henan Province). Thirty physicians (15 novices and 15 experts) will each perform fLMA airway management in two adult patients with predicted normal airways. Procedures will be video-recorded and independently assessed by two blinded raters using a structured Global Rating Scale. Validity evidence will be gathered according to Messick's framework, including content, response process, internal structure, relations to other variables, and consequences of testing. A pass/fail standard will be established using the contrasting groups' standard-setting method.",
+      "methods": "This is a prospective, patient-based, rater-blinded validation study. The study will be conducted at multiple tertiary hospitals in China: the Eye & ENT Hospital of Fudan University (Shanghai), Huzhou Central Hospital (Zhejiang Province), and Luoyang Central Hospital (Henan Province). Thirty physicians (15 novices and 15 experts) will each perform fLMA airway management in two adult patients with predicted normal airways. Procedures will be video-recorded and independently assessed by two blinded raters using a structured Global Rating Scale. Validity evidence will be gathered according to Messick's framework, including content, response process, internal structure, relations to other variables, and consequences of testing. A pass/fail standard will be established using the contrasting groups' standard-setting method.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524730/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42502286",
       "title": "Evaluations of Penumbra Reduction Using Multi-Leaf Collimator and 3D Bolus in Scanned Proton Therapy.",
       "authors": [
@@ -1432,30 +1496,6 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42385552/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42378750",
-      "title": "Re: Ensemble learning-based radiomics model for predicting radiation-induced temporal lobe injury in nasopharyngeal carcinoma.",
-      "authors": [
-        "Erkan Topkan",
-        "Efsun Somay",
-        "Ugur Selek"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42378750/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1703,7 +1743,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42516003/",
-      "pmcid": "",
+      "pmcid": "PMC13408551",
       "figure_urls": []
     },
     {
@@ -2089,6 +2129,28 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13223822/bin/gr2.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13223822/bin/gr2.gif"
       ]
+    },
+    {
+      "pmid": "42171497",
+      "title": "Image-Guided Excision of Oral Leukoplakia Using Narrow-Band Imaging Illumination and Two-Stage Local Anesthesia.",
+      "authors": [
+        "Shih-Wei Yang"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "This study evaluated the use of narrow-band imaging (NBI) to assist in achieving adequate excision of oral leukoplakia with complete removal of lesions. Use of lidocaine combined with a vasoconstrictor for local anesthesia is standard practice in surgery. However, the blanching effect that follows injection can obscure the boundary between oral leukoplakia and the surrounding normal mucosa. A two-stage local anesthesia protocol was applied: plain lidocaine was first administered for anesthesia, after which the excision margin was defined under NBI illumination using a carbon dioxide laser, followed by lidocaine with epinephrine for resection. Twenty-one patients (18 men, 3 women) with 50 lesions were treated. All surgical margins were free of residual disease. During at least 12 months of follow-up, one recurrence occurred, and no malignant transformations were observed. In conclusion, NBI-guided excision with two-stage local anesthesia avoids the blanching effect and enhances visualization, facilitates precise margin delineation, and supports complete lesion removal.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": ", NBI-guided excision with two-stage local anesthesia avoids the blanching effect and enhances visualization, facilitates precise margin delineation, and supports complete lesion removal.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42171497/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "42166883",
@@ -2598,29 +2660,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41618714",
-      "title": "Breaking the Glass Ceiling? Gender Dynamics in Turkish Dental Faculty Leadership.",
-      "authors": [
-        "Esra Balkanlıoğlu",
-        "Zeyneb Merve Ozdemir"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Despite the increasing representation of women in the dental profession, gender inequality remains in academic leadership roles. This study aimed to evaluate the gender distribution of academics and deans working in dental faculties in Türkiye. A retrospective cross-sectional analysis was conducted using publicly available data from 154 dental faculties (73 state and 81 foundation) between January and March 2025. Information was collected from 3061 academics, including their gender, academic title, specialty, and university affiliation. Gender classification was confirmed using the records of the Council of Higher Education and cross-validated using the Gender API and NamSor software. Statistical analyses were conducted using SPSS Statistics (version 23). Among participants, 62.3% were women and 37.7% were men. Notably, women outnumbered men in nearly all academic ranks, with the highest proportion observed among lecturers (76.5%). Most professors were also women (51.5%), highlighting a remarkable shift in traditional academic gender dynamics. The gender distribution varied across disciplines: women were predominant in pedodontics (80.5%) and restorative dentistry (70%), while men were predominant in oral surgery (62.5%) and implantology (83.3%). In contrast, only 25.8% of deans were women, indicating persistent underrepresentation in high-level administrative positions. Gender detection tools showed high concordance with the actual data (Cohen's κ > 0.91). Although women represent the majority of academics in Turkish dental faculties, a significant gender gap remains in the top leadership roles. Institutional policies and targeted mentorship programs are needed to promote gender equity in academic advancement and decision-making.",
-      "objective": "",
-      "study_methods": "A retrospective cross-sectional analysis was conducted using publicly available data from 154 dental faculties (73 state and 81 foundation) between January and March 2025. Information was collected from 3061 academics, including their gender, academic title, specialty, and university affiliation. Gender classification was confirmed using the records of the Council of Higher Education and cross-validated using the Gender API and NamSor software. Statistical analyses were conducted using SPSS Statistics (version 23).",
-      "methods": "A retrospective cross-sectional analysis was conducted using publicly available data from 154 dental faculties (73 state and 81 foundation) between January and March 2025. Information was collected from 3061 academics, including their gender, academic title, specialty, and university affiliation. Gender classification was confirmed using the records of the Council of Higher Education and cross-validated using the Gender API and NamSor software. Statistical analyses were conducted using SPSS Statistics (version 23).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41618714/",
-      "pmcid": "PMC13383339",
-      "figure_urls": []
-    },
-    {
       "pmid": "41582014",
       "title": "Validation of surface-based registration for genioplasty osteotomies: comparison with regional voxel-based registration.",
       "authors": [
@@ -2669,31 +2708,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41500926",
-      "title": "Surgical treatment of displaced intraarticular pediatric condyle fractures.",
-      "authors": [
-        "Aleš Vesnaver",
-        "Vojko Didanovič",
-        "Anže Birk",
-        "Tadej Dovšak"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Conservative treatment of pediatric condyle fractures remains the generally accepted norm even today. However, longterm results of conservatively treated displaced pediatric condyle fractures often display adverse effects on the affected temporomandibular joint (TMJ), and also on the growing facial skeleton. We analyzed results of surgical treatment in pediatric intraarticular condyle fractures. Children with displaced intraarticular condyle fractures were treated surgically, with open reduction and internal fixation (ORIF). The articular disc was addressed in each case. Postoperatively, patients were controlled at 1 week, 1 month, 3-6 months, and yearly thereafter. Facial symmetry, maximal mouth opening (MMO), maximal lateropulsions, lateral chin deflection, TMJ pain, condylar translation, palpable pathological phenomena, occlusion and postoperative scars were assessed clinically. Fracture healing, condylar height, shape and growth were assessed radiologically. Possible surgical complications were also noted. From 2016 through 2022, 14 children with 19 displaced intraarticular condyle fractures were treated surgically, of whom 11 children with 16 fractures enrolled in the survey. In all the fractures, the TMJ was opened, and all the fractures save one reduced and fixed. In 5 fractures (31 %), the articular disc was displaced and ruptured, and was reduced and sutured. The age range was 4-12 years (average 9.7 years). Follow up time was 2-8 years (average 5.1 years). All of the patients maintained proper occlusion and MMO. Only one patient with ORIF developed mild facial asymmetry, limited condylar translation, and limited contralateral lateropulsion of the mandible. In the patient where only exploration was performed, the condyle grew angulated (20O anteromedially) and its translation is slightly limited. In all the other patients, symmetrical growth and TMJ mobility were achieved. None of the patients presented with chewing difficulties or joint pain. There were 2 cases of postoperative facial nerve weakness, both of which completely resolved in 2 and 4 weeks. In 1 patient, the lag screw was removed after 2 months because of protrusion into the joint space. In another, a reoperation was performed 2 days after the initial surgery due to fragment malposition. No other intra- or postoperative complications were noted. Surgical treatment of displaced intraarticular pediatric condylar fractures restores skeletal and soft-tissue anatomy and thereby enables unaltered TMJ function and symmetrical growth of the condyles and the entire facial skeleton.",
-      "objective": "",
-      "study_methods": "Children with displaced intraarticular condyle fractures were treated surgically, with open reduction and internal fixation (ORIF). The articular disc was addressed in each case. Postoperatively, patients were controlled at 1 week, 1 month, 3-6 months, and yearly thereafter. Facial symmetry, maximal mouth opening (MMO), maximal lateropulsions, lateral chin deflection, TMJ pain, condylar translation, palpable pathological phenomena, occlusion and postoperative scars were assessed clinically. Fracture healing, condylar height, shape and growth were assessed radiologically. Possible surgical complications were also noted.",
-      "methods": "Children with displaced intraarticular condyle fractures were treated surgically, with open reduction and internal fixation (ORIF). The articular disc was addressed in each case. Postoperatively, patients were controlled at 1 week, 1 month, 3-6 months, and yearly thereafter. Facial symmetry, maximal mouth opening (MMO), maximal lateropulsions, lateral chin deflection, TMJ pain, condylar translation, palpable pathological phenomena, occlusion and postoperative scars were assessed clinically. Fracture healing, condylar height, shape and growth were assessed radiologically. Possible surgical complications were also noted.",
-      "results": "of conservatively treated displaced pediatric condyle fractures often display adverse effects on the affected temporomandibular joint (TMJ), and also on the growing facial skeleton. We analyzed results of surgical treatment in pediatric intraarticular condyle fractures. Children with displaced intraarticular condyle fractures were treated surgically, with open reduction and internal fixation (ORIF). The articular disc was addressed in each case. Postoperatively, patients were controlled at 1 week, 1 month, 3-6 months, and yearly thereafter. Facial symmetry, maximal mouth opening (MMO), maximal lateropulsions, lateral chin deflection, TMJ pain, condylar translation, palpable pathological phenomena, occlusion and postoperative scars were assessed clinically. Fracture healing, condylar height, shape and growth were assessed radiologically. Possible surgical complications were also noted. From 2016 through 2022, 14 children with 19 displaced intraarticular condyle fractures were treated surgically, of whom 11 children with 16 fractures enrolled in the survey. In all the fractures, the TMJ was opened, and all the fractures save one reduced and fixed. In 5 fractures (31 %), the articular disc was displaced and ruptured, and was reduced and sutured. The age range was 4-12 years (average 9.7 years). Follow up time was 2-8 years (average 5.1 years). All of the patients maintained proper occlusion and MMO. Only one patient with ORIF developed mild facial asymmetry, limited condylar translation, and limited contralateral lateropulsion of the mandible. In the patient where only exploration was performed, the condyle grew angulated (20O anteromedially) and its translation is slightly limited. In all the other patients, symmetrical growth and TMJ mobility were achieved. None of the patients presented with chewing difficulties or joint pain. There were 2 cases of postoperative facial nerve weakness, both of which completely resolved in 2 and 4 weeks. In 1 patient, the lag screw was removed after 2 months because of protrusion into the joint space. In another, a reoperation was performed 2 days after the initial surgery due to fragment malposition. No other intra- or postoperative complications were noted. Surgical treatment of displaced intraarticular pediatric condylar fractures restores skeletal and soft-tissue anatomy and thereby enables unaltered TMJ function and symmetrical growth of the condyles and the entire facial skeleton.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41500926/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41118513",
       "title": "The Burden of Cleft Surgery a 36-Year Reflection of Surgical Management of Children With Orofacial Clefts in South Australia.",
       "authors": [
@@ -2724,30 +2738,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "40966057",
-      "title": "Safety and Efficacy of Liposomal Bupivacaine (Exparel",
-      "authors": [
-        "Ryan Korlewitz",
-        "Jason D'John",
-        "Kenneth Shaheen"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Objective: To evaluate the safety and effectiveness of lipsomal bupivacaine (Exparel) in reducing opioid use and facilitating same-day discharge in pediatric patients under age six undergoing cleft lip palate surgery. Design: Retrospective chart review. Setting: Corewell Health East William Beaumont University Hospital, Royal Oak, Michigan. Patients, Participants: Nineteen pediatric patients under age six who underwent primary cleft lip or palate repair by a single reconstructive plastic surgeon between February 2023 and February 2025. Interventions: All patients received intraoperative administration of weight-based Exparel (4 mg/kg) via peripheral nerve blocks (greater or infraorbital) and direct surgical site infiltration. Main Outcome Measure(s): Same day discharge rate, postoperative opioid requirement, and 30-day adverse events including readmission or pain-related follow-up. Results: Seventeen patients (89.5%) were discharged home on the day of surgery. No patients required postoperative opioid prescriptions and no readmissions or pain-related follow-ups occurred within 30 days. There were no immediate or delayed adverse reactions attributed to Exparel. Conclusions: Lipsomal bupivacaine appears to be a safe adjunct for postoperative pain management in cleft lip and palate surgery for pediatric patients under age six. Its use was associated with high same-day discharge rates, complete avoidance of postoperative opioids, and no adverse outcomes. These findings support further prospective studies to confirm Exparel's role in enhancing recovery and minimizing opioid exposure in pediatric craniofacial surgery.",
-      "objective": "To evaluate the safety and effectiveness of lipsomal bupivacaine (Exparel) in reducing opioid use and facilitating same-day discharge in pediatric patients under age six undergoing cleft lip palate surgery. Design: Retrospective chart review. Setting: Corewell Health East William Beaumont University Hospital, Royal Oak, Michigan. Patients, Participants: Nineteen pediatric patients under age six who underwent primary cleft lip or palate repair by a single reconstructive plastic surgeon between February 2023 and February 2025. Interventions: All patients received intraoperative administration of weight-based Exparel (4 mg/kg) via peripheral nerve blocks (greater or infraorbital) and direct surgical site infiltration. Main Outcome Measure(s): Same day discharge rate, postoperative opioid requirement, and 30-day adverse events including readmission or pain-related follow-up.",
-      "study_methods": "",
-      "methods": "",
-      "results": "Seventeen patients (89.5%) were discharged home on the day of surgery. No patients required postoperative opioid prescriptions and no readmissions or pain-related follow-ups occurred within 30 days. There were no immediate or delayed adverse reactions attributed to Exparel.",
-      "conclusion": "Lipsomal bupivacaine appears to be a safe adjunct for postoperative pain management in cleft lip and palate surgery for pediatric patients under age six. Its use was associated with high same-day discharge rates, complete avoidance of postoperative opioids, and no adverse outcomes. These findings support further prospective studies to confirm Exparel's role in enhancing recovery and minimizing opioid exposure in pediatric craniofacial surgery.",
-      "limitations": "",
-      "topics": [
-        "cleft lip and palate surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40966057/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "40853340",
       "title": "Patient Reported Outcomes Pre- and Post-Surgery in Patients With Cleft Lip/Palate: An Assessment of Post-Operative Change Utilizing CLEFT-Q.",
       "authors": [
@@ -2775,6 +2765,32 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40853340/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42523115",
+      "title": "Lung Abscess Resulting From Aspiration Pneumonia Following Orthognathic Surgery With Le Fort I and Sagittal Split Ramus Osteotomies.",
+      "authors": [
+        "Kanako Otsuki",
+        "Ayako Akizuki",
+        "Arawa Kanese",
+        "Tadashi Okayasu",
+        "Koichi Kadomatsu"
+      ],
+      "publication_date": "2026-Jul-29",
+      "publication_date_iso": "2026-07-29",
+      "abstract": "Intermaxillary fixation (IMF) is commonly performed following orthognathic surgery, including Le Fort I osteotomy and sagittal split ramus osteotomy, to maintain the planned occlusion. Although perioperative pulmonary complications are rare in healthy young adults, we encountered a case of lung abscess that developed from aspiration pneumonia during the period of IMF. Here, we report the case with a review of the literature. The patient was a 22-year-old man with bilateral cleft lip and palate, presenting with class III malocclusion due to maxillary hypoplasia. Orthognathic surgery (Le Fort I osteotomy and sagittal split ramus osteotomy) was performed to improve facial appearance and occlusion. Postoperatively, he developed a fever, and his oxygen saturation decreased. On postoperative day (POD) 8, chest radiography and CT revealed pneumonia in the left lower lobe, and antibiotic therapy was initiated. Despite treatment, his condition persisted, and a repeat CT on POD 15 showed progression to a lung abscess. A string test-positive Klebsiella pneumoniae (Kp) was identified as the causative organism. Upon switching to broad-spectrum antibiotics, the inflammatory response subsided, and antibiotic treatment was completed on POD 43. Severe aspiration pneumonia is rare in young patients without underlying disease. In this case, IMF and infection with a string test-positive Kp led to abscess formation, complicating treatment. This highlights the importance of early detection and treatment of pneumonia during the period of IMF.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523115/",
       "pmcid": "",
       "figure_urls": []
     },
