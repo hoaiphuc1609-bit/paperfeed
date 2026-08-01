@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T05:41:43Z",
+  "updated_at": "2026-08-01T05:33:53Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -613,6 +613,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "42378842",
+      "title": "Adding beta-tricalcium phosphate ceramic to additive manufactured 3D porous Ti6Al4V scaffolds enhances osteogenic activity of human mesenchymal stromal cells in vitro.",
+      "authors": [
+        "David C Koper",
+        "Jiaping Li",
+        "Peter A W H Kessler",
+        "Pamela Habibovic",
+        "Lorenzo Moroni"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "Titanium is widely used in orthopedic and cranio-maxillofacial surgery because of its excellent mechanical properties and biocompatibility, but it lacks bioactivity in bone. Incorporating calcium phosphate ceramics such as β-tricalcium phosphate (TCP) can enhance osteoconductivity. Additive manufacturing methods based on powder bed fusion typically cannot produce metal-ceramic composites. This study evaluated human mesenchymal stromal cell (hMSC) responses to novel 3D porous titanium-alloy (Ti6Al4V) scaffolds fabricated by 3D fiber deposition containing up to 10 wt% TCP. Scaffolds were manufactured as Ti6Al4V alone (Ti0) or composites with 5 wt% (Ti5) or 10 wt% (Ti10) TCP, with ∼500 μm fully interconnected pores. hMSCs were cultured for up to 28 days in basic, osteogenic, or mineralization medium. Cell behavior was assessed by DNA and metabolic assays, osteogenic differentiation by ALP activity, ELISA (OCN, OPN) and RT-qPCR (RUNX-2, ALP, OCN, OPN), ECM formation by SEM, and mineralization by Alizarin Red S staining. All scaffolds supported cell attachment and metabolic activity. Early osteogenic markers were reduced in TCP-containing scaffolds, whereas late-stage markers (OCN, OPN) were upregulated in Ti10. ECM coverage was complete after 14 days. Mineralization showed an increasing trend with increasing TCP content. These 3D porous Ti6Al4V-TCP scaffolds support hMSC attachment, osteogenic differentiation, ECM formation, and mineralization in vitro, suggesting potential for regeneration of large load-bearing bone defects.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42378842/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42256884",
       "title": "An injectable tough hydrogel sealant enabling rapid hemostasis and promoting oral tissue regeneration.",
       "authors": [
@@ -821,6 +847,34 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42372578/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42341629",
+      "title": "Are patient goals discussed during treatment decision-making in patients with head and neck cancer? A qualitative content analysis of consultations.",
+      "authors": [
+        "Antje Lena Timmer",
+        "Anne N Heirman",
+        "Song L L Duimel",
+        "Sebastiaan A H J de Visscher",
+        "Michiel W M van den Brekel",
+        "Gyorgy B Halmos",
+        "Suzanne Festen"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Decision-making with patients with head and neck cancer is complex due to their vulnerability, even at a young age, and the intensity of the treatment. Discussing patient goals, values and preferences is crucial for tailoring treatment and patient-centered care, especially given the high levels of decisional conflict and regret among this patient group. This study aimed to explore whether, how, and which patient goals were discussed during treatment decision-making consultations and how surgeons responded to these goals. This study is a secondary analysis of a cross-sectional study. A qualitative content analysis was performed on transcripts from audio recordings of treatment decision-making consultations between patients and surgeons at the head and neck cancer outpatient clinic from two tertiary centers in the Netherlands. Goals or goal-related cues were identified utilizing the three-goal model by Vermunt and the health outcomes of the Outcome Prioritization Tool. Sixty-six transcripts were analyzed, corresponding to 66 patients and nine head and neck surgeons. In 11 consultations, no goals were mentioned. In the remaining 55 consultations, goals were most often mentioned by patients or their relatives, usually implicit and often due to concerns or fears. In one consultation goals were elicited by the surgeon. The most frequently mentioned goals were related to life extension, functional outcomes, or symptom-specific issues. Surgeons typically responded to goals with 'medical-technical' explanations about treatment or disease. Patient goals were not routinely discussed during decision-making with head and neck cancer patients. When mentioned, the initiative often came from the patient or their relatives. Surgeons regularly responded with a medical technical explanation, and the underlying considerations or concerns of the patient were often not further explored. This can be considered a missed opportunity to discuss patient goals and for personalized care.",
+      "objective": "",
+      "study_methods": "This study is a secondary analysis of a cross-sectional study. A qualitative content analysis was performed on transcripts from audio recordings of treatment decision-making consultations between patients and surgeons at the head and neck cancer outpatient clinic from two tertiary centers in the Netherlands. Goals or goal-related cues were identified utilizing the three-goal model by Vermunt and the health outcomes of the Outcome Prioritization Tool.",
+      "methods": "This study is a secondary analysis of a cross-sectional study. A qualitative content analysis was performed on transcripts from audio recordings of treatment decision-making consultations between patients and surgeons at the head and neck cancer outpatient clinic from two tertiary centers in the Netherlands. Goals or goal-related cues were identified utilizing the three-goal model by Vermunt and the health outcomes of the Outcome Prioritization Tool.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42341629/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1427,76 +1481,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42404299/",
       "pmcid": "PMC13330630",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42389736",
-      "title": "MRONJ risk associated with combined antiresorptive and vascular endothelial growth factor receptor tyrosine kinase inhibitors.",
-      "authors": [
-        "G Mammone",
-        "R Coropciuc",
-        "T Van den Wyngaert",
-        "R Jacobs",
-        "P Bossier",
-        "C Kerkhofs",
-        "L Wijnen",
-        "S Meerschaert",
-        "E Vissenaekens",
-        "P M Clement",
-        "O Bechter",
-        "P R Debruyne",
-        "A Laenen",
-        "B Beuselinck"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Concomitant use of vascular endothelial growth factor receptor tyrosine kinase inhibitors (VEGFR-TKIs) and bone resorption inhibitors (BRIs) may increase the risk of medication-related osteonecrosis of the jaw (MRONJ). The relative contribution of VEGFR-TKI, BRI type, and patient-related risk factors remains unclear. We retrospectively reviewed patients treated with BRIs, with or without concomitant VEGFR-TKIs. The primary endpoint was MRONJ-free survival, defined as time from BRI initiation to MRONJ diagnosis. Secondary endpoints included MRONJ incidence and skeletal-related events (SREs). Overall, 233 patients received BRI/VEGFR-TKI combination (study group) and 986 received BRI alone (control group). Median MRONJ-free survival was shorter in the study group than in controls (79 vs 202 months). However, after adjustment for smoking status, age, sex, and BRI type, concomitant VEGFR-TKI use was not independently associated with MRONJ-free survival (HR 1.3, 95% CI 0.8-2.1; p = 0.2), whereas denosumab use and active smoking remained independent predictors. VEGFR-TKI therapy was associated with earlier MRONJ occurrence among BP-treated patients (adjusted HR 3.22, 95% CI 1.08-9.56; p = 0.03), but not among denosumab-treated patients. MRONJ-incidence did not differ between BRI/VEGFR-TKI and BRI groups (14.6% vs 12.0%; p = 0.3), but BRI-exposure was shorter in the combination group. SRE occurrence was 69.5%, similar between BP- and denosumab-treated patients; however, denosumab-treated patients had longer exposure, resulting in a lower SRE rate (0.13 vs 0.39 events/month). MRONJ risk depends on BRI type and individual patient profile. VEGFR-TKIs may accelerate MRONJ onset in BP-treated patients, whereas denosumab showed higher MRONJ risk independently of VEGFR-TKI use. Treatment choices should balance MRONJ risk against skeletal disease burden.",
-      "objective": "",
-      "study_methods": "We retrospectively reviewed patients treated with BRIs, with or without concomitant VEGFR-TKIs. The primary endpoint was MRONJ-free survival, defined as time from BRI initiation to MRONJ diagnosis. Secondary endpoints included MRONJ incidence and skeletal-related events (SREs).",
-      "methods": "We retrospectively reviewed patients treated with BRIs, with or without concomitant VEGFR-TKIs. The primary endpoint was MRONJ-free survival, defined as time from BRI initiation to MRONJ diagnosis. Secondary endpoints included MRONJ incidence and skeletal-related events (SREs).",
-      "results": "ing in a lower SRE rate (0.13 vs 0.39 events/month). MRONJ risk depends on BRI type and individual patient profile. VEGFR-TKIs may accelerate MRONJ onset in BP-treated patients, whereas denosumab showed higher MRONJ risk independently of VEGFR-TKI use. Treatment choices should balance MRONJ risk against skeletal disease burden.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42389736/",
-      "pmcid": "PMC13320502",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42385552",
-      "title": "A salivary protein panel for detecting malignant transformation of oral leukoplakia.",
-      "authors": [
-        "Qiu-Yun Fu",
-        "Xin-Xin Wang",
-        "Yong Yang",
-        "Jun Zeng",
-        "Xiao-Xia Cheng",
-        "Xi Chen",
-        "Xiao-Le Wang",
-        "Qiang-Qiang Han",
-        "Shao-Xin Huang",
-        "Li-Yun Yao",
-        "Xue-Peng Xiong",
-        "Jun Shang",
-        "Qing He",
-        "Gang Chen"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Oral leukoplakia (OLK) is the most common oral potentially malignant disorder and carries a lifetime risk of transformation to oral squamous cell carcinoma (OSCC) of 0.1% to 9.8%. The aim of the current study is to explore salivary proteomics as a non-invasive approach for detecting the malignant transformation from OLK to OLK-associated OSCC (OLK-OSCC). We performed mass spectrometry-based proteomic profiling of saliva from 131 patients (48 OLK and 83 OLK-OSCC patients) and integrated the resulting data with machine learning. Salivary protein diversity was significantly increased in OLK-OSCC patients, and differential expression analysis identified 100 upregulated and 36 downregulated salivary proteins of OLK-OSCC compared with OLK. Using XGBoost and LASSO regression, we developed a nomogram based on a five-protein panel (MMP1, SUMO4, SMS, TMBIM1, and MUC5AC), which achieved high discriminatory performance in the training cohort (AUC = 0.94). The biological relevance of this panel was further supported by single-cell RNA sequencing data, a 4-nitroquinoline 1-oxide-induced murine carcinogenesis model (n = 18), and an independent OSCC tissue cohort (n = 39). Functional correlation analyses suggested that these biomarkers may be associated with an immunosuppressive tumor microenvironment by modulating the infiltration pattern of immune cells. Collectively, these findings characterize the salivary proteomic changes associated with OLK-OSCC and identify a five-protein salivary panel with potential value for OLK surveillance and early detection of malignant transformation.",
-      "objective": "of the current study is to explore salivary proteomics as a non-invasive approach for detecting the malignant transformation from OLK to OLK-associated OSCC (OLK-OSCC). We performed mass spectrometry-based proteomic profiling of saliva from 131 patients (48 OLK and 83 OLK-OSCC patients) and integrated the resulting data with machine learning. Salivary protein diversity was significantly increased in OLK-OSCC patients, and differential expression analysis identified 100 upregulated and 36 downregulated salivary proteins of OLK-OSCC compared with OLK. Using XGBoost and LASSO regression, we developed a nomogram based on a five-protein panel (MMP1, SUMO4, SMS, TMBIM1, and MUC5AC), which achieved high discriminatory performance in the training cohort (AUC = 0.94). The biological relevance of this panel was further supported by single-cell RNA sequencing data, a 4-nitroquinoline 1-oxide-induced murine carcinogenesis model (n = 18), and an independent OSCC tissue cohort (n = 39). Functional correlation analyses suggested that these biomarkers may be associated with an immunosuppressive tumor microenvironment by modulating the infiltration pattern of immune cells. Collectively, these findings characterize the salivary proteomic changes associated with OLK-OSCC and identify a five-protein salivary panel with potential value for OLK surveillance and early detection of malignant transformation.",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing data with machine learning. Salivary protein diversity was significantly increased in OLK-OSCC patients, and differential expression analysis identified 100 upregulated and 36 downregulated salivary proteins of OLK-OSCC compared with OLK. Using XGBoost and LASSO regression, we developed a nomogram based on a five-protein panel (MMP1, SUMO4, SMS, TMBIM1, and MUC5AC), which achieved high discriminatory performance in the training cohort (AUC = 0.94). The biological relevance of this panel was further supported by single-cell RNA sequencing data, a 4-nitroquinoline 1-oxide-induced murine carcinogenesis model (n = 18), and an independent OSCC tissue cohort (n = 39). Functional correlation analyses suggested that these biomarkers may be associated with an immunosuppressive tumor microenvironment by modulating the infiltration pattern of immune cells. Collectively, these findings characterize the salivary proteomic changes associated with OLK-OSCC and identify a five-protein salivary panel with potential value for OLK surveillance and early detection of malignant transformation.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42385552/",
-      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2848,6 +2832,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "42535967",
+      "title": "Clear Aligners and Patient-Specific Plates in Orthognathic Surgery for a Periodontally Compromised Patient.",
+      "authors": [
+        "Sergio Olate",
+        "Claudio Huentequeo",
+        "Víctor Ravelo",
+        "Alejandro Unibazo",
+        "Gonzalo Muñoz"
+      ],
+      "publication_date": "2026-Jul-31",
+      "publication_date_iso": "2026-07-31",
+      "abstract": "Orthognathic surgery in patients with severe dental and periodontal compromise represents a significant clinical challenge, particularly in the presence of a history of prolonged compensatory orthodontics and suboptimal initial diagnosis. This report presents the case of a patient with a class III dentofacial deformity, 3-dimensional maxillary deficiency, mandibular prognathism, multiple tooth loss, and advanced periodontal disease. Management included periodontal therapy, initial dental rehabilitation, and the use of clear aligners as an orthodontic alternative, given the limited potential for conventional decompensation. An early orthognathic surgery approach was selected after a short aligner phase, with the aim of correcting the skeletal discrepancy and facilitating subsequent dental movements. The surgical procedure was performed using fully customized osteosynthesis systems in the maxilla, mandible, and chin, along with specific surgical guides, allowing precise execution without the need for intermediate or final splints. Surgery was completed without complications, and postoperative evaluation demonstrated skeletal stability and absence of dental or periodontal deterioration. This case demonstrates that the combination of aligners and patient-specific plates represents an effective and predictable strategy for the management of complex dentofacial deformities, particularly in scenarios with biological limitations, optimizing functional outcomes and reducing risks associated with prolonged conventional treatments.",
+      "objective": "of correcting the skeletal discrepancy and facilitating subsequent dental movements. The surgical procedure was performed using fully customized osteosynthesis systems in the maxilla, mandible, and chin, along with specific surgical guides, allowing precise execution without the need for intermediate or final splints. Surgery was completed without complications, and postoperative evaluation demonstrated skeletal stability and absence of dental or periodontal deterioration. This case demonstrates that the combination of aligners and patient-specific plates represents an effective and predictable strategy for the management of complex dentofacial deformities, particularly in scenarios with biological limitations, optimizing functional outcomes and reducing risks associated with prolonged conventional treatments.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42535967/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42532531",
       "title": "[A retrospective study of pedicled flaps for repair of oral mucosal defects in patients with medication-related osteonecrosis of the jaw].",
       "authors": [
@@ -3002,63 +3012,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42502006/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42498077",
-      "title": "Dynamic regulation of fibroblast heterogeneity in regeneration repair and bone diseases.",
-      "authors": [
-        "Shuyi Xing",
-        "Jun Wang",
-        "Jingzhen Mo",
-        "Feng He",
-        "Ping Liu",
-        "Yu Zhang",
-        "Yiming Wang",
-        "Yang Xue",
-        "Jianfei Yan"
-      ],
-      "publication_date": "2026-Jul-24",
-      "publication_date_iso": "2026-07-24",
-      "abstract": "Bone healing is a complex, systems-level process traditionally viewed through the lens of mesenchymal stromal cells (MSCs) and osteoblast-lineage cells. However, recent evidence suggests that fibroblasts represent a substantial fraction of lesion cellularity, far exceeding MSCs. These cells are no longer considered passive \"fillers\" but are recognized as active niche organizers that implement the information architecture of repair, including matrix topology and cytokine gradients. This review aims to synthesize recent findings on fibroblast heterogeneity in the context of skeletal repair. It addresses the inconsistent terminology surrounding \"fibroblasts\" and \"MSCs\" and emphasizes a three-dimensional coordinate system-cell type, anatomical niche, and repair stage-to understand their functional diversity. The review specifically focuses on periosteal and marrow fibroblasts as archetypal reservoirs for controllable niche organization. The review explores three major regulatory pillars: signaling pathways, metabolic reprogramming, and intercellular communication. Key signaling networks such as Wnt/β-catenin, BMP, and Hedgehog are integrated with mechanotransduction (YAP/TAZ) to steer fibroblast trajectories toward either regeneration or fibrosis. Metabolism acts as a \"gate,\" where a switch from glycolysis to oxidative phosphorylation (OXPHOS) is required for successful osteogenic commitment. Finally, the review details how fibroblasts coordinate repair through an intercellular network involving extracellular vesicles, gap junctions, and paracrine gradients, synchronizing responses across different anatomical niches.",
-      "objective": "to synthesize recent findings on fibroblast heterogeneity in the context of skeletal repair. It addresses the inconsistent terminology surrounding \"fibroblasts\" and \"MSCs\" and emphasizes a three-dimensional coordinate system-cell type, anatomical niche, and repair stage-to understand their functional diversity. The review specifically focuses on periosteal and marrow fibroblasts as archetypal reservoirs for controllable niche organization. The review explores three major regulatory pillars: signaling pathways, metabolic reprogramming, and intercellular communication. Key signaling networks such as Wnt/β-catenin, BMP, and Hedgehog are integrated with mechanotransduction (YAP/TAZ) to steer fibroblast trajectories toward either regeneration or fibrosis. Metabolism acts as a \"gate,\" where a switch from glycolysis to oxidative phosphorylation (OXPHOS) is required for successful osteogenic commitment. Finally, the review details how fibroblasts coordinate repair through an intercellular network involving extracellular vesicles, gap junctions, and paracrine gradients, synchronizing responses across different anatomical niches.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42498077/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42495976",
-      "title": "Surgical Removal of a Foreign Body Located From the Orbit to the Pterygomandibular Space.",
-      "authors": [
-        "Xuda Zhao",
-        "Chao Ding",
-        "Zhexin Chai",
-        "Lu Xu",
-        "Jinyi Huang",
-        "Chenliang Xiao"
-      ],
-      "publication_date": "2026-Jul-24",
-      "publication_date_iso": "2026-07-24",
-      "abstract": "This case report describes an elderly female who developed blurred vision and limited mouth opening 15 days after sustaining facial trauma. Computed tomography revealed a rare tubular foreign body extending from the right orbit to the pterygomandibular space, positioned in immediate proximity to major vascular structures with associated infection. Utilizing digital surgical technology, the surgical team meticulously planned a dual-incision approach through a right subpalpebral and transparotid route. Innovatively leveraging the hollow nature of the foreign body, a medical guide wire was introduced from the infraorbital approach and threaded through its lumen until it exited through the transparotid incision. A multiorifice silicone drainage tube was then secured to the wire and, through retrograde traction, both the tube and the foreign body were retrieved en bloc. The silicone tube was subsequently maintained within the original sinus tract to establish dependent drainage. The patient recovered well, with resolved infection, and was discharged following suture removal. This case demonstrates that for deep, complex foreign bodies with prolonged retention, associated infection, and proximity to vital neurovascular structures, preoperative planning based on high-precision 3D CT reconstruction and ingenious surgical design enables minimally invasive, complete removal, effective infection control, and efficient drainage.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42495976/",
       "pmcid": "",
       "figure_urls": []
     }
