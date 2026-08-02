@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T05:33:53Z",
+  "updated_at": "2026-08-02T05:33:56Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -123,6 +123,40 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
       ]
+    },
+    {
+      "pmid": "42540374",
+      "title": "Perivascular administration of metformin through 3D minichannels improved adventitia ingrowth and endothelialization for electrospinning vascular grafts.",
+      "authors": [
+        "Yidong Hu",
+        "Zheqian Zhang",
+        "Pingping Yuan",
+        "Gaoyue Yang",
+        "Yuxin Lu",
+        "Xinchi Zhang",
+        "Xiaopeng Wu",
+        "Yajing Zhao",
+        "Pengyu Wang",
+        "Yujiao Wang",
+        "Ning Leng",
+        "Wenyu Zhan",
+        "Wei Wu"
+      ],
+      "publication_date": "2026-Dec",
+      "publication_date_iso": "2026-12-01",
+      "abstract": "Achieving rapid endothelialization to maintain the patency of small-diameter vascular grafts remains a significant clinical challenge. Conventional surface modification strategies provide limited biochemical signals for recruiting circulating endothelial cells and fail to mitigate perivascular scarring and fibrosis. Emerging evidence underscores the critical role of regenerated adventitia in facilitating fallout endothelialization. Based on this rationale, we hypothesized that pharmacological administration around vascular grafts could promote rapid adventitia ingrowth and accelerate fallout endothelialization, therefore fabricated three-dimensional minichannel-wrapped vascular grafts loaded with collagen-lyophilized metformin sponges (DMwVGs), which facilitated sustained release of metformin (15.5% release at 72 h, sustained over 21 days) and promoted robust adventitia ingrowth. The patency rate of DMwVGs reached 83% (15/18 overall) in a rabbit carotid artery model at two weeks, significantly outperforming metformin-loaded electrospinning-only grafts (33%, 2/6). The DMwVGs facilitated the transmural growth of vascularized neo-adventitia, driving efficient fallout endothelialization. Integrated multi-omics assays revealed that DMwVGs promoted adventitia angiogenesis via activation of the MAPK pathway (2.4-fold increase) and inhibition of the NF-κB/TNF-α pathway (62% reduction). This study represents an innovative shift from passive luminal coatings to active perivascular regenerative therapy, offering a promising platform for engineering durable small-diameter vascular grafts.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42540374/",
+      "pmcid": "PMC13425663",
+      "figure_urls": []
     },
     {
       "pmid": "42436952",
@@ -1445,45 +1479,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42404299",
-      "title": "Exploration of the radiation dose-toxicity relationship for multiple ophthalmological organs at risk for pediatric patients assessed in long-term head and neck rhabdomyosarcoma survivors.",
-      "authors": [
-        "Michèle Morfouace",
-        "Marinka Hol",
-        "Reineke Schoot",
-        "Natalia Arruti",
-        "Jan Wiersma",
-        "Mark Gaze",
-        "Henry Mandeville",
-        "Olga Slater",
-        "Eric Sandler",
-        "Raquel Dávila-Fajardo",
-        "Julie Bradley",
-        "Bradley Pieters",
-        "Matumba Kayembe",
-        "Johannes Merks",
-        "Ludwig Smeele",
-        "Peerooz Saeed",
-        "Arjan Bel",
-        "Daniel Indelicato"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Ophthalmological adverse events (OAE) are prevalent after local treatment for pediatric head and neck rhabdomyosarcoma (HNRMS). We examine the relation between radiation dose to multiple ophthalmological organs at risk (OAR) and associated clinical OAE in HNRMS survivors. Clinical data on OAE were systematically assessed in an international cross-sectional cohort study including survivors of primary pediatric HNRMS with ≥ 2 years follow-up. Included survivors were treated with either external beam radiation therapy with photons (XRT) or protons (PBT), or with brachytherapy (BT). BT was always delivered in conjunction with surgery (AMORE strategy), whereas XRT and PBT were sometimes combined with surgery. Dosimetric data were collected from the original radiotherapy treatment plans. OAR were delineated on the 3D radiotherapy planning CT. Radiation dose was recalculated into the equivalent dose in 2 Gy fractions (GyEQD2). A total of 74 eyes in 38 survivors were assessed. Median follow-up time was 9 years. Following mean doses > 40, >10, and > 6 GyEQD2 to the orbit, lacrimal gland, and lens, respectively, survivors had a > 20% probability of globe displacement, dry eyes, or cataract (any grade) at follow-up. Retinopathy and optic neuropathy only occurred following maximum doses of > 40 and > 53 GyEQD2 to the retina and optic nerve, respectively. We offer the first description of specific dose-toxicity relationship for multiple OAR in children, based on clinically assessed OAE in long-term survivors. These results can help to quantify and inform physicians and future patients about expected probability of clinical toxicity and help to avoid OAE occurrence for future patients.",
-      "objective": "",
-      "study_methods": "Clinical data on OAE were systematically assessed in an international cross-sectional cohort study including survivors of primary pediatric HNRMS with ≥ 2 years follow-up. Included survivors were treated with either external beam radiation therapy with photons (XRT) or protons (PBT), or with brachytherapy (BT). BT was always delivered in conjunction with surgery (AMORE strategy), whereas XRT and PBT were sometimes combined with surgery. Dosimetric data were collected from the original radiotherapy treatment plans. OAR were delineated on the 3D radiotherapy planning CT. Radiation dose was recalculated into the equivalent dose in 2 Gy fractions (GyEQD2).",
-      "methods": "Clinical data on OAE were systematically assessed in an international cross-sectional cohort study including survivors of primary pediatric HNRMS with ≥ 2 years follow-up. Included survivors were treated with either external beam radiation therapy with photons (XRT) or protons (PBT), or with brachytherapy (BT). BT was always delivered in conjunction with surgery (AMORE strategy), whereas XRT and PBT were sometimes combined with surgery. Dosimetric data were collected from the original radiotherapy treatment plans. OAR were delineated on the 3D radiotherapy planning CT. Radiation dose was recalculated into the equivalent dose in 2 Gy fractions (GyEQD2).",
-      "results": "can help to quantify and inform physicians and future patients about expected probability of clinical toxicity and help to avoid OAE occurrence for future patients.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42404299/",
-      "pmcid": "PMC13330630",
-      "figure_urls": []
-    },
-    {
       "pmid": "42311958",
       "title": "Angioedema Presenting as Infant-Onset Primary Lymphedema.",
       "authors": [
@@ -1674,6 +1669,30 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42473667/",
       "pmcid": "PMC13380757",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42541585",
+      "title": "Accuracy and stability of virtual surgical planning for maxillary advancement in patients with cleft lip and palate: a systematic review and meta-analysis.",
+      "authors": [
+        "Alfan Maulana Erdiansyah",
+        "Yossy Yoanita Ariestiana",
+        "Andi Tajrin"
+      ],
+      "publication_date": "2026-Aug-01",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Cleft lip and palate (CLP) frequently cause maxillary hypoplasia, requiring surgical advancement, and virtual surgical planning (VSP) is increasingly used to improve accuracy. This systematic review and meta-analysis synthesized the evidence on VSP-assisted maxillary advancement in patients with CLP, with surgical accuracy as the primary outcome and skeletal stability, intraoperative efficiency, complications, patient-reported outcomes, and software utility as the secondary outcomes. This review followed the PRISMA 2020 statement and was prospectively registered (PROSPERO CRD420251011475). PubMed, Scopus, Web of Science, Embase, and ScienceDirect were searched. Methodological quality and certainty of evidence were assessed. Conventional osteotomy and distraction osteogenesis were analyzed separately; an exploratory random-effects meta-analysis was performed only for the homogeneous conventional Le Fort I osteotomy subset. Twelve studies were included. VSP achieved clinically acceptable accuracy, with mean linear deviations of 0.05-2.75 mm and most angular deviations below 4°. In the conventional Le Fort I subset, random-effects pooling with Hartung-Knapp adjustment gave mean absolute deviations of 0.65 mm mediolaterally (95% CI 0.58-0.73) and 1.10 mm superoinferiorly (0.49-1.71), both highly consistent (I2 = 0%). Anteroposterior deviation was not pooled owing to substantial heterogeneity (I2 = 88%) and ranged from 1.03 to 2.75 mm across studies. Where reported, relapse was generally 1-2 mm but heterogeneous. Current evidence supports the accuracy and feasibility of VSP-assisted maxillary advancement in patients with CLP; however, it is insufficient to prove reduced relapse or superiority over conventional planning. Because certainty is low to very low, VSP should be regarded as a promising adjunct rather than a proven standard of care; adequately powered prospective comparative studies with standardized outcomes are needed.",
+      "objective": "",
+      "study_methods": "This review followed the PRISMA 2020 statement and was prospectively registered (PROSPERO CRD420251011475). PubMed, Scopus, Web of Science, Embase, and ScienceDirect were searched. Methodological quality and certainty of evidence were assessed. Conventional osteotomy and distraction osteogenesis were analyzed separately; an exploratory random-effects meta-analysis was performed only for the homogeneous conventional Le Fort I osteotomy subset.",
+      "methods": "This review followed the PRISMA 2020 statement and was prospectively registered (PROSPERO CRD420251011475). PubMed, Scopus, Web of Science, Embase, and ScienceDirect were searched. Methodological quality and certainty of evidence were assessed. Conventional osteotomy and distraction osteogenesis were analyzed separately; an exploratory random-effects meta-analysis was performed only for the homogeneous conventional Le Fort I osteotomy subset.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42541585/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2452,6 +2471,31 @@
       ]
     },
     {
+      "pmid": "41962913",
+      "title": "Quantifying 3-Dimensional Soft-to-Hard Tissue Response After Class III Orthognathic Surgery: A Hybrid Cone-Beam Computed Tomography-Stereophotogrammetric Analysis.",
+      "authors": [
+        "Alaz Enez",
+        "Nur Altıparmak",
+        "Berat Serdar Akdeniz",
+        "Sıdıka Sinem Akdeniz"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Accurate prediction of postoperative soft tissue behavior remains a critical challenge in Class III orthognathic surgery. However, existing estimates of soft-to-hard tissue correspondence are largely derived from 2-dimensional analyses or single-modality imaging, limiting their ability to characterize region-specific soft tissue responses after bimaxillary correction. The purpose of the study was to quantify region-specific soft tissue responses to skeletal repositioning following bimaxillary surgery via a hybrid cone-beam computed tomography -3-dimensional stereophotogrammetry approach. This retrospective cohort study was conducted at the Department of Oral and Maxillofacial Surgery, Başkent University, between 2020 and 2023. Adult patients with skeletal Class III deformities, who underwent orthognathic surgery, had complete preoperative-postoperative cone-beam computed tomography and 3-dimensional facial scans were included. Patients with prior craniofacial surgery, syndromic conditions, or insufficient follow-up were excluded. The magnitude and direction of skeletal displacement at standardized landmarks following bimaxillary correction served as the primary predictor. Primary outcome variables were postoperative soft and hard tissue displacement and soft-to-hard tissue correspondence ratios in the vertical (FH) and sagittal (VP) dimensions for the midface, perioral, and chin regions. No additional covariates were modeled. Age, sex, and surgical movement magnitudes were recorded to characterize the sample. Statistical analyses included paired t tests or Wilcoxon signed-rank tests, with P values adjusted for multiple comparisons using the false discovery rate (FDR) approach, alongside effect size estimation (Cohen's d) and intraobserver reliability assessment. The study included 20 patients [8 (40%) females; mean age 21.9 ± 2.7 years], with a median follow-up of 8 months (interquartile range, 6 to 9 months). In the chin region, sagittal soft tissue landmarks demonstrated high correspondence with underlying skeletal movements, particularly at pogonion (≈95%). In the sagittal dimension, maxillary advancement was associated with a statistically significant anterior displacement of the subnasale (mean + 2.0 mm; p_FDR = 0.040; d = 0.66) and the upper lip (2.3 mm; p_FDR≈ 0.05; d = 0.61), corresponding to 45 and 73% of skeletal movement at A-point, respectively. Mandibular setback resulted in a significant posterior displacement of B-point (-2.4 mm; p_FDR< 0.05; d = -0.55). All the significant measurements demonstrated good to excellent reliability (intraclass correlation coefficient≈ 0.75 to 0.95). Soft tissue responses to skeletal repositioning following Class III bimaxillary surgery varied by anatomic region. Sagittal skeletal movements were more consistently reflected in the chin and perioral soft tissues, whereas nasal soft tissues demonstrated attenuated and variable responses.",
+      "objective": "of the study was to quantify region-specific soft tissue responses to skeletal repositioning following bimaxillary surgery via a hybrid cone-beam computed tomography -3-dimensional stereophotogrammetry approach. This retrospective cohort study was conducted at the Department of Oral and Maxillofacial Surgery, Başkent University, between 2020 and 2023. Adult patients with skeletal Class III deformities, who underwent orthognathic surgery, had complete preoperative-postoperative cone-beam computed tomography and 3-dimensional facial scans were included. Patients with prior craniofacial surgery, syndromic conditions, or insufficient follow-up were excluded. The magnitude and direction of skeletal displacement at standardized landmarks following bimaxillary correction served as the primary predictor. Primary outcome variables were postoperative soft and hard tissue displacement and soft-to-hard tissue correspondence ratios in the vertical (FH) and sagittal (VP) dimensions for the midface, perioral, and chin regions. No additional covariates were modeled. Age, sex, and surgical movement magnitudes were recorded to characterize the sample. Statistical analyses included paired t tests or Wilcoxon signed-rank tests, with P values adjusted for multiple comparisons using the false discovery rate (FDR) approach, alongside effect size estimation (Cohen's d) and intraobserver reliability assessment. The study included 20 patients [8 (40%) females; mean age 21.9 ± 2.7 years], with a median follow-up of 8 months (interquartile range, 6 to 9 months). In the chin region, sagittal soft tissue landmarks demonstrated high correspondence with underlying skeletal movements, particularly at pogonion (≈95%). In the sagittal dimension, maxillary advancement was associated with a statistically significant anterior displacement of the subnasale (mean + 2.0 mm; p_FDR = 0.040; d = 0.66) and the upper lip (2.3 mm; p_FDR≈ 0.05; d = 0.61), corresponding to 45 and 73% of skeletal movement at A-point, respectively. Mandibular setback resulted in a significant posterior displacement of B-point (-2.4 mm; p_FDR< 0.05; d = -0.55). All the significant measurements demonstrated good to excellent reliability (intraclass correlation coefficient≈ 0.75 to 0.95). Soft tissue responses to skeletal repositioning following Class III bimaxillary surgery varied by anatomic region. Sagittal skeletal movements were more consistently reflected in the chin and perioral soft tissues, whereas nasal soft tissues demonstrated attenuated and variable responses.",
+      "study_methods": "",
+      "methods": "",
+      "results": "ed in a significant posterior displacement of B-point (-2.4 mm; p_FDR< 0.05; d = -0.55). All the significant measurements demonstrated good to excellent reliability (intraclass correlation coefficient≈ 0.75 to 0.95). Soft tissue responses to skeletal repositioning following Class III bimaxillary surgery varied by anatomic region. Sagittal skeletal movements were more consistently reflected in the chin and perioral soft tissues, whereas nasal soft tissues demonstrated attenuated and variable responses.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41962913/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41945068",
       "title": "Biofilm formation on cpTi, Ti-6Al-4V and PEKK abutment surfaces: An in vitro study.",
       "authors": [
@@ -2501,6 +2545,34 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41941653/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41936387",
+      "title": "Area Deprivation Index and Social Determinants of Health: Association With Loss to Follow-Up After Facial Trauma Surgery.",
+      "authors": [
+        "Matthew Ryan",
+        "Syed Abdul-Wasay",
+        "Nicholas Wilken",
+        "Darien Weatherspoon",
+        "Gary Warburton",
+        "John Caccamese",
+        "Cameron Lee"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Postoperative loss to follow-up in facial trauma patients is a persistent challenge potentially linked to adverse outcomes. However, factors associated with loss to follow-up remain poorly characterized. The purpose of this study was to measure the association between socioeconomic deprivation, as defined by the Area Deprivation Index (ADI), and postoperative loss to follow-up within 90 days of discharge after operative management of facial trauma. This was a retrospective cohort study of all adults undergoing operative treatment for facial injuries at the University of Maryland Shock Trauma Center from 2021 to 2024. Patients who died within 90 days of discharge were excluded. The predictor was neighborhood socioeconomic deprivation measured using ADI national percentile rankings, categorized into quartiles. The primary outcome was loss to follow-up, defined as failure to attend any postoperative clinic visit within 90 days of discharge. Covariates included demographic (race, distance to hospital), social (marital status, employment), and clinical characteristics (etiology, concomitant injuries). Descriptive and bivariate analyses evaluated associations between ADI and loss to follow-up. Multivariable logistic regression assessed factors independently associated with loss to follow-up. A total of 881 subjects were included, of which 663 (75.3%) attended follow-up and 218 (24.7%) did not. The cohort had a mean age of 40.8 ± 17.1 years, was 80% male (n = 704), and 47% White (n = 410). In bivariate analysis, higher ADI was associated with loss to follow-up, with subjects in the third (relative risk: 2.14; 95% CI: 1.31 to 3.50) and fourth quartiles (relative risk: 2.21; 95% CI: 1.31 to 3.73) having greater likelihood of missed follow-up compared to those in the first quartile. In adjusted analysis, ADI in the third (OR: 2.13; 95% CI: 1.13 to 4.03) or fourth quartile (odds ratio: 2.21; 95% CI: 1.09 to 4.45) remained independently associated with loss to follow-up. Emergency department utilization occurred in 59 subjects (6.70%); one-quarter received all postoperative care in the emergency department. Neighborhood socioeconomic deprivation is independently associated with loss to follow-up after facial trauma surgery. Targeted interventions addressing structural barriers may improve continuity of care and reduce avoidable health care utilization in this demographic.",
+      "objective": "of this study was to measure the association between socioeconomic deprivation, as defined by the Area Deprivation Index (ADI), and postoperative loss to follow-up within 90 days of discharge after operative management of facial trauma. This was a retrospective cohort study of all adults undergoing operative treatment for facial injuries at the University of Maryland Shock Trauma Center from 2021 to 2024. Patients who died within 90 days of discharge were excluded. The predictor was neighborhood socioeconomic deprivation measured using ADI national percentile rankings, categorized into quartiles. The primary outcome was loss to follow-up, defined as failure to attend any postoperative clinic visit within 90 days of discharge. Covariates included demographic (race, distance to hospital), social (marital status, employment), and clinical characteristics (etiology, concomitant injuries). Descriptive and bivariate analyses evaluated associations between ADI and loss to follow-up. Multivariable logistic regression assessed factors independently associated with loss to follow-up. A total of 881 subjects were included, of which 663 (75.3%) attended follow-up and 218 (24.7%) did not. The cohort had a mean age of 40.8 ± 17.1 years, was 80% male (n = 704), and 47% White (n = 410). In bivariate analysis, higher ADI was associated with loss to follow-up, with subjects in the third (relative risk: 2.14; 95% CI: 1.31 to 3.50) and fourth quartiles (relative risk: 2.21; 95% CI: 1.31 to 3.73) having greater likelihood of missed follow-up compared to those in the first quartile. In adjusted analysis, ADI in the third (OR: 2.13; 95% CI: 1.13 to 4.03) or fourth quartile (odds ratio: 2.21; 95% CI: 1.09 to 4.45) remained independently associated with loss to follow-up. Emergency department utilization occurred in 59 subjects (6.70%); one-quarter received all postoperative care in the emergency department. Neighborhood socioeconomic deprivation is independently associated with loss to follow-up after facial trauma surgery. Targeted interventions addressing structural barriers may improve continuity of care and reduce avoidable health care utilization in this demographic.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41936387/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2559,6 +2631,32 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41934075/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41903935",
+      "title": "Is Same-Day Discharge Safe Following Orthognathic Surgery?",
+      "authors": [
+        "Ahmad M AlAli",
+        "Jesse A Ibáñez",
+        "Amal Idrissi Janati",
+        "José A Correa",
+        "Jordan Gigliotti"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Outpatient orthognathic surgery has garnered increasing interest amid rising health care costs and the growing adoption of enhanced recovery after surgery protocols. However, the safety of same-day discharge remains unclear. The purpose of this study was to compare postoperative outcomes between patients discharged the same day (day surgery [DS]) and those admitted overnight (same-day admission [SDA]) following orthognathic surgery. A retrospective cohort study was conducted at McGill University Health Centre, reviewing orthognathic surgeries performed between July 2019 and December 2023. Patients with isolated genioplasty, combined total joint replacement or distraction osteogenesis, or incomplete records were excluded. The primary predictor variable was admission status, defined as DS with same-day discharge or SDA with at least one overnight stay. The primary outcome was safety measured by occurrence of postoperative complications requiring emergency department visit or return to the operating room (OR) within 30 days. Covariates included demographics, comorbidities, surgical type, and perioperative parameters. Inverse probability weighting using propensity scores was applied to reduce the bias by creating comparable groups that are balanced on observed subjects' characteristics. Multiple imputations by chained equations were used to handle missing data. Weighted logistic regression was used to estimate the odds of postoperative complications. Two-sided tests were performed at a significance level of 0.05. The sample included 464 subjects with a median age of 26 years (interquartile range: 21 to 33), of whom 242 (52.2%) were female. The DS cohort comprised 282 (60.8%) subjects and was more frequently underwent single jaw procedures (76.3 vs 15.3%). Within 30 days, emergency department visits (3.5 vs 2.2%), return to the OR (2.5 vs 2.7%), and complication rates (5.7 vs 4.9%) were similar between DS and SDA groups. After propensity score-based inverse probability weighting adjustment, no significant difference in postoperative complications was observed (OR: 1.43; 95% confidence interval [CI]: (0.27 to 7.62); P = .8). Median postanesthesia care unit time was 183 minutes (interquartile range: , 132 to 250). The same-day discharge after orthognathic surgery appears safe and feasible for appropriately selected patients. Accordingly, we have developed a standardized pathway to guide patient selection and facilitate integration into institutional enhanced recovery after surgery protocols.",
+      "objective": "of this study was to compare postoperative outcomes between patients discharged the same day (day surgery [DS]) and those admitted overnight (same-day admission [SDA]) following orthognathic surgery. A retrospective cohort study was conducted at McGill University Health Centre, reviewing orthognathic surgeries performed between July 2019 and December 2023. Patients with isolated genioplasty, combined total joint replacement or distraction osteogenesis, or incomplete records were excluded. The primary predictor variable was admission status, defined as DS with same-day discharge or SDA with at least one overnight stay. The primary outcome was safety measured by occurrence of postoperative complications requiring emergency department visit or return to the operating room (OR) within 30 days. Covariates included demographics, comorbidities, surgical type, and perioperative parameters. Inverse probability weighting using propensity scores was applied to reduce the bias by creating comparable groups that are balanced on observed subjects' characteristics. Multiple imputations by chained equations were used to handle missing data. Weighted logistic regression was used to estimate the odds of postoperative complications. Two-sided tests were performed at a significance level of 0.05. The sample included 464 subjects with a median age of 26 years (interquartile range: 21 to 33), of whom 242 (52.2%) were female. The DS cohort comprised 282 (60.8%) subjects and was more frequently underwent single jaw procedures (76.3 vs 15.3%). Within 30 days, emergency department visits (3.5 vs 2.2%), return to the OR (2.5 vs 2.7%), and complication rates (5.7 vs 4.9%) were similar between DS and SDA groups. After propensity score-based inverse probability weighting adjustment, no significant difference in postoperative complications was observed (OR: 1.43; 95% confidence interval [CI]: (0.27 to 7.62); P = .8). Median postanesthesia care unit time was 183 minutes (interquartile range: , 132 to 250). The same-day discharge after orthognathic surgery appears safe and feasible for appropriately selected patients. Accordingly, we have developed a standardized pathway to guide patient selection and facilitate integration into institutional enhanced recovery after surgery protocols.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41903935/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2987,31 +3085,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42506953/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42502006",
-      "title": "Assessment of orbital dystopia in patients with dentofacial deformity.",
-      "authors": [
-        "Y Malkoç",
-        "A Özel",
-        "Y Y Leung",
-        "S Uckan"
-      ],
-      "publication_date": "2026-Jul-25",
-      "publication_date_iso": "2026-07-25",
-      "abstract": "The study investigated vertical orbital dystopia in patients with dentofacial deformities and its impact on coronal plane orientation. This retrospective analysis included 79 patients (52 females, 27 males, mean age 27.64 years) with dentofacial deformity who underwent orthognathic surgery from 2019 to 2022 with preoperative cone-beam computed tomography. Bilateral hard tissue measurements were performed using virtual orthognathic planning software (NemoFAB, Nemotec, Spain). Two anatomical landmarks were measured vertically to assess the severity and direction of orbital asymmetry. Of the 79 patients, 56 had class III and 23 had class II skeletal deformity. There were no significant differences between patients based on gender or Angle classification. Orbital dystopia was statistically significant (73.4%) among the study population (P = 0.05). The severity and the direction were analysed, respectively; no correlation was found between the orbitalis inferior (r = 0.052, P = 0.73) and the orbitalis superior (r = -0.060, P = 0.67). The study suggests that focusing solely on the orbital region in orthognathic surgery planning may lead to inaccuracies due to the prevalence of orbital dystopia in dentofacial deformity patients.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42502006/",
       "pmcid": "",
       "figure_urls": []
     }
