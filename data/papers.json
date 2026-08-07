@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T05:22:42Z",
+  "updated_at": "2026-08-07T04:30:19Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -643,6 +643,94 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42336005/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42509133",
+      "title": "Corrigendum to 'Keratinocyte growth factor (KGF) induces podosome formation via integrin-Erk1/2 signaling in human immortalized oral epithelial cells' [Cellular Signaling 61 (2019) 39-47].",
+      "authors": [
+        "Guoliang Sa",
+        "Zhikang Liu",
+        "Jiangang Ren",
+        "Qilong Wan",
+        "Xuepeng Xiong",
+        "Zili Yu",
+        "Heng Chen",
+        "Yifang Zhao",
+        "Sangang He"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42509133/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42442675",
+      "title": "Follicle-stimulating hormone and cancer.",
+      "authors": [
+        "Yaohua Li",
+        "Yuexin Liu",
+        "Yang Guo",
+        "Mingzhang Guo",
+        "Zizhan Li",
+        "Mei Zheng",
+        "Gangli Liu"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "Follicle-stimulating hormone (FSH) and its receptor FSHR have traditionally been studied as regulators of reproductive physiology. Recent evidence indicates that FSH-FSHR signaling may be involved in selected cancer-related processes, but its effects are highly context dependent. This review grades evidence by tumor type and distinguishes tumor-cell FSHR from vascular FSHR, as these compartments have different mechanistic, biomarker and therapeutic implications. This review discusses evidence linking this axis to proliferation, epithelial-mesenchymal transition (EMT), metabolic remodeling, cancer stemness and metastasis, with particular emphasis on ovarian cancer and on contradictory or limited findings in other tumor types. This review also evaluates FSHR detection methods, biomarker interpretation, FSHR-targeted nanomedicine and imaging approaches, and safety concerns related to off-tumor binding and endocrine-related toxicity. Further standardization of FSHR detection, endocrine-context modeling and clinically defined validation cohorts is needed before FSHR-based strategies can be translated into routine cancer care.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42442675/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42401358",
+      "title": "Targeting lipoprotein lipase-positive macrophage-driven GDF-15 expression alleviates cancer Cachexia in obese head and neck squamous cell carcinoma.",
+      "authors": [
+        "Yu-Jia Guo",
+        "Ran Zhao",
+        "Yue-Han Li",
+        "Jing-Jing Cui",
+        "Meng-Ran Zhao",
+        "Yang Yang",
+        "Jun-Yao Wu",
+        "Jia-Hao Zhao",
+        "Xiaomeng Song"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "Head and neck squamous cell carcinoma (HNSCC) is often associated with dysphagia and malnutrition, predisposing patients to cancer cachexia, which adversely affects postoperative prognosis and survival. Obese patients may exhibit underlying muscle wasting, a condition related to sarcopenic obesity, even when early body-weight loss is not prominent. Here, we identified a lipoprotein lipase-positive (LPL-positive) macrophage population in HNSCC that increased during tumor progression and was enriched in tumors from overweight/obese patients and high-fat diet-fed tumor-bearing mice. A high LPL-positive macrophage signature score based on TCGA-HNSC bulk transcriptomic and clinical follow-up data was associated with worse overall survival. LPL-positive macrophage-associated lipid metabolic changes were accompanied by increased growth differentiation factor 15 (GDF-15) secretion. Conditioned medium from LPL-overexpressing RAW264.7 macrophages and recombinant GDF-15 induced myotube atrophy and ferroptosis-related lipid peroxidation, whereas liproxstatin-1 or ferrostatin-1 partially reversed these effects. Systemic pharmacological lipase/LPL inhibition with Poloxamer 407 (P-407) or orlistat reduced LPL enzymatic activity, although these treatments also affected systemic lipid metabolism. Invalidation of LPL by siRNA in RAW264.7 cells further showed reduced GDF-15 secretion and attenuated conditioned-medium-induced myotube atrophy. These findings suggest that macrophage-associated LPL activity and GDF-15 contribute to muscle wasting in obese HNSCC and highlight a potential metabolic-immunologic axis involved in cancer cachexia. Using animal models, we further showed that systemic pharmacological lipase/LPL inhibition with P-407, particularly when combined with anti-PD-1 therapy, attenuated muscle wasting and improved the tumor immune microenvironment.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401358/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1340,6 +1428,105 @@
       "figure_urls": []
     },
     {
+      "pmid": "42556918",
+      "title": "Combined Temporomandibular Joint and Orthognathic Reconstruction.",
+      "authors": [
+        "Briana J Burris",
+        "Jeffrey Hajibandeh",
+        "Julian Wilson"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42556918/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42556912",
+      "title": "Temporomandibular Joint Imaging and Surgical Anatomy.",
+      "authors": [
+        "John M Sands",
+        "Brian R Carr"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42556912/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42556905",
+      "title": "ASSOCIATION BETWEEN GASTROESOPHAGEAL REFLUX DISEASE AND PEPTIC ULCER IN ADULTS AND THE DEVELOPMENT OF PERIODONTAL CHANGES AND DENTAL CARIES: SYSTEMATIC REVIEW AND META-ANALYSIS.",
+      "authors": [
+        "Maria Cláudia Alves",
+        "Isadora França Vieira-Silva",
+        "Olívia Francescato",
+        "Laíssa Viegas Cardoso DE Barros",
+        "Cláudia Lopes Brilhante Bhering",
+        "Lucas Guimarães Abreu",
+        "Amália Moreno"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "This systematic review and meta-analysis aimed to evaluated the relationship between gastroesophageal reflux disease (GERD) and peptic ulcer, and caries and/or periodontal diseases. Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines were followed. The study was registered on Prospero (CRD42023386741). The search was conducted in 4 databases (PubMed, Web of Science, Embase, and Scopus), and gray literature, with no restrictions on language or publication date. Risk of bias within studies was assessed with the Newcastle-Ottawa Scale for case-control studies and cross-sectional studies. Heterogeneity among studies was evaluated. Meta-analyzes were performed. Results were reported in mean difference (MD) and 95% confidence interval (CI). The number of studies, whose data were incorporated into meta-analyzes, was indicated by k. Nineteen studies were eligible. Ten had data entered into 6 different meta-analyzes. Of the 6 meta-analyzes, 1 demonstrated that individuals with GERD exhibited a significantly higher DMFT index than individuals without GERD (MD = 0.79; 95% CI = 0.00, 1.57; k = 5). Two meta-analyzes showed that individuals with GERD exhibited the papillary marginal alveolar index (PMA) (MD = 1.00; 95% CI = 0.60, 1.40; k = 2) and the oral hygiene index (OHI-S) (MD = 1.22; 95% CI = 0.50, 1.93; k = 2) significantly higher than individuals without GERD. Individual's studies also showed a relationship between GERD and caries and periodontal disease. Based on literature and meta-analyzes with few studies, evidence suggests that individuals with GERD and peptic ulcers were more likely to have periodontal disease and caries compared to individuals without these conditions.",
+      "objective": "",
+      "study_methods": "Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines were followed. The study was registered on Prospero (CRD42023386741). The search was conducted in 4 databases (PubMed, Web of Science, Embase, and Scopus), and gray literature, with no restrictions on language or publication date. Risk of bias within studies was assessed with the Newcastle-Ottawa Scale for case-control studies and cross-sectional studies. Heterogeneity among studies was evaluated. Meta-analyzes were performed. Results were reported in mean difference (MD) and 95% confidence interval (CI). The number of studies, whose data were incorporated into meta-analyzes, was indicated by k.",
+      "methods": "Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines were followed. The study was registered on Prospero (CRD42023386741). The search was conducted in 4 databases (PubMed, Web of Science, Embase, and Scopus), and gray literature, with no restrictions on language or publication date. Risk of bias within studies was assessed with the Newcastle-Ottawa Scale for case-control studies and cross-sectional studies. Heterogeneity among studies was evaluated. Meta-analyzes were performed. Results were reported in mean difference (MD) and 95% confidence interval (CI). The number of studies, whose data were incorporated into meta-analyzes, was indicated by k.",
+      "results": "were reported in mean difference (MD) and 95% confidence interval (CI). The number of studies, whose data were incorporated into meta-analyzes, was indicated by k. Nineteen studies were eligible. Ten had data entered into 6 different meta-analyzes. Of the 6 meta-analyzes, 1 demonstrated that individuals with GERD exhibited a significantly higher DMFT index than individuals without GERD (MD = 0.79; 95% CI = 0.00, 1.57; k = 5). Two meta-analyzes showed that individuals with GERD exhibited the papillary marginal alveolar index (PMA) (MD = 1.00; 95% CI = 0.60, 1.40; k = 2) and the oral hygiene index (OHI-S) (MD = 1.22; 95% CI = 0.50, 1.93; k = 2) significantly higher than individuals without GERD. Individual's studies also showed a relationship between GERD and caries and periodontal disease. Based on literature and meta-analyzes with few studies, evidence suggests that individuals with GERD and peptic ulcers were more likely to have periodontal disease and caries compared to individuals without these conditions.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42556905/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42556890",
+      "title": "THE ROLE OF PERIODONTITIS IN THE INITIATION AND PROGRESSION OF COGNITIVE DISORDERS: AN UMBRELLA REVIEW.",
+      "authors": [
+        "Celina Giuliani",
+        "Patrick R Schmidlin",
+        "Omid Fakheran"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Cognitive disorders are a major cause of morbidity worldwide, and accumulating evidence indicates that chronic systemic inflammation may play a key role in their initiation and progression. Periodontitis, a prevalent chronic inflammatory oral disease, has been increasingly recognized as a potential risk factor for cognitive disorders. This umbrella review synthesized evidence from systematic reviews and meta-analyses investigating the association between periodontitis and cognitive disorders, including Alzheimer's disease (AD), dementia and cognitive impairment. Following JBI methodological guidance for umbrella reviews, a comprehensive search was conducted across seven databases (Medline, Embase, Cochrane Library, CINAHL, PsycINFO, Web of Science, Scopus) from inception to April 2025 to identify systematic reviews and meta-analyses on the association between periodontitis and cognitive disorders in humans. Two reviewers independently performed study selection, data extraction, and quality appraisal using the JBI Critical Appraisal Tool. Due to heterogeneity, findings were synthesized narratively. Twenty systematic reviews and meta-analyses comprising 333 primary studies were included. Most reviews reported a significant association between periodontitis and AD or dementia. Meta-analyses consistently found increased risk estimates, with the strongest associations for severe periodontitis. Biological plausibility was supported by shared inflammatory pathways and detection of periodontal pathogens in brain tissue. However, evidence was predominantly observational, with substantial heterogeneity in diagnostic criteria. Evidence suggests a potential link between periodontitis and cognitive disorders, though results are inconsistent and causality remains unproven. Inflammatory and microbial mechanisms are proposed, but well-designed longitudinal and interventional studies with standardized criteria are needed.",
+      "objective": "",
+      "study_methods": "Following JBI methodological guidance for umbrella reviews, a comprehensive search was conducted across seven databases (Medline, Embase, Cochrane Library, CINAHL, PsycINFO, Web of Science, Scopus) from inception to April 2025 to identify systematic reviews and meta-analyses on the association between periodontitis and cognitive disorders in humans. Two reviewers independently performed study selection, data extraction, and quality appraisal using the JBI Critical Appraisal Tool. Due to heterogeneity, findings were synthesized narratively.",
+      "methods": "Following JBI methodological guidance for umbrella reviews, a comprehensive search was conducted across seven databases (Medline, Embase, Cochrane Library, CINAHL, PsycINFO, Web of Science, Scopus) from inception to April 2025 to identify systematic reviews and meta-analyses on the association between periodontitis and cognitive disorders in humans. Two reviewers independently performed study selection, data extraction, and quality appraisal using the JBI Critical Appraisal Tool. Due to heterogeneity, findings were synthesized narratively.",
+      "results": "are inconsistent and causality remains unproven. Inflammatory and microbial mechanisms are proposed, but well-designed longitudinal and interventional studies with standardized criteria are needed.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42556890/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42524730",
       "title": "Video-Based Tool for Assessment of Airway Management With Flexible Laryngeal Mask in Clinical Practice-A Protocol for a Study Gathering Validity Evidence.",
       "authors": [
@@ -1401,80 +1588,29 @@
       "figure_urls": []
     },
     {
-      "pmid": "42498422",
-      "title": "Pediatric Sleep Disorders: Taking Care of Gen Z and Gen Alpha.",
+      "pmid": "42414159",
+      "title": "Predictive value of ultrasonographic parameters in the treatment of oral vascular anomalies.",
       "authors": [
-        "Ramesh Balasubramaniam",
-        "Srishti V Parekh",
-        "Vivasvan B Parekh",
-        "Bakul Parekh"
+        "Luís Otávio Pereira da Silva",
+        "Victor Zanetti Drumond",
+        "Sílvia Ferreira de Sousa",
+        "Tarcília Aparecida Silva",
+        "Ricardo Alves Mesquita",
+        "Maurício Augusto Aquino de Castro"
       ],
       "publication_date": "2026-Sep",
       "publication_date_iso": "2026-09-01",
-      "abstract": "Pediatric sleep disorders are common, underrecognized conditions with significant short-term and long-term consequences for physical health, neurocognitive development, mental well-being, and family functioning. This article provides a comprehensive, clinically focused overview of pediatric sleep disorders, with particular emphasis on Generation Z and Generation Alpha cohorts who are uniquely shaped by pervasive digital exposure, circadian disruption, and contemporary psychosocial stressors. Normal developmental changes in sleep architecture are reviewed to distinguish physiologic variation from pathology. Key sleep disorders including insomnia, circadian rhythm sleep-wake disorders, sleep-disordered breathing, parasomnias, and sleep-related bruxism are discussed.",
+      "abstract": "Vascular anomalies are a heterogeneous group of lesions characterized by abnormalities in vasculogenesis. Sclerotherapy is a conservative modality for their management. Ultrasonography can guide sclerotherapy and provide prognostic parameters. This prospective, nonrandomized observational study was conducted between 2023 and 2025. Thirty-one patients with oral vascular anomalies underwent standardized clinical and ultrasonographic assessment. Individuals were submitted to sclerotherapy with 3% polidocanol under ultrasound guidance. Outcomes included lesion area/perimeter, echogenicity, and flow proportion per area. Nonparametric tests assessed differences over time, and effect sizes (ES) were calculated. The median of lesion area decreased from 0.15 to 0.07 cm² (P < .001; ES = 0.85) and perimeter from 1.76 to 1.29 cm (P < .001; ES = 0.92). Echogenicity shifted toward isoechoic patterns (P < .05), while flow proportion showed no significant changes (P > .05). High-flow lesions showed greater reduction of median area than low-flow lesions (-0.20 vs -0.04 cm²; P < .05; ES = 0.48), but no variation in perimeter was observed comparing high and low flow lesions (P > .05). Baseline echogenicity did not predict the sclerotherapy response (P > .05). Sclerotherapy guided by ultrasound is a safe and effective treatment for oral vascular anomalies. Ultrasonographic parameters, particularly baseline vascular flow, offer prognostic value for treatment response, whereas echogenicity is less informative.",
       "objective": "",
-      "study_methods": "",
-      "methods": "",
+      "study_methods": "This prospective, nonrandomized observational study was conducted between 2023 and 2025. Thirty-one patients with oral vascular anomalies underwent standardized clinical and ultrasonographic assessment. Individuals were submitted to sclerotherapy with 3% polidocanol under ultrasound guidance. Outcomes included lesion area/perimeter, echogenicity, and flow proportion per area. Nonparametric tests assessed differences over time, and effect sizes (ES) were calculated.",
+      "methods": "This prospective, nonrandomized observational study was conducted between 2023 and 2025. Thirty-one patients with oral vascular anomalies underwent standardized clinical and ultrasonographic assessment. Individuals were submitted to sclerotherapy with 3% polidocanol under ultrasound guidance. Outcomes included lesion area/perimeter, echogenicity, and flow proportion per area. Nonparametric tests assessed differences over time, and effect sizes (ES) were calculated.",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42498422/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42485683",
-      "title": "A bifunctional fusion protein simultaneously targeting PD-L1 and TGF-β1 (SHR1701) enhanced preclinical antitumor activity in oral squamous cell carcinoma.",
-      "authors": [
-        "Wenhao Li",
-        "Songling Fang",
-        "Yuan Cao",
-        "Yuepeng Wang",
-        "Ziqin Kang",
-        "Yilin He",
-        "Yongkang Cai",
-        "Zixian Huang",
-        "Zhiquan Huang"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Oral squamous cell carcinoma (OSCC) is characterized by a profoundly immunosuppressive tumor microenvironment (TME), which limits the clinical efficacy of immune checkpoint inhibitors (ICIs) targeting the programmed death-1 (PD-1)/programmed death-ligand 1 (PD-L1) axis. Transforming growth factor-beta (TGF-β) is a key immunosuppressive mediator in OSCC and is associated with disease progression and resistance to immunotherapy. SHR-1701 is a bifunctional fusion protein designed to simultaneously block PD-L1 and sequester TGF-β. This study investigated the biological relevance of TGF-β1 in OSCC and evaluated the preclinical antitumor activity and immunomodulatory effects of SHR-1701. The expression and prognostic significance of TGF-β isoforms were analyzed by using The Cancer Genome Atlas (TCGA) datasets and a retrospective cohort of OSCC patients. The functional effects of SHR-1701 on OSCC cell lines were evaluated in vitro. T-cell-dependent cytotoxicity was evaluated by using an in vitro co-culture system. The antitumor efficacy, immune modulation, and safety of SHR-1701 (alone or in combination with cisplatin and paclitaxel) were further examined in a patient-derived xenograft (PDX) model involving autologous T-cell adoptive transfer. Clinical and transcriptomic analyses demonstrated a significant association between TGF-β1 expression and aggressive disease features in OSCC. SHR-1701 exerted notable functional effects on OSCC cells in vitro and enhanced T-cell-mediated antitumor responses in vivo. In PDX models, compared with monotherapies, SHR-1701 exhibited superior antitumor activity, and combination treatment with chemotherapy further increased therapeutic efficacy and immune engagement. These findings demonstrate that TGF-β1-associated immunosuppression plays a critical role in OSCC progression and therapeutic resistance. The dual targeting of PD-L1 and TGF-β signaling with SHR-1701 effectively remodels the immunosuppressive TME and enhances antitumor immune responses in preclinical models, thus providing a strong translational rationale for further clinical evaluation of SHR-1701 in OSCC.",
-      "objective": "",
-      "study_methods": "The expression and prognostic significance of TGF-β isoforms were analyzed by using The Cancer Genome Atlas (TCGA) datasets and a retrospective cohort of OSCC patients. The functional effects of SHR-1701 on OSCC cell lines were evaluated in vitro. T-cell-dependent cytotoxicity was evaluated by using an in vitro co-culture system. The antitumor efficacy, immune modulation, and safety of SHR-1701 (alone or in combination with cisplatin and paclitaxel) were further examined in a patient-derived xenograft (PDX) model involving autologous T-cell adoptive transfer.",
-      "methods": "The expression and prognostic significance of TGF-β isoforms were analyzed by using The Cancer Genome Atlas (TCGA) datasets and a retrospective cohort of OSCC patients. The functional effects of SHR-1701 on OSCC cell lines were evaluated in vitro. T-cell-dependent cytotoxicity was evaluated by using an in vitro co-culture system. The antitumor efficacy, immune modulation, and safety of SHR-1701 (alone or in combination with cisplatin and paclitaxel) were further examined in a patient-derived xenograft (PDX) model involving autologous T-cell adoptive transfer.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42485683/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42437327",
-      "title": "3-Hydroxyflavone inhibits the cytotoxicity of oral squamous cell carcinoma cells through the AGEs/RAGE/NF-κB signaling pathway.",
-      "authors": [
-        "Yuan Cong",
-        "Shengzhi Wang"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Advanced glycation end products (AGEs) and their receptor receptor for AGEs (RAGE) promote tumor progression via activation of the nuclear factor-kappa B (NF-κB) signaling pathway. Although 3-Hydroxyflavone exhibits anticancer properties, its role in oral squamous cell carcinoma (OSCC) and its interaction with the AGEs/RAGE/NF-κB axis remain unclear. This study investigated whether 3-Hydroxyflavone inhibits OSCC by modulating miR-142-5p within the AGEs/RAGE/NF-κB axis. The expression of p65 and miR-142-5p was analyzed in both OSCC tissues and Tca8113 cells. TargetScan prediction and dual-luciferase reporter assays confirmed that p65 is a direct target of miR-142-5p. The effects of 3-Hydroxyflavone on OSCC cells were evaluated using MTT and colony formation assays. Additionally, immunohistochemistry was performed to assess p65 expression in tumor tissues, and Kaplan-Meier analysis was used to evaluate patient survival. OSCC tissues showed increased p65 nuclear translocation and decreased miR-142-5p levels. The miR-142-5p directly inhibited p65. The 3-Hydroxyflavone treatment suppressed OSCC cell proliferation and colony formation by upregulating miR-142-5p and inhibiting the AGEs/RAGE/NF-κB pathway. High p65 expression correlated with poor survival, while 3-Hydroxyflavone treatment reduced p65 and improved survival. The 3-Hydroxyflavone inhibits OSCC proliferation and enhances survival by upregulating miR-142-5p, which suppresses AGEs/RAGE/NF-κB signaling, suggesting a novel therapeutic strategy.",
-      "objective": "",
-      "study_methods": "The expression of p65 and miR-142-5p was analyzed in both OSCC tissues and Tca8113 cells. TargetScan prediction and dual-luciferase reporter assays confirmed that p65 is a direct target of miR-142-5p. The effects of 3-Hydroxyflavone on OSCC cells were evaluated using MTT and colony formation assays. Additionally, immunohistochemistry was performed to assess p65 expression in tumor tissues, and Kaplan-Meier analysis was used to evaluate patient survival.",
-      "methods": "The expression of p65 and miR-142-5p was analyzed in both OSCC tissues and Tca8113 cells. TargetScan prediction and dual-luciferase reporter assays confirmed that p65 is a direct target of miR-142-5p. The effects of 3-Hydroxyflavone on OSCC cells were evaluated using MTT and colony formation assays. Additionally, immunohistochemistry was performed to assess p65 expression in tumor tissues, and Kaplan-Meier analysis was used to evaluate patient survival.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42437327/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42414159/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1584,6 +1720,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42020233",
+      "title": "Diagnostic discrepancies in the surgical management of oral epithelial dysplasia - an analysis of concordance between incisional biopsy and definitive resection specimens.",
+      "authors": [
+        "Brian Maloney",
+        "Min Seo Jung",
+        "Jason Byrne",
+        "Brian Martin",
+        "Esther O'Regan",
+        "John Edward O'Connell"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "The management of oral potentially malignant disorders is primarily guided by the degree of oral epithelial dysplasia (OED) present on incisional biopsy. Despite the universal use of this technique to inform treatment decisions, this method harbours limitations which can result in the under- or overestimating the degree of OED when compared with the fully excised specimen. There is a paucity of published work examining the reliability of incisional biopsy for oral potentially malignant disorders, representing a clear gap in our understanding of the reliability of this diagnostic technique as a mainstay in our management of these conditions. The current study retrospectively examined the agreement between the histological findings on incisional biopsy and subsequently excised specimens in a cohort of patients with known OED in oral leukoplakia specimens in a single maxillofacial unit between 2021 and 2024. Of 88 total specimens, there was slight overall agreement between the two techniques. On subgroup analysis, for non-PVL OED, agreement was moderate, but agreement for PVL type OED was poor. A total of 31% of specimens were discordant, 41% with a lower degree of OED on biopsy versus excised specimen. The greatest discordance arose for moderate OED. Three factors for discordance were identified. This study has contributed to the evidence base by highlighting the discrepancies related to OED grading between incisional biopsy and resection specimens. While incisional biopsy is a dependable method for the diagnosis of non-PVL OED, its use in PVL highlights significant limitations. Reducing discordances requires an understanding of the causative factors and close collaboration between pathologists and clinicians.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "in the under- or overestimating the degree of OED when compared with the fully excised specimen. There is a paucity of published work examining the reliability of incisional biopsy for oral potentially malignant disorders, representing a clear gap in our understanding of the reliability of this diagnostic technique as a mainstay in our management of these conditions. The current study retrospectively examined the agreement between the histological findings on incisional biopsy and subsequently excised specimens in a cohort of patients with known OED in oral leukoplakia specimens in a single maxillofacial unit between 2021 and 2024. Of 88 total specimens, there was slight overall agreement between the two techniques. On subgroup analysis, for non-PVL OED, agreement was moderate, but agreement for PVL type OED was poor. A total of 31% of specimens were discordant, 41% with a lower degree of OED on biopsy versus excised specimen. The greatest discordance arose for moderate OED. Three factors for discordance were identified. This study has contributed to the evidence base by highlighting the discrepancies related to OED grading between incisional biopsy and resection specimens. While incisional biopsy is a dependable method for the diagnosis of non-PVL OED, its use in PVL highlights significant limitations. Reducing discordances requires an understanding of the causative factors and close collaboration between pathologists and clinicians.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42020233/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41846208",
       "title": "The impact of alcohol on fall-related maxillofacial fractures: a retrospective study.",
       "authors": [
@@ -1672,6 +1835,87 @@
       "figure_urls": []
     },
     {
+      "pmid": "42560345",
+      "title": "Pharyngeal Airway Volumes in Adults With Cleft Palate: Comparing an Anatomic Cleft Restoration Philosophy \"Buccal Flap\" Palatoplasty and Non-Cleft Controls.",
+      "authors": [
+        "Sara Rodriguez",
+        "Robert Mann",
+        "Abigail E Haenssler",
+        "Samuel Mann",
+        "Xiangming Fang",
+        "Ahmed O Lawal",
+        "Jamie L Perry"
+      ],
+      "publication_date": "2026-Aug-06",
+      "publication_date_iso": "2026-08-06",
+      "abstract": "ObjectiveThe purpose of this study was to compare pharyngeal airway volume between two groups: (1) Individuals with Veau 3 or 4 clefts repaired using a buccal flap-based palatoplasty technique, and (2) age-matched individuals without cleft palate.DesignObservational, prospective.SettingTwo regional hospitals and an academic institution.Participants30 adult males were included in the study: 15 individuals with complete Veau 3 or 4 clefts repaired with double-opposing Z-plasty and buccal flaps (DOZP + BF) during primary palatoplasty and 15 age-matched controls without cleft palate. Individuals with a history of secondary speech surgery, orthognathic surgery, or other interventions affecting the nasopharyngeal airway were excluded.InterventionsAll participants' anatomy was visualized using MRI.Main Outcome MeasuresFive pharyngeal airway anatomical measures.ResultsNo statistically significant differences between groups were observed for nasopharyngeal, velopharyngeal, hypopharyngeal, or total airway volumes. Individuals with cleft palate repaired with DOZP + BF demonstrated significantly larger oropharyngeal volumes compared with controls (P < 0.001).ConclusionThis study suggests that adult males with Veau 3 or 4 clefts repaired using DOZP + BF technique, who have no history of secondary speech surgery or orthognathic surgery, demonstrate airway volumetric measurements that are largely comparable to those of age-matched individuals without cleft palate. The exception is the oropharyngeal airway, which was slightly larger in the cleft group compared with controls. Future research is needed to further evaluate the functional implications of these anatomical differences and to compare outcomes across different surgical approaches.",
+      "objective": "of this study was to compare pharyngeal airway volume between two groups: (1) Individuals with Veau 3 or 4 clefts repaired using a buccal flap-based palatoplasty technique, and (2) age-matched individuals without cleft palate.DesignObservational, prospective.SettingTwo regional hospitals and an academic institution.Participants30 adult males were included in the study: 15 individuals with complete Veau 3 or 4 clefts repaired with double-opposing Z-plasty and buccal flaps (DOZP + BF) during primary palatoplasty and 15 age-matched controls without cleft palate. Individuals with a history of secondary speech surgery, orthognathic surgery, or other interventions affecting the nasopharyngeal airway were excluded.InterventionsAll participants' anatomy was visualized using MRI.Main Outcome MeasuresFive pharyngeal airway anatomical measures.ResultsNo statistically significant differences between groups were observed for nasopharyngeal, velopharyngeal, hypopharyngeal, or total airway volumes. Individuals with cleft palate repaired with DOZP + BF demonstrated significantly larger oropharyngeal volumes compared with controls (P < 0.001).ConclusionThis study suggests that adult males with Veau 3 or 4 clefts repaired using DOZP + BF technique, who have no history of secondary speech surgery or orthognathic surgery, demonstrate airway volumetric measurements that are largely comparable to those of age-matched individuals without cleft palate. The exception is the oropharyngeal airway, which was slightly larger in the cleft group compared with controls. Future research is needed to further evaluate the functional implications of these anatomical differences and to compare outcomes across different surgical approaches.",
+      "study_methods": "",
+      "methods": "",
+      "results": "No statistically significant differences between groups were observed for nasopharyngeal, velopharyngeal, hypopharyngeal, or total airway volumes. Individuals with cleft palate repaired with DOZP + BF demonstrated significantly larger oropharyngeal volumes compared with controls (P < 0.001).ConclusionThis study suggests that adult males with Veau 3 or 4 clefts repaired using DOZP + BF technique, who have no history of secondary speech surgery or orthognathic surgery, demonstrate airway volumetric measurements that are largely comparable to those of age-matched individuals without cleft palate. The exception is the oropharyngeal airway, which was slightly larger in the cleft group compared with controls. Future research is needed to further evaluate the functional implications of these anatomical differences and to compare outcomes across different surgical approaches.",
+      "conclusion": "This study suggests that adult males with Veau 3 or 4 clefts repaired using DOZP + BF technique, who have no history of secondary speech surgery or orthognathic surgery, demonstrate airway volumetric measurements that are largely comparable to those of age-matched individuals without cleft palate. The exception is the oropharyngeal airway, which was slightly larger in the cleft group compared with controls. Future research is needed to further evaluate the functional implications of these anatomical differences and to compare outcomes across different surgical approaches.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42560345/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42560332",
+      "title": "Utility of 2-[18F]Fluoro-2-deoxy-D-glucose positron emission tomography/computed tomography in assessing treatment response after chemoradiotherapy for cervical cancer.",
+      "authors": [
+        "Yuto Kishimoto",
+        "Motoharu Sasaki",
+        "Hideki Otsuka",
+        "Akiko Kubo",
+        "Chisato Tonoiso",
+        "Takashi Kawanaka",
+        "Takaharu Kudoh",
+        "Hitoshi Ikushima"
+      ],
+      "publication_date": "2026-Aug-06",
+      "publication_date_iso": "2026-08-06",
+      "abstract": "Cervical cancer is the fourth most common malignancy globally. As many cases are locally advanced, early prediction of local recurrence, which often occurs within 2 years of chemoradiotherapy (CCRT), is crucial. The National Comprehensive Cancer Network Guidelines recommend post-treatment 2-[18F]fluoro-2-deoxy-D-glucose positron emission tomography/computed tomography (18F-FDG-PET/CT) for response assessment, but this is not standard in Japan. We aimed to investigate the utility of 18F-FDG-PET/CT in assessing primary tumor response after CCRT for cervical cancer. Seventy-three patients with cervical cancer who received curative CCRT and underwent pre- and post-treatment magnetic resonance imaging and 18F-FDG-PET/CT were analyzed. We collected PET metrics (maximum standardized uptake value [SUVmax], metabolic tumor volume [MTV], total lesion glycolysis [TLG]) and classified the response. Receiver operating characteristic (ROC) curve analysis was performed on the post-treatment PET data. Univariate analysis was performed to determine the prognostic factors for local control. ROC curve analysis yielded high negative predictive values for local recurrence of post-treatment MTV, SUVmax and TLG. Univariate analysis showed significant differences in local control for post-treatment MTV, SUVmax, TLG and PET Response Criteria in Solid Tumors, but not for Response Evaluation Criteria in Solid Tumors (RECIST). Functional assessment using 18F-FDG-PET/CT after CCRT for cervical cancer is useful for complementing conventional morphological evaluation and improving the accuracy of response assessment.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42560332/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42559963",
+      "title": "Simultaneous Paranasal Augmentation and Le Fort I Osteotomy Using a Patient-Specific Implant Designed to Share the Fixation Space: Two-Year Clinical Outcomes.",
+      "authors": [
+        "Renato Marano",
+        "Luis Fernando de Oliveira Gorla",
+        "Diogo Vasconcelos Macedo"
+      ],
+      "publication_date": "2026-Aug-06",
+      "publication_date_iso": "2026-08-06",
+      "abstract": "Residual paranasal concavity may persist after Le Fort I osteotomy despite adequate maxillary repositioning, limiting the aesthetic impact of orthognathic surgery. Simultaneous paranasal implant placement is rarely reported due to spatial conflict with rigid internal fixation systems and concerns regarding infraorbital nerve safety. Two patients underwent Le Fort I osteotomy combined with simultaneous placement of patient-specific paranasal implants designed through 3-dimensional virtual surgical planning (VSP) to intentionally share the anatomical space occupied by Le Fort I fixation plates. Implants were fabricated from polymethyl methacrylate (PMMA) using CAD/CAM patient-specific molds. Clinical and photographic outcomes were assessed at minimum 24-month follow-up. Both patients achieved satisfactory midface projection with no postoperative complications at 24-month follow-up. No implant displacement, infraorbital nerve deficit, wound dehiscence, or plate removal was required in either case. A patient-specific paranasal implant designed to coexist with Le Fort I fixation hardware enables safe, effective, and stable single-stage midface augmentation during orthognathic surgery, eliminating secondary procedures over a minimum 2-year follow-up.",
+      "objective": "",
+      "study_methods": "Two patients underwent Le Fort I osteotomy combined with simultaneous placement of patient-specific paranasal implants designed through 3-dimensional virtual surgical planning (VSP) to intentionally share the anatomical space occupied by Le Fort I fixation plates. Implants were fabricated from polymethyl methacrylate (PMMA) using CAD/CAM patient-specific molds. Clinical and photographic outcomes were assessed at minimum 24-month follow-up.",
+      "methods": "Two patients underwent Le Fort I osteotomy combined with simultaneous placement of patient-specific paranasal implants designed through 3-dimensional virtual surgical planning (VSP) to intentionally share the anatomical space occupied by Le Fort I fixation plates. Implants were fabricated from polymethyl methacrylate (PMMA) using CAD/CAM patient-specific molds. Clinical and photographic outcomes were assessed at minimum 24-month follow-up.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42559963/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42555748",
       "title": "Biocompatibility of self-etching primer in orthodontics: an",
       "authors": [
@@ -1694,6 +1938,34 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42555748/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42557296",
+      "title": "A perforator-based adipocutaneous skin paddle derived from free muscle flap reconstruction as a hypothesis-generating human tissue model of early localized lymphatic insufficiency.",
+      "authors": [
+        "Katja K Koll",
+        "Martin M Zimmermann",
+        "Matthias Schulte",
+        "Adriana C Panayi",
+        "Gabriel Hundeshagen",
+        "Ulrich Kneser",
+        "Christoph Hirche"
+      ],
+      "publication_date": "2026-Aug-05",
+      "publication_date_iso": "2026-08-05",
+      "abstract": "Secondary lymphedema remains poorly understood, particularly with regard to early human tissue responses after lymphatic outflow disruption. This study evaluates the perforator-based adipocutaneous skin paddle (PBASP) from vascularized free muscle flaps as a hypothesis-generating human tissue platform for early localized lymphatic insufficiency. The PBASP, receives arterial and venous perfusion but is not reconnected to physiological lymphatic outflow and was therefore hypothesized to develop changes consistent with early local lymphatic outflow insufficiency. Tissue samples were collected from 15 patients who underwent free muscle flap transfer, with PBASP samples obtained 7-14 days post-surgery. Histological, immunofluorescence, molecular, and protein analyses were performed to assess lymphangiogenesis, inflammation, extracellular matrix remodeling, and adipogenesis. PBASP tissue exhibited epidermal thickening, dermal expansion, subcutaneous matrix loosening, and leukocyte infiltration. Immunofluorescence showed a 3.6-fold increase in LYVE-1 + lymphatic vessel cross-sectional area. Gene expression analysis revealed upregulation of markers like VEGF-C, VEGFR3, IL-6, and MMP-9. ELISA demonstrated increased LYVE-1, IL-6, and COL1A1 protein levels. Together, PBASP tissues showed structural, lymphatic-marker, inflammatory, and early remodeling changes consistent with early localized lymphatic outflow insufficiency. Together, these findings support the PBASP-derived approach as a paired human tissue platform for studying early, localized lymphatic insufficiency and for generating mechanistic hypotheses relevant to secondary lymphedema.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42557296/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1830,7 +2102,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42550231/",
-      "pmcid": "",
+      "pmcid": "PMC13437662",
       "figure_urls": []
     },
     {
@@ -1970,6 +2242,81 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42543675/",
       "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42560182",
+      "title": "The United States Military Otolaryngologist's Surgical Workload in Bagram and the Effect of Subspecialty Training.",
+      "authors": [
+        "Maria Lux",
+        "J Hunter Peden",
+        "James Aden",
+        "Kathleen Sarber"
+      ],
+      "publication_date": "2026-Aug-01",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "This study describes the surgical workload of U.S. military otolaryngologists at a single Role 3 facility from 2016 to 2020 and evaluates whether subspecialty training influenced case distribution. A retrospective review of operative logs from Bagram Air Base documented 1,205 procedures performed by deployed military otolaryngologists. Data included case description, procedure type, category, date, surgeon identity, and subspecialty. Data entries were organized and then analyzed using Excel pivot tables. Descriptive statistics and trend analysis were used to assess workload patterns, case distribution over time, and differences between comprehensive otolaryngologists and subspecialists. Facial trauma comprised 52% (628/1205) of all procedures performed. Forty-eight percent (577/1205) of procedures performed treated disease or were elective reconstructive surgery, ranging year to year from 38% to 62% from 2016 to 2020. Of these 577 cases, category of case included assisting in other types of cases (34%, 195/577), general otolaryngology (33%, 189/577), facial plastics/reconstruction (18%, 102/577), otology (6%, 37/577), laryngology (6%, 33/577), rhinology (2%, 13/577), and head and neck (1%, 7/577). Half (7/14) of deployed otolaryngologists were subspecialists, including those in facial plastics, otology, rhinology, sleep, and pediatric otolaryngology. Significant differences in case mix were noted for facial plastics (P = .001), pediatric otolaryngology (P < .001), and sleep surgery (P < .001). Facial plastics and sleep surgeons performed more trauma cases (56% and 61% vs 52% for generalists), while pediatric otolaryngologists managed fewer trauma cases (38%) but more otology cases (11% vs 3%). All 3 subspecialists had fewer laryngology cases compared to generalists. Despite these differences, no specialty-specific preference in case mix was observed. Military otolaryngologists deployed to a Role 3 setting in Bagram, Afghanistan, managed a diverse surgical workload, encompassing trauma, disease, and elective cases. While case mix differed among subspecialists, no trend toward performing subspecialty-specific procedures was observed. This study is the first to our knowledge that describes the U.S. military otolaryngologist's workload over a multi-year period at a single facility in a deployed environment. The utility of this information can, at minimum, help initial preparation and planning to forecast the needs of a military otolaryngologist in the next conflict.",
+      "objective": "",
+      "study_methods": "A retrospective review of operative logs from Bagram Air Base documented 1,205 procedures performed by deployed military otolaryngologists. Data included case description, procedure type, category, date, surgeon identity, and subspecialty. Data entries were organized and then analyzed using Excel pivot tables. Descriptive statistics and trend analysis were used to assess workload patterns, case distribution over time, and differences between comprehensive otolaryngologists and subspecialists.",
+      "methods": "A retrospective review of operative logs from Bagram Air Base documented 1,205 procedures performed by deployed military otolaryngologists. Data included case description, procedure type, category, date, surgeon identity, and subspecialty. Data entries were organized and then analyzed using Excel pivot tables. Descriptive statistics and trend analysis were used to assess workload patterns, case distribution over time, and differences between comprehensive otolaryngologists and subspecialists.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42560182/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42559395",
+      "title": "Redefining Success in Oral and Maxillofacial Surgery: Bridging the Gap Between Technical Outcomes and Patient Quality of Life.",
+      "authors": [
+        "Betul Gedik",
+        "Mehmet Ali Erdem",
+        "Abdulkadir Burak Cankaya",
+        "Zohaib Khurshid"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Traditional success metrics in oral and maxillofacial surgery (OMFS) primarily emphasize clinician-reported outcomes such as anatomical correction, osseointegration, skeletal stability, and disease control. However, growing evidence indicates a frequent mismatch between these objective measures and patient-reported outcome measures (PROMs) and quality of life (QoL), particularly in interventions affecting facial appearance and socially relevant functions. This narrative review examines the alignment and divergence between clinical outcomes and PROMs across major OMFS subspecialties, including dental implantology, orthognathic surgery, temporomandibular joint surgery, and oral cancer reconstruction. Across these domains, technical success often fails to translate into perceived patient benefit, with persistent functional, esthetic, or psychosocial concerns despite clinical stability. These findings underscore the need to redefine success in OMFS beyond structural restoration. Incorporating standardized PROMs as coprimary outcomes and adopting patient-centered, multidisciplinary care models are essential for achieving outcomes that reflect both clinical efficacy and meaningful improvements in patients' lived experiences.",
+      "objective": "measures and patient-reported outcome measures (PROMs) and quality of life (QoL), particularly in interventions affecting facial appearance and socially relevant functions. This narrative review examines the alignment and divergence between clinical outcomes and PROMs across major OMFS subspecialties, including dental implantology, orthognathic surgery, temporomandibular joint surgery, and oral cancer reconstruction. Across these domains, technical success often fails to translate into perceived patient benefit, with persistent functional, esthetic, or psychosocial concerns despite clinical stability. These findings underscore the need to redefine success in OMFS beyond structural restoration. Incorporating standardized PROMs as coprimary outcomes and adopting patient-centered, multidisciplinary care models are essential for achieving outcomes that reflect both clinical efficacy and meaningful improvements in patients' lived experiences.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42559395/",
+      "pmcid": "PMC13440602",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42558231",
+      "title": "Navigating intraoperative tooth loss during oral surgery under general anesthesia: radiographic localization and videolaryngoscopic retrieval of a supraglottic foreign body: a case report.",
+      "authors": [
+        "Sung Bin Youn",
+        "Myong-Hwan Karm",
+        "Hyun Jeong Kim",
+        "Seung-Hwa Ryoo"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Dental dislodgement during oral and maxillofacial surgery is an uncommon, but potentially serious complication. We report a case of intraoperative tooth loss with asymptomatic supraglottic retention during oral surgery under general anesthesia. A 55-year-old man underwent bilateral maxillary endoscopic sinus surgery (MESS) under general anesthesia. A severely mobile mandibular tooth was missing during surgery, although the ventilation and hemodynamic parameters remained stable. As the patient showed no evidence of airway compromise and the location of the tooth was uncertain, radiographic localization was performed after completion of the procedure. Portable radiograph revealed a tooth-shaped foreign body in the laryngeal region. Subsequent videolaryngoscopic examination revealed a tooth lodged beneath the epiglottis and above the vocal cord. The tooth was successfully removed using Magill forceps and the patient recovered without any respiratory complications. This case highlights that a dislodged tooth may remain undetected in the supraglottic airway despite stable respiratory parameters. Radiographic localization, followed by targeted video laryngoscopic retrieval, has enabled successful management.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42558231/",
+      "pmcid": "PMC13437173",
       "figure_urls": []
     },
     {
@@ -2293,30 +2640,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42338379",
-      "title": "Comparative Efficacy of Laser Acupuncture and Direct Photobiomodulation for Inferior Alveolar Nerve Hypoesthesia After Mandibular Third Molar Extraction: A Randomized, Double-Blind, Sham-Controlled Clinical Trial.",
-      "authors": [
-        "Yongqing Ma",
-        "Miaomiao Yang",
-        "Jiang Sun"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Inferior alveolar nerve (IAN) sensory disturbance after mandibular third molar extraction can persist and affect speech, mastication, and quality of life. Photobiomodulation (PBM) has been used to promote peripheral nerve recovery, but the most suitable irradiation strategy remains unclear. Laser acupuncture (LA) delivers PBM to predefined acupoints and may provide both local and central neuromodulatory effects. To compare standardized LA with direct nerve-trajectory PBM for post-extraction IAN hypoesthesia in a randomized, double-blind, sham-controlled trial. Adults aged 18-60 years with unilateral IAN hypoesthesia lasting ≥7 days and ≤12 weeks were randomized (1:1:1) to LA, direct PBM along the external IAN projection, or sham treatment. All participants received mecobalamin (0.5 mg, three times daily) for 30 days. PBM was delivered using an 808-nm diode laser (continuous wave, 100 mW; beam area 1.0 cm2), 90 s/site (9 J; 9 J/cm2), every other day for 15 sessions. LA used a fixed 5 + 2 prescription: ST4, ST6, ST7, CV24, Jiachengjiang (EX-HN19), plus LI4 and PC6. Primary outcomes were two-point discrimination (TPD) and Semmes-Weinstein monofilament examination (SWME) at day 30. Secondary outcomes included Visual Analog Scale (VAS) numbness, additional sensory tests, and day-60 follow-up. Sixty participants completed the intervention. Both active groups improved more than sham for TPD and SWME (group × time p < 0.01). Mean TPD change at day 30 was -3.2 ± 1.8 mm (LA) and -2.6 ± 1.7 mm (direct PBM) versus -0.8 ± 1.1 mm (sham). SWME improved by ≥1 grade in 85%, 80%, and 25%, respectively. VAS numbness decreased by 60%, 48%, and 12%, respectively, and the improvement was largely maintained at day 60. No treatment-related adverse events occurred. Under matched PBM dosimetry, both irradiation strategies improved sensory recovery compared with sham. LA produced comparable results and was associated with greater improvement in patient-reported numbness.",
-      "objective": "",
-      "study_methods": "Adults aged 18-60 years with unilateral IAN hypoesthesia lasting ≥7 days and ≤12 weeks were randomized (1:1:1) to LA, direct PBM along the external IAN projection, or sham treatment. All participants received mecobalamin (0.5 mg, three times daily) for 30 days. PBM was delivered using an 808-nm diode laser (continuous wave, 100 mW; beam area 1.0 cm2), 90 s/site (9 J; 9 J/cm2), every other day for 15 sessions. LA used a fixed 5 + 2 prescription: ST4, ST6, ST7, CV24, Jiachengjiang (EX-HN19), plus LI4 and PC6. Primary outcomes were two-point discrimination (TPD) and Semmes-Weinstein monofilament examination (SWME) at day 30. Secondary outcomes included Visual Analog Scale (VAS) numbness, additional sensory tests, and day-60 follow-up.",
-      "methods": "Adults aged 18-60 years with unilateral IAN hypoesthesia lasting ≥7 days and ≤12 weeks were randomized (1:1:1) to LA, direct PBM along the external IAN projection, or sham treatment. All participants received mecobalamin (0.5 mg, three times daily) for 30 days. PBM was delivered using an 808-nm diode laser (continuous wave, 100 mW; beam area 1.0 cm2), 90 s/site (9 J; 9 J/cm2), every other day for 15 sessions. LA used a fixed 5 + 2 prescription: ST4, ST6, ST7, CV24, Jiachengjiang (EX-HN19), plus LI4 and PC6. Primary outcomes were two-point discrimination (TPD) and Semmes-Weinstein monofilament examination (SWME) at day 30. Secondary outcomes included Visual Analog Scale (VAS) numbness, additional sensory tests, and day-60 follow-up.",
-      "results": "and was associated with greater improvement in patient-reported numbness.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42338379/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42324024",
       "title": "Towards an integrative understanding of the human temporalis muscle: Anatomical, histological, and imaging evidence.",
       "authors": [
@@ -2340,124 +2663,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324024/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "42320261",
-      "title": "The Impact of Dental Prostheses in Patients With Cardiovascular Disease: A Scoping Review With Exploratory Analysis.",
-      "authors": [
-        "Monika Werdiningsih",
-        "En-Chih Weng",
-        "Yoko Hasegawa",
-        "Ma Therese Sta Maria",
-        "Kazuhiro Hori",
-        "Yasuyuki Nagasawa",
-        "Ken Shinmura"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Dental prostheses not only restore oral function but may also impact systemic health outcomes. This scoping review sought to synthesize evidence on the association between dental prostheses, hypertension, and physical function, including frailty, in adults with established cardiovascular disease (CVD) or elevated cardiovascular risk. This review was conducted following the PRISMA-ScR guidelines and Joanna Briggs Institute methodology. Literature searches were performed in PubMed and Google Scholar up to November 10, 2024. Eligible studies were observational investigations involving adults with established CVD or elevated cardiovascular risk who used dental prostheses. An exploratory quantitative approach was used to summarize the direction and patterns of association. Seven studies met the inclusion criteria: 5 assessed hypertension and 2 examined physical function. Exploratory pooled analysis based on unadjusted data indicated that individuals with dental prostheses had a lower odds of hypertension (odds ratio = 0.69; 95% confidence interval, 0.52-0.91), although substantial heterogeneity (I² = 95%) and the use of unadjusted estimates imply a high risk of residual confounding. Limited evidence suggests that dental prosthesis use may help preserve mobility and mitigate frailty in patients with CVD; however, differences in frailty definitions and limited adjustment for confounding factors reduce comparability and indicate that these findings should be interpreted as exploratory and hypothesis-generating. Current evidence suggests that dental prosthesis use may offer benefits beyond oral rehabilitation, potentially linked to better hypertension-related outcomes and physical function in adults with CVD or elevated cardiovascular risk, but certainty is limited by the small number of studies and methodological heterogeneity. These exploratory, hypothesis-generating findings highlight the need for well-designed longitudinal studies to clarify potential associations and underlying mechanisms. Beyond restoring oral function, prosthodontic rehabilitation may have broader systemic implications, contributing to better cardiovascular-related outcomes in aging populations.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42320261/",
-      "pmcid": "PMC13314744",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42275743",
-      "title": "A Letter to the Editor: The Role of Artificial Intelligence in Dental Education-A Tool or a Crutch?",
-      "authors": [
-        "Soukaina Abidi",
-        "Youssra Azzouz",
-        "Yasmine Hanine",
-        "Rime Chraibi",
-        "Oumaima Finnaoui",
-        "Hanae Bouzakhnin",
-        "Saliha Chbicheb"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42275743/",
-      "pmcid": "PMC13276540",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42229148",
-      "title": "Dental Antibiotic Prescribing Practices and Antimicrobial Resistance Knowledge in Singapore.",
-      "authors": [
-        "Jia Qi Low",
-        "Marietta Taylor",
-        "Behnjemyn Jeng Kit Loh",
-        "Jacob Ren Jie Chew",
-        "Leanne Teoh",
-        "Charlene Enhui Goh"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "While dental antibiotic prescribing accounts for approximately 10% of all antibiotic prescriptions across human healthcare worldwide, up to 80% are inappropriate. These contribute to the growing global health threat of antimicrobial resistance (AMR). Effective antibiotic stewardship requires an up-to-date understanding of antibiotic prescribing practices and knowledge. This study aimed to assess the antibiotic prescribing practices, knowledge and attitudes among dentists in Singapore. A survey was distributed in 2024 to dentists using convenience sampling through the mailing lists of professional dental organisations. Appropriate use was assessed by comparing the responses with dental prescribing guidelines and stratified by clinical specialty. Multivariable logistic regressions were used to identify dentist characteristics predicting appropriate prescribing. Two hundred and eighty dentists completed the questionnaire. Appropriate antibiotic prescribing varied widely, ranging from 6.5% to 97.7% across clinical scenarios. The lowest appropriate prescribing rates were observed for periodontal scenarios (30.4% ± 37.5%). Rates were similarly low for oral surgery scenarios (34.0% ± 29.0%) but higher for restorative (58.3% ± 28.6%) and for the management of medically complex patients (56.6% ± 18.0%). When faced with nonclinical pressures (eg, patient request for antibiotics, lack of a definitive diagnosis), only 21.1% to 37.5% practised appropriate prescribing. In multivariable regressions, locally trained dentists, those in the public sector, and those with fewer years of experience showed higher rates of appropriate prescribing. Although dentists recognised the importance of appropriate antibiotic use and the threat of AMR, many demonstrated inappropriate prescribing and gaps in their understanding of AMR. Future training interventions could increase awareness of recently published local guidelines and offer digital resources to address knowledge gaps and meet training demand. Implementation strategies are also needed to translate interventions into practice. Understanding antibiotic prescribing practices, knowledge, and attitudes among dentists in Singapore can guide targeted interventions to enhance antibiotic stewardship within the dental profession.",
-      "objective": "",
-      "study_methods": "A survey was distributed in 2024 to dentists using convenience sampling through the mailing lists of professional dental organisations. Appropriate use was assessed by comparing the responses with dental prescribing guidelines and stratified by clinical specialty. Multivariable logistic regressions were used to identify dentist characteristics predicting appropriate prescribing.",
-      "methods": "A survey was distributed in 2024 to dentists using convenience sampling through the mailing lists of professional dental organisations. Appropriate use was assessed by comparing the responses with dental prescribing guidelines and stratified by clinical specialty. Multivariable logistic regressions were used to identify dentist characteristics predicting appropriate prescribing.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42229148/",
-      "pmcid": "PMC13254855",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42202386",
-      "title": "Middle-Term Follow-Up Outcomes of the Customised Temporomandibular Joint-Skull Base Combined Prosthesis by 3D Printing.",
-      "authors": [
-        "Qingyu Xu",
-        "Yuxin Zhang",
-        "Xiang Wei",
-        "Liang Huo",
-        "Zixiang Han",
-        "Lingtong Bu",
-        "Minjie Chen",
-        "Jisi Zheng",
-        "Chi Yang"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "The combined lesions of the temporomandibular joint (TMJ) and skull base pose a considerable clinical challenge, frequently necessitating complex reconstructive procedures, yet established treatment protocols remain insufficient. This case series aims to assess the middle-term clinical safety, accuracy, and efficacy of our own customised temporomandibular joint-skull base combined prosthesis by 3D printing. This is a prospective single-centre consecutive case series study and planned to enrol 12 patients. Patients with TMJ-skull base combined lesions who visited the Department of Oral Surgery of our hospital from September 2016 to April 2024 were recruited. General conditions, clinical examinations, and radiological evaluations were conducted preoperatively and at 1 month, 3 months, 6 months, 1 year, 2 years, and possibly beyond 3 years postoperatively. Computed tomography scans were used to assess prosthesis position and bone contact. The 10 cm visual analogue scale (VAS) was used to assess pain, diet, and mandibular function. Objective evaluations included maximum internal opening, deviation of opening, and maximum mandibular forward and lateral movement. SPSS software was employed for data analysis. A total of 12 patients (6 females and 6 males, with an average age of 46.58 ± 12.17 years) were included; all patients underwent prosthesis implantation. After a follow-up period of 3.85 ± 2.63 years, patients showed no adverse symptoms such as infection and cerebrospinal fluid leakage. The occlusion and face type were stable. The prosthesis did not exhibit significant loosening, displacement, or fracture, and all had good bone integration. Postoperative pain, diet, mandibular function, and maximum internal opening underwent significant enhancement, whereas deviation of opening and mandibular movement towards the non-diseased side remained unchanged. The customised TMJ-skull base combined prosthesis developed in this study exhibited favourable mid-term clinical safety, accuracy, and efficacy in its application. Our findings offer promising prospects in and clinical translational value in terms of development of TMJ and skull base reconstruction technology in future.",
-      "objective": "to assess the middle-term clinical safety, accuracy, and efficacy of our own customised temporomandibular joint-skull base combined prosthesis by 3D printing. This is a prospective single-centre consecutive case series study and planned to enrol 12 patients. Patients with TMJ-skull base combined lesions who visited the Department of Oral Surgery of our hospital from September 2016 to April 2024 were recruited. General conditions, clinical examinations, and radiological evaluations were conducted preoperatively and at 1 month, 3 months, 6 months, 1 year, 2 years, and possibly beyond 3 years postoperatively. Computed tomography scans were used to assess prosthesis position and bone contact. The 10 cm visual analogue scale (VAS) was used to assess pain, diet, and mandibular function. Objective evaluations included maximum internal opening, deviation of opening, and maximum mandibular forward and lateral movement. SPSS software was employed for data analysis. A total of 12 patients (6 females and 6 males, with an average age of 46.58 ± 12.17 years) were included; all patients underwent prosthesis implantation. After a follow-up period of 3.85 ± 2.63 years, patients showed no adverse symptoms such as infection and cerebrospinal fluid leakage. The occlusion and face type were stable. The prosthesis did not exhibit significant loosening, displacement, or fracture, and all had good bone integration. Postoperative pain, diet, mandibular function, and maximum internal opening underwent significant enhancement, whereas deviation of opening and mandibular movement towards the non-diseased side remained unchanged. The customised TMJ-skull base combined prosthesis developed in this study exhibited favourable mid-term clinical safety, accuracy, and efficacy in its application. Our findings offer promising prospects in and clinical translational value in terms of development of TMJ and skull base reconstruction technology in future.",
-      "study_methods": "This is a prospective single-centre consecutive case series study and planned to enrol 12 patients. Patients with TMJ-skull base combined lesions who visited the Department of Oral Surgery of our hospital from September 2016 to April 2024 were recruited. General conditions, clinical examinations, and radiological evaluations were conducted preoperatively and at 1 month, 3 months, 6 months, 1 year, 2 years, and possibly beyond 3 years postoperatively. Computed tomography scans were used to assess prosthesis position and bone contact. The 10 cm visual analogue scale (VAS) was used to assess pain, diet, and mandibular function. Objective evaluations included maximum internal opening, deviation of opening, and maximum mandibular forward and lateral movement. SPSS software was employed for data analysis.",
-      "methods": "This is a prospective single-centre consecutive case series study and planned to enrol 12 patients. Patients with TMJ-skull base combined lesions who visited the Department of Oral Surgery of our hospital from September 2016 to April 2024 were recruited. General conditions, clinical examinations, and radiological evaluations were conducted preoperatively and at 1 month, 3 months, 6 months, 1 year, 2 years, and possibly beyond 3 years postoperatively. Computed tomography scans were used to assess prosthesis position and bone contact. The 10 cm visual analogue scale (VAS) was used to assess pain, diet, and mandibular function. Objective evaluations included maximum internal opening, deviation of opening, and maximum mandibular forward and lateral movement. SPSS software was employed for data analysis.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42202386/",
-      "pmcid": "PMC13233517",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233517/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233517/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233517/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233517/bin/gr2.gif"
-      ]
     },
     {
       "pmid": "42190437",
@@ -2490,28 +2695,6 @@
       ]
     },
     {
-      "pmid": "42171497",
-      "title": "Image-Guided Excision of Oral Leukoplakia Using Narrow-Band Imaging Illumination and Two-Stage Local Anesthesia.",
-      "authors": [
-        "Shih-Wei Yang"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "This study evaluated the use of narrow-band imaging (NBI) to assist in achieving adequate excision of oral leukoplakia with complete removal of lesions. Use of lidocaine combined with a vasoconstrictor for local anesthesia is standard practice in surgery. However, the blanching effect that follows injection can obscure the boundary between oral leukoplakia and the surrounding normal mucosa. A two-stage local anesthesia protocol was applied: plain lidocaine was first administered for anesthesia, after which the excision margin was defined under NBI illumination using a carbon dioxide laser, followed by lidocaine with epinephrine for resection. Twenty-one patients (18 men, 3 women) with 50 lesions were treated. All surgical margins were free of residual disease. During at least 12 months of follow-up, one recurrence occurred, and no malignant transformations were observed. In conclusion, NBI-guided excision with two-stage local anesthesia avoids the blanching effect and enhances visualization, facilitates precise margin delineation, and supports complete lesion removal.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": ", NBI-guided excision with two-stage local anesthesia avoids the blanching effect and enhances visualization, facilitates precise margin delineation, and supports complete lesion removal.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42171497/",
-      "pmcid": "PMC13417947",
-      "figure_urls": []
-    },
-    {
       "pmid": "42166883",
       "title": "Distinct synovial proinflammatory cytokine and hyaluronic acid profiles in temporomandibular joint of patients with Class Ⅱ and Class Ⅲ dentofacial deformities.",
       "authors": [
@@ -2537,73 +2720,10 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42166883/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42160811",
-      "title": "The Efficacy and Safety of Intranasal Dexmedetomidine Spray Followed by Nitrous Oxide for Paediatric Oral Procedures.",
-      "authors": [
-        "Yu-Jie Xiao",
-        "Hong-Yu Zhang",
-        "Meng-Di Nie",
-        "Guo-Sheng Liu",
-        "Wei Peng",
-        "Ji-Hong Zhao",
-        "Zhen-Hao Hu",
-        "Huan Sun",
-        "Yang Wu"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "The management of uncooperative children requiring complex outpatient oral procedures presents a significant clinical challenge. This study aimed to evaluate the safety and efficacy of intranasal dexmedetomidine (DEX) spray combined with nitrous oxide/oxygen (N₂O/O₂) inhalation sedation for the extraction of impacted supernumerary teeth in paediatric patients. This retrospective clinical study enrolled uncooperative children aged 6 to 12 years (Frankl Scale score 2-3). Preoperative sedation was achieved using 2 µg/kg intranasal DEX spray. After sedation onset, heart rate (HR), blood pressure (BP), and oxygen saturation (SpO₂) were monitored. Throughout the procedure, N₂O/O₂ inhalation was administered to maintain a moderate sedation level, with HR, BP, SpO₂, and sedation depth recorded at 5-minute intervals. Postoperatively, patients were observed in the recovery room until all discharge criteria were met. All 63 patients (34 boys and 29 girls) cooperated with nasal hood placement and successfully underwent parental separation. Sixty children (95.24%) completed the procedure successfully, with 56 (88.89%) maintaining moderate sedation depth throughout. There were significant decreases in HR and BP (P < .001), while SpO₂ (P = .120) remained stable during procedures. Adverse events included drowsiness (5 cases, 7.94%), dizziness (2 cases, 3.17%), and hypotension (8 cases, 12.70%). Only one (1.59%) case experienced hypoxemia concurrently presenting with bradycardia and hypotension, which required brief clinical intervention. The combination of intranasal DEX spray and N₂O/O₂ appears to be a promising sedation technique for impacted supernumerary tooth extraction in paediatric patients, with minimal adverse effects rarely requiring clinical intervention. This protocol shows promise in addressing the challenge of non-cooperation prior to N₂O administration, and may offer an effective, convenient, and relatively safe approach for managing uncooperative paediatric patients undergoing complex oral surgery.",
-      "objective": "",
-      "study_methods": "This retrospective clinical study enrolled uncooperative children aged 6 to 12 years (Frankl Scale score 2-3). Preoperative sedation was achieved using 2 µg/kg intranasal DEX spray. After sedation onset, heart rate (HR), blood pressure (BP), and oxygen saturation (SpO₂) were monitored. Throughout the procedure, N₂O/O₂ inhalation was administered to maintain a moderate sedation level, with HR, BP, SpO₂, and sedation depth recorded at 5-minute intervals. Postoperatively, patients were observed in the recovery room until all discharge criteria were met.",
-      "methods": "This retrospective clinical study enrolled uncooperative children aged 6 to 12 years (Frankl Scale score 2-3). Preoperative sedation was achieved using 2 µg/kg intranasal DEX spray. After sedation onset, heart rate (HR), blood pressure (BP), and oxygen saturation (SpO₂) were monitored. Throughout the procedure, N₂O/O₂ inhalation was administered to maintain a moderate sedation level, with HR, BP, SpO₂, and sedation depth recorded at 5-minute intervals. Postoperatively, patients were observed in the recovery room until all discharge criteria were met.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42160811/",
-      "pmcid": "PMC13217589",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13217589/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13217589/bin/gr2.jpg"
-      ]
-    },
-    {
-      "pmid": "42160810",
-      "title": "Corrigendum to 'Significance of methyltransferase-like 5 expression in oral squamous cell carcinoma' [Volume 76, Issue 3, June 2026, 109533].",
-      "authors": [
-        "Yuka Kajiya",
-        "Kaori Shima",
-        "Yudai Shimojukkoku",
-        "Yasunobu Oku",
-        "Takahiro Tsuchiyama",
-        "Kanako Higashimoto",
-        "Miyako Kurihara-Shimomura",
-        "Tomonori Sasahira"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42160810/",
-      "pmcid": "PMC13213646",
       "figure_urls": []
     },
     {
@@ -2936,62 +3056,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42535967/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42532531",
-      "title": "[A retrospective study of pedicled flaps for repair of oral mucosal defects in patients with medication-related osteonecrosis of the jaw].",
-      "authors": [
-        "D D Wang",
-        "Y W Liu",
-        "J Wang",
-        "Y X Guo",
-        "D Xu",
-        "Z H Tang",
-        "C Huang",
-        "C L Zong",
-        "L Tian"
-      ],
-      "publication_date": "2026-Jul-30",
-      "publication_date_iso": "2026-07-30",
-      "abstract": "Objective: To investigate the clinical efficacy of pedicled flaps for repairing oral mucosa defects in medication-related osteonecrosis of the jaw (MRONJ), and to analyze the indications for different types of pedicled flaps. Methods: The clinical data of 158 MRONJ patients who met the inclusion criteria and were admitted to the Department of Maxillofacial Trauma and Orthognathic Surgery, Hospital of Stomatology, Air Force Medical University from January 2019 to December 2024 were retrospectively analyzed, including 74 males (46.8%) and 84 females (53.2%).The mean age was (59.2±10.7) years (range, from 20 to 87 years old). According to the method of soft tissue repair, the patients were divided into direct suture group (61 cases) and pedicled tissue flap group (97 cases, including 80 cases of buccal fat pad flap and 17 cases of submental island flap). The rate of secondary operation was compared between the two groups. Multivariate binary Logistic regression and subgroup analysis were used to evaluate the efficacy and influencing factors of pedicled tissue flaps, and the comparison between the buccal fat pad flap and submental island flap was performed. Results: The median follow-up time was 36 months. Univariate analysis showed that the secondary operation rate was 68.9% (42/61) in the direct suture group, which was significantly higher than 16.5% (16/97) in the pedicled tissue flap group (P<0.001). After adjusting for confounding factors such as age and lesion location, multivariate Logistic regression analysis showed that pedicled tissue flap was an independent protective factor against the risk of secondary surgery (OR=0.049, P<0.001). Stage 3 disease was an independent risk factor for secondary surgery (OR=8.455, P=0.002). Subgroup analysis showed that the secondary operation rate of pedicled tissue flap was significantly lower than that of direct suture in stage 3 group, mandibular group,<65 years group, male group and female group (all P<0.05). There was no significant difference among stage 2 group, maxillary group and≥65 years group (all P>0.05), but the trend of protection was the same. The secondary operation rate was 17.5% (14/80) in the buccal fat pad flap group and 2/17 in the submental island flap group. There was no significant difference between the two groups (P=0.730). Conclusions: The use of pedicled tissue flap for repairing oral mucosal wounds can significantly reduce the risk of secondary surgery for MRONJ, and the effect is superior to direct suture. Buccal fat pad flap is the first choice for maxillary and retromolar mucosal defects, and submental island flap can be used for large mandibular mucosal defects.",
-      "objective": "To investigate the clinical efficacy of pedicled flaps for repairing oral mucosa defects in medication-related osteonecrosis of the jaw (MRONJ), and to analyze the indications for different types of pedicled flaps.",
-      "study_methods": "Methods: The clinical data of 158 MRONJ patients who met the inclusion criteria and were admitted to the Department of Maxillofacial Trauma and Orthognathic Surgery, Hospital of Stomatology, Air Force Medical University from January 2019 to December 2024 were retrospectively analyzed, including 74 males (46.8%) and 84 females (53.2%).The mean age was (59.2±10.7) years (range, from 20 to 87 years old). According to the method of soft tissue repair, the patients were divided into direct suture group (61 cases) and pedicled tissue flap group (97 cases, including 80 cases of buccal fat pad flap and 17 cases of submental island flap). The rate of secondary operation was compared between the two groups. Multivariate binary Logistic regression and subgroup analysis were used to evaluate the efficacy and influencing factors of pedicled tissue flaps, and the comparison between the buccal fat pad flap and submental island flap was performed.",
-      "methods": "Methods: The clinical data of 158 MRONJ patients who met the inclusion criteria and were admitted to the Department of Maxillofacial Trauma and Orthognathic Surgery, Hospital of Stomatology, Air Force Medical University from January 2019 to December 2024 were retrospectively analyzed, including 74 males (46.8%) and 84 females (53.2%).The mean age was (59.2±10.7) years (range, from 20 to 87 years old). According to the method of soft tissue repair, the patients were divided into direct suture group (61 cases) and pedicled tissue flap group (97 cases, including 80 cases of buccal fat pad flap and 17 cases of submental island flap). The rate of secondary operation was compared between the two groups. Multivariate binary Logistic regression and subgroup analysis were used to evaluate the efficacy and influencing factors of pedicled tissue flaps, and the comparison between the buccal fat pad flap and submental island flap was performed.",
-      "results": "The median follow-up time was 36 months. Univariate analysis showed that the secondary operation rate was 68.9% (42/61) in the direct suture group, which was significantly higher than 16.5% (16/97) in the pedicled tissue flap group (P<0.001). After adjusting for confounding factors such as age and lesion location, multivariate Logistic regression analysis showed that pedicled tissue flap was an independent protective factor against the risk of secondary surgery (OR=0.049, P<0.001). Stage 3 disease was an independent risk factor for secondary surgery (OR=8.455, P=0.002). Subgroup analysis showed that the secondary operation rate of pedicled tissue flap was significantly lower than that of direct suture in stage 3 group, mandibular group,<65 years group, male group and female group (all P<0.05). There was no significant difference among stage 2 group, maxillary group and≥65 years group (all P>0.05), but the trend of protection was the same. The secondary operation rate was 17.5% (14/80) in the buccal fat pad flap group and 2/17 in the submental island flap group. There was no significant difference between the two groups (P=0.730).",
-      "conclusion": "The use of pedicled tissue flap for repairing oral mucosal wounds can significantly reduce the risk of secondary surgery for MRONJ, and the effect is superior to direct suture. Buccal fat pad flap is the first choice for maxillary and retromolar mucosal defects, and submental island flap can be used for large mandibular mucosal defects.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42532531/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42530108",
-      "title": "Beyond the Bleed: Characterization of Traumatic Head and Neck Pseudoaneurysms in the Facial Trauma Patient.",
-      "authors": [
-        "Andrew J Stefan",
-        "Nasser Junedi",
-        "Zachary Buxo",
-        "Abed Najjar",
-        "Michael A Carron"
-      ],
-      "publication_date": "2026-Jul-30",
-      "publication_date_iso": "2026-07-30",
-      "abstract": "Traumatic head and neck pseudoaneurysms are rare, potentially life-threatening vascular injuries that may accompany craniomaxillofacial trauma. This retrospective observational cohort study characterizes the presentation, management, and outcomes of these injuries in civilian patients treated at academic level I to II urban trauma centers from January 2009 to May 2025. Patients were identified using ICD-9/10 codes, and variables included demographics, injury mechanism, vessel location, imaging, associated injuries, treatment modality, complications, and outcomes. The primary outcome was the rate of intervention required; secondary outcomes included the intervention type, intraoperative hemorrhage rate, delayed bleeding incidence, need for delayed fracture repair, and survival to discharge. Seventeen patients were identified with a mean age of 38.8 years and 88.2% male predominance. Penetrating trauma accounted for 52.9% of injuries. The vertebral (29.4%), internal carotid (17.6%), and subclavian (17.6%) arteries were most commonly involved. Concomitant craniomaxillofacial fractures occurred in 47.1% of patients, with the vertebral artery disproportionately involved in this subgroup (62.5%, P=0.009). For the primary outcome, 70.6% of patients ultimately required intervention. Endovascular techniques were preferred over open repair (58.3% versus 41.7%). Only 41.2% of patients presented with significant bleeding immediately after injury, while 17.6% experienced delayed bleeding. Delayed fracture repair to prioritize vascular intervention occurred in 12.5% of patients. All patients survived to hospital discharge despite a 58.3% intraoperative hemorrhage rate. These findings suggest traumatic head and neck pseudoaneurysms frequently require intervention but rarely necessitate delayed facial fracture management with coordinated multidisciplinary care. A low threshold for CTA screening in high-risk craniomaxillofacial trauma patients enables early detection and favorable outcomes.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42530108/",
       "pmcid": "",
       "figure_urls": []
     }
