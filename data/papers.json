@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T04:30:19Z",
+  "updated_at": "2026-08-08T03:39:12Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -613,9 +613,9 @@
       "pmcid": "PMC12773631",
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_PB.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0002_PB.jpg"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0001_OC.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0003_OC.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12773631/bin/KVIR_A_2602261_F0003_OC.gif"
       ]
     },
     {
@@ -856,6 +856,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42564839",
+      "title": "Effect of Carbon-Ion Radiation Therapy on Maxillary Ameloblastic Fibrosarcoma.",
+      "authors": [
+        "Atsushi Musha",
+        "Nobuteru Kubo",
+        "Takeru Ohtaka",
+        "Masahiro Onishi",
+        "Hiro Sato",
+        "Tatsuya Ohno"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42564839/",
+      "pmcid": "PMC13445205",
+      "figure_urls": []
+    },
+    {
       "pmid": "42502792",
       "title": "Radiographic evolution of a dentigerous cyst associated with a deeply impacted mandibular first molar in a pediatric patient: a CBCT-based longitudinal case report with minimal-visit orthodontic management.",
       "authors": [
@@ -969,6 +996,28 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42372578/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42361700",
+      "title": "Comment on \"Facial surgery preview based on the orthognathic treatment prediction\" (Han et al., 2025).",
+      "authors": [
+        "Kai-Hua Lien"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42361700/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1373,58 +1422,29 @@
       "figure_urls": []
     },
     {
-      "pmid": "42302928",
-      "title": "EIF3B promotes oral squamous cell carcinoma progression via the PI3K/AKT pathway and is negatively regulated by miR-124-3p.",
+      "pmid": "42565001",
+      "title": "Patient-specific implants are more stable than conventional miniplates in Le Fort I osteotomy in patients with clefts.",
       "authors": [
-        "Xianglong Zheng",
-        "Bingju Gao",
-        "Jun Li",
-        "Yihan Ji",
-        "Yang Lin",
-        "Lisong Lin",
-        "Yu Qiu"
+        "Vilma Rouhiainen",
+        "Arja Heliövaara",
+        "Junnu Leikola",
+        "Juho Suojanen",
+        "Emma Juuri"
       ],
-      "publication_date": "2026-Sep-15",
-      "publication_date_iso": "2026-09-15",
-      "abstract": "Oral squamous cell carcinoma (OSCC) has a poor prognosis and lacks effective therapeutic targets. Eukaryotic initiation factor 3B (EIF3B) is aberrantly overexpressed in multiple cancers, yet its role in OSCC remains unclear. Bioinformatic analyses identified EIF3B as a potential target of the tumor-suppressive microRNA miR-124-3p. In this study, the expression of miR-124-3p and EIF3B was examined in OSCC tissues and cell lines by qRT-PCR and western blotting, and their direct interaction was verified using a dual-luciferase assay. Functional effects on proliferation, migration, apoptosis, and tumorigenicity were evaluated through in vitro and xenograft assays. The underlying mechanisms were explored via analysis of PI3K/AKT signaling and epithelial-mesenchymal transition (EMT) markers, with LY294002 used to confirm pathway dependency. EIF3B was significantly upregulated, while miR-124-3p was downregulated, in OSCC tissues (n = 49). EIF3B expression correlated with advanced TNM stage and poor prognosis. EIF3B promoted proliferation, migration, and invasion, and inhibited apoptosis, whereas miR-124-3p exerted the opposite effects. miR-124-3p directly targeted the 3'UTR of EIF3B, and EIF3B overexpression reversed its suppressive effects. EIF3B activated PI3K/AKT signaling and EMT, both of which were abolished by miR-124-3p or LY294002. These findings define the miR-124-3p/EIF3B/PI3K-AKT axis as a key regulator of OSCC progression and suggest EIF3B as a potential prognostic biomarker and therapeutic target.",
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Virtual surgical planning (VSP) and patient-specific implants (PSI) have become standard in orthognathic surgery, demonstrating accuracy and stability comparable with miniplates. To compare postoperative skeletal stability of Le Fort I osteotomy using VSP with PSIs versus conventional cast model surgery with miniplate fixation in patients with clefts. Retrospective analysis of lateral cephalograms and medical records of patients who underwent Le Fort I osteotomy between 2017 and 2023 at the Cleft Palate and Craniofacial Center, Helsinki University Hospital. Horizontal and vertical surgical advancement and relapse were assessed by superimposing preoperative, immediate, and one-year postoperative cephalometric tracings. Statistical analyses included independent samples t-, Mann-Whitney U-, Chi-squared and Fischer's exact test. Fifty-nine non-growing patients with cleft lip and/or palate (29 males; median age 18.9 years) were categorized into two groups based on the fixation method (19 PSI, 40 miniplate). Mean maxillary advancement was greater with PSIs than miniplates (7.1 mm vs. 4.3 mm; p < 0.001). Mean vertical movement was -0.8 mm with PSIs vs. -3.8 mm with miniplates (p < 0.001), reflecting more impactions in the PSI group. Horizontal and vertical relapses were significantly smaller in the PSI group (horizontal: 0.28 mm vs. 0.9 mm, 4% vs. 21% of advancement; p < 0.001; vertical: 0.81 mm vs. 1.6 mm, 30% vs. 41% of movement; p = 0.004). Horizontal advancement correlated with relapse only with miniplates (r = 0.329, p = 0.038). PSI fixation in cleft Le Fort I osteotomy seems to provide greater horizontal and vertical stability than miniplates.",
       "objective": "",
-      "study_methods": "",
-      "methods": "",
+      "study_methods": "Retrospective analysis of lateral cephalograms and medical records of patients who underwent Le Fort I osteotomy between 2017 and 2023 at the Cleft Palate and Craniofacial Center, Helsinki University Hospital. Horizontal and vertical surgical advancement and relapse were assessed by superimposing preoperative, immediate, and one-year postoperative cephalometric tracings. Statistical analyses included independent samples t-, Mann-Whitney U-, Chi-squared and Fischer's exact test.",
+      "methods": "Retrospective analysis of lateral cephalograms and medical records of patients who underwent Le Fort I osteotomy between 2017 and 2023 at the Cleft Palate and Craniofacial Center, Helsinki University Hospital. Horizontal and vertical surgical advancement and relapse were assessed by superimposing preoperative, immediate, and one-year postoperative cephalometric tracings. Statistical analyses included independent samples t-, Mann-Whitney U-, Chi-squared and Fischer's exact test.",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42302928/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42372655",
-      "title": "Necrotic tumor cells contribute to pro-tumoral responses and inflammatory mediator production via NF-κB activation in oral squamous cell carcinoma.",
-      "authors": [
-        "Manabu Yamazaki",
-        "Tatsuya Abé",
-        "Satoshi Maruyama",
-        "Kei Tomihara",
-        "Kenji Izumi",
-        "Jun-Ichi Tanuma"
-      ],
-      "publication_date": "2026-Sep-03",
-      "publication_date_iso": "2026-09-03",
-      "abstract": "Although tumor necrosis has traditionally been regarded as a passive consequence of rapid tumor growth, current evidence suggests that necrotic tumor cells actively modulate the behavior of surrounding viable cancer cells. In this study, we investigated whether necrotic tumor cells promote pro-tumoral activation of oral squamous cell carcinoma (OSCC) cells and aimed to elucidate its underlying mechanisms. Human OSCC cell lines were exposed to necrotic tumor cells under both direct and indirect co-culture conditions. Necrotic cells significantly enhanced proliferation, migration, and invasion of viable OSCC cells independent of direct cell-cell contact, which indicates the involvement of soluble factors. Necrotic cell stimulation induced the nuclear accumulation of NF-κB p65 and increased the expression of downstream inflammatory mediators, including CXCL8. Pharmacological inhibition of NF-κB signaling attenuated necrotic cell-induced pro-tumoral phenotypes and reduced CXCL8 secretion. These findings suggest that necrotic tumor cells induce pro-tumoral phenotypic changes in OSCC cells by activating canonical NF-κB signaling and subsequent pro-inflammatory responses. Additionally, this study provides a mechanistic insight into the role of tumor necrosis in establishing a tumor-favorable microenvironment.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42372655/",
-      "pmcid": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42565001/",
+      "pmcid": "PMC13446194",
       "figure_urls": []
     },
     {
@@ -1588,6 +1608,62 @@
       "figure_urls": []
     },
     {
+      "pmid": "42418926",
+      "title": "Comprehensive three-dimensional morphological changes of mandibular incisors and surrounding alveolar bone in patients with skeletal Class III malocclusion following surgery-first or conventional bimaxillary orthognathic surgery.",
+      "authors": [
+        "Yule Xu",
+        "Ruoyuan Li",
+        "Han Ge",
+        "Enshi Yan",
+        "Yuan Li",
+        "Jinwei Qin",
+        "Hua Wang",
+        "Jin Li",
+        "Jie Cheng"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "This retrospective clinical and radiographic study aimed to quantitatively compare root resorption of mandibular incisors and surrounding alveolar bone remodeling in skeletal Class III malocclusion patients treated with surgery-first approach (SFA) or conventional orthognathic surgery (COS). Sixty-two eligible patients with skeletal Class III malocclusion treated with COS (n = 31) or SFA (n = 31) at our institution between January 2020 and December 2024 were included. CBCT scans were obtained at the following time points: before treatment (T0), completed presurgical orthodontic treatment (T1)-only for COS patients, and 1-2 weeks after postsurgical orthodontics completed and debonding (T2). Skeletal and dental parameters at diverse stages were determined by Dolphin Imaging software. Incisor roots were segmented into eight regions and their length and volume were measured by Mimics 21.0. Moreover, alveolar bone height surrounding the mandibular incisors was measured and compared at diverse stages. Root resorption and alveolar bone loss were found in the lower incisors after treatment irrespective of SFA or COS. SFA induced less root resorption and alveolar bone reduction as compared to COS. Moreover, root resorption was positively correlated with increased incisor inclination in SFA patients and alveolar bone loss was positively associated with increased incisor inclination among COS patients. Initial buccal alveolar bone height negatively associated with bone reduction after treatment in both groups. Taken together, our results indicate that SFA has advantages in reduced root resorption and alveolar bone loss in the mandibular incisors as compared to COS in skeletal Class III malocclusion, thus highlighting the need to monitor these changes in patients receiving combined orthognathic and orthodontic treatment.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "indicate that SFA has advantages in reduced root resorption and alveolar bone loss in the mandibular incisors as compared to COS in skeletal Class III malocclusion, thus highlighting the need to monitor these changes in patients receiving combined orthognathic and orthodontic treatment.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42418926/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42418925",
+      "title": "Functional and morphometric outcome of adaptable slicing condylectomy in transverse condylar hyperplasia: A deep learning-enhanced 3D study.",
+      "authors": [
+        "F Spallaccia",
+        "U Committeri",
+        "M E Giovannoni",
+        "A Ricciardi",
+        "P Cascone"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Unilateral condylar hyperplasia (UCH) with transverse mandibular deviation is a frequent cause of facial asymmetry and skeletal Class III malocclusion. Adaptive slice condylectomy (ASC) has been proposed as a focused alternative to bimaxillary orthognathic surgery (OS), aiming to recenter the dental midline without bilateral skeletal osteotomies. We evaluated morphological and functional outcomes after SC using AI-assisted 3D analysis. This retrospective cohort comprised 55 patients with transverse UCH treated between 2011 and 2024 at a single maxillofacial unit: 36 underwent unilateral ASC and 19 received bimaxillary OS. Cone-beam CT (CBCT) scans at baseline (T0) and 12 months (T1) were processed in 3D Slicer using a pretrained MONAI 3D U-Net for segmentation. Rigid cranial-base registration aligned T1 to T0. Metrics included condylar head volume, mean bone density, center displacement (ΔX/ΔY/ΔZ; |Δ|), and orientation change (axis-axis angle and yaw/pitch/roll). Postoperatively, the operated condyle was compared with the mirrored contralateral healthy side. ASC produced a predominantly lateral-superior repositioning of the treated condyle with midline correction. The contralateral condyle showed small adaptive shifts with overall morphologic stability. Mean postoperative asymmetry versus the mirrored side was 0.35 mm; the healthy side varied minimally (mean -0.32 mm), with deviations >1.5 mm confined to posteromedial sectors. No TMJ dysfunction occurred after ASC. Relative to OS, ASC was associated with shorter operative time (-80 min), reduced length of stay (-0.5 days), and fewer complications. Adaptive slice condylectomy is a safe and effective unilateral option for transverse UCH with III class, achieving functional correction and symmetry targets without routine bimaxillary osteotomies. The results are so good that we applied this procedure instead of bilateral sagittal split osteotomy (BSSO) in all patients with classes III and asymmetry adding, if necessary, Le Fort I surgery (advancement, canting correction, surgically assisted rapid palatal expansion-SARPE).",
+      "objective": "",
+      "study_methods": "This retrospective cohort comprised 55 patients with transverse UCH treated between 2011 and 2024 at a single maxillofacial unit: 36 underwent unilateral ASC and 19 received bimaxillary OS. Cone-beam CT (CBCT) scans at baseline (T0) and 12 months (T1) were processed in 3D Slicer using a pretrained MONAI 3D U-Net for segmentation. Rigid cranial-base registration aligned T1 to T0. Metrics included condylar head volume, mean bone density, center displacement (ΔX/ΔY/ΔZ; |Δ|), and orientation change (axis-axis angle and yaw/pitch/roll). Postoperatively, the operated condyle was compared with the mirrored contralateral healthy side.",
+      "methods": "This retrospective cohort comprised 55 patients with transverse UCH treated between 2011 and 2024 at a single maxillofacial unit: 36 underwent unilateral ASC and 19 received bimaxillary OS. Cone-beam CT (CBCT) scans at baseline (T0) and 12 months (T1) were processed in 3D Slicer using a pretrained MONAI 3D U-Net for segmentation. Rigid cranial-base registration aligned T1 to T0. Metrics included condylar head volume, mean bone density, center displacement (ΔX/ΔY/ΔZ; |Δ|), and orientation change (axis-axis angle and yaw/pitch/roll). Postoperatively, the operated condyle was compared with the mirrored contralateral healthy side.",
+      "results": "are so good that we applied this procedure instead of bilateral sagittal split osteotomy (BSSO) in all patients with classes III and asymmetry adding, if necessary, Le Fort I surgery (advancement, canting correction, surgically assisted rapid palatal expansion-SARPE).",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42418925/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42414159",
       "title": "Predictive value of ultrasonographic parameters in the treatment of oral vascular anomalies.",
       "authors": [
@@ -1611,6 +1687,95 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42414159/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42413458",
+      "title": "Accuracy of maxillary positioning using patient-specific implants in a surgery-first approach.",
+      "authors": [
+        "Shady Abu-Sirhan",
+        "Simon Bigus",
+        "Nils Lucca Kern",
+        "Erin Sprünken",
+        "Lukas Mödl",
+        "Robert Gaudin",
+        "Tim Lukas Elter",
+        "Max Heiland",
+        "Tobias Ebker",
+        "Axel Bumann"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "This study aimed to evaluate the transfer accuracy of virtually planned maxillary repositioning within a Surgery First protocol using 3D-printed guides and patient-specific implants. In addition, the feasibility of a fully digital interdisciplinary workflow was analyzed. The patients in this study were treated with a completely virtually planned interdisciplinary treatment pathway according to the Surgery First concept using a 3D-printed maxillary guide and patient-specific implants as well as a 3D-printed final occlusion-splint. The osteosynthesis in the mandible was performed conventionally using miniplates. The postoperative cone beam computed tomography (CBCT) was overlaid with the planning data set and the transfer precision was analyzed with defined bony landmarks in the upper jaw using Onyx Ceph software (Image Instruments). 63 patients were included in the analysis. The gender distribution was almost 2:1. Included were 41 female and 22 male patients. Mean age was 37.9 ± 10.1 years, and 12 patients presented with OSAS. Postoperative complications were rare and managed conservatively. The transfer accuracy of maxillary positioning was within ±1-2 mm at all landmarks, with only occasional minimal exceedance of the 3-mm threshold, indicating high clinical accuracy. Regional differences were observed, with slightly larger deviations at L4 and L5 and smaller deviations at L9-L11 (global p < 0.01); however, these did not compromise overall clinical precision. Virtual surgical planning combined with patient-specific cutting guides and customized osteosynthesis plates enables clinically accurate maxillary positioning in Surgery First patients, with transfer deviations predominantly within the accepted 1-2 mm threshold. The fully digital interdisciplinary workflow allows predictable intraoperative transfer despite the absence of a presurgical occlusal reference and can be safely applied across different indications for bimaxillary surgery.",
+      "objective": "",
+      "study_methods": "The patients in this study were treated with a completely virtually planned interdisciplinary treatment pathway according to the Surgery First concept using a 3D-printed maxillary guide and patient-specific implants as well as a 3D-printed final occlusion-splint. The osteosynthesis in the mandible was performed conventionally using miniplates. The postoperative cone beam computed tomography (CBCT) was overlaid with the planning data set and the transfer precision was analyzed with defined bony landmarks in the upper jaw using Onyx Ceph software (Image Instruments).",
+      "methods": "The patients in this study were treated with a completely virtually planned interdisciplinary treatment pathway according to the Surgery First concept using a 3D-printed maxillary guide and patient-specific implants as well as a 3D-printed final occlusion-splint. The osteosynthesis in the mandible was performed conventionally using miniplates. The postoperative cone beam computed tomography (CBCT) was overlaid with the planning data set and the transfer precision was analyzed with defined bony landmarks in the upper jaw using Onyx Ceph software (Image Instruments).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42413458/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42413457",
+      "title": "Sex-related differences in skeletal relapse after bimaxillary orthognathic surgery: A retrospective case-control study.",
+      "authors": [
+        "Fleur Vermeiren",
+        "Ubai Alsharif",
+        "Herman Vercruysse",
+        "Nasser Nadjmi",
+        "Geert Van Hemelen",
+        "Didier Dielen",
+        "Maarten Van Genechten",
+        "Sten Stevens",
+        "Jan Van de Perre",
+        "Elke Van de Casteele"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Postoperative skeletal relapse remains a significant challenge following orthognathic surgery. While several risk factors, such as the magnitude of surgical movements and high preoperative mandibular plane angle, have been identified, the influence of biological sex on postoperative skeletal stability has not been well established. This study aimed to investigate sex-related differences in skeletal relapse after bimaxillary surgery with mandibular advancement. A matched retrospective case-control study was conducted in 70 patients (35 males, 35 females) who underwent bimaxillary orthognathic surgery at AZ Monica Antwerp (2018-2024). Patients were matched by age, mandibular advancement magnitude, and 1-year follow-up duration. Skeletal changes were assessed using 3D CBCT superimposition at three time points: preoperative (T0), immediate postoperative (T1), and 1-year follow-up (T2). (Clinically significant) mandibular relapse in all three directions at one year was low and did not differ significantly between males and females in any direction. The magnitude of intraoperative mandibular advancement was the strongest predictor of sagittal relapse (β = 0.28 mm per mm), and increasing patient age was associated with a modest reduction in relapse. Adding an interaction term between age and sex did not change the estimates. These findings confirm bimaxillary advancement surgery as a stable procedure regardless of sex.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42413457/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42330576",
+      "title": "Masseter microvascular perfusion after minimally invasive sagittal split ramus osteotomy: A long-term split-mouth study.",
+      "authors": [
+        "Mert Şahin",
+        "Canay Yılmaz Asan",
+        "Aykağan Çukurluoğlu",
+        "Melisa Oya Acar",
+        "Gökhan Çoban",
+        "Ahmet Emin Demirbaş"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Sagittal split ramus osteotomy (SSRO), a widely used mandibular procedure in orthognathic surgery, may affect the masticatory muscles through subperiosteal dissection and soft-tissue manipulation. Although minimally invasive modifications aim to reduce surgical trauma, their long-term effect on masseter muscle microvascular perfusion remains unclear. This cross-sectional observational split-mouth study compared minimally invasive SSRO (MISSRO) and conventional SSRO using superb microvascular imaging (SMI). Twenty-one patients who underwent bilateral SSRO for mandibular advancement and completed at least 18 months of follow-up were included. In each patient, the conventional Hunsuck technique was performed on one side, while MISSRO was performed on the contralateral side. Microvascular perfusion was quantified using the vascular index (VI) calculated from SMI images with ImageJ software; masseter muscle thickness was then measured on B-mode ultrasonographic images. The minimally invasive side showed significantly higher microvascular perfusion than the conventional side (VI: 13.72 ± 7.43 vs. 8.24 ± 7.33; p = 0.001), whereas masseter muscle thickness did not differ significantly between sides (9.71 ± 1.87 mm vs. 10.27 ± 1.89 mm; p = 0.052). These findings indicate higher long-term masseter microvascular perfusion on the minimally invasive side; however, in the absence of preoperative or normative reference values and of functional correlates, the clinical significance of this difference remains to be determined.",
+      "objective": "to reduce surgical trauma, their long-term effect on masseter muscle microvascular perfusion remains unclear. This cross-sectional observational split-mouth study compared minimally invasive SSRO (MISSRO) and conventional SSRO using superb microvascular imaging (SMI). Twenty-one patients who underwent bilateral SSRO for mandibular advancement and completed at least 18 months of follow-up were included. In each patient, the conventional Hunsuck technique was performed on one side, while MISSRO was performed on the contralateral side. Microvascular perfusion was quantified using the vascular index (VI) calculated from SMI images with ImageJ software; masseter muscle thickness was then measured on B-mode ultrasonographic images. The minimally invasive side showed significantly higher microvascular perfusion than the conventional side (VI: 13.72 ± 7.43 vs. 8.24 ± 7.33; p = 0.001), whereas masseter muscle thickness did not differ significantly between sides (9.71 ± 1.87 mm vs. 10.27 ± 1.89 mm; p = 0.052). These findings indicate higher long-term masseter microvascular perfusion on the minimally invasive side; however, in the absence of preoperative or normative reference values and of functional correlates, the clinical significance of this difference remains to be determined.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42330576/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1640,6 +1805,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42308747",
+      "title": "Dynamic navigation combined with guide plate-assisted immediate implantation in the posterior maxillary region through the zygomatic bone.",
+      "authors": [
+        "Zeyad A Al-Awadhi",
+        "Ningbo Geng",
+        "Jing Ren",
+        "Tianren Zhou",
+        "Shiting Mo",
+        "Songling Chen"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Zygomatic implantation addresses insufficient posterior maxillary bone volume for implant restoration, but it presents high technical difficulty and risks. Dynamic real-time navigation can enhance implantation accuracy and safety. The aim of this study is to investigate the clinical application value of dynamic navigation combined with static guide plates for immediate implant placement in patients with severe bone defects in the maxillary posterior region. 31 patients with 48 zygomatic implants were included in this study. The patients were divided into three groups: navigation combined with plate group (17 implants), guide plates group (15 implants), and free-hand group (16 implants). The implant initial stability, the bone-to-implant contact (BIC), implant accuracy, success rate, and restoration time were evaluated. All zygomatic implants were successfully implanted. The navigation combined with template group had higher initial stability and maximum torque values. Additionally, the BIC value and implant accuracy of the navigation combined with plate group were significantly better than those of the guide plate and free-hand implant groups (P < 0.05). In conclusion, the dynamic navigation combined with static guide plates in zygomatic immediate implant placement can achieve accurate implantation, higher primary stability, and reduce technical difficulty of the operation.",
+      "objective": "of this study is to investigate the clinical application value of dynamic navigation combined with static guide plates for immediate implant placement in patients with severe bone defects in the maxillary posterior region. 31 patients with 48 zygomatic implants were included in this study. The patients were divided into three groups: navigation combined with plate group (17 implants), guide plates group (15 implants), and free-hand group (16 implants). The implant initial stability, the bone-to-implant contact (BIC), implant accuracy, success rate, and restoration time were evaluated. All zygomatic implants were successfully implanted. The navigation combined with template group had higher initial stability and maximum torque values. Additionally, the BIC value and implant accuracy of the navigation combined with plate group were significantly better than those of the guide plate and free-hand implant groups (P < 0.05). In",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": ", the dynamic navigation combined with static guide plates in zygomatic immediate implant placement can achieve accurate implantation, higher primary stability, and reduce technical difficulty of the operation.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42308747/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42275922",
       "title": "Local vitamin D",
       "authors": [
@@ -1662,6 +1854,61 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42275922/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42247973",
+      "title": "Postoperative pain and wound healing following pediatric oral soft-tissue surgery: A network meta-analysis.",
+      "authors": [
+        "Kanwalpreet Kaur",
+        "Ravinder S Saini",
+        "Rajesh Vyas",
+        "Mario Alberto Alarcón-Sánchez",
+        "Javier Flores-Fraile",
+        "Artak Heboyan"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "We conducted a network meta-analysis to evaluate and prioritize scalpels and energy-based soft-tissue management tools used during pediatric oral surgeries. This was based on postoperative pain levels and wound healing results. A systematic review and network meta-analysis were conducted. This analysis was performed following the PRISMA-NMA guidelines. The electronic databases PubMed, Scopus, Web of Science, ScienceDirect, and Cochrane Library were searched from inception to December 2025. Randomized controlled trials and prospective comparative studies of pediatric patients undergoing oral soft-tissue surgery were eligible for inclusion. The included interventions were scalpel surgery, diode laser, CO2 laser, Nd:YAG laser, and electrosurgery. The primary outcomes were postoperative pain and wound healing. The risk of bias was assessed using the Cochrane RoB 2 and ROBINS-I tools. Frequentist and Bayesian random-effects network meta-analyses were performed. Treatment ranking was estimated by reporting the surface under the cumulative ranking curve (SUCRA) values. Twelve studies were included in this review. All energy-based modalities produced less postoperative pain than scalpel surgery. The highest ranking probability for reducing pain was observed with electrosurgery (SUCRA 71.2%), followed by Nd: YAG laser (SUCRA 66.8%) and diode laser (SUCRA 56.5%). Scalpel surgery had the lowest probability ranking (19.7%). Diode laser had the highest probability for wound healing (SUCRA 86.6%). This was followed by scalpel surgery (71.8%). Electrosurgery had the lowest ranking probabilities for all wound healing outcomes (SUCRA 5.5%). No significant inconsistency was observed between the direct and indirect comparisons. Publication bias was low for the postoperative pain. Energy-based modalities offer outcome-selective advantages over conventional scalpel surgery for minor oral soft-tissue procedures. The maximum reduction in postoperative pain was achieved using electrosurgery and Nd: YAG laser. Diode lasers offer the best wound-healing results. These results validate an approach to pediatric oral surgery that focuses on individual outcomes using personalized techniques.",
+      "objective": "",
+      "study_methods": "A systematic review and network meta-analysis were conducted. This analysis was performed following the PRISMA-NMA guidelines. The electronic databases PubMed, Scopus, Web of Science, ScienceDirect, and Cochrane Library were searched from inception to December 2025. Randomized controlled trials and prospective comparative studies of pediatric patients undergoing oral soft-tissue surgery were eligible for inclusion. The included interventions were scalpel surgery, diode laser, CO2 laser, Nd:YAG laser, and electrosurgery. The primary outcomes were postoperative pain and wound healing. The risk of bias was assessed using the Cochrane RoB 2 and ROBINS-I tools. Frequentist and Bayesian random-effects network meta-analyses were performed. Treatment ranking was estimated by reporting the surface under the cumulative ranking curve (SUCRA) values.",
+      "methods": "A systematic review and network meta-analysis were conducted. This analysis was performed following the PRISMA-NMA guidelines. The electronic databases PubMed, Scopus, Web of Science, ScienceDirect, and Cochrane Library were searched from inception to December 2025. Randomized controlled trials and prospective comparative studies of pediatric patients undergoing oral soft-tissue surgery were eligible for inclusion. The included interventions were scalpel surgery, diode laser, CO2 laser, Nd:YAG laser, and electrosurgery. The primary outcomes were postoperative pain and wound healing. The risk of bias was assessed using the Cochrane RoB 2 and ROBINS-I tools. Frequentist and Bayesian random-effects network meta-analyses were performed. Treatment ranking was estimated by reporting the surface under the cumulative ranking curve (SUCRA) values.",
+      "results": "A systematic review and network meta-analysis were conducted. This analysis was performed following the PRISMA-NMA guidelines. The electronic databases PubMed, Scopus, Web of Science, ScienceDirect, and Cochrane Library were searched from inception to December 2025. Randomized controlled trials and prospective comparative studies of pediatric patients undergoing oral soft-tissue surgery were eligible for inclusion. The included interventions were scalpel surgery, diode laser, CO2 laser, Nd:YAG laser, and electrosurgery. The primary outcomes were postoperative pain and wound healing. The risk of bias was assessed using the Cochrane RoB 2 and ROBINS-I tools. Frequentist and Bayesian random-effects network meta-analyses were performed. Treatment ranking was estimated by reporting the surface under the cumulative ranking curve (SUCRA) values. Twelve studies were included in this review. All energy-based modalities produced less postoperative pain than scalpel surgery. The highest ranking probability for reducing pain was observed with electrosurgery (SUCRA 71.2%), followed by Nd: YAG laser (SUCRA 66.8%) and diode laser (SUCRA 56.5%). Scalpel surgery had the lowest probability ranking (19.7%). Diode laser had the highest probability for wound healing (SUCRA 86.6%). This was followed by scalpel surgery (71.8%). Electrosurgery had the lowest ranking probabilities for all wound healing outcomes (SUCRA 5.5%). No significant inconsistency was observed between the direct and indirect comparisons. Publication bias was low for the postoperative pain. Energy-based modalities offer outcome-selective advantages over conventional scalpel surgery for minor oral soft-tissue procedures. The maximum reduction in postoperative pain was achieved using electrosurgery and Nd: YAG laser. Diode lasers offer the best wound-healing results. These results validate an approach to pediatric oral surgery that focuses on individual outcomes using personalized techniques.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42247973/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42247969",
+      "title": "Deep learning-automatic 3D analysis of regional condylar remodeling and skeletal relapse following bimaxillary surgery: a two-year follow-up study.",
+      "authors": [
+        "Rik van Luijn",
+        "Frank Baan",
+        "Jeroen Liebregts",
+        "Shank Vinayahalingam",
+        "Stefaan Bergé",
+        "Thomas Maal",
+        "Tong Xi"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "The aim of this study was to quantify postoperative regional condylar remodeling and its role in skeletal relapse after bimaxillary surgery using CBCT scans. 40 patients with mandibular hypoplasia who underwent bimaxillary surgery were analyzed. CBCT scans were acquired preoperatively, one-week postoperatively and two-years postoperatively. Deep-learning based 3D regional condylar volume analysis was performed and skeletal relapse was quantified through voxel-based matching. The maxilla and mandible were advanced by a mean of 2.87 mm and 8.37 mm, respectively, with a corresponding mean sagittal relapse of .57 mm and 1.62 mm. Postoperative volume loss was observed in 78% of condyles (mean loss = 242 mm3; 16%). Linear regression analyses identified age, gender and magnitude of advancement as significant predictors of relapse. Condylar volume loss significantly mediated the relationship between surgical advancement and skeletal relapse, accounting for 29.1% of the total effect. No statistically significant correlation was found between specific condylar regional sub-volumes and directions of surgical movement. These findings underline the importance of condylar volume stability in predicting long-term skeletal stability among patients who undergo bimaxillary surgery with large advancements. The results also indicated that condylar remodeling is a generalized phenomenon related to surgical movements rather than a localized process restricted to specific anatomical regions of condyles.",
+      "objective": "of this study was to quantify postoperative regional condylar remodeling and its role in skeletal relapse after bimaxillary surgery using CBCT scans. 40 patients with mandibular hypoplasia who underwent bimaxillary surgery were analyzed. CBCT scans were acquired preoperatively, one-week postoperatively and two-years postoperatively. Deep-learning based 3D regional condylar volume analysis was performed and skeletal relapse was quantified through voxel-based matching. The maxilla and mandible were advanced by a mean of 2.87 mm and 8.37 mm, respectively, with a corresponding mean sagittal relapse of .57 mm and 1.62 mm. Postoperative volume loss was observed in 78% of condyles (mean loss = 242 mm3; 16%). Linear regression analyses identified age, gender and magnitude of advancement as significant predictors of relapse. Condylar volume loss significantly mediated the relationship between surgical advancement and skeletal relapse, accounting for 29.1% of the total effect. No statistically significant correlation was found between specific condylar regional sub-volumes and directions of surgical movement. These findings underline the importance of condylar volume stability in predicting long-term skeletal stability among patients who undergo bimaxillary surgery with large advancements. The",
+      "study_methods": "",
+      "methods": "",
+      "results": "also indicated that condylar remodeling is a generalized phenomenon related to surgical movements rather than a localized process restricted to specific anatomical regions of condyles.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42247969/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1835,6 +2082,56 @@
       "figure_urls": []
     },
     {
+      "pmid": "42565255",
+      "title": "Determinants of Postoperative Follow-up after Facial Trauma Surgery.",
+      "authors": [
+        "Austin D Schafer",
+        "Ryan Puccia"
+      ],
+      "publication_date": "2026-Aug-07",
+      "publication_date_iso": "2026-08-07",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42565255/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42563453",
+      "title": "Impact of Keratinized Mucosa Width and Mucosal Thickness on Implant Outcomes and Brushing Discomfort: A 25-Year Cohort Study.",
+      "authors": [
+        "Emilio Couso-Queiruga",
+        "Clemens Raabe",
+        "Andrea Roccuzzo",
+        "Giovanni E Salvi",
+        "Manrique Fonseca",
+        "Vivianne Chappuis"
+      ],
+      "publication_date": "2026-Aug-06",
+      "publication_date_iso": "2026-08-06",
+      "abstract": "To assess the impact of keratinized mucosa width (KMW) and mucosal thickness (MT) on peri-implant conditions over 25 years in patients with adequate oral hygiene enrolled in regular supportive peri-implant care. Partially edentulous patients rehabilitated with tissue-level implants were clinically and radiographically evaluated by calibrated examiners. Patient-reported brushing discomfort was recorded, and associations with variables of interest were analysed. A total of 149 patients, 235 implants, with a mean follow-up of 25.4 ± 3 years, were included. Peri-implantitis prevalence was 11.1%, 0% and 7.1% in the 0-mm, < 2-mm and ≥ 2-mm KMW groups, respectively (p = 0.98). Sites with 0 mm KMW showed significantly greater crestal bone loss (CBL) than < 2 mm (-0.28 mm) and ≥ 2 mm (-0.40 mm) (p = 0.01). Absence of KMW was associated with an increased risk of peri-implant soft-tissue dehiscence (PSTD) and implant platform visibility (p ≤ 0.01). No significant differences were observed for probing depth (PD), bleeding on probing (BOP), plaque index or peri-implant diseases (p > 0.05). MT was not associated with CBL, PD, BOP, suppuration on probing (SOP) or peri-implant diseases (p > 0.05). Thin MT (< 2 mm) was linked to increased PSTD (p = 0.005), greater implant platform visibility (p = 0.04) and lower plaque index (p = 0.01). Brushing discomfort was reported in 11.4% of sites with 0 mm KMW, compared with 3.4% and 2.4% in the < 2 mm and ≥ 2 mm groups, respectively, with no significant associations across KMW or MT groups (p > 0.05). KMW was associated with long-term peri-implant tissue stability, whereas thin MT was primarily associated with an increased risk of PSTD. Neither KMW nor MT was significantly associated with long-term brushing discomfort.",
+      "objective": "",
+      "study_methods": "Partially edentulous patients rehabilitated with tissue-level implants were clinically and radiographically evaluated by calibrated examiners. Patient-reported brushing discomfort was recorded, and associations with variables of interest were analysed.",
+      "methods": "Partially edentulous patients rehabilitated with tissue-level implants were clinically and radiographically evaluated by calibrated examiners. Patient-reported brushing discomfort was recorded, and associations with variables of interest were analysed.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42563453/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42560345",
       "title": "Pharyngeal Airway Volumes in Adults With Cleft Palate: Comparing an Anatomic Cleft Restoration Philosophy \"Buccal Flap\" Palatoplasty and Non-Cleft Controls.",
       "authors": [
@@ -1966,7 +2263,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42557296/",
-      "pmcid": "",
+      "pmcid": "PMC13444241",
       "figure_urls": []
     },
     {
@@ -2245,6 +2542,37 @@
       "figure_urls": []
     },
     {
+      "pmid": "42564962",
+      "title": "Renier H-cranioplasty Modifies Skull Shape More Than Total Vault Remodeling in Nonsyndromic Scaphocephaly: Artificial Intelligence-based Study.",
+      "authors": [
+        "Steeven Bibas",
+        "Quentin Hennocq",
+        "Nicolas Kogane",
+        "Thomas Bongibault",
+        "Ludovic Bénichou",
+        "Olivier Lienhard",
+        "Eric Arnaud",
+        "Giovanna Paternoster",
+        "Nicolas Garcelon",
+        "Roman Hossein Khonsari"
+      ],
+      "publication_date": "2026-Aug",
+      "publication_date_iso": "2026-08-01",
+      "abstract": "Scaphocephaly, the most common single-suture craniosynostosis, results from premature sagittal suture closure. Surgery aims to restore normal skull morphology and prevent raised intracranial pressure. We used artificial intelligence-based methods to assess craniofacial morphology in patients with nonsyndromic scaphocephaly, comparing pre- and postoperative 2-dimensional (2D) facial photographs with controls to evaluate the outcomes of 2 age-specific techniques and identify the key morphological parameters. We analyzed a database of 1369 patients (1979-2023) using 1544 2D frontal and lateral photographs, including 358 patients with scaphocephaly-130 treated with Renier H-cranioplasty and 119 with total vault remodeling (TVR). Our approach combined automatic facial landmark detection, point-cloud superimposition, geometric morphometrics, texture analysis, classification algorithms, and generation of synthetic patient faces. Patients treated with Renier H-cranioplasty were compared with those treated with TVR. Significant morphological differences were found between patients with scaphocephaly and controls, both before and after surgery. Postoperatively, patients retained a distinguishable craniofacial phenotype, indicating that surgery did not fully normalize the skull shape. Early Renier H-cranioplasty reduced the anteroposterior diameter more effectively than late TVR. Both techniques had limited impact on posterior cranial vault morphology. Artificial intelligence-based analysis of 2D facial photographs provided valuable insights into diagnosis and surgical morphological outcomes in scaphocephaly. Postoperatively, patients maintained a nonnormalized phenotype, with early correction yielding better results than late remodeling. Further studies are needed to correlate these shape modifications with intracranial pressure values.",
+      "objective": "to restore normal skull morphology and prevent raised intracranial pressure. We used artificial intelligence-based",
+      "study_methods": "We analyzed a database of 1369 patients (1979-2023) using 1544 2D frontal and lateral photographs, including 358 patients with scaphocephaly-130 treated with Renier H-cranioplasty and 119 with total vault remodeling (TVR). Our approach combined automatic facial landmark detection, point-cloud superimposition, geometric morphometrics, texture analysis, classification algorithms, and generation of synthetic patient faces. Patients treated with Renier H-cranioplasty were compared with those treated with TVR.",
+      "methods": "We analyzed a database of 1369 patients (1979-2023) using 1544 2D frontal and lateral photographs, including 358 patients with scaphocephaly-130 treated with Renier H-cranioplasty and 119 with total vault remodeling (TVR). Our approach combined automatic facial landmark detection, point-cloud superimposition, geometric morphometrics, texture analysis, classification algorithms, and generation of synthetic patient faces. Patients treated with Renier H-cranioplasty were compared with those treated with TVR.",
+      "results": "from premature sagittal suture closure. Surgery aims to restore normal skull morphology and prevent raised intracranial pressure. We used artificial intelligence-based methods to assess craniofacial morphology in patients with nonsyndromic scaphocephaly, comparing pre- and postoperative 2-dimensional (2D) facial photographs with controls to evaluate the outcomes of 2 age-specific techniques and identify the key morphological parameters. We analyzed a database of 1369 patients (1979-2023) using 1544 2D frontal and lateral photographs, including 358 patients with scaphocephaly-130 treated with Renier H-cranioplasty and 119 with total vault remodeling (TVR). Our approach combined automatic facial landmark detection, point-cloud superimposition, geometric morphometrics, texture analysis, classification algorithms, and generation of synthetic patient faces. Patients treated with Renier H-cranioplasty were compared with those treated with TVR. Significant morphological differences were found between patients with scaphocephaly and controls, both before and after surgery. Postoperatively, patients retained a distinguishable craniofacial phenotype, indicating that surgery did not fully normalize the skull shape. Early Renier H-cranioplasty reduced the anteroposterior diameter more effectively than late TVR. Both techniques had limited impact on posterior cranial vault morphology. Artificial intelligence-based analysis of 2D facial photographs provided valuable insights into diagnosis and surgical morphological outcomes in scaphocephaly. Postoperatively, patients maintained a nonnormalized phenotype, with early correction yielding better results than late remodeling. Further studies are needed to correlate these shape modifications with intracranial pressure values.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42564962/",
+      "pmcid": "PMC13446966",
+      "figure_urls": []
+    },
+    {
       "pmid": "42560182",
       "title": "The United States Military Otolaryngologist's Surgical Workload in Bagram and the Effect of Subspecialty Training.",
       "authors": [
@@ -2496,67 +2824,10 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42471772/",
       "pmcid": "PMC13380819",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42466535",
-      "title": "Understanding the Workflows in Dynamic and Robotic Computer-Assisted Implant Surgery.",
-      "authors": [
-        "Adria Jorba-Garcia",
-        "Shengchi Fan",
-        "Feng Wang",
-        "James Chow",
-        "Atiphan Pimkhaokham",
-        "Nikos Mattheos",
-        "Alessandro Pozzi"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "Computer-assisted implant surgery (CAIS) represents a comprehensive digital workflow integrating prosthetically driven planning with various execution modalities. Among these, dynamic (d-CAIS) and robotic (r-CAIS) systems constitute two distinct yet interrelated approaches, sharing core technological principles as well as operative differences. This white paper aims to provide a structured overview of the fundamental concepts and workflows underpinning d- and r-CAIS, focusing on their shared components, procedural steps, and system-specific characteristics. Both approaches rely on accurate digital treatment planning, spatial positioning systems, registration protocols, and real-time feedback mechanisms to guide implant placement. However, while d-CAIS enables operator-controlled freehand execution under real-time navigation, r-CAIS introduces robotic assistance or task autonomy, integrating mechanical actuation into the surgical workflow. Rather than providing exhaustive technical instructions, this work aims to establish a conceptual framework to support clinicians in understanding and evaluating emerging CAIS technologies and their role in contemporary implant dentistry. Furthermore, it discusses current advantages, limitations, and challenges related to clinical implementation, cost, and training requirements.",
-      "objective": "to provide a structured overview of the fundamental concepts and workflows underpinning d- and r-CAIS, focusing on their shared components, procedural steps, and system-specific characteristics. Both approaches rely on accurate digital treatment planning, spatial positioning systems, registration protocols, and real-time feedback mechanisms to guide implant placement. However, while d-CAIS enables operator-controlled freehand execution under real-time navigation, r-CAIS introduces robotic assistance or task autonomy, integrating mechanical actuation into the surgical workflow. Rather than providing exhaustive technical instructions, this work aims to establish a conceptual framework to support clinicians in understanding and evaluating emerging CAIS technologies and their role in contemporary implant dentistry. Furthermore, it discusses current advantages, limitations, and challenges related to clinical implementation, cost, and training requirements.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42466535/",
-      "pmcid": "PMC13377617",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42423273",
-      "title": "Long-Term Incidence of Peri-Implant Conditions: 25-Year Results of The Bernese Prospective Cohort Study.",
-      "authors": [
-        "Emilio Couso-Queiruga",
-        "Andrea Roccuzzo",
-        "Clemens Raabe",
-        "Vivianne Chappuis",
-        "Daniel Buser",
-        "Manrique Fonseca",
-        "Giovanni E Salvi"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "To assess 25-year implant survival, success rates, peri-implant conditions, and variables influencing peri-implant mucositis (PM), peri-implantitis (PI), and loss of osseointegration. Partially edentulous patients rehabilitated with tissue-level implant-supported prostheses were evaluated. Calibrated examiners performed clinical and radiographic assessments, and potential variables for PM and PI were analyzed at the final follow-up. At the 10- and 25-year follow-ups, 303 and 159 patients with 511 and 252 implants, respectively, were included. Implant failure (IF) was 1.2% at 10 years and 6.0% at 25 years, with implant survival rates of 98.8% and 94.0%, respectively (p < 0.001). Implant success rates ranged from 97.0% at 10 years to 90.8% at 25 years (p < 0.001). IF due to loss of osseointegration increased from 0.6% to 3.6% at the implant level and from 1.0% to 2.5% at the patient level, and were located only in premolar or molar sites. At implant level, peri-implant health (PH) was 14.4% at 10 and 25 years (p = 1.00), while PM decreased from 82.1% to 76.5% (p = 0.08), and PI increased from 3.5% to 9.1% (p = 0.001). At patient level, PH remained stable between 10 and 25 years, ranging from 10.0% to 10.3% (p = 0.94), while PM decreased from 80.0% to 71.6% (p = 0.06), and PI increased from 10.0% to 18.1% (p = 0.01). In the multivariate analysis, history of periodontitis (OR = 3.87) and facial mucosal thickness (OR = 0.42) were associated with PM, whereas facial mucosal thickness was associated with PI (OR = 0.02). After 25 years, implant survival and success exceeded 90%. Loss of osseointegration accounted for approximately 60% of IF. While PI and IF increased over time, PM decreased but remained prevalent.",
-      "objective": "",
-      "study_methods": "Partially edentulous patients rehabilitated with tissue-level implant-supported prostheses were evaluated. Calibrated examiners performed clinical and radiographic assessments, and potential variables for PM and PI were analyzed at the final follow-up.",
-      "methods": "Partially edentulous patients rehabilitated with tissue-level implant-supported prostheses were evaluated. Calibrated examiners performed clinical and radiographic assessments, and potential variables for PM and PI were analyzed at the final follow-up.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42423273/",
-      "pmcid": "PMC13348018",
       "figure_urls": []
     },
     {
@@ -2583,30 +2854,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42419168/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42418813",
-      "title": "Cleaning Efficacy of Air Polishing on Tobacco-Stained Resin Composite: An In-Vitro Study.",
-      "authors": [
-        "Lukas Sigwart",
-        "Vera Wiesmüller",
-        "Ines Kapferer-Seebacher"
-      ],
-      "publication_date": "2026-Aug",
-      "publication_date_iso": "2026-08-01",
-      "abstract": "To evaluate the efficacy of air-polishing on color change and surface roughness of resin composite and enamel specimens after standardized cigarette smoke exposure. Sixty composite/enamel specimens were exposed daily to cigarette smoke in an automated chamber over four 14-day cycles (five cigarettes/day). After each cycle, specimens were cleaned using air-polishing with erythritol or sodium bicarbonate powder, or a rubber cup and pumice (control). Color changes (ΔE) were assessed spectrophotometrically, and surface roughness was measured profilometrically before and after each cycle. All cleaning methods significantly reduced tobacco staining on composite and enamel; however, none restored the original color. After four cycles, median [IQR] ΔE values for resin composites did not differ significantly among groups (erythritol: 26.17 [21.62-27.52]; sodium bicarbonate: 10.28 [7.44-27.77]; control: 24.56 [19.22-26.77]; p > 0.05). Surface roughness increased significantly in all groups, with the greatest increase following sodium bicarbonate air-polishing (p < 0.05). Luting gap roughness increased significantly with sodium bicarbonate in comparison with erythritol and the control group (p < 0.001). Repeated air-polishing did not promote further tobacco stain accumulation. Erythritol air-polishing effectively reduced discoloration with minimal surface alteration, whereas sodium bicarbonate caused significant roughening. Cigarette smoke causes clinically perceptible composite discoloration that cannot be completely eliminated. Erythritol represents a safer polishing option than sodium bicarbonate.",
-      "objective": "",
-      "study_methods": "Sixty composite/enamel specimens were exposed daily to cigarette smoke in an automated chamber over four 14-day cycles (five cigarettes/day). After each cycle, specimens were cleaned using air-polishing with erythritol or sodium bicarbonate powder, or a rubber cup and pumice (control). Color changes (ΔE) were assessed spectrophotometrically, and surface roughness was measured profilometrically before and after each cycle.",
-      "methods": "Sixty composite/enamel specimens were exposed daily to cigarette smoke in an automated chamber over four 14-day cycles (five cigarettes/day). After each cycle, specimens were cleaned using air-polishing with erythritol or sodium bicarbonate powder, or a rubber cup and pumice (control). Color changes (ΔE) were assessed spectrophotometrically, and surface roughness was measured profilometrically before and after each cycle.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42418813/",
-      "pmcid": "PMC13345598",
       "figure_urls": []
     },
     {
@@ -3030,32 +3277,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/40853340/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42535967",
-      "title": "Clear Aligners and Patient-Specific Plates in Orthognathic Surgery for a Periodontally Compromised Patient.",
-      "authors": [
-        "Sergio Olate",
-        "Claudio Huentequeo",
-        "Víctor Ravelo",
-        "Alejandro Unibazo",
-        "Gonzalo Muñoz"
-      ],
-      "publication_date": "2026-Jul-31",
-      "publication_date_iso": "2026-07-31",
-      "abstract": "Orthognathic surgery in patients with severe dental and periodontal compromise represents a significant clinical challenge, particularly in the presence of a history of prolonged compensatory orthodontics and suboptimal initial diagnosis. This report presents the case of a patient with a class III dentofacial deformity, 3-dimensional maxillary deficiency, mandibular prognathism, multiple tooth loss, and advanced periodontal disease. Management included periodontal therapy, initial dental rehabilitation, and the use of clear aligners as an orthodontic alternative, given the limited potential for conventional decompensation. An early orthognathic surgery approach was selected after a short aligner phase, with the aim of correcting the skeletal discrepancy and facilitating subsequent dental movements. The surgical procedure was performed using fully customized osteosynthesis systems in the maxilla, mandible, and chin, along with specific surgical guides, allowing precise execution without the need for intermediate or final splints. Surgery was completed without complications, and postoperative evaluation demonstrated skeletal stability and absence of dental or periodontal deterioration. This case demonstrates that the combination of aligners and patient-specific plates represents an effective and predictable strategy for the management of complex dentofacial deformities, particularly in scenarios with biological limitations, optimizing functional outcomes and reducing risks associated with prolonged conventional treatments.",
-      "objective": "of correcting the skeletal discrepancy and facilitating subsequent dental movements. The surgical procedure was performed using fully customized osteosynthesis systems in the maxilla, mandible, and chin, along with specific surgical guides, allowing precise execution without the need for intermediate or final splints. Surgery was completed without complications, and postoperative evaluation demonstrated skeletal stability and absence of dental or periodontal deterioration. This case demonstrates that the combination of aligners and patient-specific plates represents an effective and predictable strategy for the management of complex dentofacial deformities, particularly in scenarios with biological limitations, optimizing functional outcomes and reducing risks associated with prolonged conventional treatments.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42535967/",
       "pmcid": "",
       "figure_urls": []
     }
