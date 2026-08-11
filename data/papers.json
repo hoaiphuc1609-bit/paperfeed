@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T04:04:50Z",
+  "updated_at": "2026-08-11T03:49:34Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -521,9 +521,9 @@
       "pmcid": "PMC12851390",
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_OC.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0001_PB.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_UF0002_B.gif"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12851390/bin/KHVI_A_2610056_F0001_OC.jpg"
       ]
     },
     {
@@ -967,6 +967,39 @@
       "figure_urls": []
     },
     {
+      "pmid": "42407181",
+      "title": "Unilateral vocal cord paralysis: A comprehensive guide for general radiologists.",
+      "authors": [
+        "Caprioli Simone",
+        "Nizzi Edoardo",
+        "Borda Fabio",
+        "Fiannacca Martina",
+        "Kodheli Xhimi",
+        "Falcitano Laura",
+        "Pamparino Silvia",
+        "Gili Riccardo",
+        "Conforti Cristina",
+        "Lovino Camerino Paola",
+        "Castellan Lucio",
+        "Cittadini Giuseppe"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Unilateral vocal cord paralysis (UVCP) is characterized by the immobility of a hemilarynx resulting from neurological dysfunction. The laryngeal intrinsic muscles are innervated by the recurrent laryngeal nerve (RLN), a branch of the vagus nerve (VN). Pathological processes affecting the motor nucleus of the VN (nucleus ambiguus), the VN itself, or the RLN can result in UVCP. Crucially, UVCP must be distinguished from mechanical vocal cord hypomobility caused by local laryngeal factors. This review aims to provide a structured radiological guide for the evaluation of UVCP, focusing on the relevant clinical assessment, optimized imaging protocols, laryngeal anatomy, radiological signs of UVCP, and the anatomical pathways of the vagus and recurrent laryngeal nerves. A comprehensive review of current literature and clinical imaging standards was performed to synthetize a diagnostic approach for identifying UVCP ant its underlying causes from the brainstem to the neck and mediastinum. Condition causing UVCP may occur anywhere from the brainstem to the mediastinum and include inflammatory, vascular, and neoplastic diseases. By utilizing a structured anatomical approach, radiologists can systematically evaluate the nerve's entire course. However, while imaging is highly effective at detecting organic lesions, a significant number of cases remains idiopathic. Imaging is critical for identifying the site and nature of damage causing UVCP. A structured diagnostic approach ensures accurate evaluation of all potential causative lesions from the central nervous system to the chest, significantly impacting patient management.",
+      "objective": "to provide a structured radiological guide for the evaluation of UVCP, focusing on the relevant clinical assessment, optimized imaging protocols, laryngeal anatomy, radiological signs of UVCP, and the anatomical pathways of the vagus and recurrent laryngeal nerves. A comprehensive review of current literature and clinical imaging standards was performed to synthetize a diagnostic approach for identifying UVCP ant its underlying causes from the brainstem to the neck and mediastinum. Condition causing UVCP may occur anywhere from the brainstem to the mediastinum and include inflammatory, vascular, and neoplastic diseases. By utilizing a structured anatomical approach, radiologists can systematically evaluate the nerve's entire course. However, while imaging is highly effective at detecting organic lesions, a significant number of cases remains idiopathic. Imaging is critical for identifying the site and nature of damage causing UVCP. A structured diagnostic approach ensures accurate evaluation of all potential causative lesions from the central nervous system to the chest, significantly impacting patient management.",
+      "study_methods": "A comprehensive review of current literature and clinical imaging standards was performed to synthetize a diagnostic approach for identifying UVCP ant its underlying causes from the brainstem to the neck and mediastinum.",
+      "methods": "A comprehensive review of current literature and clinical imaging standards was performed to synthetize a diagnostic approach for identifying UVCP ant its underlying causes from the brainstem to the neck and mediastinum.",
+      "results": "ing from neurological dysfunction. The laryngeal intrinsic muscles are innervated by the recurrent laryngeal nerve (RLN), a branch of the vagus nerve (VN). Pathological processes affecting the motor nucleus of the VN (nucleus ambiguus), the VN itself, or the RLN can result in UVCP. Crucially, UVCP must be distinguished from mechanical vocal cord hypomobility caused by local laryngeal factors. This review aims to provide a structured radiological guide for the evaluation of UVCP, focusing on the relevant clinical assessment, optimized imaging protocols, laryngeal anatomy, radiological signs of UVCP, and the anatomical pathways of the vagus and recurrent laryngeal nerves. A comprehensive review of current literature and clinical imaging standards was performed to synthetize a diagnostic approach for identifying UVCP ant its underlying causes from the brainstem to the neck and mediastinum. Condition causing UVCP may occur anywhere from the brainstem to the mediastinum and include inflammatory, vascular, and neoplastic diseases. By utilizing a structured anatomical approach, radiologists can systematically evaluate the nerve's entire course. However, while imaging is highly effective at detecting organic lesions, a significant number of cases remains idiopathic. Imaging is critical for identifying the site and nature of damage causing UVCP. A structured diagnostic approach ensures accurate evaluation of all potential causative lesions from the central nervous system to the chest, significantly impacting patient management.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42407181/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42372806",
       "title": "Systemic and local predictors of medication-related osteonecrosis of the jaw in patients receiving antiresorptive therapy: The Shizuoka Kokuho Database study.",
       "authors": [
@@ -1372,44 +1405,6 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42048723/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42419055",
-      "title": "At the crossroads of senescence and immunosuppression: Machine learning and multi-omics unveil the central role of FAP in HNSCC.",
-      "authors": [
-        "Jingyu Zhang",
-        "Zhan Yang",
-        "Zhixu He",
-        "Luying Qin",
-        "Yan Tu",
-        "Yaxian Luo",
-        "Shuangyang Li",
-        "Tao Qiu",
-        "Kaizhe Hong",
-        "Xiaoting Zhang",
-        "Lianjie Peng",
-        "Tian Zhang",
-        "Di He",
-        "Huiming Wang",
-        "Mengfei Yu",
-        "Mouyuan Sun",
-        "Yu Liu"
-      ],
-      "publication_date": "2026-Sep-15",
-      "publication_date_iso": "2026-09-15",
-      "abstract": "The global incidence of head and neck squamous cell carcinoma (HNSCC) is increasing, and the failure rate of current treatments remains substantially high. Therefore, there is an urgent need to find effective targets and formulate precise personalized treatment strategies. HNSCC is characterized by an immunosuppressive environment, and the accumulation of senescent cells can promote aging by reshaping immune system function. However, in the context of HNSCC, the understanding of aging-related immunosuppressive genes (ARIS) remains limited. In this study, we identified 13 prognosis-associated ARIS and, using machine learning, pinpointed Fibroblast Activation Protein (FAP) as a key ARIS. In vitro experiments confirmed functional inhibition of FAP via siRNA-mediated silencing and pharmacological blockade with UMAC-1110 significantly suppressed the proliferation, migration, and invasion of CAL-27 cells. Furthermore, FAP was predominantly enriched in the FAP-positive myofibroblastic cancer-associated fibroblast (FAP + myCAF) subpopulation and was associated with altered inferred FAP + myCAF-neutrophil communication, consistent with a potential contribution to an immunosuppressive tumor microenvironment (TME). We subsequently performed in silico knockout analyses in FAP + myCAFs and constructed a FAP-centered regulatory network, thereby identifying candidate FAP-associated signaling modules for further functional validation. Notably, FAP expression increased following anti-programmed death-ligand 1 (PD-L1) treatment. We also identified three FAP targeting inhibitors, Pazopanib, Talazoparib and Ursodiol. And Pazopanib that exhibited a more stable binding affinity with FAP was selected for further in vitro validation. Collectively, these findings may offer new avenues for clinical intervention and precision therapy in HNSCC.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42419055/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2018,6 +2013,31 @@
       "figure_urls": []
     },
     {
+      "pmid": "41991178",
+      "title": "Surgical Margins Required for the Complete Excision of Canine Oral Melanomas.",
+      "authors": [
+        "Jonathon Richard Chinner",
+        "Jovene Jia Wen Lee",
+        "Jonathan Tuke",
+        "Fui Wen Yap"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Oral malignant melanoma (OMM) is the most common canine oral neoplasm. Complete excision is recognised as the mainstay of treatment in the absence of distant metastasis, but recommended surgical margins are unvalidated. This study investigates the surgical margins required for complete excision of canine OMMs. We hypothesised that surgical margins 10-15 mm wide and a qualitative deep margin (bone, fascia or full-thickness tissue excision) would be adequate for complete local excision of OMMs. Margins required to excise canine oral melanocytomas are also unknown; a secondary objective was to investigate this. Cases were retrospectively collected from two referral centres and a veterinary pathology laboratory. Histologic diagnosis, en bloc excision of gross tumour, surgical margin and histologic margins were required for inclusion. Tumours were categorised based on surgical margin width (Group A < 10 mm, Group B 10-15 mm and Group C > 15 mm). A qualitative deep margin was required for Groups B and C, but not Group A, to include marginal excision cases. Histologic margins were classified by the R tumour classification scheme. Twenty-eight tumours were included, comprising 25 OMMs and three melanocytomas. R0 rates for OMMs were 56% (10/17) in Group A, 100% (7/7) in Group B and 100% (2/2) in Group C. Surgical margins ≥ 10 mm were significantly (p = 0.03) more likely to result in R0 classification. The three melanocytomas were all classified as R0, with < 10 mm surgical margins. Results suggest that surgical margins 10-15 mm wide and a qualitative deep margin may be adequate for complete excision of OMMs.",
+      "objective": "was to investigate this. Cases were retrospectively collected from two referral centres and a veterinary pathology laboratory. Histologic diagnosis, en bloc excision of gross tumour, surgical margin and histologic margins were required for inclusion. Tumours were categorised based on surgical margin width (Group A < 10 mm, Group B 10-15 mm and Group C > 15 mm). A qualitative deep margin was required for Groups B and C, but not Group A, to include marginal excision cases. Histologic margins were classified by the R tumour classification scheme. Twenty-eight tumours were included, comprising 25 OMMs and three melanocytomas. R0 rates for OMMs were 56% (10/17) in Group A, 100% (7/7) in Group B and 100% (2/2) in Group C. Surgical margins ≥ 10 mm were significantly (p = 0.03) more likely to",
+      "study_methods": "",
+      "methods": "",
+      "results": "in R0 classification. The three melanocytomas were all classified as R0, with < 10 mm surgical margins. Results suggest that surgical margins 10-15 mm wide and a qualitative deep margin may be adequate for complete excision of OMMs.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41991178/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41846208",
       "title": "The impact of alcohol on fall-related maxillofacial fractures: a retrospective study.",
       "authors": [
@@ -2103,6 +2123,131 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42473667/",
       "pmcid": "PMC13380757",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42574213",
+      "title": "Classification of Orbital Floor Fracture Patterns Associated With Inferior Rectus Muscle Entrapment.",
+      "authors": [
+        "Paulina B Le",
+        "Selim Gebran",
+        "F Lawson Grumbine",
+        "Jack T McCarthy",
+        "Arthur J Nam"
+      ],
+      "publication_date": "2026-Aug-10",
+      "publication_date_iso": "2026-08-10",
+      "abstract": "Certain orbital floor fracture types have been associated with orbital soft tissue entrapment leading to irreversible inferior rectus muscle injury and permanent diplopia. This \"trapdoor\" fracture occurs more frequently in the pediatric population since the facial skeleton is elastic. Literature on adult entrapment is scarce. We discuss the spectrum of clinical and radiologic presentations of inferior rectus muscle entrapment in the adult population and propose a novel classification based on bone and soft tissue interactions seen on imaging. Three adult patients with isolated orbital floor fractures and inferior rectus muscle entrapment were identified from 2015 to 2017. These patients led to a systematic review of the literature on inferior rectus entrapment. Based on the review and case series, a classification system was developed for orbital floor fracture patterns associated with entrapment observed on CT imaging. Comminuted orbital floor fractures with clinical and radiographic evidence of entrapment were demonstrated in 3 adult patients. Surgery was performed within 24 hours of admission and resulted in restored baseline gaze in all patients. The literature review and patient cases suggested 3 types of orbital floor fracture patterns associated with inferior rectus muscle entrapment. We propose a classification system consisting of 3 patterns of orbital floor fractures associated with inferior rectus entrapment. Entrapment in adult patients most commonly occurs in the setting of comminuted floor fractures. Ischemia of the inferior rectus muscle leading to permanent injury of the muscle is unlikely in adults as opposed to pediatric patients, who sustain different fracture patterns.",
+      "objective": "",
+      "study_methods": "Three adult patients with isolated orbital floor fractures and inferior rectus muscle entrapment were identified from 2015 to 2017. These patients led to a systematic review of the literature on inferior rectus entrapment. Based on the review and case series, a classification system was developed for orbital floor fracture patterns associated with entrapment observed on CT imaging.",
+      "methods": "Three adult patients with isolated orbital floor fractures and inferior rectus muscle entrapment were identified from 2015 to 2017. These patients led to a systematic review of the literature on inferior rectus entrapment. Based on the review and case series, a classification system was developed for orbital floor fracture patterns associated with entrapment observed on CT imaging.",
+      "results": "ed in restored baseline gaze in all patients. The literature review and patient cases suggested 3 types of orbital floor fracture patterns associated with inferior rectus muscle entrapment. We propose a classification system consisting of 3 patterns of orbital floor fractures associated with inferior rectus entrapment. Entrapment in adult patients most commonly occurs in the setting of comminuted floor fractures. Ischemia of the inferior rectus muscle leading to permanent injury of the muscle is unlikely in adults as opposed to pediatric patients, who sustain different fracture patterns.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42574213/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42574069",
+      "title": "Assessing the Educational Role of Large Language Models in Dental Training: A Decade-Long Analysis of Text-Based and Visual Questions in a National Examination.",
+      "authors": [
+        "Sedef Ayse Tasyapan",
+        "Didem Özer"
+      ],
+      "publication_date": "2026-Aug-10",
+      "publication_date_iso": "2026-08-10",
+      "abstract": "Large language models (LLMs), including ChatGPT, Gemini and DeepSeek, are increasingly explored as supportive tools in health professions education. However, their educational utility across different knowledge domains and question formats, particularly those involving visual content, remains insufficiently understood. This study aimed to evaluate the educational potential of three advanced LLMs in dental training by analysing their performance on a national specialty examination over a 10-year period, with particular emphasis on domain-specific accuracy and differences between text-based and visual questions. A total of 1560 multiple-choice questions from 13 administrations of the Turkish Dental Specialty Examination (DUS) between 2012 and 2021 were included. All questions were translated into English and categorized into nine dental specialties. Each question was individually entered into ChatGPT-4.0, Gemini Advanced and DeepSeek in isolated sessions. Model responses were compared with official answer keys, and accuracy rates were analysed across years, specialties and question types. Statistical analyses included chi-square tests, one-way ANOVA and Kruskal-Wallis tests. ChatGPT-4.0 achieved the highest overall accuracy (86.93%), followed by Gemini (82.86%) and DeepSeek (82.34%). Performance varied across specialties, with higher accuracy observed in Basic Sciences and Oral Surgery, and lower performance in Orthodontics and Endodontics. A substantial decrease in accuracy was observed for visual questions (ChatGPT: 52.38%; Gemini: 45.24%; DeepSeek: 2.38%) compared to text-based items (all models > 83%). ChatGPT demonstrated more stable performance across years, whereas Gemini and DeepSeek showed greater variability. LLMs demonstrate strong potential as supportive tools in dental education, particularly for text-based knowledge assessment. However, their limited performance in visual question contexts highlights an important constraint for their integration into image-dependent domains such as dental diagnostics. These findings underscore the need for cautious and context-aware implementation of AI tools in dental curricula and assessment practices.",
+      "objective": "",
+      "study_methods": "A total of 1560 multiple-choice questions from 13 administrations of the Turkish Dental Specialty Examination (DUS) between 2012 and 2021 were included. All questions were translated into English and categorized into nine dental specialties. Each question was individually entered into ChatGPT-4.0, Gemini Advanced and DeepSeek in isolated sessions. Model responses were compared with official answer keys, and accuracy rates were analysed across years, specialties and question types. Statistical analyses included chi-square tests, one-way ANOVA and Kruskal-Wallis tests.",
+      "methods": "A total of 1560 multiple-choice questions from 13 administrations of the Turkish Dental Specialty Examination (DUS) between 2012 and 2021 were included. All questions were translated into English and categorized into nine dental specialties. Each question was individually entered into ChatGPT-4.0, Gemini Advanced and DeepSeek in isolated sessions. Model responses were compared with official answer keys, and accuracy rates were analysed across years, specialties and question types. Statistical analyses included chi-square tests, one-way ANOVA and Kruskal-Wallis tests.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42574069/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42574036",
+      "title": "Haversian-inspired hierarchical scaffold for vascularized bone repair.",
+      "authors": [
+        "Hong-Shuo Zhu",
+        "Ying-Han Hu",
+        "Yu-Yi Duan",
+        "Hao-Yu Li",
+        "Li-Bo Mao",
+        "Duo-Hong Zou"
+      ],
+      "publication_date": "2026-Aug-10",
+      "publication_date_iso": "2026-08-10",
+      "abstract": "To overcome delayed vascularization and wet-state mechanical deterioration in critical-sized bone defect repair, we developed a composite scaffold inspired by the natural Haversian system. The scaffold features longitudinally interconnected primary channels surrounded by anisotropic micropores, forming a hierarchical network that enhances directional mass transport, tissue infiltration, and vascular ingrowth. Rather than adopting a uniform composition, we engineered a spatially heterogeneous distribution of inorganic components. While brushite and hydroxyapatite are integrated into the initial chitosan matrix, calcium phosphate is deposited via subsequent mineralization on the internal surfaces of the scaffold, providing widespread interfaces for cell adhesion and osteogenesis. Conversely, a tightly integrated silica-rich layer is selectively localized along the mechanically vulnerable primary-channel walls. This localized silica reinforcement, combined with the coordinated incorporation of calcium phosphates, significantly reinforces the scaffold's mechanical reliability in the wet state. Concurrently, the sustained release of bioactive calcium, phosphorus, and silicon species provides robust osteogenic and angiogenic cues. In vitro and in vivo evaluations demonstrated that this synergy of enhanced mass transport, localized mechanical reinforcement, and spatially programmed biochemical signals effectively promotes coupled vascularized bone regeneration. This study establishes an integrated compositional and structural design strategy, wherein spatially programmed simple constituents reconcile permeability, wet-state mechanical support, and biological activity for advanced bone repair.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42574036/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42573606",
+      "title": "AI-driven morphometric comparison of fibula vs. iliac flap in mandibular reconstruction.",
+      "authors": [
+        "Chenyao Li",
+        "Yan Guo",
+        "Rong Yang",
+        "Xiaojun Chen",
+        "Shanyong Zhang"
+      ],
+      "publication_date": "2026-Aug-10",
+      "publication_date_iso": "2026-08-10",
+      "abstract": "To compare the clinical outcomes of vascularized free fibula flap (FFF) and deep circumflex iliac artery (DCIA) flap for mandibular reconstruction, using a novel AI-driven dual-modality system for quantitative 3D morphological fidelity and facial symmetry analysis. We evaluated 56 patients with tumors (34 undergoing FFF and 22 undergoing DCIA) using a 3D U-Net deep learning model and Face Mesh. The U-Net model predicted mandibular shapes to generate patient-specific, anatomically plausible reference mandibles, and surface deviations were compared with the actual reconstructions. Facial symmetry was quantified using MediaPipe Face Mesh. No significant differences in facial symmetry (S = 0.084 ± 0.013 vs. 0.083 ± 0.012, p = 0.781), functional recovery, or complications. DCIA showed lower morphological deviations for body defects: mean difference (1.42 ± 0.83 mm vs. 2.58 ± 0.62 mm, p = 0.001), maximum deviation (19.8 ± 2.7 mm vs. 21.4 ± 4.1 mm, p < 0.05). FFF and DCIA flaps achieve comparable facial symmetry, functional recovery and complication rates in mandibular reconstruction. DCIA flap offers significantly improved 3D geometric accuracy only for isolated mandibular body defects, while the clinical relevance of this statistical difference remains uncertain. The AI-based quantitative assessment system established in this study provides an objective tool for defect-specific flap selection in mandibular reconstruction.",
+      "objective": "tool for defect-specific flap selection in mandibular reconstruction.",
+      "study_methods": "We evaluated 56 patients with tumors (34 undergoing FFF and 22 undergoing DCIA) using a 3D U-Net deep learning model and Face Mesh. The U-Net model predicted mandibular shapes to generate patient-specific, anatomically plausible reference mandibles, and surface deviations were compared with the actual reconstructions. Facial symmetry was quantified using MediaPipe Face Mesh.",
+      "methods": "We evaluated 56 patients with tumors (34 undergoing FFF and 22 undergoing DCIA) using a 3D U-Net deep learning model and Face Mesh. The U-Net model predicted mandibular shapes to generate patient-specific, anatomically plausible reference mandibles, and surface deviations were compared with the actual reconstructions. Facial symmetry was quantified using MediaPipe Face Mesh.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42573606/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42572959",
+      "title": "Three-Dimensional Midfacial Morphology in Skeletal Class III Patients: Postsurgical Changes and Skeletal Correlates.",
+      "authors": [
+        "Chihiro Tanikawa",
+        "Kenji Takada"
+      ],
+      "publication_date": "2026-Aug-10",
+      "publication_date_iso": "2026-08-10",
+      "abstract": "This study aimed to quantify 3-dimensional (3D) midfacial topography in adults with skeletal Class III malocclusion, evaluate morphologic changes following 2-jaw surgery, and identify skeletal factors associated with postoperative cheek contour. Three-dimensional facial surface data were collected from 72 adults with skeletal Class III malocclusion before and after Le Fort I osteotomy and bilateral sagittal split osteotomy, together with data from 200 age-matched controls. Sectional-line and surface-based analyses were used to characterize midfacial morphology, evaluate postsurgical changes, and compare Class III patients with controls. Regression analyses were performed to examine associations between 3D soft tissue changes and corresponding skeletal movements measured on cephalograms. Patients with skeletal class III malocclusion exhibited a flatter cheek contour before surgery, particularly in the paraorbital and malar regions, although surface analysis showed anterior positioning of the paranasal cheek region. Following 2-jaw surgery, cheek flatness improved, and sectional line measurements approached those of controls. Superior displacement of the posterior nasal spine, corresponding to posterior maxillary impaction, was significantly associated with improvement in cheek contour, whereas forward movement of the maxilla mainly influenced the subnasale, nasal alar, and upper lip regions. These findings provide a quantitative 3D framework for evaluating cheek morphology in adults with skeletal class III malocclusion and suggest that posterior maxillary impaction may contribute to postoperative improvement in cheek contour.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42572959/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2447,110 +2592,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42550231/",
       "pmcid": "PMC13437662",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42551909",
-      "title": "Implant Treatment for Severe 3-Dimensional Bone Defects in the Area of Missing Adjacent Maxillary Central and Lateral Incisors: Long-Term Follow-Up Using Titanium Mesh and GBR Techniques.",
-      "authors": [
-        "Hisato Hotta",
-        "Yasunori Hotta",
-        "Koji Ito",
-        "Shinichi Komatsu",
-        "Takashi Saito",
-        "Yuji Teramoto"
-      ],
-      "publication_date": "2026-Aug-03",
-      "publication_date_iso": "2026-08-03",
-      "abstract": "This report presents 2 cases of severe bone defects following the extraction of adjacent maxillary central and lateral incisors. In both cases, the teeth were extracted in the hospital's oral surgery department due to extensive apical periodontitis. Postoperatively, 3-dimensional bone defects were observed, including mesiodistal, labial, and palatal bone loss extending near the nasal floor. In the first case, 2 implants were placed using the guided bone regeneration (GBR) method with titanium mesh. Subsequently, during the second stage surgery, a minor GBR procedure was performed to improve the contour of the implant neck. In the second case, in which the bone defect was even more severe than in the first, a multi-GBR approach was selected. After the initial GBR procedure, insufficient bone formation was observed in the central area of the defect. To address this, the ice cream cone technique was employed to enhance bone regeneration. Subsequently, 2 implants were placed. After implant placement, a vertical concavity was observed between the necks of the 2 implants. To correct this, a second GBR procedure using titanium mesh was performed as in case 1. However, an interimplant black triangle was observed, and a vascularized interpositional periosteal-connective tissue flap was performed to eliminate it. Both cases have been followed for more than 6 years since the placement of the final prostheses with no significant findings in intraoral examinations or cone beam computerized tomography images. Esthetically, no interimplant black triangle was observed. In case 1, a satisfactory outcome was achieved by remaking the prostheses. However, in case 2, which had a more severe bone defect than case 1, the clinical crown length of the prostheses is slightly longer compared with the contralateral side.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42551909/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42547724",
-      "title": "Clinical factors associated with fluconazole resistance in oral Candida from xerostomic head and neck cancer patients.",
-      "authors": [
-        "Aroonwan Lam-Ubol",
-        "Punnita Leerahakan",
-        "Supanat Tarapan",
-        "Panida Thanyasrisung",
-        "Oranart Matangkasombut"
-      ],
-      "publication_date": "2026-Aug-03",
-      "publication_date_iso": "2026-08-03",
-      "abstract": "Post-radiation head and neck cancer (HNC) patients with xerostomia are predisposed to opportunistic oral candidiasis. While resistance to fluconazole, a first-line antifungal agent, is increasingly prevalent, it is not well-characterized among these patients. Thus, we aimed to evaluate fluconazole resistance and associated factors among Candida isolates from this population. Oral Candida isolates from xerostomic post-radiation HNC patients and healthy controls, with demographic, clinical, and biofilm-forming data, were obtained from previous studies. Fluconazole susceptibility was tested using E-test™ and interpreted according to CLSI-M60 guidelines. Data were analyzed using Chi-square test, Mann-Whitney-U test and multivariate regression with significance level at p < 0.05. Fluconazole resistance was observed in 8.8% of C.albicans and 16.7% of C.tropicalis isolates from HNC patients, but none from healthy controls, except for the intrinsically resistant C.krusei. The prevalence of fluconazole resistance was significantly higher in HNC group at both isolate and patient levels (p = 0.037 and 0.027, respectively). This association persisted after adjusted for potential confounders. Interestingly, fluconazole resistance was significantly associated with higher Candida load in cancer patients, while it was associated with lower biofilm formation in controls. Fluconazole resistance maybe more common in xerostomic post-radiation HNC patients, thus, cautions are warranted when prescribing fluconazole.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42547724/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42547524",
-      "title": "An important change in infective endocarditis prevention guidance.",
-      "authors": [
-        "Martin H Thornhill",
-        "Charlotte Eckhardt",
-        "Bernard Prendergast",
-        "Mark Dayer",
-        "Greg Hutton",
-        "Larry M Baddour"
-      ],
-      "publication_date": "2026-Aug-03",
-      "publication_date_iso": "2026-08-03",
-      "abstract": "Recent changes to the National Institute for Health and Care Excellence (NICE) guidelines combined with an update to the implementation advice from the Scottish Dental Clinical Effectiveness Programme (SDCEP) have resulted in significant changes to the advice given to dentists concerning the prevention of infective endocarditis (IE). In contrast to a previous NICE recommendation against the use of AP for IE prevention, dentists are now recommended to offer antibiotic prophylaxis (AP) to all individuals at high-risk of IE before extractions or oral surgery procedures, and to consider AP for high-risk individuals undergoing any other at-risk dental procedures that involve manipulation of the gingival or periapical region of the teeth.Most UK cardiologists, cardiothoracic surgeons and infectious disease specialists (alongside many National Health Service trusts, several of which incorporate dental schools and hospitals) follow the European Society for Cardiology (ESC) guidelines. Awareness of the changes made by NICE and SDCEP, and the similarities and differences between their updated recommendations and the ESC guidelines, is therefore essential.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ed in significant changes to the advice given to dentists concerning the prevention of infective endocarditis (IE). In contrast to a previous NICE recommendation against the use of AP for IE prevention, dentists are now recommended to offer antibiotic prophylaxis (AP) to all individuals at high-risk of IE before extractions or oral surgery procedures, and to consider AP for high-risk individuals undergoing any other at-risk dental procedures that involve manipulation of the gingival or periapical region of the teeth.Most UK cardiologists, cardiothoracic surgeons and infectious disease specialists (alongside many National Health Service trusts, several of which incorporate dental schools and hospitals) follow the European Society for Cardiology (ESC) guidelines. Awareness of the changes made by NICE and SDCEP, and the similarities and differences between their updated recommendations and the ESC guidelines, is therefore essential.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42547524/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42546466",
-      "title": "Comparative safety and operative efficiency of surgical approaches for open reduction and internal fixation of mandibular condylar fractures: a systematic review and network meta-analysis.",
-      "authors": [
-        "Miaomiao Yang",
-        "Yongqing Ma",
-        "Jiang Sun"
-      ],
-      "publication_date": "2026-Aug-03",
-      "publication_date_iso": "2026-08-03",
-      "abstract": "The optimal surgical approach for mandibular condyle fractures remains controversial, particularly regarding the trade-off between facial nerve safety and surgical efficiency. Our systematic review and frequentist NMA analyzed studies evaluating open reduction and internal fixation (ORIF) for mandibular condyle fractures. The primary safety outcome was transient or persistent (≥6 months) facial nerve weakness. The efficiency outcome was operative exposure time. Surgical approaches were categorized, and random-effects NMAs estimated odds ratios (ORs) and mean differences (MDs). Treatments were ranked using P-scores, and clustered rankings explored safety-efficiency relationships. Overall, 121 studies (n = 6659 patients) were included. For facial nerve safety, endoscope-assisted (EA), preauricular transmasseteric anteroparotid (PATMA), and high submandibular (HSMA) approaches ranked highest, while the retromandibular transparotid (RMTA) approach carried a higher risk. Analyses restricted to persistent weakness yielded consistent results. For exposure time, submandibular (SM), HSMA, and retromandibular transmasseteric anteroparotid (RMTMA) approaches were most efficient. Clustered ranking analysis identified HSMA and RMTMA as achieving the best overall balance between safety and efficiency. Subgroup analyses confirmed the overall hierarchy, though evidence for high-level and intracapsular fractures remains limited. HSMA and RMTMA offer an optimal compromise between safety and efficiency for extracapsular condylar fractures, while EA may minimize nerve injury risk where technical expertise allows. High-quality comparative trials - particularly for intracapsular fractures - are warranted.",
-      "objective": "",
-      "study_methods": "Our systematic review and frequentist NMA analyzed studies evaluating open reduction and internal fixation (ORIF) for mandibular condyle fractures. The primary safety outcome was transient or persistent (≥6 months) facial nerve weakness. The efficiency outcome was operative exposure time. Surgical approaches were categorized, and random-effects NMAs estimated odds ratios (ORs) and mean differences (MDs). Treatments were ranked using P-scores, and clustered rankings explored safety-efficiency relationships.",
-      "methods": "Our systematic review and frequentist NMA analyzed studies evaluating open reduction and internal fixation (ORIF) for mandibular condyle fractures. The primary safety outcome was transient or persistent (≥6 months) facial nerve weakness. The efficiency outcome was operative exposure time. Surgical approaches were categorized, and random-effects NMAs estimated odds ratios (ORs) and mean differences (MDs). Treatments were ranked using P-scores, and clustered rankings explored safety-efficiency relationships.",
-      "results": "For exposure time, submandibular (SM), HSMA, and retromandibular transmasseteric anteroparotid (RMTMA) approaches were most efficient. Clustered ranking analysis identified HSMA and RMTMA as achieving the best overall balance between safety and efficiency. Subgroup analyses confirmed the overall hierarchy, though evidence for high-level and intracapsular fractures remains limited. HSMA and RMTMA offer an optimal compromise between safety and efficiency for extracapsular condylar fractures, while EA may minimize nerve injury risk where technical expertise allows. High-quality comparative trials - particularly for intracapsular fractures - are warranted.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42546466/",
-      "pmcid": "",
       "figure_urls": []
     }
   ]
