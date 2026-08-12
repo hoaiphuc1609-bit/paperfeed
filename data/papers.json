@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T03:49:34Z",
+  "updated_at": "2026-08-12T04:12:23Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -789,6 +789,40 @@
       "figure_urls": []
     },
     {
+      "pmid": "42287828",
+      "title": "MAO/SA composite coating on magnesium alloy: Corrosion resistance improvement and time-programmed Ca",
+      "authors": [
+        "Jin Zhang",
+        "Ningning Sun",
+        "Wei Liu",
+        "Sihan Lu",
+        "Lijun Jiang",
+        "Jiawei Zhang",
+        "Boyang Zhang",
+        "Zhensheng Lin",
+        "Tianlin Wang",
+        "Li Li",
+        "Min Qiu",
+        "Ke Yang",
+        "Huazhe Yang"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "Magnesium (Mg) alloys are attractive as orthopedic implants because of their favorable biofunctions, mechanical properties, and biodegradability. However, their clinical applications are hindered by their rapid degradation rate in physiological environments, leading to inadequate functional and mechanical behavior of implants across different stages of bone repair. Here, Mg alloys were firstly modified by micro-arc oxidation (MAO), and then sealed with Ca2+-crosslinked sodium alginate (SA) hydrogel coatings through different immersion cycles, constructing the MAO/SA composite coatings to further improve the corrosion resistance and simultaneously supply Ca2+ alongside Mg2+. It was found that the coatings prepared with three immersion cycles showed markedly improved corrosion resistance, concomitant with a thicker, more uniform, and defect-scarce surface layer. Increasing immersion cycles also enhanced surface hydrophilicity and supported favorable in vitro cellular responses, including improved cell attachment and osteogenic differentiation. Results of in vivo implantation in rat femoral condyles demonstrated desirable biocompatibility, superior bone-implant integration and better new bone formation for MAO/SA-treated samples. In addition, the heterostructure of the MAO/SA-Mg composite enabled a time-programmed ratio of Ca2+/Mg2+ release profile, which may facilitate a stage-adaptive immune niche for bone repair. The MAO/SA-modified Mg alloys are considered as promising candidates for orthopedic applications.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "of in vivo implantation in rat femoral condyles demonstrated desirable biocompatibility, superior bone-implant integration and better new bone formation for MAO/SA-treated samples. In addition, the heterostructure of the MAO/SA-Mg composite enabled a time-programmed ratio of Ca2+/Mg2+ release profile, which may facilitate a stage-adaptive immune niche for bone repair. The MAO/SA-modified Mg alloys are considered as promising candidates for orthopedic applications.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42287828/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42256884",
       "title": "An injectable tough hydrogel sealant enabling rapid hemostasis and promoting oral tissue regeneration.",
       "authors": [
@@ -996,6 +1030,36 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42407181/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42407172",
+      "title": "A methodology for constructing and assessing a combined experimental and computational validation domain for patient-specific mandibular reconstruction.",
+      "authors": [
+        "Camilla Gironi",
+        "Federico Parisini",
+        "Gregorio Pisaneschi",
+        "Mattia Mele",
+        "Laura Cercenelli",
+        "Francesco Ceccariglia",
+        "Dario Croccolo",
+        "Achille Tarsitano",
+        "Emanuela Marcelli"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Preclinical assessment of patient-specific mandibular reconstruction plates relies on bench testing and computational modeling, yet existing setups are typically designed on practical grounds without a structured method to ensure their mechanical relevance to the intended clinical context of use (COU). This study proposes and demonstrates a methodology for constructing and assessing a validation domain with experimental and computational components for patient-specific fibula free flap mandibular reconstruction. A clinical reference finite element model (M-COU) representing the reconstructed mandible under physiological clenching conditions was used as an active design tool to derive the validation setup. Parameters were identified through analytical calibration of M-COU reaction forces and refined via a design-of-experiments procedure. The resulting setup was implemented as two coordinated components: a physical validation platform (R-VAL) enabling bench testing of the actual reconstruction plate, and a validation computational model (M-VAL) reproducing the same setting numerically. The resulting setup preserved the dominant mechanical features of the clinical scenario. In consistency analysis against M-COU, M-VAL achieved R2 = 0.75, substantially exceeding literature-based benchmark configurations (R2 = 0.27 and 0.40), and was the only configuration to preserve the clinically relevant stress distribution at the mandibular angle. Comparison between M-VAL and R-VAL showed close agreement in initial structural stiffness (0.6% difference) and local strain distribution (R2 = 0.93; RMSE = 10.9%). The proposed methodology provides a transferable framework for constructing validation domains that are simultaneously experimentally feasible, mechanically interpretable, and grounded in a defined clinical COU.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing setup was implemented as two coordinated components: a physical validation platform (R-VAL) enabling bench testing of the actual reconstruction plate, and a validation computational model (M-VAL) reproducing the same setting numerically. The resulting setup preserved the dominant mechanical features of the clinical scenario. In consistency analysis against M-COU, M-VAL achieved R2 = 0.75, substantially exceeding literature-based benchmark configurations (R2 = 0.27 and 0.40), and was the only configuration to preserve the clinically relevant stress distribution at the mandibular angle. Comparison between M-VAL and R-VAL showed close agreement in initial structural stiffness (0.6% difference) and local strain distribution (R2 = 0.93; RMSE = 10.9%). The proposed methodology provides a transferable framework for constructing validation domains that are simultaneously experimentally feasible, mechanically interpretable, and grounded in a defined clinical COU.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42407172/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1353,58 +1417,34 @@
       "figure_urls": []
     },
     {
-      "pmid": "42155536",
-      "title": "Mesenchymal stem cell therapy for treatment of medication related osteonecrosis of the jaw (MRONJ): A systematic review.",
+      "pmid": "42579552",
+      "title": "The Furlow Double-opposing Z-Plasty: History, Technique, Modifications, and Outcomes.",
       "authors": [
-        "Niloufar Shahvali",
-        "Mohammad Adibi",
-        "Amirhossein Mohebi",
-        "Seyed Reza Mousavianfard",
-        "Majid Salehi",
-        "Sepehr Zamani",
-        "Fariborz Sharifianjazi",
-        "Leila Chegini",
-        "Farshid Bastami"
+        "Omotayo A Arowojolu",
+        "Noah E Alter",
+        "Muhammad Daiem",
+        "Ralph Raheb-Khelo",
+        "Stéphane A Braün",
+        "Michael S Golinko",
+        "Izabela Galdyn",
+        "Raymond Harshbarger",
+        "David W Low",
+        "Matthew E Pontell",
+        "William Lineaweaver"
       ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "Medication-related osteonecrosis of the jaw (MRONJ) is a significant adverse effect associated with antiresorptive and antiangiogenic therapies. Therapies utilizing mesenchymal stem cells (MSCs) represent a promising regenerative strategy; however, conventional management methods have shown limited effectiveness. This systematic review aimed to evaluate the effectiveness of MSC-based interventions in preventing and treating MRONJ. A comprehensive literature search was conducted using PubMed, Scopus, and Web of Science to identify studies published from 2011 to 2024. Studies examining MSCs therapy in the context of MRONJ were incorporated according to predefined inclusion and exclusion criteria. Seventeen studies (6 clinical, 11 preclinical) met inclusion criteria. Preclinical models demonstrated that MSCs enhance angiogenesis and bone regeneration, providing mechanistic support for human application. Clinically, 80-90% of patients achieved complete mucosal healing with radiographic evidence of bone regeneration. However, due to species differences in oral microbiome and immunity, animal findings require confirmation in human trials. This review integrates human clinical data with mechanistic insights from preclinical studies. Human evidence shows promising mucosal and bone regeneration, while animal studies elucidate underlying mechanisms-particularly angiogenesis and immunomodulation. Given that animal models cannot replicate the human oral immune environment, these findings should be interpreted as hypothesis-generating. MSC therapy represents a biologically sound but experimental strategy, warranting confirmation through randomized controlled trials.",
-      "objective": "",
-      "study_methods": "A comprehensive literature search was conducted using PubMed, Scopus, and Web of Science to identify studies published from 2011 to 2024. Studies examining MSCs therapy in the context of MRONJ were incorporated according to predefined inclusion and exclusion criteria.",
-      "methods": "A comprehensive literature search was conducted using PubMed, Scopus, and Web of Science to identify studies published from 2011 to 2024. Studies examining MSCs therapy in the context of MRONJ were incorporated according to predefined inclusion and exclusion criteria.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42155536/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42048723",
-      "title": "Wnt/OPG signaling axis drives ectopic mandibular regeneration: Mechanism mediated by tibial periosteal stem cell sheets.",
-      "authors": [
-        "Liangchong Huang",
-        "Rongju Xie",
-        "Jiantong Pu",
-        "Shengjie Shao",
-        "Weihong Wang"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "Mandibular reconstruction presents substantial clinical challenges due to the jaw's complex anatomical and functional requirements. This study investigated gene expression differences between tibial and mandibular periosteum to understand their distinct osteogenic properties and evaluate the therapeutic potential of tibial periosteum-derived stem cell (PSC) sheets for mandibular defect repair.Transcriptomic analysis revealed differential expression patterns: tibial periosteum demonstrated higher OPG expression, while mandibular periosteum exhibited increased RUNX2 and BMP-2 expression. KEGG enrichment analysis identified the Wnt signaling pathway as a key regulatory mechanism. To test this therapeutic approach, we cultured rat tibial PSCs into cell sheets and implanted them into mandibular defects, then assessed bone regeneration through micro-CT, histological examination, and immunohistochemistry.The results demonstrated that tibial PSC sheet implantation significantly enhanced bone volume, trabecular thickness, collagen deposition, and expression of osteogenic markers in mandibular defects. Notably, inhibition of Wnt signaling through DKK1 markedly suppressed mineralization and osteogenesis, confirming this pathway's critical role in the regenerative process.These findings establish that tibial PSC sheets promote mandibular bone repair through dual mechanisms: Wnt-mediated osteogenesis and OPG-driven anti-resorption activity. This combination provides sustained bone regeneration and represents a promising therapeutic strategy for mandibular reconstruction, demonstrating the feasibility of utilizing tibial periosteum-derived cells to overcome the inherent limitations of mandibular periosteum in bone repair applications.",
+      "publication_date": "2026-Sep-01",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Primary palatoplasty represents an important procedure in pediatric plastic surgery, with long-term implications for speech, feeding, and craniofacial development. Historical techniques often struggled to balance anatomic closure with functional restoration, resulting in high rates of velopharyngeal insufficiency. The Furlow double-opposing Z-plasty (DOZ) simultaneously lengthens the soft palate and reconstructs the levator muscular sling to address these challenges. This review examines the historical evolution of cleft palate repair and analyzes the Furlow DOZ in terms of its design, surgical technique, clinical outcomes, and contemporary modifications. Comparisons are made with established techniques, including von Langenbeck, Wardill-Kilner V-Y pushback, and Bardach 2-flap palatoplasty, which use a straight-line repair. Across multiple studies, the Furlow palatoplasty demonstrates favorable speech outcomes, with high rates of velopharyngeal competence and reduced need for secondary speech surgery. Several modifications, including the Children's Hospital of Philadelphia modification and the use of buccal myomucosal or buccal fat flaps, have expanded the applicability of the technique to a wide spectrum of cleft morphologies.",
       "objective": "",
       "study_methods": "",
       "methods": "",
-      "results": "demonstrated that tibial PSC sheet implantation significantly enhanced bone volume, trabecular thickness, collagen deposition, and expression of osteogenic markers in mandibular defects. Notably, inhibition of Wnt signaling through DKK1 markedly suppressed mineralization and osteogenesis, confirming this pathway's critical role in the regenerative process.These findings establish that tibial PSC sheets promote mandibular bone repair through dual mechanisms: Wnt-mediated osteogenesis and OPG-driven anti-resorption activity. This combination provides sustained bone regeneration and represents a promising therapeutic strategy for mandibular reconstruction, demonstrating the feasibility of utilizing tibial periosteum-derived cells to overcome the inherent limitations of mandibular periosteum in bone repair applications.",
+      "results": "ing in high rates of velopharyngeal insufficiency. The Furlow double-opposing Z-plasty (DOZ) simultaneously lengthens the soft palate and reconstructs the levator muscular sling to address these challenges. This review examines the historical evolution of cleft palate repair and analyzes the Furlow DOZ in terms of its design, surgical technique, clinical outcomes, and contemporary modifications. Comparisons are made with established techniques, including von Langenbeck, Wardill-Kilner V-Y pushback, and Bardach 2-flap palatoplasty, which use a straight-line repair. Across multiple studies, the Furlow palatoplasty demonstrates favorable speech outcomes, with high rates of velopharyngeal competence and reduced need for secondary speech surgery. Several modifications, including the Children's Hospital of Philadelphia modification and the use of buccal myomucosal or buccal fat flaps, have expanded the applicability of the technique to a wide spectrum of cleft morphologies.",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42048723/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42579552/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1740,6 +1780,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "42340271",
+      "title": "Assessment of the Impact of Two-Jaw Orthognathic Surgery on Three-Dimensional Airway Volume in Patients with Skeletal Class III Patterns.",
+      "authors": [
+        "Yu-Jen Chang",
+        "Tzu-Chuan Hsu",
+        "Chia-Hsuan Chan",
+        "Jui-Pin Lai",
+        "Shiu-Shiung Lin"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "ObjectiveTo evaluate 3-dimensional pharyngeal airway changes following 2-jaw orthognathic surgery in skeletal Class III patients and to assess their association with surgical movements.DesignRetrospective observational study.SettingSingle tertiary care center.PatientsTwenty-seven adult patients with skeletal Class III malocclusion who underwent Le Fort I maxillary advancement combined with bilateral sagittal split osteotomy mandibular setback.InterventionsAll patients received 2-jaw orthognathic surgery with preoperative (T0) and postoperative (T1, 6 months) computed tomography imaging.Main Outcome MeasuresThree-dimensional airway volumes of the nasopharynx, oropharynx, and hypopharynx were measured. Correlations between airway volume changes and skeletal movements were analyzed.ResultsSignificant regional differences in airway changes were observed. The nasopharyngeal airway volume increased (+1979.1 mm3), while the oropharyngeal airway showed minimal change (+336.4 mm3). In contrast, the hypopharyngeal airway demonstrated a significant reduction (-1087.5 mm3). A strong correlation was found between mandibular setback and hypopharyngeal airway reduction at Point B (r = 0.73, P = .023).ConclusionsTwo-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Significant regional differences in airway changes were observed. The nasopharyngeal airway volume increased (+1979.1 mm3), while the oropharyngeal airway showed minimal change (+336.4 mm3). In contrast, the hypopharyngeal airway demonstrated a significant reduction (-1087.5 mm3). A strong correlation was found between mandibular setback and hypopharyngeal airway reduction at Point B (r = 0.73, P = .023).ConclusionsTwo-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
+      "conclusion": "Two-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42340271/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42330576",
       "title": "Masseter microvascular perfusion after minimally invasive sagittal split ramus osteotomy: A long-term split-mouth study.",
       "authors": [
@@ -1841,6 +1907,32 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42275922/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42274635",
+      "title": "Regional Variation in Reimbursement for Reduction Mammaplasty: A Claims-Based Analysis Across the United States.",
+      "authors": [
+        "Christina Colon-Sanchez",
+        "Victoria N Yi",
+        "Amanda R Sergesketter",
+        "Scott T Hollenbeck",
+        "Detlev Erdmann"
+      ],
+      "publication_date": "2026-Sep-01",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Numerous factors contribute to the preoperative planning and coverage determination of reduction mammaplasty. Insurer guidelines, determination of medical necessity, and mathematical models for resection volume are only a few examples that are well studied. However, identifying regional patterns in payer amounts for reduction mammaplasty requires further exploration and can inform health care access and policy interpretation. The purpose of this study is to examine regional variation in reimbursement values for reduction mammaplasty across the United States. The PearlDiver Mariner insurance claims database was used to extract records for female patients who underwent reduction mammaplasty (CPT 19318) between 2010 and 2023. A total of 11,670 records were analyzed by insurance payer-type among 4 United States census-defined regions (Northeast, Midwest, South, and West). The US South had the lowest reimbursement value for reduction mammaplasty, with an average of $3426.6 per record. The West demonstrated the highest reimbursement value, with an average of $4550.22 per record. The West also demonstrated the greatest amount of interstate variability within a region ($7049.89 per record). When stratified by payer type, private insurers contributed to the majority of claims and reimbursed at higher rates compared with public insurers across all regions. State and regional differences exist in payer reimbursement for reduction mammaplasty in the United States. The West had the highest and most variable reimbursement values, while the South had the lowest reimbursement values. Understanding regional variability in insurance coverage can facilitate discussions regarding regional and payer-based payment structures and access to care.",
+      "objective": "of this study is to examine regional variation in reimbursement values for reduction mammaplasty across the United States. The PearlDiver Mariner insurance claims database was used to extract records for female patients who underwent reduction mammaplasty (CPT 19318) between 2010 and 2023. A total of 11,670 records were analyzed by insurance payer-type among 4 United States census-defined regions (Northeast, Midwest, South, and West). The US South had the lowest reimbursement value for reduction mammaplasty, with an average of $3426.6 per record. The West demonstrated the highest reimbursement value, with an average of $4550.22 per record. The West also demonstrated the greatest amount of interstate variability within a region ($7049.89 per record). When stratified by payer type, private insurers contributed to the majority of claims and reimbursed at higher rates compared with public insurers across all regions. State and regional differences exist in payer reimbursement for reduction mammaplasty in the United States. The West had the highest and most variable reimbursement values, while the South had the lowest reimbursement values. Understanding regional variability in insurance coverage can facilitate discussions regarding regional and payer-based payment structures and access to care.",
+      "study_methods": "The PearlDiver Mariner insurance claims database was used to extract records for female patients who underwent reduction mammaplasty (CPT 19318) between 2010 and 2023. A total of 11,670 records were analyzed by insurance payer-type among 4 United States census-defined regions (Northeast, Midwest, South, and West).",
+      "methods": "The PearlDiver Mariner insurance claims database was used to extract records for female patients who underwent reduction mammaplasty (CPT 19318) between 2010 and 2023. A total of 11,670 records were analyzed by insurance payer-type among 4 United States census-defined regions (Northeast, Midwest, South, and West).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42274635/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2034,6 +2126,33 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41991178/",
+      "pmcid": "PMC13456588",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41933430",
+      "title": "Assessing the Area Deprivation Index in Relation to Orbital Floor Fractures.",
+      "authors": [
+        "Atif M Islam",
+        "Brandon J Dyer",
+        "Robert B Baldwin",
+        "Alec E Dallas",
+        "Ryan Hudnall",
+        "Julia Toman"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Social determinants of health are acknowledged as significant factors affecting trauma occurrence, severity, and outcomes. The area deprivation index (ADI) is a validated tool that combines social determinants into a single measure of \"neighborhood disadvantage.\" We aimed to investigate whether ADI was linked to injury severity and other clinical benchmarks in orbital floor fracture patients. Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests. A total of 1255 patients with acute orbital floor fractures were analyzed. ADI was significantly higher in patients with additional facial trauma (national ADI: 55 vs. 51, p = 0.0240; state ADI: 7 vs. 6, p = 0.0119). However, ADI was not significantly associated with the incidence of bodily polytrauma, initial clinical acuity, or LOS. Follow-up attendance rates did not differ by ADI. Social disadvantage was significantly associated with differences in injury characteristics and indirectly with care utilization among orbital floor fracture patients. This may reflect different mechanisms of injury in high ADI areas and indicate that ADI may be useful as a contextual marker of injury severity. Future studies should investigate these mechanisms and other risk factors unique to high ADI areas.",
+      "objective": "",
+      "study_methods": "Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests.",
+      "methods": "Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41933430/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2093,6 +2212,205 @@
       "figure_urls": []
     },
     {
+      "pmid": "41428582",
+      "title": "Morphometric Evaluation of the Pterygomaxillary Suture in Patients with Unilateral and Bilateral Cleft Lip and Palate Using Cone-Beam Computed Tomography.",
+      "authors": [
+        "Salma Tabatabaei",
+        "Hamid Reza Heidari",
+        "Maryam Paknahad"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "ObjectiveTo evaluate and compare the morphology of the pterygomaxillary suture (PMS) in unilateral cleft lip and palate (UCLP), bilateral cleft lip and palate (BCLP), and non-cleft (NC) individuals using cone-beam computed tomography (CBCT), focusing on side-specific differences relevant to Le Fort I osteotomy planning.DesignRetrospective cross-sectional study.SettingOral and maxillofacial radiology clinic of a university-affiliated center, where CBCT data were originally obtained for diagnostic purposes.PatientsOne hundred and fifty-six subjects-57 UCLP, 21 BCLP, and 78 NC-matched for age and sex (P > .25). Inclusion required complete records and high-quality CBCT scans; patients with syndromic anomalies or prior orthognathic surgery were excluded.InterventionsCBCT scans were retrospectively analyzed using standardized NNT software (v 6.2). Anatomical landmarks were referenced to the midsagittal plane for reproducibility.Main Outcome MeasuresSeven PMS parameters-thickness, width, length, angulation, lateral pterygoid plate (LPP) length, medial pterygoid plate (MPP) length, and distance to the greater palatine foramen (GPF)-were compared using ANOVA, paired-sample t-tests, and Tukey post-hoc analyses (α = 0.05).ResultsPMS angulation was higher in UCLP (79.82 ± 7.96°) and BCLP (79.84 ± 9.11°) compared with NC (75.90 ± 8.07; P < .001). In UCLP, the cleft side showed greater angulation and shorter LPP (P = .027; P = .001). Other parameters did not differ significantly.ConclusionsCLP patients show increased PMS angulation and cleft-side LPP shortening compared with controls. These variations may be relevant to surgical planning; however, the present study did not assess surgical outcomes. Future research should determine whether such differences influence intraoperative complexity.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "PMS angulation was higher in UCLP (79.82 ± 7.96°) and BCLP (79.84 ± 9.11°) compared with NC (75.90 ± 8.07; P < .001). In UCLP, the cleft side showed greater angulation and shorter LPP (P = .027; P = .001). Other parameters did not differ significantly.ConclusionsCLP patients show increased PMS angulation and cleft-side LPP shortening compared with controls. These variations may be relevant to surgical planning; however, the present study did not assess surgical outcomes. Future research should determine whether such differences influence intraoperative complexity.",
+      "conclusion": "CLP patients show increased PMS angulation and cleft-side LPP shortening compared with controls. These variations may be relevant to surgical planning; however, the present study did not assess surgical outcomes. Future research should determine whether such differences influence intraoperative complexity.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41428582/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41313314",
+      "title": "Applying Latent Profile Analysis to CLEFT-Q Data: A Framework for Understanding Patient Reported Outcomes in Cleft Care.",
+      "authors": [
+        "Nicholas A Han",
+        "Philip D Tolley",
+        "Jing Huang",
+        "Leanne Magee",
+        "Allison C Hu",
+        "Isabel A Ryan",
+        "Oksana A Jackson",
+        "David W Low",
+        "Scott P Bartlett",
+        "Jesse A Taylor",
+        "Eric C Liao",
+        "Jordan W Swanson"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "ObjectiveTo describe characteristic CLEFT-Q response profiles and patterns in patients with cleft palate and/or lip (CP ± L).DesignRetrospective analysis using latent profile analysis (LPA) to categorize patient-reported outcome responses into distinct profiles.SettingTertiary care pediatric hospital with multidisciplinary cleft team.Patients, ParticipantsPatients aged 8-29 years with CP ± L completing CLEFT-Q questionnaires from September 2021 to June 2025 (n = 596). Total of 923 responses analyzed after excluding 94 responses from patients under 8 years.InterventionsAdministration of the 119-item CLEFT-Q questionnaire prior to clinic visits, measuring appearance, function, and quality of life.Main Outcome Measure(s)Six latent profiles identified through LPA based on CLEFT-Q scores. Secondary outcomes included profile stability and surgical effects.ResultsSix profiles of CLEFT-Q responses emerged among subjects: Universally Affected-Moderate (UA1, n = 228, 24.7%), Universally Affected-Severe (UA2, n = 119, 12.9%), Facial Appearance-Moderate (FA1, n = 183, 19.8%), Facial Appearance-Severe (FA2, n = 56, 6.1%), Social/School/Speech distress (SSS, n = 95, 10.3%), and Minimally Distressed (MD, n = 242, 26.2%). Patients in severe profiles (UA2 and FA2) were older (P < .001) and more likely to have complete cleft lip (P < .001), while patients in the MD profile were younger and more likely to have isolated cleft palate (P < .001). Among 279 patients with longitudinal CLEFT-Q data, 47.5% remained in the same profile at subsequent CLEFT-Q response, with longer follow-up intervals predicting profile change (P = .049).ConclusionsLatent profile analysis categorizes CLEFT-Q responses into six clinically meaningful profiles correlating with demographics and treatment outcomes. This approach may guide personalized cleft care, though additional studies are needed for validation.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Six profiles of CLEFT-Q responses emerged among subjects: Universally Affected-Moderate (UA1, n = 228, 24.7%), Universally Affected-Severe (UA2, n = 119, 12.9%), Facial Appearance-Moderate (FA1, n = 183, 19.8%), Facial Appearance-Severe (FA2, n = 56, 6.1%), Social/School/Speech distress (SSS, n = 95, 10.3%), and Minimally Distressed (MD, n = 242, 26.2%). Patients in severe profiles (UA2 and FA2) were older (P < .001) and more likely to have complete cleft lip (P < .001), while patients in the MD profile were younger and more likely to have isolated cleft palate (P < .001). Among 279 patients with longitudinal CLEFT-Q data, 47.5% remained in the same profile at subsequent CLEFT-Q response, with longer follow-up intervals predicting profile change (P = .049).ConclusionsLatent profile analysis categorizes CLEFT-Q responses into six clinically meaningful profiles correlating with demographics and treatment outcomes. This approach may guide personalized cleft care, though additional studies are needed for validation.",
+      "conclusion": "Latent profile analysis categorizes CLEFT-Q responses into six clinically meaningful profiles correlating with demographics and treatment outcomes. This approach may guide personalized cleft care, though additional studies are needed for validation.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41313314/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41295895",
+      "title": "A Novel Bilateral Cleft Lip Severity Index: Correlation With Long-Term Outcomes.",
+      "authors": [
+        "Jinggang J Ng",
+        "Manisha Banala",
+        "Benjamin Ballard Massenburg",
+        "Jonathan H Sussman",
+        "Meagan Wu",
+        "Dominic J Romeo",
+        "Scott P Bartlett",
+        "David W Low",
+        "Jordan W Swanson",
+        "Jesse A Taylor"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "ObjectiveBilateral cleft lip outcomes are heavily influenced by original anatomic deformity, but a reliable and widely accepted classification of preoperative severity has yet to emerge. This study validates the Bilateral Cleft Lip Severity Index (BCLSI) by assessing interrater reliability and the relationship between preoperative severity and aesthetic outcomes.DesignRetrospective cohort study.SettingTertiary care pediatric hospital.Patients/ParticipantsPatients who underwent lip repair for bilateral cleft lip.InterventionsCleft surgeons and layperson raters graded preoperative cleft severity.Main Outcome Measure(s)Anthropometric analyses and crowdsourced aesthetic assessments using Likert scales and pairwise comparisons.ResultsIntraclass correlation coefficient was 0.94 (95% confidence interval [CI] 0.90-0.97) among cleft surgeon raters (n = 7), 0.84 (95% CI 0.73-0.92) among layperson raters (n = 10), and 0.88 (95% CI 0.80-0.94) in the combined group (n = 17). Among 18 patients, a higher BCLSI correlated with a greater columellar-labial angle (r = 0.686, P = .002). BCLSI predicted pairwise rank-derived coefficients (β = -1.289, P = .015), lateral ratings (β = 0.752, P < .001), frontal ratings (β = 0.440, P = .038), and composite ratings (β = 0.551, P = .006) independent of age at surgery, age at postoperative photograph, history of nasoalveolar molding, lip repair technique, sex, and race. A greater columellar-labial angle correlated with poor lateral (r = .729, P < .001) and composite (r = .471, P = .048) ratings.ConclusionsThe BCLSI demonstrates good interrater reliability among cleft surgeons and layperson raters. A higher BCLSI correlated with a greater columellar-labial angle and predicted poorer nasal appearance ratings by crowdsourced layperson assessments at 5 years postoperatively. The BCLSI is a simple, reliable, and informative tool that can standardize bilateral cleft lip classification and advance cleft outcomes research.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Intraclass correlation coefficient was 0.94 (95% confidence interval [CI] 0.90-0.97) among cleft surgeon raters (n = 7), 0.84 (95% CI 0.73-0.92) among layperson raters (n = 10), and 0.88 (95% CI 0.80-0.94) in the combined group (n = 17). Among 18 patients, a higher BCLSI correlated with a greater columellar-labial angle (r = 0.686, P = .002). BCLSI predicted pairwise rank-derived coefficients (β = -1.289, P = .015), lateral ratings (β = 0.752, P < .001), frontal ratings (β = 0.440, P = .038), and composite ratings (β = 0.551, P = .006) independent of age at surgery, age at postoperative photograph, history of nasoalveolar molding, lip repair technique, sex, and race. A greater columellar-labial angle correlated with poor lateral (r = .729, P < .001) and composite (r = .471, P = .048) ratings.ConclusionsThe BCLSI demonstrates good interrater reliability among cleft surgeons and layperson raters. A higher BCLSI correlated with a greater columellar-labial angle and predicted poorer nasal appearance ratings by crowdsourced layperson assessments at 5 years postoperatively. The BCLSI is a simple, reliable, and informative tool that can standardize bilateral cleft lip classification and advance cleft outcomes research.",
+      "conclusion": "The BCLSI demonstrates good interrater reliability among cleft surgeons and layperson raters. A higher BCLSI correlated with a greater columellar-labial angle and predicted poorer nasal appearance ratings by crowdsourced layperson assessments at 5 years postoperatively. The BCLSI is a simple, reliable, and informative tool that can standardize bilateral cleft lip classification and advance cleft outcomes research.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41295895/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41263976",
+      "title": "Vermilion Deficiencies After Cleft Lip Repair: Outcomes of Precision Dermal Fat Grafting Technique.",
+      "authors": [
+        "Savannah C Braud",
+        "Evyn Neumeister",
+        "Erona Shurdhiqi",
+        "Milind Sangani",
+        "David Low",
+        "Jesse A Taylor",
+        "Oksana A Jackson",
+        "Joseph A Napoli"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "ObjectiveTo evaluate outcomes of precision dermal fat grafting (PDFG) for vermilion deficiency following cleft lip repair.DesignRetrospective cohort study. SettingTertiary care pediatric hospital. PatientsIndividuals with vermilion deficiency following repaired unilateral or bilateral cleft lip.InterventionsDermal fat grafts were placed at the site of deficiency. Grafts were oriented with dermis-side contacting and secured to the orbicularis oris, then covered with a V-Y mucosal advancement flap.Main Outcome MeasuresUpper lip measurements were obtained from pre- and postoperative photographs. Two vertical heights were measured from the point of greatest deficiency: (1) actual height-from the point of greatest deficiency to the upper vermilion border, and (2) expected height-from the upper to the lower vermilion border. Two reviewers performed measurements; interrater reliability was assessed using the intraclass correlation coefficient (ICC). Associations between patient factors and revision surgery were analyzed.ResultsThe vermilion height ratio improved from 0.72 to 0.94 postoperatively (P < .001), demonstrating increased vermilion volume. ICC was 0.81 (95% CI: 0.72-0.87), indicating excellent interrater reliability. Patients requiring revision had a lower preoperative actual-to-expected vermilion height ratio compared to those not requiring revision (P = .043), suggesting that more severe initial defects may increase the likelihood of revision. Five patients required revision: 4 for excess (treated with excision) and 1 for deficiency (requiring repeat PDFG).ConclusionsPDFG is a safe and reliable technique for correcting vermilion deficiency in unilateral and bilateral cleft lip, offering predictable volume restoration with minimal complications.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "The vermilion height ratio improved from 0.72 to 0.94 postoperatively (P < .001), demonstrating increased vermilion volume. ICC was 0.81 (95% CI: 0.72-0.87), indicating excellent interrater reliability. Patients requiring revision had a lower preoperative actual-to-expected vermilion height ratio compared to those not requiring revision (P = .043), suggesting that more severe initial defects may increase the likelihood of revision. Five patients required revision: 4 for excess (treated with excision) and 1 for deficiency (requiring repeat PDFG).ConclusionsPDFG is a safe and reliable technique for correcting vermilion deficiency in unilateral and bilateral cleft lip, offering predictable volume restoration with minimal complications.",
+      "conclusion": "PDFG is a safe and reliable technique for correcting vermilion deficiency in unilateral and bilateral cleft lip, offering predictable volume restoration with minimal complications.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41263976/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41248017",
+      "title": "Surgically Assisted Rapid Palatal Expansion in Patients With Cleft and Craniofacial Diagnoses.",
+      "authors": [
+        "Allison C Hu",
+        "Philip D Tolley",
+        "Isabel A Ryan",
+        "Nicholas A Han",
+        "Hyun-Duck Nah-Cederquist",
+        "Lawrence M Levin",
+        "Joseph A Napoli",
+        "Jordan W Swanson",
+        "Scott P Bartlett",
+        "Jesse A Taylor"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "ObjectiveTo evaluate the indications, techniques, outcomes, and complications associated with surgically assisted rapid palatal expansion (SARPE) in patients with cleft and craniofacial diagnoses.DesignRetrospective chart review.SettingSingle tertiary care craniofacial center.Patients and ParticipantsAll patients undergoing SARPE between 2008 and 2024 were reviewed. Of the 65 patients identified, 23 (35.4%) had cleft or craniofacial conditions.InterventionsSARPE was performed in all patients. Expansion was achieved using custom-fabricated appliances.Main Outcome MeasuresIndications for SARPE, amount of palatal expansion, complications, and need for future orthognathic surgery, including segmental Le Fort I osteotomies.ResultsOf 65 SARPE patients, 23 (35.4%) had cleft or craniofacial conditions. The mean age was 17.2 ± 3.2 years. Indications included closed mid-palatal suture (n = 14, 60.9%) and failed expansion (n = 7, 30.4%). Expansion averaged 7.0 ± 1.7 mm over 14.7 ± 6.3 days. Sagittal maxillary osteotomies were performed with Piezotome in 19 (82.6%) patients and were most commonly midline (n = 12, 52.5%) and unilateral parasagittal (n = 9, 39.1%). Complications were minimal (4.3% each for root injury, fistula, and debonding). Seventeen patients (73.9%) proceeded to orthognathic surgery, with only 2 (18.2%) requiring segmental Le Fort I osteotomies.ConclusionsSARPE is a safe and effective treatment for transverse maxillary deficiency in cleft and craniofacial patients, offering reliable expansion with minimal morbidity. Its successful application in this complex population may reduce the need for segmental Le Fort I osteotomies during future orthognathic procedures. These findings support broader adoption of SARPE in craniofacial care, with potential to streamline surgical management and improve long-term outcomes.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Of 65 SARPE patients, 23 (35.4%) had cleft or craniofacial conditions. The mean age was 17.2 ± 3.2 years. Indications included closed mid-palatal suture (n = 14, 60.9%) and failed expansion (n = 7, 30.4%). Expansion averaged 7.0 ± 1.7 mm over 14.7 ± 6.3 days. Sagittal maxillary osteotomies were performed with Piezotome in 19 (82.6%) patients and were most commonly midline (n = 12, 52.5%) and unilateral parasagittal (n = 9, 39.1%). Complications were minimal (4.3% each for root injury, fistula, and debonding). Seventeen patients (73.9%) proceeded to orthognathic surgery, with only 2 (18.2%) requiring segmental Le Fort I osteotomies.ConclusionsSARPE is a safe and effective treatment for transverse maxillary deficiency in cleft and craniofacial patients, offering reliable expansion with minimal morbidity. Its successful application in this complex population may reduce the need for segmental Le Fort I osteotomies during future orthognathic procedures. These findings support broader adoption of SARPE in craniofacial care, with potential to streamline surgical management and improve long-term outcomes.",
+      "conclusion": "SARPE is a safe and effective treatment for transverse maxillary deficiency in cleft and craniofacial patients, offering reliable expansion with minimal morbidity. Its successful application in this complex population may reduce the need for segmental Le Fort I osteotomies during future orthognathic procedures. These findings support broader adoption of SARPE in craniofacial care, with potential to streamline surgical management and improve long-term outcomes.",
+      "limitations": "",
+      "topics": [
+        "oral surgery",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41248017/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41212736",
+      "title": "Investigating",
+      "authors": [
+        "Meng Xi Yang",
+        "Shi Jun Duan",
+        "Sixuan Jia",
+        "Bing Shi",
+        "Zhong Lin Jia"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "ObjectiveThis study aimed to explore the relationship between the SPRY2 gene and nonsyndromic orofacial cleft (NSOC) in the Chinese Han population.DesignA case-control study was conducted with a large cohort to analyze genetic associations.SettingThe study was conducted in China, focusing on the Chinese Han ethnic group.Patients, ParticipantsThe study included 2494 Chinese Han patients with NSOC and 2255 healthy control individuals.InterventionsNine single-nucleotide polymorphisms (SNPs) of the SPRY2 gene were selected for association analysis, utilizing PLINK and Haploview software. Functional annotations were conducted using HaploReg, Encode, and 3D SNP prediction tools.Main Outcome Measure(s)The primary outcome measures were the associations of the selected SNPs with different types of NSOC, including nonsyndromic cleft lip with palate (NSCLP), nonsyndromic cleft lip with/without palate (NSCL/P), and nonsyndromic cleft palate only (NSCPO).ResultsAllelic association analysis revealed that allele T of rs700397 significantly increased the risk of NSCLP (P = .00050, odds ratio [OR] = 1.49, 95% confidence interval [CI]: 1.19-1.85) and NSCL/P (P = .0018, OR = 1.27, 95% CI: 1.09-1.47). Additionally, allele G of rs116994696 was associated with NSCPO (P = .00024, OR = 1.67, 95% CI: 1.27-2.17). Four haplotypes demonstrated a significant association with NSCPO after Bonferroni correction.ConclusionsThe findings suggest that SNP rs700397 in the SPRY2 enhancer is associated with NSCLP and NSCL/P, while rs116994696 in the promoter is linked to NSCPO. This indicates that susceptibility SNPs in different regulatory elements may play a role in gene regulation related to NSOC.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Allelic association analysis revealed that allele T of rs700397 significantly increased the risk of NSCLP (P = .00050, odds ratio [OR] = 1.49, 95% confidence interval [CI]: 1.19-1.85) and NSCL/P (P = .0018, OR = 1.27, 95% CI: 1.09-1.47). Additionally, allele G of rs116994696 was associated with NSCPO (P = .00024, OR = 1.67, 95% CI: 1.27-2.17). Four haplotypes demonstrated a significant association with NSCPO after Bonferroni correction.ConclusionsThe findings suggest that SNP rs700397 in the SPRY2 enhancer is associated with NSCLP and NSCL/P, while rs116994696 in the promoter is linked to NSCPO. This indicates that susceptibility SNPs in different regulatory elements may play a role in gene regulation related to NSOC.",
+      "conclusion": "The findings suggest that SNP rs700397 in the SPRY2 enhancer is associated with NSCLP and NSCL/P, while rs116994696 in the promoter is linked to NSCPO. This indicates that susceptibility SNPs in different regulatory elements may play a role in gene regulation related to NSOC.",
+      "limitations": "",
+      "topics": [
+        "cleft lip and palate surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41212736/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41204099",
+      "title": "Barriers to Adoption of the Pre-Epiglottic Baton Plate (Tübingen Palatal Plate) for Infants With Robin Sequence.",
+      "authors": [
+        "David C Thean",
+        "Snigdha Jindal",
+        "Cory M Resnick"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "ObjectiveDespite evidence of effective management of upper airway obstruction (UAO) in infants with Robin sequence (RS), adoption of the pre-epiglottic baton plate (PEBP) has been slow in North America. The objectives of this study were to identify barriers and elucidate opportunities to overcome them.DesignAn email list of providers in craniofacial units involved in management of RS was compiled using published data form the American Cleft Palate-Craniofacial Association and institutional websites. A custom-designed survey was distributed to the compiled listserv. Responses were aggregated and descriptive statistics were calculated.ParticipantsOf 2142 distributed, 139 responses were received (yield 6.5%). Seventeen were excluded, resulting in 122 responses from 80 (65.6%) surgeons and 42 (34.4%) nonsurgeons.ResultsOnly 11 (9.0%) respondents reported that they currently offer PEBP treatment, and only 33 (27.5%) feel there is sufficient clinical evidence to support the use of PEBP. The most commonly reported barriers to implementation were doubts about clinical effectiveness (n = 67, 54.9%), availability of staff to fabricate the appliance (n = 41, 33.6%), concerns about family acceptance (n = 34, 27.9%), the potential for the appliance to cause harm (n = 26, 21.3%), and lack of clarity in billing and insurance coverage (n = 19, 15.6%).ConclusionsThe primary barriers to adoption of the PEBP in North America are a perceived insufficiency of evidence of its effectiveness and lack of appropriate staff to fabricate the appliances. Identification of these concerns provides opportunities to augment the body of literature and to identify and educate providers on fabrication techniques.",
+      "objective": "of this study were to identify barriers and elucidate opportunities to overcome them.DesignAn email list of providers in craniofacial units involved in management of RS was compiled using published data form the American Cleft Palate-Craniofacial Association and institutional websites. A custom-designed survey was distributed to the compiled listserv. Responses were aggregated and descriptive statistics were calculated.ParticipantsOf 2142 distributed, 139 responses were received (yield 6.5%). Seventeen were excluded, resulting in 122 responses from 80 (65.6%) surgeons and 42 (34.4%) nonsurgeons.ResultsOnly 11 (9.0%) respondents reported that they currently offer PEBP treatment, and only 33 (27.5%) feel there is sufficient clinical evidence to support the use of PEBP. The most commonly reported barriers to implementation were doubts about clinical effectiveness (n = 67, 54.9%), availability of staff to fabricate the appliance (n = 41, 33.6%), concerns about family acceptance (n = 34, 27.9%), the potential for the appliance to cause harm (n = 26, 21.3%), and lack of clarity in billing and insurance coverage (n = 19, 15.6%).ConclusionsThe primary barriers to adoption of the PEBP in North America are a perceived insufficiency of evidence of its effectiveness and lack of appropriate staff to fabricate the appliances. Identification of these concerns provides opportunities to augment the body of literature and to identify and educate providers on fabrication techniques.",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing in 122 responses from 80 (65.6%) surgeons and 42 (34.4%) nonsurgeons.ResultsOnly 11 (9.0%) respondents reported that they currently offer PEBP treatment, and only 33 (27.5%) feel there is sufficient clinical evidence to support the use of PEBP. The most commonly reported barriers to implementation were doubts about clinical effectiveness (n = 67, 54.9%), availability of staff to fabricate the appliance (n = 41, 33.6%), concerns about family acceptance (n = 34, 27.9%), the potential for the appliance to cause harm (n = 26, 21.3%), and lack of clarity in billing and insurance coverage (n = 19, 15.6%).ConclusionsThe primary barriers to adoption of the PEBP in North America are a perceived insufficiency of evidence of its effectiveness and lack of appropriate staff to fabricate the appliances. Identification of these concerns provides opportunities to augment the body of literature and to identify and educate providers on fabrication techniques.",
+      "conclusion": "The primary barriers to adoption of the PEBP in North America are a perceived insufficiency of evidence of its effectiveness and lack of appropriate staff to fabricate the appliances. Identification of these concerns provides opportunities to augment the body of literature and to identify and educate providers on fabrication techniques.",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41204099/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42473667",
       "title": "A rapid point-of-care test for vancomycin monitoring at the clinical bedside.",
       "authors": [
@@ -2123,6 +2441,83 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42473667/",
       "pmcid": "PMC13380757",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42578796",
+      "title": "The Prevalence of Concurrent Congenital and Developmental Dental Anomalies in Dogs with Class II Malocclusions Compared to Dogs with Normal Occlusion.",
+      "authors": [
+        "Erin McGuirk",
+        "M J Redman",
+        "Eric Gilleland"
+      ],
+      "publication_date": "2026-Aug-11",
+      "publication_date_iso": "2026-08-11",
+      "abstract": "Class II malocclusion in dogs is a skeletal abnormality characterized by mandibular distoclusion that can result in traumatic occlusion and compromised oral health. While associated soft tissue trauma is well recognized, the prevalence of concurrent congenital and developmental dental anomalies in affected dogs has not been systematically evaluated. The aim of this study was to determine the prevalence of dental anomalies in dogs with class II malocclusion and compare findings to dogs with normal occlusion. Medical records from three veterinary dentistry referral centers were retrospectively reviewed. Dogs with class II malocclusion were included if they had complete oral examinations, dental charting, and full-mouth diagnostic imaging. Control dogs met the same criteria. Dental anomalies were recorded, and multivariable generalized linear models were used to compare prevalence between groups while adjusting for age, sex, and body weight (p < .05). Eighty-seven dogs with class II malocclusion and 98 controls were included. Affected dogs had a significantly higher prevalence of dental crowding, persistent deciduous teeth, and rotated teeth. Other anomalies-including supernumerary teeth, hypodontia, infraeruption, enamel defects, dilaceration, fused roots, gemination, and impacted teeth-were observed but did not differ significantly between groups. Dogs with class II malocclusion are more likely to exhibit multiple dental anomalies compared to dogs with normal occlusion. These findings suggest overlapping developmental mechanisms affecting craniofacial growth and odontogenesis. Early recognition is important for timely intervention and improved patient welfare.",
+      "objective": "of this study was to determine the prevalence of dental anomalies in dogs with class II malocclusion and compare findings to dogs with normal occlusion. Medical records from three veterinary dentistry referral centers were retrospectively reviewed. Dogs with class II malocclusion were included if they had complete oral examinations, dental charting, and full-mouth diagnostic imaging. Control dogs met the same criteria. Dental anomalies were recorded, and multivariable generalized linear models were used to compare prevalence between groups while adjusting for age, sex, and body weight (p < .05). Eighty-seven dogs with class II malocclusion and 98 controls were included. Affected dogs had a significantly higher prevalence of dental crowding, persistent deciduous teeth, and rotated teeth. Other anomalies-including supernumerary teeth, hypodontia, infraeruption, enamel defects, dilaceration, fused roots, gemination, and impacted teeth-were observed but did not differ significantly between groups. Dogs with class II malocclusion are more likely to exhibit multiple dental anomalies compared to dogs with normal occlusion. These findings suggest overlapping developmental mechanisms affecting craniofacial growth and odontogenesis. Early recognition is important for timely intervention and improved patient welfare.",
+      "study_methods": "",
+      "methods": "",
+      "results": "in traumatic occlusion and compromised oral health. While associated soft tissue trauma is well recognized, the prevalence of concurrent congenital and developmental dental anomalies in affected dogs has not been systematically evaluated. The aim of this study was to determine the prevalence of dental anomalies in dogs with class II malocclusion and compare findings to dogs with normal occlusion. Medical records from three veterinary dentistry referral centers were retrospectively reviewed. Dogs with class II malocclusion were included if they had complete oral examinations, dental charting, and full-mouth diagnostic imaging. Control dogs met the same criteria. Dental anomalies were recorded, and multivariable generalized linear models were used to compare prevalence between groups while adjusting for age, sex, and body weight (p < .05). Eighty-seven dogs with class II malocclusion and 98 controls were included. Affected dogs had a significantly higher prevalence of dental crowding, persistent deciduous teeth, and rotated teeth. Other anomalies-including supernumerary teeth, hypodontia, infraeruption, enamel defects, dilaceration, fused roots, gemination, and impacted teeth-were observed but did not differ significantly between groups. Dogs with class II malocclusion are more likely to exhibit multiple dental anomalies compared to dogs with normal occlusion. These findings suggest overlapping developmental mechanisms affecting craniofacial growth and odontogenesis. Early recognition is important for timely intervention and improved patient welfare.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42578796/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42576101",
+      "title": "Soft-tissue thickness changes following bimaxillary surgery in skeletal class II malocclusion.",
+      "authors": [
+        "Hao Chen",
+        "Dirk-Melle Beek",
+        "Frank Baan",
+        "Stephan Christian Möhlhenrich",
+        "Kasper Stokbro",
+        "Tong Xi"
+      ],
+      "publication_date": "2026-Aug-11",
+      "publication_date_iso": "2026-08-11",
+      "abstract": "This retrospective cohort study evaluated regional facial soft-tissue thickness changes after bimaxillary surgery in skeletal Class Ⅱ patients and assessed their associations with skeletal movement and patient-related factors. Class Ⅱ patients treated with bimaxillary advancement surgery without genioplasty were included. Postoperative CBCT scans, acquired 16.7 ± 5.3 months after surgery, were registered to the corresponding preoperative scans using voxel-based superimposition. Skeletal displacement and corresponding overlying soft-tissue thickness were assessed at subspinale (A), supradentale (Sd), infradentale (Id), supramentale (B), pogonion (Pog), and menton (Me). Soft-tissue thickness was defined as the linear distance between each hard-tissue landmark and its corresponding soft-tissue landmark. Skeletal displacement was measured at the corresponding hard-tissue landmarks. 89 patients were enrolled, 33 male and 56 female, mean age of 30.3 ± 10.3 years. Significant postoperative soft-tissue thinning was observed at A (0.40 ± 1.51 mm), Id (2.20 ± 2.11 mm), B (0.33 ± 1.30 mm), and Pog (0.48 ± 1.29 mm), whereas soft-tissue thickness at Sd and Me did not change significantly. Pearson correlation analysis indicated that thickness changes were not associated with age, sex, or CBCT interval. Larger sagittal advancement at A and Id was associated with more pronounced thinning of the corresponding soft tissue (A: r = -0.650, p < 0.001; Id: r = -0.338, p = 0.001), with ratios of thinning to movement of 0.20 and 0.30, respectively. In contrast, larger downward vertical movement of B was associated with less thinning at B (r = 0.240, p = 0.023), with a ratio of thinning to downward movement of 0.05. Bimaxillary surgery in skeletal Class II patients without genioplasty resulted in region specific soft-tissue thinning, particularly affecting the lower lip. Postoperative soft-tissue thinning should be considered during surgical planning and patient communication.",
+      "objective": "",
+      "study_methods": "Class Ⅱ patients treated with bimaxillary advancement surgery without genioplasty were included. Postoperative CBCT scans, acquired 16.7 ± 5.3 months after surgery, were registered to the corresponding preoperative scans using voxel-based superimposition. Skeletal displacement and corresponding overlying soft-tissue thickness were assessed at subspinale (A), supradentale (Sd), infradentale (Id), supramentale (B), pogonion (Pog), and menton (Me). Soft-tissue thickness was defined as the linear distance between each hard-tissue landmark and its corresponding soft-tissue landmark. Skeletal displacement was measured at the corresponding hard-tissue landmarks.",
+      "methods": "Class Ⅱ patients treated with bimaxillary advancement surgery without genioplasty were included. Postoperative CBCT scans, acquired 16.7 ± 5.3 months after surgery, were registered to the corresponding preoperative scans using voxel-based superimposition. Skeletal displacement and corresponding overlying soft-tissue thickness were assessed at subspinale (A), supradentale (Sd), infradentale (Id), supramentale (B), pogonion (Pog), and menton (Me). Soft-tissue thickness was defined as the linear distance between each hard-tissue landmark and its corresponding soft-tissue landmark. Skeletal displacement was measured at the corresponding hard-tissue landmarks.",
+      "results": "ed in region specific soft-tissue thinning, particularly affecting the lower lip. Postoperative soft-tissue thinning should be considered during surgical planning and patient communication.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576101/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42576206",
+      "title": "Effects of hyperbaric oxygen therapy on human musculoskeletal pathologies in clinical studies: a systematic review.",
+      "authors": [
+        "Luise Weinrich",
+        "Thomas Tischer",
+        "Ludwig Schlesiger",
+        "Milena L Pachowsky",
+        "Lorenz Hoos"
+      ],
+      "publication_date": "2026-Aug-10",
+      "publication_date_iso": "2026-08-10",
+      "abstract": "Hyperbaric oxygen therapy (HBOT) has gained increasing interest in regenerative medicine for its capacity to enhance tissue oxygenation, reduce inflammation, and accelerate healing. While its use in musculoskeletal medicine is expanding, particularly among athletes and in sports orthopaedics, the clinical evidence base remains fragmented across indications and has not been systematically evaluated. The aim of this systematic review was to synthesize the available clinical evidence for HBOT in human musculoskeletal pathologies, with focus on its application in orthopaedic medicine. A systematic PubMed and LIVIVO search identified clinical studies (January 1996 - January 2026) investigating intervention-based studies using HBOT for musculoskeletal conditions in humans. Exclusion criteria were combinatory therapies, transplantations, radiation injuries, osteomyelitis, spine and oral surgery. Data on study design, HBOT protocols and their outcomes was collected. A qualitative synthesis was performed due to heterogeneity in study designs and outcome measures. Risk of bias was assessed using Cochrane RoB 2 tool (RCTs) and ROBINS-I V2 (non-RCTs). Studies were categorized by pathology (muscle/tendons/ligament injury; avascular necrosis (AVN) and bone marrow edema (BME)). Nineteen studies involving 612 patients met our inclusion criteria. Conditions included exercise-induced muscle damage (EIMD) and its symptomatic manifestation delayed onset muscle soreness (DOMS), ligament injuries, AVN, BME, and tendon perfusion. Evidence for HBOT's effects in DOMS/EIMD was limited, with RCTs showing no significant benefit. Conversely, AVN and BME studies reported consistent improvements in imaging, pain and functional scores, particularly with prolonged protocols. Limited evidence suggested potential benefits in ligament healing; tendon oxygenation effects were inconclusive. HBOT protocols ranged from 1 - 12 sessions for soft-tissue and 20 - 80 sessions for bone injuries, mainly using 60 to 90 minute sessions with 100% oxygen. Adverse events were rare and mild. Most RCTs showed low risk of bias; non-randomized studies had serious-to-critical bias due to confounding and measurement issues. HBOT may have a role as an adjunctive therapy for musculoskeletal pathologies, especially AVN and BME, where the most consistent evidence was observed, while its benefit in ligament injuries, muscle recovery, and tendon pathology remains inconclusive and requires higher-quality trials to substantiate. This topic is directly relevant to orthopaedic and sports medicine practitioners considering its off-label use. This review identifies conditions with the most consistent clinical benefit, highlights the limitations of current evidence, and defines priorities for future high-quality trials to guide safe and effective clinical implementation. Systematic review.",
+      "objective": "of this systematic review was to synthesize the available clinical evidence for HBOT in human musculoskeletal pathologies, with focus on its application in orthopaedic medicine. A systematic PubMed and LIVIVO search identified clinical studies (January 1996 - January 2026) investigating intervention-based studies using HBOT for musculoskeletal conditions in humans. Exclusion criteria were combinatory therapies, transplantations, radiation injuries, osteomyelitis, spine and oral surgery. Data on study design, HBOT protocols and their outcomes was collected. A qualitative synthesis was performed due to heterogeneity in study designs and outcome measures. Risk of bias was assessed using Cochrane RoB 2 tool (RCTs) and ROBINS-I V2 (non-RCTs). Studies were categorized by pathology (muscle/tendons/ligament injury; avascular necrosis (AVN) and bone marrow edema (BME)). Nineteen studies involving 612 patients met our inclusion criteria. Conditions included exercise-induced muscle damage (EIMD) and its symptomatic manifestation delayed onset muscle soreness (DOMS), ligament injuries, AVN, BME, and tendon perfusion. Evidence for HBOT's effects in DOMS/EIMD was limited, with RCTs showing no significant benefit. Conversely, AVN and BME studies reported consistent improvements in imaging, pain and functional scores, particularly with prolonged protocols. Limited evidence suggested potential benefits in ligament healing; tendon oxygenation effects were inconclusive. HBOT protocols ranged from 1 - 12 sessions for soft-tissue and 20 - 80 sessions for bone injuries, mainly using 60 to 90 minute sessions with 100% oxygen. Adverse events were rare and mild. Most RCTs showed low risk of bias; non-randomized studies had serious-to-critical bias due to confounding and measurement issues. HBOT may have a role as an adjunctive therapy for musculoskeletal pathologies, especially AVN and BME, where the most consistent evidence was observed, while its benefit in ligament injuries, muscle recovery, and tendon pathology remains inconclusive and requires higher-quality trials to substantiate. This topic is directly relevant to orthopaedic and sports medicine practitioners considering its off-label use. This review identifies conditions with the most consistent clinical benefit, highlights the limitations of current evidence, and defines priorities for future high-quality trials to guide safe and effective clinical implementation. Systematic review.",
+      "study_methods": "A systematic PubMed and LIVIVO search identified clinical studies (January 1996 - January 2026) investigating intervention-based studies using HBOT for musculoskeletal conditions in humans. Exclusion criteria were combinatory therapies, transplantations, radiation injuries, osteomyelitis, spine and oral surgery. Data on study design, HBOT protocols and their outcomes was collected. A qualitative synthesis was performed due to heterogeneity in study designs and outcome measures. Risk of bias was assessed using Cochrane RoB 2 tool (RCTs) and ROBINS-I V2 (non-RCTs). Studies were categorized by pathology (muscle/tendons/ligament injury; avascular necrosis (AVN) and bone marrow edema (BME)).",
+      "methods": "A systematic PubMed and LIVIVO search identified clinical studies (January 1996 - January 2026) investigating intervention-based studies using HBOT for musculoskeletal conditions in humans. Exclusion criteria were combinatory therapies, transplantations, radiation injuries, osteomyelitis, spine and oral surgery. Data on study design, HBOT protocols and their outcomes was collected. A qualitative synthesis was performed due to heterogeneity in study designs and outcome measures. Risk of bias was assessed using Cochrane RoB 2 tool (RCTs) and ROBINS-I V2 (non-RCTs). Studies were categorized by pathology (muscle/tendons/ligament injury; avascular necrosis (AVN) and bone marrow edema (BME)).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576206/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2352,35 +2747,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42560332",
-      "title": "Utility of 2-[18F]Fluoro-2-deoxy-D-glucose positron emission tomography/computed tomography in assessing treatment response after chemoradiotherapy for cervical cancer.",
-      "authors": [
-        "Yuto Kishimoto",
-        "Motoharu Sasaki",
-        "Hideki Otsuka",
-        "Akiko Kubo",
-        "Chisato Tonoiso",
-        "Takashi Kawanaka",
-        "Takaharu Kudoh",
-        "Hitoshi Ikushima"
-      ],
-      "publication_date": "2026-Aug-06",
-      "publication_date_iso": "2026-08-06",
-      "abstract": "Cervical cancer is the fourth most common malignancy globally. As many cases are locally advanced, early prediction of local recurrence, which often occurs within 2 years of chemoradiotherapy (CCRT), is crucial. The National Comprehensive Cancer Network Guidelines recommend post-treatment 2-[18F]fluoro-2-deoxy-D-glucose positron emission tomography/computed tomography (18F-FDG-PET/CT) for response assessment, but this is not standard in Japan. We aimed to investigate the utility of 18F-FDG-PET/CT in assessing primary tumor response after CCRT for cervical cancer. Seventy-three patients with cervical cancer who received curative CCRT and underwent pre- and post-treatment magnetic resonance imaging and 18F-FDG-PET/CT were analyzed. We collected PET metrics (maximum standardized uptake value [SUVmax], metabolic tumor volume [MTV], total lesion glycolysis [TLG]) and classified the response. Receiver operating characteristic (ROC) curve analysis was performed on the post-treatment PET data. Univariate analysis was performed to determine the prognostic factors for local control. ROC curve analysis yielded high negative predictive values for local recurrence of post-treatment MTV, SUVmax and TLG. Univariate analysis showed significant differences in local control for post-treatment MTV, SUVmax, TLG and PET Response Criteria in Solid Tumors, but not for Response Evaluation Criteria in Solid Tumors (RECIST). Functional assessment using 18F-FDG-PET/CT after CCRT for cervical cancer is useful for complementing conventional morphological evaluation and improving the accuracy of response assessment.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42560332/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42559963",
       "title": "Simultaneous Paranasal Augmentation and Le Fort I Osteotomy Using a Patient-Specific Implant Designed to Share the Fixation Space: Two-Year Clinical Outcomes.",
       "authors": [
@@ -2402,60 +2768,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42559963/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42555748",
-      "title": "Biocompatibility of self-etching primer in orthodontics: an",
-      "authors": [
-        "Thomas Wendl",
-        "Clemens Kittinger",
-        "Rebecca Jungbauer",
-        "Brigitte Wendl",
-        "Peter Proff"
-      ],
-      "publication_date": "2026-Aug-06",
-      "publication_date_iso": "2026-08-06",
-      "abstract": "Self-etching primers have simplified the process of direct bonding of dental resins and orthodontic brackets. The aim of this study was to evaluate the cytotoxic impact of the leached components to L-929 fibroblast cultures. Transbond™ Plus self-etching primer (3M Unitek, 2724 South Peck Road, Monrovin CA 91016 USA) was applied to enamel pieces in three different conditions and the specimens were added to L-929 fibroblast cultures. The incubation time was 72 h and the cells were counted by flow cytometry. Statistics was carried out using descriptive and explorative data analyses. In direct contact assays, the self-etching primer without bracket exhibited mild to moderate cytotoxicity. The application of primer, composite and bracket showed no relevant decrease of cell viability. After seven days, the cytotoxic effects had largely disappeared. Overall, the combination of self-etching primer, composite, bracket exhibits no significant cytotoxicity during the observation period. When self-etching primers are used according to the recommended clinical protocols in orthodontics, the method is regarded as safe and the release of leachables seems to have no adverse clinical effect.",
-      "objective": "of this study was to evaluate the cytotoxic impact of the leached components to L-929 fibroblast cultures. Transbond™ Plus self-etching primer (3M Unitek, 2724 South Peck Road, Monrovin CA 91016 USA) was applied to enamel pieces in three different conditions and the specimens were added to L-929 fibroblast cultures. The incubation time was 72 h and the cells were counted by flow cytometry. Statistics was carried out using descriptive and explorative data analyses. In direct contact assays, the self-etching primer without bracket exhibited mild to moderate cytotoxicity. The application of primer, composite and bracket showed no relevant decrease of cell viability. After seven days, the cytotoxic effects had largely disappeared. Overall, the combination of self-etching primer, composite, bracket exhibits no significant cytotoxicity during the observation period. When self-etching primers are used according to the recommended clinical protocols in orthodontics, the",
-      "study_methods": "Transbond™ Plus self-etching primer (3M Unitek, 2724 South Peck Road, Monrovin CA 91016 USA) was applied to enamel pieces in three different conditions and the specimens were added to L-929 fibroblast cultures. The incubation time was 72 h and the cells were counted by flow cytometry. Statistics was carried out using descriptive and explorative data analyses.",
-      "methods": "Transbond™ Plus self-etching primer (3M Unitek, 2724 South Peck Road, Monrovin CA 91016 USA) was applied to enamel pieces in three different conditions and the specimens were added to L-929 fibroblast cultures. The incubation time was 72 h and the cells were counted by flow cytometry. Statistics was carried out using descriptive and explorative data analyses.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42555748/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42557296",
-      "title": "A perforator-based adipocutaneous skin paddle derived from free muscle flap reconstruction as a hypothesis-generating human tissue model of early localized lymphatic insufficiency.",
-      "authors": [
-        "Katja K Koll",
-        "Martin M Zimmermann",
-        "Matthias Schulte",
-        "Adriana C Panayi",
-        "Gabriel Hundeshagen",
-        "Ulrich Kneser",
-        "Christoph Hirche"
-      ],
-      "publication_date": "2026-Aug-05",
-      "publication_date_iso": "2026-08-05",
-      "abstract": "Secondary lymphedema remains poorly understood, particularly with regard to early human tissue responses after lymphatic outflow disruption. This study evaluates the perforator-based adipocutaneous skin paddle (PBASP) from vascularized free muscle flaps as a hypothesis-generating human tissue platform for early localized lymphatic insufficiency. The PBASP, receives arterial and venous perfusion but is not reconnected to physiological lymphatic outflow and was therefore hypothesized to develop changes consistent with early local lymphatic outflow insufficiency. Tissue samples were collected from 15 patients who underwent free muscle flap transfer, with PBASP samples obtained 7-14 days post-surgery. Histological, immunofluorescence, molecular, and protein analyses were performed to assess lymphangiogenesis, inflammation, extracellular matrix remodeling, and adipogenesis. PBASP tissue exhibited epidermal thickening, dermal expansion, subcutaneous matrix loosening, and leukocyte infiltration. Immunofluorescence showed a 3.6-fold increase in LYVE-1 + lymphatic vessel cross-sectional area. Gene expression analysis revealed upregulation of markers like VEGF-C, VEGFR3, IL-6, and MMP-9. ELISA demonstrated increased LYVE-1, IL-6, and COL1A1 protein levels. Together, PBASP tissues showed structural, lymphatic-marker, inflammatory, and early remodeling changes consistent with early localized lymphatic outflow insufficiency. Together, these findings support the PBASP-derived approach as a paired human tissue platform for studying early, localized lymphatic insufficiency and for generating mechanistic hypotheses relevant to secondary lymphedema.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42557296/",
-      "pmcid": "PMC13444241",
       "figure_urls": []
     },
     {
@@ -2481,117 +2793,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42554674/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42554427",
-      "title": "Wound Healing Patterns of PRF and PRGF Versus a Collagen-Based Substitute and Spontaneous Healing-A Randomised Controlled Clinical Trial Assessing Wound Closure of an Experimental, Standardised Palatal Defect.",
-      "authors": [
-        "Stefan P Bienz",
-        "Anne C Fischer",
-        "Leonardo Mancini",
-        "Franz J Strauss",
-        "Raphael M Ferrari",
-        "Sonja Hitz",
-        "Ronald E Jung",
-        "Daniel S Thoma"
-      ],
-      "publication_date": "2026-Aug-05",
-      "publication_date_iso": "2026-08-05",
-      "abstract": "To evaluate wound-healing progression among platelet-rich fibrin (PRF), plasma rich in growth factors (PRGF), a collagen-based wound dressing (CS = collagen substitute) and spontaneous healing (control), assessed by percentage of remaining open wound area and patient-reported pain. Twenty participants each received four standardised palatal wounds (6 mm × 3 mm) and were randomly assigned to PRF, PRGF, a collagen substitute or spontaneous healing as control. All dressings were secured with criss-cross sutures. Standardised clinical photographs and pain assessments were obtained at baseline and on postoperative days 2,5,7,9, 12 and 14. Parametric and nonparametric models for longitudinal data were used to compare outcomes, accounting for within-subject correlation of repeated measurements. Open wound area decreased across all groups throughout the 14-day period. Some defects enlarged transiently at Day 2, and the greatest differences between the groups were observed on Day 7 (35.7%-47.0% of wound remaining). Pain scores decreased significantly over time in all groups, with no statistically significant differences between treatments (p > 0.05). Anterior defects tended to be perceived as more painful than posterior defects. Spontaneous healing resulted in slightly faster reduction of remaining open wound area than PRF, PRGF or the collagen substitute, with comparable postoperative pain levels. In standardised defects in healthy individuals, PRF, PRGF and collagen substitutes demonstrate minimal additional benefit for soft-tissue healing. Further studies are warranted to determine whether benefits emerge in larger wounds or in patients with compromised healing.",
-      "objective": "",
-      "study_methods": "Twenty participants each received four standardised palatal wounds (6 mm × 3 mm) and were randomly assigned to PRF, PRGF, a collagen substitute or spontaneous healing as control. All dressings were secured with criss-cross sutures. Standardised clinical photographs and pain assessments were obtained at baseline and on postoperative days 2,5,7,9, 12 and 14. Parametric and nonparametric models for longitudinal data were used to compare outcomes, accounting for within-subject correlation of repeated measurements.",
-      "methods": "Twenty participants each received four standardised palatal wounds (6 mm × 3 mm) and were randomly assigned to PRF, PRGF, a collagen substitute or spontaneous healing as control. All dressings were secured with criss-cross sutures. Standardised clinical photographs and pain assessments were obtained at baseline and on postoperative days 2,5,7,9, 12 and 14. Parametric and nonparametric models for longitudinal data were used to compare outcomes, accounting for within-subject correlation of repeated measurements.",
-      "results": "ed in slightly faster reduction of remaining open wound area than PRF, PRGF or the collagen substitute, with comparable postoperative pain levels. In standardised defects in healthy individuals, PRF, PRGF and collagen substitutes demonstrate minimal additional benefit for soft-tissue healing. Further studies are warranted to determine whether benefits emerge in larger wounds or in patients with compromised healing.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42554427/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42552608",
-      "title": "Oral Soft Tissue Biopsy in Patients Receiving Direct Oral Anticoagulants: A Prospective Cohort Study on Bleeding Outcomes.",
-      "authors": [
-        "Rossana Izzetti",
-        "Chiara Cinquini",
-        "Antonio Barone",
-        "Marco Nisi"
-      ],
-      "publication_date": "2026-Aug-04",
-      "publication_date_iso": "2026-08-04",
-      "abstract": "Direct oral anticoagulants (DOACs) are the first-line therapy for stroke prevention in non-valvular atrial fibrillation and venous thromboembolism. While evidence supports their continuation during routine dental procedures such as tooth extractions, data on oral soft tissue biopsies remain limited. The aim of this study was to evaluate bleeding rates in DOAC-treated patients undergoing oral biopsy without drug discontinuation, compared to anticoagulant-naive controls. One hundred patients were enrolled and divided into two groups of 50: DOAC group and control group. Both groups underwent standardised excisional soft tissue biopsy. Bleeding was assessed intraoperatively, perioperatively, and daily from postoperative day 1 (T1) to day 7 (T7) via a patient-completed diary. Intraoperative bleeding was significantly more frequent in the DOAC group (p < 0.05), as well as perioperative bleeding (p < 0.05). Postoperative bleeding was significantly higher in the DOAC group at T1 (22% vs. 6%, p < 0.05) and T2 (16% vs. 4%, p < 0.05), and moderate bleeding occurred exclusively in DOAC patients at T3 and T4 (4%, p < 0.05). Oral soft tissue biopsy in DOAC-treated patients is associated with a higher risk of intra-, peri- and postoperative bleeding compared to controls. However, bleeding severity remains mild to moderate and appears manageable in an outpatient setting. The study protocol was registered in a clinical trials database (Clinicaltrials.gov) with registration number NCT07520890.",
-      "objective": "of this study was to evaluate bleeding rates in DOAC-treated patients undergoing oral biopsy without drug discontinuation, compared to anticoagulant-naive controls. One hundred patients were enrolled and divided into two groups of 50: DOAC group and control group. Both groups underwent standardised excisional soft tissue biopsy. Bleeding was assessed intraoperatively, perioperatively, and daily from postoperative day 1 (T1) to day 7 (T7) via a patient-completed diary. Intraoperative bleeding was significantly more frequent in the DOAC group (p < 0.05), as well as perioperative bleeding (p < 0.05). Postoperative bleeding was significantly higher in the DOAC group at T1 (22% vs. 6%, p < 0.05) and T2 (16% vs. 4%, p < 0.05), and moderate bleeding occurred exclusively in DOAC patients at T3 and T4 (4%, p < 0.05). Oral soft tissue biopsy in DOAC-treated patients is associated with a higher risk of intra-, peri- and postoperative bleeding compared to controls. However, bleeding severity remains mild to moderate and appears manageable in an outpatient setting. The study protocol was registered in a clinical trials database (Clinicaltrials.gov) with registration number NCT07520890.",
-      "study_methods": "One hundred patients were enrolled and divided into two groups of 50: DOAC group and control group. Both groups underwent standardised excisional soft tissue biopsy. Bleeding was assessed intraoperatively, perioperatively, and daily from postoperative day 1 (T1) to day 7 (T7) via a patient-completed diary.",
-      "methods": "One hundred patients were enrolled and divided into two groups of 50: DOAC group and control group. Both groups underwent standardised excisional soft tissue biopsy. Bleeding was assessed intraoperatively, perioperatively, and daily from postoperative day 1 (T1) to day 7 (T7) via a patient-completed diary.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42552608/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42551851",
-      "title": "Insertion Torque Value and Implant Stability Quotient of Bone-Level Versus Tissue-Level Dental Implants: A Pilot Randomized Clinical Trial.",
-      "authors": [
-        "Ahmed Samir Elkattan",
-        "Mónica Blázquez-Hinarejos",
-        "Hassan Ahmed Assiri",
-        "Sonia Egido-Moreno",
-        "Francisco Javier Parra-Moreno",
-        "Eva Otero-Rey",
-        "Xavier Roselló-Llabrés",
-        "José López-López"
-      ],
-      "publication_date": "2026-Aug-04",
-      "publication_date_iso": "2026-08-04",
-      "abstract": "This randomized clinical trial aimed to assess the relation of insertion torque value (ITV) and implant stability quotient (ISQ) between bone-level (BL) and tissue-level (TL) dental implants (ISQ recorded immediately and 3 months after implant placement). A total of 90 dental implants (44 BL, 46 TL; BioHorizons Camlog, Iberica) were placed in 21 patients. ITV was recorded at placement. ISQ (Penguin device, Klockner) was measured horizontally (ISQ-H) and vertically (ISQ-V) at baseline and at the 90-day follow-up. The Mann-Whitney U test and Spearman's correlation tests (α = 0.05) were used for the analyses. No significant difference in ITV was found between the BL (36.0 ± 11.5 Ncm) and TL (38.0 ± 11.5 Ncm) groups (p = 0.381). Similarly, no significant differences were observed in baseline ISQ-H (p = 0.928) or ISQ-V (p = 0.874). At 90 days, ISQ-H values were marginally higher in the TL group (66.5 ± 20.9) compared to the BL group (57.1 ± 18.9; p = 0.029). A significant positive correlation was found between ITV and baseline ISQ (r = 0.493, p < 0.001), but not with 90-day ISQ values. Implant design (BL vs. TL) did not significantly influence ITV or ISQ. The finding of greater horizontal stability for TL implants at 90 days, while marginal, suggests a potential long-term biomechanical difference warranting further study. The dissociation between insertion torque and 90-day stability indicates that secondary stability is governed by factors beyond initial mechanical engagement.",
-      "objective": "",
-      "study_methods": "A total of 90 dental implants (44 BL, 46 TL; BioHorizons Camlog, Iberica) were placed in 21 patients. ITV was recorded at placement. ISQ (Penguin device, Klockner) was measured horizontally (ISQ-H) and vertically (ISQ-V) at baseline and at the 90-day follow-up.",
-      "methods": "A total of 90 dental implants (44 BL, 46 TL; BioHorizons Camlog, Iberica) were placed in 21 patients. ITV was recorded at placement. ISQ (Penguin device, Klockner) was measured horizontally (ISQ-H) and vertically (ISQ-V) at baseline and at the 90-day follow-up.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42551851/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42550231",
-      "title": "Distraction in anterior plagiocephaly: technique, risks, and long-term results.",
-      "authors": [
-        "Santiago Lopez-Becerra",
-        "David Perrault",
-        "Kirin Naidu",
-        "Maura R Guyler",
-        "Samir Shakir",
-        "Jordan W Swanson",
-        "Jesse A Taylor"
-      ],
-      "publication_date": "2026-Aug-04",
-      "publication_date_iso": "2026-08-04",
-      "abstract": "The purpose of this study is to define the perioperative outcomes and long-term aesthetic outcomes of patients with unicoronal craniosynostosis (UCS) treated with fronto-orbital distraction osteogenesis (FODO) and compare them to a contemporaneous cohort treated with conventional fronto-orbital advancement and remodeling (FOAR). A retrospective review was performed for all patients treated at the Children's Hospital of Philadelphia for non-syndromic UCS from 2009-2025. Demographic and perioperative data were collected. Preoperative and 5-year or greater postoperative frontal 2D photographs were used to assess for facial, and specifically periorbital, symmetry. Symmetry ratios were calculated to assess periorbital facial morphometry. Sixty-two patients were included in the study, 34 FODO, and 28 FOAR. FODO demonstrated significantly shorter anesthesia and surgical times, lower estimated blood loss, and shorter length of stay (all p < 0.001). The overall complication rate was similar (p = 0.175), but postoperative infection was more commonly reported in the FODO group (24 vs 1%, p = 0.033). Thirty-two patients had a 5-year or greater postoperative photographs, 16 FODO, and 16 FOAR. Patients in the FODO group were found to have greater improvements in palpebral width symmetry (0.32 vs -3.4, p = 0.039) and canthal tilt symmetry (1.51 vs -1.20 degrees, p = 0.035). One patient in the FOAR group required reoperation due to signs of elevated ICP. FODO results in improved perioperative and long-term aesthetic outcomes compared to FOAR, resulting in improved canthal tilt and palpebral width symmetry. Future studies should focus on severity-matched analyses.",
-      "objective": "of this study is to define the perioperative outcomes and long-term aesthetic outcomes of patients with unicoronal craniosynostosis (UCS) treated with fronto-orbital distraction osteogenesis (FODO) and compare them to a contemporaneous cohort treated with conventional fronto-orbital advancement and remodeling (FOAR). A retrospective review was performed for all patients treated at the Children's Hospital of Philadelphia for non-syndromic UCS from 2009-2025. Demographic and perioperative data were collected. Preoperative and 5-year or greater postoperative frontal 2D photographs were used to assess for facial, and specifically periorbital, symmetry. Symmetry ratios were calculated to assess periorbital facial morphometry. Sixty-two patients were included in the study, 34 FODO, and 28 FOAR. FODO demonstrated significantly shorter anesthesia and surgical times, lower estimated blood loss, and shorter length of stay (all p < 0.001). The overall complication rate was similar (p = 0.175), but postoperative infection was more commonly reported in the FODO group (24 vs 1%, p = 0.033). Thirty-two patients had a 5-year or greater postoperative photographs, 16 FODO, and 16 FOAR. Patients in the FODO group were found to have greater improvements in palpebral width symmetry (0.32 vs -3.4, p = 0.039) and canthal tilt symmetry (1.51 vs -1.20 degrees, p = 0.035). One patient in the FOAR group required reoperation due to signs of elevated ICP. FODO",
-      "study_methods": "A retrospective review was performed for all patients treated at the Children's Hospital of Philadelphia for non-syndromic UCS from 2009-2025. Demographic and perioperative data were collected. Preoperative and 5-year or greater postoperative frontal 2D photographs were used to assess for facial, and specifically periorbital, symmetry. Symmetry ratios were calculated to assess periorbital facial morphometry.",
-      "methods": "A retrospective review was performed for all patients treated at the Children's Hospital of Philadelphia for non-syndromic UCS from 2009-2025. Demographic and perioperative data were collected. Preoperative and 5-year or greater postoperative frontal 2D photographs were used to assess for facial, and specifically periorbital, symmetry. Symmetry ratios were calculated to assess periorbital facial morphometry.",
-      "results": "in improved perioperative and long-term aesthetic outcomes compared to FOAR, resulting in improved canthal tilt and palpebral width symmetry. Future studies should focus on severity-matched analyses.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42550231/",
-      "pmcid": "PMC13437662",
       "figure_urls": []
     }
   ]
