@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T04:12:23Z",
+  "updated_at": "2026-08-13T04:17:06Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1125,6 +1125,35 @@
       "figure_urls": []
     },
     {
+      "pmid": "42372398",
+      "title": "Development of models of preclinical stage 2 bisphosphonate-related osteonecrosis of the jaw in non-rodent mammals using zoledronate: A systematic review.",
+      "authors": [
+        "Prasiddha Mahardhika El Fadhlallah",
+        "Meircurius Dwi Condro Surboyo",
+        "Alex Kesuma",
+        "Yurie Sato-Yamada",
+        "Andrea L Rosenkranz",
+        "Masayoshi Koga",
+        "Kei Tomihara",
+        "Tomoki Maekawa"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "To identify specific experimental parameters, including species selection, zoledronate dosing regimens, and surgical triggers, required to reliably reproduce advanced clinical stages of bisphosphonate-related osteonecrosis of the jaw (BRONJ) in non-rodent mammals. Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, we systematically searched for studies reporting the use of zoledronate-treated non-rodent mammals subjected to dental trauma. Extracted variables included species, dosing, intervention, clinical exposure, histopathology, and micro-CT findings. Twenty-three studies were included. High-dose intravenous zoledronate combined with posterior tooth extraction consistently induced stage 2 BRONJ across various species, including minipigs, dogs, and sheep. Key findings included persistent bone exposure, increased empty osteocytic lacunae, and necrotic bone areas. Standardized protocols using large animal models effectively mimic human stage 2 BRONJ, providing a reliable platform for translational research and the development of new therapeutic strategies.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42372398/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42361700",
       "title": "Comment on \"Facial surgery preview based on the orthognathic treatment prediction\" (Han et al., 2025).",
       "authors": [
@@ -1171,6 +1200,34 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42341629/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42330718",
+      "title": "Periodontal pathogen-driven endotoxemia and bacteremia as a mechanistic link to liver disease. A scoping review.",
+      "authors": [
+        "Davi da Silva Barbirato",
+        "Mariana Fampa Fogacci",
+        "Taísa Coelho Guimarães",
+        "João Régis Ivar Carneiro",
+        "Maria Cynésia Medeiros de Barros",
+        "Jamil Awad Shibli",
+        "Rafael Scaf de Molon"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "This scoping review aimed to map and synthesize the available evidence linking periodontal pathogen-derived endotoxemia and bacteremia to liver abnormalities and to identify the biological mechanisms potentially involved in hepatic injury. Following PRISMA-ScR guidelines, comprehensive electronic searches were conducted across major databases, including MEDLINE, Embase, Scopus, Web of Science, and Cochrane CENTRAL, complemented by grey literature sources. Experimental and clinical studies reporting endotoxemia and/or bacteremia attributable to periodontal pathogens in association with liver-related outcomes were included without restrictions on study design or language. Data extraction and study selection were performed in duplicate. Methodological appraisal was conducted using the SYRCLE risk of bias tool for animal studies and the Joanna Briggs Institute checklist for case reports. Twenty studies met the inclusion criteria, comprising experimental animal studies and clinical case reports. Porphyromonas gingivalis was the most frequently investigated pathogen, followed by Aggregatibacter actinomycetemcomitans and Fusobacterium nucleatum. Experimental evidence consistently demonstrated that periodontal pathogen-derived endotoxemia and bacteremia promote hepatic inflammation, oxidative stress, lipid dysregulation, steatosis, hepatocyte injury, and fibrogenic remodeling. Reported mechanisms included activation of Toll-like receptor signaling, Galectin-3 accumulation, TGF-β1/Smad-mediated fibrogenesis, hepatic stellate cell activation, and endoplasmic reticulum stress. Clinical reports further linked odontogenic infections to severe hepatic complications, including pyogenic liver abscesses and cirrhosis. The available evidence supports a biologically plausible role for periodontal pathogen-derived endotoxemia and bacteremia in the initiation and progression of liver disease. However, the current evidence base is predominantly preclinical, highlighting the need for well-designed human studies to establish causality and clinical relevance.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42330718/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1353,68 +1410,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/sc1.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/sc1.gif"
       ]
-    },
-    {
-      "pmid": "42164998",
-      "title": "Hit the bull's eye: Engineered extracellular vesicles for targeted therapy.",
-      "authors": [
-        "Yijin Cai",
-        "Hengjing Zhang",
-        "Xinao Fan",
-        "Haojie Fu",
-        "Haiyan Li",
-        "Xiaoling Fu",
-        "Xudong Wang",
-        "Changyong Yuan",
-        "Kaili Lin",
-        "Yu Zhuang"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "Extracellular vesicles (EVs) are nanoscale vesicles secreted by most cell types and have a similar composition to their parent cells. By delivering effector molecules, EVs serve as mediators of intercellular communication and hold significant therapeutic potential. However, challenges such as uncertain in vivo biodistribution and the risk of adverse reactions in non-target tissues still limit their broader clinical translation. Recent studies increasingly demonstrate that EVs can be engineered to target pathological tissues, thereby enhancing their specificity and therapeutic efficacy across various diseases. This review first outlines the biogenesis, composition, trafficking, cellular uptake, and biological functions of EVs, followed by a description of their natural biodistribution patterns, emphasizing how molecular heterogeneity contributes to natural targeting. We then discuss engineering strategies for EV targeting, comparing their advantages, limitations, and industrial feasibility. Subsequently, we examine how organ-specific microenvironment influences targeting efficiency of engineered EVs and summarize their applications in targeted therapy across various organs and tissues. Finally, the major challenges and future directions for the clinical translation of engineered EVs in targeted therapy are highlighted.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42164998/",
-      "pmcid": "PMC13185783",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/ga1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13185783/bin/gr1.gif"
-      ]
-    },
-    {
-      "pmid": "42162783",
-      "title": "Zirconia in dentistry: A 25-year bibliometric analysis of research trends, thematic evolution, and emerging frontiers.",
-      "authors": [
-        "Jingkun Zhang",
-        "Guangwei Chen",
-        "Wenshu Wu",
-        "Xinchao Miao",
-        "Youcheng Luo"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "This bibliometric analysis aimed to map the global research landscape of zirconia in dentistry over the past 25 years, focusing on publication output, collaboration patterns, thematic evolution, and emerging research fronts. Records published between 2000 and 2025 were retrieved from the Web of Science Core Collection using a zirconia-specific search strategy. After screening, 6156 publications were included. Bibliometric analyses were conducted using VOSviewer, CiteSpace, and Bibliometrix to examine performance indicators, coauthorship and cocitation networks, keyword clustering, thematic evolution, and research frontiers. Journal metrics were obtained from the 2025 Journal Citation Reports. Correlation analyses between publication output and citation counts were performed using SPSS. Annual zirconia-related publications increased from fewer than 20 in 2000 to 494 by September 2025, reflecting sustained research activity over the observation period. The United States, Germany, Brazil, and Switzerland were the most productive contributors, while China, the Republic of Korea, and Turkey showed notable increases in output. The leading institutions included the University of Zurich, the University of São Paulo, and the University of Bern, with authors Kern, Sailer, and Özcan forming prominent collaboration networks. Cocitation and keyword analyses indicated thematic progression from structural reliability to bonding and interface research, esthetic-driven phase development, digital workflow accuracy, implant-supported zirconia components, and, more recently, additive manufacturing. Citation-burst detection highlighted emerging topics, including monolithic zirconia, translucency enhancement, computer-aided design and computer-aided manufacturing (CAD/CAM) precision, digital workflows, and three-dimensional (3D) printing. Zirconia-related dental research has evolved from a focus on mechanical reliability to broader themes encompassing bonding, esthetics, implant applications, and digital workflows, with emerging interest in additive manufacturing. By mapping research trends and thematic evolution, this bibliometric analysis provides insights into the shifting focus of zirconia research toward digitally integrated and clinically contextualized domains. These findings may support future research prioritization and methodological refinement in digital prosthodontics and dental materials.",
-      "objective": "",
-      "study_methods": "Records published between 2000 and 2025 were retrieved from the Web of Science Core Collection using a zirconia-specific search strategy. After screening, 6156 publications were included. Bibliometric analyses were conducted using VOSviewer, CiteSpace, and Bibliometrix to examine performance indicators, coauthorship and cocitation networks, keyword clustering, thematic evolution, and research frontiers. Journal metrics were obtained from the 2025 Journal Citation Reports. Correlation analyses between publication output and citation counts were performed using SPSS.",
-      "methods": "Records published between 2000 and 2025 were retrieved from the Web of Science Core Collection using a zirconia-specific search strategy. After screening, 6156 publications were included. Bibliometric analyses were conducted using VOSviewer, CiteSpace, and Bibliometrix to examine performance indicators, coauthorship and cocitation networks, keyword clustering, thematic evolution, and research frontiers. Journal metrics were obtained from the 2025 Journal Citation Reports. Correlation analyses between publication output and citation counts were performed using SPSS.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42162783/",
-      "pmcid": "",
-      "figure_urls": []
     },
     {
       "pmid": "42579552",
@@ -2153,7 +2148,7 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41933430/",
-      "pmcid": "",
+      "pmcid": "PMC13460456",
       "figure_urls": []
     },
     {
@@ -2444,6 +2439,89 @@
       "figure_urls": []
     },
     {
+      "pmid": "42584180",
+      "title": "The Boston Method for Sagittal Craniosynostosis Correction: Technique Description and Early Outcomes.",
+      "authors": [
+        "Daniel M Balkin",
+        "Brianna Reed",
+        "Massoud Sharif",
+        "Susan M Goobie",
+        "Mark R Proctor",
+        "Jay G Berry",
+        "John G Meara"
+      ],
+      "publication_date": "2026-Aug-12",
+      "publication_date_iso": "2026-08-12",
+      "abstract": "Sagittal craniosynostosis produces a characteristic cranial deformity resulting from restricted transverse growth and compensatory anteroposterior elongation. Multiple open cranial vault remodeling techniques are used. However, achieving controlled morphologic correction and intracranial volume expansion while preserving uninvolved structures remains challenging. The Boston Method is a geometry-driven approach that emphasizes posterior vault remodeling to address biparietal narrowing and occipital deformity. A retrospective, single-center cohort study was performed, including consecutive patients with nonsyndromic sagittal craniosynostosis treated using the Boston Method between March 1, 2020 and February 28, 2026. Demographic, perioperative, and postoperative data were collected. The primary outcome was quantitative morphologic assessment using cephalic index (CI) measurements from preoperative and postoperative imaging. Secondary outcomes included perioperative characteristics and transfusion outcomes, including those associated with virtual surgical planning (VSP). Twenty patients were included [mean age: 27.9 (SD 20.4) months]. VSP was used in 11 (55%). Mean operative time was 327.4 (SD 40.8) minutes. Mean intraoperative and total RBC transfusion volumes were lower in the VSP subgroup (116.3 versus 143 mL). Nine (45%) patients required no transfusion. Consistent morphologic correction was observed, including biparietal widening, occipital elevation, and normalization of cranial proportions. Quantitative assessment showed a significant increase in mean CI from 70.7 preoperatively to 76.0 postoperatively (mean change: 5.3±2.7, P<0.001). No patients required reoperation. The Boston Method is an effective, safe, reproducible technique for sagittal craniosynostosis that achieves consistent morphologic correction through geometry-driven posterior vault remodeling. It produces biparietal widening and occipital expansion and elevation, while preserving anterior cranial structures.",
+      "objective": "",
+      "study_methods": "A retrospective, single-center cohort study was performed, including consecutive patients with nonsyndromic sagittal craniosynostosis treated using the Boston Method between March 1, 2020 and February 28, 2026. Demographic, perioperative, and postoperative data were collected. The primary outcome was quantitative morphologic assessment using cephalic index (CI) measurements from preoperative and postoperative imaging. Secondary outcomes included perioperative characteristics and transfusion outcomes, including those associated with virtual surgical planning (VSP).",
+      "methods": "A retrospective, single-center cohort study was performed, including consecutive patients with nonsyndromic sagittal craniosynostosis treated using the Boston Method between March 1, 2020 and February 28, 2026. Demographic, perioperative, and postoperative data were collected. The primary outcome was quantitative morphologic assessment using cephalic index (CI) measurements from preoperative and postoperative imaging. Secondary outcomes included perioperative characteristics and transfusion outcomes, including those associated with virtual surgical planning (VSP).",
+      "results": "ing from restricted transverse growth and compensatory anteroposterior elongation. Multiple open cranial vault remodeling techniques are used. However, achieving controlled morphologic correction and intracranial volume expansion while preserving uninvolved structures remains challenging. The Boston Method is a geometry-driven approach that emphasizes posterior vault remodeling to address biparietal narrowing and occipital deformity. A retrospective, single-center cohort study was performed, including consecutive patients with nonsyndromic sagittal craniosynostosis treated using the Boston Method between March 1, 2020 and February 28, 2026. Demographic, perioperative, and postoperative data were collected. The primary outcome was quantitative morphologic assessment using cephalic index (CI) measurements from preoperative and postoperative imaging. Secondary outcomes included perioperative characteristics and transfusion outcomes, including those associated with virtual surgical planning (VSP). Twenty patients were included [mean age: 27.9 (SD 20.4) months]. VSP was used in 11 (55%). Mean operative time was 327.4 (SD 40.8) minutes. Mean intraoperative and total RBC transfusion volumes were lower in the VSP subgroup (116.3 versus 143 mL). Nine (45%) patients required no transfusion. Consistent morphologic correction was observed, including biparietal widening, occipital elevation, and normalization of cranial proportions. Quantitative assessment showed a significant increase in mean CI from 70.7 preoperatively to 76.0 postoperatively (mean change: 5.3±2.7, P<0.001). No patients required reoperation. The Boston Method is an effective, safe, reproducible technique for sagittal craniosynostosis that achieves consistent morphologic correction through geometry-driven posterior vault remodeling. It produces biparietal widening and occipital expansion and elevation, while preserving anterior cranial structures.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42584180/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42584042",
+      "title": "Development of a Gingiva Model With Periosteum for Dental Students Using 3D Printing Compared to Knowledge-Related Models.",
+      "authors": [
+        "Katharina Schaffrath",
+        "Mark Ooms",
+        "Kristian Kniha",
+        "Anna Bock",
+        "Philipp Winnand",
+        "Nils Vohl",
+        "Frank Hölzle",
+        "Ali Modabber"
+      ],
+      "publication_date": "2026-Aug-12",
+      "publication_date_iso": "2026-08-12",
+      "abstract": "An adequate gingiva model for dental students has special requirements, such as strength, flexibility and a periosteum. As there is a lack of available models, the aim of this study was to develop a new and sufficient gingiva model that fits students' needs. We developed various gingiva models and compared them to a previously used model at different stages of student development. Oral surgeons (n = 10) and dental students (3rd year: n = 13; 4th year: n = 11; 5th year: n = 11) tested and evaluated four model designs with various materials, both with and without periosteum and with and without a punch (models 1-4). Both oral surgeons and dental students liked the model with periosteum and simulated alveolus best, citing that it delivers the most options for practicing, is the most realistic, and helps to improve their own skills. All participants performed similarly on the practice, with a tendency toward better performance in groups with more experience. We recommend the use of our periosteum model with and without punches for preclinical and clinical dental students, as it is easy to produce and delivers multiple design opportunities according to the level of experience and students' needs.",
+      "objective": "of this study was to develop a new and sufficient gingiva model that fits students' needs. We developed various gingiva models and compared them to a previously used model at different stages of student development. Oral surgeons (n = 10) and dental students (3rd year: n = 13; 4th year: n = 11; 5th year: n = 11) tested and evaluated four model designs with various materials, both with and without periosteum and with and without a punch (models 1-4). Both oral surgeons and dental students liked the model with periosteum and simulated alveolus best, citing that it delivers the most options for practicing, is the most realistic, and helps to improve their own skills. All participants performed similarly on the practice, with a tendency toward better performance in groups with more experience. We recommend the use of our periosteum model with and without punches for preclinical and clinical dental students, as it is easy to produce and delivers multiple design opportunities according to the level of experience and students' needs.",
+      "study_methods": "We developed various gingiva models and compared them to a previously used model at different stages of student development. Oral surgeons (n = 10) and dental students (3rd year: n = 13; 4th year: n = 11; 5th year: n = 11) tested and evaluated four model designs with various materials, both with and without periosteum and with and without a punch (models 1-4).",
+      "methods": "We developed various gingiva models and compared them to a previously used model at different stages of student development. Oral surgeons (n = 10) and dental students (3rd year: n = 13; 4th year: n = 11; 5th year: n = 11) tested and evaluated four model designs with various materials, both with and without periosteum and with and without a punch (models 1-4).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42584042/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42583815",
+      "title": "Improving the cytocompatibility and functionality of titanium implants by adjusting the electrolyte of the anodization method.",
+      "authors": [
+        "Zhengyang Xing",
+        "Rui Chao",
+        "Xitong Tu",
+        "Shanyong Zhang",
+        "Jie Ma"
+      ],
+      "publication_date": "2026-Aug-12",
+      "publication_date_iso": "2026-08-12",
+      "abstract": "Titanium implants are widely used in prosthodontics, but their bioinert surfaces can limit early osseointegration. This study examined whether electrolyte-tuned anodization can tailor TiO2 nanotube (TNT) coatings to improve in vitro osteogenesis, angiogenesis, and inflammation-related responses. Titanium was anodized in three electrolytes to produce TNT, TNT-H, and TNT-B coatings. Morphology and roughness were assessed by scanning electron microscope, phase/chemistry by X-ray diffraction (XRD) and X-ray photoelectron spectroscopy (XPS), and wettability by contact angle. Cytocompatibility and functional responses were evaluated using bone marrow-derived mesenchymal stem cells, human umbilical vein endothelial cells, and RAW264.7 cells, including viability/adhesion assays, macrophage polarization and cytokine expression, and osteogenic/angiogenic assays. TNT-B (mean pore diameter ∼188 nm) showed the most consistent improvements across endpoints, enhancing cell adhesion/proliferation, osteogenesis-associated markers, and angiogenesis-associated signals in vitro, while reducing pro-inflammatory cytokine expression and promoting M2-skewed polarization. TNT-H showed measurable responses versus TNT but did not outperform TNT-B in angiogenic assays under the tested conditions. XRD/XPS indicated minor Ti6O- and defect-related signatures in TNT-B that are relevant to these responses. After annealing, corrosion resistance ranked TNT-H > TNT-B > TNT. Electrolyte modulation enables the controllable fabrication of TNT architectures and surface chemistry. TNT-B demonstrates promising in vitro performance but exhibits reduced electrochemical stability relative to TNT-H, highlighting a bioactivity-stability trade-off and the need for further optimization and validation before clinical use.",
+      "objective": "",
+      "study_methods": "Titanium was anodized in three electrolytes to produce TNT, TNT-H, and TNT-B coatings. Morphology and roughness were assessed by scanning electron microscope, phase/chemistry by X-ray diffraction (XRD) and X-ray photoelectron spectroscopy (XPS), and wettability by contact angle. Cytocompatibility and functional responses were evaluated using bone marrow-derived mesenchymal stem cells, human umbilical vein endothelial cells, and RAW264.7 cells, including viability/adhesion assays, macrophage polarization and cytokine expression, and osteogenic/angiogenic assays.",
+      "methods": "Titanium was anodized in three electrolytes to produce TNT, TNT-H, and TNT-B coatings. Morphology and roughness were assessed by scanning electron microscope, phase/chemistry by X-ray diffraction (XRD) and X-ray photoelectron spectroscopy (XPS), and wettability by contact angle. Cytocompatibility and functional responses were evaluated using bone marrow-derived mesenchymal stem cells, human umbilical vein endothelial cells, and RAW264.7 cells, including viability/adhesion assays, macrophage polarization and cytokine expression, and osteogenic/angiogenic assays.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42583815/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42578796",
       "title": "The Prevalence of Concurrent Congenital and Developmental Dental Anomalies in Dogs with Class II Malocclusions Compared to Dogs with Normal Occlusion.",
       "authors": [
@@ -2491,7 +2569,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42576101/",
-      "pmcid": "",
+      "pmcid": "PMC13457495",
       "figure_urls": []
     },
     {
@@ -2517,7 +2595,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42576206/",
-      "pmcid": "",
+      "pmcid": "PMC13455398",
       "figure_urls": []
     },
     {
@@ -2646,29 +2724,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42567176",
-      "title": "A bi-layered coating of nanofluroapatite/nanochitosan to improve antimicrobial and biological properties of zirconia-based dental implant.",
-      "authors": [
-        "Ahmed Al-Noaman",
-        "Simon Rawlinson"
-      ],
-      "publication_date": "2026-Aug-07",
-      "publication_date_iso": "2026-08-07",
-      "abstract": "Yttria-stabilized zirconia has mechanical properties akin to titanium dental implants but does not integrate with osseous tissues. A bi-layered nano-fluorapatite/nano-chitosan (nFA/nCS) coating was synthesized to improve osseointegration potential and antimicrobial properties of zirconia. Zirconia discs were coated with bi-layered nFA/nCS using sol-gel route. The integrity of the coating was tested by X-ray, atomic force microscopy, and field emission scanning electron microscopy-energy dispersive spectroscopy. The adhesion of coating to zirconia was calculated by adhesive tape test and ultrasonic vibration. By measuring the optical contact angle, the coated and non-coated samples' differences in wettability were assessed. Anti-microbial activity was investigated against S. aureus and E. coli and cytotoxicity examined using osteoblast-like cells.&#xD;Results: The bi-layered nFA/nCS coating was 9.26 μm thick and exhibited acceptable adhesion strength (0.50 ±1.1 N/mm) to zirconia and greater resistance to ultrasonic-induced delamination than the single nFA coating and the water contact angle decreased to 5°, and surface roughness increased to 121.3 nm. The coating decreased the count of both bacterial strains and was not cytotoxic to mammalian cells. &#xD;Conclusion: nFA/nCS coating exhibited acceptable adhesion and enhanced bioactivity and antimicrobial activity rendering it a potential material for replacing titanium dental implants. &#xD;Functionalizing zirconia with nFA/nCS is a cost-effective alternative to titanium implants making them more available to the general public.&#xD.",
-      "objective": "",
-      "study_methods": "Zirconia discs were coated with bi-layered nFA/nCS using sol-gel route. The integrity of the coating was tested by X-ray, atomic force microscopy, and field emission scanning electron microscopy-energy dispersive spectroscopy. The adhesion of coating to zirconia was calculated by adhesive tape test and ultrasonic vibration. By measuring the optical contact angle, the coated and non-coated samples' differences in wettability were assessed. Anti-microbial activity was investigated against S. aureus and E. coli and cytotoxicity examined using osteoblast-like cells.&#xD;Results: The bi-layered nFA/nCS coating was 9.26 μm thick and exhibited acceptable adhesion strength (0.50 ±1.1 N/mm) to zirconia and greater resistance to ultrasonic-induced delamination than the single nFA coating and the water contact angle decreased to 5°, and surface roughness increased to 121.3 nm. The coating decreased the count of both bacterial strains and was not cytotoxic to mammalian cells. &#xD;Conclusion: nFA/nCS coating exhibited acceptable adhesion and enhanced bioactivity and antimicrobial activity rendering it a potential material for replacing titanium dental implants. &#xD;Functionalizing zirconia with nFA/nCS is a cost-effective alternative to titanium implants making them more available to the general public.&#xD.",
-      "methods": "Zirconia discs were coated with bi-layered nFA/nCS using sol-gel route. The integrity of the coating was tested by X-ray, atomic force microscopy, and field emission scanning electron microscopy-energy dispersive spectroscopy. The adhesion of coating to zirconia was calculated by adhesive tape test and ultrasonic vibration. By measuring the optical contact angle, the coated and non-coated samples' differences in wettability were assessed. Anti-microbial activity was investigated against S. aureus and E. coli and cytotoxicity examined using osteoblast-like cells.&#xD;Results: The bi-layered nFA/nCS coating was 9.26 μm thick and exhibited acceptable adhesion strength (0.50 ±1.1 N/mm) to zirconia and greater resistance to ultrasonic-induced delamination than the single nFA coating and the water contact angle decreased to 5°, and surface roughness increased to 121.3 nm. The coating decreased the count of both bacterial strains and was not cytotoxic to mammalian cells. &#xD;Conclusion: nFA/nCS coating exhibited acceptable adhesion and enhanced bioactivity and antimicrobial activity rendering it a potential material for replacing titanium dental implants. &#xD;Functionalizing zirconia with nFA/nCS is a cost-effective alternative to titanium implants making them more available to the general public.&#xD.",
-      "results": "The bi-layered nFA/nCS coating was 9.26 μm thick and exhibited acceptable adhesion strength (0.50 ±1.1 N/mm) to zirconia and greater resistance to ultrasonic-induced delamination than the single nFA coating and the water contact angle decreased to 5°, and surface roughness increased to 121.3 nm. The coating decreased the count of both bacterial strains and was not cytotoxic to mammalian cells. &#xD;",
-      "conclusion": "nFA/nCS coating exhibited acceptable adhesion and enhanced bioactivity and antimicrobial activity rendering it a potential material for replacing titanium dental implants. &#xD;Functionalizing zirconia with nFA/nCS is a cost-effective alternative to titanium implants making them more available to the general public.&#xD.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42567176/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42565255",
       "title": "Determinants of Postoperative Follow-up after Facial Trauma Surgery.",
       "authors": [
@@ -2688,33 +2743,6 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42565255/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42563453",
-      "title": "Impact of Keratinized Mucosa Width and Mucosal Thickness on Implant Outcomes and Brushing Discomfort: A 25-Year Cohort Study.",
-      "authors": [
-        "Emilio Couso-Queiruga",
-        "Clemens Raabe",
-        "Andrea Roccuzzo",
-        "Giovanni E Salvi",
-        "Manrique Fonseca",
-        "Vivianne Chappuis"
-      ],
-      "publication_date": "2026-Aug-06",
-      "publication_date_iso": "2026-08-06",
-      "abstract": "To assess the impact of keratinized mucosa width (KMW) and mucosal thickness (MT) on peri-implant conditions over 25 years in patients with adequate oral hygiene enrolled in regular supportive peri-implant care. Partially edentulous patients rehabilitated with tissue-level implants were clinically and radiographically evaluated by calibrated examiners. Patient-reported brushing discomfort was recorded, and associations with variables of interest were analysed. A total of 149 patients, 235 implants, with a mean follow-up of 25.4 ± 3 years, were included. Peri-implantitis prevalence was 11.1%, 0% and 7.1% in the 0-mm, < 2-mm and ≥ 2-mm KMW groups, respectively (p = 0.98). Sites with 0 mm KMW showed significantly greater crestal bone loss (CBL) than < 2 mm (-0.28 mm) and ≥ 2 mm (-0.40 mm) (p = 0.01). Absence of KMW was associated with an increased risk of peri-implant soft-tissue dehiscence (PSTD) and implant platform visibility (p ≤ 0.01). No significant differences were observed for probing depth (PD), bleeding on probing (BOP), plaque index or peri-implant diseases (p > 0.05). MT was not associated with CBL, PD, BOP, suppuration on probing (SOP) or peri-implant diseases (p > 0.05). Thin MT (< 2 mm) was linked to increased PSTD (p = 0.005), greater implant platform visibility (p = 0.04) and lower plaque index (p = 0.01). Brushing discomfort was reported in 11.4% of sites with 0 mm KMW, compared with 3.4% and 2.4% in the < 2 mm and ≥ 2 mm groups, respectively, with no significant associations across KMW or MT groups (p > 0.05). KMW was associated with long-term peri-implant tissue stability, whereas thin MT was primarily associated with an increased risk of PSTD. Neither KMW nor MT was significantly associated with long-term brushing discomfort.",
-      "objective": "",
-      "study_methods": "Partially edentulous patients rehabilitated with tissue-level implants were clinically and radiographically evaluated by calibrated examiners. Patient-reported brushing discomfort was recorded, and associations with variables of interest were analysed.",
-      "methods": "Partially edentulous patients rehabilitated with tissue-level implants were clinically and radiographically evaluated by calibrated examiners. Patient-reported brushing discomfort was recorded, and associations with variables of interest were analysed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42563453/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2767,31 +2795,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42559963/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42554674",
-      "title": "Redefining the Midline: Skeletal Anchoring of Septal Extension Grafts in Combined Orthognathic Surgery and Rhinoplasty.",
-      "authors": [
-        "Froilán H Páez Salazar",
-        "Nelson J León Rondón",
-        "Cristian E Cordero Carvallo",
-        "Blanca M De Sitjar de Togores"
-      ],
-      "publication_date": "2026-Aug-05",
-      "publication_date_iso": "2026-08-05",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42554674/",
       "pmcid": "",
       "figure_urls": []
     }
