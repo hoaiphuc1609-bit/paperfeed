@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T02:56:25Z",
+  "updated_at": "2026-08-16T03:05:17Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -918,6 +918,43 @@
       "figure_urls": []
     },
     {
+      "pmid": "42602244",
+      "title": "Preclinical evaluation of patient-specific 3D-printed PDLLA/SrHAp implants in a minipig segmental mandibular defect model.",
+      "authors": [
+        "Christian Bräuer",
+        "Elisabeth Jarmer",
+        "Anja Lode",
+        "Tatjana Fecht",
+        "Stefanie Grom",
+        "Andreas Hoess",
+        "Richard Frank Richter",
+        "Martin Scharffenberg",
+        "Jakob Wittenstein",
+        "Roland Jung",
+        "Sascha Heinemann",
+        "Tobias Wolfram",
+        "Frank Reinauer",
+        "Michael Gelinsky",
+        "Günter Lauer",
+        "Corina Vater"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Large segmental mandibular defects remain difficult to reconstruct, and patient-specific biodegradable scaffolds produced by additive manufacturing may offer an alternative to permanent alloplastic implants. This exploratory study evaluated three 3D-printed poly(DL-lactide) (PDLLA)-based implant configurations in a periosteum-preserving minipig mandibular defect model: PDLLA, PDLLA containing 10 wt% strontium-modified hydroxyapatite microparticles (PDLLA + SrHAp-P), and a biphasic PDLLA-shell/SrHAp-core implant (PDLLA/SrHAp-C). Twelve adult minipigs received patient-specific implants and titanium reconstruction plates (n = 4 per group). Bone formation was monitored by digital volume tomography and sequential fluorochrome labeling for 6 months; one animal per group underwent non-terminal follow-up to 14 months. Complications occurred in 11 of 12 animals and included dehiscence, abscess or fistula formation, implant swelling, screw loosening, and fracture or displacement of the SrHAp core. Bone bridging was radiographically observed in all animals by 6 months, including an animal in which the implant had been removed prematurely, indicating a major contribution of the preserved periosteum and host tissues. New bone formed mainly around, rather than within, the implants. Implant-associated bone ingrowth was observed only in the biphasic group, but was not a uniform finding and fibrous encapsulation was frequent. The 3 animals followed to 14 months showed continued consolidation without terminal sacrifice. These findings identify degradation-associated tissue reactions, dimensional instability, soft-tissue coverage, and construct mechanics as major limitations of large PDLLA-based mandibular implants. The biphasic architecture showed a potentially favorable local osteointegration pattern, but the small sample size and high complication rate preclude claims of efficacy or superiority. Further optimization of polymer content, ceramic architecture, porosity, mechanical stability, and soft-tissue management is required before additional translational studies.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42602244/",
+      "pmcid": "PMC13473966",
+      "figure_urls": []
+    },
+    {
       "pmid": "42564839",
       "title": "Effect of Carbon-Ion Radiation Therapy on Maxillary Ameloblastic Fibrosarcoma.",
       "authors": [
@@ -1372,44 +1409,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42214655/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "42181171",
-      "title": "Stage-specific biomimetic nanoparticles reprogram osteoblast-adipocyte equilibrium for targeted osteoporosis therapy.",
-      "authors": [
-        "Kehan Cai",
-        "Zhe Fan",
-        "Jun Tan",
-        "Wei Cai",
-        "Minghang Zhang",
-        "Haojie Tang",
-        "Jianzhong Xu",
-        "Han Lu",
-        "Wei He",
-        "Qian Xu",
-        "Yazhou Chen",
-        "Tao Chen"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "Cell membrane-camouflaged nanoparticles have emerged as powerful tools for targeted drug delivery; however, current strategies typically utilize membranes from static cell states, overlooking the dynamic functional evolution that occurs during lineage commitment. Here, we established a stepwise osteogenic differentiation model for BMSCs and isolated cell membranes from distinct stages of this process to construct a series of cell membrane-camouflaged mesoporous silica nanoparticles (CM-MSNs). Proteomic profiling revealed stage-dependent remodeling of membrane protein composition, with early osteogenic (EO) stage membranes uniquely enriched in phosphatases and cadherins. Functional evaluations showed stage-dependent activity among CM-MSNs, and EO membrane-camouflaged nanoparticles (EO-MSNs) exhibited the strongest capacity to promote calcium deposition and enhance BMSC osteogenesis in vitro via the Wnt/β-catenin signaling pathway. In a rat model of osteoporosis, EO-MSN exhibited prolonged circulation time, precise bone-specific accumulation, and potent anti-osteoporotic efficacy. Collectively, our findings suggest that utilizing stage-specific cell membranes offers a novel strategy to remodel the osteoporotic microenvironment by modulating the osteoblast-adipocyte equilibrium.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42181171/",
-      "pmcid": "PMC13196569",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13196569/bin/gr2.jpg"
-      ]
     },
     {
       "pmid": "42579552",
@@ -2439,6 +2438,57 @@
       "figure_urls": []
     },
     {
+      "pmid": "42603212",
+      "title": "Clinical course study of postoperative recovery of neurosensory disturbance after inferior alveolar nerve transection during sagittal split osteotomy.",
+      "authors": [
+        "Tomonari Kajita",
+        "Shinnosuke Nogami",
+        "Yuki Sugai",
+        "Mai Yazaki",
+        "Hikari Suzuki",
+        "Kensuke Yamauchi"
+      ],
+      "publication_date": "2026-Aug-15",
+      "publication_date_iso": "2026-08-15",
+      "abstract": "Inferior alveolar nerve transection (IANT) is a severe complication of sagittal split osteotomy (SSO). This study aimed to retrospectively evaluate the long-term sensory recovery in patients who experienced intraoperative IANT compared to those who did not. This retrospective cohort study reviewed patients who underwent SSO from 2016 to 2022. Patients were divided into Group A (with IANT, 11 sides) and Group B (without IANT, 151 sides). Sensory perception was assessed using the Semmes-Weinstein (SW) test, static two-point discrimination (s-2PD) test, and a Numerical Rating Scale (NRS) at preoperative baseline and at 1, 3, 6, and 12 months postoperatively. Mann-Whitney U and Dunnett's tests were used for statistical analysis (p < .05). Group A demonstrated significantly worse sensory outcomes than Group B on all tests at all postoperative time points (p < .01). In Group B, SW and s-2PD values were significantly worse than baseline at 1 and 3 months but showed no significant difference at 6 and 12 months. In contrast, Group A outcomes remained significantly impaired compared to their own preoperative baseline throughout the 12-month follow-up. Complete IANT during SSO, even with immediate nerve repair, results in a substantial and long-term persistent neurosensory deficit. While patients without nerve transection typically recover baseline sensory perception by 6 months, those with IANT experience only minimal improvement and remain significantly impaired at a year post-surgery.",
+      "objective": "",
+      "study_methods": "This retrospective cohort study reviewed patients who underwent SSO from 2016 to 2022. Patients were divided into Group A (with IANT, 11 sides) and Group B (without IANT, 151 sides). Sensory perception was assessed using the Semmes-Weinstein (SW) test, static two-point discrimination (s-2PD) test, and a Numerical Rating Scale (NRS) at preoperative baseline and at 1, 3, 6, and 12 months postoperatively. Mann-Whitney U and Dunnett's tests were used for statistical analysis (p < .05).",
+      "methods": "This retrospective cohort study reviewed patients who underwent SSO from 2016 to 2022. Patients were divided into Group A (with IANT, 11 sides) and Group B (without IANT, 151 sides). Sensory perception was assessed using the Semmes-Weinstein (SW) test, static two-point discrimination (s-2PD) test, and a Numerical Rating Scale (NRS) at preoperative baseline and at 1, 3, 6, and 12 months postoperatively. Mann-Whitney U and Dunnett's tests were used for statistical analysis (p < .05).",
+      "results": "in a substantial and long-term persistent neurosensory deficit. While patients without nerve transection typically recover baseline sensory perception by 6 months, those with IANT experience only minimal improvement and remain significantly impaired at a year post-surgery.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42603212/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42600225",
+      "title": "Maxilla-first or mandible-first: Does surgical sequencing influence temporomandibular disorder outcomes? A retrospective cohort study.",
+      "authors": [
+        "Samanta Buchholzer",
+        "Denis Mongin",
+        "Paolo Scolozzi"
+      ],
+      "publication_date": "2026-Aug-14",
+      "publication_date_iso": "2026-08-14",
+      "abstract": "This retrospective comparative cohort study assessed whether maxilla-first versus mandible-first sequencing affects postoperative TMD outcomes. Consecutive patients undergoing bimaxillary orthognathic surgery between 1998 and 2025 were included when standardized preoperative and postoperative temporomandibular joint assessments were available. TMD evaluation comprised Research Diagnostic Criteria for Temporomandibular Disorders diagnoses, as well as Helkimo Anamnestic (Ai) and Clinical Dysfunction (Di) indices. Primary outcomes included postoperative disc displacement (DD) and myofascial pain dysfunction (MPD), whereas secondary outcomes were postoperative Ai and Di severity. Descriptive, bivariate, and multiple logistic regression analyses were performed, with statistical significance set at P ≤ 0.05. A total of 292 patients were included, of whom 153 underwent maxilla-first and 139 mandible-first surgery. Surgical sequencing was not independently associated with postoperative DD, MPD, Ai, or Di outcomes. In contrast, baseline TMD status emerged as the strongest predictor of postoperative dysfunction. Preoperative DD independently predicted postoperative DD (OR, 3.01; P < 0.001), whereas preoperative MPD independently predicted postoperative MPD (OR, 5.13; P < 0.001). Increasing age and female sex were also associated with greater postoperative symptom severity. These findings suggest that postoperative TMD outcomes are primarily driven by baseline TMD severity and patient-related factors rather than by the intraoperative osteotomy sequence.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600225/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42598818",
       "title": "Impact of COVID-19 Pandemic Restrictions on Maxillofacial and Oral Surgery Services at Chris Hani Baragwanath Academic Hospital.",
       "authors": [
@@ -2572,6 +2622,37 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42583815/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42600488",
+      "title": "Exploring salivary and lacrimal biomarkers in non-Sjögren sicca: A scoping review.",
+      "authors": [
+        "Fernanda Luiza Araújo de Lima Castro",
+        "Mariana Silveira de Souza",
+        "José Alcides Almeida de Arruda",
+        "Victor Zanetti Drumond",
+        "Hélène Chardin",
+        "Ana Carolina Acevedo",
+        "Renata Gonçalves de Resende",
+        "Débora Cerqueira Calderaro",
+        "Sílvia Ferreira de Sousa",
+        "Tarcília Aparecida Silva"
+      ],
+      "publication_date": "2026-Aug-11",
+      "publication_date_iso": "2026-08-11",
+      "abstract": "Sicca symptoms may arise from a wide range of underlying etiologies. Non-Sjögren sicca (nSS) typically refers to individuals who experience sicca symptoms, but do not fulfill the immunological or histopathological criteria required for the diagnosis of Sjögren disease (SjD). Herein, we mapped the salivary and lacrimal molecular signatures reported in nSS and evaluated their potential utility in distinguishing nSS from SjD. This scoping review included observational studies comparing salivary and/or lacrimal biomarkers between individuals with nSS and those with SjD. Data were synthesized descriptively. A total of 38 studies examining salivary and/or lacrimal biomarkers were included. The diagnostic criteria used to define SjD and nSS varied considerably across studies. Inflammatory molecules, including beta-2 microglobulin, interleukins, chemokines, growth factors, and enzymes, were consistently found at lower levels in both the saliva and tears of individuals with nSS. In contrast, salivary IFN-γ and lacrimal lactoferrin levels were higher in nSS, whereas some inflammatory molecules (TNF, IL-6, IL-1, IL-8, and IL-10) showed similar expression levels in both conditions. Salivary autoantibodies were identified in 30-60% of individuals with nSS. nSS is a biologically heterogeneous condition characterized by broad alterations in salivary and lacrimal composition. Although immune-inflammatory activation appears to be lower in nSS, autoantibody positivity and levels of certain inflammatory markers comparable to those observed in SjD suggest that low-grade inflammation may contribute to the pathophysiology of nSS.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600488/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2726,59 +2807,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42574069/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42574036",
-      "title": "Haversian-inspired hierarchical scaffold for vascularized bone repair.",
-      "authors": [
-        "Hong-Shuo Zhu",
-        "Ying-Han Hu",
-        "Yu-Yi Duan",
-        "Hao-Yu Li",
-        "Li-Bo Mao",
-        "Duo-Hong Zou"
-      ],
-      "publication_date": "2026-Aug-10",
-      "publication_date_iso": "2026-08-10",
-      "abstract": "To overcome delayed vascularization and wet-state mechanical deterioration in critical-sized bone defect repair, we developed a composite scaffold inspired by the natural Haversian system. The scaffold features longitudinally interconnected primary channels surrounded by anisotropic micropores, forming a hierarchical network that enhances directional mass transport, tissue infiltration, and vascular ingrowth. Rather than adopting a uniform composition, we engineered a spatially heterogeneous distribution of inorganic components. While brushite and hydroxyapatite are integrated into the initial chitosan matrix, calcium phosphate is deposited via subsequent mineralization on the internal surfaces of the scaffold, providing widespread interfaces for cell adhesion and osteogenesis. Conversely, a tightly integrated silica-rich layer is selectively localized along the mechanically vulnerable primary-channel walls. This localized silica reinforcement, combined with the coordinated incorporation of calcium phosphates, significantly reinforces the scaffold's mechanical reliability in the wet state. Concurrently, the sustained release of bioactive calcium, phosphorus, and silicon species provides robust osteogenic and angiogenic cues. In vitro and in vivo evaluations demonstrated that this synergy of enhanced mass transport, localized mechanical reinforcement, and spatially programmed biochemical signals effectively promotes coupled vascularized bone regeneration. This study establishes an integrated compositional and structural design strategy, wherein spatially programmed simple constituents reconcile permeability, wet-state mechanical support, and biological activity for advanced bone repair.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42574036/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42573606",
-      "title": "AI-driven morphometric comparison of fibula vs. iliac flap in mandibular reconstruction.",
-      "authors": [
-        "Chenyao Li",
-        "Yan Guo",
-        "Rong Yang",
-        "Xiaojun Chen",
-        "Shanyong Zhang"
-      ],
-      "publication_date": "2026-Aug-10",
-      "publication_date_iso": "2026-08-10",
-      "abstract": "To compare the clinical outcomes of vascularized free fibula flap (FFF) and deep circumflex iliac artery (DCIA) flap for mandibular reconstruction, using a novel AI-driven dual-modality system for quantitative 3D morphological fidelity and facial symmetry analysis. We evaluated 56 patients with tumors (34 undergoing FFF and 22 undergoing DCIA) using a 3D U-Net deep learning model and Face Mesh. The U-Net model predicted mandibular shapes to generate patient-specific, anatomically plausible reference mandibles, and surface deviations were compared with the actual reconstructions. Facial symmetry was quantified using MediaPipe Face Mesh. No significant differences in facial symmetry (S = 0.084 ± 0.013 vs. 0.083 ± 0.012, p = 0.781), functional recovery, or complications. DCIA showed lower morphological deviations for body defects: mean difference (1.42 ± 0.83 mm vs. 2.58 ± 0.62 mm, p = 0.001), maximum deviation (19.8 ± 2.7 mm vs. 21.4 ± 4.1 mm, p < 0.05). FFF and DCIA flaps achieve comparable facial symmetry, functional recovery and complication rates in mandibular reconstruction. DCIA flap offers significantly improved 3D geometric accuracy only for isolated mandibular body defects, while the clinical relevance of this statistical difference remains uncertain. The AI-based quantitative assessment system established in this study provides an objective tool for defect-specific flap selection in mandibular reconstruction.",
-      "objective": "tool for defect-specific flap selection in mandibular reconstruction.",
-      "study_methods": "We evaluated 56 patients with tumors (34 undergoing FFF and 22 undergoing DCIA) using a 3D U-Net deep learning model and Face Mesh. The U-Net model predicted mandibular shapes to generate patient-specific, anatomically plausible reference mandibles, and surface deviations were compared with the actual reconstructions. Facial symmetry was quantified using MediaPipe Face Mesh.",
-      "methods": "We evaluated 56 patients with tumors (34 undergoing FFF and 22 undergoing DCIA) using a 3D U-Net deep learning model and Face Mesh. The U-Net model predicted mandibular shapes to generate patient-specific, anatomically plausible reference mandibles, and surface deviations were compared with the actual reconstructions. Facial symmetry was quantified using MediaPipe Face Mesh.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42573606/",
       "pmcid": "",
       "figure_urls": []
     },
