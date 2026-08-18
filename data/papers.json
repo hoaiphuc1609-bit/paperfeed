@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T03:05:00Z",
+  "updated_at": "2026-08-18T03:00:40Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -578,8 +578,9 @@
       "pmcid": "PMC12777812",
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0001_C.gif",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0002_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0003_C.jpg"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12777812/bin/IANN_A_2603755_F0002_C.gif"
       ]
     },
     {
@@ -2467,6 +2468,30 @@
       "figure_urls": []
     },
     {
+      "pmid": "42607234",
+      "title": "Assessment of Virtual Digital Articulation Versus Hand-Articulation Accuracy for Occlusal Registration in Orthognathic Surgery (A Randomized Clinical Trial).",
+      "authors": [
+        "Abdullah G A Alawlaqi",
+        "Mohammed Atef",
+        "Mohamed F Shehab"
+      ],
+      "publication_date": "2026-Aug-17",
+      "publication_date_iso": "2026-08-17",
+      "abstract": "To compare the accuracy of digital occlusal articulation versus hand occlusal articulation for orthognathic surgical planning. This prospective, randomized clinical trial included 18 patients requiring orthognathic surgery, randomly assigned to a digital articulation group (n=9) or a hand articulation group (n=9). Linear displacements (X, Y, Z axes) at 5 maxillary and 5 mandibular landmarks and rotational errors (roll, pitch, and yaw) were measured postoperatively. Three blinded observers performed triplicate measurements. Interobserver reliability was assessed using intraclass correlation coefficients (ICC). Paired t tests were used for comparisons. Clinical tolerance was defined as <2 mm linear and <2 degrees rotational error. Interobserver reliability was excellent for both methods (ICC ≥0.98, P<0.001). In the maxilla, overall mean error was similar between digital (0.378±0.201 mm) and hand (0.353±0.155 mm) groups (P=0.367). In the mandible, the digital method showed significantly larger mean error (0.720±0.281 mm) than hand (0.430±0.268 mm) (P<0.001). Axis-specific differences in the mandible were significant for X (P=0.03), Y (P=0.006), and Z (P=0.005). Rotational errors were <0.5 degrees for all axes except mandibular pitch (0.47 degrees, P=0.04). The largest mean linear error was 1.03 mm (digital mandibular left molar), well below the 2 mm clinical tolerance. Digital occlusal articulation is as accurate as hand articulation in the maxilla and produces statistically larger but clinically acceptable errors in the mandible. Both methods are reliable and suitable for orthognathic surgical planning.",
+      "objective": "",
+      "study_methods": "This prospective, randomized clinical trial included 18 patients requiring orthognathic surgery, randomly assigned to a digital articulation group (n=9) or a hand articulation group (n=9). Linear displacements (X, Y, Z axes) at 5 maxillary and 5 mandibular landmarks and rotational errors (roll, pitch, and yaw) were measured postoperatively. Three blinded observers performed triplicate measurements. Interobserver reliability was assessed using intraclass correlation coefficients (ICC). Paired t tests were used for comparisons. Clinical tolerance was defined as <2 mm linear and <2 degrees rotational error.",
+      "methods": "This prospective, randomized clinical trial included 18 patients requiring orthognathic surgery, randomly assigned to a digital articulation group (n=9) or a hand articulation group (n=9). Linear displacements (X, Y, Z axes) at 5 maxillary and 5 mandibular landmarks and rotational errors (roll, pitch, and yaw) were measured postoperatively. Three blinded observers performed triplicate measurements. Interobserver reliability was assessed using intraclass correlation coefficients (ICC). Paired t tests were used for comparisons. Clinical tolerance was defined as <2 mm linear and <2 degrees rotational error.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42607234/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42603212",
       "title": "Clinical course study of postoperative recovery of neurosensory disturbance after inferior alveolar nerve transection during sagittal split osteotomy.",
       "authors": [
@@ -2734,109 +2759,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42576101/",
       "pmcid": "PMC13457495",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42594507",
-      "title": "Biomechanical effects of free-end missing dentition on temporomandibular joint loading in a rabbit model.",
-      "authors": [
-        "Yu Ito",
-        "Takumi Morita",
-        "Tomoko Matsunaga",
-        "Hiroki Toyoda",
-        "Atsushi Abe",
-        "Katsunari Hiraba",
-        "Kenichi Kurita"
-      ],
-      "publication_date": "2026-Aug-10",
-      "publication_date_iso": "2026-08-10",
-      "abstract": "This study investigated how free-end missing dentition affects temporomandibular joint (TMJ) loading in a rabbit model. Condylar displacement during masticatory-like movements was analyzed to infer the direction and relative magnitude of TMJ loading. Fifteen Japanese White rabbits were assigned to two series. In Experiment 1 (n = 5), free-end missing dentition was simulated by placing a metal occlusal plate on the premolars, followed by resection of the articular eminence (Ar-Em). In Experiment 2 (n = 10), normal molar occlusion was examined with and without Ar-Em resection. Grinding-type mandibular movements were elicited by cortical masticatory area stimulation. Condylar and incisal trajectories and masseter electromyographic (EMG) activity were recorded. Condylar displacement after Ar-Em resection was used as an indicator of TMJ load. Ar-Em resection caused a clear anterosuperior shift in working-side condylar movement. Forward displacement was significantly larger with free-end missing dentition (1.96 ± 0.20 mm) than with normal occlusion (0.94 ± 0.23 mm, p < 0.01). No significant correlation was found between condylar displacement and masseter EMG amplitude. Condylar displacement analysis after Ar-Em resection may serve as a biomechanical indicator of TMJ loading and aid in understanding TMJ disorders linked to posterior tooth loss.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42594507/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42576206",
-      "title": "Effects of hyperbaric oxygen therapy on human musculoskeletal pathologies in clinical studies: a systematic review.",
-      "authors": [
-        "Luise Weinrich",
-        "Thomas Tischer",
-        "Ludwig Schlesiger",
-        "Milena L Pachowsky",
-        "Lorenz Hoos"
-      ],
-      "publication_date": "2026-Aug-10",
-      "publication_date_iso": "2026-08-10",
-      "abstract": "Hyperbaric oxygen therapy (HBOT) has gained increasing interest in regenerative medicine for its capacity to enhance tissue oxygenation, reduce inflammation, and accelerate healing. While its use in musculoskeletal medicine is expanding, particularly among athletes and in sports orthopaedics, the clinical evidence base remains fragmented across indications and has not been systematically evaluated. The aim of this systematic review was to synthesize the available clinical evidence for HBOT in human musculoskeletal pathologies, with focus on its application in orthopaedic medicine. A systematic PubMed and LIVIVO search identified clinical studies (January 1996 - January 2026) investigating intervention-based studies using HBOT for musculoskeletal conditions in humans. Exclusion criteria were combinatory therapies, transplantations, radiation injuries, osteomyelitis, spine and oral surgery. Data on study design, HBOT protocols and their outcomes was collected. A qualitative synthesis was performed due to heterogeneity in study designs and outcome measures. Risk of bias was assessed using Cochrane RoB 2 tool (RCTs) and ROBINS-I V2 (non-RCTs). Studies were categorized by pathology (muscle/tendons/ligament injury; avascular necrosis (AVN) and bone marrow edema (BME)). Nineteen studies involving 612 patients met our inclusion criteria. Conditions included exercise-induced muscle damage (EIMD) and its symptomatic manifestation delayed onset muscle soreness (DOMS), ligament injuries, AVN, BME, and tendon perfusion. Evidence for HBOT's effects in DOMS/EIMD was limited, with RCTs showing no significant benefit. Conversely, AVN and BME studies reported consistent improvements in imaging, pain and functional scores, particularly with prolonged protocols. Limited evidence suggested potential benefits in ligament healing; tendon oxygenation effects were inconclusive. HBOT protocols ranged from 1 - 12 sessions for soft-tissue and 20 - 80 sessions for bone injuries, mainly using 60 to 90 minute sessions with 100% oxygen. Adverse events were rare and mild. Most RCTs showed low risk of bias; non-randomized studies had serious-to-critical bias due to confounding and measurement issues. HBOT may have a role as an adjunctive therapy for musculoskeletal pathologies, especially AVN and BME, where the most consistent evidence was observed, while its benefit in ligament injuries, muscle recovery, and tendon pathology remains inconclusive and requires higher-quality trials to substantiate. This topic is directly relevant to orthopaedic and sports medicine practitioners considering its off-label use. This review identifies conditions with the most consistent clinical benefit, highlights the limitations of current evidence, and defines priorities for future high-quality trials to guide safe and effective clinical implementation. Systematic review.",
-      "objective": "of this systematic review was to synthesize the available clinical evidence for HBOT in human musculoskeletal pathologies, with focus on its application in orthopaedic medicine. A systematic PubMed and LIVIVO search identified clinical studies (January 1996 - January 2026) investigating intervention-based studies using HBOT for musculoskeletal conditions in humans. Exclusion criteria were combinatory therapies, transplantations, radiation injuries, osteomyelitis, spine and oral surgery. Data on study design, HBOT protocols and their outcomes was collected. A qualitative synthesis was performed due to heterogeneity in study designs and outcome measures. Risk of bias was assessed using Cochrane RoB 2 tool (RCTs) and ROBINS-I V2 (non-RCTs). Studies were categorized by pathology (muscle/tendons/ligament injury; avascular necrosis (AVN) and bone marrow edema (BME)). Nineteen studies involving 612 patients met our inclusion criteria. Conditions included exercise-induced muscle damage (EIMD) and its symptomatic manifestation delayed onset muscle soreness (DOMS), ligament injuries, AVN, BME, and tendon perfusion. Evidence for HBOT's effects in DOMS/EIMD was limited, with RCTs showing no significant benefit. Conversely, AVN and BME studies reported consistent improvements in imaging, pain and functional scores, particularly with prolonged protocols. Limited evidence suggested potential benefits in ligament healing; tendon oxygenation effects were inconclusive. HBOT protocols ranged from 1 - 12 sessions for soft-tissue and 20 - 80 sessions for bone injuries, mainly using 60 to 90 minute sessions with 100% oxygen. Adverse events were rare and mild. Most RCTs showed low risk of bias; non-randomized studies had serious-to-critical bias due to confounding and measurement issues. HBOT may have a role as an adjunctive therapy for musculoskeletal pathologies, especially AVN and BME, where the most consistent evidence was observed, while its benefit in ligament injuries, muscle recovery, and tendon pathology remains inconclusive and requires higher-quality trials to substantiate. This topic is directly relevant to orthopaedic and sports medicine practitioners considering its off-label use. This review identifies conditions with the most consistent clinical benefit, highlights the limitations of current evidence, and defines priorities for future high-quality trials to guide safe and effective clinical implementation. Systematic review.",
-      "study_methods": "A systematic PubMed and LIVIVO search identified clinical studies (January 1996 - January 2026) investigating intervention-based studies using HBOT for musculoskeletal conditions in humans. Exclusion criteria were combinatory therapies, transplantations, radiation injuries, osteomyelitis, spine and oral surgery. Data on study design, HBOT protocols and their outcomes was collected. A qualitative synthesis was performed due to heterogeneity in study designs and outcome measures. Risk of bias was assessed using Cochrane RoB 2 tool (RCTs) and ROBINS-I V2 (non-RCTs). Studies were categorized by pathology (muscle/tendons/ligament injury; avascular necrosis (AVN) and bone marrow edema (BME)).",
-      "methods": "A systematic PubMed and LIVIVO search identified clinical studies (January 1996 - January 2026) investigating intervention-based studies using HBOT for musculoskeletal conditions in humans. Exclusion criteria were combinatory therapies, transplantations, radiation injuries, osteomyelitis, spine and oral surgery. Data on study design, HBOT protocols and their outcomes was collected. A qualitative synthesis was performed due to heterogeneity in study designs and outcome measures. Risk of bias was assessed using Cochrane RoB 2 tool (RCTs) and ROBINS-I V2 (non-RCTs). Studies were categorized by pathology (muscle/tendons/ligament injury; avascular necrosis (AVN) and bone marrow edema (BME)).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42576206/",
-      "pmcid": "PMC13455398",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42574213",
-      "title": "Classification of Orbital Floor Fracture Patterns Associated With Inferior Rectus Muscle Entrapment.",
-      "authors": [
-        "Paulina B Le",
-        "Selim Gebran",
-        "F Lawson Grumbine",
-        "Jack T McCarthy",
-        "Arthur J Nam"
-      ],
-      "publication_date": "2026-Aug-10",
-      "publication_date_iso": "2026-08-10",
-      "abstract": "Certain orbital floor fracture types have been associated with orbital soft tissue entrapment leading to irreversible inferior rectus muscle injury and permanent diplopia. This \"trapdoor\" fracture occurs more frequently in the pediatric population since the facial skeleton is elastic. Literature on adult entrapment is scarce. We discuss the spectrum of clinical and radiologic presentations of inferior rectus muscle entrapment in the adult population and propose a novel classification based on bone and soft tissue interactions seen on imaging. Three adult patients with isolated orbital floor fractures and inferior rectus muscle entrapment were identified from 2015 to 2017. These patients led to a systematic review of the literature on inferior rectus entrapment. Based on the review and case series, a classification system was developed for orbital floor fracture patterns associated with entrapment observed on CT imaging. Comminuted orbital floor fractures with clinical and radiographic evidence of entrapment were demonstrated in 3 adult patients. Surgery was performed within 24 hours of admission and resulted in restored baseline gaze in all patients. The literature review and patient cases suggested 3 types of orbital floor fracture patterns associated with inferior rectus muscle entrapment. We propose a classification system consisting of 3 patterns of orbital floor fractures associated with inferior rectus entrapment. Entrapment in adult patients most commonly occurs in the setting of comminuted floor fractures. Ischemia of the inferior rectus muscle leading to permanent injury of the muscle is unlikely in adults as opposed to pediatric patients, who sustain different fracture patterns.",
-      "objective": "",
-      "study_methods": "Three adult patients with isolated orbital floor fractures and inferior rectus muscle entrapment were identified from 2015 to 2017. These patients led to a systematic review of the literature on inferior rectus entrapment. Based on the review and case series, a classification system was developed for orbital floor fracture patterns associated with entrapment observed on CT imaging.",
-      "methods": "Three adult patients with isolated orbital floor fractures and inferior rectus muscle entrapment were identified from 2015 to 2017. These patients led to a systematic review of the literature on inferior rectus entrapment. Based on the review and case series, a classification system was developed for orbital floor fracture patterns associated with entrapment observed on CT imaging.",
-      "results": "ed in restored baseline gaze in all patients. The literature review and patient cases suggested 3 types of orbital floor fracture patterns associated with inferior rectus muscle entrapment. We propose a classification system consisting of 3 patterns of orbital floor fractures associated with inferior rectus entrapment. Entrapment in adult patients most commonly occurs in the setting of comminuted floor fractures. Ischemia of the inferior rectus muscle leading to permanent injury of the muscle is unlikely in adults as opposed to pediatric patients, who sustain different fracture patterns.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42574213/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42572959",
-      "title": "Three-Dimensional Midfacial Morphology in Skeletal Class III Patients: Postsurgical Changes and Skeletal Correlates.",
-      "authors": [
-        "Chihiro Tanikawa",
-        "Kenji Takada"
-      ],
-      "publication_date": "2026-Aug-10",
-      "publication_date_iso": "2026-08-10",
-      "abstract": "This study aimed to quantify 3-dimensional (3D) midfacial topography in adults with skeletal Class III malocclusion, evaluate morphologic changes following 2-jaw surgery, and identify skeletal factors associated with postoperative cheek contour. Three-dimensional facial surface data were collected from 72 adults with skeletal Class III malocclusion before and after Le Fort I osteotomy and bilateral sagittal split osteotomy, together with data from 200 age-matched controls. Sectional-line and surface-based analyses were used to characterize midfacial morphology, evaluate postsurgical changes, and compare Class III patients with controls. Regression analyses were performed to examine associations between 3D soft tissue changes and corresponding skeletal movements measured on cephalograms. Patients with skeletal class III malocclusion exhibited a flatter cheek contour before surgery, particularly in the paraorbital and malar regions, although surface analysis showed anterior positioning of the paranasal cheek region. Following 2-jaw surgery, cheek flatness improved, and sectional line measurements approached those of controls. Superior displacement of the posterior nasal spine, corresponding to posterior maxillary impaction, was significantly associated with improvement in cheek contour, whereas forward movement of the maxilla mainly influenced the subnasale, nasal alar, and upper lip regions. These findings provide a quantitative 3D framework for evaluating cheek morphology in adults with skeletal class III malocclusion and suggest that posterior maxillary impaction may contribute to postoperative improvement in cheek contour.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42572959/",
-      "pmcid": "",
       "figure_urls": []
     }
   ]
