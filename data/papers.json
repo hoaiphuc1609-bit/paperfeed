@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T03:00:40Z",
+  "updated_at": "2026-08-19T03:02:18Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -342,9 +342,9 @@
       "pmcid": "PMC13262288",
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262288/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262288/bin/gr1.gif",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262288/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262288/bin/gr2.gif"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262288/bin/gr3.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262288/bin/gr4.jpg"
       ]
     },
     {
@@ -444,7 +444,8 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42005095/",
       "pmcid": "PMC13087713",
       "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087713/bin/gr1.jpg"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087713/bin/gr1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087713/bin/gr1.gif"
       ]
     },
     {
@@ -1596,6 +1597,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42520366",
+      "title": "State-of-the-art analysis of facial expression dynamics in unilateral cleft lip and palate cases using 4D imaging.",
+      "authors": [
+        "Jessica Monaghan",
+        "Ashraf Ayoub",
+        "Philip Benington",
+        "Xiangyang Ju",
+        "Toby Gillgrass",
+        "Kurt Naudi"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "To investigate the dynamics of lip movement, including the duration, magnitude and speed, in surgically managed patients with unilateral cleft lip and palate (UCLP) using sophisticated three-dimensional real-time video imaging of the face (4D). A retrospective comparative study of 31 surgically managed UCLP cases and 34 age and gender matched non-cleft cases. The maximum smile dynamics, including speed, magnitude and duration, were assessed using 4D stereophotographic images captured using a pair of video cameras at 60 frames/sec. A 3-second smile yielded 180 3D images for analysis. A set of digitised landmarks was used to assess the dynamics of maximum smile. The duration of the smile in cases with no cleft was much shorter than in the cases with UCLP (1.3 vs. 2 s). A measurable asymmetry was observed in the speed and magnitude of the philtrum between the two sides, with the cleft side being significantly slower (cleft 7.24 mm/s and non-cleft 8.22 mm/s). The speed of the lower lip landmarks was significantly greater on the cleft side (20.98 mm/s) than on the non-cleft side (19.22 mm/s). The speed and magnitude of movement for all upper lip landmarks in the cases with UCLP were significantly slower than in cases without cleft. Reduced speed and magnitude of lip movements in the cleft side of the upper lip indicates a restriction in muscular activity. This is likely to be due to lip scarring and incomplete repair of the muscles that contribute to distorted lip movement with maximum smile.",
+      "objective": "",
+      "study_methods": "A retrospective comparative study of 31 surgically managed UCLP cases and 34 age and gender matched non-cleft cases. The maximum smile dynamics, including speed, magnitude and duration, were assessed using 4D stereophotographic images captured using a pair of video cameras at 60 frames/sec. A 3-second smile yielded 180 3D images for analysis. A set of digitised landmarks was used to assess the dynamics of maximum smile.",
+      "methods": "A retrospective comparative study of 31 surgically managed UCLP cases and 34 age and gender matched non-cleft cases. The maximum smile dynamics, including speed, magnitude and duration, were assessed using 4D stereophotographic images captured using a pair of video cameras at 60 frames/sec. A 3-second smile yielded 180 3D images for analysis. A set of digitised landmarks was used to assess the dynamics of maximum smile.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520366/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42502286",
       "title": "Evaluations of Penumbra Reduction Using Multi-Leaf Collimator and 3D Bolus in Scanned Proton Therapy.",
       "authors": [
@@ -2435,6 +2463,30 @@
       "figure_urls": []
     },
     {
+      "pmid": "41072479",
+      "title": "Keep Your Friends Close and Your Teammates Closer: The Impact of Staffing with Familiar Personnel in Microsurgical Breast Reconstruction.",
+      "authors": [
+        "Pranav N Haravu",
+        "Jenny A Foster",
+        "Brett T Phillips"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Microsurgical breast reconstruction is intraoperatively complex. Evidence of standardized workflows improving outcomes exists, but the impact of staffing cases with familiar personnel is not documented. All microsurgical breast reconstructions (July 2021-June 2024) at our institution were analyzed for staff familiarity at granular time intervals (T0: setup to incision, T1-T3: each third of procedure). Staff were deemed \"unfamiliar\" if they staffed <2 microsurgical breast reconstructions with the attending in past 4 months. Intraoperative setbacks included anastomotic revisions, vessel damage, switching recipient vessels, or mastectomy flap defect. Major complications included operative takeback or flap loss. Among 291 surgeries (5 attendings, 2 hospitals), 35.1% were immediate, 77.3% used standard hemiabdominal DIEP flaps, 58.4% were bilateral, and 49.5% had prior radiation. Intraoperative setbacks occurred in 19.7%, major complications in 7.4%, average duration was 631.6 minutes, and supply costs averaged $5,216. Unfamiliar scrub-techs correlated with increased intraoperative setbacks (OR: 2.11, p < 0.05), particularly in early time intervals (T1: 1.91, p = 0.06; T2: 2.09, p < 0.05). Unfamiliar circulators correlated with increased supply costs (+12.2%, p < 0.05), especially in later time intervals (T2: +12.2%, p < 0.05; T3: +16.0%, p < 0.05). In addition to staff familiarity, at univariate level, intraoperative setbacks also correlated with prior radiation (p < 0.05), duration correlated with laterality, immediate reconstructions, mastectomy type, and anastomoses (p < 0.05), and costs correlated with anastomoses (p < 0.05). Multivariate analysis confirmed unfamiliar scrub-techs and circulators were significantly correlated with increased intraoperative setbacks and higher costs (p < 0.05), with a trend toward longer duration (p = 0.06). In microsurgical breast reconstruction, unfamiliar teams correlated with increased intraoperative setbacks, costs, and durations. Adjusting staffing models to prioritize familiarity may provide medical, financial, and logistical benefits.",
+      "objective": "",
+      "study_methods": "All microsurgical breast reconstructions (July 2021-June 2024) at our institution were analyzed for staff familiarity at granular time intervals (T0: setup to incision, T1-T3: each third of procedure). Staff were deemed \"unfamiliar\" if they staffed <2 microsurgical breast reconstructions with the attending in past 4 months. Intraoperative setbacks included anastomotic revisions, vessel damage, switching recipient vessels, or mastectomy flap defect. Major complications included operative takeback or flap loss.",
+      "methods": "All microsurgical breast reconstructions (July 2021-June 2024) at our institution were analyzed for staff familiarity at granular time intervals (T0: setup to incision, T1-T3: each third of procedure). Staff were deemed \"unfamiliar\" if they staffed <2 microsurgical breast reconstructions with the attending in past 4 months. Intraoperative setbacks included anastomotic revisions, vessel damage, switching recipient vessels, or mastectomy flap defect. Major complications included operative takeback or flap loss.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41072479/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42473667",
       "title": "A rapid point-of-care test for vancomycin monitoring at the clinical bedside.",
       "authors": [
@@ -2465,6 +2517,182 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42473667/",
       "pmcid": "PMC13380757",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42611614",
+      "title": "The Role of Vitamin D in Plastic and Reconstructive Surgery: A Systematic Review of Human and Animal Studies.",
+      "authors": [
+        "Afnan M Nour",
+        "Adam Boukind",
+        "Lillee Izadi",
+        "Kanishk Satish",
+        "Sara Iskeirjeh",
+        "Saif Badran"
+      ],
+      "publication_date": "2026-Aug-18",
+      "publication_date_iso": "2026-08-18",
+      "abstract": "Vitamin D, a fat-soluble hormone, is increasingly recognized for its critical roles in immunomodulation, inflammation control, and tissue regeneration. Its deficiency is a global public health concern, affecting postoperative outcomes across various surgical fields, including plastic and reconstructive surgery. To systematically review the existing literature on the impact of preoperative and perioperative vitamin D levels on surgical outcomes in plastic and reconstructive surgery, combining findings from both animal and human studies. A detailed literature search was conducted in Embase, PubMed, Ovid Medline, PubMed Central, Scopus, and Cochrane Central databases. Inclusion criteria encompassed human and animal studies examining the role of vitamin D in wound healing, aesthetic procedures, reconstructive surgeries, nerve regeneration, and orthognathic interventions. Data extraction and quality assessment were performed using standardized tools. A structured sensitivity analysis by study design and quality was also performed. Fifteen studies met the inclusion criteria, including 11 human studies and 4 animal studies. Lower preoperative vitamin D levels were consistently associated with poorer wound healing outcomes, such as hypertrophic scarring, keloid formation, and complication rates in aesthetic and reconstructive surgeries. Animal studies demonstrated that vitamin D supplementation improved flap survival by enhancing angiogenesis and reducing inflammation. Preclinical studies and case reports highlighted vitamin D's neuroregenerative benefits and its role in maintaining bone integrity in orthognathic surgeries. Conclusions regarding wound healing, scarring, and bone healing remained robust across exclusion scenarios. Findings related to nerve regeneration depended predominantly on preclinical evidence. Vitamin D emerges as a potential biomarker and therapeutic agent that could improve surgical outcomes in plastic and reconstructive surgery. Despite promising findings, current evidence faces limitations, including small sample sizes, heterogeneous populations, and inconsistent vitamin D measurement methods. Future large-scale, high-quality studies are necessary to establish definitive guidelines for vitamin D assessment and supplementation in surgical care.",
+      "objective": "",
+      "study_methods": "A detailed literature search was conducted in Embase, PubMed, Ovid Medline, PubMed Central, Scopus, and Cochrane Central databases. Inclusion criteria encompassed human and animal studies examining the role of vitamin D in wound healing, aesthetic procedures, reconstructive surgeries, nerve regeneration, and orthognathic interventions. Data extraction and quality assessment were performed using standardized tools. A structured sensitivity analysis by study design and quality was also performed.",
+      "methods": "A detailed literature search was conducted in Embase, PubMed, Ovid Medline, PubMed Central, Scopus, and Cochrane Central databases. Inclusion criteria encompassed human and animal studies examining the role of vitamin D in wound healing, aesthetic procedures, reconstructive surgeries, nerve regeneration, and orthognathic interventions. Data extraction and quality assessment were performed using standardized tools. A structured sensitivity analysis by study design and quality was also performed.",
+      "results": "",
+      "conclusion": "regarding wound healing, scarring, and bone healing remained robust across exclusion scenarios. Findings related to nerve regeneration depended predominantly on preclinical evidence. Vitamin D emerges as a potential biomarker and therapeutic agent that could improve surgical outcomes in plastic and reconstructive surgery. Despite promising findings, current evidence faces limitations, including small sample sizes, heterogeneous populations, and inconsistent vitamin D measurement methods. Future large-scale, high-quality studies are necessary to establish definitive guidelines for vitamin D assessment and supplementation in surgical care.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42611614/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42608592",
+      "title": "Does increased staging complexity influence expert agreement in dental age estimation?",
+      "authors": [
+        "Nikolaos Angelakopoulos",
+        "Rizky Merdietio Boedi",
+        "Stefano De Luca",
+        "Nikita Polukhin",
+        "Akiko Kumagai",
+        "Ivan Galic",
+        "Jeta Kelmendi",
+        "Israel Soriano Vázquez",
+        "Aida Hadzic Selmanagić",
+        "Jorge Pinares Toledo",
+        "Roberto Scendoni",
+        "Daniel Franklin",
+        "Roberta Araujo Pinto",
+        "Lourdes Gómez Jiménez",
+        "Arjeta Neziri",
+        "Emerson Rodrigues",
+        "Pisha Pittayapat",
+        "Pedro Manuel Garamendi-González",
+        "Joe Adserias-Garriga",
+        "Bernhard Knell",
+        "Ademir Franco"
+      ],
+      "publication_date": "2026-Aug-18",
+      "publication_date_iso": "2026-08-18",
+      "abstract": "Dental age estimation (DAE) is a well-established procedure in current practice, and it is frequently required in forensic and legal investigations. This study aimed to evaluate the intra- and inter-observer reliability of dental development staging among forensic practitioners using two widely applied staging systems, according to Demirjian et al. 1973 and Moorrees et al. 1963. The study included 250 anonymized panoramic radiographs of individuals between 6 and 14 years (median age, 10 years), comprising 51.2% males and 48.8% females. Eighteen observers with prior training in DAE independently assessed tooth development on panoramic radiographs using the Demirjian and Moorrees methods, with each method evaluated in two separate rounds. Intra-observer reliability was evaluated using weighted and unweighted Cohen's Kappa, while inter-observer agreement was assessed using Gwet's AC1 and AC2 coefficients. Weighted analyses accounted for the ordinal structure of developmental stages, whereas unweighted analyses reflected exact agreement. Intra-observer reliability was consistently high across both systems, with median weighted Cohen's Kappa values ranging from 0.897 to 0.957 and median unweighted Cohen's Kappa values ranging from 0.836 to 0.944. Inter-observer agreement values averaged across rounds assessed with Gwet's AC2 ranged from 0.914 to 0.987, whereas mean Gwet's AC1 ranged from 0.306 to 0.908, indicating that disagreement was primarily due to adjacent-stage differences. Moorrees staging showed slightly higher reliability under weighted conditions, while Demirjian demonstrated higher exact agreement under unweighted conditions. Agreement increased with the number of observers but reached a plateau at approximately 8-10 observers, suggesting an optimal number of observers for forensic consensus. The results indicated that difficulty in distinguishing adjacent stages, unclear stage boundaries, and overlapping anatomical structures were the main sources of uncertainty. The Moorrees system was perceived as more complex, while Demirjian showed difficulty focused on the root development stages. These findings highlight the importance of methodological considerations in dental age estimation and suggest that refinement of staging systems may further improve the reliability of expert assessment.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "indicated that difficulty in distinguishing adjacent stages, unclear stage boundaries, and overlapping anatomical structures were the main sources of uncertainty. The Moorrees system was perceived as more complex, while Demirjian showed difficulty focused on the root development stages. These findings highlight the importance of methodological considerations in dental age estimation and suggest that refinement of staging systems may further improve the reliability of expert assessment.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42608592/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42608629",
+      "title": "Much Ado About a Mutation: Congenital Melanocytic Nevus With LINC00518 and Preferentially Expressed Antigen in Melanoma Positivity.",
+      "authors": [
+        "Racquel A Bitar",
+        "Tatiana F Abrantes",
+        "Holly Neale",
+        "Birgitta A R Schmidt",
+        "Ingrid M Ganske",
+        "Elena B Hawryluk"
+      ],
+      "publication_date": "2026-Aug-17",
+      "publication_date_iso": "2026-08-17",
+      "abstract": "Small and medium sized congenital melanocytic nevi (CMN) have an overall low risk of malignant potential. This case demonstrates a pediatric patient with a small CMN positive for LINC00518 (LINC) and preferentially expressed antigen in melanoma (PRAME) on a non-invasive molecular test not yet validated in children. Although her nevus had not evolved, the availability of a molecular test and curiosity ultimately raised concern about this otherwise reassuring, stable CMN. This demonstrates the pitfalls of non-invasive testing in pediatric patients with CMN.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42608629/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42608236",
+      "title": "Biodegradable versus titanium osteosynthesis in maxillofacial surgery: a randomized controlled trial with 15 years of follow-up.",
+      "authors": [
+        "L Veenman",
+        "N B van Bakelen",
+        "G J Buijs",
+        "T J M Hoppenreijs",
+        "J E Bergsma",
+        "L J Beumer",
+        "B van Minnen",
+        "B Gareb"
+      ],
+      "publication_date": "2026-Aug-17",
+      "publication_date_iso": "2026-08-17",
+      "abstract": "Studies on long-term outcomes of biodegradable versus titanium osteosynthesis in maxillofacial surgery are lacking. This multicentre randomized controlled trial was performed to compare the long-term clinical performance of titanium versus biodegradable osteosynthesis systems at ≥15 years of follow-up. Patients undergoing bilateral sagittal split and/or Le Fort I osteotomies, or treatment for mandible, maxilla, or zygoma fractures at four hospitals were included. Eligible participants (n = 230) were randomly assigned to receive titanium (KLS Martin) or biodegradable (Inion CPS) plates and screws (1:1). The primary outcome was symptomatic osteosynthesis removal. Secondary outcomes included malocclusion, plate palpability, swelling, mandibular function, pain scores, and patient satisfaction. Median follow-up was 16.3 years. Osteosynthesis removal at 15 years was 17.4% in the titanium group and 29.5% in the biodegradable group (hazard ratio 1.88, 95% confidence interval 1.07-3.31, P = 0.028). Notably, 4.5% of titanium group patients required symptomatic removal between 5 years and the latest follow-up, whereas no such removals were needed in the biodegradable group (P = 0.045). Plate palpability was higher in the titanium group (P = 0.004), but no significant difference was found in malocclusion, swelling, pain, or mandibular function scores. Both groups reported high patient satisfaction and excellent function without pain. The intention-to-treat results showed a significantly higher risk of symptomatic osteosynthesis removal after long-term follow-up in the biodegradable group, while the per-protocol analysis revealed a non-significant difference between the groups. There is a lifetime risk of symptomatic titanium plate removal (5% of patients at >5 years of follow-up).",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "showed a significantly higher risk of symptomatic osteosynthesis removal after long-term follow-up in the biodegradable group, while the per-protocol analysis revealed a non-significant difference between the groups. There is a lifetime risk of symptomatic titanium plate removal (5% of patients at >5 years of follow-up).",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42608236/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42607810",
+      "title": "Individualized surgical approach for Brodie's syndrome with facial asymmetry: a case report involving mandibular segmentation.",
+      "authors": [
+        "Andressa Bolognesi Bachesk",
+        "Ana Julia Antunes Pereira",
+        "Maria Clara Belloni",
+        "Diogo Celio Moreira De Goes",
+        "Vitoria Bondezan Pessoa",
+        "Bruna de Lima Piccinin Marcal Costa",
+        "Angelo Jose Pavan"
+      ],
+      "publication_date": "2026-Aug-17",
+      "publication_date_iso": "2026-08-17",
+      "abstract": "Brodie's syndrome is a rare transverse malocclusion, challenging to manage, particularly in adults with significant skeletal involvement. This report describes an unusual clinical case of surgical treatment for a unilateral presentation of Brodie's syndrome using mandibular segmentation, an approach rarely documented in the literature. The patient, an 18-year-old, presented with mandibular deviation, Class II malocclusion, and posterior scissors bite, with an adequately wide maxilla but evident mandibular constriction. Three-dimensional planning guided a bimaxillary surgical intervention that included mandibular segmentation into three parts, advancement genioplasty, xenogeneic bone grafting, and correction of maxillary cant through Le Fort I osteotomy. The integration of virtual planning and patient-specific guides enhanced the predictability of outcomes and minimized risks. After 12 months, a stable functional occlusion and significant esthetic improvement were achieved. This case highlights the value of mandibular segmentation as an effective and safe alternative in selected cases of Brodie's syndrome of mandibular origin.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42607810/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42607517",
+      "title": "Sialography in Dentistry: A Bibliometric Analysis of Global Research Trends.",
+      "authors": [
+        "Hande Barin",
+        "Muhammed Akif Sümbüllü"
+      ],
+      "publication_date": "2026-Aug-17",
+      "publication_date_iso": "2026-08-17",
+      "abstract": "This study aimed to evaluate the global scientific literature on the use of sialography in dentistry and to identify the most productive journals, authors, institutions, countries, and keywords in this field. It also sought to reveal research trends, collaboration patterns, and thematic developments over time. A bibliometric analysis was conducted using data retrieved from the Web of Science Core Collection database. The search was performed using the terms 'Sialography' AND ('Dental' OR 'Dentistry') within the category of 'Dentistry, Oral Surgery & Medicine'. Only articles published between 1970 and 2025 and indexed in SCI-EXPANDED and Emerging Sources Citation Index were included. Bibliometric indicators were analysed using VOSviewer and Biblioshiny. A total of 219 articles from 42 sources were included. Japan was the most productive country with 50 publications and 829 citations. Kyushu University was the leading institution, and Kanda S. was the most productive author. Dentomaxillofacial Radiology was the most productive journal, whereas the Journal of Oral and Maxillofacial Surgery had the highest citation impact. Keyword analysis showed that 'sialography' was the most frequent term, while recent trends indicated increasing interest in advanced imaging modalities such as ultrasonography, computed tomography, magnetic resonance imaging, and sialendoscopy. The annual growth rate of publications was 4.08%, indicating a steady increase in research output over time. The scientific literature on sialography in dentistry has expanded progressively over time, with research output concentrated in a limited number of countries, institutions, and journals. The findings indicate a shift from conventional sialography towards advanced imaging techniques and clinically oriented topics. This study provides a comprehensive overview of current research trends and may serve as a reference for future studies in this field.",
+      "objective": "",
+      "study_methods": "A bibliometric analysis was conducted using data retrieved from the Web of Science Core Collection database. The search was performed using the terms 'Sialography' AND ('Dental' OR 'Dentistry') within the category of 'Dentistry, Oral Surgery & Medicine'. Only articles published between 1970 and 2025 and indexed in SCI-EXPANDED and Emerging Sources Citation Index were included. Bibliometric indicators were analysed using VOSviewer and Biblioshiny.",
+      "methods": "A bibliometric analysis was conducted using data retrieved from the Web of Science Core Collection database. The search was performed using the terms 'Sialography' AND ('Dental' OR 'Dentistry') within the category of 'Dentistry, Oral Surgery & Medicine'. Only articles published between 1970 and 2025 and indexed in SCI-EXPANDED and Emerging Sources Citation Index were included. Bibliometric indicators were analysed using VOSviewer and Biblioshiny.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42607517/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2651,114 +2879,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42584042/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42583815",
-      "title": "Improving the cytocompatibility and functionality of titanium implants by adjusting the electrolyte of the anodization method.",
-      "authors": [
-        "Zhengyang Xing",
-        "Rui Chao",
-        "Xitong Tu",
-        "Shanyong Zhang",
-        "Jie Ma"
-      ],
-      "publication_date": "2026-Aug-12",
-      "publication_date_iso": "2026-08-12",
-      "abstract": "Titanium implants are widely used in prosthodontics, but their bioinert surfaces can limit early osseointegration. This study examined whether electrolyte-tuned anodization can tailor TiO2 nanotube (TNT) coatings to improve in vitro osteogenesis, angiogenesis, and inflammation-related responses. Titanium was anodized in three electrolytes to produce TNT, TNT-H, and TNT-B coatings. Morphology and roughness were assessed by scanning electron microscope, phase/chemistry by X-ray diffraction (XRD) and X-ray photoelectron spectroscopy (XPS), and wettability by contact angle. Cytocompatibility and functional responses were evaluated using bone marrow-derived mesenchymal stem cells, human umbilical vein endothelial cells, and RAW264.7 cells, including viability/adhesion assays, macrophage polarization and cytokine expression, and osteogenic/angiogenic assays. TNT-B (mean pore diameter ∼188 nm) showed the most consistent improvements across endpoints, enhancing cell adhesion/proliferation, osteogenesis-associated markers, and angiogenesis-associated signals in vitro, while reducing pro-inflammatory cytokine expression and promoting M2-skewed polarization. TNT-H showed measurable responses versus TNT but did not outperform TNT-B in angiogenic assays under the tested conditions. XRD/XPS indicated minor Ti6O- and defect-related signatures in TNT-B that are relevant to these responses. After annealing, corrosion resistance ranked TNT-H > TNT-B > TNT. Electrolyte modulation enables the controllable fabrication of TNT architectures and surface chemistry. TNT-B demonstrates promising in vitro performance but exhibits reduced electrochemical stability relative to TNT-H, highlighting a bioactivity-stability trade-off and the need for further optimization and validation before clinical use.",
-      "objective": "",
-      "study_methods": "Titanium was anodized in three electrolytes to produce TNT, TNT-H, and TNT-B coatings. Morphology and roughness were assessed by scanning electron microscope, phase/chemistry by X-ray diffraction (XRD) and X-ray photoelectron spectroscopy (XPS), and wettability by contact angle. Cytocompatibility and functional responses were evaluated using bone marrow-derived mesenchymal stem cells, human umbilical vein endothelial cells, and RAW264.7 cells, including viability/adhesion assays, macrophage polarization and cytokine expression, and osteogenic/angiogenic assays.",
-      "methods": "Titanium was anodized in three electrolytes to produce TNT, TNT-H, and TNT-B coatings. Morphology and roughness were assessed by scanning electron microscope, phase/chemistry by X-ray diffraction (XRD) and X-ray photoelectron spectroscopy (XPS), and wettability by contact angle. Cytocompatibility and functional responses were evaluated using bone marrow-derived mesenchymal stem cells, human umbilical vein endothelial cells, and RAW264.7 cells, including viability/adhesion assays, macrophage polarization and cytokine expression, and osteogenic/angiogenic assays.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42583815/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42600488",
-      "title": "Exploring salivary and lacrimal biomarkers in non-Sjögren sicca: A scoping review.",
-      "authors": [
-        "Fernanda Luiza Araújo de Lima Castro",
-        "Mariana Silveira de Souza",
-        "José Alcides Almeida de Arruda",
-        "Victor Zanetti Drumond",
-        "Hélène Chardin",
-        "Ana Carolina Acevedo",
-        "Renata Gonçalves de Resende",
-        "Débora Cerqueira Calderaro",
-        "Sílvia Ferreira de Sousa",
-        "Tarcília Aparecida Silva"
-      ],
-      "publication_date": "2026-Aug-11",
-      "publication_date_iso": "2026-08-11",
-      "abstract": "Sicca symptoms may arise from a wide range of underlying etiologies. Non-Sjögren sicca (nSS) typically refers to individuals who experience sicca symptoms, but do not fulfill the immunological or histopathological criteria required for the diagnosis of Sjögren disease (SjD). Herein, we mapped the salivary and lacrimal molecular signatures reported in nSS and evaluated their potential utility in distinguishing nSS from SjD. This scoping review included observational studies comparing salivary and/or lacrimal biomarkers between individuals with nSS and those with SjD. Data were synthesized descriptively. A total of 38 studies examining salivary and/or lacrimal biomarkers were included. The diagnostic criteria used to define SjD and nSS varied considerably across studies. Inflammatory molecules, including beta-2 microglobulin, interleukins, chemokines, growth factors, and enzymes, were consistently found at lower levels in both the saliva and tears of individuals with nSS. In contrast, salivary IFN-γ and lacrimal lactoferrin levels were higher in nSS, whereas some inflammatory molecules (TNF, IL-6, IL-1, IL-8, and IL-10) showed similar expression levels in both conditions. Salivary autoantibodies were identified in 30-60% of individuals with nSS. nSS is a biologically heterogeneous condition characterized by broad alterations in salivary and lacrimal composition. Although immune-inflammatory activation appears to be lower in nSS, autoantibody positivity and levels of certain inflammatory markers comparable to those observed in SjD suggest that low-grade inflammation may contribute to the pathophysiology of nSS.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42600488/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42578796",
-      "title": "The Prevalence of Concurrent Congenital and Developmental Dental Anomalies in Dogs with Class II Malocclusions Compared to Dogs with Normal Occlusion.",
-      "authors": [
-        "Erin McGuirk",
-        "M J Redman",
-        "Eric Gilleland"
-      ],
-      "publication_date": "2026-Aug-11",
-      "publication_date_iso": "2026-08-11",
-      "abstract": "Class II malocclusion in dogs is a skeletal abnormality characterized by mandibular distoclusion that can result in traumatic occlusion and compromised oral health. While associated soft tissue trauma is well recognized, the prevalence of concurrent congenital and developmental dental anomalies in affected dogs has not been systematically evaluated. The aim of this study was to determine the prevalence of dental anomalies in dogs with class II malocclusion and compare findings to dogs with normal occlusion. Medical records from three veterinary dentistry referral centers were retrospectively reviewed. Dogs with class II malocclusion were included if they had complete oral examinations, dental charting, and full-mouth diagnostic imaging. Control dogs met the same criteria. Dental anomalies were recorded, and multivariable generalized linear models were used to compare prevalence between groups while adjusting for age, sex, and body weight (p < .05). Eighty-seven dogs with class II malocclusion and 98 controls were included. Affected dogs had a significantly higher prevalence of dental crowding, persistent deciduous teeth, and rotated teeth. Other anomalies-including supernumerary teeth, hypodontia, infraeruption, enamel defects, dilaceration, fused roots, gemination, and impacted teeth-were observed but did not differ significantly between groups. Dogs with class II malocclusion are more likely to exhibit multiple dental anomalies compared to dogs with normal occlusion. These findings suggest overlapping developmental mechanisms affecting craniofacial growth and odontogenesis. Early recognition is important for timely intervention and improved patient welfare.",
-      "objective": "of this study was to determine the prevalence of dental anomalies in dogs with class II malocclusion and compare findings to dogs with normal occlusion. Medical records from three veterinary dentistry referral centers were retrospectively reviewed. Dogs with class II malocclusion were included if they had complete oral examinations, dental charting, and full-mouth diagnostic imaging. Control dogs met the same criteria. Dental anomalies were recorded, and multivariable generalized linear models were used to compare prevalence between groups while adjusting for age, sex, and body weight (p < .05). Eighty-seven dogs with class II malocclusion and 98 controls were included. Affected dogs had a significantly higher prevalence of dental crowding, persistent deciduous teeth, and rotated teeth. Other anomalies-including supernumerary teeth, hypodontia, infraeruption, enamel defects, dilaceration, fused roots, gemination, and impacted teeth-were observed but did not differ significantly between groups. Dogs with class II malocclusion are more likely to exhibit multiple dental anomalies compared to dogs with normal occlusion. These findings suggest overlapping developmental mechanisms affecting craniofacial growth and odontogenesis. Early recognition is important for timely intervention and improved patient welfare.",
-      "study_methods": "",
-      "methods": "",
-      "results": "in traumatic occlusion and compromised oral health. While associated soft tissue trauma is well recognized, the prevalence of concurrent congenital and developmental dental anomalies in affected dogs has not been systematically evaluated. The aim of this study was to determine the prevalence of dental anomalies in dogs with class II malocclusion and compare findings to dogs with normal occlusion. Medical records from three veterinary dentistry referral centers were retrospectively reviewed. Dogs with class II malocclusion were included if they had complete oral examinations, dental charting, and full-mouth diagnostic imaging. Control dogs met the same criteria. Dental anomalies were recorded, and multivariable generalized linear models were used to compare prevalence between groups while adjusting for age, sex, and body weight (p < .05). Eighty-seven dogs with class II malocclusion and 98 controls were included. Affected dogs had a significantly higher prevalence of dental crowding, persistent deciduous teeth, and rotated teeth. Other anomalies-including supernumerary teeth, hypodontia, infraeruption, enamel defects, dilaceration, fused roots, gemination, and impacted teeth-were observed but did not differ significantly between groups. Dogs with class II malocclusion are more likely to exhibit multiple dental anomalies compared to dogs with normal occlusion. These findings suggest overlapping developmental mechanisms affecting craniofacial growth and odontogenesis. Early recognition is important for timely intervention and improved patient welfare.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42578796/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42576101",
-      "title": "Soft-tissue thickness changes following bimaxillary surgery in skeletal class II malocclusion.",
-      "authors": [
-        "Hao Chen",
-        "Dirk-Melle Beek",
-        "Frank Baan",
-        "Stephan Christian Möhlhenrich",
-        "Kasper Stokbro",
-        "Tong Xi"
-      ],
-      "publication_date": "2026-Aug-11",
-      "publication_date_iso": "2026-08-11",
-      "abstract": "This retrospective cohort study evaluated regional facial soft-tissue thickness changes after bimaxillary surgery in skeletal Class Ⅱ patients and assessed their associations with skeletal movement and patient-related factors. Class Ⅱ patients treated with bimaxillary advancement surgery without genioplasty were included. Postoperative CBCT scans, acquired 16.7 ± 5.3 months after surgery, were registered to the corresponding preoperative scans using voxel-based superimposition. Skeletal displacement and corresponding overlying soft-tissue thickness were assessed at subspinale (A), supradentale (Sd), infradentale (Id), supramentale (B), pogonion (Pog), and menton (Me). Soft-tissue thickness was defined as the linear distance between each hard-tissue landmark and its corresponding soft-tissue landmark. Skeletal displacement was measured at the corresponding hard-tissue landmarks. 89 patients were enrolled, 33 male and 56 female, mean age of 30.3 ± 10.3 years. Significant postoperative soft-tissue thinning was observed at A (0.40 ± 1.51 mm), Id (2.20 ± 2.11 mm), B (0.33 ± 1.30 mm), and Pog (0.48 ± 1.29 mm), whereas soft-tissue thickness at Sd and Me did not change significantly. Pearson correlation analysis indicated that thickness changes were not associated with age, sex, or CBCT interval. Larger sagittal advancement at A and Id was associated with more pronounced thinning of the corresponding soft tissue (A: r = -0.650, p < 0.001; Id: r = -0.338, p = 0.001), with ratios of thinning to movement of 0.20 and 0.30, respectively. In contrast, larger downward vertical movement of B was associated with less thinning at B (r = 0.240, p = 0.023), with a ratio of thinning to downward movement of 0.05. Bimaxillary surgery in skeletal Class II patients without genioplasty resulted in region specific soft-tissue thinning, particularly affecting the lower lip. Postoperative soft-tissue thinning should be considered during surgical planning and patient communication.",
-      "objective": "",
-      "study_methods": "Class Ⅱ patients treated with bimaxillary advancement surgery without genioplasty were included. Postoperative CBCT scans, acquired 16.7 ± 5.3 months after surgery, were registered to the corresponding preoperative scans using voxel-based superimposition. Skeletal displacement and corresponding overlying soft-tissue thickness were assessed at subspinale (A), supradentale (Sd), infradentale (Id), supramentale (B), pogonion (Pog), and menton (Me). Soft-tissue thickness was defined as the linear distance between each hard-tissue landmark and its corresponding soft-tissue landmark. Skeletal displacement was measured at the corresponding hard-tissue landmarks.",
-      "methods": "Class Ⅱ patients treated with bimaxillary advancement surgery without genioplasty were included. Postoperative CBCT scans, acquired 16.7 ± 5.3 months after surgery, were registered to the corresponding preoperative scans using voxel-based superimposition. Skeletal displacement and corresponding overlying soft-tissue thickness were assessed at subspinale (A), supradentale (Sd), infradentale (Id), supramentale (B), pogonion (Pog), and menton (Me). Soft-tissue thickness was defined as the linear distance between each hard-tissue landmark and its corresponding soft-tissue landmark. Skeletal displacement was measured at the corresponding hard-tissue landmarks.",
-      "results": "ed in region specific soft-tissue thinning, particularly affecting the lower lip. Postoperative soft-tissue thinning should be considered during surgical planning and patient communication.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42576101/",
-      "pmcid": "PMC13457495",
       "figure_urls": []
     }
   ]
