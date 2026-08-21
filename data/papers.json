@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T03:01:39Z",
+  "updated_at": "2026-08-21T03:12:56Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -925,6 +925,30 @@
       "figure_urls": []
     },
     {
+      "pmid": "42621896",
+      "title": "LncPNdeep: A long non-coding RNA classifier based on large language model with peptide and nucleotide embedding.",
+      "authors": [
+        "Zongrui Dai",
+        "Feiyang Deng",
+        "Hsiao H Sung"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Accurate classification of long non-coding RNAs (lncRNAs) is essential for transcriptome annotation and understanding gene regulation. Existing computational methods predominantly rely on nucleotide sequence features, frequently overlooking biologically relevant peptide signals encoded within lncRNAs. To overcome this limitation, we developed LncPNdeep, an integrative deep learning framework that combines nucleotide and peptide embeddings extracted via masked language models, specifically utilizing contextual representations from BigBird, Longformer, and ProtTrans. By fusing both features in a concatenated neural architecture, LncPNdeep robustly captures complex sequence relationships and improves discrimination between lncRNAs and coding RNAs. Benchmarking on the human transcriptome achieved state-of-the-art performance with 97.1% accuracy, surpassing established lncRNA classification tools and baseline machine learning models. LncPNdeep also demonstrated superior generalization ability across cross-species datasets, maintaining consistently high accuracy and F1 scores. Permutation analysis highlighted the pivotal role of peptide embeddings, especially Average Peptide Embedding, in model performance, while t-SNE visualizations confirmed that integrating multiple embeddings markedly enhances the separation of lncRNAs from coding RNAs. These results position LncPNdeep as a versatile and powerful tool for transcriptomic research, facilitating lncRNA discovery, biomarker identification, and comparative genomics. The model and instructions are freely available at https://github.com/yatoka233/LncPNdeep.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "position LncPNdeep as a versatile and powerful tool for transcriptomic research, facilitating lncRNA discovery, biomarker identification, and comparative genomics. The model and instructions are freely available at https://github.com/yatoka233/LncPNdeep.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42621896/",
+      "pmcid": "PMC13488033",
+      "figure_urls": []
+    },
+    {
       "pmid": "42604043",
       "title": "Infraorbital myxofibrosarcoma: Imaging features and surgical management of a rare facial case.",
       "authors": [
@@ -1038,6 +1062,36 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42502792/",
       "pmcid": "PMC13400236",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42498077",
+      "title": "Dynamic regulation of fibroblast heterogeneity in regeneration repair and bone diseases.",
+      "authors": [
+        "Shuyi Xing",
+        "Jun Wang",
+        "Jingzhen Mo",
+        "Feng He",
+        "Ping Liu",
+        "Yu Zhang",
+        "Yiming Wang",
+        "Yang Xue",
+        "Jianfei Yan"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Bone healing is a complex, systems-level process traditionally viewed through the lens of mesenchymal stromal cells (MSCs) and osteoblast-lineage cells. However, recent evidence suggests that fibroblasts represent a substantial fraction of lesion cellularity, far exceeding MSCs. These cells are no longer considered passive \"fillers\" but are recognized as active niche organizers that implement the information architecture of repair, including matrix topology and cytokine gradients. This review aims to synthesize recent findings on fibroblast heterogeneity in the context of skeletal repair. It addresses the inconsistent terminology surrounding \"fibroblasts\" and \"MSCs\" and emphasizes a three-dimensional coordinate system-cell type, anatomical niche, and repair stage-to understand their functional diversity. The review specifically focuses on periosteal and marrow fibroblasts as archetypal reservoirs for controllable niche organization. The review explores three major regulatory pillars: signaling pathways, metabolic reprogramming, and intercellular communication. Key signaling networks such as Wnt/β-catenin, BMP, and Hedgehog are integrated with mechanotransduction (YAP/TAZ) to steer fibroblast trajectories toward either regeneration or fibrosis. Metabolism acts as a \"gate,\" where a switch from glycolysis to oxidative phosphorylation (OXPHOS) is required for successful osteogenic commitment. Finally, the review details how fibroblasts coordinate repair through an intercellular network involving extracellular vesicles, gap junctions, and paracrine gradients, synchronizing responses across different anatomical niches.",
+      "objective": "to synthesize recent findings on fibroblast heterogeneity in the context of skeletal repair. It addresses the inconsistent terminology surrounding \"fibroblasts\" and \"MSCs\" and emphasizes a three-dimensional coordinate system-cell type, anatomical niche, and repair stage-to understand their functional diversity. The review specifically focuses on periosteal and marrow fibroblasts as archetypal reservoirs for controllable niche organization. The review explores three major regulatory pillars: signaling pathways, metabolic reprogramming, and intercellular communication. Key signaling networks such as Wnt/β-catenin, BMP, and Hedgehog are integrated with mechanotransduction (YAP/TAZ) to steer fibroblast trajectories toward either regeneration or fibrosis. Metabolism acts as a \"gate,\" where a switch from glycolysis to oxidative phosphorylation (OXPHOS) is required for successful osteogenic commitment. Finally, the review details how fibroblasts coordinate repair through an intercellular network involving extracellular vesicles, gap junctions, and paracrine gradients, synchronizing responses across different anatomical niches.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498077/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -1392,28 +1446,32 @@
       "figure_urls": []
     },
     {
-      "pmid": "42236400",
-      "title": "Corrigendum to \" Knockdown of TRPM2 promotes osteogenic differentiation of Human Periodontal Ligament Stem Cells by modulating NF-κB /NLRP3 pathway\", Tissue Cell, 2023, 84: 102184.",
+      "pmid": "42620314",
+      "title": "Mechanical stretch promotes osteogenesis in the midpalatal suture by enhancing neutrophil fatty acid oxidation through the S1PR1/STAT3 axis.",
       "authors": [
-        "Xiaosong Xiang",
-        "YongXin Hu",
-        "Zhiqiang Song",
-        "Chunlin Wang"
+        "Ting Jiang",
+        "Tian-Hao Wan",
+        "Min-Jie Wang",
+        "Xin-Yi Tan",
+        "Zhi-Chen Ling",
+        "Feng Yang",
+        "Jun Wang",
+        "Ning-Juan Ouyang"
       ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "",
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "In clinical maxillary arch constriction, selecting an optimal initial distraction force may help reduce relapse associated with insufficient suture osteogenesis. Neutrophils play a crucial role in early suture osteogenesis; however, how initial distraction force regulates their function remains unclear. Therefore, this study investigated how different magnitudes of initial distraction force modulate neutrophil activity and influence suture osteogenesis. By integrating an in vivo maxillary expansion model in 6-week-old male C57BL/6 mice with flow cytometric sorting, transcriptomic analysis, and an in vitro three-dimensional stretching model, this study systematically characterized the functional and metabolic changes of neutrophils under different mechanical conditions and further explored the underlying regulatory mechanisms. The findings demonstrate that neutrophils serve as important mediators of force-dependent osteogenesis and contribute to force-dependent differences in osteogenesis during midpalatal expansion. Different magnitudes of distraction force induced metabolic divergence in intra-sutural neutrophils, leading to differential regulation of their energy metabolism and osteogenic potential. Mechanistically, mechanical tension enhanced fibroblast-derived S1P secretion via modulation of SPHK1 activity, which activated the S1PR1/STAT3 signaling pathway in neutrophils, promoted fatty acid oxidation, and ultimately drove their pro-osteogenic function. These results clarify how initial distraction force regulates the mechanics-immunometabolism-osteogenesis axis and provide a framework in which fibroblast-derived S1P and matrix stiffness coordinate neutrophil S1PR1-STAT3-FAO signaling to promote osteogenesis.",
       "objective": "",
       "study_methods": "",
       "methods": "",
-      "results": "",
+      "results": "clarify how initial distraction force regulates the mechanics-immunometabolism-osteogenesis axis and provide a framework in which fibroblast-derived S1P and matrix stiffness coordinate neutrophil S1PR1-STAT3-FAO signaling to promote osteogenesis.",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42236400/",
-      "pmcid": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42620314/",
+      "pmcid": "PMC13485639",
       "figure_urls": []
     },
     {
@@ -1997,6 +2055,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "42303474",
+      "title": "Systematic review of outcomes reported in trials of facial trauma.",
+      "authors": [
+        "Ka Yu Keith Cheung",
+        "Neel Badhe",
+        "Smruti Pashte",
+        "Rory O'Connor",
+        "Ben Marson"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "This study aimed to identify and collate outcomes reported in trials of facial trauma. Searches for randomised controlled trials on facial trauma containing 50 patients or more were conducted on Cochrane CENTRAL, Embase and Ovid MEDLINE on 9 October 2025. Additional studies were identified through review of the reference lists of relevant systematic reviews and included trials, as well as through text searches of Google Scholar. A manual search of clinicaltrials.gov and the International Standard Randomised Controlled Trial Number (ISRCTN) registry was also completed in line with Cochrane guidelines on 20 November 2025. A total of 3,695 studies were screened following PRISMA guidelines, with 131 articles included in the final analysis. Two reviewers (KC and NB) independently performed data extraction, and the outcomes reported were recorded verbatim and mapped on to the World Health Organization International Classification of Functioning, Disability and Health (WHO ICF) framework. A total of 151 distinct outcomes were identified, with a median of four outcomes per trial. Mapping to the WHO ICF yielded 102 outcome domains. Eighty-two studies involved the mandible only, 39 involved the midface only, nine involved the mandible and midface, and one involved the midface and frontal bone. In mandibular fracture trials, immunological system functions that would capture infections (56%), structure of the mouth (53%) and pain (41%), were most frequently reported. In midfacial fracture trials, pain was the most common domain (37%), followed by immunological system functions (31%). Seven patient-reported outcome measures (PROMs) were identified across 10 trials, most commonly the General Oral Health Assessment Index. Outcome reporting in facial trauma trials is highly heterogeneous, spanning all domains of the WHO ICF framework, with limited and inconsistent use of PROMs. Most available PROMs were not designed specifically for facial trauma, and no single instrument was used consistently across the studies. This lack of standardisation limits comparability between trials and hinders meaningful evidence synthesis. These findings support the need for the development of a consensus-based core outcome set for facial trauma to improve consistency, relevance, and quality of outcome reporting in future research.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42303474/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42275922",
       "title": "Local vitamin D",
       "authors": [
@@ -2045,6 +2129,30 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42274635/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42259726",
+      "title": "Evaluating the role of preoperative anticoagulation in reducing the risk of venous thromboembolism in orthognathic surgery: a review of the literature and local audit.",
+      "authors": [
+        "R Leader",
+        "L Butler",
+        "R Broom"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Orthognathic surgery is commonly performed in healthy young adults and is associated with a low baseline risk of venous thromboembolism (VTE). However, considerable variation exists in the United Kingdom regarding the routine administration of preoperative pharmacological thromboprophylaxis with low molecular weight heparin (LMWH). The aim of this article is to review the current evidence for preoperative LMWH in orthognathic surgery, focusing on the incidence of VTE and the potential risk of perioperative bleeding, and to report findings of a local audit. Published literature demonstrates that symptomatic VTE following orthognathic surgery is rare, with reported incidences below 0.2% even in centres not using routine chemoprophylaxis. In contrast, anticoagulation has been linked with increased rates of postoperative bleeding complications, including haemorrhage requiring return to theatre, which raises concerns that routine prophylaxis may confer more harm than benefit in low-risk patients. A retrospective audit of 313 patients undergoing orthognathic surgery at a tertiary UK unit between January 2022 and February 2025, all of whom received prophylactic preoperative LMWH, identified no VTE events within three months of the operation. Intraoperative bleeding complications occurred in 12 patients (3.8%). Overall, current evidence does not support routine preoperative LMWH in low-risk orthognathic patients. Risk-stratified approaches are recommended, and prospective multicentre studies are needed to establish clear guidelines.",
+      "objective": "of this article is to review the current evidence for preoperative LMWH in orthognathic surgery, focusing on the incidence of VTE and the potential risk of perioperative bleeding, and to report findings of a local audit. Published literature demonstrates that symptomatic VTE following orthognathic surgery is rare, with reported incidences below 0.2% even in centres not using routine chemoprophylaxis. In contrast, anticoagulation has been linked with increased rates of postoperative bleeding complications, including haemorrhage requiring return to theatre, which raises concerns that routine prophylaxis may confer more harm than benefit in low-risk patients. A retrospective audit of 313 patients undergoing orthognathic surgery at a tertiary UK unit between January 2022 and February 2025, all of whom received prophylactic preoperative LMWH, identified no VTE events within three months of the operation. Intraoperative bleeding complications occurred in 12 patients (3.8%). Overall, current evidence does not support routine preoperative LMWH in low-risk orthognathic patients. Risk-stratified approaches are recommended, and prospective multicentre studies are needed to establish clear guidelines.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42259726/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2162,6 +2270,34 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42235651/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42168055",
+      "title": "Depression and anxiety changes in patients after orthognathic surgery: a systematic review and meta-analysis.",
+      "authors": [
+        "Chenxinzi Lin",
+        "Chuyi Liu",
+        "Weiwei Huang",
+        "Jiangyue Wu",
+        "Jingyuan Zhang",
+        "Yawen Chen",
+        "Qilong Wan"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "This study was designed to evaluate the impact of orthognathic surgery on depression and anxiety in patients with dentofacial deformities. PubMed, Embase, Cochrane Library, Web of Science, CNKI and WANFANG databases were searched from 2000 to 2025. This systematic review included studies that evaluated the impact of orthognathic surgery on depression and anxiety as measured by the Symptom Checklist-90 (SCL-90), Minnesota Multiphasic Personality Inventory (MMPI), State-Trait Anxiety Inventory (STAI) and Social Appearance Anxiety Scale (SAAS). The review included 12 articles with 613 participants, of which 10 were included in the meta-analyses. It revealed that orthognathic surgery was associated with postoperative improvement in psychological status. Regarding depression, scores at more than 6 months postoperatively were significantly lower than preoperative levels for both SCL-90 (MD 0.20, 95% CI [0.07 to 0.32]) and MMPI (MD 1.77, 95% CI [-0.50 to 4.04]). However, a more pronounced reduction in depression was observed at 3 months postoperatively (MD 0.33, 95% CI [-0.15 to 0.80]) compared to 6 months, suggesting a potential partial relapse during this interim period. For anxiety, significant improvement was noted at more than 6 months using the SAAS (MD 9.41, 95% CI [2.21 to 16.61]), while just a positive trend was observed with the SCL-90 (MD 0.10, 95% CI [-0.07 to 0.27]). Similarly, a more pronounced reduction in anxiety was observed at 3 months postoperatively (MD 0.33, 95% CI [-0.14 to 0.80]). Orthognathic surgery improves psychological status including anxiety and depression in patients with dentofacial deformities, with peak effects observed at 3 months that may relapse by 6 months.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42168055/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2353,6 +2489,62 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41702765/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41673538",
+      "title": "Oral Pain and Alzheimer's Disease: Prospective Cohort and Cross-Sectional Analyses.",
+      "authors": [
+        "W Li",
+        "X Hu",
+        "Y Zhang",
+        "J Liao",
+        "S Lin",
+        "X Chen",
+        "H Lan",
+        "H Zhao",
+        "H Xu"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Given the limited effectiveness of Alzheimer's disease (AD) treatments, modifiable risk factors warrant attention. Oral pain (OP), a common inflammatory symptom, may be linked to neurodegeneration. This study aimed to investigate associations between OP and AD risk, cognitive performance, and brain structure. Data from 490,035 UK Biobank participants free of AD at baseline and with complete OP records were analyzed, while other dementias were excluded. Participants were categorized into an OP group (n = 33,697; defined as self-reported toothache or painful gums via touchscreen questionnaire) and an oral pain-free group (n = 456,338). AD diagnoses were ascertained using ICD-10 codes from linked electronic health records and analyzed in a cohort design using multivariable Cox proportional hazards models. A cross-sectional analysis method of cognitive and brain outcomes was performed using multivariable generalized linear models. Over an average follow-up period of 14.1 ± 1.7 y, OP was associated with a 30.7% increased risk of AD (hazard ratio [HR] = 1.307, 95% confidence interval [CI]: 1.165 to 1.466, P < 0.001). Individuals with OP also demonstrated poorer cognitive functions and reduced gray matter volumes in the left parahippocampal gyrus (Padj = 0.014, β = -27.383, SE = 7.728). Among those whose oral pain resolved, the occurrence of AD was lower (HR = 0.360, 95% CI: 0.197 to 0.660, P = 0.011), along with improved cognitive functions and brain structures as compared with those with persistent OP. Proteomic analyses identified potential mediators, including GDF15, BCAN, and PLAUR, which are involved in pathways related to wound healing and immune regulation. Emerging evidence suggested a possible association between OP and AD through neuroimmune pathways, including potential Tau-related changes in the hippocampus. These findings suggested a potential association between maintaining oral health and reduced risk of AD and cognitive impairment. This study addresses a critical gap in understanding how OP may associate with the development of AD.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41673538/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41644312",
+      "title": "Bilateral sagittal split osteotomy buccal cut classification. Indications: pros and cons.",
+      "authors": [
+        "Adaia Valls-Ontañón",
+        "Ana Ortiz-Gutiérrez",
+        "Francesc Duran-Vallés",
+        "Maria Giralt-Hernando",
+        "Federico Hernández-Alfaro"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Bilateral sagittal split osteotomy (BSSO) and its numerous modifications remain the cornerstone of mandibular orthognathic surgery. Despite extensive literature describing individual techniques, we know of no comprehensive comparison of their properties, indications, and clinical outcomes. This review proposes a novel classification of the BSSO technique based on the position of the buccal cut relative to the mandibular notch and angle: pre-notch, post-notch, and post-gonial. Their technical characteristics and clinical implications are described and compared, providing a straightforward guide to the optimal approach in each scenario. A narrative review of key publications on BSSO techniques was conducted and combined with the authors' clinical experience. Using this foundation, an original classification was formulated, organising established osteotomy designs according to the position of the buccal cut relative to the mandibular notch. Pre-notch approaches provide broad bony contact and stable outcomes for standard procedures with a thick soft tissue; post-notch techniques reduce inferior border notching and help protect the inferior alveolar nerve, and are therefore indicated for large mandibular movements and thin soft tissues; post-gonial strategies facilitate ramus lengthening and the correction of complex vertical asymmetry. The proposed classification offers a simple, clinically oriented framework that aligns existing BSSO modifications with surgical objectives, and supports more precise and individualised treatment planning.",
+      "objective": ", and supports more precise and individualised treatment planning.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41644312/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2613,6 +2805,96 @@
       "figure_urls": []
     },
     {
+      "pmid": "42622928",
+      "title": "Attention to Self-Related Face or Attractive Face? Neural Activation and Oscillation Evidence from Orthognathic Patients.",
+      "authors": [
+        "Hui Kou",
+        "Qianguo Xiao",
+        "Xiaodong Li",
+        "Jia Wu",
+        "Yuzhen Hu",
+        "Haoran Chen",
+        "Taiyong Bi"
+      ],
+      "publication_date": "2026-Aug-20",
+      "publication_date_iso": "2026-08-20",
+      "abstract": "Attractive faces capture attention. However, the cognitive-behavioral model predicts that individuals with body dysmorphic disorder exhibit a cognitive bias to faces related to their appearance-related self-beliefs. To differentiate between these two mechanisms, we employed electroencephalogram techniques to investigate attentional bias toward faces in orthognathic patients with dento-maxillofacial deformities (DD), who were scheduled to undergo orthognathic surgery to correct these anomalies. We recruited 17 orthognathic patients and 17 controls to complete an oddball task when EEG was recorded. Highly attractive (HA), lowly attractive (LA), and DD faces were used as target stimuli. Waveform analysis revealed that, among controls, HA faces elicited a higher P300 response compared to other faces, a pattern not observed in orthognathic patients. In contrast, time-frequency analysis in the patients showed that DD faces elicited stronger alpha band power initially, and HA faces induced stronger beta band suppression later, a pattern not observed in controls. These findings suggest that attractive faces capture attention in controls. Conversely, orthognathic patients show an initial attentional bias toward DD faces and active attentional suppression of attractive faces, as revealed by neural oscillations in the alpha and beta bands, respectively.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42622928/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42618662",
+      "title": "Population effects and cross-population generalisability of the third molar maturity index for 18-year age classification: a multi-centre study with machine learning validation.",
+      "authors": [
+        "Lei Shi",
+        "Hrvoje Brkić",
+        "Cristiana Palmela Pereira",
+        "Malin Vestin Fredriksson",
+        "Ricardo Henrique Alves da Silva",
+        "Dong Gao",
+        "Marin Vodanović",
+        "Ana Rodrigues",
+        "Krister Sevä",
+        "Paulo Cássio Figueira-Silva",
+        "Jing Huang",
+        "Rui Santos",
+        "Mirela Cristina da Silva",
+        "Yuling Ouyang",
+        "Maria Gabriela Haye Biazevic",
+        "Ivan Galić"
+      ],
+      "publication_date": "2026-Aug-20",
+      "publication_date_iso": "2026-08-20",
+      "abstract": "Accurate forensic age estimation is critical in legal contexts where documentation is unavailable. The Third Molar Maturity Index (I3M) is a quantitative, reproducible method based on the ratio of the open apical width to the length of the mandibular third molar. This multicentre, cross-sectional study evaluated I3M performance for age-threshold classification at 18 years across five populations. A total of 3000 orthopantomograms from individuals aged 13-22 years were collected in Brazil, China, Croatia, Portugal and Sweden. Teeth 38 and 48 were measured, and binary classification (≥ 18 vs. <18 years) was assessed using ROC analysis, hierarchical logistic regression with likelihood ratio testing, and machine learning with leave-one-population-out (LOPO) validation. I3M showed excellent discriminatory performance in all five populations (AUC: 0.917-0.942 for tooth 38). Inter-population differences in I3M distributions were significant; population was an independent predictor of 18-year-old classification. Intra-population sex differences were significant in three populations, with females showing higher I3M values. Optimal cut-off values varied from 0.126 (Croatia) to 0.223 (China). LOPO validation confirmed robust cross-population generalisability (AUC: 0.917-0.958). I3M is a reliable age classification tool across diverse ethnic groups. Population-specific thresholds are recommended when ethnic background is known; when unknown, a conservative threshold of 0.10-0.15 is advised to minimise misclassification of minors.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42618662/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42622917",
+      "title": "Maxillary avascular necrosis after Le Fort I osteotomy: a systematic review of ischemic complications.",
+      "authors": [
+        "Chung-Woo Lee",
+        "Sung-Yun Hwang",
+        "Ladan Esmaeili",
+        "Dae-Seok Hwang"
+      ],
+      "publication_date": "2026-Aug-19",
+      "publication_date_iso": "2026-08-19",
+      "abstract": "Maxillary avascular necrosis (AVN) after Le Fort I osteotomy is rare but potentially devastating. Although injury to the descending palatine artery has traditionally been regarded as a major cause, the relative contribution of individual vascular and surgical factors remains unclear. This systematic review aimed to synthesize the clinical evidence on maxillary AVN after orthognathic surgery and to evaluate whether postoperative ischemic complications are better explained by isolated arterial injury or cumulative vascular compromise. A systematic literature search of PubMed, Scopus, Web of Science, and Embase was performed from database inception to May 2026 in accordance with PRISMA 2020 guidelines. English-language retrospective cohort studies, prospective cohort studies, and case series reporting maxillary AVN or ischemic complications associated with orthognathic surgery were included. Single-case reports, reviews, conference abstracts, editorials, and studies with insufficient clinical data were excluded. Seven studies were included in the qualitative synthesis. Reported ischemic manifestations ranged from tooth discoloration and pulpal necrosis to gingival necrosis, dentoalveolar sequestration, partial maxillary necrosis, and anterior segment AVN. Among cohort studies, clinically significant ischemic complications were uncommon, with reported rates ranging from 0.2% to 3.3%, whereas tooth discoloration reflecting pulpal ischemia was reported in 3.4% of orthognathic surgery patients. Segmented or multisegment Le Fort I osteotomy, transverse expansion, large maxillary advancement, palatal soft-tissue compromise, cleft-related scarring, and previous palatal surgery were repeatedly described among affected patients. However, no single factor consistently explained all reported cases. The relationship between descending palatine artery injury and ischemic complications was inconsistent, and ligation alone was not uniformly associated with AVN. Maxillary AVN after Le Fort I osteotomy is an exceptionally rare but serious complication. The available evidence supports a multifactorial mechanism in which multiple vascular insults cumulatively impair collateral perfusion rather than a mechanism driven by isolated descending palatine artery injury. Surgical prevention should therefore emphasize preservation of overall maxillary perfusion and collateral soft-tissue attachments.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42622917/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42616267",
       "title": "Clinical performance of a conometric retention system for single implant restorations: 1-year analysis of a prospective multicenter study.",
       "authors": [
@@ -2701,32 +2983,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42613171",
-      "title": "Comparison of Two Disc Repositioning Techniques Based on Jaw Motion Analysis-An Ambispective Cohort Study.",
-      "authors": [
-        "Jiangshan Hua",
-        "Jieyun Zhao",
-        "Chuan Lu",
-        "Xin Nie",
-        "Dongmei He"
-      ],
-      "publication_date": "2026-Aug-18",
-      "publication_date_iso": "2026-08-18",
-      "abstract": "Temporomandibular joint (TMJ) disc repositioning (DR) is an effective treatment for anterior disc displacement (ADD). However, postoperative joint motion lacks comprehensive objective evaluation and comparison between different surgical methods. Patients who need TMJ DR surgery at our center between November 2023 and September 2024 were enrolled and divided into 2 groups for comparison: arthroscopic group (AS) and open suturing (OSu) group. Mandibular and condyle movement, pain and quality of life were assessed preoperatively (T0), at 3 months (T1), and 6 months (T2) postoperatively using the ultrasonic Jaw Motion Analyser (JMA; zebris) system and Visual Analog Scale (VAS) scores. The differences between the 2 groups and at different time intervals were compared by generalized estimating equations. A total of 106 patients were included with the median age of 17 years. There were 35 patients in OSu group and 71 in AS group. After DR, maximum mouth opening (MMO) was significantly increased and pain VAS was decreased. However, condylar translation length (CTL) of the DR joint, laterotrusion and protrusion were decreased (p < 0.05), while condylar rotation (CR) was increased (p < 0.05). With no significant differences between AS and OSu groups at T0 (p > 0.05), MMO, CR and laterotrusion were superior in the AS group than OSu group at T1. There were no significant differences between the two groups at T2 (p < 0.05). DR surgery improves MMO by increasing condylar rotation but decreasing condylar translation. AS group demonstrated faster recovery in mandibular movement and pain relief than OSu group.",
-      "objective": "evaluation and comparison between different surgical",
-      "study_methods": "Patients who need TMJ DR surgery at our center between November 2023 and September 2024 were enrolled and divided into 2 groups for comparison: arthroscopic group (AS) and open suturing (OSu) group. Mandibular and condyle movement, pain and quality of life were assessed preoperatively (T0), at 3 months (T1), and 6 months (T2) postoperatively using the ultrasonic Jaw Motion Analyser (JMA; zebris) system and Visual Analog Scale (VAS) scores. The differences between the 2 groups and at different time intervals were compared by generalized estimating equations.",
-      "methods": "Patients who need TMJ DR surgery at our center between November 2023 and September 2024 were enrolled and divided into 2 groups for comparison: arthroscopic group (AS) and open suturing (OSu) group. Mandibular and condyle movement, pain and quality of life were assessed preoperatively (T0), at 3 months (T1), and 6 months (T2) postoperatively using the ultrasonic Jaw Motion Analyser (JMA; zebris) system and Visual Analog Scale (VAS) scores. The differences between the 2 groups and at different time intervals were compared by generalized estimating equations.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42613171/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42611614",
       "title": "The Role of Vitamin D in Plastic and Reconstructive Surgery: A Systematic Review of Human and Animal Studies.",
       "authors": [
@@ -2750,75 +3006,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42611614/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42608592",
-      "title": "Does increased staging complexity influence expert agreement in dental age estimation?",
-      "authors": [
-        "Nikolaos Angelakopoulos",
-        "Rizky Merdietio Boedi",
-        "Stefano De Luca",
-        "Nikita Polukhin",
-        "Akiko Kumagai",
-        "Ivan Galic",
-        "Jeta Kelmendi",
-        "Israel Soriano Vázquez",
-        "Aida Hadzic Selmanagić",
-        "Jorge Pinares Toledo",
-        "Roberto Scendoni",
-        "Daniel Franklin",
-        "Roberta Araujo Pinto",
-        "Lourdes Gómez Jiménez",
-        "Arjeta Neziri",
-        "Emerson Rodrigues",
-        "Pisha Pittayapat",
-        "Pedro Manuel Garamendi-González",
-        "Joe Adserias-Garriga",
-        "Bernhard Knell",
-        "Ademir Franco"
-      ],
-      "publication_date": "2026-Aug-18",
-      "publication_date_iso": "2026-08-18",
-      "abstract": "Dental age estimation (DAE) is a well-established procedure in current practice, and it is frequently required in forensic and legal investigations. This study aimed to evaluate the intra- and inter-observer reliability of dental development staging among forensic practitioners using two widely applied staging systems, according to Demirjian et al. 1973 and Moorrees et al. 1963. The study included 250 anonymized panoramic radiographs of individuals between 6 and 14 years (median age, 10 years), comprising 51.2% males and 48.8% females. Eighteen observers with prior training in DAE independently assessed tooth development on panoramic radiographs using the Demirjian and Moorrees methods, with each method evaluated in two separate rounds. Intra-observer reliability was evaluated using weighted and unweighted Cohen's Kappa, while inter-observer agreement was assessed using Gwet's AC1 and AC2 coefficients. Weighted analyses accounted for the ordinal structure of developmental stages, whereas unweighted analyses reflected exact agreement. Intra-observer reliability was consistently high across both systems, with median weighted Cohen's Kappa values ranging from 0.897 to 0.957 and median unweighted Cohen's Kappa values ranging from 0.836 to 0.944. Inter-observer agreement values averaged across rounds assessed with Gwet's AC2 ranged from 0.914 to 0.987, whereas mean Gwet's AC1 ranged from 0.306 to 0.908, indicating that disagreement was primarily due to adjacent-stage differences. Moorrees staging showed slightly higher reliability under weighted conditions, while Demirjian demonstrated higher exact agreement under unweighted conditions. Agreement increased with the number of observers but reached a plateau at approximately 8-10 observers, suggesting an optimal number of observers for forensic consensus. The results indicated that difficulty in distinguishing adjacent stages, unclear stage boundaries, and overlapping anatomical structures were the main sources of uncertainty. The Moorrees system was perceived as more complex, while Demirjian showed difficulty focused on the root development stages. These findings highlight the importance of methodological considerations in dental age estimation and suggest that refinement of staging systems may further improve the reliability of expert assessment.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "indicated that difficulty in distinguishing adjacent stages, unclear stage boundaries, and overlapping anatomical structures were the main sources of uncertainty. The Moorrees system was perceived as more complex, while Demirjian showed difficulty focused on the root development stages. These findings highlight the importance of methodological considerations in dental age estimation and suggest that refinement of staging systems may further improve the reliability of expert assessment.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42608592/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42608629",
-      "title": "Much Ado About a Mutation: Congenital Melanocytic Nevus With LINC00518 and Preferentially Expressed Antigen in Melanoma Positivity.",
-      "authors": [
-        "Racquel A Bitar",
-        "Tatiana F Abrantes",
-        "Holly Neale",
-        "Birgitta A R Schmidt",
-        "Ingrid M Ganske",
-        "Elena B Hawryluk"
-      ],
-      "publication_date": "2026-Aug-17",
-      "publication_date_iso": "2026-08-17",
-      "abstract": "Small and medium sized congenital melanocytic nevi (CMN) have an overall low risk of malignant potential. This case demonstrates a pediatric patient with a small CMN positive for LINC00518 (LINC) and preferentially expressed antigen in melanoma (PRAME) on a non-invasive molecular test not yet validated in children. Although her nevus had not evolved, the availability of a molecular test and curiosity ultimately raised concern about this otherwise reassuring, stable CMN. This demonstrates the pitfalls of non-invasive testing in pediatric patients with CMN.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42608629/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2924,37 +3111,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42600225/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42593574",
-      "title": "Mandibular ramus split patterns following sagittal split ramus osteotomy - evaluation with multifactorial risk analysis.",
-      "authors": [
-        "Phasathorn Jewrasumnuay",
-        "Shinnosuke Nogami",
-        "Ryuhei Goke",
-        "Atsuya Abe",
-        "Reina Minohara",
-        "Yuki Sugai",
-        "Kyosuke Okuyama",
-        "Shizu Saito",
-        "Yuri Takeda",
-        "Kensuke Yamauchi"
-      ],
-      "publication_date": "2026-Aug-13",
-      "publication_date_iso": "2026-08-13",
-      "abstract": "The present study aimed to identify novel risk factors that influence buccal and lingual split patterns by focusing on individual mandibular ramus patterns in sagittal split ramus osteotomy (SSRO) cases. This retrospective cohort study analyzed 658 splits from patients who underwent an SSRO with the Hunsuck technique. Predictor variables included demographic and mandibular anatomy factors, while split patterns were used as outcome variables. Posterior ramus length and buccal horizontal osteotomy (BHO)-buccal type showed significant correlations with buccal bad split patterns. A 1-mm decrease in posterior ramus length increased the risk by up to 25%. As compared with the BHO-caudal type, BHO-buccal type had up to a 22-fold greater likelihood of pattern induction. For lingual split patterns, age, gender, transverse ramus width, posterior ramus length, and BHO were significant factors, with younger age, male gender, wider transverse ramus width, and BHO-buccal type associated with a higher incidence of long lingual splits, while shorter posterior ramus length and BHO-lingual type were linked to increased incidence of short lingual splits. Buccal and lingual split patterns are associated with patient demographics, and considered to be mandibular anatomical risk factors. While posterior ramus length, age, gender, and transverse ramus width are congenital and uncontrollable, BHO type can be adjusted to prevent complications. The anatomical risk factors identified in this study can help surgeons evaluate individual patients received SSRO for risk as well as treatment planning to prevent complications associated with split patterns.",
-      "objective": "",
-      "study_methods": "This retrospective cohort study analyzed 658 splits from patients who underwent an SSRO with the Hunsuck technique. Predictor variables included demographic and mandibular anatomy factors, while split patterns were used as outcome variables.",
-      "methods": "This retrospective cohort study analyzed 658 splits from patients who underwent an SSRO with the Hunsuck technique. Predictor variables included demographic and mandibular anatomy factors, while split patterns were used as outcome variables.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593574/",
       "pmcid": "",
       "figure_urls": []
     }
