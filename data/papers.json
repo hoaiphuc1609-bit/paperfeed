@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T02:59:10Z",
+  "updated_at": "2026-08-23T03:08:13Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -2952,6 +2952,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "42629250",
+      "title": "Are postoperative pharyngeal airway changes associated with mandibular relapse after setback? A retrospective CBCT-cephalometric cohort study.",
+      "authors": [
+        "M S Rahman",
+        "M-J Jeon",
+        "J-H Park",
+        "S-J Kim",
+        "J-W Kim"
+      ],
+      "publication_date": "2026-Aug-21",
+      "publication_date_iso": "2026-08-21",
+      "abstract": "Postoperative narrowing of the pharyngeal airway is a well‑recognized consequence of mandibular setback surgery, yet whether this functional compromise actually drives skeletal relapse has not been definitively shown. In this retrospective cohort study, records of 41 patients with angle class III malocclusion who underwent orthognathic surgery were analyzed to clarify this relationship. Serial lateral cephalograms and three‑dimensional scans obtained preoperatively, immediately postoperatively, and at follow‑up (mean 1.4 years) were used to quantify total and regional pharyngeal airway volume changes and mandibular relapse, defined as sagittal point B displacement. Demographic characteristics, surgical movements including setback magnitude and SN-MP rotation, osteotomy type, genioplasty, treatment approach, and baseline airway dimensions were incorporated as covariates. Correlation analyses and multivariable linear regression assessed associations between airway changes and relapse while controlling for potential confounders. The mean mandibular surgical movement was -6.32 ± 8.72 mm. There was no significant reduction in total airway volume immediately after surgery or at follow-up, and no significant mandibular relapse occurred. Also, no significant correlation was detected between airway changes and relapse in either immediate postoperative period or follow-up period, whereas greater mandibular setback independently predicted forward relapse (β = -0.64, P < 0.001). These results do not support the notion that compromised airway mechanics precipitate skeletal instability, and instead suggest that airway preservation and mandibular stability may be better conceived as parallel but independent treatment considerations.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "do not support the notion that compromised airway mechanics precipitate skeletal instability, and instead suggest that airway preservation and mandibular stability may be better conceived as parallel but independent treatment considerations.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42629250/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42627492",
       "title": "A Comparison of Clear Aligners and Fixed Appliances in Orthodontic-Surgical Treatment of Non-Extraction Skeletal Class III Malocclusion.",
       "authors": [
@@ -3031,7 +3057,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42622917/",
-      "pmcid": "",
+      "pmcid": "PMC13493723",
       "figure_urls": []
     },
     {
