@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T03:09:39Z",
+  "updated_at": "2026-08-25T03:04:27Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -2979,6 +2979,59 @@
       "figure_urls": []
     },
     {
+      "pmid": "42635767",
+      "title": "Clinical impact and economic burden of electric scooter-related facial fractures in Barcelona.",
+      "authors": [
+        "Alexander Lugilde-Guerbek",
+        "Bernat López-Masramon",
+        "Vicente García Sánchez",
+        "Víctor Andreu-Sola",
+        "J M Collado-Delfa",
+        "Carlos Pueyo Morillo",
+        "Alex Arteaga",
+        "Alejandro Grabosky-Elbaile",
+        "Juan P Barret"
+      ],
+      "publication_date": "2026-Aug-24",
+      "publication_date_iso": "2026-08-24",
+      "abstract": "The landscape of facial trauma has evolved with the integration of micromobility devices into urban environments. This study aimed to characterize the clinical profile of electric scooter (e-scooter) accidents compared with traditional etiologies (traffic, assaults, falls) and evaluate the economic burden imposed on the public health system. A cohort of 119 patients who underwent surgery for facial fractures at a Spanish tertiary hospital between 2020 and 2024 was analyzed. To accurately assess economic impact, a specific subgroup of 51 \"pure facial fractures\"-those with isolated injuries-was utilized for cost analysis. E-scooter users (10.1% of the total cohort) were significantly younger (mean age 27.9 years, p = 0.044), had shorter hospital stays (7.7 days, p = 0.007), and lower ICU requirements (16.7%) than the traditional group. Adverse outcomes accounted for 29.4% of cases overall, with a significantly higher rate in the e-scooter group compared to other etiologies (58.3% vs. 26.2%; p = 0.039). The median cost for an e-scooter injury was €8,092; though higher than other causes, this was not statistically significant (p = 0.33). E-scooters generate complex facial injuries with clinical severity and complication rates comparable to high-energy trauma. The high economic cost and reconstructive complexity, suggest a need for stricter safety regulations, such as mandatory full-face helmets.",
+      "objective": "",
+      "study_methods": "A cohort of 119 patients who underwent surgery for facial fractures at a Spanish tertiary hospital between 2020 and 2024 was analyzed. To accurately assess economic impact, a specific subgroup of 51 \"pure facial fractures\"-those with isolated injuries-was utilized for cost analysis.",
+      "methods": "A cohort of 119 patients who underwent surgery for facial fractures at a Spanish tertiary hospital between 2020 and 2024 was analyzed. To accurately assess economic impact, a specific subgroup of 51 \"pure facial fractures\"-those with isolated injuries-was utilized for cost analysis.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42635767/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42633841",
+      "title": "Determinants of Complication Incidence and Severity in Orthognathic Surgery.",
+      "authors": [
+        "Rabia Tül Adeviye Çankaya",
+        "Nihat Akbulut"
+      ],
+      "publication_date": "2026-Aug-23",
+      "publication_date_iso": "2026-08-23",
+      "abstract": "The purpose of this study was to evaluate the incidence and determinants of complications following orthognathic surgery, with particular emphasis on factors influencing complication severity. This retrospective single-center cohort study included patients who underwent orthognathic surgery between 2016 and 2025. Independent variables included skeletal pattern, surgical movement (<10 mm vs ≥10 mm), type of surgery, fixation method, planning approach, and demographic factors. The primary outcome was perioperative complications, additionally categorized as minor, moderate, or major. Multivariable logistic regression identified independent predictors of complications, and ordinal logistic regression assessed factors associated with increasing complication severity. The sample included 243 patients (mean age 23.4±5.3 years); 152 (62.6%) were female. Complications occurred in 43 patients (17.7%). In multivariable analysis, Class III deformity demonstrated lower odds of complications compared with Class II (OR: 0.33; p = 0.035). Surgical movement ≥10 mm and double-jaw surgery were associated with higher complication rates in univariable analysis but not after adjustment. No significant association was observed for fixation type or planning method. In severity analysis, skeletal classification remained a significant predictor of increasing complication severity. Movements ≥10 mm were associated with a higher frequency of major complications (9.2% vs 0.6%; RR: 14.3; p = 0.001). Complication risk in orthognathic surgery is influenced by both procedural and biomechanical factors. Larger surgical movements may increase the risk of major complications despite similar overall complication rates.",
+      "objective": "of this study was to evaluate the incidence and determinants of complications following orthognathic surgery, with particular emphasis on factors influencing complication severity. This retrospective single-center cohort study included patients who underwent orthognathic surgery between 2016 and 2025. Independent variables included skeletal pattern, surgical movement (<10 mm vs ≥10 mm), type of surgery, fixation",
+      "study_methods": "This retrospective single-center cohort study included patients who underwent orthognathic surgery between 2016 and 2025. Independent variables included skeletal pattern, surgical movement (<10 mm vs ≥10 mm), type of surgery, fixation method, planning approach, and demographic factors. The primary outcome was perioperative complications, additionally categorized as minor, moderate, or major. Multivariable logistic regression identified independent predictors of complications, and ordinal logistic regression assessed factors associated with increasing complication severity.",
+      "methods": "This retrospective single-center cohort study included patients who underwent orthognathic surgery between 2016 and 2025. Independent variables included skeletal pattern, surgical movement (<10 mm vs ≥10 mm), type of surgery, fixation method, planning approach, and demographic factors. The primary outcome was perioperative complications, additionally categorized as minor, moderate, or major. Multivariable logistic regression identified independent predictors of complications, and ordinal logistic regression assessed factors associated with increasing complication severity.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42633841/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42629250",
       "title": "Are postoperative pharyngeal airway changes associated with mandibular relapse after setback? A retrospective CBCT-cephalometric cohort study.",
       "authors": [
@@ -3167,87 +3220,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42611614/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42608236",
-      "title": "Biodegradable versus titanium osteosynthesis in maxillofacial surgery: a randomized controlled trial with 15 years of follow-up.",
-      "authors": [
-        "L Veenman",
-        "N B van Bakelen",
-        "G J Buijs",
-        "T J M Hoppenreijs",
-        "J E Bergsma",
-        "L J Beumer",
-        "B van Minnen",
-        "B Gareb"
-      ],
-      "publication_date": "2026-Aug-17",
-      "publication_date_iso": "2026-08-17",
-      "abstract": "Studies on long-term outcomes of biodegradable versus titanium osteosynthesis in maxillofacial surgery are lacking. This multicentre randomized controlled trial was performed to compare the long-term clinical performance of titanium versus biodegradable osteosynthesis systems at ≥15 years of follow-up. Patients undergoing bilateral sagittal split and/or Le Fort I osteotomies, or treatment for mandible, maxilla, or zygoma fractures at four hospitals were included. Eligible participants (n = 230) were randomly assigned to receive titanium (KLS Martin) or biodegradable (Inion CPS) plates and screws (1:1). The primary outcome was symptomatic osteosynthesis removal. Secondary outcomes included malocclusion, plate palpability, swelling, mandibular function, pain scores, and patient satisfaction. Median follow-up was 16.3 years. Osteosynthesis removal at 15 years was 17.4% in the titanium group and 29.5% in the biodegradable group (hazard ratio 1.88, 95% confidence interval 1.07-3.31, P = 0.028). Notably, 4.5% of titanium group patients required symptomatic removal between 5 years and the latest follow-up, whereas no such removals were needed in the biodegradable group (P = 0.045). Plate palpability was higher in the titanium group (P = 0.004), but no significant difference was found in malocclusion, swelling, pain, or mandibular function scores. Both groups reported high patient satisfaction and excellent function without pain. The intention-to-treat results showed a significantly higher risk of symptomatic osteosynthesis removal after long-term follow-up in the biodegradable group, while the per-protocol analysis revealed a non-significant difference between the groups. There is a lifetime risk of symptomatic titanium plate removal (5% of patients at >5 years of follow-up).",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "showed a significantly higher risk of symptomatic osteosynthesis removal after long-term follow-up in the biodegradable group, while the per-protocol analysis revealed a non-significant difference between the groups. There is a lifetime risk of symptomatic titanium plate removal (5% of patients at >5 years of follow-up).",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42608236/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42607810",
-      "title": "Individualized surgical approach for Brodie's syndrome with facial asymmetry: a case report involving mandibular segmentation.",
-      "authors": [
-        "Andressa Bolognesi Bachesk",
-        "Ana Julia Antunes Pereira",
-        "Maria Clara Belloni",
-        "Diogo Celio Moreira De Goes",
-        "Vitoria Bondezan Pessoa",
-        "Bruna de Lima Piccinin Marcal Costa",
-        "Angelo Jose Pavan"
-      ],
-      "publication_date": "2026-Aug-17",
-      "publication_date_iso": "2026-08-17",
-      "abstract": "Brodie's syndrome is a rare transverse malocclusion, challenging to manage, particularly in adults with significant skeletal involvement. This report describes an unusual clinical case of surgical treatment for a unilateral presentation of Brodie's syndrome using mandibular segmentation, an approach rarely documented in the literature. The patient, an 18-year-old, presented with mandibular deviation, Class II malocclusion, and posterior scissors bite, with an adequately wide maxilla but evident mandibular constriction. Three-dimensional planning guided a bimaxillary surgical intervention that included mandibular segmentation into three parts, advancement genioplasty, xenogeneic bone grafting, and correction of maxillary cant through Le Fort I osteotomy. The integration of virtual planning and patient-specific guides enhanced the predictability of outcomes and minimized risks. After 12 months, a stable functional occlusion and significant esthetic improvement were achieved. This case highlights the value of mandibular segmentation as an effective and safe alternative in selected cases of Brodie's syndrome of mandibular origin.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42607810/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42607234",
-      "title": "Assessment of Virtual Digital Articulation Versus Hand-Articulation Accuracy for Occlusal Registration in Orthognathic Surgery (A Randomized Clinical Trial).",
-      "authors": [
-        "Abdullah G A Alawlaqi",
-        "Mohammed Atef",
-        "Mohamed F Shehab"
-      ],
-      "publication_date": "2026-Aug-17",
-      "publication_date_iso": "2026-08-17",
-      "abstract": "To compare the accuracy of digital occlusal articulation versus hand occlusal articulation for orthognathic surgical planning. This prospective, randomized clinical trial included 18 patients requiring orthognathic surgery, randomly assigned to a digital articulation group (n=9) or a hand articulation group (n=9). Linear displacements (X, Y, Z axes) at 5 maxillary and 5 mandibular landmarks and rotational errors (roll, pitch, and yaw) were measured postoperatively. Three blinded observers performed triplicate measurements. Interobserver reliability was assessed using intraclass correlation coefficients (ICC). Paired t tests were used for comparisons. Clinical tolerance was defined as <2 mm linear and <2 degrees rotational error. Interobserver reliability was excellent for both methods (ICC ≥0.98, P<0.001). In the maxilla, overall mean error was similar between digital (0.378±0.201 mm) and hand (0.353±0.155 mm) groups (P=0.367). In the mandible, the digital method showed significantly larger mean error (0.720±0.281 mm) than hand (0.430±0.268 mm) (P<0.001). Axis-specific differences in the mandible were significant for X (P=0.03), Y (P=0.006), and Z (P=0.005). Rotational errors were <0.5 degrees for all axes except mandibular pitch (0.47 degrees, P=0.04). The largest mean linear error was 1.03 mm (digital mandibular left molar), well below the 2 mm clinical tolerance. Digital occlusal articulation is as accurate as hand articulation in the maxilla and produces statistically larger but clinically acceptable errors in the mandible. Both methods are reliable and suitable for orthognathic surgical planning.",
-      "objective": "",
-      "study_methods": "This prospective, randomized clinical trial included 18 patients requiring orthognathic surgery, randomly assigned to a digital articulation group (n=9) or a hand articulation group (n=9). Linear displacements (X, Y, Z axes) at 5 maxillary and 5 mandibular landmarks and rotational errors (roll, pitch, and yaw) were measured postoperatively. Three blinded observers performed triplicate measurements. Interobserver reliability was assessed using intraclass correlation coefficients (ICC). Paired t tests were used for comparisons. Clinical tolerance was defined as <2 mm linear and <2 degrees rotational error.",
-      "methods": "This prospective, randomized clinical trial included 18 patients requiring orthognathic surgery, randomly assigned to a digital articulation group (n=9) or a hand articulation group (n=9). Linear displacements (X, Y, Z axes) at 5 maxillary and 5 mandibular landmarks and rotational errors (roll, pitch, and yaw) were measured postoperatively. Three blinded observers performed triplicate measurements. Interobserver reliability was assessed using intraclass correlation coefficients (ICC). Paired t tests were used for comparisons. Clinical tolerance was defined as <2 mm linear and <2 degrees rotational error.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42607234/",
       "pmcid": "",
       "figure_urls": []
     }
