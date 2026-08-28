@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T12:39:59Z",
+  "updated_at": "2026-08-28T14:12:48Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -355,7 +355,10 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42404491/",
       "pmcid": "PMC13330503",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13330503/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13330503/bin/ga1.gif"
+      ]
     },
     {
       "pmid": "42381887",
@@ -1114,6 +1117,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42656724",
+      "title": "Dual regulation of inflammation and ferroptosis: An injectable hydrogel targeting macrophages for the treatment of temporomandibular joint osteoarthritis and knee osteoarthritis.",
+      "authors": [
+        "Guangxin Sun",
+        "Shuze Wang",
+        "Zhenning Li",
+        "Xuzhuo Chen",
+        "Wei Wang",
+        "Linxi Zhou"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Osteoarthritis is a common progressive inflammatory degenerative joint disease that causes persistent pain and functional disability. Current treatments are insufficient to halt disease progression; therefore, elucidating the underlying molecular mechanisms and developing targeted local drug delivery systems that intervene in critical pathological nodes are of great clinical significance. This study developed a novel injectable hydrogel drug delivery system (DA-HAMA) based on Hyaluronic acid Methacryloyl (HAMA) to achieve local, sustained-release, and targeted delivery of the small-molecule drug Diminazene aceturate (DA) within the osteoarthritic joint cavity. The study first identified Spermidine/spermine N1-acetyltransferase 1 (SAT1) as a key potential target for inflammation and ferroptosis in OA synovial macrophages through bioinformatics analysis. It further demonstrated that its inhibitor DA effectively suppresses macrophage inflammatory responses and ferroptosis processes in vitro. To overcome DA's rapid metabolism and poor targeting, the DA-HAMA hydrogel was developed. This system not only enables stable drug loading and controlled release but also allows mechanical properties to be adjusted by drug loading concentration, demonstrating excellent structural stability and biocompatibility. In complete Freund's adjuvant (CFA)-induced mouse knee OA and rat temporomandibular joint osteoarthritis (TMJOA) models, intra-articular injection of DA-HAMA hydrogel significantly reduced synovial inflammation, decreased inflammatory cell infiltration, inhibited cartilage destruction, and improved subchondral bone microarchitecture. Its therapeutic effects were closely associated with downregulating inducible nitric oxide synthase (iNOS) expression and upregulating glutathione peroxidase 4 (GPX4) expression in synovial macrophages, confirming its dual anti-inflammatory and anti-ferroptotic functions in vivo. In summary, this study systematically elucidates the potential role of DA in alleviating OA by inhibiting SAT1 and regulating macrophage inflammation and ferroptosis pathways, spanning target discovery, molecular mechanisms, delivery system development, and efficacy validation in vivo. More importantly, it successfully develops a DA-HAMA hydrogel tailored for the joint environment, featuring sustained-release properties and mechanical reinforcement effects, providing a novel therapeutic strategy for localized targeted treatment of OA.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42656724/",
+      "pmcid": "PMC13507843",
+      "figure_urls": []
+    },
+    {
       "pmid": "42626749",
       "title": "Safety and Efficacy of Endoscopic and Microscopic Techniques for Facial Nerve Decompression After Trauma: A Systematic Review and Meta-Analysis.",
       "authors": [
@@ -1381,6 +1411,49 @@
       "figure_urls": []
     },
     {
+      "pmid": "42440125",
+      "title": "Methylation patterns linked to blood pressure in people with HIV exposed to antiretroviral therapy reveal neurovascular and immune pathways.",
+      "authors": [
+        "Samson Okello",
+        "Mariaelisa Graff",
+        "Anne E Justice",
+        "Annie Green Howard",
+        "Beth D Jamieson",
+        "Roger Shih",
+        "Heather McKay",
+        "Sadeep Shrestha",
+        "Jacquelyn Meyers",
+        "Eun-Young Kim",
+        "Seble Kassaye",
+        "Yasmeen Golzar",
+        "David B Hanna",
+        "Madhu Chhanda Choudhary",
+        "Anna A Rubtsova",
+        "Margaret A Fischl",
+        "Katherine C Wu",
+        "Kesava Asam",
+        "Catalina Ramirez",
+        "Bradley E Aouizerat",
+        "Andrew Edmonds",
+        "Kari E North"
+      ],
+      "publication_date": "2026-Oct-01",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Hypertension is a leading contributor to cardiovascular disease in people with HIV (PWH), yet its underlying molecular mechanisms remain poorly understood. We conducted a cross-sectional methylome-wide association study (MWAS) of blood pressure (BP) and arterial hypertension in 1131 PWH (739 women, 392 men; mean age 43 years) in the MACS/WIHS Combined Study (MWCCS), to identify differentially methylated positions (DMPs) and regions (DMRs) associated with SBP, DBP, and hypertension. We identified 59 DMPs associated with SBP and 60 associated with DBP [false discovery rate (FDR) P < 0.05], enriched in vascular, metabolic, and immune pathways. Top DMPs near ATP8B2 gene [3.8% DNA methylation (DNAm) per SD change in SBP], MIR378E gene (- 9.5% DNAm per SD change in SBP), SNORA114 gene (5.2% DNAm per SD change in DBP), and ANXA11 gene (- 7.9% DNAm per SD change in DBP). A total of 204 DMPs were associated with hypertension, including a top hypermethylated DMP near GSE1 gene [odds ratio = 0.014, 95% confidence interval (CI) 0.013-0.015, P = 1.32e -16 ] per 1% increase in DNAm. Gene enrichment analysis showed associations with BP-relevant tissues including kidney, brain, vasculature, and adipose tissue. We found 23 DMRs associated with DBP, including a 19-DMP region in CTBP1 gene, and 136 DMRs associated with hypertension, the largest spanning BAZ2A and LMNTD1 genes. We identified HIV/antiretroviral therapy (ART)-specific and shared epigenetic loci associated with BP traits, implicating neurovascular, renometabolic, and immune-regulatory pathways in HIV/ART-related hypertension.",
+      "objective": "",
+      "study_methods": "We conducted a cross-sectional methylome-wide association study (MWAS) of blood pressure (BP) and arterial hypertension in 1131 PWH (739 women, 392 men; mean age 43 years) in the MACS/WIHS Combined Study (MWCCS), to identify differentially methylated positions (DMPs) and regions (DMRs) associated with SBP, DBP, and hypertension.",
+      "methods": "We conducted a cross-sectional methylome-wide association study (MWAS) of blood pressure (BP) and arterial hypertension in 1131 PWH (739 women, 392 men; mean age 43 years) in the MACS/WIHS Combined Study (MWCCS), to identify differentially methylated positions (DMPs) and regions (DMRs) associated with SBP, DBP, and hypertension.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42440125/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42407181",
       "title": "Unilateral vocal cord paralysis: A comprehensive guide for general radiologists.",
       "authors": [
@@ -1414,36 +1487,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42407172",
-      "title": "A methodology for constructing and assessing a combined experimental and computational validation domain for patient-specific mandibular reconstruction.",
-      "authors": [
-        "Camilla Gironi",
-        "Federico Parisini",
-        "Gregorio Pisaneschi",
-        "Mattia Mele",
-        "Laura Cercenelli",
-        "Francesco Ceccariglia",
-        "Dario Croccolo",
-        "Achille Tarsitano",
-        "Emanuela Marcelli"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "Preclinical assessment of patient-specific mandibular reconstruction plates relies on bench testing and computational modeling, yet existing setups are typically designed on practical grounds without a structured method to ensure their mechanical relevance to the intended clinical context of use (COU). This study proposes and demonstrates a methodology for constructing and assessing a validation domain with experimental and computational components for patient-specific fibula free flap mandibular reconstruction. A clinical reference finite element model (M-COU) representing the reconstructed mandible under physiological clenching conditions was used as an active design tool to derive the validation setup. Parameters were identified through analytical calibration of M-COU reaction forces and refined via a design-of-experiments procedure. The resulting setup was implemented as two coordinated components: a physical validation platform (R-VAL) enabling bench testing of the actual reconstruction plate, and a validation computational model (M-VAL) reproducing the same setting numerically. The resulting setup preserved the dominant mechanical features of the clinical scenario. In consistency analysis against M-COU, M-VAL achieved R2 = 0.75, substantially exceeding literature-based benchmark configurations (R2 = 0.27 and 0.40), and was the only configuration to preserve the clinically relevant stress distribution at the mandibular angle. Comparison between M-VAL and R-VAL showed close agreement in initial structural stiffness (0.6% difference) and local strain distribution (R2 = 0.93; RMSE = 10.9%). The proposed methodology provides a transferable framework for constructing validation domains that are simultaneously experimentally feasible, mechanically interpretable, and grounded in a defined clinical COU.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing setup was implemented as two coordinated components: a physical validation platform (R-VAL) enabling bench testing of the actual reconstruction plate, and a validation computational model (M-VAL) reproducing the same setting numerically. The resulting setup preserved the dominant mechanical features of the clinical scenario. In consistency analysis against M-COU, M-VAL achieved R2 = 0.75, substantially exceeding literature-based benchmark configurations (R2 = 0.27 and 0.40), and was the only configuration to preserve the clinically relevant stress distribution at the mandibular angle. Comparison between M-VAL and R-VAL showed close agreement in initial structural stiffness (0.6% difference) and local strain distribution (R2 = 0.93; RMSE = 10.9%). The proposed methodology provides a transferable framework for constructing validation domains that are simultaneously experimentally feasible, mechanically interpretable, and grounded in a defined clinical COU.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42407172/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42303111",
       "title": "Social inequalities in the use of implant-supported prostheses among older adults: A cross-sectional study.",
       "authors": [
@@ -1469,6 +1512,33 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42303111/",
       "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42657262",
+      "title": "Precautions When Extracting Impacted Third Molars With Impacted Enamel Pearls in the Maxillary Sinus Floor: A Case Report.",
+      "authors": [
+        "Hideki Suito",
+        "Yuuri Oku",
+        "Tomoyuki Kondo",
+        "Kumiko Kamada",
+        "Naito Kurio",
+        "Naoki Maeda"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Cone-beam computed tomography (CBCT) is routinely used before mandibular wisdom tooth extraction to determine its three-dimensional relationship with the mandibular canal. In contrast, the extraction of a maxillary third molar is often planned based on panoramic radiographs alone. Enamel pearls are common at the maxillary molar sites, with prevalence varying by ethnicity; however, their detection based on panoramic radiographs alone is challenging. We herein present the novel case of a 27-year-old woman whose maxillary sinus floor was being elevated and partially perforated by enamel pearls, thereby increasing the risk of sinus perforation area spread, enamel pearl fracture, and displacement into the sinus cavity during extraction as well as postoperative complications. This case illustrates the clinical implications for the surgical management of impacted maxillary third molars located close to the maxillary sinus floor and also emphasizes the value of CBCT imaging for accurate preoperative assessment and surgical planning in such cases.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42657262/",
+      "pmcid": "PMC13508574",
       "figure_urls": []
     },
     {
@@ -2778,6 +2848,47 @@
       "figure_urls": []
     },
     {
+      "pmid": "41770438",
+      "title": "A Computational Framework for Simulating Patient-Specific TMJ Biomechanics Using a Combined Multibody Dynamics and Finite Element Approach.",
+      "authors": [
+        "Farhad Ahmadi",
+        "Shuchun Sun",
+        "Jichao Zhao",
+        "Jian Chen",
+        "Marshall B Wilson",
+        "Brooke Damon",
+        "Yongren Wu",
+        "Konstantinia Almpani",
+        "Rachel Chung",
+        "Priyam Jani",
+        "Peng Chen",
+        "Elizabeth H Slate",
+        "Janice S Lee",
+        "Benedikt Sagl",
+        "Hai Yao"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Biomechanical parameters of the temporomandibular joint (TMJ), such as joint contact forces and intra-articular stresses, are suggested to contribute to the development of temporomandibular joint disorders, but are impractical to measure. In this study, we present a computational framework for evaluating these parameters by integrating a function assessment system and a patient-specific modeling approach. The pipeline consists of acquiring patients' functional and morphological data and developing combined multibody dynamics and finite-element (MBD-FE) models for simulating their specific biting tasks. We demonstrate the approach in a pre-/post-orthognathic surgery scenario and present the measured and simulated outputs. In a three-patient cohort of one Class I control and two surgical patients (one Class II and one Class III patient), surgery was accompanied by functional changes such as increased bite force capacity and shifts in muscle-usage during unilateral first premolar clenching that brought the surgical cases closer to the control case. Also, morphological measurements showed postoperative adaptations in condylar size and joint space. Simulations demonstrated that contralateral joint forces exceeded ipsilateral forces during unilateral biting and predicted regions of concentrated disc stress that coincided with regions of reduced joint gap and poorer articular congruency, highlighting how morphology-function interactions shape local mechanics. By unifying individualized functional inputs and subject-specific geometries, the framework provides a practical basis for patient-tailored assessment of biomechanical parameters and decision support in TMJ care.",
+      "objective": "",
+      "study_methods": "The pipeline consists of acquiring patients' functional and morphological data and developing combined multibody dynamics and finite-element (MBD-FE) models for simulating their specific biting tasks. We demonstrate the approach in a pre-/post-orthognathic surgery scenario and present the measured and simulated outputs.",
+      "methods": "The pipeline consists of acquiring patients' functional and morphological data and developing combined multibody dynamics and finite-element (MBD-FE) models for simulating their specific biting tasks. We demonstrate the approach in a pre-/post-orthognathic surgery scenario and present the measured and simulated outputs.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41770438/",
+      "pmcid": "PMC13063518",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13063518/bin/nihms-2157921-f0001.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13063518/bin/nihms-2157921-f0001.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13063518/bin/nihms-2157921-f0002.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13063518/bin/nihms-2157921-f0002.gif"
+      ]
+    },
+    {
       "pmid": "41702765",
       "title": "Do cortical and medullary bone volume, and retromolar and ramus thickness, influence the sagittal split pattern? A retrospective analysis.",
       "authors": [
@@ -2911,70 +3022,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41428582/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41313314",
-      "title": "Applying Latent Profile Analysis to CLEFT-Q Data: A Framework for Understanding Patient Reported Outcomes in Cleft Care.",
-      "authors": [
-        "Nicholas A Han",
-        "Philip D Tolley",
-        "Jing Huang",
-        "Leanne Magee",
-        "Allison C Hu",
-        "Isabel A Ryan",
-        "Oksana A Jackson",
-        "David W Low",
-        "Scott P Bartlett",
-        "Jesse A Taylor",
-        "Eric C Liao",
-        "Jordan W Swanson"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "ObjectiveTo describe characteristic CLEFT-Q response profiles and patterns in patients with cleft palate and/or lip (CP ± L).DesignRetrospective analysis using latent profile analysis (LPA) to categorize patient-reported outcome responses into distinct profiles.SettingTertiary care pediatric hospital with multidisciplinary cleft team.Patients, ParticipantsPatients aged 8-29 years with CP ± L completing CLEFT-Q questionnaires from September 2021 to June 2025 (n = 596). Total of 923 responses analyzed after excluding 94 responses from patients under 8 years.InterventionsAdministration of the 119-item CLEFT-Q questionnaire prior to clinic visits, measuring appearance, function, and quality of life.Main Outcome Measure(s)Six latent profiles identified through LPA based on CLEFT-Q scores. Secondary outcomes included profile stability and surgical effects.ResultsSix profiles of CLEFT-Q responses emerged among subjects: Universally Affected-Moderate (UA1, n = 228, 24.7%), Universally Affected-Severe (UA2, n = 119, 12.9%), Facial Appearance-Moderate (FA1, n = 183, 19.8%), Facial Appearance-Severe (FA2, n = 56, 6.1%), Social/School/Speech distress (SSS, n = 95, 10.3%), and Minimally Distressed (MD, n = 242, 26.2%). Patients in severe profiles (UA2 and FA2) were older (P < .001) and more likely to have complete cleft lip (P < .001), while patients in the MD profile were younger and more likely to have isolated cleft palate (P < .001). Among 279 patients with longitudinal CLEFT-Q data, 47.5% remained in the same profile at subsequent CLEFT-Q response, with longer follow-up intervals predicting profile change (P = .049).ConclusionsLatent profile analysis categorizes CLEFT-Q responses into six clinically meaningful profiles correlating with demographics and treatment outcomes. This approach may guide personalized cleft care, though additional studies are needed for validation.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Six profiles of CLEFT-Q responses emerged among subjects: Universally Affected-Moderate (UA1, n = 228, 24.7%), Universally Affected-Severe (UA2, n = 119, 12.9%), Facial Appearance-Moderate (FA1, n = 183, 19.8%), Facial Appearance-Severe (FA2, n = 56, 6.1%), Social/School/Speech distress (SSS, n = 95, 10.3%), and Minimally Distressed (MD, n = 242, 26.2%). Patients in severe profiles (UA2 and FA2) were older (P < .001) and more likely to have complete cleft lip (P < .001), while patients in the MD profile were younger and more likely to have isolated cleft palate (P < .001). Among 279 patients with longitudinal CLEFT-Q data, 47.5% remained in the same profile at subsequent CLEFT-Q response, with longer follow-up intervals predicting profile change (P = .049).ConclusionsLatent profile analysis categorizes CLEFT-Q responses into six clinically meaningful profiles correlating with demographics and treatment outcomes. This approach may guide personalized cleft care, though additional studies are needed for validation.",
-      "conclusion": "Latent profile analysis categorizes CLEFT-Q responses into six clinically meaningful profiles correlating with demographics and treatment outcomes. This approach may guide personalized cleft care, though additional studies are needed for validation.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41313314/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41295895",
-      "title": "A Novel Bilateral Cleft Lip Severity Index: Correlation With Long-Term Outcomes.",
-      "authors": [
-        "Jinggang J Ng",
-        "Manisha Banala",
-        "Benjamin Ballard Massenburg",
-        "Jonathan H Sussman",
-        "Meagan Wu",
-        "Dominic J Romeo",
-        "Scott P Bartlett",
-        "David W Low",
-        "Jordan W Swanson",
-        "Jesse A Taylor"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "ObjectiveBilateral cleft lip outcomes are heavily influenced by original anatomic deformity, but a reliable and widely accepted classification of preoperative severity has yet to emerge. This study validates the Bilateral Cleft Lip Severity Index (BCLSI) by assessing interrater reliability and the relationship between preoperative severity and aesthetic outcomes.DesignRetrospective cohort study.SettingTertiary care pediatric hospital.Patients/ParticipantsPatients who underwent lip repair for bilateral cleft lip.InterventionsCleft surgeons and layperson raters graded preoperative cleft severity.Main Outcome Measure(s)Anthropometric analyses and crowdsourced aesthetic assessments using Likert scales and pairwise comparisons.ResultsIntraclass correlation coefficient was 0.94 (95% confidence interval [CI] 0.90-0.97) among cleft surgeon raters (n = 7), 0.84 (95% CI 0.73-0.92) among layperson raters (n = 10), and 0.88 (95% CI 0.80-0.94) in the combined group (n = 17). Among 18 patients, a higher BCLSI correlated with a greater columellar-labial angle (r = 0.686, P = .002). BCLSI predicted pairwise rank-derived coefficients (β = -1.289, P = .015), lateral ratings (β = 0.752, P < .001), frontal ratings (β = 0.440, P = .038), and composite ratings (β = 0.551, P = .006) independent of age at surgery, age at postoperative photograph, history of nasoalveolar molding, lip repair technique, sex, and race. A greater columellar-labial angle correlated with poor lateral (r = .729, P < .001) and composite (r = .471, P = .048) ratings.ConclusionsThe BCLSI demonstrates good interrater reliability among cleft surgeons and layperson raters. A higher BCLSI correlated with a greater columellar-labial angle and predicted poorer nasal appearance ratings by crowdsourced layperson assessments at 5 years postoperatively. The BCLSI is a simple, reliable, and informative tool that can standardize bilateral cleft lip classification and advance cleft outcomes research.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Intraclass correlation coefficient was 0.94 (95% confidence interval [CI] 0.90-0.97) among cleft surgeon raters (n = 7), 0.84 (95% CI 0.73-0.92) among layperson raters (n = 10), and 0.88 (95% CI 0.80-0.94) in the combined group (n = 17). Among 18 patients, a higher BCLSI correlated with a greater columellar-labial angle (r = 0.686, P = .002). BCLSI predicted pairwise rank-derived coefficients (β = -1.289, P = .015), lateral ratings (β = 0.752, P < .001), frontal ratings (β = 0.440, P = .038), and composite ratings (β = 0.551, P = .006) independent of age at surgery, age at postoperative photograph, history of nasoalveolar molding, lip repair technique, sex, and race. A greater columellar-labial angle correlated with poor lateral (r = .729, P < .001) and composite (r = .471, P = .048) ratings.ConclusionsThe BCLSI demonstrates good interrater reliability among cleft surgeons and layperson raters. A higher BCLSI correlated with a greater columellar-labial angle and predicted poorer nasal appearance ratings by crowdsourced layperson assessments at 5 years postoperatively. The BCLSI is a simple, reliable, and informative tool that can standardize bilateral cleft lip classification and advance cleft outcomes research.",
-      "conclusion": "The BCLSI demonstrates good interrater reliability among cleft surgeons and layperson raters. A higher BCLSI correlated with a greater columellar-labial angle and predicted poorer nasal appearance ratings by crowdsourced layperson assessments at 5 years postoperatively. The BCLSI is a simple, reliable, and informative tool that can standardize bilateral cleft lip classification and advance cleft outcomes research.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41295895/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3303,93 +3350,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42627492/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42652838",
-      "title": "Three-Dimensional Changes in Natural Head Position After Bimaxillary Orthognathic Surgery: A Laser-Based Facial Scan Superimposition Study in Skeletal Class II and Class III Patients.",
-      "authors": [
-        "Vincenzo Abbate",
-        "Gianluca Renato De Fazio",
-        "Francesco Maffia",
-        "Eutilia Manzo",
-        "Serena Trotta",
-        "Marco Friscia",
-        "Maria Esposito",
-        "Stefania Troise",
-        "Giovanni Salzano",
-        "Paola Bonavolontà",
-        "Fabio Maglitto",
-        "Giovanni Dell'Aversana Orabona"
-      ],
-      "publication_date": "2026-Aug-20",
-      "publication_date_iso": "2026-08-20",
-      "abstract": "Background/Objectives: Natural head position (NHP) is an important reference for orthodontic and orthognathic assessment. Although postoperative changes in head posture have been reported previously, simultaneous three-dimensional changes across yaw, pitch, and roll in different skeletal classes remain incompletely characterized. This exploratory study quantified six-month changes in three-dimensional head orientation and compared their direction and magnitude between skeletal Class II and Class III patients. Methods: Fifty-four adults (17 Class II, 37 Class III) undergoing Le Fort I osteotomy and bilateral sagittal split osteotomy were evaluated preoperatively (T0) and 6 months postoperatively (T1). Standardized 3D facial surface acquisitions were obtained using a calibrated structured-light scanner and a fixed external Cartesian laser reference. T0 and T1 datasets were registered using stable upper-facial landmarks (nasion and bilateral exocanthia), and changes in yaw, pitch, and roll were calculated within the common external reference system. Results: Statistically significant T0-T1 changes were observed across all three axes in both skeletal groups (p < 0.01). Class II patients showed mean changes of +2.28° in yaw, -1.30° in pitch, and +2.89° in roll, whereas Class III patients showed +4.61°, +1.96°, and +4.04°, respectively. Between-group differences were significant for yaw, pitch, and roll, with an opposite mean pitch direction and larger mean yaw and roll changes in Class III. Conclusions: At six months, this retrospective cohort demonstrated direction-specific changes in three-dimensional head orientation. Because repeated acquisitions, study-specific observer-reliability and measurement-error analyses, an untreated comparator, an independent validation cohort, and functional or patient-reported outcomes were not available, the findings should be interpreted as exploratory measurements rather than evidence of physiological normalization, neuromuscular adaptation, or clinical benefit. Formal prospective validation is required before the workflow can support predictive or patient management recommendations.",
-      "objective": "Natural head position (NHP) is an important reference for orthodontic and orthognathic assessment. Although postoperative changes in head posture have been reported previously, simultaneous three-dimensional changes across yaw, pitch, and roll in different skeletal classes remain incompletely characterized. This exploratory study quantified six-month changes in three-dimensional head orientation and compared their direction and magnitude between skeletal Class II and Class III patients.",
-      "study_methods": "Methods: Fifty-four adults (17 Class II, 37 Class III) undergoing Le Fort I osteotomy and bilateral sagittal split osteotomy were evaluated preoperatively (T0) and 6 months postoperatively (T1). Standardized 3D facial surface acquisitions were obtained using a calibrated structured-light scanner and a fixed external Cartesian laser reference. T0 and T1 datasets were registered using stable upper-facial landmarks (nasion and bilateral exocanthia), and changes in yaw, pitch, and roll were calculated within the common external reference system.",
-      "methods": "Methods: Fifty-four adults (17 Class II, 37 Class III) undergoing Le Fort I osteotomy and bilateral sagittal split osteotomy were evaluated preoperatively (T0) and 6 months postoperatively (T1). Standardized 3D facial surface acquisitions were obtained using a calibrated structured-light scanner and a fixed external Cartesian laser reference. T0 and T1 datasets were registered using stable upper-facial landmarks (nasion and bilateral exocanthia), and changes in yaw, pitch, and roll were calculated within the common external reference system.",
-      "results": "Statistically significant T0-T1 changes were observed across all three axes in both skeletal groups (p < 0.01). Class II patients showed mean changes of +2.28° in yaw, -1.30° in pitch, and +2.89° in roll, whereas Class III patients showed +4.61°, +1.96°, and +4.04°, respectively. Between-group differences were significant for yaw, pitch, and roll, with an opposite mean pitch direction and larger mean yaw and roll changes in Class III.",
-      "conclusion": "At six months, this retrospective cohort demonstrated direction-specific changes in three-dimensional head orientation. Because repeated acquisitions, study-specific observer-reliability and measurement-error analyses, an untreated comparator, an independent validation cohort, and functional or patient-reported outcomes were not available, the findings should be interpreted as exploratory measurements rather than evidence of physiological normalization, neuromuscular adaptation, or clinical benefit. Formal prospective validation is required before the workflow can support predictive or patient management recommendations.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42652838/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42652837",
-      "title": "Features of Aligners and Artificial Intelligence in Surgical-Orthodontic Protocol: A Narrative Communication.",
-      "authors": [
-        "Andrea Varazzani",
-        "Louis Brochet",
-        "Alice Prevost",
-        "Nicolas Graillon",
-        "Pierre Bouletreau"
-      ],
-      "publication_date": "2026-Aug-20",
-      "publication_date_iso": "2026-08-20",
-      "abstract": "Background and Objectives: Dentofacial deformities require a multidisciplinary surgical-orthodontic protocol (SOP) in which orthodontic preparation, orthognathic surgery, postoperative finishing, and retention are closely coordinated to achieve stable functional and aesthetic outcomes. The increasing adoption of clear aligners, digital workflows, and artificial intelligence (AI) has profoundly modified this therapeutic pathway. This communication examines the role of clear-aligner therapy and AI throughout the contemporary surgical-orthodontic protocol, with particular emphasis on their integration into clinical practice. Discussion: From the surgical perspective, clear aligners provide treatment outcomes comparable to those achieved with conventional fixed appliances while offering greater predictability of treatment duration through digital treatment planning. However, their use requires careful management of specific clinical aspects, including surgical timing, intraoperative anchorage, postoperative dentoalveolar stabilisation, transverse dimension management, and retention, all of which demand close collaboration between the orthodontist and the maxillofacial surgeon. The communication also summarises current AI applications in orthodontics and orthognathic surgery, including automated cephalometric analysis, image segmentation, treatment-decision support, virtual patient construction, clear-aligner setup, soft-tissue prediction, refinement-risk assessment, and remote monitoring. Although AI has significantly improved the efficiency, reproducibility, and standardisation of diagnosis and treatment planning, current evidence supports its use as a clinician-supervised decision-support technology rather than as an autonomous system capable of managing the entire orthodontic-surgical pathway. Conclusions: The integration of clear aligners, digital planning, and AI represents an important step toward a more personalised and efficient workflow, while continued clinical validation and multidisciplinary expertise remain essential for achieving predictable long-term outcomes.",
-      "objective": "Dentofacial deformities require a multidisciplinary surgical-orthodontic protocol (SOP) in which orthodontic preparation, orthognathic surgery, postoperative finishing, and retention are closely coordinated to achieve stable functional and aesthetic outcomes. The increasing adoption of clear aligners, digital workflows, and artificial intelligence (AI) has profoundly modified this therapeutic pathway. This communication examines the role of clear-aligner therapy and AI throughout the contemporary surgical-orthodontic protocol, with particular emphasis on their integration into clinical practice. Discussion: From the surgical perspective, clear aligners provide treatment outcomes comparable to those achieved with conventional fixed appliances while offering greater predictability of treatment duration through digital treatment planning. However, their use requires careful management of specific clinical aspects, including surgical timing, intraoperative anchorage, postoperative dentoalveolar stabilisation, transverse dimension management, and retention, all of which demand close collaboration between the orthodontist and the maxillofacial surgeon. The communication also summarises current AI applications in orthodontics and orthognathic surgery, including automated cephalometric analysis, image segmentation, treatment-decision support, virtual patient construction, clear-aligner setup, soft-tissue prediction, refinement-risk assessment, and remote monitoring. Although AI has significantly improved the efficiency, reproducibility, and standardisation of diagnosis and treatment planning, current evidence supports its use as a clinician-supervised decision-support technology rather than as an autonomous system capable of managing the entire orthodontic-surgical pathway.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "The integration of clear aligners, digital planning, and AI represents an important step toward a more personalised and efficient workflow, while continued clinical validation and multidisciplinary expertise remain essential for achieving predictable long-term outcomes.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42652837/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42622928",
-      "title": "Attention to Self-Related Face or Attractive Face? Neural Activation and Oscillation Evidence from Orthognathic Patients.",
-      "authors": [
-        "Hui Kou",
-        "Qianguo Xiao",
-        "Xiaodong Li",
-        "Jia Wu",
-        "Yuzhen Hu",
-        "Haoran Chen",
-        "Taiyong Bi"
-      ],
-      "publication_date": "2026-Aug-20",
-      "publication_date_iso": "2026-08-20",
-      "abstract": "Attractive faces capture attention. However, the cognitive-behavioral model predicts that individuals with body dysmorphic disorder exhibit a cognitive bias to faces related to their appearance-related self-beliefs. To differentiate between these two mechanisms, we employed electroencephalogram techniques to investigate attentional bias toward faces in orthognathic patients with dento-maxillofacial deformities (DD), who were scheduled to undergo orthognathic surgery to correct these anomalies. We recruited 17 orthognathic patients and 17 controls to complete an oddball task when EEG was recorded. Highly attractive (HA), lowly attractive (LA), and DD faces were used as target stimuli. Waveform analysis revealed that, among controls, HA faces elicited a higher P300 response compared to other faces, a pattern not observed in orthognathic patients. In contrast, time-frequency analysis in the patients showed that DD faces elicited stronger alpha band power initially, and HA faces induced stronger beta band suppression later, a pattern not observed in controls. These findings suggest that attractive faces capture attention in controls. Conversely, orthognathic patients show an initial attentional bias toward DD faces and active attentional suppression of attractive faces, as revealed by neural oscillations in the alpha and beta bands, respectively.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42622928/",
       "pmcid": "",
       "figure_urls": []
     }
