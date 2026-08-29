@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T14:12:48Z",
+  "updated_at": "2026-08-29T08:49:19Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1265,6 +1265,30 @@
       "figure_urls": []
     },
     {
+      "pmid": "42575734",
+      "title": "Letter to the Editor on \"From static to robotic: evolving mavigation systems in oral and maxillofacial surgery\".",
+      "authors": [
+        "Jannu Neeraja",
+        "Moturu Seshu",
+        "Veeraiyah Thangasamy"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575734/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42573189",
       "title": "Radiological Late Dental Adverse Effects Following Treatment for Paediatric Head and Neck Rhabdomyosarcoma: Results of a Transatlantic Multicentre Cohort Study.",
       "authors": [
@@ -1325,6 +1349,55 @@
       "figure_urls": []
     },
     {
+      "pmid": "42557214",
+      "title": "Reply to Letter to the Editor on \"From static to robotic: evolving mavigation systems in oral and maxillofacial surgery\".",
+      "authors": [
+        "Abinav Sundar T",
+        "Pratiksha Shetty",
+        "Padmaraj Hegde",
+        "Shreya Sridharan"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42557214/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42557212",
+      "title": "Letter to the Editor on \"Clinical decision-making regarding histopathologic submission of tooth-associated lesional tissue\".",
+      "authors": [
+        "Neha Jain",
+        "Saksham Nahar",
+        "Rakesh Nagaraju"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42557212/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42502792",
       "title": "Radiographic evolution of a dentigerous cyst associated with a deeply impacted mandibular first molar in a pediatric patient: a CBCT-based longitudinal case report with minimal-visit orthodontic management.",
       "authors": [
@@ -1348,6 +1421,42 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42502792/",
       "pmcid": "PMC13400236",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42502020",
+      "title": "Reply to Letter to the Editor on \"Agreement between clinical and histopathological diagnoses of oral-maxillofacial lesions: a multicenter study\" Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology.",
+      "authors": [
+        "Caroline Augusta Belo Faria",
+        "Weslay Rodrigues da Silva",
+        "Jonathan França da Silva Cavalcanti",
+        "Sebastião Silvério de Sousa",
+        "Diego Antonio Costa Arantes",
+        "Débora Frota Colares",
+        "Maria Carolina Magalhães de Carvalho",
+        "Lucas Guimarães Abreu",
+        "Luísa Silva Camey",
+        "Caio César da Silva Barros",
+        "Elismauro Mendonça",
+        "Lélia Batista de Souza",
+        "Ricardo Alves Mesquita",
+        "Marcia Maria da Silveira",
+        "Ana Paula Veras Sobral"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42502020/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -1381,22 +1490,21 @@
       "figure_urls": []
     },
     {
-      "pmid": "42495756",
-      "title": "TPD54 contributes to docetaxel resistance through modulation of P‑glycoprotein localization and activity in oral squamous cell carcinoma cells.",
+      "pmid": "42469119",
+      "title": "High-resolution imaging of the mandibular nerve using 3D double-echo steady-state MRI and a 15-channel mandibular coil.",
       "authors": [
-        "Maki Nara",
-        "Yoshiki Mukudai",
-        "Masataka Watanabe",
-        "Nodoka Kindaichi",
-        "Konomi Yamada",
-        "Yuzo Abe",
-        "Toshikazu Shimane",
-        "Tatsuo Shirota",
-        "Seigo Ohba"
+        "Nada Al-Haj Husain",
+        "Egon Burian",
+        "Bernd Stadlinger",
+        "Adib Al-Haj Husain",
+        "Maximilian Eberhard Hermann Wagner",
+        "Harald Essig",
+        "Hatem Alkadhi",
+        "Sebastian Winklhofer"
       ],
       "publication_date": "2026-Oct",
       "publication_date_iso": "2026-10-01",
-      "abstract": "Tumor protein D52 (TPD52) family proteins are involved in the proliferation, survival and malignant progression of oral squamous cell carcinoma (OSCC). However, their roles in chemoresistance remain incompletely understood. The present study investigated the contribution of TPD52 family proteins to anticancer drug resistance, with particular emphasis on tumor protein D54 (TPD54). OSCC cells were treated with cisplatin, 5‑fluorouracil, or docetaxel (DTX), and the expression of TPD52 family members was examined. Gain‑ and loss‑of‑function analyses were performed to evaluate cell viability, apoptotic responses, cytochrome p450 (P450) and P‑glycoprotein (P‑gp) activities, protein expression, intracellular localization and membrane/cytosol distribution. Anticancer drug treatment increased the expression of TPD52, TPD53 and TPD54. Among these family members, TPD54 showed the strongest association with DTX resistance by attenuating the reduction in cell viability without affecting cell‑cycle progression. TPD54 overexpression attenuated DTX‑associated apoptotic responses and was associated with changes in apoptosis‑, ferroptosis‑, and autophagy‑related marker proteins. TPD54 expression had little effect on the activities of P450 3A4 or P450 1B1 but significantly increased P‑gp activity. Membrane/cytosol fractionation demonstrated increased membrane localization of endogenous P‑gp following TPD54 overexpression, whereas co‑immunoprecipitation and immunocytofluorescence analyses revealed an association and partial co‑localization between TPD54 and P‑gp. These findings suggest that TPD54 contributes to DTX resistance in OSCC cells through modulation of P‑gp localization and activity. The present study identifies TPD54 as a potential contributor to P‑gp‑associated chemoresistance and provides a basis for further investigation of the molecular mechanisms underlying multidrug resistance in OSCC.",
+      "abstract": "To evaluate the feasibility of an optimized high-resolution three-dimensional (3D) double-echo steady-state (DESS) magnetic resonance imaging (MRI) sequence, combined with a dedicated 15-channel mandibular coil, on 3T MRI for visualization of the mandibular nerve and its six peripheral branches in healthy volunteers. Images from 21 participants were assessed by three readers with varying levels of experience and medical specialties. Overall image quality, artifact presence, and nerve continuity across the proximal and distal segments of the masseteric, buccal, auriculotemporal, lingual, inferior alveolar, and mylohyoid nerves were evaluated using 5-point visual rating scales (5 = best, 1 = worst). Descriptive statistics and inter-reader agreement using Krippendorff's alpha (α) were calculated. Image quality was consistently rated as excellent with minimal artifacts (median 5, IQR 5-5) and high inter-reader agreement (α = 0.87-0.92). Continuous visualization of proximal and distal segments was achieved for most branches, particularly the inferior alveolar and lingual nerves (median 5, IQR 5-5). Visualization of thinner branches, including the masseteric, mylohyoid, and buccal nerves, was more challenging (median 4-4.5). Overall inter-reader agreement for nerve continuity assessment ranged from good to perfect (α = 0.79-1.0). An optimized high-resolution 3D-DESS sequence, combined with a dedicated mandibular coil, enables reliable and reproducible visualization of the mandibular nerve and its peripheral branches.",
       "objective": "",
       "study_methods": "",
       "methods": "",
@@ -1404,85 +1512,9 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery"
+        "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42495756/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42440125",
-      "title": "Methylation patterns linked to blood pressure in people with HIV exposed to antiretroviral therapy reveal neurovascular and immune pathways.",
-      "authors": [
-        "Samson Okello",
-        "Mariaelisa Graff",
-        "Anne E Justice",
-        "Annie Green Howard",
-        "Beth D Jamieson",
-        "Roger Shih",
-        "Heather McKay",
-        "Sadeep Shrestha",
-        "Jacquelyn Meyers",
-        "Eun-Young Kim",
-        "Seble Kassaye",
-        "Yasmeen Golzar",
-        "David B Hanna",
-        "Madhu Chhanda Choudhary",
-        "Anna A Rubtsova",
-        "Margaret A Fischl",
-        "Katherine C Wu",
-        "Kesava Asam",
-        "Catalina Ramirez",
-        "Bradley E Aouizerat",
-        "Andrew Edmonds",
-        "Kari E North"
-      ],
-      "publication_date": "2026-Oct-01",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "Hypertension is a leading contributor to cardiovascular disease in people with HIV (PWH), yet its underlying molecular mechanisms remain poorly understood. We conducted a cross-sectional methylome-wide association study (MWAS) of blood pressure (BP) and arterial hypertension in 1131 PWH (739 women, 392 men; mean age 43 years) in the MACS/WIHS Combined Study (MWCCS), to identify differentially methylated positions (DMPs) and regions (DMRs) associated with SBP, DBP, and hypertension. We identified 59 DMPs associated with SBP and 60 associated with DBP [false discovery rate (FDR) P < 0.05], enriched in vascular, metabolic, and immune pathways. Top DMPs near ATP8B2 gene [3.8% DNA methylation (DNAm) per SD change in SBP], MIR378E gene (- 9.5% DNAm per SD change in SBP), SNORA114 gene (5.2% DNAm per SD change in DBP), and ANXA11 gene (- 7.9% DNAm per SD change in DBP). A total of 204 DMPs were associated with hypertension, including a top hypermethylated DMP near GSE1 gene [odds ratio = 0.014, 95% confidence interval (CI) 0.013-0.015, P = 1.32e -16 ] per 1% increase in DNAm. Gene enrichment analysis showed associations with BP-relevant tissues including kidney, brain, vasculature, and adipose tissue. We found 23 DMRs associated with DBP, including a 19-DMP region in CTBP1 gene, and 136 DMRs associated with hypertension, the largest spanning BAZ2A and LMNTD1 genes. We identified HIV/antiretroviral therapy (ART)-specific and shared epigenetic loci associated with BP traits, implicating neurovascular, renometabolic, and immune-regulatory pathways in HIV/ART-related hypertension.",
-      "objective": "",
-      "study_methods": "We conducted a cross-sectional methylome-wide association study (MWAS) of blood pressure (BP) and arterial hypertension in 1131 PWH (739 women, 392 men; mean age 43 years) in the MACS/WIHS Combined Study (MWCCS), to identify differentially methylated positions (DMPs) and regions (DMRs) associated with SBP, DBP, and hypertension.",
-      "methods": "We conducted a cross-sectional methylome-wide association study (MWAS) of blood pressure (BP) and arterial hypertension in 1131 PWH (739 women, 392 men; mean age 43 years) in the MACS/WIHS Combined Study (MWCCS), to identify differentially methylated positions (DMPs) and regions (DMRs) associated with SBP, DBP, and hypertension.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42440125/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42407181",
-      "title": "Unilateral vocal cord paralysis: A comprehensive guide for general radiologists.",
-      "authors": [
-        "Caprioli Simone",
-        "Nizzi Edoardo",
-        "Borda Fabio",
-        "Fiannacca Martina",
-        "Kodheli Xhimi",
-        "Falcitano Laura",
-        "Pamparino Silvia",
-        "Gili Riccardo",
-        "Conforti Cristina",
-        "Lovino Camerino Paola",
-        "Castellan Lucio",
-        "Cittadini Giuseppe"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "Unilateral vocal cord paralysis (UVCP) is characterized by the immobility of a hemilarynx resulting from neurological dysfunction. The laryngeal intrinsic muscles are innervated by the recurrent laryngeal nerve (RLN), a branch of the vagus nerve (VN). Pathological processes affecting the motor nucleus of the VN (nucleus ambiguus), the VN itself, or the RLN can result in UVCP. Crucially, UVCP must be distinguished from mechanical vocal cord hypomobility caused by local laryngeal factors. This review aims to provide a structured radiological guide for the evaluation of UVCP, focusing on the relevant clinical assessment, optimized imaging protocols, laryngeal anatomy, radiological signs of UVCP, and the anatomical pathways of the vagus and recurrent laryngeal nerves. A comprehensive review of current literature and clinical imaging standards was performed to synthetize a diagnostic approach for identifying UVCP ant its underlying causes from the brainstem to the neck and mediastinum. Condition causing UVCP may occur anywhere from the brainstem to the mediastinum and include inflammatory, vascular, and neoplastic diseases. By utilizing a structured anatomical approach, radiologists can systematically evaluate the nerve's entire course. However, while imaging is highly effective at detecting organic lesions, a significant number of cases remains idiopathic. Imaging is critical for identifying the site and nature of damage causing UVCP. A structured diagnostic approach ensures accurate evaluation of all potential causative lesions from the central nervous system to the chest, significantly impacting patient management.",
-      "objective": "to provide a structured radiological guide for the evaluation of UVCP, focusing on the relevant clinical assessment, optimized imaging protocols, laryngeal anatomy, radiological signs of UVCP, and the anatomical pathways of the vagus and recurrent laryngeal nerves. A comprehensive review of current literature and clinical imaging standards was performed to synthetize a diagnostic approach for identifying UVCP ant its underlying causes from the brainstem to the neck and mediastinum. Condition causing UVCP may occur anywhere from the brainstem to the mediastinum and include inflammatory, vascular, and neoplastic diseases. By utilizing a structured anatomical approach, radiologists can systematically evaluate the nerve's entire course. However, while imaging is highly effective at detecting organic lesions, a significant number of cases remains idiopathic. Imaging is critical for identifying the site and nature of damage causing UVCP. A structured diagnostic approach ensures accurate evaluation of all potential causative lesions from the central nervous system to the chest, significantly impacting patient management.",
-      "study_methods": "A comprehensive review of current literature and clinical imaging standards was performed to synthetize a diagnostic approach for identifying UVCP ant its underlying causes from the brainstem to the neck and mediastinum.",
-      "methods": "A comprehensive review of current literature and clinical imaging standards was performed to synthetize a diagnostic approach for identifying UVCP ant its underlying causes from the brainstem to the neck and mediastinum.",
-      "results": "ing from neurological dysfunction. The laryngeal intrinsic muscles are innervated by the recurrent laryngeal nerve (RLN), a branch of the vagus nerve (VN). Pathological processes affecting the motor nucleus of the VN (nucleus ambiguus), the VN itself, or the RLN can result in UVCP. Crucially, UVCP must be distinguished from mechanical vocal cord hypomobility caused by local laryngeal factors. This review aims to provide a structured radiological guide for the evaluation of UVCP, focusing on the relevant clinical assessment, optimized imaging protocols, laryngeal anatomy, radiological signs of UVCP, and the anatomical pathways of the vagus and recurrent laryngeal nerves. A comprehensive review of current literature and clinical imaging standards was performed to synthetize a diagnostic approach for identifying UVCP ant its underlying causes from the brainstem to the neck and mediastinum. Condition causing UVCP may occur anywhere from the brainstem to the mediastinum and include inflammatory, vascular, and neoplastic diseases. By utilizing a structured anatomical approach, radiologists can systematically evaluate the nerve's entire course. However, while imaging is highly effective at detecting organic lesions, a significant number of cases remains idiopathic. Imaging is critical for identifying the site and nature of damage causing UVCP. A structured diagnostic approach ensures accurate evaluation of all potential causative lesions from the central nervous system to the chest, significantly impacting patient management.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42407181/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42469119/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1512,6 +1544,56 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42303111/",
       "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42248704",
+      "title": "Diagnosis and treatment of medication-related osteonecrosis of the jaws: a cohort study over 20 years.",
+      "authors": [
+        "Iben Poulsen",
+        "Sanne Werner Moeller Andersen",
+        "Simon Storgaard Jensen",
+        "Thomas Kofod"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "To provide a comprehensive cohort profile of patients diagnosed with medication-related osteonecrosis of the jaw (MRONJ) in the Copenhagen ONJ Cohort-a 20-year longitudinal cohort. This observational cohort study included all patients diagnosed with MRONJ at the Department of Oral and Maxillofacial Surgery, Copenhagen University Hospital, between January 1, 2005, and December 31, 2024. Demographic, disease-related, and treatment variables were prospectively recorded during clinical visits and retrospectively supplemented through review of medical records. Descriptive statistics were calculated, and subgroup comparisons were performed according to antiresorptive therapy (AR) exposure or underlying disease. A total of 934 patients were included. The mean age was 71.6 years (standard deviation ±10.8), and 693 (68.4%) were female. The most common indications for AR were osteoporosis, breast cancer, prostate cancer, and multiple myeloma. Conservative management was applied in 18.1% of patients, whereas 81.9% underwent surgical interventions. Tooth removal was identified as the most frequent triggering event of MRONJ (52.9%). Differences in demographics, comorbidities, and concomitant use of systemic corticosteroids, immunosuppressive agents, and antiangiogenic medications were observed across AR-dose groups. The Copenhagen ONJ Cohort provides robust insights into the epidemiology, risk factors, and management of MRONJ, supporting further investigation into the association between cumulative AR exposure and MRONJ development.",
+      "objective": "",
+      "study_methods": "This observational cohort study included all patients diagnosed with MRONJ at the Department of Oral and Maxillofacial Surgery, Copenhagen University Hospital, between January 1, 2005, and December 31, 2024. Demographic, disease-related, and treatment variables were prospectively recorded during clinical visits and retrospectively supplemented through review of medical records. Descriptive statistics were calculated, and subgroup comparisons were performed according to antiresorptive therapy (AR) exposure or underlying disease.",
+      "methods": "This observational cohort study included all patients diagnosed with MRONJ at the Department of Oral and Maxillofacial Surgery, Copenhagen University Hospital, between January 1, 2005, and December 31, 2024. Demographic, disease-related, and treatment variables were prospectively recorded during clinical visits and retrospectively supplemented through review of medical records. Descriptive statistics were calculated, and subgroup comparisons were performed according to antiresorptive therapy (AR) exposure or underlying disease.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42248704/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42662887",
+      "title": "Risks and mitigations of substance use disorders with dental procedures-related opioid prescriptions: A systematic review.",
+      "authors": [
+        "Ruben Mikaelyan",
+        "Alex Alvarado",
+        "Carol Kunzel",
+        "Sean X Luo"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Dental opioid prescriptions remain one of the most common initial exposures to opioids worldwide. Although opioid prescribing in dentistry has declined, even limited exposure to opioids may be a significant risk factor for developing Opioid Use Disorder (OUD), particularly in younger populations. This review evaluates the existing literature on dental opioid prescriptions and the development of OUD, identifies procedural and patient-related risk factors, and assesses the effectiveness of existing intervention strategies. Following the PRISMA guidelines, a comprehensive literature search was conducted across MEDLINE, Embase, PsycINFO, Web of Science, and CENTRAL from January 2011 to July 2026. Eligible studies examined opioid prescribing in dental alveolar surgeries, related OUD/SUD outcomes, and preventative interventions. From an initial 1008 identified records, 12 studies met the final inclusion criteria for qualitative synthesis. Observational studies showed that factors significantly associated with persistent opioid use or adverse outcomes included higher prescribed opioid doses, prior substance use disorder, public or Medicaid insurance, younger age, female sex, and complex chronic medical conditions. Notably, patients undergoing low-pain dental procedures who received opioids demonstrated the highest relative risk for short-term persistent use. Five studies evaluated interventions, finding that short behavioral counseling and opioid-sparing pharmacologic strategies, specifically liposomal bupivacaine and preemptive intravenous paracetamol, effectively reduced postoperative opioid consumption. However, none of the included intervention studies had sufficient follow-up to evaluate the direct prevention of clinical OUD. Future research should prioritize prospective longitudinal studies and randomized controlled trials to evaluate interventions that safely reduce opioid exposure and definitively prevent OUD following dental procedures.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42662887/",
+      "pmcid": "PMC13521135",
       "figure_urls": []
     },
     {
@@ -2706,65 +2788,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41980492",
-      "title": "Impact of guide design and accuracy of mini-implant placement in the anterior palate: A systematic review.",
-      "authors": [
-        "Lars Stucki",
-        "Martin Kauke-Navarro",
-        "Julia Schwab",
-        "Andreas Hoenigl",
-        "Ali-Farid Safi"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Digitally designed insertion guides ensure precise placement of orthodontic mini-implants, offering controlled insertion. However, the transfer accuracy of these guides can vary across different designs, impacting their effectiveness in clinical application. A systematic review was conducted using PubMed, Google Scholar, Cochrane and Livivo. The search focused on the impact of insertion guide design on transfer accuracy of orthodontic mini-implants in the anterior palate. In total, 101 records were identified, of which 10 were included. The quality of the included studies was assessed by the JBI critical appraisal tool. A two-step independent review process was implemented. Overall, guided insertion showed small deviations, typically<1mm and<7°. In an in vivo RCT, full-arch guides achieved 0.73±0.47mm (head), 1.47±1.30mm (tip) and 5.55±4.88° vs. skeletonized 1.01±0.55mm, 2.00±1.01mm and 6.44±3.36° (P=0.021; P=0.011). Cadaver data confirmed full-arch superiority: parallelism 5.19°±2.71° vs. 10.41°±7.29° (P=0.03) and vertical deviation -0.17mm vs. +0.65mm (P=0.001). Tooth-borne vs. gingiva-borne guides reduced lateral deviation from 1.65±1.03mm to 0.88±0.46mm (P=0.004) and sagittal angulation from 6.46±5.50° to 3.67±2.25° (P=0.043). Palatal TAD placement using insertion guides is highly accurate. The available literature suggests that full-arch guides outperform skeletonized and gingiva-borne guides and are particularly recommended for single-visit protocols and anatomically challenging cases.",
-      "objective": "",
-      "study_methods": "A systematic review was conducted using PubMed, Google Scholar, Cochrane and Livivo. The search focused on the impact of insertion guide design on transfer accuracy of orthodontic mini-implants in the anterior palate. In total, 101 records were identified, of which 10 were included. The quality of the included studies was assessed by the JBI critical appraisal tool. A two-step independent review process was implemented.",
-      "methods": "A systematic review was conducted using PubMed, Google Scholar, Cochrane and Livivo. The search focused on the impact of insertion guide design on transfer accuracy of orthodontic mini-implants in the anterior palate. In total, 101 records were identified, of which 10 were included. The quality of the included studies was assessed by the JBI critical appraisal tool. A two-step independent review process was implemented.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41980492/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41966461",
-      "title": "Racial Equity in Facial Laceration Repair: Evaluating a Pediatric Plastic Surgery Consult Guideline.",
-      "authors": [
-        "David M Mills",
-        "Isabella G Steidley",
-        "Elizabeth M Waltman",
-        "Amir A Kimia",
-        "Michael C Monuteaux",
-        "Todd W Lyons",
-        "Andrew F Miller",
-        "Chris A Rees",
-        "Assaf Landschaft",
-        "Amanda M Stewart",
-        "Ingrid Ganske",
-        "Eric W Fleegler"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Facial lacerations are of particular concern to families due to the potential for adverse long-term cosmetic outcomes. Plastic surgery consultation may be requested for facial laceration repair at specialized centers, yet multiple factors may drive inequitable access to care. The objective of this study was to evaluate whether racial and ethnic inequities existed in plastic surgery consultation rates for facial laceration repair. This was a retrospective cross-sectional study of facial laceration repairs between 2016 and 2022 at a single-center, urban quaternary care freestanding children's hospital. All patients aged 0-18 years who received a facial laceration repair in the pediatric emergency department were included. A clinical practice guideline for plastic surgery consultation was implemented in March 2020. A total of 6,938 unique laceration encounters were included in the study. Unadjusted plastic surgery repair rates in the preguideline period were 8.5% (n=71 of 832) for Hispanic, 6.7% (n=31 of 462) for non-Hispanic Black, and 28.5% (n=639 of 2,241) for non-Hispanic White patients, and after guideline implementation, the rates were 5.9% (n=17 of 286) for Hispanic, 7.3% (n=9 of 124) for non-Hispanic Black, and 11.9% (n=103 of 867) for non-Hispanic White patients. Prior to the clinical practice guideline implementation, non-Hispanic Black patients had significantly lower odds of plastics repair than non-Hispanic White patients (AOR=0.18; 95% CI=0.11, 0.29). After clinical practice guideline implementation, no statistically significant difference was detected (AOR=0.63; 95% CI=0.30, 1.31). Previously unrecognized health inequities in plastic surgery consultation rates existed prior to and statistically resolved after implementation of a consultation guideline for facial laceration repair. This study provides insight into the potential secondary benefits of guideline implementation to reduce health inequities, yet persistent differing rates of plastic surgery repair by race and ethnicity in the postguideline period underscore the limitations of sole reliance on standardized guidelines to address racial and ethnic inequities in care.",
-      "objective": "of this study was to evaluate whether racial and ethnic inequities existed in plastic surgery consultation rates for facial laceration repair. This was a retrospective cross-sectional study of facial laceration repairs between 2016 and 2022 at a single-center, urban quaternary care freestanding children's hospital. All patients aged 0-18 years who received a facial laceration repair in the pediatric emergency department were included. A clinical practice guideline for plastic surgery consultation was implemented in March 2020. A total of 6,938 unique laceration encounters were included in the study. Unadjusted plastic surgery repair rates in the preguideline period were 8.5% (n=71 of 832) for Hispanic, 6.7% (n=31 of 462) for non-Hispanic Black, and 28.5% (n=639 of 2,241) for non-Hispanic White patients, and after guideline implementation, the rates were 5.9% (n=17 of 286) for Hispanic, 7.3% (n=9 of 124) for non-Hispanic Black, and 11.9% (n=103 of 867) for non-Hispanic White patients. Prior to the clinical practice guideline implementation, non-Hispanic Black patients had significantly lower odds of plastics repair than non-Hispanic White patients (AOR=0.18; 95% CI=0.11, 0.29). After clinical practice guideline implementation, no statistically significant difference was detected (AOR=0.63; 95% CI=0.30, 1.31). Previously unrecognized health inequities in plastic surgery consultation rates existed prior to and statistically resolved after implementation of a consultation guideline for facial laceration repair. This study provides insight into the potential secondary benefits of guideline implementation to reduce health inequities, yet persistent differing rates of plastic surgery repair by race and ethnicity in the postguideline period underscore the limitations of sole reliance on standardized guidelines to address racial and ethnic inequities in care.",
-      "study_methods": "This was a retrospective cross-sectional study of facial laceration repairs between 2016 and 2022 at a single-center, urban quaternary care freestanding children's hospital. All patients aged 0-18 years who received a facial laceration repair in the pediatric emergency department were included. A clinical practice guideline for plastic surgery consultation was implemented in March 2020.",
-      "methods": "This was a retrospective cross-sectional study of facial laceration repairs between 2016 and 2022 at a single-center, urban quaternary care freestanding children's hospital. All patients aged 0-18 years who received a facial laceration repair in the pediatric emergency department were included. A clinical practice guideline for plastic surgery consultation was implemented in March 2020.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41966461/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41933430",
       "title": "Assessing the Area Deprivation Index in Relation to Orbital Floor Fractures.",
       "authors": [
@@ -2818,6 +2841,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "41819450",
+      "title": "Frontal facial analysis of male celebrities attractiveness standards through artificial intelligence.",
+      "authors": [
+        "Ricardo Grillo",
+        "Thiago José Domingues de Andrade",
+        "Luiz Augusto Rodrigues Dos Santos",
+        "Sahand Samieirad",
+        "Lais Albuquerque Fernandes",
+        "Fernando Melhem-Elias"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "The modern emphasis on celebrities' facial features highlights their increasing role in defining beauty ideals. This retrospective study used artificial intelligence to examine how facial patterns influence attractiveness standards in the profile views of male celebrities. It aimed to compare different racial groups and establish potential benchmarks for appealing facial profiles. In this retrospective cohort study, a Python-based algorithm analyzed frontal facial patterns and their effect on aesthetic standards using publicly available images of male celebrities worldwide. Eight ideal angular or proportional measurements, identified from existing literature, were trained as a reference for assessing facial attractiveness. Demographic data were summarized statistically. A one-way ANOVA test was used to evaluate data distribution, and differences between group means were analyzed with nonparametric independent sample tests, considering results statistically significant at p < 0.05. Facial analysis of 156 male celebrities across six ethnic groups revealed both universal patterns and subtle ethnic variations. A fundamental lower > superior > middle facial third hierarchy was confirmed across all groups with the lower third being dominant (p < 0.001). The zygomatic-mandibular ratio showed remarkable stability (approx. 90 %) and homogeneity across populations, despite significant differences in absolute dimensions (p < 0.001). Key proportional relationships (e.g., nose-to-mouth ratio: 0.70-0.73) were more consistent than absolute measurements. Significant intergroup differences in morphological variability were identified (p = 0.001), with Africans demonstrating the greatest amplitude in the lower third and highest Coefficient of Variation. Facial asymmetry patterns varied by ethnicity, with overall asymmetry significantly greater than ocular asymmetry in all groups (p < 0.001). Cross-gender comparison revealed key dimorphic patterns: attractive male faces approximate a 90 % zygomatic-mandibular ratio, favoring square/trapezoidal shapes, while attractive female faces cluster around 80 % with greater chin projection. Irrespective of race background, an appealing male face is characterized by a zygomatic-to-mandibular width ratio nearing 90 %, a low-facial third that is larger than the mid third, contributing to a trapezoidal or square facial shape. The findings contribute valuable insights into attractive standards and the impact of frontal patterns on esthetic canons in male celebrities.",
+      "objective": "",
+      "study_methods": "In this retrospective cohort study, a Python-based algorithm analyzed frontal facial patterns and their effect on aesthetic standards using publicly available images of male celebrities worldwide. Eight ideal angular or proportional measurements, identified from existing literature, were trained as a reference for assessing facial attractiveness. Demographic data were summarized statistically. A one-way ANOVA test was used to evaluate data distribution, and differences between group means were analyzed with nonparametric independent sample tests, considering results statistically significant at p < 0.05.",
+      "methods": "In this retrospective cohort study, a Python-based algorithm analyzed frontal facial patterns and their effect on aesthetic standards using publicly available images of male celebrities worldwide. Eight ideal angular or proportional measurements, identified from existing literature, were trained as a reference for assessing facial attractiveness. Demographic data were summarized statistically. A one-way ANOVA test was used to evaluate data distribution, and differences between group means were analyzed with nonparametric independent sample tests, considering results statistically significant at p < 0.05.",
+      "results": "statistically significant at p < 0.05. Facial analysis of 156 male celebrities across six ethnic groups revealed both universal patterns and subtle ethnic variations. A fundamental lower > superior > middle facial third hierarchy was confirmed across all groups with the lower third being dominant (p < 0.001). The zygomatic-mandibular ratio showed remarkable stability (approx. 90 %) and homogeneity across populations, despite significant differences in absolute dimensions (p < 0.001). Key proportional relationships (e.g., nose-to-mouth ratio: 0.70-0.73) were more consistent than absolute measurements. Significant intergroup differences in morphological variability were identified (p = 0.001), with Africans demonstrating the greatest amplitude in the lower third and highest Coefficient of Variation. Facial asymmetry patterns varied by ethnicity, with overall asymmetry significantly greater than ocular asymmetry in all groups (p < 0.001). Cross-gender comparison revealed key dimorphic patterns: attractive male faces approximate a 90 % zygomatic-mandibular ratio, favoring square/trapezoidal shapes, while attractive female faces cluster around 80 % with greater chin projection. Irrespective of race background, an appealing male face is characterized by a zygomatic-to-mandibular width ratio nearing 90 %, a low-facial third that is larger than the mid third, contributing to a trapezoidal or square facial shape. The findings contribute valuable insights into attractive standards and the impact of frontal patterns on esthetic canons in male celebrities.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41819450/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41790058",
       "title": "Three-dimensional analysis of the horizontal condylar angle in the temporomandibular joint: Morphology and surgical implications.",
       "authors": [
@@ -2840,7 +2890,6 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41790058/",
@@ -2918,36 +2967,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41673538",
-      "title": "Oral Pain and Alzheimer's Disease: Prospective Cohort and Cross-Sectional Analyses.",
-      "authors": [
-        "W Li",
-        "X Hu",
-        "Y Zhang",
-        "J Liao",
-        "S Lin",
-        "X Chen",
-        "H Lan",
-        "H Zhao",
-        "H Xu"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Given the limited effectiveness of Alzheimer's disease (AD) treatments, modifiable risk factors warrant attention. Oral pain (OP), a common inflammatory symptom, may be linked to neurodegeneration. This study aimed to investigate associations between OP and AD risk, cognitive performance, and brain structure. Data from 490,035 UK Biobank participants free of AD at baseline and with complete OP records were analyzed, while other dementias were excluded. Participants were categorized into an OP group (n = 33,697; defined as self-reported toothache or painful gums via touchscreen questionnaire) and an oral pain-free group (n = 456,338). AD diagnoses were ascertained using ICD-10 codes from linked electronic health records and analyzed in a cohort design using multivariable Cox proportional hazards models. A cross-sectional analysis method of cognitive and brain outcomes was performed using multivariable generalized linear models. Over an average follow-up period of 14.1 ± 1.7 y, OP was associated with a 30.7% increased risk of AD (hazard ratio [HR] = 1.307, 95% confidence interval [CI]: 1.165 to 1.466, P < 0.001). Individuals with OP also demonstrated poorer cognitive functions and reduced gray matter volumes in the left parahippocampal gyrus (Padj = 0.014, β = -27.383, SE = 7.728). Among those whose oral pain resolved, the occurrence of AD was lower (HR = 0.360, 95% CI: 0.197 to 0.660, P = 0.011), along with improved cognitive functions and brain structures as compared with those with persistent OP. Proteomic analyses identified potential mediators, including GDF15, BCAN, and PLAUR, which are involved in pathways related to wound healing and immune regulation. Emerging evidence suggested a possible association between OP and AD through neuroimmune pathways, including potential Tau-related changes in the hippocampus. These findings suggested a potential association between maintaining oral health and reduced risk of AD and cognitive impairment. This study addresses a critical gap in understanding how OP may associate with the development of AD.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41673538/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41644312",
       "title": "Bilateral sagittal split osteotomy buccal cut classification. Indications: pros and cons.",
       "authors": [
@@ -2974,30 +2993,35 @@
       "figure_urls": []
     },
     {
-      "pmid": "41604238",
-      "title": "Causal association between multiple sclerosis and trigeminal neuralgia: A Mendelian randomization study with meta-analysis.",
+      "pmid": "41548756",
+      "title": "The use of bone allograft and platelet-rich fibrin in cleft alveolar bone grafting : an alternative to iliac crest harvesting.",
       "authors": [
-        "Esam Halboub",
-        "Aisha A Al-Jamaei",
-        "Abdulwahab Al-Amir",
-        "Walid A Al-Soneidar",
-        "Sadeq Ali Al-Maweri",
-        "Hesham M Al-Mekhlafi",
-        "Mohammed Nasser Alhajj"
+        "Julie Chauvel-Picard",
+        "Camille Lambert",
+        "Edouard Lange",
+        "Dominique Gaget",
+        "Marc Asselborn",
+        "Chrystele Hartmann-Merlin",
+        "Ahmad B Alali",
+        "Mohammad Khalaf",
+        "Aqeel A Lari",
+        "Madhi Dashti",
+        "Sanela Morand",
+        "Arnaud Gleizal"
       ],
       "publication_date": "2026-Sep",
       "publication_date_iso": "2026-09-01",
-      "abstract": "This study utilized a meta-analysis of two-sample Mendelian randomization (MR) to investigate the causal link between multiple sclerosis (MS) and trigeminal neuralgia (TN). Using genetic summary data from the OpenGWAS database (European descent), researchers identified eight MS GWAS studies as exposures and one TN study as the outcome. Ten MR approaches, including IVW and MR-Egger, were employed. Pooled estimates were calculated using a fixed-effects inverse-variance model, with significance set at P < 0.05. Seven of the eight MS exposures showed a positive causal association with TN. The meta-analysis confirmed that MS significantly increases TN risk by 11% (IVW: 95% CI = 1.05-1.16; P < 0.001). Sensitivity analyses indicated no evidence of pleiotropy or heterogeneity, ensuring robust findings. Genetic predisposition to MS is a causal factor for TN. Further research is required to explore underlying biological pathways and validate these results across diverse populations.",
+      "abstract": "Cleft lip and palate (CLP) are congenital anomalies requiring complex multidisciplinary care, including alveolar bone grafting (ABG). ABG restores alveolar continuity, facilitates proper dental alignment and improves nasal function. Traditional autologous bone grafting, often using iliac crest bone, is associated with donor-site morbidity, prompting exploration of alternatives such as bone allografts and biomaterials. This study evaluated the efficacy of bone allograft combined with Platelet-Rich Fibrin (PRF) in pediatric ABG. This prospective cohort study included all pediatric patients with unilateral or bilateral CLP undergoing ABG between January 2020 and January 2023. All patients underwent ABG using bone allograft combined with PRF. Pre and postoperative conebeam computed tomography (CBCT) scans were used to assess graft volume and consolidation by quantifying the residual bone allograft. Statistical analyses evaluated factors influencing graft success, including preoperative palatal expansion and cleft characteristics. A total of 47 patients (54 alveolar clefts) were included. The mean residual bone volume was 73.4 +/- 21%. Lateral incisor presence dit not significantly influence graft consolidation, with residual bone volumes of 76.44 +/- 21.01% versus 70.13 +/- 21/14 % (p=0.19). In contrast, preoperative palatal expansion was associated with significantly improved outcomes: patients treated with Quad Helix expansion demonstrated a markedly greater residual bone percentage (79.14 +/- 18.60 % versus 59.77 +/- 20.99 %; p = 0.002; Cohen's d = 1.00). Overall, bone allografts combined with PRF achieved substantial and consistent postoperative ossification with low complications rates with only one case of graft failure. Bone allografts combined with PRF demonstrate satisfactory outcomes in pediatric ABG, offering a viable alternative to autografts. Further studies are needed to evaluate the durability of the grafts, their impact on long-term oral and functional outcomes, and their impact on orthognathic surgery and prosthetic and implant rehabilitation.",
       "objective": "",
-      "study_methods": "Using genetic summary data from the OpenGWAS database (European descent), researchers identified eight MS GWAS studies as exposures and one TN study as the outcome. Ten MR approaches, including IVW and MR-Egger, were employed. Pooled estimates were calculated using a fixed-effects inverse-variance model, with significance set at P < 0.05.",
-      "methods": "Using genetic summary data from the OpenGWAS database (European descent), researchers identified eight MS GWAS studies as exposures and one TN study as the outcome. Ten MR approaches, including IVW and MR-Egger, were employed. Pooled estimates were calculated using a fixed-effects inverse-variance model, with significance set at P < 0.05.",
-      "results": "across diverse populations.",
+      "study_methods": "This prospective cohort study included all pediatric patients with unilateral or bilateral CLP undergoing ABG between January 2020 and January 2023. All patients underwent ABG using bone allograft combined with PRF. Pre and postoperative conebeam computed tomography (CBCT) scans were used to assess graft volume and consolidation by quantifying the residual bone allograft. Statistical analyses evaluated factors influencing graft success, including preoperative palatal expansion and cleft characteristics.",
+      "methods": "This prospective cohort study included all pediatric patients with unilateral or bilateral CLP undergoing ABG between January 2020 and January 2023. All patients underwent ABG using bone allograft combined with PRF. Pre and postoperative conebeam computed tomography (CBCT) scans were used to assess graft volume and consolidation by quantifying the residual bone allograft. Statistical analyses evaluated factors influencing graft success, including preoperative palatal expansion and cleft characteristics.",
+      "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41604238/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41548756/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3110,6 +3134,33 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41056022/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42663421",
+      "title": "What happens to the contralateral condyle after proportional condylectomy? A multicenter study.",
+      "authors": [
+        "Bibiana Mello da Rosa",
+        "Adaia Valls-Ontañón",
+        "Rubens Martins Bastos",
+        "Rogério Belle de Oliveira",
+        "Federico Hernández-Alfaro",
+        "Orion Luiz Haas"
+      ],
+      "publication_date": "2026-Aug-28",
+      "publication_date_iso": "2026-08-28",
+      "abstract": "This retrospective study evaluated 3D positional and volumetric adaptations of the contralateral condyle after proportional condylectomy performed alone or combined with orthognathic surgery. Twenty-three patients were allocated into three groups: isolated proportional condylectomy (G1), simultaneous condylectomy and orthognathic surgery (G2), and staged treatment (G3). CBCT analysis used anatomical landmarks, and condylar volume was assessed by semi-automated reconstruction. Median follow-up was 12.1, 9.7, and 13.3 months for G1, G2, and G3, respectively (7.7 months for T1-T2 in G3). G1 showed no significant positional changes. G2 exhibited superomedial rotational adaptation, with superior (0.5 mm, p = .01) and medial (1.5 mm, p = .04) displacements and lateral displacement of -0.5 mm (p = .048). G3 showed linear medial displacement of 2.6 mm (p=.04). No significant volumetric changes occurred in any group. Distinct short-term 3D adaptation patterns of the contralateral condyle occurred according to surgical strategy. Volumetric changes were modest, suggesting adaptive remodeling rather than pathological resorption.",
+      "objective": "",
+      "study_methods": "Twenty-three patients were allocated into three groups: isolated proportional condylectomy (G1), simultaneous condylectomy and orthognathic surgery (G2), and staged treatment (G3). CBCT analysis used anatomical landmarks, and condylar volume was assessed by semi-automated reconstruction.",
+      "methods": "Twenty-three patients were allocated into three groups: isolated proportional condylectomy (G1), simultaneous condylectomy and orthognathic surgery (G2), and staged treatment (G3). CBCT analysis used anatomical landmarks, and condylar volume was assessed by semi-automated reconstruction.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663421/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3294,62 +3345,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42633841/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42629250",
-      "title": "Are postoperative pharyngeal airway changes associated with mandibular relapse after setback? A retrospective CBCT-cephalometric cohort study.",
-      "authors": [
-        "M S Rahman",
-        "M-J Jeon",
-        "J-H Park",
-        "S-J Kim",
-        "J-W Kim"
-      ],
-      "publication_date": "2026-Aug-21",
-      "publication_date_iso": "2026-08-21",
-      "abstract": "Postoperative narrowing of the pharyngeal airway is a well‑recognized consequence of mandibular setback surgery, yet whether this functional compromise actually drives skeletal relapse has not been definitively shown. In this retrospective cohort study, records of 41 patients with angle class III malocclusion who underwent orthognathic surgery were analyzed to clarify this relationship. Serial lateral cephalograms and three‑dimensional scans obtained preoperatively, immediately postoperatively, and at follow‑up (mean 1.4 years) were used to quantify total and regional pharyngeal airway volume changes and mandibular relapse, defined as sagittal point B displacement. Demographic characteristics, surgical movements including setback magnitude and SN-MP rotation, osteotomy type, genioplasty, treatment approach, and baseline airway dimensions were incorporated as covariates. Correlation analyses and multivariable linear regression assessed associations between airway changes and relapse while controlling for potential confounders. The mean mandibular surgical movement was -6.32 ± 8.72 mm. There was no significant reduction in total airway volume immediately after surgery or at follow-up, and no significant mandibular relapse occurred. Also, no significant correlation was detected between airway changes and relapse in either immediate postoperative period or follow-up period, whereas greater mandibular setback independently predicted forward relapse (β = -0.64, P < 0.001). These results do not support the notion that compromised airway mechanics precipitate skeletal instability, and instead suggest that airway preservation and mandibular stability may be better conceived as parallel but independent treatment considerations.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "do not support the notion that compromised airway mechanics precipitate skeletal instability, and instead suggest that airway preservation and mandibular stability may be better conceived as parallel but independent treatment considerations.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42629250/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42627492",
-      "title": "A Comparison of Clear Aligners and Fixed Appliances in Orthodontic-Surgical Treatment of Non-Extraction Skeletal Class III Malocclusion.",
-      "authors": [
-        "Thinzar Zaw",
-        "Hsu Yin Min",
-        "Yi Wei",
-        "Wei Lyu",
-        "Lihua Jiang",
-        "Xiujin Li",
-        "Zhong Wu",
-        "Xuanping Huang",
-        "Shaohua Song"
-      ],
-      "publication_date": "2026-Aug-21",
-      "publication_date_iso": "2026-08-21",
-      "abstract": "This retrospective study assessed the outcomes of combined orthodontic-surgical treatment in skeletal Class III patients by comparing results achieved with clear aligners to those achieved with conventional fixed appliances. This study involved 24 skeletal Class III malocclusion patients who were treated with non-extraction orthodontic using either fixed appliances or clear aligners (Invisalign), in conjunction with orthognathic surgery. All patients underwent mandibular surgery only. Lateral cephalometric radiographs were obtained and analysed for both groups at three stages: before orthodontic treatment (T0), one week before surgery (T1), and at least eight months after surgery (T2). All the statistical tests were performed in SPSS 30 and power calculations were done in G*Power. In this pilot study, significant skeletal and dentoalveolar changes occurred in both groups (p < 0.001). Between-group comparisons showed that during presurgical decompensation (T1-T0), fixed appliances produced greater lower incisor proclination (IMPA) (p < 0.05, Cohen's d = -1.13 - 1.27). During postsurgical orthodontics (T2-T1), clear aligners resulted in less lower incisor labial tipping (L1-FH), less upper incisor intrusion (U1-PP), and less lower first molar intrusion (L6-MP) (p < 0.05, d = -1.03 - 1.1). At final follow-up (T2-T0), the clear aligner group continued to show less vertical intrusion of the lower incisor and first molar (L1-MP, L6-MP; p < 0.05, d = 1.11-1.17). After adjusting for genioplasty, clear aligners were associated with superior postsurgical vertical skeletal control, upper lip retraction, and facial convexity (p < 0.05). Within this pilot study, clear aligners showed signals of greater treatment efficiency, less unwanted labial tipping, and reduced vertical intrusion, whereas fixed appliances showed greater incisor and molar decompensation. These hypothesis-generating findings indicate that treatment individualization by biomechanical needs and patient preferences should be tested in future powered trials. This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
-      "objective": "",
-      "study_methods": "This study involved 24 skeletal Class III malocclusion patients who were treated with non-extraction orthodontic using either fixed appliances or clear aligners (Invisalign), in conjunction with orthognathic surgery. All patients underwent mandibular surgery only. Lateral cephalometric radiographs were obtained and analysed for both groups at three stages: before orthodontic treatment (T0), one week before surgery (T1), and at least eight months after surgery (T2). All the statistical tests were performed in SPSS 30 and power calculations were done in G*Power.",
-      "methods": "This study involved 24 skeletal Class III malocclusion patients who were treated with non-extraction orthodontic using either fixed appliances or clear aligners (Invisalign), in conjunction with orthognathic surgery. All patients underwent mandibular surgery only. Lateral cephalometric radiographs were obtained and analysed for both groups at three stages: before orthodontic treatment (T0), one week before surgery (T1), and at least eight months after surgery (T2). All the statistical tests were performed in SPSS 30 and power calculations were done in G*Power.",
-      "results": "achieved with clear aligners to those achieved with conventional fixed appliances. This study involved 24 skeletal Class III malocclusion patients who were treated with non-extraction orthodontic using either fixed appliances or clear aligners (Invisalign), in conjunction with orthognathic surgery. All patients underwent mandibular surgery only. Lateral cephalometric radiographs were obtained and analysed for both groups at three stages: before orthodontic treatment (T0), one week before surgery (T1), and at least eight months after surgery (T2). All the statistical tests were performed in SPSS 30 and power calculations were done in G*Power. In this pilot study, significant skeletal and dentoalveolar changes occurred in both groups (p < 0.001). Between-group comparisons showed that during presurgical decompensation (T1-T0), fixed appliances produced greater lower incisor proclination (IMPA) (p < 0.05, Cohen's d = -1.13 - 1.27). During postsurgical orthodontics (T2-T1), clear aligners resulted in less lower incisor labial tipping (L1-FH), less upper incisor intrusion (U1-PP), and less lower first molar intrusion (L6-MP) (p < 0.05, d = -1.03 - 1.1). At final follow-up (T2-T0), the clear aligner group continued to show less vertical intrusion of the lower incisor and first molar (L1-MP, L6-MP; p < 0.05, d = 1.11-1.17). After adjusting for genioplasty, clear aligners were associated with superior postsurgical vertical skeletal control, upper lip retraction, and facial convexity (p < 0.05). Within this pilot study, clear aligners showed signals of greater treatment efficiency, less unwanted labial tipping, and reduced vertical intrusion, whereas fixed appliances showed greater incisor and molar decompensation. These hypothesis-generating findings indicate that treatment individualization by biomechanical needs and patient preferences should be tested in future powered trials. This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42627492/",
       "pmcid": "",
       "figure_urls": []
     }
