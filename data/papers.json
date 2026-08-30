@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T08:49:19Z",
+  "updated_at": "2026-08-30T08:07:21Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1265,6 +1265,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "42594598",
+      "title": "The narrowing sex gap in lip and oral cavity cancer incidence in Spain: Thirty years of divergent age-period-cohort trends.",
+      "authors": [
+        "Lucia Cayuela",
+        "Pedro Infante-Cossio",
+        "Jose-Juan Pereyra-Rodriguez",
+        "Gema Flox-Benitez",
+        "Aurelio Cayuela"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Lip and oral cavity cancer (LOCC) accounts for a significant proportion of the overall burden of head and neck cancers, yet long-term sex-specific trends remain unclear. This study aimed to analyse sex-specific LOCC incidence trends in Spain from 1994 to 2023. An ecological study was conducted using modelled incidence data from the Global Burden of Disease 2023 (GBD). Age-standardised incidence rates (ASIRs) were calculated using the European Standard Population. Joinpoint regression was used to estimate annual percent changes (APCs) and average annual percent changes (AAPCs). A-P-C modelling for ages 15-84 years was performed to estimate net and local drifts, and the effects of age, period and cohort. Analyses were stratified by sex. A total of 129,024 LOCC cases were identified, comprising 91,449 men and 37,575 women. Among men, the ASIR declined from 19.9 to 13.1 per 100,000 (AAPC: -1.6%), with a net drift of -3.0% per year. Cohort effects showed a marked reduction in risk across successive generations, whereas period effects declined steadily (rate ratio: 1.42-0.68). Among women, the ASIR increased from 4.0 to 6.5 per 100,000 (AAPC: 1.7%), with a net drift of 0.9% per year. Cohort effects plateaued among those born after 1960, whereas period effects increased (rate ratio: 0.92-1.13). Although incidence rose with age in both sexes between 1994 and 2023, the male-to-female gap narrowed substantially. LOCC incidence in Spain exhibits divergent sex-specific trends, driven by cohort and period effects in men and by period effects in women. The decline in rates among men is likely due to reduced tobacco exposure, while the increase among women may reflect the growing influence of alcohol consumption. These findings highlight the necessity for targeted, sex-specific prevention and early detection strategies.",
+      "objective": "",
+      "study_methods": "An ecological study was conducted using modelled incidence data from the Global Burden of Disease 2023 (GBD). Age-standardised incidence rates (ASIRs) were calculated using the European Standard Population. Joinpoint regression was used to estimate annual percent changes (APCs) and average annual percent changes (AAPCs). A-P-C modelling for ages 15-84 years was performed to estimate net and local drifts, and the effects of age, period and cohort. Analyses were stratified by sex.",
+      "methods": "An ecological study was conducted using modelled incidence data from the Global Burden of Disease 2023 (GBD). Age-standardised incidence rates (ASIRs) were calculated using the European Standard Population. Joinpoint regression was used to estimate annual percent changes (APCs) and average annual percent changes (AAPCs). A-P-C modelling for ages 15-84 years was performed to estimate net and local drifts, and the effects of age, period and cohort. Analyses were stratified by sex.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42594598/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42575734",
       "title": "Letter to the Editor on \"From static to robotic: evolving mavigation systems in oral and maxillofacial surgery\".",
       "authors": [
@@ -1395,32 +1421,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42557212/",
       "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42502792",
-      "title": "Radiographic evolution of a dentigerous cyst associated with a deeply impacted mandibular first molar in a pediatric patient: a CBCT-based longitudinal case report with minimal-visit orthodontic management.",
-      "authors": [
-        "Huyen Nguyen Thanh",
-        "Manh Nguyen Truong",
-        "Anh Vu Dinh Viet",
-        "Hoang Viet Do",
-        "Trang Thi Thu Vu"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "A deeply impacted mandibular first molar associated with a dentigerous cyst is an uncommon clinical presentation, particularly in pediatric patients. This case report describes a 9-year-old boy who presented with delayed eruption of the mandibular right first molar. Panoramic radiography revealed a well-defined unilocular radiolucent lesion associated with a deeply impacted tooth, while cone-beam computed tomography (CBCT) demonstrated buccolingual cortical expansion and thinning, displacement of the adjacent second molar germ, and close proximity to the inferior alveolar canal. Based on clinical, radiographic, and histopathologic findings, the lesion was diagnosed as a dentigerous cyst and treated conservatively with marsupialization followed by orthodontic traction. Longitudinal radiographic follow-up over 16 months demonstrated progressive reduction of the radiolucent lesion, gradual bone regeneration, and continuous eruption and uprighting of the impacted mandibular first molar. This case highlights the important role of CBCT and serial radiographic monitoring in evaluating lesion extent, treatment planning, and documenting healing and tooth eruption during conservative management of dentigerous cysts in children.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42502792/",
-      "pmcid": "PMC13400236",
       "figure_urls": []
     },
     {
@@ -2209,6 +2209,85 @@
       "figure_urls": []
     },
     {
+      "pmid": "42367106",
+      "title": "Primary stability of dental implants placed in low-density polyurethane blocks: Undersized osteotomy versus osseodensification, an in vitro comparative study.",
+      "authors": [
+        "M Agostini",
+        "M-D Gómez-Adrián",
+        "J Barberá-Millán"
+      ],
+      "publication_date": "2026-Sep-01",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Primary stability is a determinant of early implant success and becomes critical in low-density bone, where reduced trabecular support may increase micromotion risk. Undersized osteotomy and osseodensification are two commonly discussed site-preparation strategies aimed at improving initial stability through different biomechanical mechanisms. An analytical experimental in vitro study was performed using 76 cylindrical implants (4.0×10mm) (n=38 per group) placed in type IV polyurethane blocks with a dense cortical shell. Group OS underwent an undersized osteotomy drilling sequence, while Group OD underwent osseodensification using Densah® burs operated in counterclockwise rotation. In Group OD, the final osteotomy diameter was intentionally overprepared by 0.3mm (4.3mm) relative to the implant diameter. Maximum insertion torque (Ncm) was recorded during placement. Primary stability was measured as implant stability quotient (ISQ) using the Penguin® resonance frequency analysis device (two perpendicular readings per implant; mean value used). Between-group comparisons were performed using Student's t-test for independent samples (α=0.05). Group OS showed higher mean insertion torque than Group OD (30.66±1.71 vs 26.58±2.63 Ncm; p<0.0001). Group OD showed higher mean ISQ than Group OS (56.80±2.90 vs 52.92±3.57; p=0.00000227). Undersized osteotomy increased insertion torque, consistent with higher rotational resistance during insertion, whereas osseodensification increased ISQ, suggesting higher construct stiffness. Both protocols may be clinically useful in low-density bone depending on the primary objective (torque-driven mechanical engagement vs RFA-derived stiffness).",
+      "objective": "(torque-driven mechanical engagement vs RFA-derived stiffness).",
+      "study_methods": "An analytical experimental in vitro study was performed using 76 cylindrical implants (4.0×10mm) (n=38 per group) placed in type IV polyurethane blocks with a dense cortical shell. Group OS underwent an undersized osteotomy drilling sequence, while Group OD underwent osseodensification using Densah® burs operated in counterclockwise rotation. In Group OD, the final osteotomy diameter was intentionally overprepared by 0.3mm (4.3mm) relative to the implant diameter. Maximum insertion torque (Ncm) was recorded during placement. Primary stability was measured as implant stability quotient (ISQ) using the Penguin® resonance frequency analysis device (two perpendicular readings per implant; mean value used). Between-group comparisons were performed using Student's t-test for independent samples (α=0.05).",
+      "methods": "An analytical experimental in vitro study was performed using 76 cylindrical implants (4.0×10mm) (n=38 per group) placed in type IV polyurethane blocks with a dense cortical shell. Group OS underwent an undersized osteotomy drilling sequence, while Group OD underwent osseodensification using Densah® burs operated in counterclockwise rotation. In Group OD, the final osteotomy diameter was intentionally overprepared by 0.3mm (4.3mm) relative to the implant diameter. Maximum insertion torque (Ncm) was recorded during placement. Primary stability was measured as implant stability quotient (ISQ) using the Penguin® resonance frequency analysis device (two perpendicular readings per implant; mean value used). Between-group comparisons were performed using Student's t-test for independent samples (α=0.05).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42367106/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42367103",
+      "title": "Predictors of intraoperative blood loss in bimaxillary orthognathic surgery: A retrospective multivariate analysis.",
+      "authors": [
+        "K Yusa",
+        "N Sasahara",
+        "T Hemmi",
+        "K Kagami",
+        "K Taniguchi",
+        "S Ishikawa"
+      ],
+      "publication_date": "2026-Sep-01",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "The aim of this study was to investigate the relationship between patient demographics and hematological parameters and blood loss during orthognathic surgery. In addition, we investigated whether bone removal around the descending palatine artery (DPA), a procedure that has been widely applied in recent years, is associated with blood loss. This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05. A total of 138 patients (95 women and 43 men; mean age, 24.1±7.1 years) were included. The mean operative time was 269.1±51.3 minutes, and the mean intraoperative blood loss was 277.0±220.4mL. BMI, preoperative Hb, and operative time were significantly correlated with blood loss (p<.05). Male patients experienced significantly greater blood loss than female patients (p<.05). After adjustment, BMI (B=19.5, p=.001), operative time (B=0.95, P=.010), and removal of bone around the DPA (B=92.8, P=.009) were independently associated with increased intraoperative blood loss. The findings in this study are important for preoperative risk assessment, surgical planning, and ensuring patient safety in orthognathic surgery.",
+      "objective": "of this study was to investigate the relationship between patient demographics and hematological parameters and blood loss during orthognathic surgery. In addition, we investigated whether bone removal around the descending palatine artery (DPA), a procedure that has been widely applied in recent years, is associated with blood loss. This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05. A total of 138 patients (95 women and 43 men; mean age, 24.1±7.1 years) were included. The mean operative time was 269.1±51.3 minutes, and the mean intraoperative blood loss was 277.0±220.4mL. BMI, preoperative Hb, and operative time were significantly correlated with blood loss (p<.05). Male patients experienced significantly greater blood loss than female patients (p<.05). After adjustment, BMI (B=19.5, p=.001), operative time (B=0.95, P=.010), and removal of bone around the DPA (B=92.8, P=.009) were independently associated with increased intraoperative blood loss. The findings in this study are important for preoperative risk assessment, surgical planning, and ensuring patient safety in orthognathic surgery.",
+      "study_methods": "This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05.",
+      "methods": "This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42367103/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42367099",
+      "title": "Expert consensus on the use of oral antiseptics in oral surgery: Evidence-based clinical practice guidelines.",
+      "authors": [
+        "A Sánchez-Torres",
+        "M Baus-Domínguez",
+        "O Camps-Font",
+        "C Carrillo-García",
+        "C Cobo-Vazquez",
+        "J Toledano-Serrabona",
+        "M García-García"
+      ],
+      "publication_date": "2026-Sep-01",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "Antiseptic management in oral surgery remains heterogeneous, with no standardised, procedure-specific protocols guiding the perioperative use of agents such as chlorhexidine (CHX) or cetylpyridinium chloride (CPC). This consensus document aims to integrate the best available evidence with structured expert judgement to generate evidence-based clinical practice guidelines for the use of oral antiseptics across dentoalveolar and implant surgical scenarios. A structured two-round expert consensus process was employed, combining a systematic literature search of PubMed/MEDLINE with a structured expert panel discussion conducted in December 2025. Seven oral surgeons and implantologists from four leading Spanish universities participated. Consensus was organised around five thematic blocks regarding the use of oral antiseptics: indications and safety, preoperative preparation, postoperative care, management of complications, and future research priorities. Following independent duplicate screening, 69 studies were included in the qualitative synthesis. CHX 0.12-0.2% (in monotherapy or in combination with CPC) was established as the reference perioperative antiseptic, with evidence supporting its efficacy in reducing postoperative complications (RR=0.66; 95% CI 0.55 to 0.80). A risk-stratified postoperative protocol was formulated, incorporating gel, rinse, and spray formulations adapted to individual patient profiles. Povidone-iodine and CPC were identified as evidence-supported alternatives. Complication-specific recommendations were generated for wound dehiscence, alveolar osteitis, and localised postoperative infection, ranging from conservative antiseptic irrigation and intra-alveolar gel application to escalating surgical and systemic antibiotic management based on severity. All recommendations were explicitly classified as evidence-based, expert consensus-derived, or a combination, reflecting the variable quality of supporting data across clinical scenarios. CHX constitutes the gold standard oral antiseptic for perioperative use in oral surgery. The expert panel recommends CHX+CPC combination formulations (e.g., 0.12% CHX+0.05% CPC) as an alternative perioperative antiseptic option, offering comparable antimicrobial efficacy with an improved tolerability profile relative to CHX monotherapy. Individualised, risk-stratified protocols, which account for procedural complexity, patient comorbidities, and antiseptic tolerability, are recommended to optimise clinical outcomes while minimising adverse effects.",
+      "objective": "to integrate the best available evidence with structured expert judgement to generate evidence-based clinical practice guidelines for the use of oral antiseptics across dentoalveolar and implant surgical scenarios. A structured two-round expert consensus process was employed, combining a systematic literature search of PubMed/MEDLINE with a structured expert panel discussion conducted in December 2025. Seven oral surgeons and implantologists from four leading Spanish universities participated. Consensus was organised around five thematic blocks regarding the use of oral antiseptics: indications and safety, preoperative preparation, postoperative care, management of complications, and future research priorities. Following independent duplicate screening, 69 studies were included in the qualitative synthesis. CHX 0.12-0.2% (in monotherapy or in combination with CPC) was established as the reference perioperative antiseptic, with evidence supporting its efficacy in reducing postoperative complications (RR=0.66; 95% CI 0.55 to 0.80). A risk-stratified postoperative protocol was formulated, incorporating gel, rinse, and spray formulations adapted to individual patient profiles. Povidone-iodine and CPC were identified as evidence-supported alternatives. Complication-specific recommendations were generated for wound dehiscence, alveolar osteitis, and localised postoperative infection, ranging from conservative antiseptic irrigation and intra-alveolar gel application to escalating surgical and systemic antibiotic management based on severity. All recommendations were explicitly classified as evidence-based, expert consensus-derived, or a combination, reflecting the variable quality of supporting data across clinical scenarios. CHX constitutes the gold standard oral antiseptic for perioperative use in oral surgery. The expert panel recommends CHX+CPC combination formulations (e.g., 0.12% CHX+0.05% CPC) as an alternative perioperative antiseptic option, offering comparable antimicrobial efficacy with an improved tolerability profile relative to CHX monotherapy. Individualised, risk-stratified protocols, which account for procedural complexity, patient comorbidities, and antiseptic tolerability, are recommended to optimise clinical outcomes while minimising adverse effects.",
+      "study_methods": "A structured two-round expert consensus process was employed, combining a systematic literature search of PubMed/MEDLINE with a structured expert panel discussion conducted in December 2025. Seven oral surgeons and implantologists from four leading Spanish universities participated. Consensus was organised around five thematic blocks regarding the use of oral antiseptics: indications and safety, preoperative preparation, postoperative care, management of complications, and future research priorities.",
+      "methods": "A structured two-round expert consensus process was employed, combining a systematic literature search of PubMed/MEDLINE with a structured expert panel discussion conducted in December 2025. Seven oral surgeons and implantologists from four leading Spanish universities participated. Consensus was organised around five thematic blocks regarding the use of oral antiseptics: indications and safety, preoperative preparation, postoperative care, management of complications, and future research priorities.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42367099/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42358025",
       "title": "Primary Oral MALT Lymphoma Without Nodal or Systemic Involvement: A Rare Presentation.",
       "authors": [
@@ -2712,82 +2791,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42031575",
-      "title": "Effect of horizontal and extended platelet-rich fibrin on soft tissue healing and outcomes after impacted mandibular third molar extraction: a controlled trial.",
-      "authors": [
-        "A Haskic",
-        "N Hadziabdic",
-        "R J Miron"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Postoperative sequelae such as pain, swelling, and trismus are common following mandibular third molar surgery. This single-blind controlled trial was performed to evaluate the effects of two newer platelet-rich fibrin (PRF) formulations, horizontal PRF (H-PRF) and extended PRF (E-PRF/albumin-PRF), on soft tissue healing and postoperative complications. Sixty-seven ASA class 1 patients aged 16-30 years were assigned to the H-PRF, E-PRF, or control (natural coagulum) group, with 60 completing the study. The primary outcome was soft tissue healing, while secondary outcomes included pain, analgesic use, swelling, trismus, alveolar osteitis, and infection. The PRF formulations did not significantly improve soft tissue healing during the first postoperative week (day 3: P = 0.64; day 7: P = 0.22). On day 7, the H-PRF group showed a significantly reduced trismus when compared to the control group (P = 0.017). No significant differences were observed in terms of pain, swelling, or analgesic consumption (all P > 0.05). A significantly reduced trismus observed with H-PRF suggests potential clinical benefits; however, further studies with larger samples are needed to confirm these findings and their clinical relevance.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42031575/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42020233",
-      "title": "Diagnostic discrepancies in the surgical management of oral epithelial dysplasia - an analysis of concordance between incisional biopsy and definitive resection specimens.",
-      "authors": [
-        "Brian Maloney",
-        "Min Seo Jung",
-        "Jason Byrne",
-        "Brian Martin",
-        "Esther O'Regan",
-        "John Edward O'Connell"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "The management of oral potentially malignant disorders is primarily guided by the degree of oral epithelial dysplasia (OED) present on incisional biopsy. Despite the universal use of this technique to inform treatment decisions, this method harbours limitations which can result in the under- or overestimating the degree of OED when compared with the fully excised specimen. There is a paucity of published work examining the reliability of incisional biopsy for oral potentially malignant disorders, representing a clear gap in our understanding of the reliability of this diagnostic technique as a mainstay in our management of these conditions. The current study retrospectively examined the agreement between the histological findings on incisional biopsy and subsequently excised specimens in a cohort of patients with known OED in oral leukoplakia specimens in a single maxillofacial unit between 2021 and 2024. Of 88 total specimens, there was slight overall agreement between the two techniques. On subgroup analysis, for non-PVL OED, agreement was moderate, but agreement for PVL type OED was poor. A total of 31% of specimens were discordant, 41% with a lower degree of OED on biopsy versus excised specimen. The greatest discordance arose for moderate OED. Three factors for discordance were identified. This study has contributed to the evidence base by highlighting the discrepancies related to OED grading between incisional biopsy and resection specimens. While incisional biopsy is a dependable method for the diagnosis of non-PVL OED, its use in PVL highlights significant limitations. Reducing discordances requires an understanding of the causative factors and close collaboration between pathologists and clinicians.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "in the under- or overestimating the degree of OED when compared with the fully excised specimen. There is a paucity of published work examining the reliability of incisional biopsy for oral potentially malignant disorders, representing a clear gap in our understanding of the reliability of this diagnostic technique as a mainstay in our management of these conditions. The current study retrospectively examined the agreement between the histological findings on incisional biopsy and subsequently excised specimens in a cohort of patients with known OED in oral leukoplakia specimens in a single maxillofacial unit between 2021 and 2024. Of 88 total specimens, there was slight overall agreement between the two techniques. On subgroup analysis, for non-PVL OED, agreement was moderate, but agreement for PVL type OED was poor. A total of 31% of specimens were discordant, 41% with a lower degree of OED on biopsy versus excised specimen. The greatest discordance arose for moderate OED. Three factors for discordance were identified. This study has contributed to the evidence base by highlighting the discrepancies related to OED grading between incisional biopsy and resection specimens. While incisional biopsy is a dependable method for the diagnosis of non-PVL OED, its use in PVL highlights significant limitations. Reducing discordances requires an understanding of the causative factors and close collaboration between pathologists and clinicians.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42020233/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41991178",
-      "title": "Surgical Margins Required for the Complete Excision of Canine Oral Melanomas.",
-      "authors": [
-        "Jonathon Richard Chinner",
-        "Jovene Jia Wen Lee",
-        "Jonathan Tuke",
-        "Fui Wen Yap"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Oral malignant melanoma (OMM) is the most common canine oral neoplasm. Complete excision is recognised as the mainstay of treatment in the absence of distant metastasis, but recommended surgical margins are unvalidated. This study investigates the surgical margins required for complete excision of canine OMMs. We hypothesised that surgical margins 10-15 mm wide and a qualitative deep margin (bone, fascia or full-thickness tissue excision) would be adequate for complete local excision of OMMs. Margins required to excise canine oral melanocytomas are also unknown; a secondary objective was to investigate this. Cases were retrospectively collected from two referral centres and a veterinary pathology laboratory. Histologic diagnosis, en bloc excision of gross tumour, surgical margin and histologic margins were required for inclusion. Tumours were categorised based on surgical margin width (Group A < 10 mm, Group B 10-15 mm and Group C > 15 mm). A qualitative deep margin was required for Groups B and C, but not Group A, to include marginal excision cases. Histologic margins were classified by the R tumour classification scheme. Twenty-eight tumours were included, comprising 25 OMMs and three melanocytomas. R0 rates for OMMs were 56% (10/17) in Group A, 100% (7/7) in Group B and 100% (2/2) in Group C. Surgical margins ≥ 10 mm were significantly (p = 0.03) more likely to result in R0 classification. The three melanocytomas were all classified as R0, with < 10 mm surgical margins. Results suggest that surgical margins 10-15 mm wide and a qualitative deep margin may be adequate for complete excision of OMMs.",
-      "objective": "was to investigate this. Cases were retrospectively collected from two referral centres and a veterinary pathology laboratory. Histologic diagnosis, en bloc excision of gross tumour, surgical margin and histologic margins were required for inclusion. Tumours were categorised based on surgical margin width (Group A < 10 mm, Group B 10-15 mm and Group C > 15 mm). A qualitative deep margin was required for Groups B and C, but not Group A, to include marginal excision cases. Histologic margins were classified by the R tumour classification scheme. Twenty-eight tumours were included, comprising 25 OMMs and three melanocytomas. R0 rates for OMMs were 56% (10/17) in Group A, 100% (7/7) in Group B and 100% (2/2) in Group C. Surgical margins ≥ 10 mm were significantly (p = 0.03) more likely to",
-      "study_methods": "",
-      "methods": "",
-      "results": "in R0 classification. The three melanocytomas were all classified as R0, with < 10 mm surgical margins. Results suggest that surgical margins 10-15 mm wide and a qualitative deep margin may be adequate for complete excision of OMMs.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41991178/",
-      "pmcid": "PMC13456588",
-      "figure_urls": []
-    },
-    {
       "pmid": "41933430",
       "title": "Assessing the Area Deprivation Index in Relation to Orbital Floor Fractures.",
       "authors": [
@@ -3134,6 +3137,55 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41056022/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42559963",
+      "title": "Simultaneous Paranasal Augmentation and Le Fort I Osteotomy Using a Patient-Specific Implant Designed to Share the Fixation Space: Two-Year Clinical Outcomes.",
+      "authors": [
+        "Renato Marano",
+        "Luis Fernando de Oliveira Gorla",
+        "Diogo Vasconcelos Macedo"
+      ],
+      "publication_date": "2026-Aug-31",
+      "publication_date_iso": "2026-08-31",
+      "abstract": "Residual paranasal concavity may persist after Le Fort I osteotomy despite adequate maxillary repositioning, limiting the aesthetic impact of orthognathic surgery. Simultaneous paranasal implant placement is rarely reported due to spatial conflict with rigid internal fixation systems and concerns regarding infraorbital nerve safety. Two patients underwent Le Fort I osteotomy combined with simultaneous placement of patient-specific paranasal implants designed through 3-dimensional virtual surgical planning (VSP) to intentionally share the anatomical space occupied by Le Fort I fixation plates. Implants were fabricated from polymethyl methacrylate (PMMA) using CAD/CAM patient-specific molds. Clinical and photographic outcomes were assessed at minimum 24-month follow-up. Both patients achieved satisfactory midface projection with no postoperative complications at 24-month follow-up. No implant displacement, infraorbital nerve deficit, wound dehiscence, or plate removal was required in either case. A patient-specific paranasal implant designed to coexist with Le Fort I fixation hardware enables safe, effective, and stable single-stage midface augmentation during orthognathic surgery, eliminating secondary procedures over a minimum 2-year follow-up.",
+      "objective": "",
+      "study_methods": "Two patients underwent Le Fort I osteotomy combined with simultaneous placement of patient-specific paranasal implants designed through 3-dimensional virtual surgical planning (VSP) to intentionally share the anatomical space occupied by Le Fort I fixation plates. Implants were fabricated from polymethyl methacrylate (PMMA) using CAD/CAM patient-specific molds. Clinical and photographic outcomes were assessed at minimum 24-month follow-up.",
+      "methods": "Two patients underwent Le Fort I osteotomy combined with simultaneous placement of patient-specific paranasal implants designed through 3-dimensional virtual surgical planning (VSP) to intentionally share the anatomical space occupied by Le Fort I fixation plates. Implants were fabricated from polymethyl methacrylate (PMMA) using CAD/CAM patient-specific molds. Clinical and photographic outcomes were assessed at minimum 24-month follow-up.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42559963/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42668020",
+      "title": "What are the local surgical adjuncts to enhance paranasal augmentation in Le Fort 1 osteotomies? A Systematic Review.",
+      "authors": [
+        "Celestine Yu Qing Teo",
+        "Shili Ng",
+        "Cheryl Ker Jia Lee",
+        "Chee Weng Yong"
+      ],
+      "publication_date": "2026-Aug-29",
+      "publication_date_iso": "2026-08-29",
+      "abstract": "Adjunctive surgical procedures may be performed simultaneously with Le Fort I osteotomy (LF1) to ensure adequate paranasal augmentation. The objective of this systematic review is to integrate current knowledge on concurrent local surgical methods to supplement LF1 to enhance paranasal volume. Twenty-two studies involving 463 patients were reviewed. Four subgroups of local surgical adjuncts were identified. Subgroup 1 (9 studies, 245 patients) consisted of high and quadrangular Le Fort I modifications. This subgroup had the most robust evidence in terms of paranasal volume augmentation and stability. Subgroup 2 (6 studies, 83 patients) consisted of pedicled buccal fat pad (BFP) and free intra-oral autogenous bone block grafts. While the two types of grafts were shown to be useful in paranasal augmentation, there are insufficient long-term studies to demonstrate their stability. The third subgroup (4 studies, 103 patients) had no reported complications and showed good stability, but the amount of augmentation was modest. The last subgroup (3 studies, 32 patients) had the weakest degree of evidence. All four types of surgical adjuncts demonstrated clinical benefit based on subjective outcome assessments. However, given the predominance of low=level evidence, firm conclusions regarding efficacy cannot be drawn. When compared, subgroup 1 showed the best evidence whereas subgroup 4 showed the least. Subgroup 2 lacked evidence in stability while subgroup 3 showed limited amount of paranasal augmentation.",
+      "objective": "of this systematic review is to integrate current knowledge on concurrent local surgical",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "regarding efficacy cannot be drawn. When compared, subgroup 1 showed the best evidence whereas subgroup 4 showed the least. Subgroup 2 lacked evidence in stability while subgroup 3 showed limited amount of paranasal augmentation.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668020/",
       "pmcid": "",
       "figure_urls": []
     },
