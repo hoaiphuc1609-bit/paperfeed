@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T08:07:21Z",
+  "updated_at": "2026-08-31T08:32:53Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -355,10 +355,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42404491/",
       "pmcid": "PMC13330503",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13330503/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13330503/bin/ga1.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "42381887",
@@ -664,12 +661,7 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41563872/",
       "pmcid": "PMC12825576",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.gif"
-      ]
+      "figure_urls": []
     },
     {
       "pmid": "41431197",
@@ -3374,29 +3366,6 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42635767/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42633841",
-      "title": "Determinants of Complication Incidence and Severity in Orthognathic Surgery.",
-      "authors": [
-        "Rabia Tül Adeviye Çankaya",
-        "Nihat Akbulut"
-      ],
-      "publication_date": "2026-Aug-23",
-      "publication_date_iso": "2026-08-23",
-      "abstract": "The purpose of this study was to evaluate the incidence and determinants of complications following orthognathic surgery, with particular emphasis on factors influencing complication severity. This retrospective single-center cohort study included patients who underwent orthognathic surgery between 2016 and 2025. Independent variables included skeletal pattern, surgical movement (<10 mm vs ≥10 mm), type of surgery, fixation method, planning approach, and demographic factors. The primary outcome was perioperative complications, additionally categorized as minor, moderate, or major. Multivariable logistic regression identified independent predictors of complications, and ordinal logistic regression assessed factors associated with increasing complication severity. The sample included 243 patients (mean age 23.4±5.3 years); 152 (62.6%) were female. Complications occurred in 43 patients (17.7%). In multivariable analysis, Class III deformity demonstrated lower odds of complications compared with Class II (OR: 0.33; p = 0.035). Surgical movement ≥10 mm and double-jaw surgery were associated with higher complication rates in univariable analysis but not after adjustment. No significant association was observed for fixation type or planning method. In severity analysis, skeletal classification remained a significant predictor of increasing complication severity. Movements ≥10 mm were associated with a higher frequency of major complications (9.2% vs 0.6%; RR: 14.3; p = 0.001). Complication risk in orthognathic surgery is influenced by both procedural and biomechanical factors. Larger surgical movements may increase the risk of major complications despite similar overall complication rates.",
-      "objective": "of this study was to evaluate the incidence and determinants of complications following orthognathic surgery, with particular emphasis on factors influencing complication severity. This retrospective single-center cohort study included patients who underwent orthognathic surgery between 2016 and 2025. Independent variables included skeletal pattern, surgical movement (<10 mm vs ≥10 mm), type of surgery, fixation",
-      "study_methods": "This retrospective single-center cohort study included patients who underwent orthognathic surgery between 2016 and 2025. Independent variables included skeletal pattern, surgical movement (<10 mm vs ≥10 mm), type of surgery, fixation method, planning approach, and demographic factors. The primary outcome was perioperative complications, additionally categorized as minor, moderate, or major. Multivariable logistic regression identified independent predictors of complications, and ordinal logistic regression assessed factors associated with increasing complication severity.",
-      "methods": "This retrospective single-center cohort study included patients who underwent orthognathic surgery between 2016 and 2025. Independent variables included skeletal pattern, surgical movement (<10 mm vs ≥10 mm), type of surgery, fixation method, planning approach, and demographic factors. The primary outcome was perioperative complications, additionally categorized as minor, moderate, or major. Multivariable logistic regression identified independent predictors of complications, and ordinal logistic regression assessed factors associated with increasing complication severity.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42633841/",
       "pmcid": "",
       "figure_urls": []
     }
