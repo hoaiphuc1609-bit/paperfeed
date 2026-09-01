@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T08:32:53Z",
+  "updated_at": "2026-09-01T07:33:55Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -115,6 +115,37 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42447562/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42391881",
+      "title": "Ensaya: An ensemble age model for prediction of chronological age in adolescents and young adults.",
+      "authors": [
+        "Kristina Stenløkk",
+        "Pål Skage Dahlberg",
+        "Veslemøy Rolseth",
+        "Herman Bernitz",
+        "Mohamed Yasin Gamieldien",
+        "Mona Nahas Gholmieh",
+        "Liam Robinson",
+        "Antoine Saadé",
+        "Andre Uys",
+        "Øyvind Bleka"
+      ],
+      "publication_date": "2027-Jan",
+      "publication_date_iso": "2027-01-01",
+      "abstract": "DNA methylation-based models for chronological age estimation have, for over a decade, been among the most important methods for age prediction in humans. While large-scale data have enabled the development of numerous models, their accuracy varies substantially depending on choice of machine learning algorithm, pre-processing pipeline, age range, tissue type, and population characteristics. Accurate age estimation in adolescents and young adults is particularly relevant in legal, investigational, and biomedical contexts. Here, we systematically evaluated blood-based DNA methylation age predictors in individuals aged 12-25 years and developed Ensaya (Ensemble age model for prediction of chronological age in adolescents and young adults), an ensemble model optimized for this age range. We assembled a validation dataset of 687 whole blood or peripheral blood mononuclear cell samples from 12 cohorts, profiled using Illumina 450 K, EPIC, and EPIC v2 arrays. We compared existing clocks and assessed robustness across cohorts, platforms, normalisation procedures, technical replicates, sex, and circadian timing. Among individual models, PAYA, cAge, and Garma showed the strongest performance and were combined into the Ensaya ensemble. In validation, Ensaya achieved improved accuracy, with a median absolute deviation of 0.79 years and a mean absolute error of 1.04 years, along with reduced age-dependent bias. It also demonstrated high technical reproducibility and stable performance across platforms and normalisation methods. These findings show that ensemble-based modelling improves age estimation in adolescents and young adults, supporting Ensaya as a practical blood-based predictor.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42391881/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -355,7 +386,10 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42404491/",
       "pmcid": "PMC13330503",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13330503/bin/ga1.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13330503/bin/ga1.gif"
+      ]
     },
     {
       "pmid": "42381887",
@@ -661,7 +695,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41563872/",
       "pmcid": "PMC12825576",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0001_C.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.jpg",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825576/bin/IANN_A_2617721_F0002_C.gif"
+      ]
     },
     {
       "pmid": "41431197",
@@ -976,6 +1015,39 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42378842/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42308750",
+      "title": "Association between masticatory performance changes and functional disability and mortality risk in older adults: a retrospective cohort study.",
+      "authors": [
+        "Takafumi Abe",
+        "Kazumichi Tominaga",
+        "Hisaaki Saito",
+        "Jun Shimizu",
+        "Norikuni Maeda",
+        "Ryouji Matsuura",
+        "Yukio Inoue",
+        "Yuichi Ando",
+        "Yuhei Matsuda",
+        "Takahiro Kanno",
+        "Shozo Yano",
+        "Minoru Isomura"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "The effects of masticatory performance changes on health outcomes remain unclear. Therefore, we examined the association between changes in objective masticatory performance and the incidence of functional disability and death. This cohort study analyzed data from individuals aged ≥75 years in Shimane, Japan, who underwent two oral health check-ups between April 1, 2016, and March 31, 2022 under Japan's Long-Term Care Insurance system. Masticatory performance was assessed using a standardized gummy jelly test, and participants were classified into high- or low-performance groups at each time point. The change groups were high-high, low-high, high-low, and low-low. We ascertained functional disability and mortality after the second assessment and estimated hazard ratios (HRs) and 95% confidence intervals (CI) using inverse probability weighting with propensity scores from all covariates, with doubly robust estimation for robustness. Of 4,410 participants, 2,000 (45.35%) were men and 2,410 (54.65%) were women. The median age was 79 years (interquartile range [IQR] 78-82) with a median follow-up of 31 months (IQR 16-42). Compared with the high-high group, HRs for functional disability or mortality were 1.75 (95% CI: 1.19-2.59) for the high-low group and 1.86 (95% CI: 1.35-2.55) for the low-low group, both statistically significant, while the low-high group showed a non-significant elevation in risk (HR 1.48, 95% CI: 0.95-2.32). The findings suggest that maintaining high masticatory performance throughout later life may be more important than later recovery, and support the integration of objective oral assessments into routine geriatric care to help extend healthy life expectancy.",
+      "objective": "masticatory performance and the incidence of functional disability and death. This cohort study analyzed data from individuals aged ≥75 years in Shimane, Japan, who underwent two oral health check-ups between April 1, 2016, and March 31, 2022 under Japan's Long-Term Care Insurance system. Masticatory performance was assessed using a standardized gummy jelly test, and participants were classified into high- or low-performance groups at each time point. The change groups were high-high, low-high, high-low, and low-low. We ascertained functional disability and mortality after the second assessment and estimated hazard ratios (HRs) and 95% confidence intervals (CI) using inverse probability weighting with propensity scores from all covariates, with doubly robust estimation for robustness. Of 4,410 participants, 2,000 (45.35%) were men and 2,410 (54.65%) were women. The median age was 79 years (interquartile range [IQR] 78-82) with a median follow-up of 31 months (IQR 16-42). Compared with the high-high group, HRs for functional disability or mortality were 1.75 (95% CI: 1.19-2.59) for the high-low group and 1.86 (95% CI: 1.35-2.55) for the low-low group, both statistically significant, while the low-high group showed a non-significant elevation in risk (HR 1.48, 95% CI: 0.95-2.32). The findings suggest that maintaining high masticatory performance throughout later life may be more important than later recovery, and support the integration of objective oral assessments into routine geriatric care to help extend healthy life expectancy.",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42308750/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1392,30 +1464,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42557212",
-      "title": "Letter to the Editor on \"Clinical decision-making regarding histopathologic submission of tooth-associated lesional tissue\".",
-      "authors": [
-        "Neha Jain",
-        "Saksham Nahar",
-        "Rakesh Nagaraju"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42557212/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42502020",
       "title": "Reply to Letter to the Editor on \"Agreement between clinical and histopathological diagnoses of oral-maxillofacial lesions: a multicenter study\" Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology.",
       "authors": [
@@ -1560,6 +1608,104 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42248704/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41991416",
+      "title": "Skeletal correction in craniofacial microsomia: a case series and algorithm for management.",
+      "authors": [
+        "A A Heggie",
+        "D Rao"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Craniofacial microsomia is the second most common congenital anomaly of the head and neck region. The associated facial asymmetry due to mandibular hypoplasia, whether unilateral or bilateral, is a prominent feature of the disorder. Surgical management of the skeletal deformity is dependent on the grade of severity of the affected sides. Prepubertal interventions in patients with Kaban type IIB or III include condyle-ramus reconstructions as a prelude to final orthognathic correction of the facial asymmetry and occlusion. This retrospective study of the skeletal management of 29 patients with craniofacial microsomia was conducted to outline their surgery and to suggest an algorithm for future treatment of this condition. Fourteen patients were classified as Kaban type I or II and underwent one or more orthognathic surgical procedures at the completion of growth. Fifteen patients with type IIB or III mandibular deformities had costochondral graft temporomandibular joint reconstructions. Reduced mandibular opening due to progressive ankylosis occurred in seven of these patients (47%), but this was treated successfully with release and subsequent orthognathic surgery. With the more recent addition of total joint replacement in craniofacial microsomia, there remains a wide divergence of opinion regarding early surgery. An algorithm for the management of the mandibular deformity is presented.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41991416/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41862323",
+      "title": "Operative protocol for re-do orthognathic surgery.",
+      "authors": [
+        "M Raffaini",
+        "B Bianchi",
+        "F Arcuri"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "This study aimed to analyse the spectrum of unsatisfactory outcomes requiring secondary surgery, the technical challenges involved, and the results achieved in a cohort of patients undergoing reoperative orthognathic surgery. A retrospective, single-centre study was conducted on all patients who underwent secondary orthognathic surgery at the Face Surgery Center (Parma, Italy) between January 2014 and June 2024. All patients had previously undergone orthognathic procedures by other surgeons abroad and were dissatisfied with the aesthetic outcomes. The final sample included 72 patients (50 women, 22 men), with a mean age of 25.8 years (range 18-43) at reoperation. All patients were treated by revision bimaxillary surgery; it was combined with: septorhinoplasty (52 patients, 72.2%); genioplasty (36 patients, 50%); mandibular remodelling (nine patients, 12.5%); mandibular angle prostheses (three patients, 4.1%); eyelid surgery (two patients, 2.7%). The main defects after primary surgery were (each individual case may incorporate several defects): enlargement or deformation of the nose (86%); facial asymmetry (57%); chin projection deficiency (50%); irregular mandibular borders (48%); and malocclusion (42%). No skeletal relapses occurred postoperatively; after surgery Class I occlusion was achieved in all patients. Bimaxillary procedures combined with facial lipofilling led to improved aesthetic outcomes in most patients.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "achieved in a cohort of patients undergoing reoperative orthognathic surgery. A retrospective, single-centre study was conducted on all patients who underwent secondary orthognathic surgery at the Face Surgery Center (Parma, Italy) between January 2014 and June 2024. All patients had previously undergone orthognathic procedures by other surgeons abroad and were dissatisfied with the aesthetic outcomes. The final sample included 72 patients (50 women, 22 men), with a mean age of 25.8 years (range 18-43) at reoperation. All patients were treated by revision bimaxillary surgery; it was combined with: septorhinoplasty (52 patients, 72.2%); genioplasty (36 patients, 50%); mandibular remodelling (nine patients, 12.5%); mandibular angle prostheses (three patients, 4.1%); eyelid surgery (two patients, 2.7%). The main defects after primary surgery were (each individual case may incorporate several defects): enlargement or deformation of the nose (86%); facial asymmetry (57%); chin projection deficiency (50%); irregular mandibular borders (48%); and malocclusion (42%). No skeletal relapses occurred postoperatively; after surgery Class I occlusion was achieved in all patients. Bimaxillary procedures combined with facial lipofilling led to improved aesthetic outcomes in most patients.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41862323/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41807241",
+      "title": "Orthognathic occlusal setups: a comparative analysis of in-house and industry-generated splints.",
+      "authors": [
+        "M F Caminiti",
+        "S A Zahavi",
+        "T Capucha"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Three-dimensional imaging, 3D printing, and computer-assisted planning have revolutionized craniofacial surgery, allowing surgeons to fabricate surgical splints in-house. While this shift enhances efficiency and data security, research comparing the quality of in-house versus industry-produced splints remains limited. This study evaluated 20 orthognathic surgery cases to compare industry-generated splints (IND) with in-house-fabricated splints (IHS). Using 3D-printed dental models and a modified American Board of Orthodontics Objective Grading System, two blinded orthodontists assessed the resulting occlusions. Higher scores indicated superior occlusal quality. The results demonstrated that in-house splints (mean score 29.70) yielded significantly better occlusal outcomes than industry splints (mean score 27.28) (P = 0.013). This suggests that, following an initial learning curve, oral and maxillofacial surgeons can produce in-house splints that meet or exceed the quality of third-party industry standards. In-house fabrication serves as a highly effective, viable alternative for orthognathic surgical planning, offering clinical advantages alongside logistical benefits.",
+      "objective": "Grading System, two blinded orthodontists assessed the resulting occlusions. Higher scores indicated superior occlusal quality. The",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing occlusions. Higher scores indicated superior occlusal quality. The results demonstrated that in-house splints (mean score 29.70) yielded significantly better occlusal outcomes than industry splints (mean score 27.28) (P = 0.013). This suggests that, following an initial learning curve, oral and maxillofacial surgeons can produce in-house splints that meet or exceed the quality of third-party industry standards. In-house fabrication serves as a highly effective, viable alternative for orthognathic surgical planning, offering clinical advantages alongside logistical benefits.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41807241/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "41775582",
+      "title": "Artificial intelligence in treatment prediction for skeletal Class III malocclusion: A systematic review.",
+      "authors": [
+        "R Hasbi",
+        "A Brotons",
+        "M Le Gall",
+        "D Dorison-Bachet",
+        "R Urena",
+        "C Philip-Alliez"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "In skeletal Class III patients, treatment options range from orthodontics to orthognathic surgery. Choosing the optimal approach requires a comprehensive clinical evaluation, which may be supported by AI tools. The aim of this study was to assess the performance of AI models in predicting the need for orthognathic surgery and in identifying predictors influencing treatment decisions. A PRISMA-guided electronic database search (PubMed, Web of Science; 2009-2024; English/French) was performed to identify studies using machine learning (ML) or deep learning (DL) on cephalometric and clinical data. After screening and assessment for eligibility, 15 studies were critically appraised. Model performance was summarized using accuracy, sensitivity, specificity, and the area under the curve (AUC). ML algorithms (particularly Random Forest and XGBoost) and DL models (ResNet-based convolutional neural networks (CNNs)) achieved high accuracy for predicting surgical need. Frequently selected predictors included Wits appraisal, ANB angle, the maxillomandibular ratio (Mx/Md), overjet, and the divergence of the lower gonial angle. AI methods show promise for assisting treatment decisions in Class III malocclusion, with Random Forest and XGBoost performing well on tabular cephalometric data and CNNs on imaging. Larger, multicentre datasets and external validation are needed to improve reliability, address bias, and support clinical implementation.",
+      "objective": "of this study was to assess the performance of AI models in predicting the need for orthognathic surgery and in identifying predictors influencing treatment decisions. A PRISMA-guided electronic database search (PubMed, Web of Science; 2009-2024; English/French) was performed to identify studies using machine learning (ML) or deep learning (DL) on cephalometric and clinical data. After screening and assessment for eligibility, 15 studies were critically appraised. Model performance was summarized using accuracy, sensitivity, specificity, and the area under the curve (AUC). ML algorithms (particularly Random Forest and XGBoost) and DL models (ResNet-based convolutional neural networks (CNNs)) achieved high accuracy for predicting surgical need. Frequently selected predictors included Wits appraisal, ANB angle, the maxillomandibular ratio (Mx/Md), overjet, and the divergence of the lower gonial angle. AI",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41775582/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2676,38 +2822,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42235651",
-      "title": "Amoxicillin bone penetration in patients with medication-related osteonecrosis of the jaw: A preliminary study.",
-      "authors": [
-        "Jessica Cusato",
-        "Alessandra Manca",
-        "Virginia Moscone",
-        "Miriam Antonucci",
-        "Francesco Chiara",
-        "Jacopo Mula",
-        "Dario Cattaneo",
-        "Lorenzo Bianchi",
-        "Paolo Arduino",
-        "Antonio D'Avolio",
-        "Francesco Erovigni"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Medication-related osteonecrosis of the jaw (MRONJ) is associated with altered bone perfusion and impaired drug delivery. This study aimed to compare amoxicillin exposure in plasma and bone tissue between patients with MRONJ and controls undergoing oral surgery. Twenty-seven patients treated with bisphosphonates or denosumab were enrolled between 2022 and 2024. Twelve patients with MRONJ were classified as cases, while fifteen were controls. Baseline characteristics, antibiotic regimens, and amoxicillin concentrations in plasma and bone tissue were considered. Drug concentrations were normalized for the administered dose. Samples with undetectable drug levels were excluded from analysis. Cases and controls were comparable in age, sex, body mass index, hematochemical parameters, and duration of antibiotic therapy. Median dose-adjusted plasma concentrations of amoxicillin were similar between cases (3.8 [2.8-4.5] mg/L/g) and controls (4.0 [3.0-4.8] mg/L/g amoxicillin, p = 0.533). In contrast, bone amoxicillin dose-adjusted concentrations were significantly lower in cases (0.9 [0.2-3.1] ng/mg/g amoxicillin) compared to controls (15.5 [8.7-17.9] ng/mg/g amoxicillin, p = 0.004). The bone-to-plasma ratio showed a non-significant trend toward lower values in MRONJ patients (49% vs 298%, p = 0.133). Despite similar systemic exposure, amoxicillin bone concentrations were significantly reduced in MRONJ patients, suggesting impaired local drug delivery potentially related to necrosis and poor vascularization. This exploratory study highlights the need for personalized antibiotic strategies in MRONJ management and provide a pharmacokinetic rationale for the reduced efficacy of beta-lactams in this clinical setting.",
-      "objective": "",
-      "study_methods": "Twenty-seven patients treated with bisphosphonates or denosumab were enrolled between 2022 and 2024. Twelve patients with MRONJ were classified as cases, while fifteen were controls. Baseline characteristics, antibiotic regimens, and amoxicillin concentrations in plasma and bone tissue were considered. Drug concentrations were normalized for the administered dose. Samples with undetectable drug levels were excluded from analysis.",
-      "methods": "Twenty-seven patients treated with bisphosphonates or denosumab were enrolled between 2022 and 2024. Twelve patients with MRONJ were classified as cases, while fifteen were controls. Baseline characteristics, antibiotic regimens, and amoxicillin concentrations in plasma and bone tissue were considered. Drug concentrations were normalized for the administered dose. Samples with undetectable drug levels were excluded from analysis.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42235651/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42172911",
       "title": "Nonsurgical treatment of an adult Class II division 1 right-subdivision malocclusion with reduced periodontal support using third-molar extraction and palatal miniscrew-assisted distalization: A case report.",
       "authors": [
@@ -3133,134 +3247,132 @@
       "figure_urls": []
     },
     {
-      "pmid": "42559963",
-      "title": "Simultaneous Paranasal Augmentation and Le Fort I Osteotomy Using a Patient-Specific Implant Designed to Share the Fixation Space: Two-Year Clinical Outcomes.",
+      "pmid": "42673893",
+      "title": "Diagnostic performance of artificial intelligence for orthodontic and dentofacial assessment using 2D and 3D facial images: A systematic review.",
       "authors": [
-        "Renato Marano",
-        "Luis Fernando de Oliveira Gorla",
-        "Diogo Vasconcelos Macedo"
+        "Hugo Henrique Dos Santos Dantas Guimarães",
+        "Karla Nogueira Matos"
       ],
       "publication_date": "2026-Aug-31",
       "publication_date_iso": "2026-08-31",
-      "abstract": "Residual paranasal concavity may persist after Le Fort I osteotomy despite adequate maxillary repositioning, limiting the aesthetic impact of orthognathic surgery. Simultaneous paranasal implant placement is rarely reported due to spatial conflict with rigid internal fixation systems and concerns regarding infraorbital nerve safety. Two patients underwent Le Fort I osteotomy combined with simultaneous placement of patient-specific paranasal implants designed through 3-dimensional virtual surgical planning (VSP) to intentionally share the anatomical space occupied by Le Fort I fixation plates. Implants were fabricated from polymethyl methacrylate (PMMA) using CAD/CAM patient-specific molds. Clinical and photographic outcomes were assessed at minimum 24-month follow-up. Both patients achieved satisfactory midface projection with no postoperative complications at 24-month follow-up. No implant displacement, infraorbital nerve deficit, wound dehiscence, or plate removal was required in either case. A patient-specific paranasal implant designed to coexist with Le Fort I fixation hardware enables safe, effective, and stable single-stage midface augmentation during orthognathic surgery, eliminating secondary procedures over a minimum 2-year follow-up.",
+      "abstract": "Artificial intelligence (AI) has been increasingly applied to facial-image analysis in orthodontics, with potential applications in radiation-free screening, dentofacial assessment, and treatment-decision support. This systematic review evaluated the diagnostic and predictive performance of AI models applied to two-dimensional (2D) and three-dimensional (3D) facial data. The protocol was registered in PROSPERO (CRD420261419145). PubMed, Embase, Scopus, Web of Science, Cochrane Library, ClinicalTrials.gov, Google Scholar, and Open Science Framework were searched. Eligible studies evaluated AI models using facial photographs, multi-view photographs, 3D facial scans, reconstructed facial models, or landmark-coordinate inputs for downstream diagnostic, predictive, classification, or treatment-decision tasks. Studies limited exclusively to landmark localization were excluded. Data were synthesized qualitatively. Risk of bias was assessed with QUADAS-2 and certainty of evidence with GRADE. Fourteen studies were included. Applications comprised cephalometric prediction, skeletal-pattern classification, mandibular-deformity diagnosis, soft-tissue depth assessment, treatment-difficulty classification, and orthognathic-surgery-need prediction. Across classification studies, accuracy ranged from 73.1% to 97.7%, AUC from 0.768 to 0.987, sensitivity or recall from 64.3% to 97.3%, and specificity from 80.5% to 95.6%. Only one study performed true external validation. Methodological heterogeneity, predominantly internal evaluation, and low overall certainty limited clinical translation. AI-based analysis of 2D and 3D facial data showed promising performance for selected orthodontic and dentofacial tasks. Current evidence supports its use as an adjunct to specialist assessment rather than as an autonomous diagnostic substitute. CRD420261419145.",
       "objective": "",
-      "study_methods": "Two patients underwent Le Fort I osteotomy combined with simultaneous placement of patient-specific paranasal implants designed through 3-dimensional virtual surgical planning (VSP) to intentionally share the anatomical space occupied by Le Fort I fixation plates. Implants were fabricated from polymethyl methacrylate (PMMA) using CAD/CAM patient-specific molds. Clinical and photographic outcomes were assessed at minimum 24-month follow-up.",
-      "methods": "Two patients underwent Le Fort I osteotomy combined with simultaneous placement of patient-specific paranasal implants designed through 3-dimensional virtual surgical planning (VSP) to intentionally share the anatomical space occupied by Le Fort I fixation plates. Implants were fabricated from polymethyl methacrylate (PMMA) using CAD/CAM patient-specific molds. Clinical and photographic outcomes were assessed at minimum 24-month follow-up.",
+      "study_methods": "The protocol was registered in PROSPERO (CRD420261419145). PubMed, Embase, Scopus, Web of Science, Cochrane Library, ClinicalTrials.gov, Google Scholar, and Open Science Framework were searched. Eligible studies evaluated AI models using facial photographs, multi-view photographs, 3D facial scans, reconstructed facial models, or landmark-coordinate inputs for downstream diagnostic, predictive, classification, or treatment-decision tasks. Studies limited exclusively to landmark localization were excluded. Data were synthesized qualitatively. Risk of bias was assessed with QUADAS-2 and certainty of evidence with GRADE.",
+      "methods": "The protocol was registered in PROSPERO (CRD420261419145). PubMed, Embase, Scopus, Web of Science, Cochrane Library, ClinicalTrials.gov, Google Scholar, and Open Science Framework were searched. Eligible studies evaluated AI models using facial photographs, multi-view photographs, 3D facial scans, reconstructed facial models, or landmark-coordinate inputs for downstream diagnostic, predictive, classification, or treatment-decision tasks. Studies limited exclusively to landmark localization were excluded. Data were synthesized qualitatively. Risk of bias was assessed with QUADAS-2 and certainty of evidence with GRADE.",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
         "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42559963/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673893/",
       "pmcid": "",
       "figure_urls": []
     },
     {
-      "pmid": "42668020",
-      "title": "What are the local surgical adjuncts to enhance paranasal augmentation in Le Fort 1 osteotomies? A Systematic Review.",
+      "pmid": "42673518",
+      "title": "Salvage Reconstruction of a Traumatic Oronasal Fistula Following Complex Panfacial Trauma: Durable 2-Layer Mucoperiosteal Repair.",
       "authors": [
-        "Celestine Yu Qing Teo",
-        "Shili Ng",
-        "Cheryl Ker Jia Lee",
-        "Chee Weng Yong"
+        "Luke Williams",
+        "Niki K Patel",
+        "H Safak Uygur"
       ],
-      "publication_date": "2026-Aug-29",
-      "publication_date_iso": "2026-08-29",
-      "abstract": "Adjunctive surgical procedures may be performed simultaneously with Le Fort I osteotomy (LF1) to ensure adequate paranasal augmentation. The objective of this systematic review is to integrate current knowledge on concurrent local surgical methods to supplement LF1 to enhance paranasal volume. Twenty-two studies involving 463 patients were reviewed. Four subgroups of local surgical adjuncts were identified. Subgroup 1 (9 studies, 245 patients) consisted of high and quadrangular Le Fort I modifications. This subgroup had the most robust evidence in terms of paranasal volume augmentation and stability. Subgroup 2 (6 studies, 83 patients) consisted of pedicled buccal fat pad (BFP) and free intra-oral autogenous bone block grafts. While the two types of grafts were shown to be useful in paranasal augmentation, there are insufficient long-term studies to demonstrate their stability. The third subgroup (4 studies, 103 patients) had no reported complications and showed good stability, but the amount of augmentation was modest. The last subgroup (3 studies, 32 patients) had the weakest degree of evidence. All four types of surgical adjuncts demonstrated clinical benefit based on subjective outcome assessments. However, given the predominance of low=level evidence, firm conclusions regarding efficacy cannot be drawn. When compared, subgroup 1 showed the best evidence whereas subgroup 4 showed the least. Subgroup 2 lacked evidence in stability while subgroup 3 showed limited amount of paranasal augmentation.",
-      "objective": "of this systematic review is to integrate current knowledge on concurrent local surgical",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "regarding efficacy cannot be drawn. When compared, subgroup 1 showed the best evidence whereas subgroup 4 showed the least. Subgroup 2 lacked evidence in stability while subgroup 3 showed limited amount of paranasal augmentation.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668020/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42663421",
-      "title": "What happens to the contralateral condyle after proportional condylectomy? A multicenter study.",
-      "authors": [
-        "Bibiana Mello da Rosa",
-        "Adaia Valls-Ontañón",
-        "Rubens Martins Bastos",
-        "Rogério Belle de Oliveira",
-        "Federico Hernández-Alfaro",
-        "Orion Luiz Haas"
-      ],
-      "publication_date": "2026-Aug-28",
-      "publication_date_iso": "2026-08-28",
-      "abstract": "This retrospective study evaluated 3D positional and volumetric adaptations of the contralateral condyle after proportional condylectomy performed alone or combined with orthognathic surgery. Twenty-three patients were allocated into three groups: isolated proportional condylectomy (G1), simultaneous condylectomy and orthognathic surgery (G2), and staged treatment (G3). CBCT analysis used anatomical landmarks, and condylar volume was assessed by semi-automated reconstruction. Median follow-up was 12.1, 9.7, and 13.3 months for G1, G2, and G3, respectively (7.7 months for T1-T2 in G3). G1 showed no significant positional changes. G2 exhibited superomedial rotational adaptation, with superior (0.5 mm, p = .01) and medial (1.5 mm, p = .04) displacements and lateral displacement of -0.5 mm (p = .048). G3 showed linear medial displacement of 2.6 mm (p=.04). No significant volumetric changes occurred in any group. Distinct short-term 3D adaptation patterns of the contralateral condyle occurred according to surgical strategy. Volumetric changes were modest, suggesting adaptive remodeling rather than pathological resorption.",
-      "objective": "",
-      "study_methods": "Twenty-three patients were allocated into three groups: isolated proportional condylectomy (G1), simultaneous condylectomy and orthognathic surgery (G2), and staged treatment (G3). CBCT analysis used anatomical landmarks, and condylar volume was assessed by semi-automated reconstruction.",
-      "methods": "Twenty-three patients were allocated into three groups: isolated proportional condylectomy (G1), simultaneous condylectomy and orthognathic surgery (G2), and staged treatment (G3). CBCT analysis used anatomical landmarks, and condylar volume was assessed by semi-automated reconstruction.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42663421/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42648440",
-      "title": "Evolution of temporomandibular joint-related clinical findings and patient reported quality of life after orthognathic surgery: a prospective multicenter study.",
-      "authors": [
-        "Manon Salomon",
-        "Pierre Revol",
-        "Dominique Seblain",
-        "Amaury Gindre",
-        "Frederic Barere",
-        "Jacques Saboye",
-        "Xavier Pronost",
-        "Pierre Corre",
-        "Hélios Bertin"
-      ],
-      "publication_date": "2026-Aug-26",
-      "publication_date_iso": "2026-08-26",
-      "abstract": "Temporomandibular joint disorders (TMJD) are frequent in patients with dentofacial deformities. Orthognathic surgery aims to restore occlusion, facial aesthetics and function, but its effects on TMD and quality of life (QoL) remain controversial. This study aimed to evaluate the evolution of TMJD-related clinical findings after orthognathic surgery and to assess their impact on QoL. This prospective multicenter study included 192 patients undergoing first-time orthognathic surgery in France (2022-2024). TMJD-related symptoms (pain, joint noise and locking), maximal mouth opening (MMO), and self-reported bruxism were assessed preoperatively and at 4-6 weeks postoperatively. QoL was measured with the Orthognathic QoL Questionnaire (OQLQ) before surgery and at 8-12 months. Preoperatively, 45.8% of patients presented with TMJD symptoms. Postoperatively, this prevalence decreased to 29.7% (p=0.001), with significant reductions in joint clicking, noise, and deviated mouth opening, while joint pain remained unchanged. We observed a non-significant decrease in the prevalence of joint pain from the preoperative to the postoperative period. MMO transiently decreased after surgery (4.2 cm vs 3.0 cm, p<0.0001). OQLQ scores improved significantly (31.8 ± 20.1 vs 15.4 ± 15.8; p<0.0001), particularly in social and aesthetic domains. Patients with Class III malocclusion showed greater functional gains. The presence of TMJD was associated with lower preoperative QoL, and postoperative bruxism remained strongly correlated with poorer outcomes. Orthognathic surgery contributes to significant improvement in TMJD mechanical symptoms and QoL. Comprehensive management, especially of parafunctions such as bruxism, is crucial to optimize long-term outcomes.",
-      "objective": "to restore occlusion, facial aesthetics and function, but its effects on TMD and quality of life (QoL) remain controversial. This study aimed to evaluate the evolution of TMJD-related clinical findings after orthognathic surgery and to assess their impact on QoL. This prospective multicenter study included 192 patients undergoing first-time orthognathic surgery in France (2022-2024). TMJD-related symptoms (pain, joint noise and locking), maximal mouth opening (MMO), and self-reported bruxism were assessed preoperatively and at 4-6 weeks postoperatively. QoL was measured with the Orthognathic QoL Questionnaire (OQLQ) before surgery and at 8-12 months. Preoperatively, 45.8% of patients presented with TMJD symptoms. Postoperatively, this prevalence decreased to 29.7% (p=0.001), with significant reductions in joint clicking, noise, and deviated mouth opening, while joint pain remained unchanged. We observed a non-significant decrease in the prevalence of joint pain from the preoperative to the postoperative period. MMO transiently decreased after surgery (4.2 cm vs 3.0 cm, p<0.0001). OQLQ scores improved significantly (31.8 ± 20.1 vs 15.4 ± 15.8; p<0.0001), particularly in social and aesthetic domains. Patients with Class III malocclusion showed greater functional gains. The presence of TMJD was associated with lower preoperative QoL, and postoperative bruxism remained strongly correlated with poorer outcomes. Orthognathic surgery contributes to significant improvement in TMJD mechanical symptoms and QoL. Comprehensive management, especially of parafunctions such as bruxism, is crucial to optimize long-term outcomes.",
-      "study_methods": "This prospective multicenter study included 192 patients undergoing first-time orthognathic surgery in France (2022-2024). TMJD-related symptoms (pain, joint noise and locking), maximal mouth opening (MMO), and self-reported bruxism were assessed preoperatively and at 4-6 weeks postoperatively. QoL was measured with the Orthognathic QoL Questionnaire (OQLQ) before surgery and at 8-12 months.",
-      "methods": "This prospective multicenter study included 192 patients undergoing first-time orthognathic surgery in France (2022-2024). TMJD-related symptoms (pain, joint noise and locking), maximal mouth opening (MMO), and self-reported bruxism were assessed preoperatively and at 4-6 weeks postoperatively. QoL was measured with the Orthognathic QoL Questionnaire (OQLQ) before surgery and at 8-12 months.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42648440/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42647449",
-      "title": "Perioperative Airway Management in Treacher Collins Syndrome With Obstructive Sleep Apnea: A Case Report.",
-      "authors": [
-        "Yaqiong Jiang",
-        "Zhikeng Deng",
-        "Bo Yao",
-        "Xiaohua Liang",
-        "Zhaojun Qin"
-      ],
-      "publication_date": "2026-Aug-26",
-      "publication_date_iso": "2026-08-26",
-      "abstract": "BACKGROUND Treacher Collins syndrome (TCS) is a congenital disorder resulting from maldevelopment of the first and second pharyngeal arches. A major high-risk comorbidity is obstructive sleep apnea (OSA), characterized by recurrent upper airway collapse during sleep, leading to intermittent hypoxia and sleep fragmentation. This condition requires a tailored anesthetic strategy due to an anticipated difficult airway during intubation and increased vulnerability to postoperative respiratory failure. CASE REPORT A 28-year-old man with TCS and polysomnography-confirmed mild OSA underwent orthognathic surgery. Preoperative evaluation included cone-beam computed tomography (CBCT), which objectively quantified retrolingual airway stenosis. After a multidisciplinary briefing, anesthesia was induced with intravenous remimazolam, propofol, sufentanil, and cisatracurium; the airway was secured through videolaryngoscopy-guided nasotracheal intubation. This technique optimized glottic visualization, and controlled induction was feasible because mask ventilation difficulty was not anticipated. The surgical procedure (Le Fort I osteotomy, bilateral sagittal split osteotomy, and genioplasty) was performed to expand the upper airway and correct skeletal deformities. Comparisons of preoperative and postoperative CBCT images and lateral cephalometric radiographs demonstrated clear upper airway expansion and improvement in airway obstruction. Postoperative anesthetic management prioritized a strict opioid-sparing analgesic protocol and monitored extubation, resulting in an uneventful recovery. CONCLUSIONS Management of patients with TCS and OSA during orthognathic surgery relies on a proactive, imaging-informed approach. Key elements include the use of advanced imaging for precise anatomic risk stratification, selection of an intubation technique that provides definitive airway visualization, and implementation of a structured multidisciplinary plan with vigilant postoperative monitoring to mitigate delayed respiratory complications.",
+      "publication_date": "2026-Aug-31",
+      "publication_date_iso": "2026-08-31",
+      "abstract": "Oronasal fistula is an uncommon but functionally significant complication following severe palatal fractures. While fistula repair is well described in cleft populations, traumatic fistulas after complex panfacial reconstruction are less frequently reported and may present unique reconstructive challenges due to prior fracture displacement and surgical manipulation. A 48-year-old male sustained extensive facial trauma after a tractor rollover, resulting in bilateral Le Fort III fractures with additional Le Fort I and II components, a displaced hard palate fracture with mucosal laceration, and associated zygomaticomaxillary and orbital injuries. He underwent open reduction internal fixation of midfacial fractures with external fixation of the palate and occlusal splinting. Five weeks later, palatal hardware was removed due to concern for mucosal compromise. A small palatal defect subsequently progressed to a persistent 0.5×1 cm symptomatic oronasal fistula. Four months after injury, the patient reported nasal regurgitation and speech changes without evidence of infection or bony instability. Given the persistence of symptoms and lack of spontaneous closure, operative intervention was recommended. At surgery, a 2-layer mucoperiosteal repair was performed. Bilateral hinge flaps were elevated in the mucoperiosteal plane and inverted to reconstruct the nasal lining. A right-sided palatal mucoperiosteal flap based on the greater palatine pedicle was then transposed to restore the oral lining. Tension-free layered closure was achieved. Six weeks postoperatively, the repair remained intact with complete resolution of nasal regurgitation. Follow-up is ongoing, with a 5-month evaluation scheduled. Traumatic palatal fistula following complex panfacial reconstruction represents a challenging complication in previously operated tissue. Two-layer mucoperiosteal closure provides a reliable, tissue-sparing salvage strategy that restores oral-nasal separation. Timely recognition and layered repair can achieve favorable functional outcomes.",
       "objective": "",
       "study_methods": "",
       "methods": "",
-      "results": "ing from maldevelopment of the first and second pharyngeal arches. A major high-risk comorbidity is obstructive sleep apnea (OSA), characterized by recurrent upper airway collapse during sleep, leading to intermittent hypoxia and sleep fragmentation. This condition requires a tailored anesthetic strategy due to an anticipated difficult airway during intubation and increased vulnerability to postoperative respiratory failure. CASE REPORT A 28-year-old man with TCS and polysomnography-confirmed mild OSA underwent orthognathic surgery. Preoperative evaluation included cone-beam computed tomography (CBCT), which objectively quantified retrolingual airway stenosis. After a multidisciplinary briefing, anesthesia was induced with intravenous remimazolam, propofol, sufentanil, and cisatracurium; the airway was secured through videolaryngoscopy-guided nasotracheal intubation. This technique optimized glottic visualization, and controlled induction was feasible because mask ventilation difficulty was not anticipated. The surgical procedure (Le Fort I osteotomy, bilateral sagittal split osteotomy, and genioplasty) was performed to expand the upper airway and correct skeletal deformities. Comparisons of preoperative and postoperative CBCT images and lateral cephalometric radiographs demonstrated clear upper airway expansion and improvement in airway obstruction. Postoperative anesthetic management prioritized a strict opioid-sparing analgesic protocol and monitored extubation, resulting in an uneventful recovery.",
-      "conclusion": "Management of patients with TCS and OSA during orthognathic surgery relies on a proactive, imaging-informed approach. Key elements include the use of advanced imaging for precise anatomic risk stratification, selection of an intubation technique that provides definitive airway visualization, and implementation of a structured multidisciplinary plan with vigilant postoperative monitoring to mitigate delayed respiratory complications.",
+      "results": "ing in bilateral Le Fort III fractures with additional Le Fort I and II components, a displaced hard palate fracture with mucosal laceration, and associated zygomaticomaxillary and orbital injuries. He underwent open reduction internal fixation of midfacial fractures with external fixation of the palate and occlusal splinting. Five weeks later, palatal hardware was removed due to concern for mucosal compromise. A small palatal defect subsequently progressed to a persistent 0.5×1 cm symptomatic oronasal fistula. Four months after injury, the patient reported nasal regurgitation and speech changes without evidence of infection or bony instability. Given the persistence of symptoms and lack of spontaneous closure, operative intervention was recommended. At surgery, a 2-layer mucoperiosteal repair was performed. Bilateral hinge flaps were elevated in the mucoperiosteal plane and inverted to reconstruct the nasal lining. A right-sided palatal mucoperiosteal flap based on the greater palatine pedicle was then transposed to restore the oral lining. Tension-free layered closure was achieved. Six weeks postoperatively, the repair remained intact with complete resolution of nasal regurgitation. Follow-up is ongoing, with a 5-month evaluation scheduled. Traumatic palatal fistula following complex panfacial reconstruction represents a challenging complication in previously operated tissue. Two-layer mucoperiosteal closure provides a reliable, tissue-sparing salvage strategy that restores oral-nasal separation. Timely recognition and layered repair can achieve favorable functional outcomes.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673518/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42673498",
+      "title": "Evolution of Scientific Trends in Oral and Maxillofacial Surgery in the Last Decade.",
+      "authors": [
+        "Felix Benjamin Warwas",
+        "Nils Heim"
+      ],
+      "publication_date": "2026-Aug-31",
+      "publication_date_iso": "2026-08-31",
+      "abstract": "Oral and maxillofacial surgery (OMFS) has undergone rapid scientific evolution over the past decade, driven by technological innovation and growing interdisciplinary collaboration. This study presents a comprehensive scientometric and bibliometric analysis of global OMFS research output from 2015 to 2024. A systematic search of PubMed was conducted using OMFS-specific keywords and MeSH terms. Approximately 10,000 eligible publications were identified and analyzed using Bibliometrix (R) and VOSviewer. Annual publication trends, geographic distribution, and topic-specific growth dynamics were evaluated. Annual OMFS publication output increased from 1200 articles in 2015 to over 2200 in 2024, reflecting a compound growth rate of approximately 10% to 15% per year. The United States and China were the leading contributors, followed by Germany, the United Kingdom, and Brazil. Topic analysis revealed sustained growth in implantology and oncology, while research in artificial intelligence and digital surgery demonstrated exponential expansion, rising from <2% of total OMFS output in 2015 to ∼18% by 2024-a near 20-fold increase. Established fields including orthognathic surgery, craniomaxillofacial trauma, and temporomandibular joint disorders showed moderate but consistent growth. OMFS research has undergone both quantitative growth and marked qualitative transformation. The rise of artificial intelligence, digital surgical workflows, and patient-reported outcome research signals a paradigm shift in the specialty. These findings provide a strategic evidence base for future research prioritization and clinical development in OMFS.",
+      "objective": "",
+      "study_methods": "A systematic search of PubMed was conducted using OMFS-specific keywords and MeSH terms. Approximately 10,000 eligible publications were identified and analyzed using Bibliometrix (R) and VOSviewer. Annual publication trends, geographic distribution, and topic-specific growth dynamics were evaluated.",
+      "methods": "A systematic search of PubMed was conducted using OMFS-specific keywords and MeSH terms. Approximately 10,000 eligible publications were identified and analyzed using Bibliometrix (R) and VOSviewer. Annual publication trends, geographic distribution, and topic-specific growth dynamics were evaluated.",
+      "results": "",
+      "conclusion": "",
       "limitations": "",
       "topics": [
         "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42647449/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673498/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42673486",
+      "title": "Is Transverse Maxillary Hypoplasia a Link Between Sleep-Disordered Breathing and TMJ Derangement?",
+      "authors": [
+        "Corissa P Chang",
+        "Nydia Cummings",
+        "Taha Ghouleh",
+        "Brian Ford",
+        "Eric Granquist",
+        "Stanley Yung Liu"
+      ],
+      "publication_date": "2026-Aug-31",
+      "publication_date_iso": "2026-08-31",
+      "abstract": "Temporomandibular disorder (TMD) and sleep-disordered breathing (SDB) tend to be comorbid conditions that negatively impact quality of life, including jaw pain and breathing function. Genome-wide association studies (GWAS) demonstrate that OSA has a causal effect on TMD. Clinical studies support that TMD-related pain and headache symptoms improve after 18 months of OSA treatment. Transverse maxillary hypoplasia (TMH) associated with nasal obstruction may contribute to both airway compromise and altered occlusal loading, predisposing individuals to TMD. Our study aims to identify TMH with nasal obstruction as one mechanism of developing TMD. This retrospective, single-center cohort study included 358 subjects aged 18 years and older presenting with TMJ arthralgia between 2024 and 2025. Exclusion criteria included lack of MRI or CBCT imaging, systemic bone diseases, history of facial trauma, neurological disorders, and prior TMJ or orthognathic surgery. The predictor variable was group (1), no TMD symptoms (n=49), and group (2) MRI-confirmed unilateral anterior disc displacement without reduction (n=23). The primary outcome was naso-maxillary width. Secondary outcomes were maxillary angle at the pyriform rim, nasal floor width, greater palatine foramen width, and the presence of chronic nasal obstruction or prior nasal surgery. Covariates included age, sex, and BMI. Statistical analysis involved descriptive and bivariate analyses, including Fisher's exact test for categorical variables, and multivariable analyses, with P < 0.05 considered statistically significant. Twenty-three subjects met the inclusion criteria for unilateral anterior disc displacement without reduction (ADDwoR), with a mean age of 39.6±14 years. The cohort included 2 male subjects and 1 nonbinary subject. Subjects in the ADDwoR group had a narrower naso-maxillary width of 17.4±1.6 mm compared with the control group of 20.9±1.8 mm, and a narrower nasal floor width of 18.6±1.5 mm compared with 21.7±2 mm in the controls. The maxillary angle at the pyriform aperture was 42.4±6.2 degrees compared with 48±7 degrees, while the greater palatine foramen width was narrower (23.5±2 mm vs. 25.8±2.4 mm). Chronic nasal obstruction or prior nasal surgery was more prevalent in the unilateral ADDwoR group (39.1%) than in the control group (10.2%) (OR=5.66, P=0.008). When adjusted for age, sex, and BMI, narrower naso-maxillary width, nasal floor width, maxillary angle, and greater palatine foramen width remained significantly associated with increased odds of ADDwoR (adjusted OR = 0.34). Subjects with unilateral ADDwoR are associated with transverse maxillary hypoplasia and a higher prevalence of chronic nasal obstruction or prior nasal surgery. Transverse maxillary hypoplasia may contribute to occlusal instability and asymmetric TMJ loading, potentially aggravating unilateral ADDwoR. Combined with GWAS findings linking OSA as a causal factor for TMD, these results emphasize the need for more research in support of sleep-disordered breathing screening and intervention in ADDwoR.",
+      "objective": "to identify TMH with nasal obstruction as one mechanism of developing TMD. This retrospective, single-center cohort study included 358 subjects aged 18 years and older presenting with TMJ arthralgia between 2024 and 2025. Exclusion criteria included lack of MRI or CBCT imaging, systemic bone diseases, history of facial trauma, neurological disorders, and prior TMJ or orthognathic surgery. The predictor variable was group (1), no TMD symptoms (n=49), and group (2) MRI-confirmed unilateral anterior disc displacement without reduction (n=23). The primary outcome was naso-maxillary width. Secondary outcomes were maxillary angle at the pyriform rim, nasal floor width, greater palatine foramen width, and the presence of chronic nasal obstruction or prior nasal surgery. Covariates included age, sex, and BMI. Statistical analysis involved descriptive and bivariate analyses, including Fisher's exact test for categorical variables, and multivariable analyses, with P < 0.05 considered statistically significant. Twenty-three subjects met the inclusion criteria for unilateral anterior disc displacement without reduction (ADDwoR), with a mean age of 39.6±14 years. The cohort included 2 male subjects and 1 nonbinary subject. Subjects in the ADDwoR group had a narrower naso-maxillary width of 17.4±1.6 mm compared with the control group of 20.9±1.8 mm, and a narrower nasal floor width of 18.6±1.5 mm compared with 21.7±2 mm in the controls. The maxillary angle at the pyriform aperture was 42.4±6.2 degrees compared with 48±7 degrees, while the greater palatine foramen width was narrower (23.5±2 mm vs. 25.8±2.4 mm). Chronic nasal obstruction or prior nasal surgery was more prevalent in the unilateral ADDwoR group (39.1%) than in the control group (10.2%) (OR=5.66, P=0.008). When adjusted for age, sex, and BMI, narrower naso-maxillary width, nasal floor width, maxillary angle, and greater palatine foramen width remained significantly associated with increased odds of ADDwoR (adjusted OR = 0.34). Subjects with unilateral ADDwoR are associated with transverse maxillary hypoplasia and a higher prevalence of chronic nasal obstruction or prior nasal surgery. Transverse maxillary hypoplasia may contribute to occlusal instability and asymmetric TMJ loading, potentially aggravating unilateral ADDwoR. Combined with GWAS findings linking OSA as a causal factor for TMD, these",
+      "study_methods": "This retrospective, single-center cohort study included 358 subjects aged 18 years and older presenting with TMJ arthralgia between 2024 and 2025. Exclusion criteria included lack of MRI or CBCT imaging, systemic bone diseases, history of facial trauma, neurological disorders, and prior TMJ or orthognathic surgery. The predictor variable was group (1), no TMD symptoms (n=49), and group (2) MRI-confirmed unilateral anterior disc displacement without reduction (n=23). The primary outcome was naso-maxillary width. Secondary outcomes were maxillary angle at the pyriform rim, nasal floor width, greater palatine foramen width, and the presence of chronic nasal obstruction or prior nasal surgery. Covariates included age, sex, and BMI. Statistical analysis involved descriptive and bivariate analyses, including Fisher's exact test for categorical variables, and multivariable analyses, with P < 0.05 considered statistically significant.",
+      "methods": "This retrospective, single-center cohort study included 358 subjects aged 18 years and older presenting with TMJ arthralgia between 2024 and 2025. Exclusion criteria included lack of MRI or CBCT imaging, systemic bone diseases, history of facial trauma, neurological disorders, and prior TMJ or orthognathic surgery. The predictor variable was group (1), no TMD symptoms (n=49), and group (2) MRI-confirmed unilateral anterior disc displacement without reduction (n=23). The primary outcome was naso-maxillary width. Secondary outcomes were maxillary angle at the pyriform rim, nasal floor width, greater palatine foramen width, and the presence of chronic nasal obstruction or prior nasal surgery. Covariates included age, sex, and BMI. Statistical analysis involved descriptive and bivariate analyses, including Fisher's exact test for categorical variables, and multivariable analyses, with P < 0.05 considered statistically significant.",
+      "results": "emphasize the need for more research in support of sleep-disordered breathing screening and intervention in ADDwoR.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma",
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673486/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42670164",
+      "title": "Emergency management protocols for major complications after oral and maxillofacial surgery: emphasis on airway and bleeding control.",
+      "authors": [
+        "Sungyeop Lee",
+        "Sung-Yun Hwang",
+        "Kyu-Bum Kim",
+        "Suyi Sim",
+        "Jihye Ryu",
+        "Chiho Moon",
+        "Jae-Yeol Lee",
+        "Dae Seok Hwang",
+        "Yong-Deok Kim",
+        "Sang-Hun Shin",
+        "Uk-Kyu Kim"
+      ],
+      "publication_date": "2026-Aug-31",
+      "publication_date_iso": "2026-08-31",
+      "abstract": "Postoperative hemorrhage and airway obstruction remain major life-threatening complications following oral and maxillofacial surgery despite advances in surgical techniques and perioperative care. This study aimed to retrospectively characterize the clinical patterns, timing, and management of postoperative hemorrhagic and airway emergencies over a 15-year period and, based on these institutional data and a review of the literature, to propose a practical integrated framework for postoperative emergency management. A retrospective review was conducted of patients who underwent major oral and maxillofacial surgery at a university dental hospital between 2010 and 2025. Major bleeding events were defined as postoperative hemorrhage requiring reoperation or embolization, while major airway events included unplanned airway intervention or emergency tracheostomy. For airway analysis, patients undergoing malignant tumor resection were divided into an emergency tracheostomy group and an elective tracheostomy group. The Cameron scoring system was retrospectively applied. Twenty patients required intervention for postoperative bleeding, with 70% of events occurring after major surgery. Five of eight orthognathic surgery patients developed hemorrhage within 72 hours postoperatively and required surgical hemostasis. Most bleeding events occurred independently of coagulation disorders. Transarterial embolization was performed in 13 patients, although only one case was directly related to emergency postoperative hemorrhage. Tracheostomy was performed in 24 patients, including 13 following oral cancer surgery. Emergency tracheostomy was most frequently required in patients with malignant tumors or severe infections. Mean Cameron scores were comparable between the emergency and elective tracheostomy groups (6.00 and 6.17, respectively). Postoperative hemorrhage and airway compromise remain significant complications in oral and maxillofacial surgery. Bleeding events were more closely associated with surgical extent than patient-related comorbidities. While the Cameron score may assist preoperative airway planning, postoperative clinical assessment remains essential. A structured approach incorporating bleeding control, airway protection, and selective use of embolization may improve patient safety and postoperative outcomes.",
+      "objective": "",
+      "study_methods": "A retrospective review was conducted of patients who underwent major oral and maxillofacial surgery at a university dental hospital between 2010 and 2025. Major bleeding events were defined as postoperative hemorrhage requiring reoperation or embolization, while major airway events included unplanned airway intervention or emergency tracheostomy. For airway analysis, patients undergoing malignant tumor resection were divided into an emergency tracheostomy group and an elective tracheostomy group. The Cameron scoring system was retrospectively applied.",
+      "methods": "A retrospective review was conducted of patients who underwent major oral and maxillofacial surgery at a university dental hospital between 2010 and 2025. Major bleeding events were defined as postoperative hemorrhage requiring reoperation or embolization, while major airway events included unplanned airway intervention or emergency tracheostomy. For airway analysis, patients undergoing malignant tumor resection were divided into an emergency tracheostomy group and an elective tracheostomy group. The Cameron scoring system was retrospectively applied.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42670164/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3286,86 +3398,6 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42640649/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42638112",
-      "title": "Accuracy of PSI-based hybrid workflow using a temporary intermediate splint versus conventional splint-based maxillary positioning in orthognathic surgery: a retrospective cohort study.",
-      "authors": [
-        "Jonathan Bertram",
-        "Henry Leonhardt",
-        "Fred Podmelle",
-        "Thomas Teltzrow",
-        "Adrian Franke"
-      ],
-      "publication_date": "2026-Aug-25",
-      "publication_date_iso": "2026-08-25",
-      "abstract": "This retrospective cohort study, adhering to STROBE guidelines, compared the accuracy of maxillary positioning achieved with a patient-specific implant (PSI)-based hybrid workflow, which utilised a temporary intermediate splint to identify and remove posterior bony interferences before definitive splintless PSI fixation, to conventional splint-based positioning using stock titanium osteosynthesis plates in orthognathic surgery. Translational and rotational movement deviations from the virtual surgical plan were assessed. Twenty-six patients who underwent non-segmental Le Fort I osteotomy between January 2020 and June 2023 were included. Eleven patients received the PSI-based hybrid workflow, while 15 patients underwent conventional splint-based positioning. Group allocation was based on the logistical feasibility of PSI planning and manufacturing rather than randomisation. Pre- and postoperative 3D images were superimposed using IPS® Case Designer software (KLS Martin) to quantify deviations in three translational and three rotational axes. Between-group comparisons were conducted using unpaired t-tests and two-way ANOVA, and correlations were assessed using Pearson's coefficient. The mean translational deviation was significantly lower in the PSI group compared to the control group (0.46 ± 0.33 mm vs 0.79 ± 0.58 mm; p = .0044), as was the mean rotational deviation (0.82° ± 0.91° vs 1.24° ± 0.85°; p = .0397). Significant differences were identified for vertical translation (p = .0162) and yaw rotation (p = .0205). Operating time did not differ significantly between groups (p = . 1739). In the PSI group, greater planned displacement showed a weak correlation with larger deviations, a relationship not observed in the control group. The PSI-based hybrid workflow resulted in statistically greater positioning accuracy compared to conventional splint-based fixation. However, the absolute improvements (approximately 0.3 mm and 0.5°) were small, likely of limited clinical relevance, and were not associated with reduced operating times. Due to the retrospective, non-randomised design, small sample size, and use of a PSI-based hybrid protocol, these findings should be considered hypothesis-generating. Larger prospective studies evaluating fully splintless PSI workflows and patient-centred outcomes are recommended. Not applicable.",
-      "objective": "",
-      "study_methods": "Twenty-six patients who underwent non-segmental Le Fort I osteotomy between January 2020 and June 2023 were included. Eleven patients received the PSI-based hybrid workflow, while 15 patients underwent conventional splint-based positioning. Group allocation was based on the logistical feasibility of PSI planning and manufacturing rather than randomisation. Pre- and postoperative 3D images were superimposed using IPS® Case Designer software (KLS Martin) to quantify deviations in three translational and three rotational axes. Between-group comparisons were conducted using unpaired t-tests and two-way ANOVA, and correlations were assessed using Pearson's coefficient.",
-      "methods": "Twenty-six patients who underwent non-segmental Le Fort I osteotomy between January 2020 and June 2023 were included. Eleven patients received the PSI-based hybrid workflow, while 15 patients underwent conventional splint-based positioning. Group allocation was based on the logistical feasibility of PSI planning and manufacturing rather than randomisation. Pre- and postoperative 3D images were superimposed using IPS® Case Designer software (KLS Martin) to quantify deviations in three translational and three rotational axes. Between-group comparisons were conducted using unpaired t-tests and two-way ANOVA, and correlations were assessed using Pearson's coefficient.",
-      "results": "ed in statistically greater positioning accuracy compared to conventional splint-based fixation. However, the absolute improvements (approximately 0.3 mm and 0.5°) were small, likely of limited clinical relevance, and were not associated with reduced operating times. Due to the retrospective, non-randomised design, small sample size, and use of a PSI-based hybrid protocol, these findings should be considered hypothesis-generating. Larger prospective studies evaluating fully splintless PSI workflows and patient-centred outcomes are recommended. Not applicable.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42638112/",
-      "pmcid": "PMC13505116",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42637645",
-      "title": "Controlling maxillary vertical repositioning with virtual surgical planning to eliminate the triangulation effect.",
-      "authors": [
-        "J D P Claus",
-        "M S Almeida",
-        "L V S Ramos"
-      ],
-      "publication_date": "2026-Aug-24",
-      "publication_date_iso": "2026-08-24",
-      "abstract": "Accurate control of maxillary vertical repositioning remains challenging in splint-based orthognathic surgery when large anteroposterior movements introduce a triangulation-related measurement effect. This technical note describes a virtual surgical planning (VSP)-based method to calculate the triangulation-adjusted change in the medial canthus-incisor distance and transfer it to the operating room. The distance is measured in VSP before and after the planned movements using identical landmarks, and the difference is used as the intraoperative caliper adjustment target during maxillary repositioning. This workflow provides a practical way to reduce measurement bias and improve fidelity between planning and execution.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42637645/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42635767",
-      "title": "Clinical impact and economic burden of electric scooter-related facial fractures in Barcelona.",
-      "authors": [
-        "Alexander Lugilde-Guerbek",
-        "Bernat López-Masramon",
-        "Vicente García Sánchez",
-        "Víctor Andreu-Sola",
-        "J M Collado-Delfa",
-        "Carlos Pueyo Morillo",
-        "Alex Arteaga",
-        "Alejandro Grabosky-Elbaile",
-        "Juan P Barret"
-      ],
-      "publication_date": "2026-Aug-24",
-      "publication_date_iso": "2026-08-24",
-      "abstract": "The landscape of facial trauma has evolved with the integration of micromobility devices into urban environments. This study aimed to characterize the clinical profile of electric scooter (e-scooter) accidents compared with traditional etiologies (traffic, assaults, falls) and evaluate the economic burden imposed on the public health system. A cohort of 119 patients who underwent surgery for facial fractures at a Spanish tertiary hospital between 2020 and 2024 was analyzed. To accurately assess economic impact, a specific subgroup of 51 \"pure facial fractures\"-those with isolated injuries-was utilized for cost analysis. E-scooter users (10.1% of the total cohort) were significantly younger (mean age 27.9 years, p = 0.044), had shorter hospital stays (7.7 days, p = 0.007), and lower ICU requirements (16.7%) than the traditional group. Adverse outcomes accounted for 29.4% of cases overall, with a significantly higher rate in the e-scooter group compared to other etiologies (58.3% vs. 26.2%; p = 0.039). The median cost for an e-scooter injury was €8,092; though higher than other causes, this was not statistically significant (p = 0.33). E-scooters generate complex facial injuries with clinical severity and complication rates comparable to high-energy trauma. The high economic cost and reconstructive complexity, suggest a need for stricter safety regulations, such as mandatory full-face helmets.",
-      "objective": "",
-      "study_methods": "A cohort of 119 patients who underwent surgery for facial fractures at a Spanish tertiary hospital between 2020 and 2024 was analyzed. To accurately assess economic impact, a specific subgroup of 51 \"pure facial fractures\"-those with isolated injuries-was utilized for cost analysis.",
-      "methods": "A cohort of 119 patients who underwent surgery for facial fractures at a Spanish tertiary hospital between 2020 and 2024 was analyzed. To accurately assess economic impact, a specific subgroup of 51 \"pure facial fractures\"-those with isolated injuries-was utilized for cost analysis.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42635767/",
       "pmcid": "",
       "figure_urls": []
     }
