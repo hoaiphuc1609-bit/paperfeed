@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:50:19Z",
+  "updated_at": "2026-09-06T07:01:15Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1395,7 +1395,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42695182/",
-      "pmcid": "",
+      "pmcid": "PMC13543053",
       "figure_urls": []
     },
     {
@@ -1890,7 +1890,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42132822/",
-      "pmcid": "",
+      "pmcid": "PMC13543199",
       "figure_urls": []
     },
     {
@@ -1918,7 +1918,7 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42101071/",
-      "pmcid": "",
+      "pmcid": "PMC13543179",
       "figure_urls": []
     },
     {
@@ -2780,6 +2780,34 @@
       "figure_urls": []
     },
     {
+      "pmid": "42701010",
+      "title": "Association between preoperative day-before oral hygiene management and postoperative surgical site infection in diabetic surgical patients: A retrospective cohort study.",
+      "authors": [
+        "Megumi Takamoto",
+        "Hironori Sakai",
+        "Aya Takahashi",
+        "Eri Miyazaki",
+        "Chisato Sakai",
+        "Seika Tanaka",
+        "Hiroshi Kurita"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701010/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42697094",
       "title": "Integrated metabolomic and transcriptomic analysis reveals P4HA3-associated 4-Hydroxyproline reduction in a mouse model of LiCl-induced cleft palate.",
       "authors": [
@@ -2906,32 +2934,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42688918/",
       "pmcid": "PMC13537717",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42680602",
-      "title": "Evaluation of the performance of ChatGPT-4o on oral surgery-related questions in the Japanese National Dental Examination.",
-      "authors": [
-        "H Fukuda",
-        "M Morishita",
-        "O Takahashi",
-        "M Sasaguri",
-        "M Habu"
-      ],
-      "publication_date": "2026-Sep-01",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Artificial intelligence (AI) has advanced rapidly in healthcare, with large language models (LLMs) like ChatGPT-4o showing potential in education and clinical support. This study evaluated the performance of ChatGPT-4o on oral surgery-related questions from the Japanese National Dental Examination, focusing on how visual materials impact accuracy. Questions were categorized by type (general knowledge vs clinical practice), number of correct answers required, and presence of visual materials (e.g., radiographs, models). The comparison of correct and incorrect answers according to the number of visual materials was performed using the Mann-Whitney U-test, while logistic regression was used to assess the influence of specific visual content types. ChatGPT-4o performed well on general knowledge questions but showed lower accuracy on questions requiring clinical decision-making . The presence of multiple visual materials significantly reduced accuracy, with panoramic radiographs and dental models showing the strongest negative effects (odds ratios 0.46 and 0.45, respectively; both P = 0.002). Other visual materials, such as computed tomography/magnetic resonance imaging scans, had no significant impact. These findings highlight the strengths of ChatGPT-4o in processing structured textual data and its limitations in interpreting visual or procedural content. Enhancing AI-assisted dental education will require domain-specific training data and the development of multimodal models capable of integrating both text and images. This study informs future applications of AI in oral surgery education.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42680602/",
-      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -3296,6 +3298,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42321121",
+      "title": "Transformative comprehensive functional and esthetic rehabilitation of amelogenesis imperfecta: An interdisciplinary approach.",
+      "authors": [
+        "Jimmy Londono",
+        "Shazeen Rattansi",
+        "Palak Patel",
+        "Weston J Fortson",
+        "Aram Torosian",
+        "Jasmin Silas"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "This clinical report describes the interdisciplinary treatment of a patient with hypoplastic amelogenesis imperfecta (AI) and an anterior open occlusal relationship. Prior to referral to the prosthodontics department, she had undergone active orthodontic treatment for 5 years. As she presented with skeletal, functional, and esthetic concerns, orthodontic treatment alone was insufficient to address her complex treatment goals. Given the complexity, optimal comprehensive management necessitated an interdisciplinary approach involving orthodontics, endodontics, periodontal therapy, orthognathic surgery, and definitive rehabilitation with minimum preparation adhesively bonded complete coverage restorations. A 5-year follow-up confirmed the stability of the results, with the patient reporting no further issues.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": ", with the patient reporting no further issues.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42321121/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42320378",
       "title": "Treatment of skeletal Class III malocclusion using the bone-anchored maxillary protraction (BAMP) protocol followed by orthodontic aligners in an adolescent patient: A case report.",
       "authors": [
@@ -3343,31 +3372,6 @@
         "facial trauma"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42303474/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42275994",
-      "title": "Skeletal changes between the surgical-first and conventional orthognathic approaches in skeletal Class III patients after excluding occlusal interference effects: Systematic review and meta-analysis.",
-      "authors": [
-        "Phitchapha Tangviroon",
-        "Pimsiri Kanpittaya",
-        "Thanit Charoenrat",
-        "Paiboon Techalertpaisarn"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "The stability of the surgery-first approach (SFA) remains debated, as studies comparing SFA and conventional orthognathic surgery (COS) lack measurements at equivalent time points, and the period during which relapse is most likely to occur has not been established. This meta-analysis isolated the interval following occlusal-interference correction to compare skeletal changes during the later post-surgical period. Studies comparing skeletal stability between SFA and COS in Class III patients were identified through searches of six databases (MEDLINE, EBSCO, Cochrane Library, LILACS, SCOPUS, and Google Scholar) up to April 2025, supplemented by manual reference searches. Two independent reviewers screened, extracted, and selected studies with comparable cephalometric measures and time points. Pooled analyses used a random-effects model, with study quality assessed by ROBINS-I and evidence certainty by GRADE. Nineteen studies were included. SFA showed greater upward and forward mandibular movement during the 3-6-month postoperatively. After this period, no significant differences in horizontal or vertical skeletal stability were observed between SFA and COS from 6 months to 2 years postoperatively with very low to moderate evidence. Relapse occurred primarily during the 3-6-month post-surgical interval, with SFA showing greater relapse than COS during this period. Beyond this window, skeletal stability was comparable between approaches in Class III patients. Clinicians should prioritize the 3-6-month post-surgical period when planning SFA treatment to account for its higher relapse risk. CRD420251019537.",
-      "objective": "",
-      "study_methods": "Studies comparing skeletal stability between SFA and COS in Class III patients were identified through searches of six databases (MEDLINE, EBSCO, Cochrane Library, LILACS, SCOPUS, and Google Scholar) up to April 2025, supplemented by manual reference searches. Two independent reviewers screened, extracted, and selected studies with comparable cephalometric measures and time points. Pooled analyses used a random-effects model, with study quality assessed by ROBINS-I and evidence certainty by GRADE.",
-      "methods": "Studies comparing skeletal stability between SFA and COS in Class III patients were identified through searches of six databases (MEDLINE, EBSCO, Cochrane Library, LILACS, SCOPUS, and Google Scholar) up to April 2025, supplemented by manual reference searches. Two independent reviewers screened, extracted, and selected studies with comparable cephalometric measures and time points. Pooled analyses used a random-effects model, with study quality assessed by ROBINS-I and evidence certainty by GRADE.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42275994/",
       "pmcid": "",
       "figure_urls": []
     },
