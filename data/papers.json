@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T07:11:21Z",
+  "updated_at": "2026-09-08T07:06:20Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1104,6 +1104,38 @@
       "figure_urls": []
     },
     {
+      "pmid": "42586374",
+      "title": "Discovery of NAT-6-321056 as a novel modulator of VEGFR2 signaling to suppress tumor angiogenesis.",
+      "authors": [
+        "Xiao Lei",
+        "Wan Gong",
+        "Nadine Wiesmann-Imilowski",
+        "Chunmei Jin",
+        "Shila Prajapati",
+        "Axel Guthart",
+        "Sabine M Klauck",
+        "Mohamed Elbadawi",
+        "Letian Shan",
+        "Thomas Efferth",
+        "Xiaohua Lu"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "Vascular endothelial growth factor receptor 2 (VEGFR2) is a master regulator of angiogenesis and cancer progression. However, current VEGFR2 modulators face significant challenges, including off-target toxicity and acquired resistance, underscoring the urgent need for novel therapeutic agents with improved efficacy and safety profiles. Here, we reported that virtual screening of 39,442 natural products from the ZINC natural products-derived library, coupled with molecular docking and molecular dynamics (MD) simulations to evaluate the binding stability of candidate compounds, identified NAT-6-321056 as a highly promising modulator of VEGFR2 signaling. Biological evaluations demonstrated that NAT-6-321056 exerted potent inhibition on the growth of a broad spectrum of cancer cells, including both solid tumors and hematological malignancies. In EA.hy 926 endothelial cells and SK-N-DZ neuroblast cells, the compound significantly suppressed proliferation, migration, and invasion. Microscale thermophoresis (MST) confirmed direct binding of NAT-6-321056 to VEGFR2 with favorable affinity. Kinase profiling against a panel of 33 kinases indicated that NAT-6-321056 exhibited a multi-kinase modulation profile. Mechanistic studies revealed that NAT-6-321056 suppressed the expression of hypoxia-inducible factor 1-alpha (HIF-1α) and was associated with reduced VEGFR2 phosphorylation and attenuation of the downstream ERK/JNK/AKT signaling pathways. Moreover, NAT-6-321056 exhibited robust in vivo anti-angiogenic effects in both the chick chorioallantoic membrane (CAM) assay and transgenic zebrafish vascular fluorescence imaging models. Computational absorption, distribution, metabolism, excretion, and toxicity (ADMET) prediction suggested acceptable drug-like properties. Collectively, these findings demonstrated that NAT-6-321056 is a promising modulator of VEGFR2 signaling with potent anti-angiogenic activity and represents a viable candidate for cancer therapy.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42586374/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42509133",
       "title": "Corrigendum to 'Keratinocyte growth factor (KGF) induces podosome formation via integrin-Erk1/2 signaling in human immortalized oral epithelial cells' [Cellular Signaling 61 (2019) 39-47].",
       "authors": [
@@ -1526,28 +1558,6 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42695182/",
       "pmcid": "PMC13543053",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42686258",
-      "title": "Sedation for the Dentist and the Dental Office.",
-      "authors": [
-        "Harry Dym"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42686258/",
-      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2266,6 +2276,65 @@
       "figure_urls": []
     },
     {
+      "pmid": "42705955",
+      "title": "Annual review of selected scientific literature: A report of the Committee on Scientific Investigation of the American Academy of Restorative Dentistry.",
+      "authors": [
+        "David R Cagna",
+        "James R McKee",
+        "James E Metz",
+        "Riccardo Marzola",
+        "Matthias Tröltzsch",
+        "Ashley B Hoders",
+        "Todd R Schoenbaum",
+        "Alvaro Blasi",
+        "Karina Irusa",
+        "Vincent P Torresyap",
+        "Taiseer A Sulaiman"
+      ],
+      "publication_date": "2026-Sep-07",
+      "publication_date_iso": "2026-09-07",
+      "abstract": "The Scientific Investigation Committee of the American Academy of Restorative Dentistry presents this review of selected 2025 dental literature. This, our sixty-ninth published report, remains focused on topics of interest to modern restorative dentists and prosthodontists. Each committee member contributes discipline-specific expertise in their respective fields, including (in order of presentation): conventional prosthodontics; implant prosthodontics; operative dentistry and direct restorative materials; caries and cariology; periodontics, alveolar bone, and peri-implant tissues; occlusion and temporomandibular disorders; sleep medicine and related topics; and oral and maxillofacial surgery, medicine, and radiology. The report aims to inform complex diagnoses and daily dental treatment decisions, emphasizing current innovations, new materials and processes, emerging technologies, and future trends likely to impact restorative dentistry. Given the extensive volume of literature published daily in dentistry and related fields, our report cannot be comprehensive. Instead, its purpose is to inform and update interested readers, serving as a useful starting point for those who may seek more detailed information independently. Our goal is to help colleagues navigate the vast amount of new information available annually. Ultimately, we hope this work assists readers in delivering evidence-based care to patients seeking healthier, happier lives. (J Prosthet Dent 2026;136:xxxxxxx).",
+      "objective": "to inform complex diagnoses and daily dental treatment decisions, emphasizing current innovations, new materials and processes, emerging technologies, and future trends likely to impact restorative dentistry. Given the extensive volume of literature published daily in dentistry and related fields, our report cannot be comprehensive. Instead, its purpose is to inform and update interested readers, serving as a useful starting point for those who may seek more detailed information independently. Our goal is to help colleagues navigate the vast amount of new information available annually. Ultimately, we hope this work assists readers in delivering evidence-based care to patients seeking healthier, happier lives. (J Prosthet Dent 2026;136:xxxxxxx).",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42705955/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42703067",
+      "title": "Craniomaxillofacial Peripheral Osteomas in Gardner Syndrome.",
+      "authors": [
+        "Yanhuang Liang",
+        "En Luo",
+        "Yuchao Shi",
+        "Hongying Hu",
+        "Zelin Ye",
+        "Meng You"
+      ],
+      "publication_date": "2026-Sep-07",
+      "publication_date_iso": "2026-09-07",
+      "abstract": "Gardner syndrome is a precancerous condition featuring familial adenomatous polyposis (FAP), multiple osteomas, and soft tissue tumors. Craniomaxillofacial peripheral osteomas often cause visible facial deformities, enabling early detection of the syndrome-frequently before FAP manifests-thus providing a critical window for intervention to prevent malignant transformation and reduce mortality. A systematic review searched 8 electronic databases from inception to December 2024. This was supplemented by one institutional case of a 21-year-old female with multiple craniomaxillofacial peripheral osteomas, who underwent successful surgical excision at age 26 and remained recurrence-free after 4 years of follow-up. Studies with confirmed craniomaxillofacial peripheral osteomas linked to Gardner syndrome were included. Data on epidemiology, clinical/radiologic features, and treatment were extracted. Pooled analysis of 113 cases (87 published studies plus one new case) showed these osteomas predominantly affect young patients (median age: 20 y). Lesions are typically multiple, located in the skull, paranasal sinuses, and mandible, causing noticeable cosmetic deformities. Imaging (plain radiographs, panoramic views, CT) reveals well-defined, round or oval radiopaque masses. Surgical excision is the main treatment for symptomatic or disfiguring lesions, with rare recurrence. Early recognition of these characteristic osteomas facilitates prompt FAP surveillance, enabling timely preventive measures that significantly improve outcomes and reduce mortality.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703067/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42702537",
       "title": "[Weight-control behaviors during pregnancy and their association with pre-pregnancy dieting experiences].",
       "authors": [
@@ -2679,47 +2748,15 @@
       "figure_urls": []
     },
     {
-      "pmid": "42687403",
-      "title": "World Small Animal Veterinary Association global dental guidelines.",
-      "authors": [
-        "B Niemiec",
-        "J Gawor",
-        "A Nemec",
-        "M Chandler",
-        "L A Mestrinho",
-        "P V Steagall",
-        "S Papadimitriou",
-        "B H E Ong",
-        "G Morgenegg",
-        "K McLeod",
-        "M Burley"
-      ],
-      "publication_date": "2026-Sep-02",
-      "publication_date_iso": "2026-09-02",
-      "abstract": "Dental, oral and maxillofacial diseases are the most common conditions seen in small animal veterinary practice. They may not only create significant pain but also infection. As such, the World Small Animal Veterinary Association believes that un- and undertreated oral and dental diseases pose a significant animal welfare concern. Dentistry is an area of veterinary medicine, which is still undertaught and thus is subject to many myths and misconceptions. Effective teaching of veterinary dentistry in the veterinary curriculum is the key to progression of the discipline. This will greatly improve the health and welfare for all our patients globally. The guidelines were created to provide veterinarians with the necessary foundations to provide gold standard therapy as well as define realistic minimum standards of care. Using the three-tiered continuing education system of World Small Animal Veterinary Association (based on the World Bank), the guidelines make global equipment and therapeutic recommendations and highlight the anaesthetic and welfare requirements for small animal patients worldwide. This document contains information on common oral and dental disease as well as basic diagnostic procedures and treatments. Sections on anaesthesia and pain management for dental procedures, home dental care, nutritional information and recommendations on the role of the universities in improving veterinary dentistry are also included. A discussion of the deleterious effects of anaesthesia-free dentistry is included, as this procedure is ineffective at best and damaging at worst. Finally, the negative effects of undiagnosed/not treated dental disease are discussed under the scope of animal welfare issue. The guidelines from 2019 have been revised to reflect the advances in diagnosis and treatment. New sections in this revision include sections on trauma, the nurses' role in veterinary dentistry, juvenile pathology, ergonomics and an extended section on radiographic interpretation.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687403/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42685977",
-      "title": "Prevalence of Persistent Neurosensory Disturbance After Bilateral Sagittal Split Osteotomy: A Retrospective Study.",
+      "title": "Prevalence of persistent neurosensory disturbance after bilateral sagittal split osteotomy: A retrospective study.",
       "authors": [
         "Sezai Çiftçi",
-        "Emel Yardimci"
+        "Emel Yardımcı"
       ],
       "publication_date": "2026-Sep-02",
       "publication_date_iso": "2026-09-02",
-      "abstract": "This retrospective study aimed to evaluate the long-term neurosensory function of the inferior alveolar nerve (IAN) following bilateral sagittal split osteotomy (BSSO) using both subjective and objective methods, and to determine the incidence of persistent neurosensory disturbances (NSD). A total of 102 patients who underwent BSSO between 2013 and 2024 and were reassessed at least 12 months postoperatively were included. Neurosensory function was assessed using a questionnaire-based visual analog scale (VAS) and objective tests, primarily the pin-prick test. Persistent NSD was defined as a patient-reported sensory disturbance within the IAN distribution area (lower lip and chin) that remained present for ≥12 months after BSSO. Patients were categorized according to the presence and side of sensory alteration, and statistical analysis was performed using the Fisher-Freeman-Halton exact test (p<0.05). Persistent NSD at ≥12 months was observed in 5 of 102 patients (4.9%). Within the total cohort, unilateral and bilateral postoperative sensory changes were reported by 36.2% and 30.4% of patients, respectively. The most commonly reported symptoms were hypoesthesia (35.3%) and paresthesia (32.4%), which were predominantly mild in severity. Patient-reported sensory symptoms most commonly lasted up to 6 months. Functional impairment was limited, and most patients reported minimal discomfort. Patient satisfaction (89.2%) and recommendation rates (82.4%) were high. Although neurosensory disturbances were common in the early postoperative period after BSSO, they were generally mild, with patient-reported symptoms most commonly lasting up to 6 months, while persistent deficits beyond 1 year were uncommon. Patient-reported outcomes and objective sensory testing may provide complementary information regarding different aspects of postoperative neurosensory function.",
+      "abstract": "This retrospective study aimed to evaluate the long-term neurosensory function of the inferior alveolar nerve (IAN) following bilateral sagittal split osteotomy (BSSO) using both subjective and objective methods, and to determine the incidence of persistent neurosensory disturbances (NSD). A total of 102 patients who underwent BSSO between 2013 and 2024 and were reassessed at least 12 months postoperatively were included. Neurosensory function was assessed using a questionnaire-based visual analog scale (VAS) and objective tests, primarily the pin-prick test. Persistent NSD was defined as a patient-reported sensory disturbance within the IAN distribution area (lower lip and chin) that remained present for ≥12 months after BSSO. Patients were categorized according to the presence and side of sensory alteration, and statistical analysis was performed using the Fisher-Freeman-Halton exact test (p < 0.05). Persistent NSD at ≥12 months was observed in 5 of 102 patients (4.9%). Within the total cohort, unilateral and bilateral postoperative sensory changes were reported by 36.2% and 30.4% of patients, respectively. The most commonly reported symptoms were hypoesthesia (35.3%) and paresthesia (32.4%), which were predominantly mild in severity. Patient-reported sensory symptoms most commonly lasted up to 6 months. Functional impairment was limited, and most patients reported minimal discomfort. Patient satisfaction (89.2%) and recommendation rates (82.4%) were high. Although neurosensory disturbances were common in the early postoperative period after BSSO, they were generally mild, with patient-reported symptoms most commonly lasting up to 6 months, while persistent deficits beyond 1 year were uncommon. Patient-reported outcomes and objective sensory testing may provide complementary information regarding different aspects of postoperative neurosensory function.",
       "objective": "",
       "study_methods": "",
       "methods": "",
@@ -2806,6 +2843,28 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42684024/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42703659",
+      "title": "Penetrating maxillofacial trauma with transmaxillary migration of a metallic foreign body to the sphenoid sinus: A rare case.",
+      "authors": [
+        "Emrah Isiktekin"
+      ],
+      "publication_date": "2026-Sep",
+      "publication_date_iso": "2026-09-01",
+      "abstract": "This case report details a rare and potentially life-threatening injury of an initially overlooked maxillofacial trauma sustained during agricultural activity. A 19-year-old male presented to the emergency department with a headache and fatigue, 2 days following a right malar injury that had been previously sutured without advanced evaluation. A thorough clinical examination was conducted, which revealed the presence of periorbital swelling on both sides, accompanied by a right subconjunctival hemorrhage and chemosis. Radiographic imaging revealed the presence of a substantial, crescent-shaped metallic foreign body with its tip lodged just beneath the anterior skull base, penetrating the sphenoid sinus and lying inferior to the hypophysis. The base of the foreign body extended horizontally into the region adjacent to the middle nasal concha. Multislice computed tomography with angiography revealed its close proximity to critical neurovascular structures, including branches of the maxillary artery. Surgical removal was performed under general anesthesia via an extra-nasal transmaxillary approach, utilizing the trauma incision. Following meticulous dissection, the foreign body was reached and carefully extracted through an executed outward rotation technique. This case emphasizes the vital necessity for thorough clinical evaluation, detailed history-taking, and advanced imaging in the context of facial trauma, where superficially innocuous wounds may harbor latent complications. Primary closure of laceration without full diagnostic clarity risks sealing the patient in danger just millimeters from vital neurovascular structures. A detailed history, systematic examination and proper investigations are needed before primary closure of traumatic facial lacerations.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703659/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3327,31 +3386,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42320378",
-      "title": "Treatment of skeletal Class III malocclusion using the bone-anchored maxillary protraction (BAMP) protocol followed by orthodontic aligners in an adolescent patient: A case report.",
-      "authors": [
-        "Marcelo Keiji Suzuki",
-        "Diego Patrik Alves Carneiro",
-        "Carlos Eduardo Takeshi Saiki",
-        "Milton Santamaria-Jr"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Skeletal Class III malocclusion represents a significant challenge in orthodontics due to its impact on facial aesthetics and function, particularly in patients with limited residual growth. Bone-anchored maxillary protraction (BAMP) with miniplates has emerged as an effective alternative to conventional orthopaedic approaches, providing greater skeletal effects with less dentoalveolar compensation. This study reports the clinical management of a patient with limited growth potential and skeletal Class III malocclusion, treated with miniplate-assisted maxillary protraction followed by aligner therapy. A 9-year-8-month-old female patient, presenting with maxillary retrusion and mild mandibular protrusion (SNA=79.2°, SNB=80.8°, ANB=-1.6°, AO-BO=-11.1mm), was treated with four Bollard miniplates and Class III elastics for 9 months. The orthopaedic phase resulted in significant maxillary advancement (SNA increased to 85.1°), improved sagittal relationship (ANB increased to 3.5°), and improved Wits score from -11.1mm to 1.8mm, with minimal changes in mandibular position. Structural overlays demonstrated that the maxillary advancement achieved during the orthopaedic phase was accompanied by vertical mandibular development during the orthodontic phase, thereby favourably redirecting the initial hypodivergent pattern and improving facial balance. Subsequent orthodontic refinement was performed with clear aligners, totalling 130 aligners in multiple refinement stages, leading to Class I relationships in the canines and molars, improved intercuspation, and correction of midline deviation. Although aligner therapy required multiple refinements, satisfactory functional and aesthetic results were obtained without the need for orthognathic surgery in this case. Maxillary protraction assisted by miniplates followed by aligner therapy was effective for the treatment of this case of skeletal Class III malocclusion.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ed in significant maxillary advancement (SNA increased to 85.1°), improved sagittal relationship (ANB increased to 3.5°), and improved Wits score from -11.1mm to 1.8mm, with minimal changes in mandibular position. Structural overlays demonstrated that the maxillary advancement achieved during the orthopaedic phase was accompanied by vertical mandibular development during the orthodontic phase, thereby favourably redirecting the initial hypodivergent pattern and improving facial balance. Subsequent orthodontic refinement was performed with clear aligners, totalling 130 aligners in multiple refinement stages, leading to Class I relationships in the canines and molars, improved intercuspation, and correction of midline deviation. Although aligner therapy required multiple refinements, satisfactory functional and aesthetic results were obtained without the need for orthognathic surgery in this case. Maxillary protraction assisted by miniplates followed by aligner therapy was effective for the treatment of this case of skeletal Class III malocclusion.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42320378/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42303474",
       "title": "Systematic review of outcomes reported in trials of facial trauma.",
       "authors": [
@@ -3481,57 +3515,6 @@
         "cleft lip and palate surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41212736/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42673518",
-      "title": "Salvage Reconstruction of a Traumatic Oronasal Fistula Following Complex Panfacial Trauma: Durable 2-Layer Mucoperiosteal Repair.",
-      "authors": [
-        "Luke Williams",
-        "Niki K Patel",
-        "H Safak Uygur"
-      ],
-      "publication_date": "2026-Aug-31",
-      "publication_date_iso": "2026-08-31",
-      "abstract": "Oronasal fistula is an uncommon but functionally significant complication following severe palatal fractures. While fistula repair is well described in cleft populations, traumatic fistulas after complex panfacial reconstruction are less frequently reported and may present unique reconstructive challenges due to prior fracture displacement and surgical manipulation. A 48-year-old male sustained extensive facial trauma after a tractor rollover, resulting in bilateral Le Fort III fractures with additional Le Fort I and II components, a displaced hard palate fracture with mucosal laceration, and associated zygomaticomaxillary and orbital injuries. He underwent open reduction internal fixation of midfacial fractures with external fixation of the palate and occlusal splinting. Five weeks later, palatal hardware was removed due to concern for mucosal compromise. A small palatal defect subsequently progressed to a persistent 0.5×1 cm symptomatic oronasal fistula. Four months after injury, the patient reported nasal regurgitation and speech changes without evidence of infection or bony instability. Given the persistence of symptoms and lack of spontaneous closure, operative intervention was recommended. At surgery, a 2-layer mucoperiosteal repair was performed. Bilateral hinge flaps were elevated in the mucoperiosteal plane and inverted to reconstruct the nasal lining. A right-sided palatal mucoperiosteal flap based on the greater palatine pedicle was then transposed to restore the oral lining. Tension-free layered closure was achieved. Six weeks postoperatively, the repair remained intact with complete resolution of nasal regurgitation. Follow-up is ongoing, with a 5-month evaluation scheduled. Traumatic palatal fistula following complex panfacial reconstruction represents a challenging complication in previously operated tissue. Two-layer mucoperiosteal closure provides a reliable, tissue-sparing salvage strategy that restores oral-nasal separation. Timely recognition and layered repair can achieve favorable functional outcomes.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "ing in bilateral Le Fort III fractures with additional Le Fort I and II components, a displaced hard palate fracture with mucosal laceration, and associated zygomaticomaxillary and orbital injuries. He underwent open reduction internal fixation of midfacial fractures with external fixation of the palate and occlusal splinting. Five weeks later, palatal hardware was removed due to concern for mucosal compromise. A small palatal defect subsequently progressed to a persistent 0.5×1 cm symptomatic oronasal fistula. Four months after injury, the patient reported nasal regurgitation and speech changes without evidence of infection or bony instability. Given the persistence of symptoms and lack of spontaneous closure, operative intervention was recommended. At surgery, a 2-layer mucoperiosteal repair was performed. Bilateral hinge flaps were elevated in the mucoperiosteal plane and inverted to reconstruct the nasal lining. A right-sided palatal mucoperiosteal flap based on the greater palatine pedicle was then transposed to restore the oral lining. Tension-free layered closure was achieved. Six weeks postoperatively, the repair remained intact with complete resolution of nasal regurgitation. Follow-up is ongoing, with a 5-month evaluation scheduled. Traumatic palatal fistula following complex panfacial reconstruction represents a challenging complication in previously operated tissue. Two-layer mucoperiosteal closure provides a reliable, tissue-sparing salvage strategy that restores oral-nasal separation. Timely recognition and layered repair can achieve favorable functional outcomes.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42673518/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42673486",
-      "title": "Is Transverse Maxillary Hypoplasia a Link Between Sleep-Disordered Breathing and TMJ Derangement?",
-      "authors": [
-        "Corissa P Chang",
-        "Nydia Cummings",
-        "Taha Ghouleh",
-        "Brian Ford",
-        "Eric Granquist",
-        "Stanley Yung Liu"
-      ],
-      "publication_date": "2026-Aug-31",
-      "publication_date_iso": "2026-08-31",
-      "abstract": "Temporomandibular disorder (TMD) and sleep-disordered breathing (SDB) tend to be comorbid conditions that negatively impact quality of life, including jaw pain and breathing function. Genome-wide association studies (GWAS) demonstrate that OSA has a causal effect on TMD. Clinical studies support that TMD-related pain and headache symptoms improve after 18 months of OSA treatment. Transverse maxillary hypoplasia (TMH) associated with nasal obstruction may contribute to both airway compromise and altered occlusal loading, predisposing individuals to TMD. Our study aims to identify TMH with nasal obstruction as one mechanism of developing TMD. This retrospective, single-center cohort study included 358 subjects aged 18 years and older presenting with TMJ arthralgia between 2024 and 2025. Exclusion criteria included lack of MRI or CBCT imaging, systemic bone diseases, history of facial trauma, neurological disorders, and prior TMJ or orthognathic surgery. The predictor variable was group (1), no TMD symptoms (n=49), and group (2) MRI-confirmed unilateral anterior disc displacement without reduction (n=23). The primary outcome was naso-maxillary width. Secondary outcomes were maxillary angle at the pyriform rim, nasal floor width, greater palatine foramen width, and the presence of chronic nasal obstruction or prior nasal surgery. Covariates included age, sex, and BMI. Statistical analysis involved descriptive and bivariate analyses, including Fisher's exact test for categorical variables, and multivariable analyses, with P < 0.05 considered statistically significant. Twenty-three subjects met the inclusion criteria for unilateral anterior disc displacement without reduction (ADDwoR), with a mean age of 39.6±14 years. The cohort included 2 male subjects and 1 nonbinary subject. Subjects in the ADDwoR group had a narrower naso-maxillary width of 17.4±1.6 mm compared with the control group of 20.9±1.8 mm, and a narrower nasal floor width of 18.6±1.5 mm compared with 21.7±2 mm in the controls. The maxillary angle at the pyriform aperture was 42.4±6.2 degrees compared with 48±7 degrees, while the greater palatine foramen width was narrower (23.5±2 mm vs. 25.8±2.4 mm). Chronic nasal obstruction or prior nasal surgery was more prevalent in the unilateral ADDwoR group (39.1%) than in the control group (10.2%) (OR=5.66, P=0.008). When adjusted for age, sex, and BMI, narrower naso-maxillary width, nasal floor width, maxillary angle, and greater palatine foramen width remained significantly associated with increased odds of ADDwoR (adjusted OR = 0.34). Subjects with unilateral ADDwoR are associated with transverse maxillary hypoplasia and a higher prevalence of chronic nasal obstruction or prior nasal surgery. Transverse maxillary hypoplasia may contribute to occlusal instability and asymmetric TMJ loading, potentially aggravating unilateral ADDwoR. Combined with GWAS findings linking OSA as a causal factor for TMD, these results emphasize the need for more research in support of sleep-disordered breathing screening and intervention in ADDwoR.",
-      "objective": "to identify TMH with nasal obstruction as one mechanism of developing TMD. This retrospective, single-center cohort study included 358 subjects aged 18 years and older presenting with TMJ arthralgia between 2024 and 2025. Exclusion criteria included lack of MRI or CBCT imaging, systemic bone diseases, history of facial trauma, neurological disorders, and prior TMJ or orthognathic surgery. The predictor variable was group (1), no TMD symptoms (n=49), and group (2) MRI-confirmed unilateral anterior disc displacement without reduction (n=23). The primary outcome was naso-maxillary width. Secondary outcomes were maxillary angle at the pyriform rim, nasal floor width, greater palatine foramen width, and the presence of chronic nasal obstruction or prior nasal surgery. Covariates included age, sex, and BMI. Statistical analysis involved descriptive and bivariate analyses, including Fisher's exact test for categorical variables, and multivariable analyses, with P < 0.05 considered statistically significant. Twenty-three subjects met the inclusion criteria for unilateral anterior disc displacement without reduction (ADDwoR), with a mean age of 39.6±14 years. The cohort included 2 male subjects and 1 nonbinary subject. Subjects in the ADDwoR group had a narrower naso-maxillary width of 17.4±1.6 mm compared with the control group of 20.9±1.8 mm, and a narrower nasal floor width of 18.6±1.5 mm compared with 21.7±2 mm in the controls. The maxillary angle at the pyriform aperture was 42.4±6.2 degrees compared with 48±7 degrees, while the greater palatine foramen width was narrower (23.5±2 mm vs. 25.8±2.4 mm). Chronic nasal obstruction or prior nasal surgery was more prevalent in the unilateral ADDwoR group (39.1%) than in the control group (10.2%) (OR=5.66, P=0.008). When adjusted for age, sex, and BMI, narrower naso-maxillary width, nasal floor width, maxillary angle, and greater palatine foramen width remained significantly associated with increased odds of ADDwoR (adjusted OR = 0.34). Subjects with unilateral ADDwoR are associated with transverse maxillary hypoplasia and a higher prevalence of chronic nasal obstruction or prior nasal surgery. Transverse maxillary hypoplasia may contribute to occlusal instability and asymmetric TMJ loading, potentially aggravating unilateral ADDwoR. Combined with GWAS findings linking OSA as a causal factor for TMD, these",
-      "study_methods": "This retrospective, single-center cohort study included 358 subjects aged 18 years and older presenting with TMJ arthralgia between 2024 and 2025. Exclusion criteria included lack of MRI or CBCT imaging, systemic bone diseases, history of facial trauma, neurological disorders, and prior TMJ or orthognathic surgery. The predictor variable was group (1), no TMD symptoms (n=49), and group (2) MRI-confirmed unilateral anterior disc displacement without reduction (n=23). The primary outcome was naso-maxillary width. Secondary outcomes were maxillary angle at the pyriform rim, nasal floor width, greater palatine foramen width, and the presence of chronic nasal obstruction or prior nasal surgery. Covariates included age, sex, and BMI. Statistical analysis involved descriptive and bivariate analyses, including Fisher's exact test for categorical variables, and multivariable analyses, with P < 0.05 considered statistically significant.",
-      "methods": "This retrospective, single-center cohort study included 358 subjects aged 18 years and older presenting with TMJ arthralgia between 2024 and 2025. Exclusion criteria included lack of MRI or CBCT imaging, systemic bone diseases, history of facial trauma, neurological disorders, and prior TMJ or orthognathic surgery. The predictor variable was group (1), no TMD symptoms (n=49), and group (2) MRI-confirmed unilateral anterior disc displacement without reduction (n=23). The primary outcome was naso-maxillary width. Secondary outcomes were maxillary angle at the pyriform rim, nasal floor width, greater palatine foramen width, and the presence of chronic nasal obstruction or prior nasal surgery. Covariates included age, sex, and BMI. Statistical analysis involved descriptive and bivariate analyses, including Fisher's exact test for categorical variables, and multivariable analyses, with P < 0.05 considered statistically significant.",
-      "results": "emphasize the need for more research in support of sleep-disordered breathing screening and intervention in ADDwoR.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42673486/",
       "pmcid": "",
       "figure_urls": []
     }
