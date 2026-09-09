@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T07:06:20Z",
+  "updated_at": "2026-09-09T07:14:15Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -146,6 +146,34 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42391881/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42342057",
+      "title": "Biosensors for allergic diseases: Biomarker detection and monitoring.",
+      "authors": [
+        "Ghaleb Oriquat",
+        "Alaa Ahmed Fezea",
+        "Aya Mohammed Dhiaa",
+        "Aziz Kubaev",
+        "Oybek Ruziev",
+        "Rasim M Salih",
+        "Mohaned Adil"
+      ],
+      "publication_date": "2027-Jan-01",
+      "publication_date_iso": "2027-01-01",
+      "abstract": "Accurate diagnosis of allergic diseases demands sensitive measurement of biomarkers, particularly specific immunoglobulin E. Although standard laboratory tests can provide this information accurately, they have not been able to keep up with the urgent need for speedy point-of-care alternatives. Biosensors, including immunosensors (antibody-antigen) and aptasensors (nucleic acid receptors), offer improved stability, reusability, and cost-effectiveness. Both types of biosensors have receptors that incorporate with transducers to produce measurable optical or electrochemical signals. This review consolidates known biomarkers for four major allergic conditions: asthma, atopic dermatitis (AD), allergic rhinitis, and food allergies. It then evaluates the analytical performance of optical and electrochemical immunosensors and aptasensors employed in diagnosing and monitoring these disorders. Furthermore, the development of point-of-care biosensor platforms for allergic disease detection is discussed, emphasizing their potential to enable rapid, decentralized testing and improve patient management through accessible, real-time diagnostic solutions. The primary focus remains on sensor-based platforms capable of detecting allergic disease biomarkers, providing meaningful insights into current technological capabilities and their clinical translation.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42342057/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -300,6 +328,48 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42647967/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42586229",
+      "title": "Dental procedures and associated risk of infective endocarditis.",
+      "authors": [
+        "Emil Fosbøl",
+        "Eva Havers-Borgersen",
+        "Anders Dahl",
+        "Jarl E Strange",
+        "Claus Moser",
+        "Marianne Voldstedlund",
+        "Nikolaj Ihlemann",
+        "Louise Bruun Oestergaard",
+        "Lauge Østergaard",
+        "Andrew Wang",
+        "Vivian H Chu",
+        "Morten Dahl",
+        "Søren Fanoe",
+        "Morten Schou",
+        "Trine Lauridsen",
+        "Nana Valeur",
+        "Gunnar H Gislason",
+        "Niels Eske Bruun",
+        "Henning Bundgaard",
+        "Kasper Iversen",
+        "Lars Køber"
+      ],
+      "publication_date": "2026-Dec",
+      "publication_date_iso": "2026-12-01",
+      "abstract": "Dental procedures may cause bacteremia, which is considered a risk factor for infective endocarditis (IE). This study sets out to examine whether dental procedures are associated with an increased risk of IE. We examined the nationwide time-dependent association between dental procedures and risk of bacteremia and IE among Danes > 18 years on January 1, 2010. Adjusted hazard ratios (HR) for bacteremia and IE were estimated by Cox regression with time-varying exposure (dental visit and three months later). We examined 4,178,514 persons who had dental care (66.9% of residents, median age 44 years [IQR 30-49]). During 9 years of follow-up, 69,928 (1.7%) persons had bacteremia, and 3,754 (0.09%) had IE. Among those with bacteremia or IE in the proximity of dental care (within three months), Streptococci accounted for 16.1% and 26.9%, respectively. The adjusted HRs for bacteremia and IE associated with dental procedures were 0.94 (95% CI 0.92-0.95) and 1.00 (95% CI 0.94-1.08), respectively, compared with non-exposed time. No dose-response relationship for invasive vs non-invasive procedures was found. The IE risk associated with dental care was not different in high-risk patients (prior IE, valve prostheses, or congenital heart disease): HR 0.96 (95% CI 0.83-1.10). We did not find an association between dental procedures and bacteremia or IE, and this was irrespective of high-risk cardiac preconditions.",
+      "objective": "",
+      "study_methods": "We examined the nationwide time-dependent association between dental procedures and risk of bacteremia and IE among Danes > 18 years on January 1, 2010. Adjusted hazard ratios (HR) for bacteremia and IE were estimated by Cox regression with time-varying exposure (dental visit and three months later).",
+      "methods": "We examined the nationwide time-dependent association between dental procedures and risk of bacteremia and IE among Danes > 18 years on January 1, 2010. Adjusted hazard ratios (HR) for bacteremia and IE were estimated by Cox regression with time-varying exposure (dental visit and three months later).",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42586229/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1396,40 +1466,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42256884",
-      "title": "An injectable tough hydrogel sealant enabling rapid hemostasis and promoting oral tissue regeneration.",
-      "authors": [
-        "Jinghan Wang",
-        "Gang He",
-        "Zheng Pan",
-        "Yiwen Xian",
-        "Luyuan Chen",
-        "Wen Sui",
-        "Chong Zhang",
-        "Decheng Wu"
-      ],
-      "publication_date": "2026-Nov",
-      "publication_date_iso": "2026-11-01",
-      "abstract": "Repair of oral soft-tissue injuries remains challenging due to the moist, bacteria-rich, and mechanically active oral environment, as well as the limitations of current sealants in wet adhesion, mechanical strength, biocompatibility, bioactivity, and sealing durability. Here, we report an injectable hydrogel sealant (PAG) composed of tetra-armed poly(ethylene glycol) succinimidyl succinate and amine-functionalized gelatin, which rapidly forms in situ via NHS-amine coupling without external triggers. The optimized formulation undergoes gelation within seconds and exhibits robust mechanical properties, as well as superior adhesive strength and burst pressure compared with commercial fibrin glue. PAG demonstrates excellent cytocompatibility, hemocompatibility, and biodegradability, while promoting fibroblast proliferation in vitro. In vivo, it enables rapid hemostasis within 3 s and effective tissue repair in an acute rat tongue perforation model, markedly outperforming suture, gelatin sponge, and fibrin glue controls. Moreover, PAG effectively protects early-stage wounds and accelerates repair in both rat and porcine oral mucosal defect models. Mechanistic studies indicate that PAG establishes a pro-regenerative microenvironment by attenuating excessive inflammation, enhancing angiogenesis, and promoting M2-dominant macrophage polarization. Collectively, these findings demonstrate that the engineered PAG hydrogel enables rapid, sutureless sealing and repair of oral soft-tissue wounds, highlighting its translational potential.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42256884/",
-      "pmcid": "PMC13240782",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/ga1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/sc1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240782/bin/gr2.jpg"
-      ]
-    },
-    {
       "pmid": "42160952",
       "title": "Zinc-based metal orchestrates early osteoimmune microenvironment to promote angiogenesis via macrophage-derived extracellular vesicles.",
       "authors": [
@@ -1457,36 +1493,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42160952/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42107134",
-      "title": "Microvascular remodeling strategy for skin rejuvenation through microenvironmental reprogramming and appendage restoration.",
-      "authors": [
-        "Jialiang Zhou",
-        "Shengjie Jiang",
-        "Liyun Wang",
-        "Tingting Dong",
-        "Li Yu",
-        "Haiyan Li",
-        "Zhen Gao",
-        "Jianyong Wu",
-        "Kaili Lin"
-      ],
-      "publication_date": "2026-Nov",
-      "publication_date_iso": "2026-11-01",
-      "abstract": "Skin photoaging, induced by excessive ultraviolet exposure, leads to microvascular and appendage degeneration, extracellular matrix degradation, and cellular senescence. The limited efficacy of current treatments for photoaging is partly due to underlying microvascular dysfunction. This study introduces a microneedle patch incorporating decellularized adipose-derived matrix (DAM) to enhance microvascular remodeling and mitigate photoaging. In vitro studies demonstrate that DAM enhances the function of photoaged endothelial cells via the VEGFA/PI3K/Akt pathway while simultaneously alleviating senescence in both fibroblasts and keratinocytes through intercellular communication. In a UVB-induced photoaged mouse model, DAM promotes angiogenesis, reduces matrix metalloproteinase expression, and stimulates collagen synthesis, ultimately restoring local homeostasis and reversing aging signs. Notably, DAM treatment not only reverses these signs but also regulates the hair follicle cycle, underscoring its dual impact on appendage regeneration and microvascular repair. In conclusion, the integration of DAM into a microneedle patch provides a clinically translatable and minimally invasive platform for addressing photoaging. These findings not only advance the understanding of photoaging mechanisms but also propose a novel microvascular-focused strategy for skin regeneration. Future research will focus on optimizing patch design and establishing standardized DAM quality control protocols, with potential applications in other age-related disorders.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": ", the integration of DAM into a microneedle patch provides a clinically translatable and minimally invasive platform for addressing photoaging. These findings not only advance the understanding of photoaging mechanisms but also propose a novel microvascular-focused strategy for skin regeneration. Future research will focus on optimizing patch design and establishing standardized DAM quality control protocols, with potential applications in other age-related disorders.",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42107134/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1961,6 +1967,45 @@
       "figure_urls": []
     },
     {
+      "pmid": "42171526",
+      "title": "Perioperative Adverse Events in Primary Palatoplasty: \"Risk Factors and Impact on Care Escalation in a Multicenter Cohort\".",
+      "authors": [
+        "Febina Padiyath",
+        "Elizabeth M O'Brien",
+        "Jennifer Nam",
+        "Paula Hu",
+        "Nishil Mehta",
+        "Marc Parris",
+        "Anthony Alexander",
+        "Ashley Hodges",
+        "Goretti Chiang",
+        "Vinícius Caldeira Quintão",
+        "Ricardo Vieira Carlos",
+        "Gabriel Soares de Sousa",
+        "Asif Padiyath",
+        "Susan C Nicolson",
+        "John Fiadjoe",
+        "Oksana A Jackson",
+        "Lisa K Lee",
+        "Annery G Garcia-Marcinkiewicz"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Patients undergoing palatoplasty experience perioperative adverse events. Identifying risk factors for perioperative adverse events and escalation of care may improve outcomes. Pediatric patients undergoing primary palatoplasty were included in this retrospective observational study performed at two academic children's hospitals from 2014 to 2020. Four hundred fifty-nine patients with a median age of 12 months (IQR: 10-17) and median weight of 9.3 kg (IQR: 8.3-10.9) were included. A perioperative adverse event occurred in 15% (69/459) patients. Multiple (> 1) perioperative adverse events occurred in 18 patients. Hypoxemia (42 events, 9.2%) was the most common perioperative adverse event, followed by upper airway obstruction (29 events, 6.3%), vomiting (11 events, 2.4%), hypoventilation (10 events, 2.2%), and bleeding (7 events, 1.5%). Two events required a rapid response team, and there was 1 cardiac arrest. Forty percent of perioperative adverse events occurred in the post-anesthesia recovery area, and 24% occurred within 12 h of arriving to the floor. Prolonged emergence time (OR 1.04 [95% CI 1.02-1.06], p < 0.001) and nasal stent placement (OR 6.02 [95% CI 2.7-13.6], p < 0.001) were significantly associated with perioperative adverse events and increased odds of unanticipated admission to the pediatric intensive care unit (OR 1.02 [95% CI, 1.01-1.04], p < 0.001) and (OR 3.39 [95% CI, 1.19-8.83], p = 0.016), respectively. The occurrence of any perioperative adverse event (OR 8.47 [95% CI, 4.06-18], p < 0.001) and increasing number of perioperative adverse events (OR 1.75 [95% CI, 1.41-2.24], p < 0.001) were also associated with increased odds of unanticipated PICU admission. Patients undergoing palatoplasty are at risk of perioperative adverse events, particularly in post-operative recovery areas, which may result in unanticipated escalation of care. Recognizing the risk factors associated with the development of perioperative adverse events may improve planning of post-operative care and outcomes.",
+      "objective": "",
+      "study_methods": "Pediatric patients undergoing primary palatoplasty were included in this retrospective observational study performed at two academic children's hospitals from 2014 to 2020.",
+      "methods": "Pediatric patients undergoing primary palatoplasty were included in this retrospective observational study performed at two academic children's hospitals from 2014 to 2020.",
+      "results": "in unanticipated escalation of care. Recognizing the risk factors associated with the development of perioperative adverse events may improve planning of post-operative care and outcomes.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42171526/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42132822",
       "title": "Association Between Facial Profile Attractiveness and Full-Face Attractiveness in Individuals With Convex Facial Profiles.",
       "authors": [
@@ -2272,6 +2317,93 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41160495/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42711161",
+      "title": "A prototype computer-assisted system for automatic three-dimensional orthognathic surgery planning: an initial retrospective study.",
+      "authors": [
+        "F Bouffleur",
+        "C A J Bauer",
+        "R Kühle",
+        "N Hagen",
+        "S Richter",
+        "J Hoffmann",
+        "C Freudlsperger",
+        "H Dickhaus",
+        "U Eisenmann"
+      ],
+      "publication_date": "2026-Sep-08",
+      "publication_date_iso": "2026-09-08",
+      "abstract": "Preoperative planning is crucial in orthognathic surgery, addressing both functional and aesthetic aspects in young adults. The current state-of-the-art still relies on fully manual virtual surgery planning despite the availability of detailed three-dimensional imaging. A prototype system for orthognathic surgery planning was developed that transforms manually identified landmarks into automated planning proposals by embedding established cephalometric rules, photoanalysis and clinical expert knowledge into an algorithmic framework. To evaluate the prototype, an initial retrospective study including 20 patients who underwent bimaxillary orthognathic surgery was performed. The study population was balanced for gender and skeletal class. For each case automatic planning proposals were compared with state-of-the-art virtual surgery planning. Quantitative differences between both planning approaches were analysed across all six degrees of freedom. In addition, a subgroup analysis according to skeletal class (class II vs class III) was conducted to assess potential class-specific deviations. Statistical comparisons were performed using t-tests or Mann-Whitney U-tests depending on data distribution (P < 0.05). Agreement between prototype and expert planning was assessed using Bland-Altman analysis and intra-class correlation coefficients. Results showed good agreement in most degrees of freedom. Statistically significant differences in planning results were noted in the Pitch dimension (Expert: 0.88° ± 4.46; Planning system: 5.72° ± 5.7; P = 0.0049; CI: 1.56, 8.12). The prototype generally produced clinically reasonable planning propositions within the scope of the preliminary evaluation study. Incorporating additional cephalometric analyses and optimising the algorithm will likely enhance the systems performance.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "showed good agreement in most degrees of freedom. Statistically significant differences in planning results were noted in the Pitch dimension (Expert: 0.88° ± 4.46; Planning system: 5.72° ± 5.7; P = 0.0049; CI: 1.56, 8.12). The prototype generally produced clinically reasonable planning propositions within the scope of the preliminary evaluation study. Incorporating additional cephalometric analyses and optimising the algorithm will likely enhance the systems performance.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42711161/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42709366",
+      "title": "Artificial intelligence-based segmentation of mandibular canal on cone-beam computed tomography: a systematic review and meta-analysis.",
+      "authors": [
+        "Fatma E A Hassanein",
+        "Mohamed Ahmed Sherif",
+        "Abdelhamed Salah",
+        "Hamada Mahmoud Mohamed",
+        "Gsemallah Abdo Ahmed",
+        "Aseef Rehman",
+        "Bernice Clarissa Neda Sirait",
+        "Wael Jamil",
+        "Asmaa Abou-Bakr",
+        "Mazen F Alkahtany",
+        "Yousra Ahmed"
+      ],
+      "publication_date": "2026-Sep-08",
+      "publication_date_iso": "2026-09-08",
+      "abstract": "To systematically evaluate the accuracy and generalizability of artificial intelligence (AI)-based segmentation of mandibular canal and related anatomical structures on cone-beam computed tomography (CBCT) and to examine methodological factors influencing reported performance. A systematic search of PubMed/MEDLINE, Scopus, Web of Science, Cochrane Library, and Wiley Online Library was conducted through April 10, 2026. Studies evaluating AI-based segmentation of the mandibular canal or related anatomical structures on CBCT were included. Risk of bias was assessed using QUADAS-2 tool. Random-effects meta-analysis using restricted maximum likelihood estimation was performed to pool segmentation performance, with the Dice Similarity Coefficient (DSC) as the primary outcome. Subgroup analyses, meta-regression, publication bias assessment, and GRADE certainty evaluation were conducted. Fifty-nine studies were included qualitatively, and 46 studies were eligible for quantitative synthesis. Across 40 effect sizes, the pooled DSC was 0.806 (95% CI: 0.773-0.839), indicating high average segmentation performance, although heterogeneity was substantial (I² = 99.68%). Pooled secondary outcomes were 0.757 for Intersection-over-Union, 2.085 mm for HD95, and 0.498 mm for mean distance error. No significant differences were observed according to validation strategy or AI architecture. Publication year was the only signific. AI-based segmentation of mandibular canals on CBCT demonstrates promising performance; however, substantial heterogeneity, limited external validation, and low certainty of evidence restrict confidence in its generalizability. AI systems should be considered adjunctive tools, and further high-quality, externally validated studies with standardized methodologies are required to support reliable clinical implementation. AI-assisted mandibular canal segmentation may improve workflow efficiency and support treatment planning in implant dentistry and oral surgery. Nevertheless, clinician oversight remains essential because current evidence does not support fully autonomous clinical implementation.",
+      "objective": "",
+      "study_methods": "A systematic search of PubMed/MEDLINE, Scopus, Web of Science, Cochrane Library, and Wiley Online Library was conducted through April 10, 2026. Studies evaluating AI-based segmentation of the mandibular canal or related anatomical structures on CBCT were included. Risk of bias was assessed using QUADAS-2 tool. Random-effects meta-analysis using restricted maximum likelihood estimation was performed to pool segmentation performance, with the Dice Similarity Coefficient (DSC) as the primary outcome. Subgroup analyses, meta-regression, publication bias assessment, and GRADE certainty evaluation were conducted.",
+      "methods": "A systematic search of PubMed/MEDLINE, Scopus, Web of Science, Cochrane Library, and Wiley Online Library was conducted through April 10, 2026. Studies evaluating AI-based segmentation of the mandibular canal or related anatomical structures on CBCT were included. Risk of bias was assessed using QUADAS-2 tool. Random-effects meta-analysis using restricted maximum likelihood estimation was performed to pool segmentation performance, with the Dice Similarity Coefficient (DSC) as the primary outcome. Subgroup analyses, meta-regression, publication bias assessment, and GRADE certainty evaluation were conducted.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709366/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42706663",
+      "title": "Knowledge, Attitudes, Self-Reported Practices, and Self-Reported Hepatitis B Vaccination Completion Among Dental Students: A Cross-Sectional Study.",
+      "authors": [
+        "Aya Ali",
+        "Hani Radhi",
+        "Ahmad Fliah Hassan",
+        "Faaiz Yaqub Alhamdani"
+      ],
+      "publication_date": "2026-Sep-07",
+      "publication_date_iso": "2026-09-07",
+      "abstract": "Dental students are exposed to blood-borne pathogens and sharps injuries, making adherence to infection prevention and control (IPC) measures essential for their safety. This study compared IPC knowledge, attitudes, self-reported practices, and self-reported hepatitis B virus (HBV) vaccination completion between fourth- and fifth-year dental students. This cross-sectional questionnaire study included separate fourth- and fifth-year dental-student cohorts at the College of Dentistry, Al-Mustansiriyah University, Baghdad, Iraq. The investigator-developed, context-adapted questionnaire comprised 12 knowledge, 10 attitude, and 12 self-reported practice items. We used Mann-Whitney U and chi-squared tests for academic-year comparisons, with Holm adjustment applied to the prespecified families of KAP comparisons. The study included 188 participants: 95 fourth-year students (79.4% response rate) and 93 fifth-year students (77.5% response rate). Fifth-year students had higher knowledge scores than fourth-year students (median [interquartile range], 11 [10-12] vs. 9 [8-9]; Holm-adjusted p < 0.003; r = 0.70), greater knowledge adequacy (97.8% vs. 55.8%; Holm-adjusted p < 0.003), and a higher prevalence of self-reported completion of the three-dose HBV vaccination schedule (60.2% vs. 31.6%; p < 0.001; Cramer's V = 0.29). Attitude and self-reported practice scores were high in both cohorts, with comparatively smaller between-cohort differences. The two cohorts differed principally in IPC knowledge and self-reported HBV vaccination completion. Because the study was cross-sectional, the findings do not demonstrate within-student improvement or the causal effect of academic progression.",
+      "objective": "",
+      "study_methods": "This cross-sectional questionnaire study included separate fourth- and fifth-year dental-student cohorts at the College of Dentistry, Al-Mustansiriyah University, Baghdad, Iraq. The investigator-developed, context-adapted questionnaire comprised 12 knowledge, 10 attitude, and 12 self-reported practice items. We used Mann-Whitney U and chi-squared tests for academic-year comparisons, with Holm adjustment applied to the prespecified families of KAP comparisons.",
+      "methods": "This cross-sectional questionnaire study included separate fourth- and fifth-year dental-student cohorts at the College of Dentistry, Al-Mustansiriyah University, Baghdad, Iraq. The investigator-developed, context-adapted questionnaire comprised 12 knowledge, 10 attitude, and 12 self-reported practice items. We used Mann-Whitney U and chi-squared tests for academic-year comparisons, with Holm adjustment applied to the prespecified families of KAP comparisons.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42706663/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2692,62 +2824,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42687076",
-      "title": "20-year experience of biomet stock alloplastic temporomandibular joint replacement in Chinese patients after technical modifications: a single-center retrospective study.",
-      "authors": [
-        "Dongmei He",
-        "Jiale Hong",
-        "Ruoyi Ding",
-        "Jieyun Zhao",
-        "Chuan Lu",
-        "Chi Yang"
-      ],
-      "publication_date": "2026-Sep-03",
-      "publication_date_iso": "2026-09-03",
-      "abstract": "To evaluate the clinical and radiographic outcomes of the Biomet stock alloplastic temporomandibular joint replacement (ATJR) after seven progressive surgical modifications in Chinese patients at a single center. Patients who underwent ATJR from 2005 to 2025 were retrospectively reviewed. Seven surgical modifications were progressively introduced to optimize outcomes. Maximum interincisal opening (MIO), visual analogue scale (VAS) for pain, dietary function and mandibular mobility, and quality of life (QoL) were compared between baseline and final follow-up of at least 12 months. Postoperative computed tomography (CT) was used to evaluate prosthesis stability, screw position and heterotopic ossification (HO). Complications, revision rates, and Kaplan-Meier prosthesis survival rate were analyzed. 300 patients with 392 prostheses were included in the study. After a mean follow-up of 67.4±43.5 (12-208) months, MIO improved significantly from 23.7±13.5 mm to 34.2±6.9 mm (p < 0.001). QoL improved by 36.6% and VAS scores improved by 63.8-76.3%. 222 patients with 289 prostheses had CT follow-up exams 12-183 months after surgery (mean 40.9±33.7). HO of varying degrees was observed in 116 prostheses (40.1%) and screw loosening occurred in 7 prostheses (2.4%). 12 prostheses were revised (3.1%) including infection, persistent discomfort, screw loosening or severe HO. Cumulative prosthesis survival rates were 99.1%, 98.1%, 96.9%, and 94.7% at 1, 3, 5 and 10 years, respectively. Biomet stock ATJR has satisfactory results in Chinese patients with surgical modifications. Long-term follow-up of Biomet stock ATJR in Chinese patients showed satisfactory clinical, radiological and survival rates with surgical modifications, supporting its broader application in populations with anatomical features distinct from those of Western patients.",
-      "objective": "",
-      "study_methods": "Patients who underwent ATJR from 2005 to 2025 were retrospectively reviewed. Seven surgical modifications were progressively introduced to optimize outcomes. Maximum interincisal opening (MIO), visual analogue scale (VAS) for pain, dietary function and mandibular mobility, and quality of life (QoL) were compared between baseline and final follow-up of at least 12 months. Postoperative computed tomography (CT) was used to evaluate prosthesis stability, screw position and heterotopic ossification (HO). Complications, revision rates, and Kaplan-Meier prosthesis survival rate were analyzed.",
-      "methods": "Patients who underwent ATJR from 2005 to 2025 were retrospectively reviewed. Seven surgical modifications were progressively introduced to optimize outcomes. Maximum interincisal opening (MIO), visual analogue scale (VAS) for pain, dietary function and mandibular mobility, and quality of life (QoL) were compared between baseline and final follow-up of at least 12 months. Postoperative computed tomography (CT) was used to evaluate prosthesis stability, screw position and heterotopic ossification (HO). Complications, revision rates, and Kaplan-Meier prosthesis survival rate were analyzed.",
-      "results": "in Chinese patients with surgical modifications. Long-term follow-up of Biomet stock ATJR in Chinese patients showed satisfactory clinical, radiological and survival rates with surgical modifications, supporting its broader application in populations with anatomical features distinct from those of Western patients.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687076/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42691765",
-      "title": "Structured Microskill Stepwise Progression for Undergraduate Tooth Extraction: A Randomized Mixed-Methods Study.",
-      "authors": [
-        "Zongxi Wu",
-        "Mingyue Wang",
-        "Xueting Luo",
-        "Xiangqi Liu",
-        "Le Yang",
-        "Siyong Gao",
-        "Sien Zhang",
-        "Guangsen Zheng"
-      ],
-      "publication_date": "2026-Sep-02",
-      "publication_date_iso": "2026-09-02",
-      "abstract": "To evaluate whether a structured microskill stepwise progression model improves procedural competence and reduces performance variability in undergraduate tooth extraction training compared with traditional apprenticeship-based teaching. This randomized mixed-methods pilot study allocated 40 fifth-year dental students (1:1) to traditional apprenticeship teaching or a microskill stepwise progression model during an 8-week oral surgery rotation. The intervention divided tooth extraction into nine stages, requiring five targeted observations and five successful supervised performances before progression. End-of-rotation competence was assessed using a modified Direct Observation of Procedural Skills (DOPS) scale by two blinded examiners. Between-group differences and score variability were analysed using Welch's t test and the F-test. Questionnaires and qualitative feedback explored learner and instructor perceptions. Baseline theoretical examination scores were comparable between groups. Inter-rater reliability for the total modified DOPS scores was good (ICC = 0.86; 95% CI, 0.74-0.93; P < .001). The intervention group achieved higher modified DOPS scores than the control group (94.60 ± 3.97 vs 88.25 ± 6.41; mean difference, 6.35; 95% CI, 2.94-9.76; P < .001; Cohen's d = 1.19) and lower score variability (F = 2.616; P = .042), with a narrower score range (87-100 vs 75-96). Qualitative findings suggested clearer progression and more consistent competence development. Questionnaire findings were exploratory; four item-level differences remained significant after Benjamini-Hochberg correction. The microskill stepwise model was associated with improved tooth extraction performance and reduced variability in assessed procedural competence compared with traditional teaching. This mastery-oriented approach may support more structured supervision and more consistent educational readiness in oral surgery training. This framework helps educators organize undergraduate tooth extraction training using procedure-specific stages, supervised-performance thresholds, and documented progression criteria. It may promote consistent standards and transparent entrustment decisions, but should be adapted to local case availability and supervisor workload.",
-      "objective": "",
-      "study_methods": "This randomized mixed-methods pilot study allocated 40 fifth-year dental students (1:1) to traditional apprenticeship teaching or a microskill stepwise progression model during an 8-week oral surgery rotation. The intervention divided tooth extraction into nine stages, requiring five targeted observations and five successful supervised performances before progression. End-of-rotation competence was assessed using a modified Direct Observation of Procedural Skills (DOPS) scale by two blinded examiners. Between-group differences and score variability were analysed using Welch's t test and the F-test. Questionnaires and qualitative feedback explored learner and instructor perceptions.",
-      "methods": "This randomized mixed-methods pilot study allocated 40 fifth-year dental students (1:1) to traditional apprenticeship teaching or a microskill stepwise progression model during an 8-week oral surgery rotation. The intervention divided tooth extraction into nine stages, requiring five targeted observations and five successful supervised performances before progression. End-of-rotation competence was assessed using a modified Direct Observation of Procedural Skills (DOPS) scale by two blinded examiners. Between-group differences and score variability were analysed using Welch's t test and the F-test. Questionnaires and qualitative feedback explored learner and instructor perceptions.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691765/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42685977",
       "title": "Prevalence of persistent neurosensory disturbance after bilateral sagittal split osteotomy: A retrospective study.",
       "authors": [
@@ -2843,678 +2919,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42684024/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42703659",
-      "title": "Penetrating maxillofacial trauma with transmaxillary migration of a metallic foreign body to the sphenoid sinus: A rare case.",
-      "authors": [
-        "Emrah Isiktekin"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "This case report details a rare and potentially life-threatening injury of an initially overlooked maxillofacial trauma sustained during agricultural activity. A 19-year-old male presented to the emergency department with a headache and fatigue, 2 days following a right malar injury that had been previously sutured without advanced evaluation. A thorough clinical examination was conducted, which revealed the presence of periorbital swelling on both sides, accompanied by a right subconjunctival hemorrhage and chemosis. Radiographic imaging revealed the presence of a substantial, crescent-shaped metallic foreign body with its tip lodged just beneath the anterior skull base, penetrating the sphenoid sinus and lying inferior to the hypophysis. The base of the foreign body extended horizontally into the region adjacent to the middle nasal concha. Multislice computed tomography with angiography revealed its close proximity to critical neurovascular structures, including branches of the maxillary artery. Surgical removal was performed under general anesthesia via an extra-nasal transmaxillary approach, utilizing the trauma incision. Following meticulous dissection, the foreign body was reached and carefully extracted through an executed outward rotation technique. This case emphasizes the vital necessity for thorough clinical evaluation, detailed history-taking, and advanced imaging in the context of facial trauma, where superficially innocuous wounds may harbor latent complications. Primary closure of laceration without full diagnostic clarity risks sealing the patient in danger just millimeters from vital neurovascular structures. A detailed history, systematic examination and proper investigations are needed before primary closure of traumatic facial lacerations.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42703659/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42697094",
-      "title": "Integrated metabolomic and transcriptomic analysis reveals P4HA3-associated 4-Hydroxyproline reduction in a mouse model of LiCl-induced cleft palate.",
-      "authors": [
-        "Xiao Luo",
-        "Jiaqi Jian",
-        "Meng Gong",
-        "Jinyuan Xie",
-        "Qian Zheng",
-        "Chenghao Li",
-        "Bing Shi",
-        "Renkai Liu",
-        "Chong Zhang"
-      ],
-      "publication_date": "2026-Sep-01",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Lithium chloride (LiCl) induces cleft palate by disrupting palatal shelf elevation, but the underlying metabolic mechanisms remain unclear. This study aims to investigate these mechanisms using an integrated multi-omics approach. A LiCl-induced cleft palate mouse model was established by intraperitoneal injection of LiCl (0.4 mg/g/day) from embryonic day (E) 10.5 to E13.5. Palatal shelves were collected at E16.5 for targeted metabolomics using ultra-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) and transcriptome sequencing. Integrated pathway analysis was performed to identify key pathways. Immunofluorescence, reverse transcription quantitative PCR (RT-qPCR), and Hydroxyproline assay validated findings in vivo and in human embryonic palatal mesenchymal (HEPM) cells. Further temporal analysis was conducted at E13.5, E14.0, and E14.5 to identify the key stage. In LiCl-induced cleft palate mice, multi-omics identified 24 differentially abundant metabolites and 595 differentially expressed genes, with arginine and proline metabolism as the most enriched pathway. Within this pathway, 4-Hydroxyproline was downregulated, proline was upregulated, accompanied by downregulation of P4HA3, a key enzyme for 4-Hydroxyproline synthesis. Immunofluorescence revealed increased β-catenin and decreased P4HA3 in cleft palate tissues, with partial colocalization. Temporal analysis showed these changes became significant at E14.0, coinciding with disrupted palatal elevation. In vitro, LiCl simultaneously upregulated β-catenin and downregulated P4HA3 in HEPM cells. LiCl-induced cleft palate in mice involves β-catenin-associated downregulation of P4HA3, which contributes to a reduction in 4-Hydroxyproline and impaired palatal elevation. These findings reveal a novel metabolic mechanism in cleft palate pathogenesis.",
-      "objective": "to investigate these mechanisms using an integrated multi-omics approach. A LiCl-induced cleft palate mouse model was established by intraperitoneal injection of LiCl (0.4 mg/g/day) from embryonic day (E) 10.5 to E13.5. Palatal shelves were collected at E16.5 for targeted metabolomics using ultra-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) and transcriptome sequencing. Integrated pathway analysis was performed to identify key pathways. Immunofluorescence, reverse transcription quantitative PCR (RT-qPCR), and Hydroxyproline assay validated findings in vivo and in human embryonic palatal mesenchymal (HEPM) cells. Further temporal analysis was conducted at E13.5, E14.0, and E14.5 to identify the key stage. In LiCl-induced cleft palate mice, multi-omics identified 24 differentially abundant metabolites and 595 differentially expressed genes, with arginine and proline metabolism as the most enriched pathway. Within this pathway, 4-Hydroxyproline was downregulated, proline was upregulated, accompanied by downregulation of P4HA3, a key enzyme for 4-Hydroxyproline synthesis. Immunofluorescence revealed increased β-catenin and decreased P4HA3 in cleft palate tissues, with partial colocalization. Temporal analysis showed these changes became significant at E14.0, coinciding with disrupted palatal elevation. In vitro, LiCl simultaneously upregulated β-catenin and downregulated P4HA3 in HEPM cells. LiCl-induced cleft palate in mice involves β-catenin-associated downregulation of P4HA3, which contributes to a reduction in 4-Hydroxyproline and impaired palatal elevation. These findings reveal a novel metabolic mechanism in cleft palate pathogenesis.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "cleft lip and palate surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697094/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42694760",
-      "title": "Patient-specific implants and virtual surgical planning in surgery-first orthognathic surgery: a case series and review of literature.",
-      "authors": [
-        "Nissia Ananda",
-        "Muhammad Kamil Hassan",
-        "Sugeng Supriadi",
-        "Alexander Patera Nugraha",
-        "Firdaus Hariri"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Virtual surgical planning (VSP) and patient-specific implants (PSIs) are increasingly used to translate digital orthognathic plans to surgery with greater precision, particularly in surgery-first orthognathic (SFO) protocols where pre-surgical orthodontics no longer absorbs planning error. We report two SFO cases managed at a single centre using VSP, customized cutting guides, and titanium PSIs. Case 1 was a 19-year-old male with maxillary hypoplasia and mandibular hyperplasia treated by Le Fort I osteotomy, vertical ramus osteotomy, and genioplasty. Case 2 was a 30-year-old female with facial asymmetry from unilateral mandibular hyperplasia treated by Le Fort I osteotomy, bilateral sagittal split osteotomy, and mandibular contouring. Both achieved satisfactory functional, occlusal, and aesthetic outcomes at six months without major complications. Maxillary PSI fixation supported predictable plan transfer in both cases, whereas mandibular management still required case-specific strategies. We discuss this pattern in light of current literature.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694760/",
-      "pmcid": "PMC13540746",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42694521",
-      "title": "Accuracy of General-Use Multimodal AI Platforms for Pell and Gregory Classification of Impacted Mandibular Third Molars.",
-      "authors": [
-        "John A Fregene",
-        "Aditya Tadinada"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "The purpose of this study was to evaluate the performance of two general-use artificial intelligence models, ChatGPT and Grok, in classifying impacted mandibular third molars using the Pell and Gregory system on panoramic radiographs, compared with a resident consensus reference standard. One hundred panoramic radiographic images of impacted mandibular third molars were independently classified by two blinded resident reviewers using the Pell and Gregory classification system. Resident consensus was defined as exact agreement between both reviewers; the 94 concordant classifications were confirmed by a board-certified oral and maxillofacial radiologist (the second author), blinded to the AI outputs, and served as the reference standard. Cases without consensus were excluded from the AI accuracy analysis. Each image was then submitted individually to ChatGPT-5.2 and Grok 4.1 through their paid-tier chat interfaces, with each case initiated as a new conversation session. Inter-rater reliability was assessed using percent agreement and Cohen's kappa. AI accuracy was calculated as the proportion of correct classifications among consensus cases, and the two models were compared using McNemar's test with continuity correction. The two resident reviewers reached consensus on 94 of 100 cases, with an observed agreement of 94.0% and a Cohen's kappa of 0.925 (95% CI: 0.867-0.983). ChatGPT correctly classified 19 of 94 consensus cases (20.2%; 95% CI: 12.1-28.3%), while Grok correctly classified 17 of 94 cases (18.1%; 95% CI: 10.3-25.9%). Both models performed only marginally above the 11.1% accuracy expected from random chance across nine classification categories. McNemar's test showed no statistically significant difference between the two models (χ²(1) = 0.045, p = 0.832). Both ChatGPT and Grok demonstrated poor accuracy in the Pell and Gregory classification of impacted mandibular third molars when compared with resident consensus. These findings suggest that currently available general-use AI models are not reliable for the independent radiographic classification of impacted mandibular third molars and should not replace expert clinical judgment for this task.",
-      "objective": "of this study was to evaluate the performance of two general-use artificial intelligence models, ChatGPT and Grok, in classifying impacted mandibular third molars using the Pell and Gregory system on panoramic radiographs, compared with a resident consensus reference standard. One hundred panoramic radiographic images of impacted mandibular third molars were independently classified by two blinded resident reviewers using the Pell and Gregory classification system. Resident consensus was defined as exact agreement between both reviewers; the 94 concordant classifications were confirmed by a board-certified oral and maxillofacial radiologist (the second author), blinded to the AI outputs, and served as the reference standard. Cases without consensus were excluded from the AI accuracy analysis. Each image was then submitted individually to ChatGPT-5.2 and Grok 4.1 through their paid-tier chat interfaces, with each case initiated as a new conversation session. Inter-rater reliability was assessed using percent agreement and Cohen's kappa. AI accuracy was calculated as the proportion of correct classifications among consensus cases, and the two models were compared using McNemar's test with continuity correction. The two resident reviewers reached consensus on 94 of 100 cases, with an observed agreement of 94.0% and a Cohen's kappa of 0.925 (95% CI: 0.867-0.983). ChatGPT correctly classified 19 of 94 consensus cases (20.2%; 95% CI: 12.1-28.3%), while Grok correctly classified 17 of 94 cases (18.1%; 95% CI: 10.3-25.9%). Both models performed only marginally above the 11.1% accuracy expected from random chance across nine classification categories. McNemar's test showed no statistically significant difference between the two models (χ²(1) = 0.045, p = 0.832). Both ChatGPT and Grok demonstrated poor accuracy in the Pell and Gregory classification of impacted mandibular third molars when compared with resident consensus. These findings suggest that currently available general-use AI models are not reliable for the independent radiographic classification of impacted mandibular third molars and should not replace expert clinical judgment for this task.",
-      "study_methods": "One hundred panoramic radiographic images of impacted mandibular third molars were independently classified by two blinded resident reviewers using the Pell and Gregory classification system. Resident consensus was defined as exact agreement between both reviewers; the 94 concordant classifications were confirmed by a board-certified oral and maxillofacial radiologist (the second author), blinded to the AI outputs, and served as the reference standard. Cases without consensus were excluded from the AI accuracy analysis. Each image was then submitted individually to ChatGPT-5.2 and Grok 4.1 through their paid-tier chat interfaces, with each case initiated as a new conversation session. Inter-rater reliability was assessed using percent agreement and Cohen's kappa. AI accuracy was calculated as the proportion of correct classifications among consensus cases, and the two models were compared using McNemar's test with continuity correction.",
-      "methods": "One hundred panoramic radiographic images of impacted mandibular third molars were independently classified by two blinded resident reviewers using the Pell and Gregory classification system. Resident consensus was defined as exact agreement between both reviewers; the 94 concordant classifications were confirmed by a board-certified oral and maxillofacial radiologist (the second author), blinded to the AI outputs, and served as the reference standard. Cases without consensus were excluded from the AI accuracy analysis. Each image was then submitted individually to ChatGPT-5.2 and Grok 4.1 through their paid-tier chat interfaces, with each case initiated as a new conversation session. Inter-rater reliability was assessed using percent agreement and Cohen's kappa. AI accuracy was calculated as the proportion of correct classifications among consensus cases, and the two models were compared using McNemar's test with continuity correction.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694521/",
-      "pmcid": "PMC13539817",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42689263",
-      "title": "Acute myocardial infarction revealing a thrombotic right coronary artery-superior vena cava fistula: a case report.",
-      "authors": [
-        "Chaimae Aboueddahab",
-        "Mickaël Ohana",
-        "Olivier Morel"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Coronary artery fistulas are rare coronary anomalies that can occasionally lead to thrombotic complications and myocardial infarction. Their diagnosis and management remain challenging due to variable anatomy and low prevalence. A 29-year-old man presented with inferior ST-segment elevation myocardial infarction 5 days after orthognathic surgery. Coronary angiography revealed a thrombotic occlusion of the distal right coronary artery (RCA) and a thrombotic fistula arising from the proximal RCA. Successful stenting restored distal flow. Cardiac computed tomography angiography confirmed a RCA-superior vena cava fistula containing thrombus. The patient received dual antiplatelet therapy and anticoagulation. Follow-up imaging at 3 months showed a patent RCA stent and persistent occlusion of the fistula. This case illustrates that coronary artery fistulas, though rare, can lead to acute myocardial infarction in young adults. Coronary computed tomography angiography is essential for anatomical assessment, and heart team discussion is key for individualized management.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689263/",
-      "pmcid": "PMC13537509",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42688918",
-      "title": "Regional Variation in Reimbursement for Body Contouring Surgery: A Claims-based Analysis across the United States.",
-      "authors": [
-        "Christina Colon-Sanchez",
-        "Victoria N Yi",
-        "Amanda R Sergesketter",
-        "Scott T Hollenbeck",
-        "Detlev Erdmann"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Recent trends in patient-driven weight loss efforts highlight the need for additional investigation into the utilization and accessibility of subsequent body contouring procedures. Previous insurance claim analyses have largely focused on factors associated with coverage determination. However, regional differences in payer reimbursement are not well understood. Therefore, this study examines regional variation in reimbursement rates for body contouring procedures across the United States. Insurance claims database PearlDiver Mariner was used to retrieve records of abdominoplasty (current procedural terminology [CPT] 15847) and panniculectomy (CPT 15830) that occurred between 2010 and 2023. A total of 4152 records were disaggregated into 4 separate US census regions (Northeast, Midwest, South, and West) for analysis. The US South contributed the highest reimbursement value for abdominal body contouring surgery with an average of $3426.6 per record, whereas the West contributed the lowest ($2105.92 per record). The Midwest displayed the most interstate variability with a range of $5102.32 per record between the highest-paying and lowest-paying state. When stratified by payer type, private insurers reimbursed at higher rates compared to public insurers across all regions. Regional differences exist for insurance coverage for abdominoplasty and panniculectomy within the United States. The South had the highest average reimbursement rate, whereas the West had the lowest. The Midwest had the highest interstate variability in reimbursement within a region. Regional differences in costs and coverage of body contouring surgery have significant implications on patient accessibility to these procedures, health policy development, and physician counseling on the cost of care.",
-      "objective": "",
-      "study_methods": "Insurance claims database PearlDiver Mariner was used to retrieve records of abdominoplasty (current procedural terminology [CPT] 15847) and panniculectomy (CPT 15830) that occurred between 2010 and 2023. A total of 4152 records were disaggregated into 4 separate US census regions (Northeast, Midwest, South, and West) for analysis.",
-      "methods": "Insurance claims database PearlDiver Mariner was used to retrieve records of abdominoplasty (current procedural terminology [CPT] 15847) and panniculectomy (CPT 15830) that occurred between 2010 and 2023. A total of 4152 records were disaggregated into 4 separate US census regions (Northeast, Midwest, South, and West) for analysis.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42688918/",
-      "pmcid": "PMC13537717",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42679986",
-      "title": "Accuracy of Guide-Free, Mixed Reality-Assisted Patient Specific Implant Fixation for Maxillary Repositioning: A Cohort Study.",
-      "authors": [
-        "Liwei Huang",
-        "Haoning Li",
-        "Zhaokun Zhu",
-        "Yao Liu",
-        "Ruiye Bi",
-        "Ze He",
-        "En Luo"
-      ],
-      "publication_date": "2026-Sep-01",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "To develop a mixed reality (MR)-assisted, guide-free workflow for patient-specific implant (PSI)-based maxillary fixation and evaluate its positioning equivalence and procedural efficiency relative to conventional guide-assisted PSI fixation. In this non-randomized cohort study, 28 patients undergoing Le Fort I osteotomy independently selected their preferred workflow after receiving detailed information on both approaches and were categorized according to the workflow received. MR navigation guided osteotomy lines and screw-hole positioning in the MR-assisted group, whereas conventional surgical guides were used in the guide-assisted group. Equivalence was assessed using two one-sided tests (TOST), with margins of ±0.5 mm for translational and ±1.0° for rotational outcomes. All 90% confidence intervals (CIs) for between-group differences in translational and rotational positioning errors were entirely within the prespecified equivalence margins, supporting statistical equivalence within these bounds. Small directional offsets were observed for A-X (mean difference, -0.206 mm), UL6-Y (0.168 mm; 90% CI, 0.070-0.267 mm), and yaw (0.159°; 90% CI, 0.017-0.302°), although all remained within the equivalence margins. Preoperative preparation time and mean Le Fort I segment time were reduced in the MR-assisted group, which also required fewer intraoperative adjustments (2.29 ± 1.49 vs. 4.29 ± 1.20; P = 0.0006). MR-assisted, guide-free PSI fixation showed positioning outcomes statistically equivalent to guide-assisted fixation within the prespecified margins and was associated with greater procedural efficiency. MR-assisted, guide-free PSI fixation may reduce reliance on surgical guides while maintaining between-workflow positioning differences within prespecified equivalence bounds.",
-      "objective": "",
-      "study_methods": "In this non-randomized cohort study, 28 patients undergoing Le Fort I osteotomy independently selected their preferred workflow after receiving detailed information on both approaches and were categorized according to the workflow received. MR navigation guided osteotomy lines and screw-hole positioning in the MR-assisted group, whereas conventional surgical guides were used in the guide-assisted group. Equivalence was assessed using two one-sided tests (TOST), with margins of ±0.5 mm for translational and ±1.0° for rotational outcomes.",
-      "methods": "In this non-randomized cohort study, 28 patients undergoing Le Fort I osteotomy independently selected their preferred workflow after receiving detailed information on both approaches and were categorized according to the workflow received. MR navigation guided osteotomy lines and screw-hole positioning in the MR-assisted group, whereas conventional surgical guides were used in the guide-assisted group. Equivalence was assessed using two one-sided tests (TOST), with margins of ±0.5 mm for translational and ±1.0° for rotational outcomes.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42679986/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42647885",
-      "title": "Discussion: Maxillary Distraction Osteogenesis as both Bridge to and Replacement for Orthognathic Surgery in Patients with Cleft Lip and Palate.",
-      "authors": [
-        "Lun-Jou Lo"
-      ],
-      "publication_date": "2026-Sep-01",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42647885/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42647884",
-      "title": "Maxillary Distraction Osteogenesis as both Bridge to and Replacement for Orthognathic Surgery in Patients with Cleft Lip and Palate.",
-      "authors": [
-        "Benjamin B Massenburg",
-        "Dominic J Romeo",
-        "Steven Du",
-        "Meagan Wu",
-        "Jinggang J Ng",
-        "Hyun-Duck Nah",
-        "Joseph A Napoli",
-        "Jesse A Taylor",
-        "Scott P Bartlett",
-        "Jordan W Swanson"
-      ],
-      "publication_date": "2026-Sep-01",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Although maxillary distraction osteogenesis (MaxDO) has demonstrated superior bone healing in patients with cleft lip and palate (CLP), its clinical use is relatively unreported. Questions persist regarding its effectiveness in treating severe maxillary retrusion, its ability to achieve adequate dentofacial correction, and whether it is better deployed as a bridge to definitive orthognathic surgery. The authors retrospectively reviewed all patients with a diagnosis of CLP who underwent MaxDO from 2007 through 2022 and determined predictors for long-term occlusal normalization and risk factors for relapse and additional orthognathic surgery. Chi-square tests were used for binomial variables and a multivariable logistic regression was performed. Twenty-six patients with CLP who underwent MaxDO for midface hypoplasia and Angle class III malocclusion between ages 9.0 and 19.2 years were included. In female patients, MaxDO achieved stable occlusion without additional surgical intervention in 83.3% of those who underwent surgery after age 13.5 years, compared with 20.0% of those who underwent surgery before age 13.5 years (P = 0.036). In male patients, MaxDO achieved stable occlusion in 50.0% of those who underwent surgery after age 17 years, compared with 0% of those who underwent surgery before age 17 years (P = 0.018). On multivariable logistic analysis, older age at time of MaxDO was associated with long-term normalization of occlusion without additional procedures (P = 0.045). MaxDO effectively achieves stable maxillary advancements of greater than 12 mm in patients with CLP. In young children, MaxDO may normalize severe midface hypoplasia through secondary school ages as a bridge to definitive orthognathic surgery. In skeletally mature patients, MaxDO may achieve stable normalization of occlusion without need for further orthognathic surgery.",
-      "objective": "",
-      "study_methods": "The authors retrospectively reviewed all patients with a diagnosis of CLP who underwent MaxDO from 2007 through 2022 and determined predictors for long-term occlusal normalization and risk factors for relapse and additional orthognathic surgery. Chi-square tests were used for binomial variables and a multivariable logistic regression was performed.",
-      "methods": "The authors retrospectively reviewed all patients with a diagnosis of CLP who underwent MaxDO from 2007 through 2022 and determined predictors for long-term occlusal normalization and risk factors for relapse and additional orthognathic surgery. Chi-square tests were used for binomial variables and a multivariable logistic regression was performed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42647884/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42633400",
-      "title": "Comparative evaluation of upper airway dimensions following isolated mandibular setback versus bimaxillary surgery in the surgery-first approach: A 1-year follow-up study.",
-      "authors": [
-        "Le Tan Hung",
-        "Pham Trinh Quoc Khanh",
-        "Le Duc Lanh",
-        "Tran Ai Khiem",
-        "Nguyen My Huyen",
-        "Nguyen Trung Hieu"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "This study aimed to quantitatively compare alterations in upper airway dimensions-specifically volume and cross-sectional area-following isolated mandibular setback versus bimaxillary surgery using the surgery-first approach (SFA) in patients with skeletal Class III malocclusion. To the best of our knowledge, this is the first study to directly compare these two surgical protocols exclusively under the SFA paradigm with acoustic pharyngometry and per-millimetre analysis over a 1-year follow-up. A retrospective cohort investigation was conducted on 40 skeletally mature Class III adults, equally allocated into two cohorts: Group 1 underwent isolated mandibular setback via bilateral sagittal split osteotomy (BSSO, n=20), while Group 2 received bimaxillary orthognathic surgery (maxillary advancement combined with mandibular setback, n=20). Upper airway parameters were objectively assessed using acoustic pharyngometry at three distinct intervals: one week preoperatively (T0), one month postoperatively (T1), and one year postoperatively (T2). Spatial airway variations were quantified as percentage changes, with the magnitude of airway reduction and subsequent recovery calculated per millimetre (mm) of surgical mandibular setback. At T1, both surgical interventions resulted in a statistically significant reduction in airway dimensions. Nevertheless, the extent of airway constriction was markedly more severe in Group 1 compared to Group 2, affecting both volume (-22.84% vs. -7.96%; p < 0.01) and cross-sectional area (-21.45% vs. -6.79%; p < 0.01). The volumetric reduction per millimetre of mandibular setback in Group 1 was -1.168 cc/mm, which was substantially greater than the -0.458 cc/mm observed in Group 2 (p < 0.01). By T2, a distinct airway recovery (relapse) was documented; Group 1 exhibited a higher volumetric recovery rate (+15.83%) than Group 2 (+4.63%). Despite this rebound, the overall airway dimensions at the one-year follow-up (T2) remained significantly larger and better preserved in the bimaxillary cohort than in the isolated setback group (p < 0.05). Performing an isolated mandibular setback under the SFA protocol induces considerable upper airway constriction. Conversely, incorporating maxillary advancement via bimaxillary orthognathic surgery significantly preserves airway dimensions. Consequently, bimaxillary intervention should be considered a safer surgical indication to proactively mitigate the risk of respiratory impairment, particularly in Class III patients requiring substantial mandibular retropositioning. This study provides new evidence that bimaxillary surgery better preserves airway dimensions in SFA compared with isolated mandibular setback.",
-      "objective": "",
-      "study_methods": "A retrospective cohort investigation was conducted on 40 skeletally mature Class III adults, equally allocated into two cohorts: Group 1 underwent isolated mandibular setback via bilateral sagittal split osteotomy (BSSO, n=20), while Group 2 received bimaxillary orthognathic surgery (maxillary advancement combined with mandibular setback, n=20). Upper airway parameters were objectively assessed using acoustic pharyngometry at three distinct intervals: one week preoperatively (T0), one month postoperatively (T1), and one year postoperatively (T2). Spatial airway variations were quantified as percentage changes, with the magnitude of airway reduction and subsequent recovery calculated per millimetre (mm) of surgical mandibular setback.",
-      "methods": "A retrospective cohort investigation was conducted on 40 skeletally mature Class III adults, equally allocated into two cohorts: Group 1 underwent isolated mandibular setback via bilateral sagittal split osteotomy (BSSO, n=20), while Group 2 received bimaxillary orthognathic surgery (maxillary advancement combined with mandibular setback, n=20). Upper airway parameters were objectively assessed using acoustic pharyngometry at three distinct intervals: one week preoperatively (T0), one month postoperatively (T1), and one year postoperatively (T2). Spatial airway variations were quantified as percentage changes, with the magnitude of airway reduction and subsequent recovery calculated per millimetre (mm) of surgical mandibular setback.",
-      "results": "ed in a statistically significant reduction in airway dimensions. Nevertheless, the extent of airway constriction was markedly more severe in Group 1 compared to Group 2, affecting both volume (-22.84% vs. -7.96%; p < 0.01) and cross-sectional area (-21.45% vs. -6.79%; p < 0.01). The volumetric reduction per millimetre of mandibular setback in Group 1 was -1.168 cc/mm, which was substantially greater than the -0.458 cc/mm observed in Group 2 (p < 0.01). By T2, a distinct airway recovery (relapse) was documented; Group 1 exhibited a higher volumetric recovery rate (+15.83%) than Group 2 (+4.63%). Despite this rebound, the overall airway dimensions at the one-year follow-up (T2) remained significantly larger and better preserved in the bimaxillary cohort than in the isolated setback group (p < 0.05). Performing an isolated mandibular setback under the SFA protocol induces considerable upper airway constriction. Conversely, incorporating maxillary advancement via bimaxillary orthognathic surgery significantly preserves airway dimensions. Consequently, bimaxillary intervention should be considered a safer surgical indication to proactively mitigate the risk of respiratory impairment, particularly in Class III patients requiring substantial mandibular retropositioning. This study provides new evidence that bimaxillary surgery better preserves airway dimensions in SFA compared with isolated mandibular setback.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42633400/",
-      "pmcid": "PMC13499473",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42565001",
-      "title": "Patient-specific implants are more stable than conventional miniplates in Le Fort I osteotomy in patients with clefts.",
-      "authors": [
-        "Vilma Rouhiainen",
-        "Arja Heliövaara",
-        "Junnu Leikola",
-        "Juho Suojanen",
-        "Emma Juuri"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Virtual surgical planning (VSP) and patient-specific implants (PSI) have become standard in orthognathic surgery, demonstrating accuracy and stability comparable with miniplates. To compare postoperative skeletal stability of Le Fort I osteotomy using VSP with PSIs versus conventional cast model surgery with miniplate fixation in patients with clefts. Retrospective analysis of lateral cephalograms and medical records of patients who underwent Le Fort I osteotomy between 2017 and 2023 at the Cleft Palate and Craniofacial Center, Helsinki University Hospital. Horizontal and vertical surgical advancement and relapse were assessed by superimposing preoperative, immediate, and one-year postoperative cephalometric tracings. Statistical analyses included independent samples t-, Mann-Whitney U-, Chi-squared and Fischer's exact test. Fifty-nine non-growing patients with cleft lip and/or palate (29 males; median age 18.9 years) were categorized into two groups based on the fixation method (19 PSI, 40 miniplate). Mean maxillary advancement was greater with PSIs than miniplates (7.1 mm vs. 4.3 mm; p < 0.001). Mean vertical movement was -0.8 mm with PSIs vs. -3.8 mm with miniplates (p < 0.001), reflecting more impactions in the PSI group. Horizontal and vertical relapses were significantly smaller in the PSI group (horizontal: 0.28 mm vs. 0.9 mm, 4% vs. 21% of advancement; p < 0.001; vertical: 0.81 mm vs. 1.6 mm, 30% vs. 41% of movement; p = 0.004). Horizontal advancement correlated with relapse only with miniplates (r = 0.329, p = 0.038). PSI fixation in cleft Le Fort I osteotomy seems to provide greater horizontal and vertical stability than miniplates.",
-      "objective": "",
-      "study_methods": "Retrospective analysis of lateral cephalograms and medical records of patients who underwent Le Fort I osteotomy between 2017 and 2023 at the Cleft Palate and Craniofacial Center, Helsinki University Hospital. Horizontal and vertical surgical advancement and relapse were assessed by superimposing preoperative, immediate, and one-year postoperative cephalometric tracings. Statistical analyses included independent samples t-, Mann-Whitney U-, Chi-squared and Fischer's exact test.",
-      "methods": "Retrospective analysis of lateral cephalograms and medical records of patients who underwent Le Fort I osteotomy between 2017 and 2023 at the Cleft Palate and Craniofacial Center, Helsinki University Hospital. Horizontal and vertical surgical advancement and relapse were assessed by superimposing preoperative, immediate, and one-year postoperative cephalometric tracings. Statistical analyses included independent samples t-, Mann-Whitney U-, Chi-squared and Fischer's exact test.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42565001/",
-      "pmcid": "PMC13446194",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446194/bin/gr1.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446194/bin/gr1.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446194/bin/gr2.jpg",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446194/bin/gr2.gif"
-      ]
-    },
-    {
-      "pmid": "42556918",
-      "title": "Combined Temporomandibular Joint and Orthognathic Reconstruction.",
-      "authors": [
-        "Briana J Burris",
-        "Jeffrey Hajibandeh",
-        "Julian Wilson"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42556918/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42418926",
-      "title": "Comprehensive three-dimensional morphological changes of mandibular incisors and surrounding alveolar bone in patients with skeletal Class III malocclusion following surgery-first or conventional bimaxillary orthognathic surgery.",
-      "authors": [
-        "Yule Xu",
-        "Ruoyuan Li",
-        "Han Ge",
-        "Enshi Yan",
-        "Yuan Li",
-        "Jinwei Qin",
-        "Hua Wang",
-        "Jin Li",
-        "Jie Cheng"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "This retrospective clinical and radiographic study aimed to quantitatively compare root resorption of mandibular incisors and surrounding alveolar bone remodeling in skeletal Class III malocclusion patients treated with surgery-first approach (SFA) or conventional orthognathic surgery (COS). Sixty-two eligible patients with skeletal Class III malocclusion treated with COS (n = 31) or SFA (n = 31) at our institution between January 2020 and December 2024 were included. CBCT scans were obtained at the following time points: before treatment (T0), completed presurgical orthodontic treatment (T1)-only for COS patients, and 1-2 weeks after postsurgical orthodontics completed and debonding (T2). Skeletal and dental parameters at diverse stages were determined by Dolphin Imaging software. Incisor roots were segmented into eight regions and their length and volume were measured by Mimics 21.0. Moreover, alveolar bone height surrounding the mandibular incisors was measured and compared at diverse stages. Root resorption and alveolar bone loss were found in the lower incisors after treatment irrespective of SFA or COS. SFA induced less root resorption and alveolar bone reduction as compared to COS. Moreover, root resorption was positively correlated with increased incisor inclination in SFA patients and alveolar bone loss was positively associated with increased incisor inclination among COS patients. Initial buccal alveolar bone height negatively associated with bone reduction after treatment in both groups. Taken together, our results indicate that SFA has advantages in reduced root resorption and alveolar bone loss in the mandibular incisors as compared to COS in skeletal Class III malocclusion, thus highlighting the need to monitor these changes in patients receiving combined orthognathic and orthodontic treatment.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "indicate that SFA has advantages in reduced root resorption and alveolar bone loss in the mandibular incisors as compared to COS in skeletal Class III malocclusion, thus highlighting the need to monitor these changes in patients receiving combined orthognathic and orthodontic treatment.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42418926/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42418925",
-      "title": "Functional and morphometric outcome of adaptable slicing condylectomy in transverse condylar hyperplasia: A deep learning-enhanced 3D study.",
-      "authors": [
-        "F Spallaccia",
-        "U Committeri",
-        "M E Giovannoni",
-        "A Ricciardi",
-        "P Cascone"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Unilateral condylar hyperplasia (UCH) with transverse mandibular deviation is a frequent cause of facial asymmetry and skeletal Class III malocclusion. Adaptive slice condylectomy (ASC) has been proposed as a focused alternative to bimaxillary orthognathic surgery (OS), aiming to recenter the dental midline without bilateral skeletal osteotomies. We evaluated morphological and functional outcomes after SC using AI-assisted 3D analysis. This retrospective cohort comprised 55 patients with transverse UCH treated between 2011 and 2024 at a single maxillofacial unit: 36 underwent unilateral ASC and 19 received bimaxillary OS. Cone-beam CT (CBCT) scans at baseline (T0) and 12 months (T1) were processed in 3D Slicer using a pretrained MONAI 3D U-Net for segmentation. Rigid cranial-base registration aligned T1 to T0. Metrics included condylar head volume, mean bone density, center displacement (ΔX/ΔY/ΔZ; |Δ|), and orientation change (axis-axis angle and yaw/pitch/roll). Postoperatively, the operated condyle was compared with the mirrored contralateral healthy side. ASC produced a predominantly lateral-superior repositioning of the treated condyle with midline correction. The contralateral condyle showed small adaptive shifts with overall morphologic stability. Mean postoperative asymmetry versus the mirrored side was 0.35 mm; the healthy side varied minimally (mean -0.32 mm), with deviations >1.5 mm confined to posteromedial sectors. No TMJ dysfunction occurred after ASC. Relative to OS, ASC was associated with shorter operative time (-80 min), reduced length of stay (-0.5 days), and fewer complications. Adaptive slice condylectomy is a safe and effective unilateral option for transverse UCH with III class, achieving functional correction and symmetry targets without routine bimaxillary osteotomies. The results are so good that we applied this procedure instead of bilateral sagittal split osteotomy (BSSO) in all patients with classes III and asymmetry adding, if necessary, Le Fort I surgery (advancement, canting correction, surgically assisted rapid palatal expansion-SARPE).",
-      "objective": "",
-      "study_methods": "This retrospective cohort comprised 55 patients with transverse UCH treated between 2011 and 2024 at a single maxillofacial unit: 36 underwent unilateral ASC and 19 received bimaxillary OS. Cone-beam CT (CBCT) scans at baseline (T0) and 12 months (T1) were processed in 3D Slicer using a pretrained MONAI 3D U-Net for segmentation. Rigid cranial-base registration aligned T1 to T0. Metrics included condylar head volume, mean bone density, center displacement (ΔX/ΔY/ΔZ; |Δ|), and orientation change (axis-axis angle and yaw/pitch/roll). Postoperatively, the operated condyle was compared with the mirrored contralateral healthy side.",
-      "methods": "This retrospective cohort comprised 55 patients with transverse UCH treated between 2011 and 2024 at a single maxillofacial unit: 36 underwent unilateral ASC and 19 received bimaxillary OS. Cone-beam CT (CBCT) scans at baseline (T0) and 12 months (T1) were processed in 3D Slicer using a pretrained MONAI 3D U-Net for segmentation. Rigid cranial-base registration aligned T1 to T0. Metrics included condylar head volume, mean bone density, center displacement (ΔX/ΔY/ΔZ; |Δ|), and orientation change (axis-axis angle and yaw/pitch/roll). Postoperatively, the operated condyle was compared with the mirrored contralateral healthy side.",
-      "results": "are so good that we applied this procedure instead of bilateral sagittal split osteotomy (BSSO) in all patients with classes III and asymmetry adding, if necessary, Le Fort I surgery (advancement, canting correction, surgically assisted rapid palatal expansion-SARPE).",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42418925/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42413458",
-      "title": "Accuracy of maxillary positioning using patient-specific implants in a surgery-first approach.",
-      "authors": [
-        "Shady Abu-Sirhan",
-        "Simon Bigus",
-        "Nils Lucca Kern",
-        "Erin Sprünken",
-        "Lukas Mödl",
-        "Robert Gaudin",
-        "Tim Lukas Elter",
-        "Max Heiland",
-        "Tobias Ebker",
-        "Axel Bumann"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "This study aimed to evaluate the transfer accuracy of virtually planned maxillary repositioning within a Surgery First protocol using 3D-printed guides and patient-specific implants. In addition, the feasibility of a fully digital interdisciplinary workflow was analyzed. The patients in this study were treated with a completely virtually planned interdisciplinary treatment pathway according to the Surgery First concept using a 3D-printed maxillary guide and patient-specific implants as well as a 3D-printed final occlusion-splint. The osteosynthesis in the mandible was performed conventionally using miniplates. The postoperative cone beam computed tomography (CBCT) was overlaid with the planning data set and the transfer precision was analyzed with defined bony landmarks in the upper jaw using Onyx Ceph software (Image Instruments). 63 patients were included in the analysis. The gender distribution was almost 2:1. Included were 41 female and 22 male patients. Mean age was 37.9 ± 10.1 years, and 12 patients presented with OSAS. Postoperative complications were rare and managed conservatively. The transfer accuracy of maxillary positioning was within ±1-2 mm at all landmarks, with only occasional minimal exceedance of the 3-mm threshold, indicating high clinical accuracy. Regional differences were observed, with slightly larger deviations at L4 and L5 and smaller deviations at L9-L11 (global p < 0.01); however, these did not compromise overall clinical precision. Virtual surgical planning combined with patient-specific cutting guides and customized osteosynthesis plates enables clinically accurate maxillary positioning in Surgery First patients, with transfer deviations predominantly within the accepted 1-2 mm threshold. The fully digital interdisciplinary workflow allows predictable intraoperative transfer despite the absence of a presurgical occlusal reference and can be safely applied across different indications for bimaxillary surgery.",
-      "objective": "",
-      "study_methods": "The patients in this study were treated with a completely virtually planned interdisciplinary treatment pathway according to the Surgery First concept using a 3D-printed maxillary guide and patient-specific implants as well as a 3D-printed final occlusion-splint. The osteosynthesis in the mandible was performed conventionally using miniplates. The postoperative cone beam computed tomography (CBCT) was overlaid with the planning data set and the transfer precision was analyzed with defined bony landmarks in the upper jaw using Onyx Ceph software (Image Instruments).",
-      "methods": "The patients in this study were treated with a completely virtually planned interdisciplinary treatment pathway according to the Surgery First concept using a 3D-printed maxillary guide and patient-specific implants as well as a 3D-printed final occlusion-splint. The osteosynthesis in the mandible was performed conventionally using miniplates. The postoperative cone beam computed tomography (CBCT) was overlaid with the planning data set and the transfer precision was analyzed with defined bony landmarks in the upper jaw using Onyx Ceph software (Image Instruments).",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42413458/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42413457",
-      "title": "Sex-related differences in skeletal relapse after bimaxillary orthognathic surgery: A retrospective case-control study.",
-      "authors": [
-        "Fleur Vermeiren",
-        "Ubai Alsharif",
-        "Herman Vercruysse",
-        "Nasser Nadjmi",
-        "Geert Van Hemelen",
-        "Didier Dielen",
-        "Maarten Van Genechten",
-        "Sten Stevens",
-        "Jan Van de Perre",
-        "Elke Van de Casteele"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Postoperative skeletal relapse remains a significant challenge following orthognathic surgery. While several risk factors, such as the magnitude of surgical movements and high preoperative mandibular plane angle, have been identified, the influence of biological sex on postoperative skeletal stability has not been well established. This study aimed to investigate sex-related differences in skeletal relapse after bimaxillary surgery with mandibular advancement. A matched retrospective case-control study was conducted in 70 patients (35 males, 35 females) who underwent bimaxillary orthognathic surgery at AZ Monica Antwerp (2018-2024). Patients were matched by age, mandibular advancement magnitude, and 1-year follow-up duration. Skeletal changes were assessed using 3D CBCT superimposition at three time points: preoperative (T0), immediate postoperative (T1), and 1-year follow-up (T2). (Clinically significant) mandibular relapse in all three directions at one year was low and did not differ significantly between males and females in any direction. The magnitude of intraoperative mandibular advancement was the strongest predictor of sagittal relapse (β = 0.28 mm per mm), and increasing patient age was associated with a modest reduction in relapse. Adding an interaction term between age and sex did not change the estimates. These findings confirm bimaxillary advancement surgery as a stable procedure regardless of sex.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42413457/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42367103",
-      "title": "Predictors of intraoperative blood loss in bimaxillary orthognathic surgery: A retrospective multivariate analysis.",
-      "authors": [
-        "K Yusa",
-        "N Sasahara",
-        "T Hemmi",
-        "K Kagami",
-        "K Taniguchi",
-        "S Ishikawa"
-      ],
-      "publication_date": "2026-Sep-01",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "The aim of this study was to investigate the relationship between patient demographics and hematological parameters and blood loss during orthognathic surgery. In addition, we investigated whether bone removal around the descending palatine artery (DPA), a procedure that has been widely applied in recent years, is associated with blood loss. This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05. A total of 138 patients (95 women and 43 men; mean age, 24.1±7.1 years) were included. The mean operative time was 269.1±51.3 minutes, and the mean intraoperative blood loss was 277.0±220.4mL. BMI, preoperative Hb, and operative time were significantly correlated with blood loss (p<.05). Male patients experienced significantly greater blood loss than female patients (p<.05). After adjustment, BMI (B=19.5, p=.001), operative time (B=0.95, P=.010), and removal of bone around the DPA (B=92.8, P=.009) were independently associated with increased intraoperative blood loss. The findings in this study are important for preoperative risk assessment, surgical planning, and ensuring patient safety in orthognathic surgery.",
-      "objective": "of this study was to investigate the relationship between patient demographics and hematological parameters and blood loss during orthognathic surgery. In addition, we investigated whether bone removal around the descending palatine artery (DPA), a procedure that has been widely applied in recent years, is associated with blood loss. This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05. A total of 138 patients (95 women and 43 men; mean age, 24.1±7.1 years) were included. The mean operative time was 269.1±51.3 minutes, and the mean intraoperative blood loss was 277.0±220.4mL. BMI, preoperative Hb, and operative time were significantly correlated with blood loss (p<.05). Male patients experienced significantly greater blood loss than female patients (p<.05). After adjustment, BMI (B=19.5, p=.001), operative time (B=0.95, P=.010), and removal of bone around the DPA (B=92.8, P=.009) were independently associated with increased intraoperative blood loss. The findings in this study are important for preoperative risk assessment, surgical planning, and ensuring patient safety in orthognathic surgery.",
-      "study_methods": "This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05.",
-      "methods": "This retrospective study included patients who underwent bimaxillary orthognathic surgery in our hospital. The predictor variables included patient demographics (age, gender and body mass index [BMI]), hematological parameters (hemoglobin level [Hb] and platelet count [PLT]), and surgical factors (bone removal around the DPA). Associations between predictor variables and blood loss were assessed using Spearman rank correlation and the Mann-Whitney U test. Multiple linear regression analysis was performed to identify independent predictors of blood loss during surgery. The level of significance was set as P<0.05.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42367103/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42340271",
-      "title": "Assessment of the Impact of Two-Jaw Orthognathic Surgery on Three-Dimensional Airway Volume in Patients with Skeletal Class III Patterns.",
-      "authors": [
-        "Yu-Jen Chang",
-        "Tzu-Chuan Hsu",
-        "Chia-Hsuan Chan",
-        "Jui-Pin Lai",
-        "Shiu-Shiung Lin"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "ObjectiveTo evaluate 3-dimensional pharyngeal airway changes following 2-jaw orthognathic surgery in skeletal Class III patients and to assess their association with surgical movements.DesignRetrospective observational study.SettingSingle tertiary care center.PatientsTwenty-seven adult patients with skeletal Class III malocclusion who underwent Le Fort I maxillary advancement combined with bilateral sagittal split osteotomy mandibular setback.InterventionsAll patients received 2-jaw orthognathic surgery with preoperative (T0) and postoperative (T1, 6 months) computed tomography imaging.Main Outcome MeasuresThree-dimensional airway volumes of the nasopharynx, oropharynx, and hypopharynx were measured. Correlations between airway volume changes and skeletal movements were analyzed.ResultsSignificant regional differences in airway changes were observed. The nasopharyngeal airway volume increased (+1979.1 mm3), while the oropharyngeal airway showed minimal change (+336.4 mm3). In contrast, the hypopharyngeal airway demonstrated a significant reduction (-1087.5 mm3). A strong correlation was found between mandibular setback and hypopharyngeal airway reduction at Point B (r = 0.73, P = .023).ConclusionsTwo-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Significant regional differences in airway changes were observed. The nasopharyngeal airway volume increased (+1979.1 mm3), while the oropharyngeal airway showed minimal change (+336.4 mm3). In contrast, the hypopharyngeal airway demonstrated a significant reduction (-1087.5 mm3). A strong correlation was found between mandibular setback and hypopharyngeal airway reduction at Point B (r = 0.73, P = .023).ConclusionsTwo-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
-      "conclusion": "Two-jaw orthognathic surgery results in region-specific airway changes. Hypopharyngeal airway reduction is associated with mandibular setback, while maxillary advancement contributes to upper airway enlargement. These findings reflect morphological rather than functional changes, and further studies incorporating functional assessments are required to determine their clinical significance.",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42340271/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42330576",
-      "title": "Masseter microvascular perfusion after minimally invasive sagittal split ramus osteotomy: A long-term split-mouth study.",
-      "authors": [
-        "Mert Şahin",
-        "Canay Yılmaz Asan",
-        "Aykağan Çukurluoğlu",
-        "Melisa Oya Acar",
-        "Gökhan Çoban",
-        "Ahmet Emin Demirbaş"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Sagittal split ramus osteotomy (SSRO), a widely used mandibular procedure in orthognathic surgery, may affect the masticatory muscles through subperiosteal dissection and soft-tissue manipulation. Although minimally invasive modifications aim to reduce surgical trauma, their long-term effect on masseter muscle microvascular perfusion remains unclear. This cross-sectional observational split-mouth study compared minimally invasive SSRO (MISSRO) and conventional SSRO using superb microvascular imaging (SMI). Twenty-one patients who underwent bilateral SSRO for mandibular advancement and completed at least 18 months of follow-up were included. In each patient, the conventional Hunsuck technique was performed on one side, while MISSRO was performed on the contralateral side. Microvascular perfusion was quantified using the vascular index (VI) calculated from SMI images with ImageJ software; masseter muscle thickness was then measured on B-mode ultrasonographic images. The minimally invasive side showed significantly higher microvascular perfusion than the conventional side (VI: 13.72 ± 7.43 vs. 8.24 ± 7.33; p = 0.001), whereas masseter muscle thickness did not differ significantly between sides (9.71 ± 1.87 mm vs. 10.27 ± 1.89 mm; p = 0.052). These findings indicate higher long-term masseter microvascular perfusion on the minimally invasive side; however, in the absence of preoperative or normative reference values and of functional correlates, the clinical significance of this difference remains to be determined.",
-      "objective": "to reduce surgical trauma, their long-term effect on masseter muscle microvascular perfusion remains unclear. This cross-sectional observational split-mouth study compared minimally invasive SSRO (MISSRO) and conventional SSRO using superb microvascular imaging (SMI). Twenty-one patients who underwent bilateral SSRO for mandibular advancement and completed at least 18 months of follow-up were included. In each patient, the conventional Hunsuck technique was performed on one side, while MISSRO was performed on the contralateral side. Microvascular perfusion was quantified using the vascular index (VI) calculated from SMI images with ImageJ software; masseter muscle thickness was then measured on B-mode ultrasonographic images. The minimally invasive side showed significantly higher microvascular perfusion than the conventional side (VI: 13.72 ± 7.43 vs. 8.24 ± 7.33; p = 0.001), whereas masseter muscle thickness did not differ significantly between sides (9.71 ± 1.87 mm vs. 10.27 ± 1.89 mm; p = 0.052). These findings indicate higher long-term masseter microvascular perfusion on the minimally invasive side; however, in the absence of preoperative or normative reference values and of functional correlates, the clinical significance of this difference remains to be determined.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42330576/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42321121",
-      "title": "Transformative comprehensive functional and esthetic rehabilitation of amelogenesis imperfecta: An interdisciplinary approach.",
-      "authors": [
-        "Jimmy Londono",
-        "Shazeen Rattansi",
-        "Palak Patel",
-        "Weston J Fortson",
-        "Aram Torosian",
-        "Jasmin Silas"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "This clinical report describes the interdisciplinary treatment of a patient with hypoplastic amelogenesis imperfecta (AI) and an anterior open occlusal relationship. Prior to referral to the prosthodontics department, she had undergone active orthodontic treatment for 5 years. As she presented with skeletal, functional, and esthetic concerns, orthodontic treatment alone was insufficient to address her complex treatment goals. Given the complexity, optimal comprehensive management necessitated an interdisciplinary approach involving orthodontics, endodontics, periodontal therapy, orthognathic surgery, and definitive rehabilitation with minimum preparation adhesively bonded complete coverage restorations. A 5-year follow-up confirmed the stability of the results, with the patient reporting no further issues.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": ", with the patient reporting no further issues.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42321121/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42303474",
-      "title": "Systematic review of outcomes reported in trials of facial trauma.",
-      "authors": [
-        "Ka Yu Keith Cheung",
-        "Neel Badhe",
-        "Smruti Pashte",
-        "Rory O'Connor",
-        "Ben Marson"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "This study aimed to identify and collate outcomes reported in trials of facial trauma. Searches for randomised controlled trials on facial trauma containing 50 patients or more were conducted on Cochrane CENTRAL, Embase and Ovid MEDLINE on 9 October 2025. Additional studies were identified through review of the reference lists of relevant systematic reviews and included trials, as well as through text searches of Google Scholar. A manual search of clinicaltrials.gov and the International Standard Randomised Controlled Trial Number (ISRCTN) registry was also completed in line with Cochrane guidelines on 20 November 2025. A total of 3,695 studies were screened following PRISMA guidelines, with 131 articles included in the final analysis. Two reviewers (KC and NB) independently performed data extraction, and the outcomes reported were recorded verbatim and mapped on to the World Health Organization International Classification of Functioning, Disability and Health (WHO ICF) framework. A total of 151 distinct outcomes were identified, with a median of four outcomes per trial. Mapping to the WHO ICF yielded 102 outcome domains. Eighty-two studies involved the mandible only, 39 involved the midface only, nine involved the mandible and midface, and one involved the midface and frontal bone. In mandibular fracture trials, immunological system functions that would capture infections (56%), structure of the mouth (53%) and pain (41%), were most frequently reported. In midfacial fracture trials, pain was the most common domain (37%), followed by immunological system functions (31%). Seven patient-reported outcome measures (PROMs) were identified across 10 trials, most commonly the General Oral Health Assessment Index. Outcome reporting in facial trauma trials is highly heterogeneous, spanning all domains of the WHO ICF framework, with limited and inconsistent use of PROMs. Most available PROMs were not designed specifically for facial trauma, and no single instrument was used consistently across the studies. This lack of standardisation limits comparability between trials and hinders meaningful evidence synthesis. These findings support the need for the development of a consensus-based core outcome set for facial trauma to improve consistency, relevance, and quality of outcome reporting in future research.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42303474/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42097550",
-      "title": "Redundant Computed Tomography in Maxillofacial Trauma: A National Analysis of Frequency and Predictors Following Interfacility Transfer.",
-      "authors": [
-        "Tim T Wang",
-        "Lang Liang",
-        "Nicholas Wilken",
-        "Zachary Peacock",
-        "Gary Warburton",
-        "John Caccamese",
-        "Cameron Lee"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Duplication of computed tomography (CT) imaging following interfacility transfer for trauma is a well-established systems level inefficiency. However, the incidence and drivers of repeat imaging have not been examined within the maxillofacial trauma demographic. The purpose was to estimate the frequency and factors associated with redundant maxillofacial CT imaging among adults transferred for isolated facial fractures. This was a retrospective cohort study using the American College of Surgeons National Trauma Data Bank from 2017 to 2024. Patients at least 18 years of age, transferred for management of isolated facial fractures, were included. Patients with missing data were excluded. The predictor variable was a set of factors categorized as demographic (age, sex), clinical (Charlson comorbidity index), injury-related (fracture location), and hospital-level characteristics (bed size, teaching status). The primary outcome was duplicated imaging, defined as the receipt of a dedicated maxillofacial CT scan at the receiving trauma center within 24 hours of arrival. None. Descriptive, bivariate, and multivariable logistic regression statistics were computed to measure the associations between study variables and duplicated imaging. An alpha threshold of P < .001 was considered statistically significant. The cohort consisted of 72,766 subjects with a mean age of 47.0 ± 20.2 years and was 69.8% male (n = 50,817). Redundant imaging occurred in 16.8% (n = 12,206) of the cohort over the study period. In the fully adjusted model, the strongest predictor of redundancy was the receipt of a trauma pan-scan (odds ratio [OR] = 11.0, 95% CI 10.2 to 11.9, P < .001). Other predictors included for-profit status (OR = 1.65, 95% CI, 1.55 to 1.76), university hospitals (OR = 1.27, 95% CI, 1.16 to 1.40), and mandibular fractures (OR = 1.28, 95% CI, 1.19 to 1.37) (all P < .001). Conversely, hospitals with >600 beds were less likely to duplicate scans (OR = 0.59, 95% CI, 0.52 to 0.67, P < .001). Repeated imaging was associated with a 2 to 3% increase in operative intervention for fractures of the mandible, maxilla, and orbit (all P < .001). Imaging redundancy affects approximately one in 6 transferred facial trauma patients and is driven primarily by trauma imaging protocols and hospital characteristics.",
-      "objective": "was to estimate the frequency and factors associated with redundant maxillofacial CT imaging among adults transferred for isolated facial fractures. This was a retrospective cohort study using the American College of Surgeons National Trauma Data Bank from 2017 to 2024. Patients at least 18 years of age, transferred for management of isolated facial fractures, were included. Patients with missing data were excluded. The predictor variable was a set of factors categorized as demographic (age, sex), clinical (Charlson comorbidity index), injury-related (fracture location), and hospital-level characteristics (bed size, teaching status). The primary outcome was duplicated imaging, defined as the receipt of a dedicated maxillofacial CT scan at the receiving trauma center within 24 hours of arrival. None. Descriptive, bivariate, and multivariable logistic regression statistics were computed to measure the associations between study variables and duplicated imaging. An alpha threshold of P < .001 was considered statistically significant. The cohort consisted of 72,766 subjects with a mean age of 47.0 ± 20.2 years and was 69.8% male (n = 50,817). Redundant imaging occurred in 16.8% (n = 12,206) of the cohort over the study period. In the fully adjusted model, the strongest predictor of redundancy was the receipt of a trauma pan-scan (odds ratio [OR] = 11.0, 95% CI 10.2 to 11.9, P < .001). Other predictors included for-profit status (OR = 1.65, 95% CI, 1.55 to 1.76), university hospitals (OR = 1.27, 95% CI, 1.16 to 1.40), and mandibular fractures (OR = 1.28, 95% CI, 1.19 to 1.37) (all P < .001). Conversely, hospitals with >600 beds were less likely to duplicate scans (OR = 0.59, 95% CI, 0.52 to 0.67, P < .001). Repeated imaging was associated with a 2 to 3% increase in operative intervention for fractures of the mandible, maxilla, and orbit (all P < .001). Imaging redundancy affects approximately one in 6 transferred facial trauma patients and is driven primarily by trauma imaging protocols and hospital characteristics.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42097550/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41933430",
-      "title": "Assessing the Area Deprivation Index in Relation to Orbital Floor Fractures.",
-      "authors": [
-        "Atif M Islam",
-        "Brandon J Dyer",
-        "Robert B Baldwin",
-        "Alec E Dallas",
-        "Ryan Hudnall",
-        "Julia Toman"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "Social determinants of health are acknowledged as significant factors affecting trauma occurrence, severity, and outcomes. The area deprivation index (ADI) is a validated tool that combines social determinants into a single measure of \"neighborhood disadvantage.\" We aimed to investigate whether ADI was linked to injury severity and other clinical benchmarks in orbital floor fracture patients. Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests. A total of 1255 patients with acute orbital floor fractures were analyzed. ADI was significantly higher in patients with additional facial trauma (national ADI: 55 vs. 51, p = 0.0240; state ADI: 7 vs. 6, p = 0.0119). However, ADI was not significantly associated with the incidence of bodily polytrauma, initial clinical acuity, or LOS. Follow-up attendance rates did not differ by ADI. Social disadvantage was significantly associated with differences in injury characteristics and indirectly with care utilization among orbital floor fracture patients. This may reflect different mechanisms of injury in high ADI areas and indicate that ADI may be useful as a contextual marker of injury severity. Future studies should investigate these mechanisms and other risk factors unique to high ADI areas.",
-      "objective": "",
-      "study_methods": "Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests.",
-      "methods": "Patients presenting to a single Level 1 Emergency Department with acute orbital floor fracture were reviewed. Data on additional trauma, length of stay (LOS), and follow-up attendance were collected. Patients were classified into a stable, urgent, or critical condition based on initial clinical presentation. Neighborhood socioeconomic disadvantage was evaluated using national percentile and state decile ADI. Analyses were conducted using chi-squared tests, Mann-Whitney U, Spearman rank correlations, and Kruskal-Wallis tests.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41933430/",
-      "pmcid": "PMC13460456",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41846208",
-      "title": "The impact of alcohol on fall-related maxillofacial fractures: a retrospective study.",
-      "authors": [
-        "K Virtanen",
-        "J Snäll",
-        "A Suominen",
-        "T Puolakkainen",
-        "H Thorén"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "The aim of this retrospective study was to examine the characteristics of patients sustaining maxillofacial fractures due to falls at ground level. The specific aims were to analyse the severity of the fractures and the time interval between the accident and diagnosis (delay of diagnosis) in alcohol-intoxicated vs non-intoxicated patients. A total of 1200 consecutive adult patients diagnosed with maxillofacial fractures at a tertiary trauma centre over a 7-year period were included. Outcome variables were the delay of diagnosis and severity of the fracture; the latter was determined based on a facial injury severity score (FISS). The primary predictor variable was alcohol intoxication at the time of injury (yes/no). Overall, 360 patients (30%) were identified as being intoxicated by alcohol at the time of the injury. In the adjusted model, no association was found between alcohol intoxication and the severity of the maxillofacial fractures. However, the adjusted model showed that non-intoxicated patients had 2.0 times greater odds of a delay of diagnosis ≥3 days (95% confidence interval 1.3-3.0 , P < 0.001). The high occurrence of alcohol intoxication in facial trauma patients in general emphasizes the importance of screening patients for alcohol use and intervening when appropriate.",
-      "objective": "of this retrospective study was to examine the characteristics of patients sustaining maxillofacial fractures due to falls at ground level. The specific aims were to analyse the severity of the fractures and the time interval between the accident and diagnosis (delay of diagnosis) in alcohol-intoxicated vs non-intoxicated patients. A total of 1200 consecutive adult patients diagnosed with maxillofacial fractures at a tertiary trauma centre over a 7-year period were included. Outcome variables were the delay of diagnosis and severity of the fracture; the latter was determined based on a facial injury severity score (FISS). The primary predictor variable was alcohol intoxication at the time of injury (yes/no). Overall, 360 patients (30%) were identified as being intoxicated by alcohol at the time of the injury. In the adjusted model, no association was found between alcohol intoxication and the severity of the maxillofacial fractures. However, the adjusted model showed that non-intoxicated patients had 2.0 times greater odds of a delay of diagnosis ≥3 days (95% confidence interval 1.3-3.0 , P < 0.001). The high occurrence of alcohol intoxication in facial trauma patients in general emphasizes the importance of screening patients for alcohol use and intervening when appropriate.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41846208/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41212736",
-      "title": "Investigating",
-      "authors": [
-        "Meng Xi Yang",
-        "Shi Jun Duan",
-        "Sixuan Jia",
-        "Bing Shi",
-        "Zhong Lin Jia"
-      ],
-      "publication_date": "2026-Sep",
-      "publication_date_iso": "2026-09-01",
-      "abstract": "ObjectiveThis study aimed to explore the relationship between the SPRY2 gene and nonsyndromic orofacial cleft (NSOC) in the Chinese Han population.DesignA case-control study was conducted with a large cohort to analyze genetic associations.SettingThe study was conducted in China, focusing on the Chinese Han ethnic group.Patients, ParticipantsThe study included 2494 Chinese Han patients with NSOC and 2255 healthy control individuals.InterventionsNine single-nucleotide polymorphisms (SNPs) of the SPRY2 gene were selected for association analysis, utilizing PLINK and Haploview software. Functional annotations were conducted using HaploReg, Encode, and 3D SNP prediction tools.Main Outcome Measure(s)The primary outcome measures were the associations of the selected SNPs with different types of NSOC, including nonsyndromic cleft lip with palate (NSCLP), nonsyndromic cleft lip with/without palate (NSCL/P), and nonsyndromic cleft palate only (NSCPO).ResultsAllelic association analysis revealed that allele T of rs700397 significantly increased the risk of NSCLP (P = .00050, odds ratio [OR] = 1.49, 95% confidence interval [CI]: 1.19-1.85) and NSCL/P (P = .0018, OR = 1.27, 95% CI: 1.09-1.47). Additionally, allele G of rs116994696 was associated with NSCPO (P = .00024, OR = 1.67, 95% CI: 1.27-2.17). Four haplotypes demonstrated a significant association with NSCPO after Bonferroni correction.ConclusionsThe findings suggest that SNP rs700397 in the SPRY2 enhancer is associated with NSCLP and NSCL/P, while rs116994696 in the promoter is linked to NSCPO. This indicates that susceptibility SNPs in different regulatory elements may play a role in gene regulation related to NSOC.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "Allelic association analysis revealed that allele T of rs700397 significantly increased the risk of NSCLP (P = .00050, odds ratio [OR] = 1.49, 95% confidence interval [CI]: 1.19-1.85) and NSCL/P (P = .0018, OR = 1.27, 95% CI: 1.09-1.47). Additionally, allele G of rs116994696 was associated with NSCPO (P = .00024, OR = 1.67, 95% CI: 1.27-2.17). Four haplotypes demonstrated a significant association with NSCPO after Bonferroni correction.ConclusionsThe findings suggest that SNP rs700397 in the SPRY2 enhancer is associated with NSCLP and NSCL/P, while rs116994696 in the promoter is linked to NSCPO. This indicates that susceptibility SNPs in different regulatory elements may play a role in gene regulation related to NSOC.",
-      "conclusion": "The findings suggest that SNP rs700397 in the SPRY2 enhancer is associated with NSCLP and NSCL/P, while rs116994696 in the promoter is linked to NSCPO. This indicates that susceptibility SNPs in different regulatory elements may play a role in gene regulation related to NSOC.",
-      "limitations": "",
-      "topics": [
-        "cleft lip and palate surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41212736/",
       "pmcid": "",
       "figure_urls": []
     }
