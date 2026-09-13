@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T07:02:02Z",
+  "updated_at": "2026-09-13T07:21:00Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1135,6 +1135,32 @@
       "figure_urls": []
     },
     {
+      "pmid": "42729815",
+      "title": "Facial vascularized composite allotransplantation: Mapping global research trends and scientific impact.",
+      "authors": [
+        "André S Alves",
+        "Tobias Niederegger",
+        "Leonard Knoedler",
+        "Curtis L Cetrulo",
+        "Alexandre G Lellouch"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "Facial vascularized composite allotransplantation (VCA) has emerged as a transformative reconstructive option for patients with severe facial disfigurement. Since its clinical introduction, research has expanded substantially, encompassing surgical innovation, immunology, ethical considerations, and long-term outcomes. This study aimed to analyze the global scientific landscape of facial VCA and identify key contributors, landmark publications, and emerging research trends through a bibliometric approach. A bibliometric analysis of the PubMed database was conducted in March 2026, including publications from 1979 to 2026. A total of 457 articles met the inclusion criteria. Bibliometric indicators such as annual scientific output, authorship patterns, institutional productivity, country contributions, collaboration networks, and keyword trends were analyzed using VOSviewer and the Bibliometrix R package. Scientific production increased markedly after 2009, peaking around 2019 with sustained activity thereafter. The most productive authors were Dr Pomahac B. (n = 81), Dr Rodriguez E.D. (n = 48), and Dr Siemionow M. (n = 28). Harvard Medical School was the leading institution, and the United States dominated global output. Plastic and Reconstructive Surgery was the most productive journal. The most cited publication was \"Facial transplantation: the first 9 years\" (308 citations). Keyword analysis revealed a shift toward emerging topics including antibody-mediated rejection, chronic rejection, biomarkers, proteomics, C4d, and donor-specific antibodies. Facial VCA research has expanded rapidly, driven by high-volume centers and influential studies. Emerging trends emphasize advanced immunologic monitoring and molecular approaches, which may improve long-term graft survival and clinical outcomes.",
+      "objective": "",
+      "study_methods": "A bibliometric analysis of the PubMed database was conducted in March 2026, including publications from 1979 to 2026. A total of 457 articles met the inclusion criteria. Bibliometric indicators such as annual scientific output, authorship patterns, institutional productivity, country contributions, collaboration networks, and keyword trends were analyzed using VOSviewer and the Bibliometrix R package.",
+      "methods": "A bibliometric analysis of the PubMed database was conducted in March 2026, including publications from 1979 to 2026. A total of 457 articles met the inclusion criteria. Bibliometric indicators such as annual scientific output, authorship patterns, institutional productivity, country contributions, collaboration networks, and keyword trends were analyzed using VOSviewer and the Bibliometrix R package.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42729815/",
+      "pmcid": "PMC13563230",
+      "figure_urls": []
+    },
+    {
       "pmid": "42718896",
       "title": "INSPIRE: Inclusivity in plastic surgery - Insights, recommendations, & education. A national cross-sectional study exploring perceptions of mentorship among aspiring plastic surgeons.",
       "authors": [
@@ -1225,7 +1251,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42701659/",
       "pmcid": "PMC13545693",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13545693/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13545693/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13545693/bin/gr2a.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13545693/bin/gr2a.gif"
+      ]
     },
     {
       "pmid": "42613289",
@@ -1461,34 +1492,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42419681",
-      "title": "Maxillary anterior horizontal ridge reconstruction using computer-guided ridge split and expansion: A randomized clinical trial with a 2-year follow-up.",
-      "authors": [
-        "Asmaa Allam",
-        "Nour Hatata",
-        "Walid Salem",
-        "Bahaaeldeen M Elgarba",
-        "Mohamed At Aboushara",
-        "Mohamed Yehia Abdelfattah",
-        "Walid Elamrousy"
-      ],
-      "publication_date": "2026-Nov",
-      "publication_date_iso": "2026-11-01",
-      "abstract": "This randomized clinical study aimed to assess implant placement accuracy and radiographic outcomes of computer-guided versus freehand ridge split and expansion with simultaneously inserted implants in patients with horizontally deficient maxillary anterior ridges over a 2-year follow-up period. Twenty-two volunteers were randomly allocated (1:1) to either a computer-guided or a freehand group. The primary outcome was implant placement accuracy. Secondary outcomes included postoperative complications, marginal bone loss, horizontal ridge width changes, and peri-implant defect resolution. All parameters were evaluated radiographically at baseline, immediately after surgery, and at 3, 6, 12, and 24 months. The computer-guided group demonstrated lower angular deviation versus the freehand group (1.45 ± 0.43° vs. 10.02 ± 3.24°; p < 0.001) and entry point deviation (0.54 ± 0.19 mm vs. 2.16 ± 0.31 mm; p < 0.001). Depth deviation showed a non-significant difference. Three, six, and twelve months after surgery, the freehand group exhibited higher marginal bone loss (1.02 ± 0.13, 1.57 ± 0.13, 1.58 ± 0.13, and 1.73 ± 0.17 mm, respectively) than the computer-guided group (0.27 ± 0.13, 0.35 ± 0.13, 0.36 ± 0.13, and 0.39 ± 0.15 mm, p < 0.001). The computer-guided approach also was associated with minimal ridge collapse and enhanced peri-implant defect fill. The present preliminary findings suggest that computer-guided ridge split and expansion were associated with improved implant placement accuracy and peri-implant hard tissue preservation compared with the conventional freehand approach over 2 years. Both techniques achieved successful implant outcomes without major complications. However, these observations should be interpreted cautiously as preliminary evidence requiring external validation, given the limited sample size, single-operator design, and mid-term follow-up duration. Multicenter studies with larger cohorts and longer follow-up are required before confirming definitive clinical superiority. The present preliminary findings suggest that integrating the digital workflow into ridge split and expansion may enhance surgical precision and peri-implant hard tissue stability in narrow maxillary ridges. Nevertheless, the potential advantages of the guided approach require confirmation through larger, well-designed clinical trials before recommending widespread, routine clinical implementation. The study was prospectively registered in the ClinicalTrials.gov registry (Identifier: NCT06135506) on 11/11/2023 under the title \"Artificial Intelligence/Computer Guided Ridge Splitting for Treating Horizontal Ridge Defects.\" gov PRS: Record Summary NCT06135506.",
-      "objective": "",
-      "study_methods": "Twenty-two volunteers were randomly allocated (1:1) to either a computer-guided or a freehand group. The primary outcome was implant placement accuracy. Secondary outcomes included postoperative complications, marginal bone loss, horizontal ridge width changes, and peri-implant defect resolution. All parameters were evaluated radiographically at baseline, immediately after surgery, and at 3, 6, 12, and 24 months.",
-      "methods": "Twenty-two volunteers were randomly allocated (1:1) to either a computer-guided or a freehand group. The primary outcome was implant placement accuracy. Secondary outcomes included postoperative complications, marginal bone loss, horizontal ridge width changes, and peri-implant defect resolution. All parameters were evaluated radiographically at baseline, immediately after surgery, and at 3, 6, 12, and 24 months.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42419681/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42160952",
       "title": "Zinc-based metal orchestrates early osteoimmune microenvironment to promote angiogenesis via macrophage-derived extracellular vesicles.",
       "authors": [
@@ -1557,7 +1560,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42701476/",
       "pmcid": "PMC13545450",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13545450/bin/ga1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13545450/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13545450/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13545450/bin/gr1.gif"
+      ]
     },
     {
       "pmid": "42695182",
@@ -1587,7 +1595,10 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42695182/",
       "pmcid": "PMC13543053",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13543053/bin/BCPT-139-0-g018.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13543053/bin/BCPT-139-0-g117.webp"
+      ]
     },
     {
       "pmid": "42686255",
@@ -1993,6 +2004,39 @@
       "figure_urls": []
     },
     {
+      "pmid": "42374885",
+      "title": "Understanding the Content and Purpose of S3 Clinical Practice Guidelines in Dentistry.",
+      "authors": [
+        "Falk Schwendicke",
+        "Esra Kosan",
+        "Avijit Banerjee",
+        "Aylin Baysan",
+        "Lars Bjørndal",
+        "Laura Ceballos",
+        "Henry F Duncan",
+        "Sascha Herbst",
+        "Klaus W Neuhaus",
+        "Anne C O'Connell",
+        "Sebastian Paris",
+        "Helena Dujic"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42374885/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42303473",
       "title": "Reported outcome measures in orthognathic surgery: a scoping review.",
       "authors": [
@@ -2070,6 +2114,34 @@
       "figure_urls": []
     },
     {
+      "pmid": "42242912",
+      "title": "Predictors and Outcomes of Delayed Wound Healing Following Modified Sommerlad-Furlow Repair: An Analysis of 1355 Consecutive Cases.",
+      "authors": [
+        "Min Wu",
+        "Sadam Ahmed Elayah",
+        "Che Wang",
+        "Jun Yang",
+        "Yingmeng Liu",
+        "Bing Shi",
+        "Yang Li"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "This study aims to evaluate the healing process and identify risk factors associated with delayed healing and outcomes. 1355 consecutive participants with nonsyndromic cleft palate, treated with the Sommerlad-Furlow modified palatoplasty. Sixteen variables were recorded including sex, age, cleft type (Veau class), surgeons' qualification, antibiotics, relaxing incision (RI), postoperative upper respiratory tract infection (PURI), preoperative leukocyte count, preoperative hemoglobin (HGB), the cleft width, inter maxillary tuberosity width, the cleft ratio, operation duration, the initial time of poor healing wound observed after surgery, depth and location of the poor healing wound. In total, 1148 patients demonstrated normal healing (84.7%, 1148/1355), while 207 patients exhibited delayed wound healing issues (15.3%, 207/1355), among whom 131 healed within 3 months (9.7%, 131/1355; 63.3%, 131/207), 15 healed after 3 months and within 6 months (1.1%, 15/1355; 7.2%, 15/207), and fistula remained after 6 months in 61 patients (4.5%, 61/1355; 29.5%, 61/207). A total of 1294 (95.5%, 1294/1355) of the participants had healed palatal wounds after 6 months postoperatively. Surgeons' qualifications, PURI, the cleft width, cleft ratio, and operation duration were significantly different in the delayed healing group. Preoperative measurement of the cleft ratio might help the cleft surgeons to predict the palate healing outcome. Surgeons' improved operation skills, shortened operation duration, and prevention of PURI were supposed to reduce the occurrence of poor wound healing. Moreover, focusing on delayed wound depth and location is critical for estimating the process and outcomes of delayed healing.",
+      "objective": "to evaluate the healing process and identify risk factors associated with delayed healing and outcomes. 1355 consecutive participants with nonsyndromic cleft palate, treated with the Sommerlad-Furlow modified palatoplasty. Sixteen variables were recorded including sex, age, cleft type (Veau class), surgeons' qualification, antibiotics, relaxing incision (RI), postoperative upper respiratory tract infection (PURI), preoperative leukocyte count, preoperative hemoglobin (HGB), the cleft width, inter maxillary tuberosity width, the cleft ratio, operation duration, the initial time of poor healing wound observed after surgery, depth and location of the poor healing wound. In total, 1148 patients demonstrated normal healing (84.7%, 1148/1355), while 207 patients exhibited delayed wound healing issues (15.3%, 207/1355), among whom 131 healed within 3 months (9.7%, 131/1355; 63.3%, 131/207), 15 healed after 3 months and within 6 months (1.1%, 15/1355; 7.2%, 15/207), and fistula remained after 6 months in 61 patients (4.5%, 61/1355; 29.5%, 61/207). A total of 1294 (95.5%, 1294/1355) of the participants had healed palatal wounds after 6 months postoperatively. Surgeons' qualifications, PURI, the cleft width, cleft ratio, and operation duration were significantly different in the delayed healing group. Preoperative measurement of the cleft ratio might help the cleft surgeons to predict the palate healing outcome. Surgeons' improved operation skills, shortened operation duration, and prevention of PURI were supposed to reduce the occurrence of poor wound healing. Moreover, focusing on delayed wound depth and location is critical for estimating the process and outcomes of delayed healing.",
+      "study_methods": "1355 consecutive participants with nonsyndromic cleft palate, treated with the Sommerlad-Furlow modified palatoplasty. Sixteen variables were recorded including sex, age, cleft type (Veau class), surgeons' qualification, antibiotics, relaxing incision (RI), postoperative upper respiratory tract infection (PURI), preoperative leukocyte count, preoperative hemoglobin (HGB), the cleft width, inter maxillary tuberosity width, the cleft ratio, operation duration, the initial time of poor healing wound observed after surgery, depth and location of the poor healing wound.",
+      "methods": "1355 consecutive participants with nonsyndromic cleft palate, treated with the Sommerlad-Furlow modified palatoplasty. Sixteen variables were recorded including sex, age, cleft type (Veau class), surgeons' qualification, antibiotics, relaxing incision (RI), postoperative upper respiratory tract infection (PURI), preoperative leukocyte count, preoperative hemoglobin (HGB), the cleft width, inter maxillary tuberosity width, the cleft ratio, operation duration, the initial time of poor healing wound observed after surgery, depth and location of the poor healing wound.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "cleft lip and palate surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42242912/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42171526",
       "title": "Perioperative Adverse Events in Primary Palatoplasty: \"Risk Factors and Impact on Care Escalation in a Multicenter Cohort\".",
       "authors": [
@@ -2131,7 +2203,9 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42132822/",
       "pmcid": "PMC13543199",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13543199/bin/OCR-29-937-g001.webp"
+      ]
     },
     {
       "pmid": "42101071",
@@ -2948,38 +3022,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42711161/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42709366",
-      "title": "Artificial intelligence-based segmentation of mandibular canal on cone-beam computed tomography: a systematic review and meta-analysis.",
-      "authors": [
-        "Fatma E A Hassanein",
-        "Mohamed Ahmed Sherif",
-        "Abdelhamed Salah",
-        "Hamada Mahmoud Mohamed",
-        "Gsemallah Abdo Ahmed",
-        "Aseef Rehman",
-        "Bernice Clarissa Neda Sirait",
-        "Wael Jamil",
-        "Asmaa Abou-Bakr",
-        "Mazen F Alkahtany",
-        "Yousra Ahmed"
-      ],
-      "publication_date": "2026-Sep-08",
-      "publication_date_iso": "2026-09-08",
-      "abstract": "To systematically evaluate the accuracy and generalizability of artificial intelligence (AI)-based segmentation of mandibular canal and related anatomical structures on cone-beam computed tomography (CBCT) and to examine methodological factors influencing reported performance. A systematic search of PubMed/MEDLINE, Scopus, Web of Science, Cochrane Library, and Wiley Online Library was conducted through April 10, 2026. Studies evaluating AI-based segmentation of the mandibular canal or related anatomical structures on CBCT were included. Risk of bias was assessed using QUADAS-2 tool. Random-effects meta-analysis using restricted maximum likelihood estimation was performed to pool segmentation performance, with the Dice Similarity Coefficient (DSC) as the primary outcome. Subgroup analyses, meta-regression, publication bias assessment, and GRADE certainty evaluation were conducted. Fifty-nine studies were included qualitatively, and 46 studies were eligible for quantitative synthesis. Across 40 effect sizes, the pooled DSC was 0.806 (95% CI: 0.773-0.839), indicating high average segmentation performance, although heterogeneity was substantial (I² = 99.68%). Pooled secondary outcomes were 0.757 for Intersection-over-Union, 2.085 mm for HD95, and 0.498 mm for mean distance error. No significant differences were observed according to validation strategy or AI architecture. Publication year was the only signific. AI-based segmentation of mandibular canals on CBCT demonstrates promising performance; however, substantial heterogeneity, limited external validation, and low certainty of evidence restrict confidence in its generalizability. AI systems should be considered adjunctive tools, and further high-quality, externally validated studies with standardized methodologies are required to support reliable clinical implementation. AI-assisted mandibular canal segmentation may improve workflow efficiency and support treatment planning in implant dentistry and oral surgery. Nevertheless, clinician oversight remains essential because current evidence does not support fully autonomous clinical implementation.",
-      "objective": "",
-      "study_methods": "A systematic search of PubMed/MEDLINE, Scopus, Web of Science, Cochrane Library, and Wiley Online Library was conducted through April 10, 2026. Studies evaluating AI-based segmentation of the mandibular canal or related anatomical structures on CBCT were included. Risk of bias was assessed using QUADAS-2 tool. Random-effects meta-analysis using restricted maximum likelihood estimation was performed to pool segmentation performance, with the Dice Similarity Coefficient (DSC) as the primary outcome. Subgroup analyses, meta-regression, publication bias assessment, and GRADE certainty evaluation were conducted.",
-      "methods": "A systematic search of PubMed/MEDLINE, Scopus, Web of Science, Cochrane Library, and Wiley Online Library was conducted through April 10, 2026. Studies evaluating AI-based segmentation of the mandibular canal or related anatomical structures on CBCT were included. Risk of bias was assessed using QUADAS-2 tool. Random-effects meta-analysis using restricted maximum likelihood estimation was performed to pool segmentation performance, with the Dice Similarity Coefficient (DSC) as the primary outcome. Subgroup analyses, meta-regression, publication bias assessment, and GRADE certainty evaluation were conducted.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709366/",
       "pmcid": "",
       "figure_urls": []
     },
