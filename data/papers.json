@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T07:21:00Z",
+  "updated_at": "2026-09-14T07:45:13Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -350,7 +350,11 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42725006/",
       "pmcid": "PMC13559806",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13559806/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13559806/bin/gr2.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13559806/bin/gr3.webp"
+      ]
     },
     {
       "pmid": "42724900",
@@ -375,7 +379,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42724900/",
       "pmcid": "PMC13559802",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13559802/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13559802/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13559802/bin/gr2.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13559802/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42647967",
@@ -1158,7 +1167,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42729815/",
       "pmcid": "PMC13563230",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13563230/bin/gr2.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13563230/bin/gr2.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13563230/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13563230/bin/gr1.gif"
+      ]
     },
     {
       "pmid": "42718896",
@@ -1194,7 +1208,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42718896/",
       "pmcid": "PMC13553517",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13553517/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13553517/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13553517/bin/gr2.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13553517/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42718858",
@@ -1221,7 +1240,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42718858/",
       "pmcid": "PMC13553512",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13553512/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13553512/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13553512/bin/gr2.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13553512/bin/gr2.gif"
+      ]
     },
     {
       "pmid": "42701659",
@@ -2033,7 +2057,7 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42374885/",
-      "pmcid": "",
+      "pmcid": "PMC13569297",
       "figure_urls": []
     },
     {
@@ -2138,7 +2162,7 @@
         "cleft lip and palate surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42242912/",
-      "pmcid": "",
+      "pmcid": "PMC13569694",
       "figure_urls": []
     },
     {
@@ -2178,7 +2202,10 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42171526/",
       "pmcid": "PMC13551119",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13551119/bin/PAN-36-1247-g001.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13551119/bin/PAN-36-1247-g002.webp"
+      ]
     },
     {
       "pmid": "42132822",
@@ -2494,6 +2521,57 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41160495/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42732971",
+      "title": "Can Childhood Longitudinal Cephalograms Predict Adult Facial Soft-Tissue Dimensions? A Bayesian Modelling Study.",
+      "authors": [
+        "Sushant Pandey",
+        "Jamal Giri",
+        "Samikshya Sangroula",
+        "Avinash Chaudhary",
+        "Prabhat Ranjan Pokharel",
+        "Rajesh Gyawali"
+      ],
+      "publication_date": "2026-Sep-13",
+      "publication_date_iso": "2026-09-13",
+      "abstract": "Predicting facial soft-tissue growth is essential for treatment planning and long-term outcome forecasting in orthodontics, orthognathic surgery and facial aesthetic surgery. This study evaluated whether longitudinal childhood cephalograms can predict adult facial soft-tissue dimensions using Bayesian growth models. Serial lateral cephalograms from four studies in the AAOF Craniofacial Growth Legacy Collection (Bolton-Brush, Denver, Iowa, Oregon) were analysed. The sample comprised 96 subjects (39 females, 57 males), over an age range of 6-29 years. Eight soft-tissue linear measurements were analysed: upper and lower facial heights, upper and lower lip lengths, upper and lower lip thicknesses and soft-tissue chin thickness at pogonion and menton. Population-level and individual-level Bayesian models were fitted for each variable. Predictive accuracy was assessed using five-fold cross-validation, with a childhood cutoff age of 14 years and prediction of withheld adult observations at age > 20 years. Predictive accuracy was quantified using the mean absolute error, bias and 95% prediction interval coverage. Mean absolute error ranged from 0.73 mm (lower lip thickness) to 2.85 mm (lower facial height), with 95% prediction interval coverage of 94.1%-99.0%. Bias was close to zero for all variables. Residual standard deviation reduction from the individual-level model ranged from 3% (upper lip length) to 42% (lower lip length). Prediction accuracy was generally higher in females than males. Longitudinal childhood cephalometric records contain predictive information regarding adult facial soft-tissue dimensions beyond population-based growth standards. Prediction accuracy and inter-individual variation both differed by soft-tissue variable and sex.",
+      "objective": "",
+      "study_methods": "Serial lateral cephalograms from four studies in the AAOF Craniofacial Growth Legacy Collection (Bolton-Brush, Denver, Iowa, Oregon) were analysed. The sample comprised 96 subjects (39 females, 57 males), over an age range of 6-29 years. Eight soft-tissue linear measurements were analysed: upper and lower facial heights, upper and lower lip lengths, upper and lower lip thicknesses and soft-tissue chin thickness at pogonion and menton. Population-level and individual-level Bayesian models were fitted for each variable. Predictive accuracy was assessed using five-fold cross-validation, with a childhood cutoff age of 14 years and prediction of withheld adult observations at age > 20 years. Predictive accuracy was quantified using the mean absolute error, bias and 95% prediction interval coverage.",
+      "methods": "Serial lateral cephalograms from four studies in the AAOF Craniofacial Growth Legacy Collection (Bolton-Brush, Denver, Iowa, Oregon) were analysed. The sample comprised 96 subjects (39 females, 57 males), over an age range of 6-29 years. Eight soft-tissue linear measurements were analysed: upper and lower facial heights, upper and lower lip lengths, upper and lower lip thicknesses and soft-tissue chin thickness at pogonion and menton. Population-level and individual-level Bayesian models were fitted for each variable. Predictive accuracy was assessed using five-fold cross-validation, with a childhood cutoff age of 14 years and prediction of withheld adult observations at age > 20 years. Predictive accuracy was quantified using the mean absolute error, bias and 95% prediction interval coverage.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732971/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42731982",
+      "title": "The 10-year evolution of a dental undergraduate 'Blended Learning' suturing programme.",
+      "authors": [
+        "Anna Dargue",
+        "Richa Arya",
+        "Tamara Khayatt"
+      ],
+      "publication_date": "2026-Sep-12",
+      "publication_date_iso": "2026-09-12",
+      "abstract": "Undergraduate dental students in the United Kingdom must be competent in intra-oral suturing before graduating. In 2014, a blended learning programme was introduced to enhance suturing teaching. Students first completed an online suturing tutorial. This was designed for them to review at their own pace, promoted self-directed learning and provided a degree of standardisation in theoretical knowledge. Subsequently, students attended a practical session using simulation aids, translating theory into practice and promoting deeper learning. Staff offered guidance in these sessions and students undertook peer evaluation. Mixed methods action research was used iteratively to study student evaluation from the programme over a decade. 745 undergraduate student responses were evaluated. These influenced adaptations to the programme such as introducing teaching earlier in the undergraduate programme, mounting suturing foam pads into a phantom head, and extending the duration of the session. 2024 results demonstrated 98% of students felt competent to handle the suture needle, and 95% felt prepared to apply these skills on a patient after completing the programme. Student evaluation over a decade has driven continuous development of the programme. Our study demonstrates incremental changes have enriched the learning experience and preparedness for clinical practice.",
+      "objective": "",
+      "study_methods": "Students first completed an online suturing tutorial. This was designed for them to review at their own pace, promoted self-directed learning and provided a degree of standardisation in theoretical knowledge. Subsequently, students attended a practical session using simulation aids, translating theory into practice and promoting deeper learning. Staff offered guidance in these sessions and students undertook peer evaluation. Mixed methods action research was used iteratively to study student evaluation from the programme over a decade.",
+      "methods": "Students first completed an online suturing tutorial. This was designed for them to review at their own pace, promoted self-directed learning and provided a degree of standardisation in theoretical knowledge. Subsequently, students attended a practical session using simulation aids, translating theory into practice and promoting deeper learning. Staff offered guidance in these sessions and students undertook peer evaluation. Mixed methods action research was used iteratively to study student evaluation from the programme over a decade.",
+      "results": "demonstrated 98% of students felt competent to handle the suture needle, and 95% felt prepared to apply these skills on a patient after completing the programme. Student evaluation over a decade has driven continuous development of the programme. Our study demonstrates incremental changes have enriched the learning experience and preparedness for clinical practice.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42731982/",
       "pmcid": "",
       "figure_urls": []
     },
