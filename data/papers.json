@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T07:45:13Z",
+  "updated_at": "2026-09-15T07:29:25Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -322,6 +322,73 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_UF0001_C.gif",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.jpg",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12943813/bin/IDRD_A_2636323_F0001_C.gif"
+      ]
+    },
+    {
+      "pmid": "42733764",
+      "title": "A bone fragment-based protocol for RNA analysis of osteocyte-associated transcripts in surgically obtained human bone specimens.",
+      "authors": [
+        "Chiaki Nishizawa",
+        "Soju Seki",
+        "Emiko Tanaka Isomura",
+        "Mari Namikawa",
+        "Kazuma Harada",
+        "Yusuke Yokota",
+        "Tomonao Aikawa",
+        "Susumu Tanaka",
+        "Toshimi Michigami",
+        "Kazuaki Miyagawa"
+      ],
+      "publication_date": "2026-Dec",
+      "publication_date_iso": "2026-12-01",
+      "abstract": "Osteocytes play a central role in bone remodeling, mineral metabolism, and skeletal homeostasis; however, direct molecular analysis of human osteocytes remains technically challenging, as they are embedded within the mineralized bone matrix. Surgically obtained human bone specimens provide valuable material for studying human bone biology; however, surface-associated cells, marrow-derived cells, and adherent soft tissues can confound downstream transcript analysis. Here, we describe a bone fragment-based protocol for preparing surgically obtained human bone specimens for molecular analysis of osteocyte-associated transcripts. •The protocol consists of mechanical trimming, mincing into small bone fragments, repeated washing, and five sequential rounds of collagenase digestion to reduce non-osteocytic cellular components associated with bone surfaces and marrow spaces. The remaining mineralized bone fragments are then frozen in liquid nitrogen, cryogenically pulverized, and lysed in TRIzol™ reagent for total RNA extraction. •Histological validation using residual maxillary bone specimens showed that sequential collagenase digestion markedly reduced adherent soft tissue and extra-matrix nuclei while preserving osteocyte lacunar occupancy. Real-time PCR further showed marked enrichment of the osteocyte-associated transcripts SOST and DMP1 in residual bone fragments compared with those in Fraction 3-5. •This protocol provides a practical workflow for bone fragment-based RNA analysis focused on osteocyte-associated transcripts in human bone specimens.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733764/",
+      "pmcid": "PMC13571525",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571525/bin/ga1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571525/bin/ga1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571525/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571525/bin/gr1.gif"
+      ]
+    },
+    {
+      "pmid": "42733435",
+      "title": "Coarse-graining analysis for non-invasive, label-free, and quantitative evaluation of undulating motion in cultured oral mucosa epithelial cell sheets.",
+      "authors": [
+        "Ren Minuma",
+        "Witsanu Yortchan",
+        "Ryota Kobayashi",
+        "Kenji Izumi",
+        "Yusuke Iida"
+      ],
+      "publication_date": "2026-Dec",
+      "publication_date_iso": "2026-12-01",
+      "abstract": "Cultured oral mucosa epithelial cell sheets (COMECS) represent a promising therapeutic approach for epithelial repair, such as corneal reconstruction or esophageal mucosa defects; however, current quality assessment methods are largely invasive and destructive. Although optical flow (OF)-based analysis has shown promise in evaluating keratinocyte motility, its sensitivity decreases under confluent conditions. A novel coarse-graining (CG) analysis combined with OF is introduced as a candidate non-invasive, label-free imaging parameter to quantitatively evaluate the characteristic undulating motion patterns (local directional synchrony of cell motion) of mature COMECS and to provide a potential basis for future quality assessment. COMECS were manufactured from passage 2 (p2) and passage 5 (p5) oral keratinocytes using standard (cultured in serum-containing medium) and sub-standard (cultured in serum-free medium) protocols. Time-lapse microscopy was conducted at multiple time points (48-, 96-, and 192-h post manufacture). The OF analysis-derived microscopic velocity fields were subjected to CG analysis to generate macroscopic velocity fields. The undulating index (UI) and mean undulating index (MUI) were calculated to quantify the directional synchrony of cellular motion. Western blotting was used to evaluate p63 and PITX1 protein expression levels to correlate the undulating motion patterns with biological markers of keratinocyte undifferentiation and oral epithelial identity. OF-based CG analysis successfully differentiated undulating motion patterns between the standard and sub-standard COMECS, with average MUI values higher in the standard COMECS (p < 0.05). Time-course analysis of p2 COMECS indicated a substantially lower average MUI at 48 h than at 96 h and 192 h, suggesting time-dependent changes in collective motion behavior. A passage-dependent comparison showed apparent temporal patterns between p2 and p5 COMECS, with p5 sheets exhibiting earlier peak undulation but reduced sustainability. The p63 and PITX1 expression levels were elevated in standard COMECS, and were associated with enhanced undulating motion patterns. This novel OF-based, CG analysis enabled non-invasive, label-free, and quantitative assessment of COMECS quality using undulating motion pattern evaluation, demonstrating both applicability and feasibility for regenerative medicine quality control applications.",
+      "objective": "",
+      "study_methods": "COMECS were manufactured from passage 2 (p2) and passage 5 (p5) oral keratinocytes using standard (cultured in serum-containing medium) and sub-standard (cultured in serum-free medium) protocols. Time-lapse microscopy was conducted at multiple time points (48-, 96-, and 192-h post manufacture). The OF analysis-derived microscopic velocity fields were subjected to CG analysis to generate macroscopic velocity fields. The undulating index (UI) and mean undulating index (MUI) were calculated to quantify the directional synchrony of cellular motion. Western blotting was used to evaluate p63 and PITX1 protein expression levels to correlate the undulating motion patterns with biological markers of keratinocyte undifferentiation and oral epithelial identity.",
+      "methods": "COMECS were manufactured from passage 2 (p2) and passage 5 (p5) oral keratinocytes using standard (cultured in serum-containing medium) and sub-standard (cultured in serum-free medium) protocols. Time-lapse microscopy was conducted at multiple time points (48-, 96-, and 192-h post manufacture). The OF analysis-derived microscopic velocity fields were subjected to CG analysis to generate macroscopic velocity fields. The undulating index (UI) and mean undulating index (MUI) were calculated to quantify the directional synchrony of cellular motion. Western blotting was used to evaluate p63 and PITX1 protein expression levels to correlate the undulating motion patterns with biological markers of keratinocyte undifferentiation and oral epithelial identity.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733435/",
+      "pmcid": "PMC13571252",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571252/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571252/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571252/bin/gr2.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571252/bin/gr2.gif"
       ]
     },
     {
@@ -1144,6 +1211,45 @@
       "figure_urls": []
     },
     {
+      "pmid": "42733610",
+      "title": "Material type versus defect size in adult cranioplasty: a multi-institutional analysis of 30-day outcomes and risk prediction modeling.",
+      "authors": [
+        "Jennifer A Watson",
+        "Julius M Wirtz",
+        "Victoria Kong",
+        "Samuel A Knoedler",
+        "Leonard Knoedler",
+        "Robert Gaudin",
+        "Herrmann F Sailer",
+        "Elisa Colombo",
+        "Schirin Rahiminia",
+        "Bahar Bassiri Gharb",
+        "Giuseppe Esposito",
+        "Antonio Rampazzo",
+        "Filippo A G Perozzo"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "The optimal cranioplasty material remains controversial in the context of defect size and patient risk. We analyzed multi-institutional data over 13 years to evaluate the interaction between material type and defect size. We performed a retrospective cohort analysis of adult cranioplasty patients in the ACS-NSQIP (2011-2023), stratifying by material type (autograft vs. alloplastic) and defect size (≤5 cm vs. >5 cm). The primary outcome was any 30-day complication. Multivariable logistic regression adjusting for 21 covariates, interaction analyses, and machine learning models were applied. Among 3894 patients, 88% underwent autograft and 12% alloplastic cranioplasty. The 30-day complication rate was 22%, with no significant difference between material types (p = 0.72). On multivariable analysis, material type was not independently associated with complications (p = 0.715); defect size >5 cm was an independent predictor (aOR 1.24, p = 0.032). For large defects, alloplastic reconstruction reduced operative time by 90 min (189 vs. 279 min; p < 0.001). Nine independent predictors were identified; ventilator dependence (aOR 8.44) and preoperative transfusion (aOR 4.35) were strongest. Alloplastic use increased five-fold while adjusted complication risk decreased by 4.5% annually. Logistic regression achieved the highest predictive performance (AUC 0.737). Material type is not an independent predictor of short-term complications following cranioplasty, regardless of defect size or patient risk profile. Larger defects are associated with increased morbidity, but alloplastic materials offer significant operative efficiency without compromising short-term perioperative safety. Prospective studies with extended follow-up stratified by alloplastic subtype are needed.",
+      "objective": "",
+      "study_methods": "We performed a retrospective cohort analysis of adult cranioplasty patients in the ACS-NSQIP (2011-2023), stratifying by material type (autograft vs. alloplastic) and defect size (≤5 cm vs. >5 cm). The primary outcome was any 30-day complication. Multivariable logistic regression adjusting for 21 covariates, interaction analyses, and machine learning models were applied.",
+      "methods": "We performed a retrospective cohort analysis of adult cranioplasty patients in the ACS-NSQIP (2011-2023), stratifying by material type (autograft vs. alloplastic) and defect size (≤5 cm vs. >5 cm). The primary outcome was any 30-day complication. Multivariable logistic regression adjusting for 21 covariates, interaction analyses, and machine learning models were applied.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733610/",
+      "pmcid": "PMC13571319",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571319/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571319/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571319/bin/gr2.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571319/bin/gr2.gif"
+      ]
+    },
+    {
       "pmid": "42729815",
       "title": "Facial vascularized composite allotransplantation: Mapping global research trends and scientific impact.",
       "authors": [
@@ -1428,90 +1534,6 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42551097/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42509133",
-      "title": "Corrigendum to 'Keratinocyte growth factor (KGF) induces podosome formation via integrin-Erk1/2 signaling in human immortalized oral epithelial cells' [Cellular Signaling 61 (2019) 39-47].",
-      "authors": [
-        "Guoliang Sa",
-        "Zhikang Liu",
-        "Jiangang Ren",
-        "Qilong Wan",
-        "Xuepeng Xiong",
-        "Zili Yu",
-        "Heng Chen",
-        "Yifang Zhao",
-        "Sangang He"
-      ],
-      "publication_date": "2026-Nov",
-      "publication_date_iso": "2026-11-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42509133/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42442675",
-      "title": "Follicle-stimulating hormone and cancer.",
-      "authors": [
-        "Yaohua Li",
-        "Yuexin Liu",
-        "Yang Guo",
-        "Mingzhang Guo",
-        "Zizhan Li",
-        "Mei Zheng",
-        "Gangli Liu"
-      ],
-      "publication_date": "2026-Nov",
-      "publication_date_iso": "2026-11-01",
-      "abstract": "Follicle-stimulating hormone (FSH) and its receptor FSHR have traditionally been studied as regulators of reproductive physiology. Recent evidence indicates that FSH-FSHR signaling may be involved in selected cancer-related processes, but its effects are highly context dependent. This review grades evidence by tumor type and distinguishes tumor-cell FSHR from vascular FSHR, as these compartments have different mechanistic, biomarker and therapeutic implications. This review discusses evidence linking this axis to proliferation, epithelial-mesenchymal transition (EMT), metabolic remodeling, cancer stemness and metastasis, with particular emphasis on ovarian cancer and on contradictory or limited findings in other tumor types. This review also evaluates FSHR detection methods, biomarker interpretation, FSHR-targeted nanomedicine and imaging approaches, and safety concerns related to off-tumor binding and endocrine-related toxicity. Further standardization of FSHR detection, endocrine-context modeling and clinically defined validation cohorts is needed before FSHR-based strategies can be translated into routine cancer care.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42442675/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42431290",
-      "title": "Pharmacological and surgical predictors of postoperative healing in medication-related osteonecrosis of the jaw: A retrospective multicenter cohort study.",
-      "authors": [
-        "Min-Ji Kim",
-        "Jung-Hyun Park",
-        "Hyunmi Jo",
-        "Jin-Woo Kim",
-        "Jun-Young Kim"
-      ],
-      "publication_date": "2026-Nov",
-      "publication_date_iso": "2026-11-01",
-      "abstract": "Failure to achieve postoperative healing after surgical treatment of medication-related osteonecrosis of the jaw (MRONJ) remains a clinical challenge. We aimed to investigate the independent predictors of postoperative nonhealing and to evaluate the impact of regenerative adjuncts. In a multicenter surgical cohort (2019-2025) of 531 patients with MRONJ, pharmacological, lesion level, and surgical factors were assessed using univariable testing, elastic net regularization for variable selection, and multivariable logistic regression. Postoperative nonhealing was defined as the need for additional surgical intervention or failure to achieve complete mucosal coverage, accompanied by clinical or radiographic evidence of persistent or progressive disease. Kaplan-Meier analysis was used to estimate nonhealing-free survival. The overall postoperative nonhealing rate was 18.5% (98/531). In the multivariable models, high-dose antiresorptive therapy (odds ratio [OR]: 2.94, 95% confidence interval [CI]: 1.70-5.06) and multiple-site lesions (OR: 2.29, 95% CI: 1.09-4.67) were independent risk factors for postoperative nonhealing, whereas intraoperative bone morphogenetic protein (BMP) use was associated with a lower risk of postoperative nonhealing (OR: 0.32, 95% CI: 0.20-0.52). The number needed to treat to prevent one postoperative nonhealing event was 5.3 (95% CI: 3.9-8.7) for BMP, and the number needed to harm was 4.4 (95% CI: 3.0-8.5) for high-dose therapy. Solitary maxillary lesions showed an insignificant protective effect. Antiangiogenic agents were associated with postoperative nonhealing in the univariate and elastic net analyses, but not in the final multivariable model. Neither treatment duration nor preoperative drug holiday was independently associated with postoperative nonhealing. The elastic net model showed acceptable discrimination (area under the curve [AUC]: 0.724), and the Kaplan-Meier curves were consistent with these findings. Postoperative nonhealing after surgical management of MRONJ was mainly associated with systemic pharmacological burden and lesion extent, whereas BMP application was associated with improved postoperative healing. These findings support further investigation of regenerative adjuncts and risk-adapted surgical management strategies.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42431290/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2525,6 +2547,28 @@
       "figure_urls": []
     },
     {
+      "pmid": "42733127",
+      "title": "A fractured duct, a fixation screw: hardware-associated lacrimal duct obstruction after facial trauma repair.",
+      "authors": [
+        "Nandini Bothra"
+      ],
+      "publication_date": "2026-Sep-13",
+      "publication_date_iso": "2026-09-13",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733127/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42732971",
       "title": "Can Childhood Longitudinal Cephalograms Predict Adult Facial Soft-Tissue Dimensions? A Bayesian Modelling Study.",
       "authors": [
@@ -2572,8 +2616,13 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42731982/",
-      "pmcid": "",
-      "figure_urls": []
+      "pmcid": "PMC13570886",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13570886/bin/41405_2026_467_Fig1_HTML.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13570886/bin/41405_2026_467_Fig1_HTML.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13570886/bin/41405_2026_467_Fig2_HTML.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13570886/bin/41405_2026_467_Fig2_HTML.gif"
+      ]
     },
     {
       "pmid": "42727928",
@@ -3100,33 +3149,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42711161/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42703067",
-      "title": "Craniomaxillofacial Peripheral Osteomas in Gardner Syndrome.",
-      "authors": [
-        "Yanhuang Liang",
-        "En Luo",
-        "Yuchao Shi",
-        "Hongying Hu",
-        "Zelin Ye",
-        "Meng You"
-      ],
-      "publication_date": "2026-Sep-07",
-      "publication_date_iso": "2026-09-07",
-      "abstract": "Gardner syndrome is a precancerous condition featuring familial adenomatous polyposis (FAP), multiple osteomas, and soft tissue tumors. Craniomaxillofacial peripheral osteomas often cause visible facial deformities, enabling early detection of the syndrome-frequently before FAP manifests-thus providing a critical window for intervention to prevent malignant transformation and reduce mortality. A systematic review searched 8 electronic databases from inception to December 2024. This was supplemented by one institutional case of a 21-year-old female with multiple craniomaxillofacial peripheral osteomas, who underwent successful surgical excision at age 26 and remained recurrence-free after 4 years of follow-up. Studies with confirmed craniomaxillofacial peripheral osteomas linked to Gardner syndrome were included. Data on epidemiology, clinical/radiologic features, and treatment were extracted. Pooled analysis of 113 cases (87 published studies plus one new case) showed these osteomas predominantly affect young patients (median age: 20 y). Lesions are typically multiple, located in the skull, paranasal sinuses, and mandible, causing noticeable cosmetic deformities. Imaging (plain radiographs, panoramic views, CT) reveals well-defined, round or oval radiopaque masses. Surgical excision is the main treatment for symptomatic or disfiguring lesions, with rare recurrence. Early recognition of these characteristic osteomas facilitates prompt FAP surveillance, enabling timely preventive measures that significantly improve outcomes and reduce mortality.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42703067/",
       "pmcid": "",
       "figure_urls": []
     }
