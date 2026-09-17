@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T07:28:24Z",
+  "updated_at": "2026-09-17T07:28:07Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1656,6 +1656,114 @@
       ]
     },
     {
+      "pmid": "42691770",
+      "title": "Single-Cell Atlas of Human Temporomandibular Joint Condyle Identifies MXD4 as a Regulator of Chondrogenesis.",
+      "authors": [
+        "Liang Wang",
+        "Yiyi Chen",
+        "Yuxin Zhang",
+        "Nan Zhao",
+        "Teng Xu",
+        "Xinmei Liu",
+        "Jisi Zheng",
+        "Dong Liu",
+        "Xingmei Feng"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "The temporomandibular joint condyle (TMJC) is essential for mandibular and temporomandibular joint (TMJ) development. However, its cellular and molecular dynamics during human embryogenesis remain poorly understood. We constructed a single-cell transcriptomic atlas of the human TMJC spanning five embryonic stages from 12 to 25 gestational weeks (GW12-25). Single-cell RNA sequencing was performed to identify cell types, and Monocle 3 and SCENIC analyses were used to infer developmental trajectories and identify key transcriptional regulators. Candidate regulators were functionally validated using zebrafish models. Single-cell RNA sequencing identified 20 major cell types within the TMJC. Immune cells were sparse at GW19 but expanded markedly by GW22. Trajectory analysis revealed a differentiation pathway from mesenchymal stem cells to chondrocytes. SCENIC analysis highlighted multiple transcription factors regulating distinct cell populations, among which MXD4 was identified for the first time as a candidate transcriptional regulator of cartilage development. Functional studies showed that mxd4 knockout in zebrafish led to craniofacial developmental abnormalities. This single-cell atlas provides a comprehensive resource for understanding the cellular and molecular mechanisms underlying TMJC development. MXD4 is identified as a candidate regulator in condylar morphogenesis. Preliminary investigation of the potential regulatory role of MXD4 in condylar cartilage formation may provide a theoretical basis for diagnostic, therapeutic, and translational studies of craniofacial malformations associated with condylar hypoplasia.",
+      "objective": "",
+      "study_methods": "We constructed a single-cell transcriptomic atlas of the human TMJC spanning five embryonic stages from 12 to 25 gestational weeks (GW12-25). Single-cell RNA sequencing was performed to identify cell types, and Monocle 3 and SCENIC analyses were used to infer developmental trajectories and identify key transcriptional regulators. Candidate regulators were functionally validated using zebrafish models.",
+      "methods": "We constructed a single-cell transcriptomic atlas of the human TMJC spanning five embryonic stages from 12 to 25 gestational weeks (GW12-25). Single-cell RNA sequencing was performed to identify cell types, and Monocle 3 and SCENIC analyses were used to infer developmental trajectories and identify key transcriptional regulators. Candidate regulators were functionally validated using zebrafish models.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691770/",
+      "pmcid": "PMC13571596",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571596/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571596/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571596/bin/gr2.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571596/bin/gr2.gif"
+      ]
+    },
+    {
+      "pmid": "42691765",
+      "title": "Structured Microskill Stepwise Progression for Undergraduate Tooth Extraction: A Randomized Mixed-Methods Study.",
+      "authors": [
+        "Zongxi Wu",
+        "Mingyue Wang",
+        "Xueting Luo",
+        "Xiangqi Liu",
+        "Le Yang",
+        "Siyong Gao",
+        "Sien Zhang",
+        "Guangsen Zheng"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "To evaluate whether a structured microskill stepwise progression model improves procedural competence and reduces performance variability in undergraduate tooth extraction training compared with traditional apprenticeship-based teaching. This randomized mixed-methods pilot study allocated 40 fifth-year dental students (1:1) to traditional apprenticeship teaching or a microskill stepwise progression model during an 8-week oral surgery rotation. The intervention divided tooth extraction into nine stages, requiring five targeted observations and five successful supervised performances before progression. End-of-rotation competence was assessed using a modified Direct Observation of Procedural Skills (DOPS) scale by two blinded examiners. Between-group differences and score variability were analysed using Welch's t test and the F-test. Questionnaires and qualitative feedback explored learner and instructor perceptions. Baseline theoretical examination scores were comparable between groups. Inter-rater reliability for the total modified DOPS scores was good (ICC = 0.86; 95% CI, 0.74-0.93; P < .001). The intervention group achieved higher modified DOPS scores than the control group (94.60 ± 3.97 vs 88.25 ± 6.41; mean difference, 6.35; 95% CI, 2.94-9.76; P < .001; Cohen's d = 1.19) and lower score variability (F = 2.616; P = .042), with a narrower score range (87-100 vs 75-96). Qualitative findings suggested clearer progression and more consistent competence development. Questionnaire findings were exploratory; four item-level differences remained significant after Benjamini-Hochberg correction. The microskill stepwise model was associated with improved tooth extraction performance and reduced variability in assessed procedural competence compared with traditional teaching. This mastery-oriented approach may support more structured supervision and more consistent educational readiness in oral surgery training. This framework helps educators organize undergraduate tooth extraction training using procedure-specific stages, supervised-performance thresholds, and documented progression criteria. It may promote consistent standards and transparent entrustment decisions, but should be adapted to local case availability and supervisor workload.",
+      "objective": "",
+      "study_methods": "This randomized mixed-methods pilot study allocated 40 fifth-year dental students (1:1) to traditional apprenticeship teaching or a microskill stepwise progression model during an 8-week oral surgery rotation. The intervention divided tooth extraction into nine stages, requiring five targeted observations and five successful supervised performances before progression. End-of-rotation competence was assessed using a modified Direct Observation of Procedural Skills (DOPS) scale by two blinded examiners. Between-group differences and score variability were analysed using Welch's t test and the F-test. Questionnaires and qualitative feedback explored learner and instructor perceptions.",
+      "methods": "This randomized mixed-methods pilot study allocated 40 fifth-year dental students (1:1) to traditional apprenticeship teaching or a microskill stepwise progression model during an 8-week oral surgery rotation. The intervention divided tooth extraction into nine stages, requiring five targeted observations and five successful supervised performances before progression. End-of-rotation competence was assessed using a modified Direct Observation of Procedural Skills (DOPS) scale by two blinded examiners. Between-group differences and score variability were analysed using Welch's t test and the F-test. Questionnaires and qualitative feedback explored learner and instructor perceptions.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691765/",
+      "pmcid": "PMC13571219",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571219/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571219/bin/gr1.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571219/bin/gr2.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571219/bin/gr2.gif"
+      ]
+    },
+    {
+      "pmid": "42691764",
+      "title": "Ameloblastoma at a Tertiary Referral Hospital: Spatial Distribution and Area-Level Sociodemographics in South Sulawesi.",
+      "authors": [
+        "Fenty Napitupulu",
+        "Yossy Yoanita Ariestiana",
+        "Abul Fauzi",
+        "Andi Tajrin",
+        "Mohammad Ghazali",
+        "Kei Tomihara",
+        "Kumiko Fujiwara",
+        "Ristya Widi Endah Yani",
+        "Nisrina Ekayani Nasrun",
+        "Hasanuddin",
+        "Muhammad Ruslin",
+        "Muhammad Assegaf Valianra",
+        "Muhammad Irfan Rasul"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Ameloblastoma is a locally aggressive odontogenic tumour whose reported occurrence varies geographically. In South Sulawesi, Indonesia, epidemiological data remain scarce and district-level disparities are undocumented. This study mapped the residential distribution of patients treated at a tertiary referral hospital and examined area-level correlates of that distribution. An analytical ecological study used the 24 districts/cities of South Sulawesi as spatial units. All histopathologically confirmed cases (n = 160, 2022-2024) were attributed to district of residence and ecologically associated with district-level health system capacity and socioeconomic indicators. Spatial distribution was assessed by choropleth mapping with Jenks classification, and population-adjusted rates per 100,000 were calculated. Differences across urban, peri-urban, and rural groupings were evaluated using Kruskal-Wallis and pairwise Poisson tests, and ecological associations using Pearson's correlation and exploratory geographically weighted regression. Cases concentrated in the southwestern corridor, mainly in urban areas. Parepare recorded the highest reported case rate (15.54 per 100,000), whereas Makassar ranked sixth (1.84 per 100,000). Urban (rate ratios = 3.27) and peri-urban (rate ratios = 3.59) districts showed higher rates than rural districts (both P < .001), although the Kruskal-Wallis omnibus test was not significant (P = .076), plausibly reflecting limited power with unequal group sizes. Reported rates correlated strongly with health system capacity indicators (r ≈ 0.83-0.89; P < .0001), negatively with poverty (r = -0.493) and positively with expenditure, schooling and unemployment (r = 0.617-0.698; P < .01), reflecting ecological patterns of case detection rather than individual risk. Exploratory geographically weighted regression indicated spatial nonstationarity, with 22 districts showing at least one locally significant socioeconomic variable. Reported ameloblastoma rates concentrate in urban referral centres and track health system capacity, indicating patterns of case detection and diagnostic access rather than true disease occurrence. These hypothesis-generating findings support district-specific strategies to improve diagnostic equity rather than uniform interventions.",
+      "objective": "",
+      "study_methods": "An analytical ecological study used the 24 districts/cities of South Sulawesi as spatial units. All histopathologically confirmed cases (n = 160, 2022-2024) were attributed to district of residence and ecologically associated with district-level health system capacity and socioeconomic indicators. Spatial distribution was assessed by choropleth mapping with Jenks classification, and population-adjusted rates per 100,000 were calculated. Differences across urban, peri-urban, and rural groupings were evaluated using Kruskal-Wallis and pairwise Poisson tests, and ecological associations using Pearson's correlation and exploratory geographically weighted regression.",
+      "methods": "An analytical ecological study used the 24 districts/cities of South Sulawesi as spatial units. All histopathologically confirmed cases (n = 160, 2022-2024) were attributed to district of residence and ecologically associated with district-level health system capacity and socioeconomic indicators. Spatial distribution was assessed by choropleth mapping with Jenks classification, and population-adjusted rates per 100,000 were calculated. Differences across urban, peri-urban, and rural groupings were evaluated using Kruskal-Wallis and pairwise Poisson tests, and ecological associations using Pearson's correlation and exploratory geographically weighted regression.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691764/",
+      "pmcid": "PMC13571248",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571248/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571248/bin/gr3.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571248/bin/gr4.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571248/bin/gr5.webp"
+      ]
+    },
+    {
       "pmid": "42686255",
       "title": "Inhalational Agents and Novel Ultra-short-acting Sedatives in Modern Dental Anesthesia: From Pharmacologic Mechanisms to Advanced Hybrid Protocols.",
       "authors": [
@@ -1704,6 +1812,34 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42686245/",
       "pmcid": "",
       "figure_urls": []
+    },
+    {
+      "pmid": "42685618",
+      "title": "Feasibility of Generatively Designed Patient-Specific Implants for Orthognathic Surgery: An In Silico Comparative Study.",
+      "authors": [
+        "Mengjia Cheng",
+        "Ankit Nayak",
+        "Yiu Yan Leung"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "To investigate whether generatively designed (GD) patient-specific implants are equivalent to manually designed (MD) PSIs for orthognathic surgery in the in silico setting. Twelve pairs of GD and MD fixation plates for Le Fort I osteotomy and genioplasty were compared regarding plate-bone shape fit, biomechanical performance, plate size, and design time. Shape fit was measured as the signed distance from the plate vertices to the underlying bone surface to estimate potential surgical accuracy. Biomechanical performance (von Mises stress and deformation) was analysed using finite element analysis. Plate size was quantified by both surface area and volume. Hands-on design time was recorded for GD by stage, and historical data on MD time were referenced for context. GD plates demonstrated better shape fit, with a lower mean plate-bone distance (0.95 ± 0.17 mm) than MD plates (1.12 ± 0.28 mm; P < .05). The maximum von Mises stresses of both plates were within the ultimate tensile strength of titanium (345 MPa), and the greatest deformations were within 0.55 mm, demonstrating sufficient biomechanical stability. GD plates reduced the surface area by 16% (P < .001) and volume by 18% (P < .05) compared to MD plates. Average hands-on design time for GD plates was 94.3 ± 14.2 minutes for Le Fort I and 45.0 ± 7.3 minutes for genioplasty, which was substantially shorter than MD time reported in prior in-house workflows. GD fixation plates demonstrated improved shape fit, adequate mechanical strength, smaller size, and reduced design time compared with MD plates. The objective analysis of GD fixation plates in silico is important for justifying further application in clinical trials.",
+      "objective": "analysis of GD fixation plates in silico is important for justifying further application in clinical trials.",
+      "study_methods": "Twelve pairs of GD and MD fixation plates for Le Fort I osteotomy and genioplasty were compared regarding plate-bone shape fit, biomechanical performance, plate size, and design time. Shape fit was measured as the signed distance from the plate vertices to the underlying bone surface to estimate potential surgical accuracy. Biomechanical performance (von Mises stress and deformation) was analysed using finite element analysis. Plate size was quantified by both surface area and volume. Hands-on design time was recorded for GD by stage, and historical data on MD time were referenced for context.",
+      "methods": "Twelve pairs of GD and MD fixation plates for Le Fort I osteotomy and genioplasty were compared regarding plate-bone shape fit, biomechanical performance, plate size, and design time. Shape fit was measured as the signed distance from the plate vertices to the underlying bone surface to estimate potential surgical accuracy. Biomechanical performance (von Mises stress and deformation) was analysed using finite element analysis. Plate size was quantified by both surface area and volume. Hands-on design time was recorded for GD by stage, and historical data on MD time were referenced for context.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685618/",
+      "pmcid": "PMC13570290",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13570290/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13570290/bin/gr2.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13570290/bin/gr3.webp"
+      ]
     },
     {
       "pmid": "42680452",
@@ -1891,6 +2027,63 @@
       "figure_urls": []
     },
     {
+      "pmid": "42607517",
+      "title": "Sialography in Dentistry: A Bibliometric Analysis of Global Research Trends.",
+      "authors": [
+        "Hande Barin",
+        "Muhammed Akif Sümbüllü"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "This study aimed to evaluate the global scientific literature on the use of sialography in dentistry and to identify the most productive journals, authors, institutions, countries, and keywords in this field. It also sought to reveal research trends, collaboration patterns, and thematic developments over time. A bibliometric analysis was conducted using data retrieved from the Web of Science Core Collection database. The search was performed using the terms 'Sialography' AND ('Dental' OR 'Dentistry') within the category of 'Dentistry, Oral Surgery & Medicine'. Only articles published between 1970 and 2025 and indexed in SCI-EXPANDED and Emerging Sources Citation Index were included. Bibliometric indicators were analysed using VOSviewer and Biblioshiny. A total of 219 articles from 42 sources were included. Japan was the most productive country with 50 publications and 829 citations. Kyushu University was the leading institution, and Kanda S. was the most productive author. Dentomaxillofacial Radiology was the most productive journal, whereas the Journal of Oral and Maxillofacial Surgery had the highest citation impact. Keyword analysis showed that 'sialography' was the most frequent term, while recent trends indicated increasing interest in advanced imaging modalities such as ultrasonography, computed tomography, magnetic resonance imaging, and sialendoscopy. The annual growth rate of publications was 4.08%, indicating a steady increase in research output over time. The scientific literature on sialography in dentistry has expanded progressively over time, with research output concentrated in a limited number of countries, institutions, and journals. The findings indicate a shift from conventional sialography towards advanced imaging techniques and clinically oriented topics. This study provides a comprehensive overview of current research trends and may serve as a reference for future studies in this field.",
+      "objective": "",
+      "study_methods": "A bibliometric analysis was conducted using data retrieved from the Web of Science Core Collection database. The search was performed using the terms 'Sialography' AND ('Dental' OR 'Dentistry') within the category of 'Dentistry, Oral Surgery & Medicine'. Only articles published between 1970 and 2025 and indexed in SCI-EXPANDED and Emerging Sources Citation Index were included. Bibliometric indicators were analysed using VOSviewer and Biblioshiny.",
+      "methods": "A bibliometric analysis was conducted using data retrieved from the Web of Science Core Collection database. The search was performed using the terms 'Sialography' AND ('Dental' OR 'Dentistry') within the category of 'Dentistry, Oral Surgery & Medicine'. Only articles published between 1970 and 2025 and indexed in SCI-EXPANDED and Emerging Sources Citation Index were included. Bibliometric indicators were analysed using VOSviewer and Biblioshiny.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42607517/",
+      "pmcid": "PMC13507759",
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13507759/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13507759/bin/gr2.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13507759/bin/gr3.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13507759/bin/gr4.webp"
+      ]
+    },
+    {
+      "pmid": "42554427",
+      "title": "Wound Healing Patterns of PRF and PRGF Versus a Collagen-Based Substitute and Spontaneous Healing-A Randomised Controlled Clinical Trial Assessing Wound Closure of an Experimental, Standardised Palatal Defect.",
+      "authors": [
+        "Stefan P Bienz",
+        "Anne C Fischer",
+        "Leonardo Mancini",
+        "Franz J Strauss",
+        "Raphael M Ferrari",
+        "Sonja Hitz",
+        "Ronald E Jung",
+        "Daniel S Thoma"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "To evaluate wound-healing progression among platelet-rich fibrin (PRF), plasma rich in growth factors (PRGF), a collagen-based wound dressing (CS = collagen substitute) and spontaneous healing (control), assessed by percentage of remaining open wound area and patient-reported pain. Twenty participants each received four standardised palatal wounds (6 mm × 3 mm) and were randomly assigned to PRF, PRGF, a collagen substitute or spontaneous healing as control. All dressings were secured with criss-cross sutures. Standardised clinical photographs and pain assessments were obtained at baseline and on postoperative days 2,5,7,9, 12 and 14. Parametric and nonparametric models for longitudinal data were used to compare outcomes, accounting for within-subject correlation of repeated measurements. Open wound area decreased across all groups throughout the 14-day period. Some defects enlarged transiently at Day 2, and the greatest differences between the groups were observed on Day 7 (35.7%-47.0% of wound remaining). Pain scores decreased significantly over time in all groups, with no statistically significant differences between treatments (p > 0.05). Anterior defects tended to be perceived as more painful than posterior defects. Spontaneous healing resulted in slightly faster reduction of remaining open wound area than PRF, PRGF or the collagen substitute, with comparable postoperative pain levels. In standardised defects in healthy individuals, PRF, PRGF and collagen substitutes demonstrate minimal additional benefit for soft-tissue healing. Further studies are warranted to determine whether benefits emerge in larger wounds or in patients with compromised healing.",
+      "objective": "",
+      "study_methods": "Twenty participants each received four standardised palatal wounds (6 mm × 3 mm) and were randomly assigned to PRF, PRGF, a collagen substitute or spontaneous healing as control. All dressings were secured with criss-cross sutures. Standardised clinical photographs and pain assessments were obtained at baseline and on postoperative days 2,5,7,9, 12 and 14. Parametric and nonparametric models for longitudinal data were used to compare outcomes, accounting for within-subject correlation of repeated measurements.",
+      "methods": "Twenty participants each received four standardised palatal wounds (6 mm × 3 mm) and were randomly assigned to PRF, PRGF, a collagen substitute or spontaneous healing as control. All dressings were secured with criss-cross sutures. Standardised clinical photographs and pain assessments were obtained at baseline and on postoperative days 2,5,7,9, 12 and 14. Parametric and nonparametric models for longitudinal data were used to compare outcomes, accounting for within-subject correlation of repeated measurements.",
+      "results": "ed in slightly faster reduction of remaining open wound area than PRF, PRGF or the collagen substitute, with comparable postoperative pain levels. In standardised defects in healthy individuals, PRF, PRGF and collagen substitutes demonstrate minimal additional benefit for soft-tissue healing. Further studies are warranted to determine whether benefits emerge in larger wounds or in patients with compromised healing.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42554427/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42546466",
       "title": "Comparative safety and operative efficiency of surgical approaches for open reduction and internal fixation of mandibular condylar fractures: a systematic review and network meta-analysis.",
       "authors": [
@@ -1911,6 +2104,40 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42546466/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42532127",
+      "title": "Clinical Outcomes of a Digital Companion in Periodontal Care: A Randomised Controlled Trial.",
+      "authors": [
+        "Bettina Dannewitz",
+        "James Deschner",
+        "Christof Dörfer",
+        "Henrik Dommisch",
+        "Peter Eickholz",
+        "Lukas Förster",
+        "Lukasz Jablonowski",
+        "Neelam Lingwal",
+        "Stefan Listl",
+        "Maurice Rütters",
+        "Lina Weinert",
+        "Nihad El Sayed",
+        "Paro‐ComPas Collaborators"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "To evaluate the efficacy of a digital health companion app as an adjunct to systematic periodontal therapy. Seven German university dental centres conducted this multi-centre randomised controlled trial. Adults with periodontitis (n = 194) were assigned to standard periodontal care with or without the Paro-ComPas app. The primary endpoint was the gingival bleeding index (GBI) at baseline, re-evaluation and during supportive periodontal care. Secondary outcomes included plaque and bleeding on probing. Confirmatory analyses used longitudinal mixed-effects regression. Exploratory analyses examined clinical outcomes by app usage cluster. Of the 180 participants, 148 completed the trial. Both groups showed substantial clinical improvements. The unadjusted between-group difference favoured the control group [7.70 pp (0.55; 14.85) at T0-T2]; the adjusted analysis showed no significant difference in the primary endpoint (1.56 pp; p = 0.352) or in secondary endpoints. Implementation fidelity was suboptimal. Exploratory analyses revealed that moderate app users achieved significantly greater plaque reductions compared to low users (-14.95 pp; p = 0.034). This trial found no significant benefit of a digital companion app as an adjunct to systematic periodontal therapy. Low baseline inflammation, incomplete intervention delivery and inter-examiner variability likely limited detection of small effects. Exploratory findings suggest potential benefits among moderately engaged users. The study was registered in an international trial register (German Clinical Trial Register number DRKS00031263, registration date 19/06/2023, https://www.drks.de/search/de/trial/DRKS00031263/details).",
+      "objective": "",
+      "study_methods": "Seven German university dental centres conducted this multi-centre randomised controlled trial. Adults with periodontitis (n = 194) were assigned to standard periodontal care with or without the Paro-ComPas app. The primary endpoint was the gingival bleeding index (GBI) at baseline, re-evaluation and during supportive periodontal care. Secondary outcomes included plaque and bleeding on probing. Confirmatory analyses used longitudinal mixed-effects regression. Exploratory analyses examined clinical outcomes by app usage cluster.",
+      "methods": "Seven German university dental centres conducted this multi-centre randomised controlled trial. Adults with periodontitis (n = 194) were assigned to standard periodontal care with or without the Paro-ComPas app. The primary endpoint was the gingival bleeding index (GBI) at baseline, re-evaluation and during supportive periodontal care. Secondary outcomes included plaque and bleeding on probing. Confirmatory analyses used longitudinal mixed-effects regression. Exploratory analyses examined clinical outcomes by app usage cluster.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42532127/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2088,6 +2315,37 @@
       "figure_urls": []
     },
     {
+      "pmid": "42402252",
+      "title": "Large Language Models and Retrieval-Augmented Platforms for the Diagnosis and Management of Periodontal Diseases: A Blinded Expert-Rated Comparative Study of 11 Systems.",
+      "authors": [
+        "Yaniv Mayer",
+        "Bertha Demetriou",
+        "Giulio Rasperini",
+        "Eran Gabay",
+        "Rok Gašperšič",
+        "Darko Božić",
+        "Javier Calatrava",
+        "Ofir Ginesin",
+        "Hadar Zigdon Giladi",
+        "Ricardo Faria Almeida"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "To compare retrieval-augmented systems with general-purpose large language models (LLMs) on standardised periodontal clinical vignettes. Eleven AI systems were evaluated: nine general-purpose LLMs, one general-purpose retrieval-augmented platform (Perplexity) and one medical-domain retrieval-augmented platform (OpenEvidence). Each responded to 30 synthetic vignettes covering acute, chronic and complex periodontal scenarios. Six blinded periodontists scored responses on a 5-point Likert scale for accuracy, safety, freedom from hallucinations and completeness in a randomised block design. Friedman and Conover-Iman tests with Holm correction were applied; mixed-effects and ordinal models served as sensitivity analyses. At least one parameter scored dangerous (≤ 2) in 3.3%-46.7% of responses across platforms, despite mean composite scores (3.28-4.86) exceeding the rubric midpoint of 3.0. Between-model differences were significant (p < 0.001), with a small-to-medium overall effect (Kendall's W = 0.17) and large within-category effects (W up to 0.82). Perplexity, OpenEvidence and Claude 4.7 Opus formed a top tier. Retrieval-augmented systems rated highest, but this advantage was confounded with response length. The dangerous-response spread argues against undifferentiated use. These tools should assist, not replace, specialist judgement.",
+      "objective": "large language models (LLMs) on standardised periodontal clinical vignettes. Eleven AI systems were evaluated: nine general-purpose LLMs, one general-purpose retrieval-augmented platform (Perplexity) and one medical-domain retrieval-augmented platform (OpenEvidence). Each responded to 30 synthetic vignettes covering acute, chronic and complex periodontal scenarios. Six blinded periodontists scored responses on a 5-point Likert scale for accuracy, safety, freedom from hallucinations and completeness in a randomised block design. Friedman and Conover-Iman tests with Holm correction were applied; mixed-effects and ordinal models served as sensitivity analyses. At least one parameter scored dangerous (≤ 2) in 3.3%-46.7% of responses across platforms, despite mean composite scores (3.28-4.86) exceeding the rubric midpoint of 3.0. Between-model differences were significant (p < 0.001), with a small-to-medium overall effect (Kendall's W = 0.17) and large within-category effects (W up to 0.82). Perplexity, OpenEvidence and Claude 4.7 Opus formed a top tier. Retrieval-augmented systems rated highest, but this advantage was confounded with response length. The dangerous-response spread argues against undifferentiated use. These tools should assist, not replace, specialist judgement.",
+      "study_methods": "Eleven AI systems were evaluated: nine general-purpose LLMs, one general-purpose retrieval-augmented platform (Perplexity) and one medical-domain retrieval-augmented platform (OpenEvidence). Each responded to 30 synthetic vignettes covering acute, chronic and complex periodontal scenarios. Six blinded periodontists scored responses on a 5-point Likert scale for accuracy, safety, freedom from hallucinations and completeness in a randomised block design. Friedman and Conover-Iman tests with Holm correction were applied; mixed-effects and ordinal models served as sensitivity analyses.",
+      "methods": "Eleven AI systems were evaluated: nine general-purpose LLMs, one general-purpose retrieval-augmented platform (Perplexity) and one medical-domain retrieval-augmented platform (OpenEvidence). Each responded to 30 synthetic vignettes covering acute, chronic and complex periodontal scenarios. Six blinded periodontists scored responses on a 5-point Likert scale for accuracy, safety, freedom from hallucinations and completeness in a randomised block design. Friedman and Conover-Iman tests with Holm correction were applied; mixed-effects and ordinal models served as sensitivity analyses.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402252/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42374885",
       "title": "Understanding the Content and Purpose of S3 Clinical Practice Guidelines in Dentistry.",
       "authors": [
@@ -2251,6 +2509,29 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42242912/",
       "pmcid": "PMC13569694",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42189842",
+      "title": "Clinical Outcomes of Photobiomodulation Therapy for Inferior Alveolar Nerve Injury: A Retrospective Analysis.",
+      "authors": [
+        "Halenur Ates",
+        "Yavuz Tolga Korkmaz"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "This retrospective study evaluated the clinical outcomes associated with a photobiomodulation therapy (PBMT) protocol in patients with inferior alveolar nerve (IAN) injury following oral and maxillofacial surgery. The study specifically investigated whether the etiology of paresthesia, the time elapsed before treatment initiation, and the number of PBMT sessions were associated with variations in clinical outcomes. A retrospective analysis was conducted on 66 affected sides in 55 patients (39 female and 16 males; mean age 35.69 ± 14.49, range 15-80). The study sample consisted of patients with IAN injury due to maxillofacial surgery who were treated with PBMT and followed for at least 6 months. Patients were grouped based on the number of sessions (< 15 vs. ≥ 15), timing of treatment initiation (within vs. after 1 month), and surgical etiology (orthognathic vs. other procedures). Clinical neurosensory tests (two-point discrimination, light touch, pinprick) and Visual Analog Scale (VAS) assessments were performed. Improvements in VAS scores and clinical neurosensory test results were observed during the follow-up period (p < 0.05). No statistically significant differences were found between groups regarding overall outcomes. Although earlier treatment initiation and a higher number of sessions were associated with higher neurosensory scores, these factors did not reach statistical significance in multivariable analysis. Patients with orthognathic surgery-related injuries demonstrated significantly lower neurosensory scores compared to other surgical etiologies (p < 0.05). Follow-up duration was not significantly associated with clinical outcomes. Within the limitations of this retrospective observational study, PBMT was associated with improvements in neurosensory outcomes in patients with IAN injury. However, due to the absence of a control group and the heterogeneity of surgical etiologies, these findings should be interpreted with caution, and a causal relationship cannot be established. Further well-designed controlled studies are needed to clarify the potential role of PBMT.",
+      "objective": "",
+      "study_methods": "A retrospective analysis was conducted on 66 affected sides in 55 patients (39 female and 16 males; mean age 35.69 ± 14.49, range 15-80). The study sample consisted of patients with IAN injury due to maxillofacial surgery who were treated with PBMT and followed for at least 6 months. Patients were grouped based on the number of sessions (< 15 vs. ≥ 15), timing of treatment initiation (within vs. after 1 month), and surgical etiology (orthognathic vs. other procedures). Clinical neurosensory tests (two-point discrimination, light touch, pinprick) and Visual Analog Scale (VAS) assessments were performed.",
+      "methods": "A retrospective analysis was conducted on 66 affected sides in 55 patients (39 female and 16 males; mean age 35.69 ± 14.49, range 15-80). The study sample consisted of patients with IAN injury due to maxillofacial surgery who were treated with PBMT and followed for at least 6 months. Patients were grouped based on the number of sessions (< 15 vs. ≥ 15), timing of treatment initiation (within vs. after 1 month), and surgical etiology (orthognathic vs. other procedures). Clinical neurosensory tests (two-point discrimination, light touch, pinprick) and Visual Analog Scale (VAS) assessments were performed.",
+      "results": "were observed during the follow-up period (p < 0.05). No statistically significant differences were found between groups regarding overall outcomes. Although earlier treatment initiation and a higher number of sessions were associated with higher neurosensory scores, these factors did not reach statistical significance in multivariable analysis. Patients with orthognathic surgery-related injuries demonstrated significantly lower neurosensory scores compared to other surgical etiologies (p < 0.05). Follow-up duration was not significantly associated with clinical outcomes. Within the limitations of this retrospective observational study, PBMT was associated with improvements in neurosensory outcomes in patients with IAN injury. However, due to the absence of a control group and the heterogeneity of surgical etiologies, these findings should be interpreted with caution, and a causal relationship cannot be established. Further well-designed controlled studies are needed to clarify the potential role of PBMT.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42189842/",
+      "pmcid": "",
       "figure_urls": []
     },
     {
@@ -2613,53 +2894,108 @@
       "figure_urls": []
     },
     {
-      "pmid": "42744672",
-      "title": "Machine learning classification and FAQs retrieval for postoperative oral surgery questions.",
+      "pmid": "42749522",
+      "title": "Surgical cutting and repositioning guides for minimally invasive orthognathic surgery: a retrospective comparative cohort study of bilateral sagittal split osteotomy.",
       "authors": [
-        "V Trachoo",
-        "U Taetragool",
-        "C Khanijoh",
-        "P Saepong",
-        "F Sae-Tae",
-        "K Warin"
+        "G R De Fazio",
+        "A Diez-Fraile",
+        "T Faro",
+        "G Dell'Aversana Orabona",
+        "G R J Swennen"
       ],
-      "publication_date": "2026-Sep-15",
-      "publication_date_iso": "2026-09-15",
-      "abstract": "An artificial intelligence (AI)-based classification and retrieval system has the potential to map postoperative oral surgery questions to evidence-based answers to improve access to consistent information on postoperative conditions and management. This study was undertaken to show the development of an AI-based classification and retrieval system specifically designed to address inquiries related to postoperative oral surgery. The AI system was trained on a dataset encompassing 689 questions associated with various oral surgery procedures and employed machine learning algorithms such as Random Forest and Naïve Bayes models to accurately predict the corresponding operation for each query. Additionally, an augmentation technique was implemented to broaden the variety of oral surgery questions to train the model. The results indicated that the chatbot's performance achieved a moderate accuracy, ranging from 36.0% to 71.0% with the normal dataset. However, when trained with the augmented dataset, the chatbot's accuracy improved significantly, reaching between 88.0% and 97.0% in response to postoperative oral surgery questions. In conclusion, this AI-based classification and retrieval system demonstrates the potential to accurately classify postoperative oral surgery inquiries and, pending clinical validation, represents a beneficial future resource.",
+      "publication_date": "2026-Sep-16",
+      "publication_date_iso": "2026-09-16",
+      "abstract": "Customized surgical guides may improve the accuracy of minimally invasive orthognathic surgery, particularly in facilitating the transfer of three-dimensional virtual surgical planning (3D-VSP) to the operative setting. This retrospective comparative cohort study included patients undergoing bimaxillary surgery with simultaneous genioplasty. Fifty consecutive patients were assessed for eligibility during the study period between January and July 2024. Fourteen were excluded (seven initial implementation phase; seven class III deformity), leaving 36 patients for final analysis. Patients were chronologically allocated into a control group (pre-implementation) and a study group (post-implementation). Intraoperative cone-beam computed tomography (CBCT) with cranial-base superimposition was used to assess surgical accuracy. The primary outcome was skeletal movement accuracy, defined as the discrepancy between planned 3D-VSP and intraoperative outcomes, assessed by superimposition of VSP and CBCT datasets. Secondary outcomes included translational and rotational deviations, landmark-specific discrepancies (mm) at the mandibular B-point, gonion, and ramus, and corticotomy angle deviation (degrees) to evaluate osteotomy accuracy. The guide-assisted group demonstrated significantly improved B-point accuracy (P = 0.001) and corticotomy angle precision (P = 0.012). Threshold-based accuracy outcomes also favored the guide-assisted group, while operative time did not differ significantly between groups. No predefined intraoperative complications were observed in either group. In-house customized surgical guides improved the intraoperative transfer accuracy of 3D-VSP in minimally invasive bilateral sagittal split osteotomy without increasing operative time.",
       "objective": "",
       "study_methods": "",
       "methods": "",
-      "results": "indicated that the chatbot's performance achieved a moderate accuracy, ranging from 36.0% to 71.0% with the normal dataset. However, when trained with the augmented dataset, the chatbot's accuracy improved significantly, reaching between 88.0% and 97.0% in response to postoperative oral surgery questions. In",
-      "conclusion": ", this AI-based classification and retrieval system demonstrates the potential to accurately classify postoperative oral surgery inquiries and, pending clinical validation, represents a beneficial future resource.",
+      "results": "",
+      "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42744672/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42749522/",
       "pmcid": "",
       "figure_urls": []
     },
     {
-      "pmid": "42744608",
-      "title": "Technical note: Combined approach for total mandibulectomy.",
+      "pmid": "42748180",
+      "title": "Antiresorptive therapy influence on peri-implant diseases: Clinical implications and osteoimmunological perspectives.",
       "authors": [
-        "Mateo Castano Ospina",
-        "Jane Pegg",
-        "Sarah Boston"
+        "Emilio A Cafferata",
+        "Frank Schwarz",
+        "Reinhard Gruber"
       ],
-      "publication_date": "2026-Sep-15",
-      "publication_date_iso": "2026-09-15",
-      "abstract": "To describe a novel combined approach for total mandibulectomy (CATM) by combining a lateral approach for condylectomy and a ventral approach for total mandibulectomy. Descriptive technical note utilizing a cadaveric study and clinical case. One dog cadaver (27 kg, mixed breed) and one clinical case (2.5-year-old castrated male Australian Shepherd). The CATM technique was evaluated in a dog cadaver prior to clinical application in a dog with a left mandibular soft tissue sarcoma. Condylectomy was performed by a lateral approach to the temporomandibular joint followed by a ventral paramedian approach for left total mandibulectomy. CATM was successfully performed in both the cadaveric model and clinical case without intraoperative complications. Extending the lateral condylectomy incision caudally allowed for regional lymphadenectomy in the clinical case. Medial drift of the right mandible resulted in palatal contact trauma that was successfully managed with crown height reduction and vital pulpotomy. At two months postoperatively, the dog maintained good clinical function without tumor recurrence or additional adverse effects. The CATM was a feasible technique that provided increased TMJ exposure for joint disarticulation and condylectomy. The CATM provides a safe and effective technique for total mandibulectomy that optimizes TMJ access, facilitating joint disarticulation and condylectomy, while enhancing visualization of neurovascular structures.",
+      "publication_date": "2026-Sep-16",
+      "publication_date_iso": "2026-09-16",
+      "abstract": "Antiresorptive therapy represents a cornerstone in the management of osteoporosis and cancer-related bone disease through suppression of osteoclast-mediated bone resorption. As implant therapy becomes more common in aging populations, clinicians increasingly encounter patients receiving these medications, thus making their impact on peri-implant tissues clinically relevant. This narrative review critically examines clinical evidence on implant survival, peri-implant bone stability, peri-implantitis progression, and treatment considerations in patients receiving antiresorptive therapy, while integrating mechanistic insights. Evidence suggests that implant survival and marginal bone loss in osteoporotic patients are generally comparable to untreated individuals, indicating that suppression of bone resorption does not inherently compromise osseointegration. However, these outcomes may not fully reflect peri-implant tissue dynamics. Antiresorptives alter osteoclast functions and bone remodeling, potentially affecting the osteoimmune balance required to adapt to mechanical and oral microbial challenges. While these effects may remain subclinical under healthy conditions, they may become relevant during chronic peri-implant inflammation or repeated surgical interventions, where remodeling demands are increased. Altered remodeling may result in lesion persistence, impaired structural recovery, and late complications. Although medication-related osteonecrosis of the jaw remains rare, antiresorptives may modify osteoimmune interactions within inflamed tissues. Therefore, peri-implantitis may act as a contextual modifier influencing healing outcomes. Antiresorptive therapy should not be regarded as an absolute contraindication to implant therapy in appropriately selected patients, particularly those receiving osteoporosis-dose regimens. However, chronic peri-implant inflammation, repeated surgical intervention, and high-dose oncologic antiresorptive exposure may impair osteoimmune adaptation and increase susceptibility to delayed healing and MRONJ-related complications. Early control of peri-implant inflammation, individualized risk stratification, and strict supportive maintenance should be considered central components of clinical management in antiresorptive-exposed patients.",
       "objective": "",
-      "study_methods": "The CATM technique was evaluated in a dog cadaver prior to clinical application in a dog with a left mandibular soft tissue sarcoma. Condylectomy was performed by a lateral approach to the temporomandibular joint followed by a ventral paramedian approach for left total mandibulectomy.",
-      "methods": "The CATM technique was evaluated in a dog cadaver prior to clinical application in a dog with a left mandibular soft tissue sarcoma. Condylectomy was performed by a lateral approach to the temporomandibular joint followed by a ventral paramedian approach for left total mandibulectomy.",
-      "results": "ed in palatal contact trauma that was successfully managed with crown height reduction and vital pulpotomy. At two months postoperatively, the dog maintained good clinical function without tumor recurrence or additional adverse effects. The CATM was a feasible technique that provided increased TMJ exposure for joint disarticulation and condylectomy. The CATM provides a safe and effective technique for total mandibulectomy that optimizes TMJ access, facilitating joint disarticulation and condylectomy, while enhancing visualization of neurovascular structures.",
+      "study_methods": "This narrative review critically examines clinical evidence on implant survival, peri-implant bone stability, peri-implantitis progression, and treatment considerations in patients receiving antiresorptive therapy, while integrating mechanistic insights.",
+      "methods": "This narrative review critically examines clinical evidence on implant survival, peri-implant bone stability, peri-implantitis progression, and treatment considerations in patients receiving antiresorptive therapy, while integrating mechanistic insights.",
+      "results": "in lesion persistence, impaired structural recovery, and late complications. Although medication-related osteonecrosis of the jaw remains rare, antiresorptives may modify osteoimmune interactions within inflamed tissues. Therefore, peri-implantitis may act as a contextual modifier influencing healing outcomes. Antiresorptive therapy should not be regarded as an absolute contraindication to implant therapy in appropriately selected patients, particularly those receiving osteoporosis-dose regimens. However, chronic peri-implant inflammation, repeated surgical intervention, and high-dose oncologic antiresorptive exposure may impair osteoimmune adaptation and increase susceptibility to delayed healing and MRONJ-related complications. Early control of peri-implant inflammation, individualized risk stratification, and strict supportive maintenance should be considered central components of clinical management in antiresorptive-exposed patients.",
       "conclusion": "",
       "limitations": "",
       "topics": [
         "oral surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42744608/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42748180/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42747898",
+      "title": "Clinical and Radiologic Predictors of Surgical Intervention in Adult Maxillofacial Trauma Patients Presenting to the Emergency Department.",
+      "authors": [
+        "Murat Muratoglu",
+        "Damla Gencel",
+        "Busra Bulut",
+        "Suleyman Savran",
+        "Deniz Kalemci",
+        "Çağri A Uysal"
+      ],
+      "publication_date": "2026-Sep-16",
+      "publication_date_iso": "2026-09-16",
+      "abstract": "Maxillofacial trauma may be managed either conservatively or surgically. This study aimed to identify the clinical and radiologic factors associated with operative management in adult patients and to propose a practical, emergency department-based treatment approach. This retrospective cohort study included adult patients who presented with head and facial trauma between March 1, 2021, and March 1, 2026. Patients aged 18 years or older who had clinical findings suggestive of maxillofacial injury and who underwent maxillofacial computed tomography (CT) were included. Demographic data, trauma mechanism, Glasgow Coma Scale (GCS) score, forensic status, CT findings, consultation, hospitalization, mortality, and treatment were recorded. Patients were divided into operative and nonoperative groups. Descriptive statistics, between-group comparisons, and multivariable logistic regression were performed. A total of 855 patients were included. The mean age was 59.06±22.38 years, and 499 patients (58.4%) were female. Falls were the most common mechanism of injury (74.15%). Surgery was performed in 32 patients (3.74%). Compared with nonoperatively managed patients, those who underwent surgery were younger, more frequently male, had lower GCS scores, and were more often forensic cases. A radiologically confirmed fracture was the strongest independent factor associated with surgery [odds ratio (OR)=11.29; P=0.001], together with forensic status and a lower GCS score. Among patients with radiologically confirmed facial fractures, mandibular, orbital, and nasal fractures were each independently associated with surgery (OR=44.70, 6.54, and 4.44, respectively; all P≤0.004). Most adult patients with maxillofacial trauma were managed nonoperatively. A radiologically confirmed fracture, forensic status, a lower GCS score, and specific fracture locations-mandibular, orbital, and nasal-may help guide early surgical evaluation and support a simple, practical treatment algorithm.",
+      "objective": "",
+      "study_methods": "This retrospective cohort study included adult patients who presented with head and facial trauma between March 1, 2021, and March 1, 2026. Patients aged 18 years or older who had clinical findings suggestive of maxillofacial injury and who underwent maxillofacial computed tomography (CT) were included. Demographic data, trauma mechanism, Glasgow Coma Scale (GCS) score, forensic status, CT findings, consultation, hospitalization, mortality, and treatment were recorded. Patients were divided into operative and nonoperative groups. Descriptive statistics, between-group comparisons, and multivariable logistic regression were performed.",
+      "methods": "This retrospective cohort study included adult patients who presented with head and facial trauma between March 1, 2021, and March 1, 2026. Patients aged 18 years or older who had clinical findings suggestive of maxillofacial injury and who underwent maxillofacial computed tomography (CT) were included. Demographic data, trauma mechanism, Glasgow Coma Scale (GCS) score, forensic status, CT findings, consultation, hospitalization, mortality, and treatment were recorded. Patients were divided into operative and nonoperative groups. Descriptive statistics, between-group comparisons, and multivariable logistic regression were performed.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42747898/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42747700",
+      "title": "Modified technique for resection of the alar folds to nasal paralysis in a mule: Case report.",
+      "authors": [
+        "Marcos Jun Watanabe",
+        "Juliana de Moura Alonso",
+        "Pyetra Ieger Perandré",
+        "Heitor Cestari",
+        "Vitória Fabbrocini Gonçalves",
+        "Lorena Cardozo Ferrari",
+        "Ana Liz Garcia Alves",
+        "Carlos Alberto Hussni"
+      ],
+      "publication_date": "2026-Sep-16",
+      "publication_date_iso": "2026-09-16",
+      "abstract": "Equids are obligate nasal breathers. Therefore, conditions that obstruct or impair this respiratory route can compromise animal welfare by causing severe respiratory distress, while also impacting athletic potential. Nasal paralysis results from injury to the facial nerve and its branches and is characterized by the lack of movement of the alar cartilage, leading to nasal collapse. Its occurrence is uncommon in horses and has not been previously reported in mules. This report describes a 9-month-old mule presented with a history of facial trauma and compression caused by a halter. After unsuccessful anti-inflammatory therapy and temporary retention sutures, resection of the alar cartilage was elected. The procedure was performed under general anesthesia with the patient positioned in sternal recumbency. Traction was applied to the apex of the alar cartilage lamina, followed by an elliptical skin incision. Upon exposure, the alar cartilage was resected, and the skin was closed using a simple continuous suture pattern. The patient showed satisfactory recovery, with maintenance of airway patency. Two months postoperatively, the animal remained stable with no signs of nasal collapse. The investigation of therapeutic options and the description of surgical alternatives for correcting nasal collapse are fundamental, as nasal paralysis, although uncommon, can lead to severe dyspnea, result in nasal collapse, and compromise both animal welfare and athletic performance.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "from injury to the facial nerve and its branches and is characterized by the lack of movement of the alar cartilage, leading to nasal collapse. Its occurrence is uncommon in horses and has not been previously reported in mules. This report describes a 9-month-old mule presented with a history of facial trauma and compression caused by a halter. After unsuccessful anti-inflammatory therapy and temporary retention sutures, resection of the alar cartilage was elected. The procedure was performed under general anesthesia with the patient positioned in sternal recumbency. Traction was applied to the apex of the alar cartilage lamina, followed by an elliptical skin incision. Upon exposure, the alar cartilage was resected, and the skin was closed using a simple continuous suture pattern. The patient showed satisfactory recovery, with maintenance of airway patency. Two months postoperatively, the animal remained stable with no signs of nasal collapse. The investigation of therapeutic options and the description of surgical alternatives for correcting nasal collapse are fundamental, as nasal paralysis, although uncommon, can lead to severe dyspnea, result in nasal collapse, and compromise both animal welfare and athletic performance.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42747700/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2790,33 +3126,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42742572",
-      "title": "Refocusing the Surgical Lens for Ear Reconstruction: Understanding Lay Perception of Ear Asymmetry.",
-      "authors": [
-        "Miriam Meghnagi",
-        "Elizabeth Ward",
-        "Anjan Chatterjee",
-        "Mariola Paruzel-Czachura",
-        "Scott P Bartlett",
-        "Cassandra A Ligh"
-      ],
-      "publication_date": "2026-Sep-15",
-      "publication_date_iso": "2026-09-15",
-      "abstract": "ObjectiveEar reconstruction principles center on restoring a natural-appearing ear that does not draw visual attention. However, limited objective evidence exists defining which auricular differences are most perceptible. This study evaluated layperson perception of ear asymmetries to identify characteristics that influence visual attention.DesignExperimental survey study using digitally manipulated standardized facial photographs.SettingOnline crowdsourcing platform.ParticipantsSix standardized facial identities were digitally modified. A total of 550 adult participants evaluated 50 randomized stimuli.InterventionsBaseline ears were digitally symmetrized, followed by unilateral modifications across graded magnitude levels of 4 auricular characteristics: contour/definition, projection, size, and vertical position, generating 138 experimental stimuli.Main Outcome Measure(s)Proportion of responses identifying the ears as an attention-drawing feature, and predictors of ear selection as attention-drawing evaluated with generalized linear mixed-effects models.ResultsAcross experimental stimuli, ears were selected as attention-drawing in 3.8% of responses. The highest rates of ear selection occurred with +10% vertical displacement (32.1%), +15% size increase (22.9%), and -10% vertical displacement (21.5%). In mixed-effects models, increasing vertical position magnitude was significantly associated with higher odds of ear selection (odds ratio [OR]: 1.041, P = .004), followed by size magnitude (OR: 1.017, P = .018). Projection (P = .91) and contour/definition (P = .168) were not significant predictors of ear selection.ConclusionEar asymmetries were infrequently identified as attention-drawing during frontal face viewing, even at larger magnitudes of deviation. Vertical position and size were the most salient. These results may inform reconstructive planning, counseling, and expectation-setting regarding how postoperative ear asymmetries are perceived.",
-      "objective": "evidence exists defining which auricular differences are most perceptible. This study evaluated layperson perception of ear asymmetries to identify characteristics that influence visual attention.DesignExperimental survey study using digitally manipulated standardized facial photographs.SettingOnline crowdsourcing platform.ParticipantsSix standardized facial identities were digitally modified. A total of 550 adult participants evaluated 50 randomized stimuli.InterventionsBaseline ears were digitally symmetrized, followed by unilateral modifications across graded magnitude levels of 4 auricular characteristics: contour/definition, projection, size, and vertical position, generating 138 experimental stimuli.Main Outcome Measure(s)Proportion of responses identifying the ears as an attention-drawing feature, and predictors of ear selection as attention-drawing evaluated with generalized linear mixed-effects models.ResultsAcross experimental stimuli, ears were selected as attention-drawing in 3.8% of responses. The highest rates of ear selection occurred with +10% vertical displacement (32.1%), +15% size increase (22.9%), and -10% vertical displacement (21.5%). In mixed-effects models, increasing vertical position magnitude was significantly associated with higher odds of ear selection (odds ratio [OR]: 1.041, P = .004), followed by size magnitude (OR: 1.017, P = .018). Projection (P = .91) and contour/definition (P = .168) were not significant predictors of ear selection.ConclusionEar asymmetries were infrequently identified as attention-drawing during frontal face viewing, even at larger magnitudes of deviation. Vertical position and size were the most salient. These",
-      "study_methods": "",
-      "methods": "",
-      "results": "Across experimental stimuli, ears were selected as attention-drawing in 3.8% of responses. The highest rates of ear selection occurred with +10% vertical displacement (32.1%), +15% size increase (22.9%), and -10% vertical displacement (21.5%). In mixed-effects models, increasing vertical position magnitude was significantly associated with higher odds of ear selection (odds ratio [OR]: 1.041, P = .004), followed by size magnitude (OR: 1.017, P = .018). Projection (P = .91) and contour/definition (P = .168) were not significant predictors of ear selection.ConclusionEar asymmetries were infrequently identified as attention-drawing during frontal face viewing, even at larger magnitudes of deviation. Vertical position and size were the most salient. These results may inform reconstructive planning, counseling, and expectation-setting regarding how postoperative ear asymmetries are perceived.",
-      "conclusion": "Ear asymmetries were infrequently identified as attention-drawing during frontal face viewing, even at larger magnitudes of deviation. Vertical position and size were the most salient. These results may inform reconstructive planning, counseling, and expectation-setting regarding how postoperative ear asymmetries are perceived.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742572/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42742101",
       "title": "Modified lip repositioning to correct gummy smile: 8-year follow-up of identical twins.",
       "authors": [
@@ -2893,35 +3202,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42731982",
-      "title": "The 10-year evolution of a dental undergraduate 'Blended Learning' suturing programme.",
-      "authors": [
-        "Anna Dargue",
-        "Richa Arya",
-        "Tamara Khayatt"
-      ],
-      "publication_date": "2026-Sep-12",
-      "publication_date_iso": "2026-09-12",
-      "abstract": "Undergraduate dental students in the United Kingdom must be competent in intra-oral suturing before graduating. In 2014, a blended learning programme was introduced to enhance suturing teaching. Students first completed an online suturing tutorial. This was designed for them to review at their own pace, promoted self-directed learning and provided a degree of standardisation in theoretical knowledge. Subsequently, students attended a practical session using simulation aids, translating theory into practice and promoting deeper learning. Staff offered guidance in these sessions and students undertook peer evaluation. Mixed methods action research was used iteratively to study student evaluation from the programme over a decade. 745 undergraduate student responses were evaluated. These influenced adaptations to the programme such as introducing teaching earlier in the undergraduate programme, mounting suturing foam pads into a phantom head, and extending the duration of the session. 2024 results demonstrated 98% of students felt competent to handle the suture needle, and 95% felt prepared to apply these skills on a patient after completing the programme. Student evaluation over a decade has driven continuous development of the programme. Our study demonstrates incremental changes have enriched the learning experience and preparedness for clinical practice.",
-      "objective": "",
-      "study_methods": "Students first completed an online suturing tutorial. This was designed for them to review at their own pace, promoted self-directed learning and provided a degree of standardisation in theoretical knowledge. Subsequently, students attended a practical session using simulation aids, translating theory into practice and promoting deeper learning. Staff offered guidance in these sessions and students undertook peer evaluation. Mixed methods action research was used iteratively to study student evaluation from the programme over a decade.",
-      "methods": "Students first completed an online suturing tutorial. This was designed for them to review at their own pace, promoted self-directed learning and provided a degree of standardisation in theoretical knowledge. Subsequently, students attended a practical session using simulation aids, translating theory into practice and promoting deeper learning. Staff offered guidance in these sessions and students undertook peer evaluation. Mixed methods action research was used iteratively to study student evaluation from the programme over a decade.",
-      "results": "demonstrated 98% of students felt competent to handle the suture needle, and 95% felt prepared to apply these skills on a patient after completing the programme. Student evaluation over a decade has driven continuous development of the programme. Our study demonstrates incremental changes have enriched the learning experience and preparedness for clinical practice.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42731982/",
-      "pmcid": "PMC13570886",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13570886/bin/41405_2026_467_Fig1_HTML.webp",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13570886/bin/41405_2026_467_Fig1_HTML.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13570886/bin/41405_2026_467_Fig2_HTML.webp",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13570886/bin/41405_2026_467_Fig2_HTML.gif"
-      ]
-    },
-    {
       "pmid": "42736726",
       "title": "Efficacy of electronic devices as distraction during cosmetic suturing for pediatric facial trauma: A retrospective cohort study.",
       "authors": [
@@ -2984,31 +3264,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42726192",
-      "title": "Opportunistic screening for osteoporosis using dental radiographic indices.",
-      "authors": [
-        "Argyris Dimitrios Kouramas",
-        "Antigoni Delantoni",
-        "Theodoros Petsas",
-        "Sokratis Varitimidis"
-      ],
-      "publication_date": "2026-Sep-11",
-      "publication_date_iso": "2026-09-11",
-      "abstract": "Early identification of individuals at risk for osteoporosis is essential for timely intervention and prevention of fragility fractures. This study aimed to assess the diagnostic value of dental radiographic indices obtained from panoramic radiography and cone beam computed tomography (CBCT) for the early detection of osteoporosis, using dual-energy X-ray absorptiometry (DXA) as the reference standard. Seventy (n = 70) postmenopausal women underwent panoramic radiography, CBCT, and DXA examinations. Images were evaluated by an oral surgeon certified in oral radiology. The Mandibular Cortical Index (MCI), Mental Index (MI), Panoramic Mandibular Index (PMI), and Molar Index (M index) were evaluated using panoramic images. Corresponding computed tomography (CT)-based indices, specifically the Computed Tomography Mandibular Cortical Index (CTMCI), Computed Tomography Mental Index (CTMI), Computed Tomography Panoramic Mandibular Index (CTPMI), and Computed Tomography Molar Index (CTM index), were derived from CBCT measurements. PMI, CTPMI, and the M index demonstrated the highest diagnostic performance for osteoporosis detection. Specifically, the highest areas under the curve (AUC) for distinguishing normal individuals from those with osteoporosis were observed for PMI (AUC = 0.89, 95% CI: 0.77-1.00), CTPMI (AUC = 0.88, 95% CI: 0.75-1.00), and the M index (AUC = 0.86, 95% CI: 0.73-0.99). Optimal cutoff values were approximately 3.5-4.0 for MI and CTMI, 0.32-0.38 for PMI and CTPMI, and 3.1-3.35 for the M index. Diagnostic accuracy was higher for differentiating normal individuals from osteoporotic individuals than from osteopenic individuals. Dental radiographic indices derived from panoramic radiography and CBCT may represent useful opportunistic screening tools for identification of postmenopausal women at risk for osteoporosis. The proposed cutoff values could assist clinicians in recognizing individuals who may benefit from referral for DXA assessment and further evaluation of bone mineral density.",
-      "objective": "",
-      "study_methods": "Seventy (n = 70) postmenopausal women underwent panoramic radiography, CBCT, and DXA examinations. Images were evaluated by an oral surgeon certified in oral radiology. The Mandibular Cortical Index (MCI), Mental Index (MI), Panoramic Mandibular Index (PMI), and Molar Index (M index) were evaluated using panoramic images. Corresponding computed tomography (CT)-based indices, specifically the Computed Tomography Mandibular Cortical Index (CTMCI), Computed Tomography Mental Index (CTMI), Computed Tomography Panoramic Mandibular Index (CTPMI), and Computed Tomography Molar Index (CTM index), were derived from CBCT measurements.",
-      "methods": "Seventy (n = 70) postmenopausal women underwent panoramic radiography, CBCT, and DXA examinations. Images were evaluated by an oral surgeon certified in oral radiology. The Mandibular Cortical Index (MCI), Mental Index (MI), Panoramic Mandibular Index (PMI), and Molar Index (M index) were evaluated using panoramic images. Corresponding computed tomography (CT)-based indices, specifically the Computed Tomography Mandibular Cortical Index (CTMCI), Computed Tomography Mental Index (CTMI), Computed Tomography Panoramic Mandibular Index (CTPMI), and Computed Tomography Molar Index (CTM index), were derived from CBCT measurements.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726192/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42692048",
       "title": "Biomechanical evaluation of the temporomandibular joint following multi-directional orthognathic surgery: a finite element analysis.",
       "authors": [
@@ -3030,103 +3285,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42692048/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42723286",
-      "title": "Trio-based GWAS reveals loci associated with different forms of isolated cleft lip.",
-      "authors": [
-        "Noah Herrick",
-        "Zeynep Erdogan-Yildirim",
-        "Myoung Keun Lee",
-        "Sarah W Curtis",
-        "Seth Berke",
-        "Grace Brewer",
-        "Toby McHenry",
-        "Ahmed M El Sergani",
-        "Joel Anderton",
-        "Nandita Mukhopadhyay",
-        "Jenna C Carlson",
-        "Terri Beaty",
-        "Azeez Butali",
-        "Carmen J Buxo-Martinez",
-        "Jacqueline T Hecht",
-        "Eric Liao",
-        "Lina M Moreno Uribe",
-        "Carmencita D Padilla",
-        "George Wehby",
-        "Eleanor Feingold",
-        "Jeffrey C Murray",
-        "Ingo Ruczinski",
-        "Elizabeth J Leslie-Clarkson",
-        "Seth M Weinberg",
-        "John R Shaffer",
-        "Mary L Marazita"
-      ],
-      "publication_date": "2026-Sep-10",
-      "publication_date_iso": "2026-09-10",
-      "abstract": "Orofacial clefts (OFCs) are the most common craniofacial birth defect and comprise a diverse group of traits with complex and heterogeneous etiologies. Genetic studies of OFCs typically approach this diversity by stratifying cases into broad diagnostic classes, including cleft lip (CL), cleft palate (CP), and cleft lip with palate (CLP). Although this strategy has yielded important insights into OFC risk, it ignores the phenotypic heterogeneity within each subtype. CL exhibits marked phenotypic variability, involving differences in alveolar involvement, laterality, and sidedness that may reflect distinct etiologies. Given this phenotypic diversity within CL, we assembled a multi-ancestry cohort of 837 nonsyndromic CL case-parent trios with whole-genome sequencing and detailed phenotyping. We performed genome-wide association scans (GWAS) via transmission disequilibrium tests for CL overall and for 14 CL subtypes defined by involvement of the alveolus (with and without), laterality (uni- and bilateral), and sidedness (left and right). We identified four genome-wide significant loci. Two loci, IRF6 and 8q24.21, were both detected in the overall CL GWAS. PLCB1/PLCB4 and MAFB were detected in GWASs of alveolar cleft involvement and CL left sidedness, respectively. These subtype-specific associations were followed by case-only comparisons that reflect the presence or absence of alveolus cleft or left-sided bias of CL to confirm the specificity of the association signal to the particular subtype. Our results provide evidence of within-class CL subtype-specific genetic links for loci previously discussed in the context of primary OFC classes and demonstrate the value of granular OFC subtype characterization to capture trait-specific associations.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "provide evidence of within-class CL subtype-specific genetic links for loci previously discussed in the context of primary OFC classes and demonstrate the value of granular OFC subtype characterization to capture trait-specific associations.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42723286/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42720541",
-      "title": "Preservation of an Inverted Ectopic Maxillary Central Incisor Adjacent to an Alveolar Cleft by Replantation With Axial Correction and Orthodontic Alignment.",
-      "authors": [
-        "Kenji Oka",
-        "Takayoshi Aramoto",
-        "Kengo Nishi",
-        "Naoki Oka"
-      ],
-      "publication_date": "2026-Sep-10",
-      "publication_date_iso": "2026-09-10",
-      "abstract": "Management of an inverted ectopic maxillary central incisor adjacent to an alveolar cleft is challenging because spontaneous eruption into the dental arch is impossible. In a male patient with unilateral cleft lip and alveolus treated between 5 years 4 months and 12 years 5 months, the incisor was replanted with axial correction and mucosal coverage after secondary alveolar bone grafting and confirmation of bony bridging. Surgical exposure and orthodontic traction guided the tooth into the arch without infection, clinically significant root resorption, or clinical ankylosis. This case illustrates replantation followed by surgical exposure and orthodontic traction as a tooth-preservation option.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42720541/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42720438",
-      "title": "Identification of Neighborhood-Level and Individual Socioeconomic Risk Factors Affecting Panniculectomy Outcomes.",
-      "authors": [
-        "Joey Liang",
-        "Jackson M Cathey",
-        "Michae Jones",
-        "Ash Patel"
-      ],
-      "publication_date": "2026-Sep-10",
-      "publication_date_iso": "2026-09-10",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42720438/",
       "pmcid": "",
       "figure_urls": []
     }
