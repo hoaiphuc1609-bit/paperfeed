@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T07:14:56Z",
+  "updated_at": "2026-09-19T07:12:04Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -422,9 +422,9 @@
       "pmcid": "PMC13571252",
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571252/bin/gr1.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571252/bin/gr1.gif",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571252/bin/gr2.webp",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571252/bin/gr3.webp",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571252/bin/gr4.webp"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571252/bin/gr2.gif"
       ]
     },
     {
@@ -2080,7 +2080,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42554427/",
       "pmcid": "PMC13581469",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581469/bin/JCPE-53-1565-g001.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581469/bin/JCPE-53-1565-g001.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581469/bin/JCPE-53-1565-g006.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581469/bin/JCPE-53-1565-g006.gif"
+      ]
     },
     {
       "pmid": "42546466",
@@ -2138,7 +2143,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42532127/",
       "pmcid": "PMC13581465",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581465/bin/JCPE-53-1596-g002.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581465/bin/JCPE-53-1596-g002.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581465/bin/JCPE-53-1596-g001.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581465/bin/JCPE-53-1596-g001.gif"
+      ]
     },
     {
       "pmid": "42502020",
@@ -2342,7 +2352,12 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402252/",
       "pmcid": "PMC13581464",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581464/bin/JCPE-53-1546-g003.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581464/bin/JCPE-53-1546-g003.gif",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581464/bin/JCPE-53-1546-g002.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13581464/bin/JCPE-53-1546-g002.gif"
+      ]
     },
     {
       "pmid": "42374885",
@@ -2533,9 +2548,7 @@
       "pmcid": "PMC13580424",
       "figure_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13580424/bin/LSM-58-624-g002.webp",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13580424/bin/LSM-58-624-g002.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13580424/bin/LSM-58-624-g001.webp",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13580424/bin/LSM-58-624-g001.gif"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13580424/bin/LSM-58-624-g001.webp"
       ]
     },
     {
@@ -2579,6 +2592,35 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13551119/bin/PAN-36-1247-g001.webp",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13551119/bin/PAN-36-1247-g002.webp"
       ]
+    },
+    {
+      "pmid": "42161311",
+      "title": "Frozen section biopsy is a feasible and accurate tool for diagnosing canine and feline oral tumors in a private veterinary oral surgery practice.",
+      "authors": [
+        "Sarah E Bronko",
+        "Alexandra M Harvey",
+        "Cynthia M Bell",
+        "Jason W Soukup",
+        "John R Lewis",
+        "Carlos A Rice",
+        "Scott J Hetzel",
+        "Danielle Mendelsohn"
+      ],
+      "publication_date": "2026-Oct-01",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "To determine diagnostic agreement between frozen sectioning (FS) and formalin-fixed, paraffin-embedded (FFPE) tissue-processing methods for veterinary oral tumors and to chronicle the method and time required to perform FS sample processing in a private practice setting. 27 canine and feline oral tumor samples were collected between October 2024 and February 2025 and processed in 2 ways: (1) in-house using FS and (2) conventional FFPE. All biopsies were interpreted by 2 veterinary pathologists, one who read the FFPE samples for normal diagnostic turnaround time, who then blinded and digitized the FS slides for submission to the second pathologist. The final diagnoses for FS and FFPE tissue samples were compared for each tumor. Mitotic count and FS slide quality were also recorded for each sample. Time elapsed between surgical biopsy and completion of FS was recorded. Excellent diagnostic agreement (0.915 [95% CI, 0.775 to 1.0]) was documented in veterinary oral tumors processed with FS and FFPE methods. Poor to moderate agreement was documented between FS and FFPE mitotic counts (0.42 [95% CI, 0.12 to 0.65]). The mean total FS slide processing time was 19.80 minutes (SD, 8.58). High diagnostic concordance was documented in veterinary oral tumors processed with FS and FFPE methods, with results similar to human studies. Slides were processed in a reasonable amount of time. Future study evaluating veterinary oral tumor FS samples using telepathology is warranted. FS should be considered a feasible and accurate tool for intraoperative veterinary oral tumor diagnosis.",
+      "objective": "",
+      "study_methods": "27 canine and feline oral tumor samples were collected between October 2024 and February 2025 and processed in 2 ways: (1) in-house using FS and (2) conventional FFPE. All biopsies were interpreted by 2 veterinary pathologists, one who read the FFPE samples for normal diagnostic turnaround time, who then blinded and digitized the FS slides for submission to the second pathologist. The final diagnoses for FS and FFPE tissue samples were compared for each tumor. Mitotic count and FS slide quality were also recorded for each sample. Time elapsed between surgical biopsy and completion of FS was recorded.",
+      "methods": "27 canine and feline oral tumor samples were collected between October 2024 and February 2025 and processed in 2 ways: (1) in-house using FS and (2) conventional FFPE. All biopsies were interpreted by 2 veterinary pathologists, one who read the FFPE samples for normal diagnostic turnaround time, who then blinded and digitized the FS slides for submission to the second pathologist. The final diagnoses for FS and FFPE tissue samples were compared for each tumor. Mitotic count and FS slide quality were also recorded for each sample. Time elapsed between surgical biopsy and completion of FS was recorded.",
+      "results": "similar to human studies. Slides were processed in a reasonable amount of time. Future study evaluating veterinary oral tumor FS samples using telepathology is warranted. FS should be considered a feasible and accurate tool for intraoperative veterinary oral tumor diagnosis.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42161311/",
+      "pmcid": "",
+      "figure_urls": []
     },
     {
       "pmid": "42132822",
@@ -2898,24 +2940,76 @@
       "figure_urls": []
     },
     {
-      "pmid": "42752370",
-      "title": "Buccal Fat Pad \"Shield\" Technique in Augmentation of the Midface.",
+      "pmid": "42760153",
+      "title": "Facial attractiveness and profile-based perceived orthognathic surgery need: comparative assessment among professionals, laypersons, and artificial intelligence models.",
       "authors": [
-        "Rafal Pokrowiecki"
+        "C Güzel",
+        "Y M Okumuş",
+        "I Türkan",
+        "H Yılancı"
       ],
       "publication_date": "2026-Sep-18",
       "publication_date_iso": "2026-09-18",
-      "abstract": "The buccal fat pad (BFP) has been established as a valuable material in oral and maxillofacial surgery for the repair of cleft defects, oroantral communications, and coverage of osteonecrotic areas of the jaws. In esthetic surgery, bichectomy is a procedure that aims at BFP removal to better define and slim the midcheek area. In this article, an alternative application of the practical usage of the BFP in the esthetic maxillofacial surgery of the midface region, using custom cheek implants, is presented.",
-      "objective": "at BFP removal to better define and slim the midcheek area. In this article, an alternative application of the practical usage of the BFP in the esthetic maxillofacial surgery of the midface region, using custom cheek implants, is presented.",
+      "abstract": "This study evaluated the effect of controlled 2° sagittal profile modifications on facial attractiveness ratings and profile-based perceived orthognathic surgery need using one standardized female and one standardized male facial model. For each model, nine digitally manipulated profile images were generated from -8° to +8° relative to baseline and assessed by orthodontists, oral and maxillofacial surgeons (OMFS), and laypersons (n = 72). Two multimodal artificial intelligence systems, ChatGPT-4.0 and Gemini 1.5 Pro, independently generated attractiveness scores to provide an exploratory benchmark for human-AI agreement. The selected models showed distinct sagittal response patterns. For the female model, attractiveness ratings peaked within a mild retrusive range (-2° to -4°), whereas ratings for the male model increased with greater sagittal projection. Significant intergroup differences were observed at selected sagittal positions, with orthodontists generally showing narrower esthetic tolerance. Profile-based surgical recommendations differed significantly for the male model (P < 0.001), with OMFS specialists recommending intervention most frequently, while no significant overall group difference was found for the female model. Human-AI agreement was model-dependent: Gemini showed closer alignment with human ratings for the female model, whereas ChatGPT-4.0 aligned more closely with human ratings for the male model. Both AI systems declined to provide surgical recommendations because of built-in ethical restrictions. Within the limitations of a two-model, profile-based design, sagittal esthetic perception appeared to vary according to model sex, evaluator background, and AI system. These findings should be interpreted as model-specific and exploratory rather than as generalizable sex-based esthetic norms.",
+      "objective": "",
       "study_methods": "",
       "methods": "",
       "results": "",
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "oral surgery"
+        "orthognathic surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42752370/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760153/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42760028",
+      "title": "Non-extraction management of borderline class III malocclusion using miniscrew-assisted molar distalisation.",
+      "authors": [
+        "Keerti Kaushik",
+        "Anshul Singla",
+        "Naomi Laldinmawii",
+        "Amrita Puri"
+      ],
+      "publication_date": "2026-Sep-18",
+      "publication_date_iso": "2026-09-18",
+      "abstract": "Skeletal Class III malocclusion, or mesiocclusion, is characterised by maxillary deficiency, mandibular excess or both, resulting in a reversed or edge-to-edge incisor relationship. It often reflects underlying skeletal discrepancies in the maxillary or dentoalveolar components and may be worsened by functional mandibular shifts. Treatment options depend on severity and growth status, ranging from orthopaedic correction in growing patients to orthodontic camouflage or orthognathic surgery in adults. Accurate diagnosis and case selection are critical to ensure favourable outcomes.The introduction of temporary anchorage devices has expanded the scope of non-surgical management for Class III cases by allowing controlled distalisation of the mandibular dentition with minimal reciprocal effects and reduced reliance on patient compliance. Micro-implants placed in the infrazygomatic crest or buccal shelf regions provide stable anchorage for en masse distal movement without proclination of the anterior teeth.This case report presents the successful orthodontic management of a patient with bilateral Angle Class III molar relationship, an edge-to-edge bite, 0 mm overjet and reduced overbite, accompanied by mild skeletal discrepancy and a slightly concave facial profile. The patient declined orthognathic surgery and a non-extraction, camouflage approach was pursued. Using miniscrew anchorage, controlled en masse distalisation of the mandibular dentition was achieved, resulting in improved occlusion, facial balance and patient satisfaction.This case demonstrates that skeletal anchorage-assisted distalisation can serve as an effective, minimally invasive alternative for adult Class III patients unwilling to undergo surgical correction, achieving functional and aesthetic harmony through precise biomechanical control.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ing in a reversed or edge-to-edge incisor relationship. It often reflects underlying skeletal discrepancies in the maxillary or dentoalveolar components and may be worsened by functional mandibular shifts. Treatment options depend on severity and growth status, ranging from orthopaedic correction in growing patients to orthodontic camouflage or orthognathic surgery in adults. Accurate diagnosis and case selection are critical to ensure favourable outcomes.The introduction of temporary anchorage devices has expanded the scope of non-surgical management for Class III cases by allowing controlled distalisation of the mandibular dentition with minimal reciprocal effects and reduced reliance on patient compliance. Micro-implants placed in the infrazygomatic crest or buccal shelf regions provide stable anchorage for en masse distal movement without proclination of the anterior teeth.This case report presents the successful orthodontic management of a patient with bilateral Angle Class III molar relationship, an edge-to-edge bite, 0 mm overjet and reduced overbite, accompanied by mild skeletal discrepancy and a slightly concave facial profile. The patient declined orthognathic surgery and a non-extraction, camouflage approach was pursued. Using miniscrew anchorage, controlled en masse distalisation of the mandibular dentition was achieved, resulting in improved occlusion, facial balance and patient satisfaction.This case demonstrates that skeletal anchorage-assisted distalisation can serve as an effective, minimally invasive alternative for adult Class III patients unwilling to undergo surgical correction, achieving functional and aesthetic harmony through precise biomechanical control.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760028/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42757957",
+      "title": "Evaluation of the Effect of Kinesiology Taping on Pain and Swelling After Orthognathic Surgery.",
+      "authors": [
+        "Fatih Anil Yigit",
+        "Yavuz Findik",
+        "Elif Albayrak"
+      ],
+      "publication_date": "2026-Sep-18",
+      "publication_date_iso": "2026-09-18",
+      "abstract": "Pain and edema following orthognathic surgery are significant clinical problems that can negatively affect patients' postoperative comfort and complicate the healing process. Kinesiological taping, a noninvasive method with a low potential for side effects, stands out as an alternative or complementary approach to pharmacological treatments in the management of postoperative symptoms. In a split-face design, kinesiological taping was applied to 1 side of the face of 30 patients in the postoperative period, while the opposite side served as a control. The tapes were left in place for 5 days. Pain levels were assessed using the Numerical Rating Scale (NRS). Edema was evaluated on days 2 and 5 postoperatively and at a 1-year follow-up using stereophotogrammetric analysis and distance measurements between defined anatomic reference points. In addition to descriptive statistics, the independent-samples t test, the Mann-Whitney U test, ANOVA, and the Friedman test were used. Pain scores were higher on the control side during the 5-day follow-up period, but the difference between the groups was not statistically significant. In stereophotogrammetric measurements, lower edema values ​​were observed on the side where kinesiological taping was applied at all evaluation times. In distance measurements between anatomic reference points, significantly lower edema values ​​were detected on the kinesiological taping side on the fifth postoperative day in the distance between the angulus-labial commissure and the lateral canthus-angulus. Kinesiology taping may be considered a potentially effective, noninvasive, easy-to-apply, and cost-effective adjunctive method for reducing postoperative edema following orthognathic surgery.",
+      "objective": "",
+      "study_methods": "In a split-face design, kinesiological taping was applied to 1 side of the face of 30 patients in the postoperative period, while the opposite side served as a control. The tapes were left in place for 5 days. Pain levels were assessed using the Numerical Rating Scale (NRS). Edema was evaluated on days 2 and 5 postoperatively and at a 1-year follow-up using stereophotogrammetric analysis and distance measurements between defined anatomic reference points. In addition to descriptive statistics, the independent-samples t test, the Mann-Whitney U test, ANOVA, and the Friedman test were used.",
+      "methods": "In a split-face design, kinesiological taping was applied to 1 side of the face of 30 patients in the postoperative period, while the opposite side served as a control. The tapes were left in place for 5 days. Pain levels were assessed using the Numerical Rating Scale (NRS). Edema was evaluated on days 2 and 5 postoperatively and at a 1-year follow-up using stereophotogrammetric analysis and distance measurements between defined anatomic reference points. In addition to descriptive statistics, the independent-samples t test, the Mann-Whitney U test, ANOVA, and the Friedman test were used.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42757957/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3044,7 +3138,10 @@
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42747700/",
       "pmcid": "PMC13582356",
-      "figure_urls": []
+      "figure_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13582356/bin/11259_2026_11527_Fig1_HTML.webp",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13582356/bin/11259_2026_11527_Fig2_HTML.webp"
+      ]
     },
     {
       "pmid": "42743549",
@@ -3245,93 +3342,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42732971/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42736726",
-      "title": "Efficacy of electronic devices as distraction during cosmetic suturing for pediatric facial trauma: A retrospective cohort study.",
-      "authors": [
-        "Zhennan Liu",
-        "Jiamin Zhang",
-        "Jian Li",
-        "Ran Nie",
-        "Yang Jiang",
-        "Baihui He",
-        "Yehong Shi",
-        "Fanjin Niu"
-      ],
-      "publication_date": "2026-Sep-11",
-      "publication_date_iso": "2026-09-11",
-      "abstract": "This study investigated the role of electronic devices in the plastic suture of facial trauma in children. From July 2023 to March 2024, the clinical data of children who received post-traumatic face plastic sutures were retrospectively studied. They were divided into groups based on whether they viewed mobile phone videos during suturing. Group A viewed their favorite video while suturing, but group B did not. They were divided into 4 age groups: 0 to 3 years, 4 to 6 years, 7 to 9 years, and 10 to 15 years. The suture time and number of assistants required were recorded, as well as the children's level of coordination and the doctors' satisfaction with the suture effect. A total of 150 children were included. Baseline age differed significantly between the video and non-video groups among children aged 0 to 3, 7 to 9, and 10 to 15 years (P < .05). Among children aged 4 to 6 and 7 to 9 years, those in the video group required fewer assistants, had shorter suturing times, and showed higher cooperation rates than those in the non-video group (all P < .05). These outcomes did not differ significantly between the video and non-video groups among children aged 0 to 3 or 10 to 15 years (all P > .05). Physician satisfaction did not differ significantly between the video and non-video groups in any age stratum (all P > .05). Within both groups, physician satisfaction was higher in children aged 4 to 15 years than in those aged 0 to 3 years (all P < .05). For facial trauma in children aged 4 to 9 years old, electronic devices can improve the degree of cooperation, shorten the suture time, reduce the number of assistants, and improve the clinical outcome.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736726/",
-      "pmcid": "PMC13574418",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13574418/bin/medi-105-e50631-g001.webp",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13574418/bin/medi-105-e50631-g001.gif",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13574418/bin/medi-105-e50631-g002.webp",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13574418/bin/medi-105-e50631-g002.gif"
-      ]
-    },
-    {
-      "pmid": "42727928",
-      "title": "Factors Associated With Treatment Time of Conventional Orthodontic-Orthognathic Surgery Patients in a University Postgraduate Program: A Retrospective Cohort Study.",
-      "authors": [
-        "Catherine Florentine",
-        "Vivian Van",
-        "Mohammed Shreiteh",
-        "Chia-Ling Kuo",
-        "Kelin Zhong",
-        "Flavio Uribe",
-        "David Shafer"
-      ],
-      "publication_date": "2026-Sep-11",
-      "publication_date_iso": "2026-09-11",
-      "abstract": "Conventional orthodontic-orthognathic surgery (COS) treatment often involves prolonged treatment times, particularly in postgraduate training institutions. The objective of this study was to identify treatment-related variables associated with treatment duration in patients undergoing COS treatment. A retrospective cohort study of COS patients treated at UConn Health between January 2013 and May 2020 was performed. Patients treated using the surgery-first approach, those with craniofacial anomalies, prior prosthodontic treatment, faculty practice treatment, or incomplete records were excluded. Predictor variables were grouped into 4 main categories: baseline clinical characteristics, patient-related, provider and health system, and treatment course factors. The primary outcome variable was total treatment time. Surgical readiness-to-surgery and postsurgical treatment times were secondarily assessed. No demographic or clinical covariates were included in the regression analyses. For each binary predictor variable, treatment times were compared between groups using the Wilcoxon rank-sum test to account for non-normal outcome distributions. Predictors that were statistically significant at the 5% level were subsequently included in the corresponding multivariable linear regression model. Sixty-five subjects were evaluated, and 52 met the inclusion criteria (mean age 23.0 (7.4) years; 25 (48.1%) females). The median duration of the total treatment was 34.66 (23.44) months, including 8.90 (14.29) from surgical readiness-to-surgery and 9.18 (8.83) months for the postsurgical orthodontic phase. Reduced total treatment time was associated with prior orthodontic treatment (16.42 months; 95% CI -24.20, -8.63, P < .001) and surgical planning initiated at treatment onset (15.38 months; 95% CI -25.40, -5.36, P = .004). Prior orthodontic treatment and earlier surgical planning were associated with shorter total COS treatment times in a university training program. By quantifying the impact of these and other clinically relevant factors, this study provides a practical framework for anticipating potential delays and identifying opportunities to improve treatment efficiency in training-based programs.",
-      "objective": "of this study was to identify treatment-related variables associated with treatment duration in patients undergoing COS treatment. A retrospective cohort study of COS patients treated at UConn Health between January 2013 and May 2020 was performed. Patients treated using the surgery-first approach, those with craniofacial anomalies, prior prosthodontic treatment, faculty practice treatment, or incomplete records were excluded. Predictor variables were grouped into 4 main categories: baseline clinical characteristics, patient-related, provider and health system, and treatment course factors. The primary outcome variable was total treatment time. Surgical readiness-to-surgery and postsurgical treatment times were secondarily assessed. No demographic or clinical covariates were included in the regression analyses. For each binary predictor variable, treatment times were compared between groups using the Wilcoxon rank-sum test to account for non-normal outcome distributions. Predictors that were statistically significant at the 5% level were subsequently included in the corresponding multivariable linear regression model. Sixty-five subjects were evaluated, and 52 met the inclusion criteria (mean age 23.0 (7.4) years; 25 (48.1%) females). The median duration of the total treatment was 34.66 (23.44) months, including 8.90 (14.29) from surgical readiness-to-surgery and 9.18 (8.83) months for the postsurgical orthodontic phase. Reduced total treatment time was associated with prior orthodontic treatment (16.42 months; 95% CI -24.20, -8.63, P < .001) and surgical planning initiated at treatment onset (15.38 months; 95% CI -25.40, -5.36, P = .004). Prior orthodontic treatment and earlier surgical planning were associated with shorter total COS treatment times in a university training program. By quantifying the impact of these and other clinically relevant factors, this study provides a practical framework for anticipating potential delays and identifying opportunities to improve treatment efficiency in training-based programs.",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727928/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42692048",
-      "title": "Biomechanical evaluation of the temporomandibular joint following multi-directional orthognathic surgery: a finite element analysis.",
-      "authors": [
-        "Sema Dutar Çomurlu",
-        "Ümit Ertaş",
-        "İrfan Kaymaz",
-        "Osman Yavuz"
-      ],
-      "publication_date": "2026-Sep-11",
-      "publication_date_iso": "2026-09-11",
-      "abstract": "This study investigated the biomechanical effects of multidirectional maxillary repositioning combined with mandibular advancement and rotation on temporomandibular joint (TMJ) components using patient-specific finite element analysis. Patient-specific three-dimensional models, reconstructed from the preoperative computed tomography (CT) data of six distinct patients presenting with varying dentofacial deformities, were used to generate the six virtual orthognathic surgery configurations, including isolated mandibular advancement, bimaxillary repositioning, vertical maxillary movements, and asymmetric rotational components. Under identical loading and boundary conditions, stress distributions in the condyle, articular disc, and glenoid fossa were evaluated. The results showed that isolated mandibular advancement produced higher and more asymmetric stress concentrations, whereas bimaxillary configurations resulted in lower and more homogeneous stress distribution. Vertical maxillary repositioning and rotational asymmetry increased unilateral and unbalanced joint loading. These findings suggest that bimaxillary surgical approaches may provide a more favorable biomechanical environment for the TMJ, while large mandibular advancements and rotational components should be planned cautiously because of their potential to increase postoperative joint loading.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "showed that isolated mandibular advancement produced higher and more asymmetric stress concentrations, whereas bimaxillary configurations resulted in lower and more homogeneous stress distribution. Vertical maxillary repositioning and rotational asymmetry increased unilateral and unbalanced joint loading. These findings suggest that bimaxillary surgical approaches may provide a more favorable biomechanical environment for the TMJ, while large mandibular advancements and rotational components should be planned cautiously because of their potential to increase postoperative joint loading.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42692048/",
       "pmcid": "",
       "figure_urls": []
     }
