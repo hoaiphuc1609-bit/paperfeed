@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T07:12:04Z",
+  "updated_at": "2026-09-20T07:36:58Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1246,6 +1246,68 @@
       "figure_urls": []
     },
     {
+      "pmid": "42735469",
+      "title": "Traditional, complementary, and integrative medicine therapies for mild/moderate acute COVID-19: a systematic review and network meta-analysis.",
+      "authors": [
+        "Anqi Li",
+        "Jun Ren",
+        "Gordon H Guyatt",
+        "Jason W Busse",
+        "Behnam Sadeghirad",
+        "Bhushan Patwardhan",
+        "Sarika Chaturvedi",
+        "Angela M Cheung",
+        "Long Ge",
+        "Qiukui Hao",
+        "Lehana Thabane",
+        "Sunita Vohra",
+        "Benno Brinkhaus",
+        "Derek K Chu",
+        "Claudia M Witt",
+        "Yachan Li",
+        "Geetha Krishnan",
+        "Lingjun Kong",
+        "Lisa Susan Wieland",
+        "Thomas Agoritsas",
+        "Kavita U Kothari",
+        "Myeong Soo Lee",
+        "Patrick M Okwen",
+        "Lin Ang",
+        "Zhao Zeng",
+        "Jing Gao",
+        "Shoujian Wang",
+        "Muyao Cui",
+        "Chunjuan Zhai",
+        "Luis Enrique Colunga Lozano",
+        "Fang Fang",
+        "Weiye Pan",
+        "Pengyu Yang",
+        "Chunlin Wen",
+        "Juliana Machado Rugolo",
+        "Yuehan Ren",
+        "Yu Kun Kang",
+        "Ngem Bede Yong",
+        "Min Fang",
+        "Qingyong He",
+        "Yu-Qing Zhang"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "Although the use of Traditional, Complementary, and Integrative Medicine (TCIM) interventions to treat coronavirus disease 2019 (COVID-19) is common, the effectiveness of these interventions is unclear. To compare different TCIM interventions for the treatment of mild/moderate acute COVID-19. EMBASE (Elsevier), Medline (OVID), VHL TCIM database, Cochrane Central, ClinicalTrials.gov, ICTRP, as of April 29th, 2025, as well as eight Chinese and four Korean databases. Randomized controlled trials comparing a TCIM intervention with another, the standard of care (SoC), placebo, or conventional medicine in participants with suspected, probable, or confirmed mild/moderate acute COVID-19. Reviewers worked in pairs and independently extracted data and assessed the risk of bias and rated the certainty of the evidence for each outcome. One hundred fifty-five trials evaluating 142 TCIM therapies were eligible for review, of which 69 (45%) trials enrolling 18,627 patients met criteria for analysis, contributing at least 80 participants or 20 events to one intervention. All the following estimates come from direct evidence, as networks were sparse. Compared with SoC or placebo, high to moderate certainty evidence showed that three TCIM add-on interventions probably reduced time to symptom resolution: Lianhua Qingwen (mean difference [MD] -2.82 days, 95% confidence interval -3.14 to -2.50, high certainty); Kovir capsule (MD -3.14 days, -3.67 to -2.61, moderate certainty); and honey and Nigella sativa (MD -3.00 days, -4.12 to -1.88, moderate certainty). Using conversion to severe cases as a proxy for hospitalization, Andrographis paniculata extract probably reduced hospital admission (risk difference -15 per 1000, -24.9 to 12.3, moderate certainty) for patients at moderate risk of hospitalization. No compelling evidence supports that any TCIM intervention reduced hospital admissions for patients at low or high risk of hospitalization, or reduced mortality and mechanical ventilation requirement across all patients. High to moderate certainty evidence showed that Lianhua Qingwen, Kovir capsule, COROPROTECT kit, and Shen Cao Gan Jiang likely did not increase adverse events leading to drug discontinuation; evidence for other TCIM interventions was insufficient to inform adverse events leading to discontinuation. High to moderate certainty evidence supported that Lianhua Qingwen was effective in resolving cough (MD -1.62 days, -1.80 to -1.45, high certainty) and probably effective in resolving fatigue (MD -1.41 days, -1.73 to -1.08, moderate certainty), honey and Nigella sativa was probably effective in resolving fever (MD -4.00 days, -4.72 to -3.28, moderate certainty), and Jinghua Jiedu was probably effective in resolving cough (MD -1.72 days, -2.23 to -1.21, moderate certainty). Other TCIM interventions were either ineffective, or of uncertain effectiveness. Adding Lianhua Qingwen, Kovir capsule, or honey and Nigella sativa to SoC likely reduces symptomatic duration of mild/moderate acute COVID-19. Andrographis paniculata extract probably decreases hospital admissions among patients at moderate risk of hospitalization. Replication of positive findings is warranted. PROSPERO (CRD42024517321).",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42735469/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42733610",
       "title": "Material type versus defect size in adult cranioplasty: a multi-institutional analysis of 30-day outcomes and risk prediction modeling.",
       "authors": [
@@ -1510,38 +1572,6 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42594507/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42586374",
-      "title": "Discovery of NAT-6-321056 as a novel modulator of VEGFR2 signaling to suppress tumor angiogenesis.",
-      "authors": [
-        "Xiao Lei",
-        "Wan Gong",
-        "Nadine Wiesmann-Imilowski",
-        "Chunmei Jin",
-        "Shila Prajapati",
-        "Axel Guthart",
-        "Sabine M Klauck",
-        "Mohamed Elbadawi",
-        "Letian Shan",
-        "Thomas Efferth",
-        "Xiaohua Lu"
-      ],
-      "publication_date": "2026-Nov",
-      "publication_date_iso": "2026-11-01",
-      "abstract": "Vascular endothelial growth factor receptor 2 (VEGFR2) is a master regulator of angiogenesis and cancer progression. However, current VEGFR2 modulators face significant challenges, including off-target toxicity and acquired resistance, underscoring the urgent need for novel therapeutic agents with improved efficacy and safety profiles. Here, we reported that virtual screening of 39,442 natural products from the ZINC natural products-derived library, coupled with molecular docking and molecular dynamics (MD) simulations to evaluate the binding stability of candidate compounds, identified NAT-6-321056 as a highly promising modulator of VEGFR2 signaling. Biological evaluations demonstrated that NAT-6-321056 exerted potent inhibition on the growth of a broad spectrum of cancer cells, including both solid tumors and hematological malignancies. In EA.hy 926 endothelial cells and SK-N-DZ neuroblast cells, the compound significantly suppressed proliferation, migration, and invasion. Microscale thermophoresis (MST) confirmed direct binding of NAT-6-321056 to VEGFR2 with favorable affinity. Kinase profiling against a panel of 33 kinases indicated that NAT-6-321056 exhibited a multi-kinase modulation profile. Mechanistic studies revealed that NAT-6-321056 suppressed the expression of hypoxia-inducible factor 1-alpha (HIF-1α) and was associated with reduced VEGFR2 phosphorylation and attenuation of the downstream ERK/JNK/AKT signaling pathways. Moreover, NAT-6-321056 exhibited robust in vivo anti-angiogenic effects in both the chick chorioallantoic membrane (CAM) assay and transgenic zebrafish vascular fluorescence imaging models. Computational absorption, distribution, metabolism, excretion, and toxicity (ADMET) prediction suggested acceptable drug-like properties. Collectively, these findings demonstrated that NAT-6-321056 is a promising modulator of VEGFR2 signaling with potent anti-angiogenic activity and represents a viable candidate for cancer therapy.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42586374/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2936,6 +2966,59 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41160495/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42762979",
+      "title": "Association Between the Mandibular Cortical Index on Panoramic Radiographs and Mandibular Condylar Alterations After Osteotomy.",
+      "authors": [
+        "Hiroshi Yamamoto",
+        "Hirotaka Muraoka",
+        "Mami Shimizu",
+        "Erika Iwai",
+        "Hajime Noda",
+        "Yoshimasa Ishii"
+      ],
+      "publication_date": "2026-Sep-19",
+      "publication_date_iso": "2026-09-19",
+      "abstract": "This study aimed to evaluate whether the mandibular cortical index (MCI) on panoramic radiographs is associated with condylar morphological changes following orthognathic surgery. This retrospective study enrolled patients who underwent sagittal split ramus osteotomy (SSRO) or SSRO combined with Le Fort I osteotomy at our hospital. Preoperative panoramic radiography was performed to evaluate the MCI, and pre- and postoperative condylar morphology was assessed using computed tomography (CT). The primary outcome was the presence or absence of postoperative condylar morphological changes. An expanded multivariable logistic regression model including MCI, surgical procedure, age, sex, and operative time was evaluated. Given the limited number of outcome events and the collinearity identified in the expanded model, a reduced model including MCI and surgical procedure was used as the primary multivariable model. Statistical significance was set at P < 0.05. Overall, postoperative condylar morphological changes were observed in 19 patients, while 41 patients showed no such changes. In the SSRO-alone group (n = 40), a significant association was found between MCI and postoperative condylar morphological changes (P = 0.004). Among the 20 patients who underwent SSRO combined with Le Fort I osteotomy, postoperative condylar morphological changes were observed in 10 cases and absent in 10 cases. The association between MCI and postoperative condylar morphological changes did not reach statistical significance in this subgroup (P = 0.370). In the primary multivariable model including MCI and surgical procedure, MCI was significantly associated with postoperative condylar morphological changes (OR, 6.96; 95% CI, 1.97-24.58; P = 0.003). MCI assessed on panoramic radiographs was associated with postoperative condylar morphological changes following orthognathic surgery. However, given the limited sample size and potential residual confounding, these findings should be interpreted as exploratory.",
+      "objective": "",
+      "study_methods": "This retrospective study enrolled patients who underwent sagittal split ramus osteotomy (SSRO) or SSRO combined with Le Fort I osteotomy at our hospital. Preoperative panoramic radiography was performed to evaluate the MCI, and pre- and postoperative condylar morphology was assessed using computed tomography (CT). The primary outcome was the presence or absence of postoperative condylar morphological changes. An expanded multivariable logistic regression model including MCI, surgical procedure, age, sex, and operative time was evaluated. Given the limited number of outcome events and the collinearity identified in the expanded model, a reduced model including MCI and surgical procedure was used as the primary multivariable model. Statistical significance was set at P < 0.05.",
+      "methods": "This retrospective study enrolled patients who underwent sagittal split ramus osteotomy (SSRO) or SSRO combined with Le Fort I osteotomy at our hospital. Preoperative panoramic radiography was performed to evaluate the MCI, and pre- and postoperative condylar morphology was assessed using computed tomography (CT). The primary outcome was the presence or absence of postoperative condylar morphological changes. An expanded multivariable logistic regression model including MCI, surgical procedure, age, sex, and operative time was evaluated. Given the limited number of outcome events and the collinearity identified in the expanded model, a reduced model including MCI and surgical procedure was used as the primary multivariable model. Statistical significance was set at P < 0.05.",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762979/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42762977",
+      "title": "Three-dimensional voxel-based evaluation of surgical accuracy and one-year stability after segmented Le Fort I osteotomy for anterior open bite correction.",
+      "authors": [
+        "Oliver da Costa Senior",
+        "Eman Shaheen",
+        "Reinhilde Jacobs",
+        "Constantinus Politis",
+        "Kasper Stokbro"
+      ],
+      "publication_date": "2026-Sep-19",
+      "publication_date_iso": "2026-09-19",
+      "abstract": "This two-center retrospective study evaluated the surgical accuracy and one-year stability of the anterior maxillary segment after three-piece segmented Le Fort I osteotomy for anterior open bite correction using a validated voxel-based three-dimensional assessment protocol. Patients treated between January 2016 and December 2021 were included. The anterior maxillary segment was assessed in three translational (left/right, anterior/posterior, intrusion/extrusion) and three rotational (roll, pitch, yaw) dimensions by comparing the virtual surgical plan with the early postoperative position and the early postoperative position with the one-year follow-up. Anterior open bite relapse was defined as a negative overbite, or an overbite of 0 mm without incisal contact, at one-year follow-up. Thirty-five patients (mean age 23 years; 54% female) were included. Mean absolute translational inaccuracy ranged from 0.98 to 1.39 mm and rotational inaccuracy from 1.63° to 4.41°, with the pitch dimension being most difficult to achieve and to stabilize. Anterior open bite relapse occurred in six patients (17%) and was associated with the magnitude of preoperative negative overbite, which was also the strongest predictor of postoperative overbite in exploratory regression analysis. Compared with non-relapsed patients, relapsed patients showed significantly greater extrusive and counter-clockwise pitch deviation from the virtual plan. Differences in postoperative stability between these groups were not statistically significant. Segmented Le Fort I osteotomy provided generally accurate and stable repositioning of the anterior maxillary segment, although vertical and pitch control remain clinically relevant challenges in anterior open bite correction.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762977/",
       "pmcid": "",
       "figure_urls": []
     },
