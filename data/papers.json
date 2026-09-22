@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T07:50:05Z",
+  "updated_at": "2026-09-22T07:31:57Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -1486,18 +1486,15 @@
       ]
     },
     {
-      "pmid": "42613289",
-      "title": "Corrigendum to \"Deficiency of EXT1 and FGFR3 genes promotes chondrocyte differentiation, leading to the induction of osteochondroma formation\" [Bone 192 (2025) 117370].",
+      "pmid": "42629292",
+      "title": "Letter to the Editor on \"In vivo dosimetry in head and neck cancer radiotherapy patients using an intraoral stent: prospective cohort\".",
       "authors": [
-        "Hongrong Zhang",
-        "Zhencun Tang",
-        "Shiying Shen",
-        "Lei Feng",
-        "Yunfa Qin",
-        "Liangchong Huang",
-        "Yanyan Chen",
-        "Yu Liu",
-        "Weihong Wang"
+        "Muskaan",
+        "Bhanupriya",
+        "Krupali Yogeshkumar Pandya",
+        "Ayushmaan Thakur",
+        "Komal Smriti",
+        "Srikanth Gadicherla"
       ],
       "publication_date": "2026-Nov",
       "publication_date_iso": "2026-11-01",
@@ -1511,7 +1508,59 @@
       "topics": [
         "maxillofacial surgery"
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42613289/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42629292/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42618433",
+      "title": "Letter to the Editor on \"Temporomandibular disorder and emergency department utilization: demographic, clinical, and economic perspectives from a national database\".",
+      "authors": [
+        "Umayra",
+        "Ratna Rachel Ponraj",
+        "Md Kafeel Ahmed"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42618433/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42603739",
+      "title": "Letter to the Editor on \"Could idiopathic gingival papillokeratosis represent an exaggerated form of gingival stippling?\".",
+      "authors": [
+        "Juliana Zorzi Cólete",
+        "Bruno Augusto Benevenuto de Andrade",
+        "Rafael Rodrigues Dias",
+        "Andreia Bufalino",
+        "Camila Lopes Cardoso",
+        "Jorge Esquiche León",
+        "Heitor Albergoni Silveira"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42603739/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1568,10 +1617,34 @@
       "conclusion": "",
       "limitations": "",
       "topics": [
-        "maxillofacial surgery",
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42594507/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42248703",
+      "title": "Three-dimensional evaluation of early facial edema after orthognathic surgery: a split-face comparison of two Kinesio taping techniques.",
+      "authors": [
+        "Alaz Enez",
+        "Esra Beyler",
+        "Merve Berrak Kesen",
+        "Nur Altıparmak"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "Postoperative facial edema is a predictable consequence of orthognathic surgery. This study aimed to quantitatively compare the effectiveness of supraclavicular lymphatic and epidermis-dermis-fascia (EDF) kinesiotaping (KT) techniques in reducing early facial edema following orthognathic surgery using a three-dimensional volumetric, split-face design. Conducted at Başkent University Oral and Maxillofacial Surgery Department, 15 Class III patients who underwent bimaxillary orthognathic surgery received EDF taping on one hemiface and supraclavicular lymphatic taping on the contralateral side. Three-dimensional facial models were acquired preoperatively (T0) and on postoperative days 2 (T1) and 7 (T2) via smartphone-based structured-light photogrammetry. Rigid surface registration and standardized malar-masseteric segmentation enabled volumetric computation across timepoints. Paired comparisons were used to assess early postoperative changes (T1-T0), total changes (T2-T0), and interval recovery (T2-T1). At T1, EDF taping resulted in significantly less edema than lymphatic taping did (ΔT1-T0 = -22.230 mm³; Holm-adjusted P = .020), indicating a meaningful early postoperative advantage. By T2, the volumetric reduction observed at earlier time points remained evident, indicating a sustained effect over time (ΔT2-T0 = -2.545 mm³). Although supraclavicular lymphatic KT is more commonly used in clinical practice, the present findings suggest that EDF taping provide superior modulation of facial edema following orthognathic surgery, particularly during the early recovery phase.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "ed in significantly less edema than lymphatic taping did (ΔT1-T0 = -22.230 mm³; Holm-adjusted P = .020), indicating a meaningful early postoperative advantage. By T2, the volumetric reduction observed at earlier time points remained evident, indicating a sustained effect over time (ΔT2-T0 = -2.545 mm³). Although supraclavicular lymphatic KT is more commonly used in clinical practice, the present findings suggest that EDF taping provide superior modulation of facial edema following orthognathic surgery, particularly during the early recovery phase.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42248703/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2864,6 +2937,40 @@
       "figure_urls": []
     },
     {
+      "pmid": "41733187",
+      "title": "Ameloblastoma Displays Primary Cilia Maintenance and CEP164 Overexpression.",
+      "authors": [
+        "R Miyazaki",
+        "H Kawasaki",
+        "H Kato",
+        "I Ohta",
+        "R Ishikawa",
+        "K Yoshimura",
+        "H Yamada",
+        "Y Sakai",
+        "H Suzuki",
+        "M Sugita",
+        "Y Watanabe",
+        "K Masumoto",
+        "K Shinmura"
+      ],
+      "publication_date": "2026-Oct",
+      "publication_date_iso": "2026-10-01",
+      "abstract": "Ameloblastoma (AB) is a benign yet locally aggressive odontogenic epithelial tumor, characterized by frequent recurrence and a potential for distant metastasis. The primary cilium (PC), a microtubule-based organelle that serves as a signaling hub for multiple oncogenic pathways, is typically reduced or absent in most human malignancies; however, its status in AB remains poorly defined. In this retrospective, tissue-based observational study, we investigated the presence of PC in 42 AB cases, encompassing all major histological subtypes, using immunohistochemistry, immunofluorescence, and ultrastructural techniques. As a comparator, 41 cases of oral squamous cell carcinoma (OSCC), a tumor originating from the same oral cavity region, were also analyzed. PC were consistently detected in all ABs but were absent in OSCCs. In ABs, the presence of PC was validated by multiple markers and imaging modalities. In conventional AB, the density of PC varies significantly among the histological patterns. Notably, the cilia frequently exhibited a polarized orientation in the peripheral columnar cells of the follicular subtype. PC were also present in recurrent and metastatic lesions, although their significance in disease progression remains uncertain. Elevated GLI1 mRNA expression, nuclear accumulation of GLI1, and elevated SHH mRNA and protein expression indicated the activation of the Hh signaling pathway in ABs. Transcriptomic screening of early ciliogenesis-related genes revealed selective upregulation of CEP164 in ABs but not in OSCCs or other PC-deficient carcinomas. CEP164 protein was significantly overexpressed and localized closely apposed to but only partially overlapped with γ-tubulin signals, consistent with its role at the distal appendages of the basal body. Functional analyses demonstrated that CEP164 overexpression promoted PC formation, whereas its knockdown suppressed ciliogenesis. These findings indicate that ABs uniquely preserve functional PC and implicate CEP164 as a key mediator of this phenotype, offering novel insights into AB biology and highlighting its potential as a diagnostic and therapeutic target.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41733187/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "41549683",
       "title": "Visualizing the Timeline of Care: Development of a Graphical Approach to Better Understanding Complex, Longitudinal Surgical Care of Cleft Lip/Palate.",
       "authors": [
@@ -2884,34 +2991,9 @@
       "conclusion": "Individual patient timelines can effectively depict deviation from \"ideal\" care protocols, but aggregate data may be best depicted by a ridgeplot. These tools may support quality improvement initiatives by transforming raw data into actionable insights and enhancing multidisciplinary team reflection.",
       "limitations": "",
       "topics": [
-        "oral surgery",
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41549683/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41252330",
-      "title": "Catch-Up Growth in Syndromic Robin Sequence: A Systematic Review.",
-      "authors": [
-        "Sogand Schafer",
-        "Jason Yu",
-        "John B Mulliken"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "ObjectiveThe triad of micrognathia, glossoptosis, and airway obstruction defines Robin sequence (RS). Syndromic RS accounts for about 60% of cases, but whether mandibular \"catch-up\" growth occurs in these cases remains unclear. The aim of the systematic review was to assess the current literature for evidence of catch-up growth in syndromic RS.DesignA PRISMA-guided systematic literature review was performed. PubMed was searched for studies describing cases with syndromic RS who underwent conservative (non-surgical) management.Patients, ParticipantsCase reports, case series, and chart reviews containing both the diagnosis of RS and at least one associated syndrome were included. Review articles, non-English publications, and studies lacking sufficient follow-up or clarity on mandibular morphology were excluded.Main Outcome MeasuresThe review assessed micrognathia, mandibular length, catch-up growth, and the necessity of airway enhancement.ResultsThirty-four studies met the criteria for inclusion. These studies included clinical information from a total of 202 cases and addressed 20 different syndromes. RS in the context of Stickler syndrome and 22q11.2 deletion syndrome were most frequently reported, with multiple studies suggesting potential for balanced maxillo-mandibular growth or apparent catch-up growth. However, definitive conclusions were limited by small study population, heterogeneous methodologies, and variable follow-up durations.ConclusionWhile additional data are needed, available literature suggests that certain syndromic RS groups may exhibit spontaneous mandibular growth, potentially reducing the need for invasive procedures such as distraction osteogenesis. Prospective research employing standardized cephalometric measures is necessary to identify which syndromic subpopulations and RS types benefit from conservative versus surgical management.",
-      "objective": "of the systematic review was to assess the current literature for evidence of catch-up growth in syndromic RS.DesignA PRISMA-guided systematic literature review was performed. PubMed was searched for studies describing cases with syndromic RS who underwent conservative (non-surgical) management.Patients, ParticipantsCase reports, case series, and chart reviews containing both the diagnosis of RS and at least one associated syndrome were included. Review articles, non-English publications, and studies lacking sufficient follow-up or clarity on mandibular morphology were excluded.Main Outcome MeasuresThe review assessed micrognathia, mandibular length, catch-up growth, and the necessity of airway enhancement.ResultsThirty-four studies met the criteria for inclusion. These studies included clinical information from a total of 202 cases and addressed 20 different syndromes. RS in the context of Stickler syndrome and 22q11.2 deletion syndrome were most frequently reported, with multiple studies suggesting potential for balanced maxillo-mandibular growth or apparent catch-up growth. However, definitive",
-      "study_methods": "",
-      "methods": "",
-      "results": "Thirty-four studies met the criteria for inclusion. These studies included clinical information from a total of 202 cases and addressed 20 different syndromes. RS in the context of Stickler syndrome and 22q11.2 deletion syndrome were most frequently reported, with multiple studies suggesting potential for balanced maxillo-mandibular growth or apparent catch-up growth. However, definitive",
-      "conclusion": "were limited by small study population, heterogeneous methodologies, and variable follow-up durations.ConclusionWhile additional data are needed, available literature suggests that certain syndromic RS groups may exhibit spontaneous mandibular growth, potentially reducing the need for invasive procedures such as distraction osteogenesis. Prospective research employing standardized cephalometric measures is necessary to identify which syndromic subpopulations and RS types benefit from conservative versus surgical management.",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41252330/",
       "pmcid": "",
       "figure_urls": []
     },
