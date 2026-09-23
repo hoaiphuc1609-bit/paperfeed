@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T07:31:57Z",
+  "updated_at": "2026-09-23T07:35:44Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -83,6 +83,32 @@
         "maxillofacial surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42607485/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42715751",
+      "title": "Biochar-supported copper cobalt thiospinel (Co",
+      "authors": [
+        "Lidong Xia",
+        "Xiao Feng",
+        "Xianglong Zhang",
+        "Rui Zhang",
+        "Zhongming Li"
+      ],
+      "publication_date": "2027-Jan",
+      "publication_date_iso": "2027-01-01",
+      "abstract": "Nanozymes hold immense promise for point-of-care diagnostics; however, their clinical translation is frequently hindered by the intrinsic conflict between high catalytic activity and biosafety, manifested as low atom utilization and inevitable cytotoxicity at high local dosages. Herein, we report a graphitized pine pollen biochar decorated with Co2CuS4 nanocrystals (Co2CuS4@BH) that reconciles these competing demands. By exploiting the conductive graphitic matrix of the biochar, we achieve a synergistic enhancement was achieved, boosting the specific activity per metal atom by over 60% compared with pristine Co2CuS4. The composite nanozyme exhibits robust catalytic stability across a broad range of physiological environments. Critically, this structural design simultaneously mitigates cytotoxicity (cell viability > 85% at 24 h) and hemolysis (< 2%), an effect attributed to the decentralization of Co2CuS4 crystals on the biochar surface, which reduced the localized metal loading and thereby limits the contact area between cells and nanozyme. Integration of Co2CuS4@BH with glucose oxidase, a fluorescein pH indicator, and a silk fibroin-F127 hydrogel yielded a background-independent, dual-modal colorimetric sensor. Using 34 engineered features and an XGBoost algorithm, the system predicted glucose concentration and sweat pH with accuracies of 90.5% and 89.2%, respectively, enabling real-time stratification of diabetic risk (Low, Moderate, High, Critical). This work demonstrates that biochar-supported spinel nanozymes can alleviate the classical trade-off between catalytic activity and biocompatibility, opening a new avenue for wearable early-warning diagnostic devices.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "maxillofacial surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42715751/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -1246,6 +1272,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42769501",
+      "title": "Genetic factors associated with COVID-19 severity and mortality: TYK2 and NOTCH4.",
+      "authors": [
+        "Mamoon Al-Rshaidat",
+        "Ahmad Alsayed",
+        "Omar Al-Rshaidat",
+        "Amer Imraish",
+        "Husam Abazid",
+        "Malek Zihlif"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "The clinical manifestations and outcomes of coronavirus disease (COVID-19) vary among patients. Emerging evidence indicates that host genetic factors may influence disease severity. Genome-wide association studies (GWAS) have identified several genetic loci, including TYK2 and NOTCH4, as contributors to COVID-19 pathogenesis. The present study examined the association between genetic variants of TYK2 (rs74956615) and NOTCH4 (rs3131294) and the severity and mortality of COVID-19 in a Jordanian cohort. The present study included 362 patients with COVID-19 who were admitted to a hospital in Amman, Jordan. Clinical severity was categorized according to the WHO guidelines (non-severe, severe and critical), and outcomes were classified as survivors or non-survivors. Blood samples were collected, and DNA was extracted. Genotyping of TYK2 and NOTCH4 single-nucleotide polymorphisms was performed using PCR and Sanger sequencing. The frequencies of heterozygous and variant alleles of TYK2 and NOTCH4 were significantly higher in patients with critical disease than in non-survivors (P<0.001). Logistic regression analysis revealed that individuals with heterozygous or variant alleles of NOTCH4 had 15.3 times higher odds of developing severe/critical conditions (P=0.010), while those with variant alleles of TYK2 and NOTCH4 had approximately eight times higher odds of mortality (P<0.001 for both). TYK2 and NOTCH4 variants are markedly associated with increased COVID-19 severity and mortality, indicating their potential as genetic biomarkers for risk stratification. These findings support the importance of host genetics in disease progression and may guide future personalized treatment strategies for this condition.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42769501/",
+      "pmcid": "PMC13591446",
+      "figure_urls": []
+    },
+    {
       "pmid": "42735469",
       "title": "Traditional, complementary, and integrative medicine therapies for mild/moderate acute COVID-19: a systematic review and network meta-analysis.",
       "authors": [
@@ -1513,30 +1566,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "42618433",
-      "title": "Letter to the Editor on \"Temporomandibular disorder and emergency department utilization: demographic, clinical, and economic perspectives from a national database\".",
-      "authors": [
-        "Umayra",
-        "Ratna Rachel Ponraj",
-        "Md Kafeel Ahmed"
-      ],
-      "publication_date": "2026-Nov",
-      "publication_date_iso": "2026-11-01",
-      "abstract": "",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "maxillofacial surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42618433/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "42603739",
       "title": "Letter to the Editor on \"Could idiopathic gingival papillokeratosis represent an exaggerated form of gingival stippling?\".",
       "authors": [
@@ -1620,6 +1649,30 @@
         "oral surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42594507/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42250217",
+      "title": "Sericin-based biomaterial for craniomaxillofacial regeneration: Preclinical evidence and translational potential.",
+      "authors": [
+        "Łukasz Mazurek",
+        "Marek Konop",
+        "Fernando P S Guastaldi"
+      ],
+      "publication_date": "2026-Nov",
+      "publication_date_iso": "2026-11-01",
+      "abstract": "Significant craniomaxillofacial (CMF) bone defects after trauma, tumor removal, or congenital disabilities are a major clinical challenge. Therefore, new methods are continually sought to improve treatment effectiveness. In this context, next-generation biomaterials deserve special attention. Sericin, a protein component of silk, demonstrates regenerative potential. Current evidence suggests that sericin actively stimulates osteogenesis by promoting the differentiation of osteoprogenitor cells and upregulating key markers, including Runx2, osteocalcin, and osteopontin. In addition, it exhibits a favorable biocompatibility profile and promising immunomodulatory properties. By exerting anti-inflammatory effects, sericin may promote a pro-healing polarization of M2 macrophages and reduce TNF-α expression. The antimicrobial potential of sericin-based biomaterials is also highlighted, though the evidence remains debated and further validation is needed, particularly for grafts and scaffolds used in CMF regeneration. Sericin also appears to promote angiogenesis and the organized deposition of mineralized extracellular matrix, which are crucial factors in bone regeneration. In preclinical animal models, sericin-based biomaterials have shown statistically significant improvements in the healing of calvarial, alveolar, and long bone defects. Despite these encouraging findings, the translation of sericin into clinical practice remains limited, with only two human studies available, primarily for minor applications in oral surgery. This review summarizes the current literature focusing on sericin-based biomaterials and relates the available evidence to potential applications in CMF regeneration. In a structured manner, it begins with the physical and biological properties of sericin, proceeds to cellular and tissue interactions, and presents preclinical and clinical evidence, critically evaluating the advantages and limitations.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "oral surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42250217/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -2859,33 +2912,6 @@
       "figure_urls": []
     },
     {
-      "pmid": "41845958",
-      "title": "Predictors of early and late complications after syndactyly release: a retrospective review of 684 cases.",
-      "authors": [
-        "Emily M Graham",
-        "Zoe E Belardo",
-        "John A Tipps",
-        "Benjamin Chang",
-        "Apurva S Shah",
-        "Shaun D Mendenhall"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "This study aimed to identify predictors of early and late postoperative complications following syndactyly release. We analysed a series of 684 webspace releases at a paediatric tertiary care referral centre. We hypothesized that patient demographics and presentations would resemble the findings of previous reports. In addition, we hypothesized that complete or complex syndactyly would be predictive of early and late postoperative complications regardless of other demographic and presentation factors, as compared to simple or incomplete syndactyly. Patients 0-17 years of age at presentation with congenital hand syndactyly who underwent surgical correction were included. Outcomes of interest included early (less than 30 days) postoperative complications and late (greater than 30 days) postoperative complications, including pathologic scar formation and/or web creep. In total, 684 web spaces from 318 patients were included. The average follow-up time was 2.2 years. The early 30 day complication rate was 12%, while the incidence of late postoperative complications was 26% with a web creep incidence of 8.8%. On regression analysis, complete syndactyly and bony involvement were predictors of early 30 day complications. Male sex and complete syndactyly were predictors of developing late postoperative complications. In a subgroup analysis of simple syndactyly cases, web creep and hypertrophic scarring were significantly higher in cases reconstructed with skin grafts compared to cases that utilized a graftless dorsal metacarpal VY island flap technique. While early postoperative complications are infrequent, one quarter of cases will develop a late postoperative complication. Complete syndactyly is a predictor of early and late postoperative complications. Reconstructing simple syndactyly with a graftless dorsal metacarpal VY island technique may lead to fewer postoperative complications. IV.",
-      "objective": "",
-      "study_methods": "Patients 0-17 years of age at presentation with congenital hand syndactyly who underwent surgical correction were included. Outcomes of interest included early (less than 30 days) postoperative complications and late (greater than 30 days) postoperative complications, including pathologic scar formation and/or web creep.",
-      "methods": "Patients 0-17 years of age at presentation with congenital hand syndactyly who underwent surgical correction were included. Outcomes of interest included early (less than 30 days) postoperative complications and late (greater than 30 days) postoperative complications, including pathologic scar formation and/or web creep.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41845958/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
       "pmid": "41807241",
       "title": "Orthognathic occlusal setups: a comparative analysis of in-house and industry-generated splints.",
       "authors": [
@@ -2933,40 +2959,6 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41775582/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "41733187",
-      "title": "Ameloblastoma Displays Primary Cilia Maintenance and CEP164 Overexpression.",
-      "authors": [
-        "R Miyazaki",
-        "H Kawasaki",
-        "H Kato",
-        "I Ohta",
-        "R Ishikawa",
-        "K Yoshimura",
-        "H Yamada",
-        "Y Sakai",
-        "H Suzuki",
-        "M Sugita",
-        "Y Watanabe",
-        "K Masumoto",
-        "K Shinmura"
-      ],
-      "publication_date": "2026-Oct",
-      "publication_date_iso": "2026-10-01",
-      "abstract": "Ameloblastoma (AB) is a benign yet locally aggressive odontogenic epithelial tumor, characterized by frequent recurrence and a potential for distant metastasis. The primary cilium (PC), a microtubule-based organelle that serves as a signaling hub for multiple oncogenic pathways, is typically reduced or absent in most human malignancies; however, its status in AB remains poorly defined. In this retrospective, tissue-based observational study, we investigated the presence of PC in 42 AB cases, encompassing all major histological subtypes, using immunohistochemistry, immunofluorescence, and ultrastructural techniques. As a comparator, 41 cases of oral squamous cell carcinoma (OSCC), a tumor originating from the same oral cavity region, were also analyzed. PC were consistently detected in all ABs but were absent in OSCCs. In ABs, the presence of PC was validated by multiple markers and imaging modalities. In conventional AB, the density of PC varies significantly among the histological patterns. Notably, the cilia frequently exhibited a polarized orientation in the peripheral columnar cells of the follicular subtype. PC were also present in recurrent and metastatic lesions, although their significance in disease progression remains uncertain. Elevated GLI1 mRNA expression, nuclear accumulation of GLI1, and elevated SHH mRNA and protein expression indicated the activation of the Hh signaling pathway in ABs. Transcriptomic screening of early ciliogenesis-related genes revealed selective upregulation of CEP164 in ABs but not in OSCCs or other PC-deficient carcinomas. CEP164 protein was significantly overexpressed and localized closely apposed to but only partially overlapped with γ-tubulin signals, consistent with its role at the distal appendages of the basal body. Functional analyses demonstrated that CEP164 overexpression promoted PC formation, whereas its knockdown suppressed ciliogenesis. These findings indicate that ABs uniquely preserve functional PC and implicate CEP164 as a key mediator of this phenotype, offering novel insights into AB biology and highlighting its potential as a diagnostic and therapeutic target.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "oral surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41733187/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3048,6 +3040,33 @@
         "orthognathic surgery"
       ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/41160495/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
+      "pmid": "42770515",
+      "title": "Orthognathic Surgery and Oral Health-Related Quality of Life in Skeletal Class III Non-Syndromic Patients with Cleft Lip and Palate.",
+      "authors": [
+        "Bernardo Olsson",
+        "Marina Fanderuff",
+        "Katheleen Miranda Dos Santos",
+        "Delson Joao da Costa",
+        "Aline Monise Sebastiani",
+        "Rafaela Scariot"
+      ],
+      "publication_date": "2026-Sep-22",
+      "publication_date_iso": "2026-09-22",
+      "abstract": "ObjectiveTo compare oral health-related quality of life (OHRQoL) of individuals with cleft lip and palate (CLP) and skeletal Class III malocclusion before and 6 months after orthognathic surgery.Study designLongitudinal observational study.SettingTertiary care.ParticipantsFifty-two individuals with CLP and skeletal Class III malocclusion.InterventionsOrthognathic surgery.Main outcomesChanges in OHIP-14 (oral health impact profile-14) score.ResultsAmong individuals included, 30 (58%) were female, 28 (54%) were ≤ 21 years old, 36 (69%) were \"White,\" 30 (58%) presented with facial asymmetry, and 38 (73%) had unilateral CLP. Analyses using the Wilcoxon test and the Mann-Whitney U test indicated improvement in OHRQoL. The total OHIP-14 score improved significantly (p = 0.002), along with the domains of \"psychological discomfort\" (p = 0.015), \"psychological disability\" (p = 0.002), \"social disability\" (p = 0.001), and \"participant restriction\" (p < 0.001). The term \"participant restriction\" has been used to supersede the original domain terminology \"handicap\". Exploratory within-subgroup analyses indicated reductions in OHIP-14 scores among females (p = 0.007), individuals older than 21 years (p = 0.008), self-reported \"White\" participants (p = 0.008), those with facial asymmetry (p = 0.013), and both unilateral (p = 0.034) and bilateral CLP (p = 0.024) phenotypes. However, these within-group changes are exploratory and do not establish significant differences in treatment effect between subgroups.ConclusionOrthognathic surgery improved the OHRQoL in individuals with non-syndromic CLP and skeletal Class III malocclusion. Improvements were observed in the total OHIP-14 score and in psychological, social, and participation restriction domains related to OHRQoL.",
+      "objective": "",
+      "study_methods": "",
+      "methods": "",
+      "results": "Among individuals included, 30 (58%) were female, 28 (54%) were ≤ 21 years old, 36 (69%) were \"White,\" 30 (58%) presented with facial asymmetry, and 38 (73%) had unilateral CLP. Analyses using the Wilcoxon test and the Mann-Whitney U test indicated improvement in OHRQoL. The total OHIP-14 score improved significantly (p = 0.002), along with the domains of \"psychological discomfort\" (p = 0.015), \"psychological disability\" (p = 0.002), \"social disability\" (p = 0.001), and \"participant restriction\" (p < 0.001). The term \"participant restriction\" has been used to supersede the original domain terminology \"handicap\". Exploratory within-subgroup analyses indicated reductions in OHIP-14 scores among females (p = 0.007), individuals older than 21 years (p = 0.008), self-reported \"White\" participants (p = 0.008), those with facial asymmetry (p = 0.013), and both unilateral (p = 0.034) and bilateral CLP (p = 0.024) phenotypes. However, these within-group changes are exploratory and do not establish significant differences in treatment effect between subgroups.ConclusionOrthognathic surgery improved the OHRQoL in individuals with non-syndromic CLP and skeletal Class III malocclusion. Improvements were observed in the total OHIP-14 score and in psychological, social, and participation restriction domains related to OHRQoL.",
+      "conclusion": "Orthognathic surgery improved the OHRQoL in individuals with non-syndromic CLP and skeletal Class III malocclusion. Improvements were observed in the total OHIP-14 score and in psychological, social, and participation restriction domains related to OHRQoL.",
+      "limitations": "",
+      "topics": [
+        "orthognathic surgery"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42770515/",
       "pmcid": "",
       "figure_urls": []
     },
@@ -3307,159 +3326,6 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13582356/bin/11259_2026_11527_Fig1_HTML.webp",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC13582356/bin/11259_2026_11527_Fig2_HTML.webp"
       ]
-    },
-    {
-      "pmid": "42743549",
-      "title": "Does Preoperative Supratip Soft-Tissue Thickness Predict Early Postoperative Edema Following Orthognathic Surgery? A Prospective Study Using Ultrasonography and 3-Dimensional Stereophotogrammetry.",
-      "authors": [
-        "Selin Çelebi",
-        "Canay Yılmaz Asan",
-        "Ahmet E Demirbaş"
-      ],
-      "publication_date": "2026-Sep-15",
-      "publication_date_iso": "2026-09-15",
-      "abstract": "Postoperative facial edema remains one of the most common early sequelae of orthognathic surgery, yet the contribution of intrinsic soft-tissue characteristics to postoperative swelling remains poorly understood. To our knowledge, this is the first prospective study to evaluate whether preoperative supratip soft-tissue thickness independently predicts early postoperative facial edema using high-resolution ultrasonography and longitudinal 3-dimensional stereophotogrammetry. To determine the independent effects of preoperative supratip soft-tissue thickness and surgical technique on early postoperative facial edema following orthognathic surgery. This prospective, randomized, double-blind clinical study included 48 patients undergoing bimaxillary orthognathic surgery at a single tertiary referral center. Patients underwent either subspinal Le Fort I osteotomy (SLFI; n=22) or conventional Le Fort I osteotomy (CLFI; n=26). Preoperative supratip soft-tissue thickness was measured using high-resolution ultrasonography, whereas postoperative facial edema was serially quantified by 3-dimensional stereophotogrammetry. Multivariable linear regression with heteroscedasticity-consistent robust standard errors was performed to identify independent predictors of postoperative edema. Patients treated with the SLFI exhibited significantly less postoperative edema than those treated with the CLFI throughout the early postoperative period, with the greatest between-group difference observed at peak swelling. Multivariable regression identified surgical technique as the sole independent predictor of postoperative edema. In contrast, preoperative supratip soft-tissue thickness was not independently associated with postoperative swelling after adjustment for age, sex, and body mass index and showed no significant predictive value at any postoperative time point. Despite accurate preoperative quantification, supratip soft-tissue thickness was not an independent predictor of early postoperative facial edema. In contrast, surgical technique emerged as the principal independent predictor of postoperative swelling, suggesting that preservation-oriented approaches such as subspinal Le Fort I osteotomy may facilitate improved early soft-tissue recovery.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42743549/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42743540",
-      "title": "The Current Status, Prognosis, and Influencing Factors of Emergency Surgery in Patients With Facial Trauma in Intoxicated State.",
-      "authors": [
-        "Yu Zhang",
-        "Zhe Zhang",
-        "Yinke Tang",
-        "Feifei Chu",
-        "Jianke Ding",
-        "Xianjie Ma",
-        "Baoqiang Song"
-      ],
-      "publication_date": "2026-Sep-15",
-      "publication_date_iso": "2026-09-15",
-      "abstract": "Acute alcohol intoxication is linked to poor trauma outcomes, but its specific impact on emergency facial trauma surgery and the role of alcohol ingestion-surgery interval remain unclear. This study aimed to address these gaps. A retrospective study was conducted from December 2024 to July 2025, enrolling 84 patients requiring emergency surgery for facial trauma. Patients were divided into an observation group (n=42, intoxicated at admission) and a control group (n=42, nonintoxicated). Data on demographics, alcohol use, trauma details, surgical parameters [eg, Maxillofacial Injury Severity Score (MFISS), cooperation, duration, blood loss], and postoperative outcomes (early complications, wound healing, scar assessment at 6 mo) were collected. The observation group was further stratified by the interval from drinking to surgery (0-6, 6-12, and 12-24 h) for subgroup analysis. Intoxicated patients had significantly higher MFISS scores, poorer intraoperative cooperation, longer operation times, and greater blood loss compared with controls (all P<0.05). The overall incidence of early complications (erythema and infection) was significantly higher in the observation group (23.81% versus 7.14%, P=0.034). Subgroup analysis revealed that patients undergoing surgery within 6 hours of alcohol ingestion had the highest complication rate (57.14%), significantly higher than the 6 to 12 hours subgroup (16.13%, P<0.05), with no complications in the 12 to 24 hours subgroup. No significant intergroup differences were found in final wound healing grade, suture removal time, or 6-month Vancouver Scar Scale scores. Acute alcohol intoxication adversely affects emergency facial trauma surgery, especially if surgery is within 6 hours of ingestion. For stable patients, delaying surgery to ≥6 hours post-ingestion and preoperative alcohol screening are recommended.",
-      "objective": "",
-      "study_methods": "A retrospective study was conducted from December 2024 to July 2025, enrolling 84 patients requiring emergency surgery for facial trauma. Patients were divided into an observation group (n=42, intoxicated at admission) and a control group (n=42, nonintoxicated). Data on demographics, alcohol use, trauma details, surgical parameters [eg, Maxillofacial Injury Severity Score (MFISS), cooperation, duration, blood loss], and postoperative outcomes (early complications, wound healing, scar assessment at 6 mo) were collected. The observation group was further stratified by the interval from drinking to surgery (0-6, 6-12, and 12-24 h) for subgroup analysis.",
-      "methods": "A retrospective study was conducted from December 2024 to July 2025, enrolling 84 patients requiring emergency surgery for facial trauma. Patients were divided into an observation group (n=42, intoxicated at admission) and a control group (n=42, nonintoxicated). Data on demographics, alcohol use, trauma details, surgical parameters [eg, Maxillofacial Injury Severity Score (MFISS), cooperation, duration, blood loss], and postoperative outcomes (early complications, wound healing, scar assessment at 6 mo) were collected. The observation group was further stratified by the interval from drinking to surgery (0-6, 6-12, and 12-24 h) for subgroup analysis.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42743540/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42743536",
-      "title": "Evaluation of Locked Plates Versus 3-Dimensional Plates for Fixation of Mandibular Angle Fractures: A Clinical and Radiologic Study.",
-      "authors": [
-        "Mohamed Ahmed Elsaaty",
-        "Ashraf AbdelFattah Mahmoud",
-        "AbdelAziz Baiomy Abdullah",
-        "Mohamed Ashraf Mahmoud"
-      ],
-      "publication_date": "2026-Sep-15",
-      "publication_date_iso": "2026-09-15",
-      "abstract": "Mandibular fractures are among the most prevalent forms of facial trauma, with the angle region being particularly susceptible to them as a result of its anatomic fragility and exposure to masticatory forces. The purpose of this study was to evaluate the efficacy and postoperative complications of 2.00 mm unicortical fixed plates and 3-dimensional plates in the surgical correction of displaced mandibular angle fractures. This is a prospective, randomized clinical study included 20 patients of both sexes, divided randomly into 2 groups according to the technique of fixation. Group I: patients were treated using a non-compression monocortical 2 mm 3D miniplate and group II: patients were treated using a non-compression monocortical 2 mm locked miniplate. Postoperative radiography was taken for each patient on the 2nd, 3rd, and 6th months. The status was assessed using a score from 1 to 3. Score I showed poorly reduced fractures that had required a second operation to correct poor alignment and unacceptable occlusion. Score II showed reduced fractures that were slightly displaced but had a satisfactory occlusion. Score III showed radiologic evidence of precise anatomic reduction at the fracture site. All patients had shown radiographic score I preoperatively, whereas all patients at 1 week, 3 months, and 6 months had shown radiographic score 3, revealing properly reduced fracture bony segments and a properly aligned inferior border without step deformity at different appointments. Both the 3D miniplate and secured plate systems were used to successfully stabilize the fracture fragments after the mandibular angle fractures fixation.",
-      "objective": "of this study was to evaluate the efficacy and postoperative complications of 2.00 mm unicortical fixed plates and 3-dimensional plates in the surgical correction of displaced mandibular angle fractures. This is a prospective, randomized clinical study included 20 patients of both sexes, divided randomly into 2 groups according to the technique of fixation. Group I: patients were treated using a non-compression monocortical 2 mm 3D miniplate and group II: patients were treated using a non-compression monocortical 2 mm locked miniplate. Postoperative radiography was taken for each patient on the 2nd, 3rd, and 6th months. The status was assessed using a score from 1 to 3. Score I showed poorly reduced fractures that had required a second operation to correct poor alignment and unacceptable occlusion. Score II showed reduced fractures that were slightly displaced but had a satisfactory occlusion. Score III showed radiologic evidence of precise anatomic reduction at the fracture site. All patients had shown radiographic score I preoperatively, whereas all patients at 1 week, 3 months, and 6 months had shown radiographic score 3, revealing properly reduced fracture bony segments and a properly aligned inferior border without step deformity at different appointments. Both the 3D miniplate and secured plate systems were used to successfully stabilize the fracture fragments after the mandibular angle fractures fixation.",
-      "study_methods": "This is a prospective, randomized clinical study included 20 patients of both sexes, divided randomly into 2 groups according to the technique of fixation. Group I: patients were treated using a non-compression monocortical 2 mm 3D miniplate and group II: patients were treated using a non-compression monocortical 2 mm locked miniplate.",
-      "methods": "This is a prospective, randomized clinical study included 20 patients of both sexes, divided randomly into 2 groups according to the technique of fixation. Group I: patients were treated using a non-compression monocortical 2 mm 3D miniplate and group II: patients were treated using a non-compression monocortical 2 mm locked miniplate.",
-      "results": "of its anatomic fragility and exposure to masticatory forces. The purpose of this study was to evaluate the efficacy and postoperative complications of 2.00 mm unicortical fixed plates and 3-dimensional plates in the surgical correction of displaced mandibular angle fractures. This is a prospective, randomized clinical study included 20 patients of both sexes, divided randomly into 2 groups according to the technique of fixation. Group I: patients were treated using a non-compression monocortical 2 mm 3D miniplate and group II: patients were treated using a non-compression monocortical 2 mm locked miniplate. Postoperative radiography was taken for each patient on the 2nd, 3rd, and 6th months. The status was assessed using a score from 1 to 3. Score I showed poorly reduced fractures that had required a second operation to correct poor alignment and unacceptable occlusion. Score II showed reduced fractures that were slightly displaced but had a satisfactory occlusion. Score III showed radiologic evidence of precise anatomic reduction at the fracture site. All patients had shown radiographic score I preoperatively, whereas all patients at 1 week, 3 months, and 6 months had shown radiographic score 3, revealing properly reduced fracture bony segments and a properly aligned inferior border without step deformity at different appointments. Both the 3D miniplate and secured plate systems were used to successfully stabilize the fracture fragments after the mandibular angle fractures fixation.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42743536/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42743534",
-      "title": "Secondary CT Signs of Occult Craniofacial Fractures in Patients With Head and Facial Trauma.",
-      "authors": [
-        "Haochen Liu",
-        "Chongchang Rao"
-      ],
-      "publication_date": "2026-Sep-15",
-      "publication_date_iso": "2026-09-15",
-      "abstract": "To characterize secondary CT signs, anatomic distribution, diagnostic delay, and clinical consequences among patients with head and facial trauma who had subsequently confirmed occult craniofacial fractures on CT imaging. A retrospective data set was generated for 80 eligible cases, covering December 2022 through December 2025. Eligible CT examinations were initial head, facial, or maxillofacial trauma CT scans in which no definite fracture was reported initially or the fracture was visible only through subtle secondary signs, followed by confirmation on subspecialty re-review, thin-section multiplanar reconstruction, cone-beam CT, follow-up CT, or intraoperative correlation. Variables included demographic factors, trauma mechanism, fracture site, secondary CT sign, acquisition and reconstruction features, artifacts, confirmation method, time to detection, and whether diagnosis changed management. Proportions were summarized with Wilson 95% CIs. Skewed time intervals were summarized as medians with IQRs. Associations with clinically significant management change were explored with univariate odds ratios and a parsimonious logistic model. The most common sites were the mandibular condyle (17/80) and the nasal bone (16/80). Management changed in 30/80 cases (37.5%; 95% CI: 27.7-48.5). Median time to detection was 24 hours (IQR=10-37). Univariate analysis showed higher odds of management change with axial-only reconstruction, moderate motion artifact, and delayed detection of 24 hours or longer; the multivariable model showed directionally similar but imprecise estimates. Occult craniofacial fractures on CT clustered in thin cortical and complex multiplanar regions. Secondary signs such as sinus fluid, orbital emphysema, fat stranding, periodontal air, and joint-space asymmetry were central to recognition. Systematic thin-section multiplanar review may reduce delayed diagnosis and improve clinically relevant triage.",
-      "objective": "",
-      "study_methods": "A retrospective data set was generated for 80 eligible cases, covering December 2022 through December 2025. Eligible CT examinations were initial head, facial, or maxillofacial trauma CT scans in which no definite fracture was reported initially or the fracture was visible only through subtle secondary signs, followed by confirmation on subspecialty re-review, thin-section multiplanar reconstruction, cone-beam CT, follow-up CT, or intraoperative correlation. Variables included demographic factors, trauma mechanism, fracture site, secondary CT sign, acquisition and reconstruction features, artifacts, confirmation method, time to detection, and whether diagnosis changed management. Proportions were summarized with Wilson 95% CIs. Skewed time intervals were summarized as medians with IQRs. Associations with clinically significant management change were explored with univariate odds ratios and a parsimonious logistic model.",
-      "methods": "A retrospective data set was generated for 80 eligible cases, covering December 2022 through December 2025. Eligible CT examinations were initial head, facial, or maxillofacial trauma CT scans in which no definite fracture was reported initially or the fracture was visible only through subtle secondary signs, followed by confirmation on subspecialty re-review, thin-section multiplanar reconstruction, cone-beam CT, follow-up CT, or intraoperative correlation. Variables included demographic factors, trauma mechanism, fracture site, secondary CT sign, acquisition and reconstruction features, artifacts, confirmation method, time to detection, and whether diagnosis changed management. Proportions were summarized with Wilson 95% CIs. Skewed time intervals were summarized as medians with IQRs. Associations with clinically significant management change were explored with univariate odds ratios and a parsimonious logistic model.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42743534/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42742752",
-      "title": "Assessment of temporomandibular joint space changes after orthognathic surgery in skeletal malocclusion patients: a systematic review.",
-      "authors": [
-        "Minakshi Tibrewal",
-        "Dhruv Ahuja",
-        "Puneet Batra",
-        "Sana Bint Aziz",
-        "Ashish Kumar Singh"
-      ],
-      "publication_date": "2026-Sep-15",
-      "publication_date_iso": "2026-09-15",
-      "abstract": "To interpret postoperative changes in temporomandibular joint (TMJ) joint space dimensions and condylar position following orthognathic surgery in patients with skeletal malocclusions, and to determine whether reported alterations represent clinically meaningful displacement or physiological adaptive remodeling. A comprehensive search of PubMed, SCOPUS, Web of Science, EBSCOhost, and Cochrane Library was performed to assess pre- and postoperative TMJ changes using three-dimensional imaging. Joint spaces including anterior (AJS), superior (SJS), and posterior (PJS) and condylar morphology were evaluated. Methodological quality was appraised using the Joanna Briggs Institute (JBI) checklist. Due to methodological and clinical heterogeneity, findings were synthesized narratively with attention to malocclusion type and surgical movement. A total of 16 studies consisting 628 patients undergoing BSSO, Le Fort I osteotomy, vertical ramus osteotomy, or bimaxillary surgery were included. Most studies reported minor, adaptive postoperative changes in AJS, SJS, and PJS. Class II patients showed more consistent increases in AJS/SJS, whereas Class III patients demonstrated variable posterior or anterior remodelling depending on surgical movement. Volumetric analyses revealed region-specific adaptations without significant condylar displacement. Postoperative temporomandibular disorder symptoms were infrequent, and no consistent evidence supported detrimental TMJ effects attributable to surgery. Postoperative TMJ joint space changes after orthognathic surgery primarily represent physiological adaptive remodeling rather than pathological condylar displacement, with reported variability driven by malocclusion type, surgical movement, fixation method, and imaging protocol. Recognizing these predictable patterns is essential to prevent overinterpretation of postoperative imaging and to improve clinical assessment through standardized three-dimensional and long-term evaluation strategies.",
-      "objective": "",
-      "study_methods": "A comprehensive search of PubMed, SCOPUS, Web of Science, EBSCOhost, and Cochrane Library was performed to assess pre- and postoperative TMJ changes using three-dimensional imaging. Joint spaces including anterior (AJS), superior (SJS), and posterior (PJS) and condylar morphology were evaluated. Methodological quality was appraised using the Joanna Briggs Institute (JBI) checklist. Due to methodological and clinical heterogeneity, findings were synthesized narratively with attention to malocclusion type and surgical movement.",
-      "methods": "A comprehensive search of PubMed, SCOPUS, Web of Science, EBSCOhost, and Cochrane Library was performed to assess pre- and postoperative TMJ changes using three-dimensional imaging. Joint spaces including anterior (AJS), superior (SJS), and posterior (PJS) and condylar morphology were evaluated. Methodological quality was appraised using the Joanna Briggs Institute (JBI) checklist. Due to methodological and clinical heterogeneity, findings were synthesized narratively with attention to malocclusion type and surgical movement.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742752/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42742101",
-      "title": "Modified lip repositioning to correct gummy smile: 8-year follow-up of identical twins.",
-      "authors": [
-        "Minki Kim",
-        "Joseph Samona",
-        "Joshua Graham",
-        "Maria Latorre Sanchez",
-        "Anthony L Neely",
-        "Bassam M Kinaia"
-      ],
-      "publication_date": "2026-Sep-15",
-      "publication_date_iso": "2026-09-15",
-      "abstract": "Excessive gingival display (EGD) is an esthetic concern resulting in a gummy smile. EGD affects patients' self-confidence with negative emotional and psychosocial impact. The amount of gingival display is affected by different etiologies, including skeletal, muscular, or dento-alveolar factors. The treatment generally addresses the etiology and includes surgical lip repositioning (LRP), esthetic crown lengthening, or orthognathic surgery. Modified LRP (mLRP) reduces gingival display with less morbidity compared to orthognathic surgery. The current report highlights an 8-year follow-up of identical 27-year-old twin sisters with EGD. The follow-up showed partial relapse in the original LRP and was retreated using mLRP. Therefore, the twins were retreated using mLRP, which had a lower rate of recurrence and higher patient satisfaction. Both patients demonstrated normal healing with a balanced dynamic smile and stable upper-lip position without EGD. mLRP provided esthetic results with reduction in gummy smiles. Lip repositioning (LRP) surgery is a less invasive alternative to orthognathic surgery in treating gummy smile patients. Modified LRP may work better long-term than the original approach in treating relapses. This case report discusses treatment for a gummy smile that can affect patients' confidence by compromising their smile. Identical twin sisters who originally had lip repositioning (LRP) surgery to reduce a gummy smile experienced a relapse after 8 years. The relapse was treated with modified LRP surgery, which shows greater stability and less relapse in reducing the gummy smile compared to conventional LRP surgery. The modified approach significantly reduced the amount of gum display in both sisters and stayed stable through 18 months of follow-up.",
-      "objective": "",
-      "study_methods": "The current report highlights an 8-year follow-up of identical 27-year-old twin sisters with EGD. The follow-up showed partial relapse in the original LRP and was retreated using mLRP. Therefore, the twins were retreated using mLRP, which had a lower rate of recurrence and higher patient satisfaction.",
-      "methods": "The current report highlights an 8-year follow-up of identical 27-year-old twin sisters with EGD. The follow-up showed partial relapse in the original LRP and was retreated using mLRP. Therefore, the twins were retreated using mLRP, which had a lower rate of recurrence and higher patient satisfaction.",
-      "results": "ing in a gummy smile. EGD affects patients' self-confidence with negative emotional and psychosocial impact. The amount of gingival display is affected by different etiologies, including skeletal, muscular, or dento-alveolar factors. The treatment generally addresses the etiology and includes surgical lip repositioning (LRP), esthetic crown lengthening, or orthognathic surgery. Modified LRP (mLRP) reduces gingival display with less morbidity compared to orthognathic surgery. The current report highlights an 8-year follow-up of identical 27-year-old twin sisters with EGD. The follow-up showed partial relapse in the original LRP and was retreated using mLRP. Therefore, the twins were retreated using mLRP, which had a lower rate of recurrence and higher patient satisfaction. Both patients demonstrated normal healing with a balanced dynamic smile and stable upper-lip position without EGD. mLRP provided esthetic results with reduction in gummy smiles. Lip repositioning (LRP) surgery is a less invasive alternative to orthognathic surgery in treating gummy smile patients. Modified LRP may work better long-term than the original approach in treating relapses. This case report discusses treatment for a gummy smile that can affect patients' confidence by compromising their smile. Identical twin sisters who originally had lip repositioning (LRP) surgery to reduce a gummy smile experienced a relapse after 8 years. The relapse was treated with modified LRP surgery, which shows greater stability and less relapse in reducing the gummy smile compared to conventional LRP surgery. The modified approach significantly reduced the amount of gum display in both sisters and stayed stable through 18 months of follow-up.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742101/",
-      "pmcid": "",
-      "figure_urls": []
     }
   ]
 }
