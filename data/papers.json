@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T07:35:44Z",
+  "updated_at": "2026-09-24T07:28:13Z",
   "topics": [
     "maxillofacial surgery",
     "oral surgery",
@@ -3044,6 +3044,33 @@
       "figure_urls": []
     },
     {
+      "pmid": "42776195",
+      "title": "Upfront radiotherapy as part of the multimodal treatment of intravascular papillary endothelial hyperplasia (Masson's tumor) of the neurocranium-a case report and review of the literature.",
+      "authors": [
+        "Niklas Benedikt Pepper",
+        "David Rene Steike",
+        "Dorothee-Cäcilia Spille",
+        "Enrico Küllenberg",
+        "Walter Stummer",
+        "Hans Theodor Eich"
+      ],
+      "publication_date": "2026-Sep-23",
+      "publication_date_iso": "2026-09-23",
+      "abstract": "Intravascular papillary endothelial hyperplasia (IPEH, \"Masson's tumor\") is a rare benign tumor of vascular origin. It may occur at various anatomical sites and is often preceded by local stress conditions such as trauma or even stereotactic radiotherapy. The treatment normally requires surgical resection, as tumors are able to grow rapidly and cause symptoms that can limit activities of daily life. We present the case of a 77-year-old woman developing IPEH in the left supraorbital skull after facial trauma, leading to rapid mutilating tumor growth and causing loss of functionality of the left eye. Since a surgical approach was initially not possible due to the bleeding risk, local radiotherapy was applied. Because radiotherapy can also be a cause of IPEH, we discuss its use as part of a multimodal treatment strategy based on the available literature. Evidence regarding the optimal treatment of IPEH is limited. Several case reports link its appearance to prior stereotactic radiotherapy. In our case, the application of normofractionated radiotherapy resulted in a stop of tumor growth. After additional necrosectomy, the patient regained functionality of her left eye and was less limited in everyday activities. While stereotactic radiotherapy has been linked to the development of IPEH in selected reports, normofractionated radiotherapy achieved meaningful local control in this case and facilitated further surgical treatment.",
+      "objective": "",
+      "study_methods": "We present the case of a 77-year-old woman developing IPEH in the left supraorbital skull after facial trauma, leading to rapid mutilating tumor growth and causing loss of functionality of the left eye. Since a surgical approach was initially not possible due to the bleeding risk, local radiotherapy was applied. Because radiotherapy can also be a cause of IPEH, we discuss its use as part of a multimodal treatment strategy based on the available literature.",
+      "methods": "We present the case of a 77-year-old woman developing IPEH in the left supraorbital skull after facial trauma, leading to rapid mutilating tumor growth and causing loss of functionality of the left eye. Since a surgical approach was initially not possible due to the bleeding risk, local radiotherapy was applied. Because radiotherapy can also be a cause of IPEH, we discuss its use as part of a multimodal treatment strategy based on the available literature.",
+      "results": "ed in a stop of tumor growth. After additional necrosectomy, the patient regained functionality of her left eye and was less limited in everyday activities. While stereotactic radiotherapy has been linked to the development of IPEH in selected reports, normofractionated radiotherapy achieved meaningful local control in this case and facilitated further surgical treatment.",
+      "conclusion": "",
+      "limitations": "",
+      "topics": [
+        "facial trauma"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42776195/",
+      "pmcid": "",
+      "figure_urls": []
+    },
+    {
       "pmid": "42770515",
       "title": "Orthognathic Surgery and Oral Health-Related Quality of Life in Skeletal Class III Non-Syndromic Patients with Cleft Lip and Palate.",
       "authors": [
@@ -3241,91 +3268,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42750642/",
       "pmcid": "",
       "figure_urls": []
-    },
-    {
-      "pmid": "42749522",
-      "title": "Surgical cutting and repositioning guides for minimally invasive orthognathic surgery: a retrospective comparative cohort study of bilateral sagittal split osteotomy.",
-      "authors": [
-        "G R De Fazio",
-        "A Diez-Fraile",
-        "T Faro",
-        "G Dell'Aversana Orabona",
-        "G R J Swennen"
-      ],
-      "publication_date": "2026-Sep-16",
-      "publication_date_iso": "2026-09-16",
-      "abstract": "Customized surgical guides may improve the accuracy of minimally invasive orthognathic surgery, particularly in facilitating the transfer of three-dimensional virtual surgical planning (3D-VSP) to the operative setting. This retrospective comparative cohort study included patients undergoing bimaxillary surgery with simultaneous genioplasty. Fifty consecutive patients were assessed for eligibility during the study period between January and July 2024. Fourteen were excluded (seven initial implementation phase; seven class III deformity), leaving 36 patients for final analysis. Patients were chronologically allocated into a control group (pre-implementation) and a study group (post-implementation). Intraoperative cone-beam computed tomography (CBCT) with cranial-base superimposition was used to assess surgical accuracy. The primary outcome was skeletal movement accuracy, defined as the discrepancy between planned 3D-VSP and intraoperative outcomes, assessed by superimposition of VSP and CBCT datasets. Secondary outcomes included translational and rotational deviations, landmark-specific discrepancies (mm) at the mandibular B-point, gonion, and ramus, and corticotomy angle deviation (degrees) to evaluate osteotomy accuracy. The guide-assisted group demonstrated significantly improved B-point accuracy (P = 0.001) and corticotomy angle precision (P = 0.012). Threshold-based accuracy outcomes also favored the guide-assisted group, while operative time did not differ significantly between groups. No predefined intraoperative complications were observed in either group. In-house customized surgical guides improved the intraoperative transfer accuracy of 3D-VSP in minimally invasive bilateral sagittal split osteotomy without increasing operative time.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "orthognathic surgery"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42749522/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42747898",
-      "title": "Clinical and Radiologic Predictors of Surgical Intervention in Adult Maxillofacial Trauma Patients Presenting to the Emergency Department.",
-      "authors": [
-        "Murat Muratoglu",
-        "Damla Gencel",
-        "Busra Bulut",
-        "Suleyman Savran",
-        "Deniz Kalemci",
-        "Çağri A Uysal"
-      ],
-      "publication_date": "2026-Sep-16",
-      "publication_date_iso": "2026-09-16",
-      "abstract": "Maxillofacial trauma may be managed either conservatively or surgically. This study aimed to identify the clinical and radiologic factors associated with operative management in adult patients and to propose a practical, emergency department-based treatment approach. This retrospective cohort study included adult patients who presented with head and facial trauma between March 1, 2021, and March 1, 2026. Patients aged 18 years or older who had clinical findings suggestive of maxillofacial injury and who underwent maxillofacial computed tomography (CT) were included. Demographic data, trauma mechanism, Glasgow Coma Scale (GCS) score, forensic status, CT findings, consultation, hospitalization, mortality, and treatment were recorded. Patients were divided into operative and nonoperative groups. Descriptive statistics, between-group comparisons, and multivariable logistic regression were performed. A total of 855 patients were included. The mean age was 59.06±22.38 years, and 499 patients (58.4%) were female. Falls were the most common mechanism of injury (74.15%). Surgery was performed in 32 patients (3.74%). Compared with nonoperatively managed patients, those who underwent surgery were younger, more frequently male, had lower GCS scores, and were more often forensic cases. A radiologically confirmed fracture was the strongest independent factor associated with surgery [odds ratio (OR)=11.29; P=0.001], together with forensic status and a lower GCS score. Among patients with radiologically confirmed facial fractures, mandibular, orbital, and nasal fractures were each independently associated with surgery (OR=44.70, 6.54, and 4.44, respectively; all P≤0.004). Most adult patients with maxillofacial trauma were managed nonoperatively. A radiologically confirmed fracture, forensic status, a lower GCS score, and specific fracture locations-mandibular, orbital, and nasal-may help guide early surgical evaluation and support a simple, practical treatment algorithm.",
-      "objective": "",
-      "study_methods": "This retrospective cohort study included adult patients who presented with head and facial trauma between March 1, 2021, and March 1, 2026. Patients aged 18 years or older who had clinical findings suggestive of maxillofacial injury and who underwent maxillofacial computed tomography (CT) were included. Demographic data, trauma mechanism, Glasgow Coma Scale (GCS) score, forensic status, CT findings, consultation, hospitalization, mortality, and treatment were recorded. Patients were divided into operative and nonoperative groups. Descriptive statistics, between-group comparisons, and multivariable logistic regression were performed.",
-      "methods": "This retrospective cohort study included adult patients who presented with head and facial trauma between March 1, 2021, and March 1, 2026. Patients aged 18 years or older who had clinical findings suggestive of maxillofacial injury and who underwent maxillofacial computed tomography (CT) were included. Demographic data, trauma mechanism, Glasgow Coma Scale (GCS) score, forensic status, CT findings, consultation, hospitalization, mortality, and treatment were recorded. Patients were divided into operative and nonoperative groups. Descriptive statistics, between-group comparisons, and multivariable logistic regression were performed.",
-      "results": "",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747898/",
-      "pmcid": "",
-      "figure_urls": []
-    },
-    {
-      "pmid": "42747700",
-      "title": "Modified technique for resection of the alar folds to nasal paralysis in a mule: Case report.",
-      "authors": [
-        "Marcos Jun Watanabe",
-        "Juliana de Moura Alonso",
-        "Pyetra Ieger Perandré",
-        "Heitor Cestari",
-        "Vitória Fabbrocini Gonçalves",
-        "Lorena Cardozo Ferrari",
-        "Ana Liz Garcia Alves",
-        "Carlos Alberto Hussni"
-      ],
-      "publication_date": "2026-Sep-16",
-      "publication_date_iso": "2026-09-16",
-      "abstract": "Equids are obligate nasal breathers. Therefore, conditions that obstruct or impair this respiratory route can compromise animal welfare by causing severe respiratory distress, while also impacting athletic potential. Nasal paralysis results from injury to the facial nerve and its branches and is characterized by the lack of movement of the alar cartilage, leading to nasal collapse. Its occurrence is uncommon in horses and has not been previously reported in mules. This report describes a 9-month-old mule presented with a history of facial trauma and compression caused by a halter. After unsuccessful anti-inflammatory therapy and temporary retention sutures, resection of the alar cartilage was elected. The procedure was performed under general anesthesia with the patient positioned in sternal recumbency. Traction was applied to the apex of the alar cartilage lamina, followed by an elliptical skin incision. Upon exposure, the alar cartilage was resected, and the skin was closed using a simple continuous suture pattern. The patient showed satisfactory recovery, with maintenance of airway patency. Two months postoperatively, the animal remained stable with no signs of nasal collapse. The investigation of therapeutic options and the description of surgical alternatives for correcting nasal collapse are fundamental, as nasal paralysis, although uncommon, can lead to severe dyspnea, result in nasal collapse, and compromise both animal welfare and athletic performance.",
-      "objective": "",
-      "study_methods": "",
-      "methods": "",
-      "results": "from injury to the facial nerve and its branches and is characterized by the lack of movement of the alar cartilage, leading to nasal collapse. Its occurrence is uncommon in horses and has not been previously reported in mules. This report describes a 9-month-old mule presented with a history of facial trauma and compression caused by a halter. After unsuccessful anti-inflammatory therapy and temporary retention sutures, resection of the alar cartilage was elected. The procedure was performed under general anesthesia with the patient positioned in sternal recumbency. Traction was applied to the apex of the alar cartilage lamina, followed by an elliptical skin incision. Upon exposure, the alar cartilage was resected, and the skin was closed using a simple continuous suture pattern. The patient showed satisfactory recovery, with maintenance of airway patency. Two months postoperatively, the animal remained stable with no signs of nasal collapse. The investigation of therapeutic options and the description of surgical alternatives for correcting nasal collapse are fundamental, as nasal paralysis, although uncommon, can lead to severe dyspnea, result in nasal collapse, and compromise both animal welfare and athletic performance.",
-      "conclusion": "",
-      "limitations": "",
-      "topics": [
-        "facial trauma"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747700/",
-      "pmcid": "PMC13582356",
-      "figure_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13582356/bin/11259_2026_11527_Fig1_HTML.webp",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13582356/bin/11259_2026_11527_Fig2_HTML.webp"
-      ]
     }
   ]
 }
